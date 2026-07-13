@@ -1,0 +1,592 @@
+Title: SENATE BILL 1861 By: Murdock
+Official Title: SENATE BILL 1861 By: Murdock
+Number of Sections: 15
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+AS INTRODUCED
+5
+6
+An Act relating to railroads; defining terms;
+6
+providing for incorporation of certain systems at
+7
+certain railroad crossings; directing the Corporation
+7
+Commission and Department of Transportation to
+8
+develop certain standards; requiring submission of
+8
+certain report by certain date; making certain
+9
+appropriation; providing for codification; and
+9
+providing an effective date.
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 86.1 of Title 17, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+A. As used in this section:
+16
+17
+
+Section 3:
+1. “Advanced detection and monitoring system” means any system
+17
+18
+capable of detecting and classifying objects such as pedestrians and
+18
+19
+vehicles at railroad crossings, using technologies such as light
+19
+20
+detection and ranging sensors, thermal sensors, and high-resolution
+20
+21
+cameras, in conjunction with artificial intelligence or machine
+21
+22
+learning;
+22
+23
+23
+24
+24
+Req. No. 3370 Page 1
+1
+
+Section 4:
+2. “Hazard assessment” means the process of analyzing detected
+1
+2
+objects to determine whether a safety risk exists based on
+2
+3
+predefined criteria; and
+3
+4
+
+Section 5:
+3. “Real-time alerts” means automated notifications generated
+4
+5
+to warn train crews, operations centers, or other stakeholders of
+5
+6
+safety hazards.
+6
+7
+B. The Corporation Commission and the Department of
+7
+8
+Transportation shall identify a number of extra hazardous crossings,
+8
+9
+as provided for in Section 86 of Title 17 of the Oklahoma Statutes,
+9
+10
+that shall, to the extent feasible, incorporate advanced detection
+10
+11
+and monitoring systems capable of:
+11
+12
+
+Section 6:
+1. Detecting and classifying objects along the crossing and its
+12
+13
+approaches;
+13
+14
+
+Section 7:
+2. Analyzing object behavior in real-time to identify safety
+14
+15
+risks;
+15
+16
+
+Section 8:
+3. Generating real-time alerts to warn train crews, operation
+16
+17
+personnel, and other relevant parties of potential hazards;
+17
+18
+
+Section 9:
+4. Generating data sufficient to identify leading indicators of
+18
+19
+potential hazards; and
+19
+20
+
+Section 10:
+5. Providing integration capability with existing and future
+20
+21
+rail operation protocols, including positive train control (PTC)
+21
+22
+systems.
+22
+23
+C. The Commission and Department, in consultation with rail
+23
+24
+operators and safety experts, shall:
+24
+Req. No. 3370 Page 2
+1
+
+Section 11:
+1. Develop standards and specifications for the deployment of
+1
+2
+advanced detection and monitoring systems at the selected extra
+2
+3
+hazardous crossings;
+3
+4
+
+Section 12:
+2. Provide technical assistance to rail operators in
+4
+5
+implementing advanced detection and monitoring systems; and
+5
+6
+
+Section 13:
+3. Provide financial support for the implementation of advanced
+6
+7
+detection and monitoring systems from the Oklahoma Railroad
+7
+8
+Maintenance Revolving Fund, as created in Section 309 of Title 66 of
+8
+9
+the Oklahoma Statutes.
+9
+10
+D. The Commission and Department shall, beginning November 1,
+10
+11
+2028, prepare a report on the implementation of advanced detection
+11
+12
+and monitoring systems at the selected extra hazardous crossings.
+12
+13
+Such report shall include data on hazard detection, real-time alerts
+13
+14
+issued, incidents prevented, and comparative safety data at the
+14
+15
+crossing before and after implementation. Such report shall be
+15
+16
+electronically submitted to the President Pro Tempore of the Senate,
+16
+17
+the Speaker of the House of Representatives, and the Governor on or
+17
+18
+before December 31, 2028.
+18
+19
+
+Section 14:
+SECTION 2. There is hereby appropriated to the Oklahoma
+19
+20
+Railroad Maintenance Revolving Fund from any monies not otherwise
+20
+21
+appropriated from the General Revenue Fund of the State Treasury for
+21
+22
+the fiscal year ending June 30, 2027, the sum of Five Million
+22
+23
+Dollars ($5,000,000.00) or so much thereof as may be necessary to
+23
+24
+carry out the provisions of this act.
+24
+Req. No. 3370 Page 3
+1
+
+Section 15:
+SECTION 3. This act shall become effective November 1, 2026.
+1
+2
+2
+3
+60-2-3370 MSBB 1/15/2026 7:01:28 AM
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3370 Page 4
+[DELETED:  P B M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1861 By: Murdock
+3
+4
+4
+5
+AS INTRODUCED
+5
+6
+An Act relating to railroads; defining terms;
+6
+providing for incorporation of certain systems at
+7
+certain railroad crossings; directing the Corporation
+7
+Commission and Department of Transportation to
+8
+develop certain standards; requiring submission of
+8
+certain report by certain date; making certain
+9
+appropriation; providing for codification; and
+9
+providing an effective date.
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+SECTION 1. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 86.1 of Title 17, unless there
+14
+15
+is created a duplication in numbering, reads as follows:
+15
+16
+A. As used in this section:
+16
+17
+1. “Advanced detection and monitoring system” means any system
+17
+18
+capable of detecting and classifying objects such as pedestrians and
+18
+19
+vehicles at railroad crossings, using technologies such as light
+19
+20
+detection and ranging sensors, thermal sensors, and high-resolution
+20
+21
+cameras, in conjunction with artificial intelligence or machine
+21
+22
+learning;
+22
+23
+23
+24
+24
+Req. No. 3370 Page 1
+
+1
+2. “Hazard assessment” means the process of analyzing detected
+1
+2
+objects to determine whether a safety risk exists based on
+2
+3
+predefined criteria; and
+3
+4
+3. “Real-time alerts” means automated notifications generated
+4
+5
+to warn train crews, operations centers, or other stakeholders of
+5
+6
+safety hazards.
+6
+7
+B. The Corporation Commission and the Department of
+7
+8
+Transportation shall identify a number of extra hazardous crossings,
+8
+9
+as provided for in Section 86 of Title 17 of the Oklahoma Statutes,
+9
+10
+that shall, to the extent feasible, incorporate advanced detection
+10
+11
+and monitoring systems capable of:
+11
+12
+1. Detecting and classifying objects along the crossing and its
+12
+13
+approaches;
+13
+14
+2. Analyzing object behavior in real-time to identify safety
+14
+15
+risks;
+15
+16
+3. Generating real-time alerts to warn train crews, operation
+16
+17
+personnel, and other relevant parties of potential hazards;
+17
+18
+4. Generating data sufficient to identify leading indicators of
+18
+19
+potential hazards; and
+19
+20
+5. Providing integration capability with existing and future
+20
+21
+rail operation protocols, including positive train control (PTC)
+21
+22
+systems.
+22
+23
+C. The Commission and Department, in consultation with rail
+23
+24
+operators and safety experts, shall:
+24
+Req. No. 3370 Page 2
+
+1
+1. Develop standards and specifications for the deployment of
+1
+2
+advanced detection and monitoring systems at the selected extra
+2
+3
+hazardous crossings;
+3
+4
+2. Provide technical assistance to rail operators in
+4
+5
+implementing advanced detection and monitoring systems; and
+5
+6
+3. Provide financial support for the implementation of advanced
+6
+7
+detection and monitoring systems from the Oklahoma Railroad
+7
+8
+Maintenance Revolving Fund, as created in Section 309 of Title 66 of
+8
+9
+the Oklahoma Statutes.
+9
+10
+D. The Commission and Department shall, beginning November 1,
+10
+11
+2028, prepare a report on the implementation of advanced detection
+11
+12
+and monitoring systems at the selected extra hazardous crossings.
+12
+13
+Such report shall include data on hazard detection, real-time alerts
+13
+14
+issued, incidents prevented, and comparative safety data at the
+14
+15
+crossing before and after implementation. Such report shall be
+15
+16
+electronically submitted to the President Pro Tempore of the Senate,
+16
+17
+the Speaker of the House of Representatives, and the Governor on or
+17
+18
+before December 31, 2028.
+18
+19
+SECTION 2. There is hereby appropriated to the Oklahoma
+19
+20
+Railroad Maintenance Revolving Fund from any monies not otherwise
+20
+21
+appropriated from the General Revenue Fund of the State Treasury for
+21
+22
+the fiscal year ending June 30, 2027, the sum of Five Million
+22
+23
+Dollars ($5,000,000.00) or so much thereof as may be necessary to
+23
+24
+carry out the provisions of this act.
+24
+Req. No. 3370 Page 3
+
+1
+SECTION 3. This act shall become effective November 1, 2026.
+1
+2
+2
+3
+60-2-3370 MSBB 1/15/2026 7:01:28 AM
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3370 Page 4
+
+[DELETED:  P B M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 1]
