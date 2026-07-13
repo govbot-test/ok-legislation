@@ -1,0 +1,3263 @@
+Title: SENATE BILL 2085 By: Hamilton
+Official Title: SENATE BILL 2085 By: Hamilton
+Number of Sections: 70
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to artificial intelligence; defining
+7
+terms; prohibiting a state governmental entity from
+8
+extending or renewing contracts with certain
+8
+entities; authorizing the promulgation of rules;
+9
+establishing certain rights of Oklahomans;
+9
+authorizing Oklahomans to exercise certain rights;
+10
+prohibiting companion chatbot platforms from
+10
+providing services to minors; providing certain
+11
+exception; directing companion chatbot platforms to
+11
+provide the minor’s parent or legal guardian certain
+12
+options; requiring companion chatbot platforms to
+12
+terminate certain accounts and provide certain
+13
+options; mandating companion chatbot platforms make
+13
+certain disclosures and institute certain measures to
+14
+prevent their companion chatbot from sharing certain
+14
+materials; providing that certain violations are
+15
+deceptive or unfair trade practices; establishing
+15
+certain civil penalties; specifying certain
+16
+requirements for contract formation; requiring bot
+16
+operators to periodically provide certain notice to
+17
+users; providing that certain violations are
+17
+deceptive or unfair trade practices; establishing
+18
+certain civil penalties; prohibiting artificial
+18
+intelligence companies from selling or disclosing
+19
+certain information of users; providing certain
+19
+exceptions; providing that certain violations are
+20
+deceptive or unfair trade practices; establishing
+20
+certain civil penalties; authorizing the Attorney
+21
+General to issue and enforce civil investigative
+21
+demands under certain circumstances; prohibiting
+22
+certain commercial uses of an individual’s name,
+22
+image, or likeness created by generative artificial
+23
+intelligence without certain consent; providing
+23
+certain exceptions; providing for the approval of
+24
+certain contracts; providing for codification;
+24
+Req. No. 2840 Page 1
+1
+providing for noncodification; and providing an
+1
+effective date.
+2
+2
+3
+3
+4
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+4
+5
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+5
+6
+in the Oklahoma Statutes as Section 401 of Title 75A, unless there
+6
+7
+is created a duplication in numbering, reads as follows:
+7
+8
+As used in this act:
+8
+9
+
+Section 3:
+1. “Account holder” means an individual who opens an account or
+9
+10
+creates a profile on or is identified by a companion chatbot
+10
+11
+platform by a unique identifier while he or she is using or
+11
+12
+accessing the platform, if the platform knows or has reason to
+12
+13
+believe the individual is a resident of this state;
+13
+14
+
+Section 4:
+2. “Artificial intelligence” means a computer system, program,
+14
+15
+or set of algorithms capable of performing tasks or producing
+15
+16
+outputs that imitate intelligent human behavior;
+16
+17
+
+Section 5:
+3. “Artificial intelligence technology company” means a
+17
+18
+business or organization that produces, develops, creates, designs,
+18
+19
+or manufactures artificial intelligence technology or products,
+19
+20
+collects data for use in artificial intelligence products, or
+20
+21
+implements artificial intelligence technology;
+21
+22
+
+Section 6:
+4. “Bot” means an automated online software application in
+22
+23
+which all or substantially all of the actions or posts of the
+23
+24
+account are not the result of a natural person;
+24
+Req. No. 2840 Page 2
+1
+
+Section 7:
+5. “Companion chatbot” means an artificial intelligence system
+1
+2
+with a natural language interface that provides adaptive, human-like
+2
+3
+responses to user inputs and attempts to fulfill a user’s social
+3
+4
+needs, including by exhibiting anthropomorphic features and being
+4
+5
+able to sustain a relationship across multiple interactions. The
+5
+6
+term does not include:
+6
+7
+a. a chatbot used only for customer service, a business’s
+7
+8
+operational purposes, productivity, and analysis
+8
+9
+related to source information, internal research, or
+9
+10
+technical assistance,
+10
+11
+b. a chatbot that is a feature of a video game and is
+11
+12
+limited to replies related to the video game and does
+12
+13
+not discuss topics related to mental health, self-
+13
+14
+harm, or material harmful to minors or maintain a
+14
+15
+dialogue on other topics unrelated to the video game,
+15
+16
+or
+16
+17
+c. a stand-alone consumer electronic device that
+17
+18
+functions as a speaker and voice command interface,
+18
+19
+acts as a voice-activated virtual assistant, and does
+19
+20
+not sustain a relationship across multiple
+20
+21
+interactions or generate outputs likely to elicit
+21
+22
+emotional responses in the user;
+22
+23
+23
+24
+24
+Req. No. 2840 Page 3
+1
+
+Section 8:
+6. “De-identified data” means data that cannot reasonably be
+1
+2
+linked to an identified or identifiable individual or a device
+2
+3
+linked to that individual;
+3
+4
+
+Section 9:
+7. “Foreign adversary” shall mean any country designated by the
+4
+5
+United States Secretary of State as hostile or a Country of
+5
+6
+Particular Concern (CPC);
+6
+7
+
+Section 10:
+8. “Generative artificial intelligence” means a machine-based
+7
+8
+system that can, for a given set of human-defined objectives,
+8
+9
+emulate the structure and characteristics of input data in order to
+9
+10
+generate derived synthetic content, including images, videos, audio,
+10
+11
+text, and other digital content;
+11
+12
+
+Section 11:
+9. “Material harmful to minors” means any communication,
+12
+13
+picture, image, graphic image file, article, recording, writing, or
+13
+14
+other matter of any kind that is obscene or that:
+14
+15
+a. the average person, applying contemporary community
+15
+16
+standards, would find, taking the material as a whole
+16
+17
+and with respect to minors, is designed to appeal to,
+17
+18
+or is designed to pander to, the prurient interest,
+18
+19
+b. depicts, describes, or represents, in a manner
+19
+20
+patently offensive with respect to minors, an actual
+20
+21
+or simulated sexual act or sexual contact, an actual
+21
+22
+or simulated normal or perverted sexual act or sexual
+22
+23
+contact, or a lewd exhibition of the genitals or post-
+23
+24
+pubescent female breast, and
+24
+Req. No. 2840 Page 4
+1
+c. taken as a whole, lacks serious literary, artistic,
+1
+2
+political, or scientific value for minors;
+2
+3
+
+Section 12:
+10. “Minor” has the same meaning as defined in Section 1040.75
+3
+4
+of Title 21 of the Oklahoma Statutes;
+4
+5
+
+Section 13:
+11. “Operator” means a person who owns, operates, or otherwise
+5
+6
+makes available a bot to individuals in this state;
+6
+7
+
+Section 14:
+12. “Pop-up” means a visible notification on the computer,
+7
+8
+tablet, or smartphone screen of a user which may be resolved if the
+8
+9
+user interacts with or responds to the notification;
+9
+10
+
+Section 15:
+13. “Resident” means an individual who has resided in this
+10
+11
+state for more than six (6) months during the preceding twelve-month
+11
+12
+period;
+12
+13
+
+Section 16:
+14. “Servicemember” has the same meaning as defined in Section
+13
+14
+
+Section 17:
+150.1 of Title 43 of the Oklahoma Statutes;
+14
+15
+
+Section 18:
+15. “State governmental entity” has the same meaning as defined
+15
+16
+in Section 695.3 of Title 62 of the Oklahoma Statutes;
+16
+17
+
+Section 19:
+16. “Surviving children” means an individual’s surviving
+17
+18
+immediate offspring and any children legally adopted by the
+18
+19
+individual;
+19
+20
+
+Section 20:
+17. “Surviving spouse” means an individual’s surviving spouse
+20
+21
+under the law of the individual’s domicile at the time of the
+21
+22
+individual’s death, regardless of whether the spouse later
+22
+23
+remarried;
+23
+24
+24
+Req. No. 2840 Page 5
+1
+
+Section 21:
+18. “User” means an individual who resides or is domiciled in
+1
+2
+this state and who accesses an Internet website, online or cloud-
+2
+3
+computing service, online application, or mobile application; and
+3
+4
+
+Section 22:
+19. “Video game” means a game played on an electronic device
+4
+5
+that uses a computer, microprocessor, or similar electronic
+5
+6
+circuitry and its own monitor, or is designed to be used with a
+6
+7
+television set or a computer monitor, to interact with the user of
+7
+8
+the device.
+8
+9
+
+Section 23:
+SECTION 2. NEW LAW A new section of law to be codified
+9
+10
+in the Oklahoma Statutes as Section 402 of Title 75A, unless there
+10
+11
+is created a duplication in numbering, reads as follows:
+11
+12
+A. On and after the effective date of this act, a state
+12
+13
+governmental entity shall not accept a bid on, a proposal for, or a
+13
+14
+reply to, or enter into, extend, or renew a contract with, an entity
+14
+15
+to provide artificial intelligence technology, software, or
+15
+16
+products, including as a portion or an option to the products or
+16
+17
+services provided under the contract, unless the entity provides the
+17
+18
+state governmental entity with an affidavit signed by an officer or
+18
+19
+a representative of the entity under penalty of perjury attesting
+19
+20
+that the entity does not meet any of the criteria listed in
+20
+21
+subsection B of this section.
+21
+22
+B. A state governmental entity shall not knowingly enter into a
+22
+23
+contract with an entity for artificial intelligence technology,
+23
+24
+24
+Req. No. 2840 Page 6
+1
+software, or products, including as a portion or an option to the
+1
+2
+products or services provided under the contract, if:
+2
+3
+
+Section 24:
+1. The entity is owned by a foreign adversary;
+3
+4
+
+Section 25:
+2. A government of a foreign adversary has a controlling
+4
+5
+interest in the entity; or
+5
+6
+
+Section 26:
+3. The entity is organized under the laws of or has its
+6
+7
+principal place of business in a country designated as a foreign
+7
+8
+adversary.
+8
+9
+
+Section 27:
+SECTION 3. NEW LAW A new section of law to be codified
+9
+10
+in the Oklahoma Statutes as Section 403 of Title 75A, unless there
+10
+11
+is created a duplication in numbering, reads as follows:
+11
+12
+The Attorney General shall enforce the provisions of this act.
+12
+13
+The Attorney General may promulgate rules necessary to implement,
+13
+14
+interpret, and enforce the provisions of this act.
+14
+15
+
+Section 28:
+SECTION 4. NEW LAW A new section of law not to be
+15
+16
+codified in the Oklahoma Statutes reads as follows:
+16
+17
+The Legislature finds that:
+17
+18
+A. Oklahomans are entitled to certain rights with respect to
+18
+19
+the use of artificial intelligence, including, but not limited to:
+19
+20
+
+Section 29:
+1. The right to use artificial intelligence to improve their
+20
+21
+own lives and the lives of family members, fellow residents, and the
+21
+22
+world at large in accordance with the law;
+22
+23
+
+Section 30:
+2. The right to supervise, access, limit, and control their
+23
+24
+minor children’s use of artificial intelligence;
+24
+Req. No. 2840 Page 7
+1
+
+Section 31:
+3. The right to know whether they are communicating with a
+1
+2
+human being or an artificial intelligence system, program, or
+2
+3
+chatbot;
+3
+4
+
+Section 32:
+4. The right to know if artificial intelligence technology
+4
+5
+companies are collecting personal information or biometric data, and
+5
+6
+the right to expect artificial intelligence technology companies to
+6
+7
+protect and de-identify that information or data in accordance with
+7
+8
+the law;
+8
+9
+
+Section 33:
+5. The right to pursue civil remedies authorized by law against
+9
+10
+persons who use artificial intelligence to appropriate the name,
+10
+11
+image, or likeness of others for commercial purposes without their
+11
+12
+consent;
+12
+13
+
+Section 34:
+6. The right to be protected by law from criminal acts, such as
+13
+14
+fraud, exploitation, identity theft, stalking, and cyberbullying,
+14
+15
+regardless of whether artificial intelligence is used in the
+15
+16
+commission of those acts;
+16
+17
+
+Section 35:
+7. The right to be protected by law from criminal acts relating
+17
+18
+to the alteration of existing images to create sexual or lewd or
+18
+19
+lascivious images or child pornography, regardless of whether
+19
+20
+artificial intelligence is used in the commission of those acts;
+20
+21
+
+Section 36:
+8. The right to know whether political advertisements,
+21
+22
+electioneering communications, or similar advertisements were
+22
+23
+created in whole or in part with the use of artificial intelligence;
+23
+24
+and
+24
+Req. No. 2840 Page 8
+1
+
+Section 37:
+9. The right to pursue civil remedies authorized by law against
+1
+2
+others who use artificial intelligence to slander, libel, or defame
+2
+3
+them.
+3
+4
+B. Oklahomans may exercise the rights described in this section
+4
+5
+in accordance with existing law. This section may not be construed
+5
+6
+as creating new or independent rights or entitlements.
+6
+7
+
+Section 38:
+SECTION 5. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 404 of Title 75A, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. A companion chatbot platform shall prohibit a minor from
+10
+11
+entering into a contract with the platform to become an account
+11
+12
+holder or from maintaining an existing account, unless the minor’s
+12
+13
+parent or legal guardian provides consent for the minor to become an
+13
+14
+account holder or maintain an existing account. If the minor’s
+14
+15
+parent or legal guardian provides consent for the minor to become an
+15
+16
+account holder or maintain an existing account, the companion
+16
+17
+chatbot platform shall allow the consenting parent or legal guardian
+17
+18
+of the minor account holder to:
+18
+19
+
+Section 39:
+1. Receive copies of all interactions between the minor account
+19
+20
+holder and the companion chatbot;
+20
+21
+
+Section 40:
+2. Limit the amount of time that the minor account holder may
+21
+22
+interact with the companion chatbot each day;
+22
+23
+23
+24
+24
+Req. No. 2840 Page 9
+1
+
+Section 41:
+3. Disable any of the interactions between the minor account
+1
+2
+holder and third-party account holders on the companion chatbot
+2
+3
+platform; and
+3
+4
+
+Section 42:
+4. Receive timely notifications if the minor account holder
+4
+5
+expresses to the companion chatbot a desire or an intent to engage
+5
+6
+in self-harm or to harm others.
+6
+7
+B. A companion chatbot platform shall:
+7
+8
+
+Section 43:
+1. Terminate any account belonging to an account holder who is
+8
+9
+a minor if the companion chatbot platform treats or categorizes the
+9
+10
+account as belonging to a minor for purposes of targeting content or
+10
+11
+advertising and if the minor’s parent or legal guardian has not
+11
+12
+provided consent for the minor to become an account holder or to
+12
+13
+maintain an existing account;
+13
+14
+
+Section 44:
+2. Allow an account holder who is a minor to request to
+14
+15
+terminate the account. Termination shall be effective within five
+15
+16
+(5) business days after the request;
+16
+17
+
+Section 45:
+3. Allow the consenting parent or legal guardian of an account
+17
+18
+holder who is a minor to request that the minor’s account be
+18
+19
+terminated. Termination shall be effective within ten (10) business
+19
+20
+days after the request; and
+20
+21
+
+Section 46:
+4. Permanently delete all personal information held by the
+21
+22
+companion chatbot platform relating to the terminated account,
+22
+23
+unless state or federal law requires the platform to maintain the
+23
+24
+information.
+24
+Req. No. 2840 Page 10
+1
+C. In connection with all accounts held by account holders who
+1
+2
+are minors, the companion chatbot platform shall:
+2
+3
+
+Section 47:
+1. Disclose to the account holder that he or she is interacting
+3
+4
+with artificial intelligence;
+4
+5
+
+Section 48:
+2. Provide by default a clear and conspicuous notification to
+5
+6
+the account holder, at the beginning of companion chatbot
+6
+7
+interactions and at least once every hour during continuing
+7
+8
+interactions, reminding the minor to take a break and that the
+8
+9
+companion chatbot is artificially generated and not human; and
+9
+10
+
+Section 49:
+3. Institute reasonable measures to prevent its companion
+10
+11
+chatbot from producing or sharing materials harmful to minors or
+11
+12
+encouraging the account holder to engage in any of the conduct
+12
+13
+described or depicted in materials harmful to minors.
+13
+14
+D. A knowing or reckless violation of this section shall be
+14
+15
+deemed a deceptive or unfair trade practice. If the Attorney
+15
+16
+General has reason to believe that a companion chatbot platform is
+16
+17
+in violation of this section, the Attorney General may bring an
+17
+18
+action against the platform for a deceptive or unfair trade
+18
+19
+practice. In addition to any other remedy under this act, the
+19
+20
+Attorney General may collect a civil penalty of up to Fifty Thousand
+20
+21
+Dollars ($50,000.00) per violation and court costs and reasonable
+21
+22
+attorney fees. If the companion chatbot platform’s failure to
+22
+23
+comply with this section is part of a consistent pattern of knowing
+23
+24
+24
+Req. No. 2840 Page 11
+1
+or reckless conduct, punitive damages may be assessed against the
+1
+2
+companion chatbot platform.
+2
+3
+E. 1. A companion chatbot platform that knowingly or
+3
+4
+recklessly violates this section is liable to a minor account holder
+4
+5
+for up to Ten Thousand Dollars ($10,000.00) in damages plus court
+5
+6
+costs and reasonable attorney fees as ordered by the court.
+6
+7
+
+Section 50:
+2. A civil action for a claim under this subsection shall be
+7
+8
+brought within one (1) year after the date the complainant knew, or
+8
+9
+reasonably should have known, of the alleged violation.
+9
+10
+
+Section 51:
+3. An action brought under this subsection may be brought only
+10
+11
+on behalf of a minor account holder.
+11
+12
+F. For purposes of bringing an action under this section, a
+12
+13
+companion chatbot platform that allows a minor user in this state to
+13
+14
+create an account on the platform is considered to be both engaged
+14
+15
+in substantial and not isolated activities within this state and
+15
+16
+operating, conducting, engaging in, or carrying on a business and
+16
+17
+doing business in this state, and is therefore subject to the
+17
+18
+jurisdiction of the courts of this state.
+18
+19
+G. If a companion chatbot platform allows a minor account
+19
+20
+holder to use the companion chatbot platform, the parties shall be
+20
+21
+deemed to have entered into a contract.
+21
+22
+H. This section shall not be construed to preclude any other
+22
+23
+available remedy at law or equity.
+23
+24
+24
+Req. No. 2840 Page 12
+1
+
+Section 52:
+SECTION 6. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 405 of Title 75A, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. At the beginning of an interaction between a user and a bot,
+4
+5
+and at least once every hour during the interaction, an operator
+5
+6
+shall display a pop-up message notifying the user that he or she is
+6
+7
+not engaging in dialogue with a human counterpart.
+7
+8
+B. A violation of this section is deemed a deceptive or unfair
+8
+9
+trade practice actionable solely by the Attorney General on behalf
+9
+10
+of a user of a bot. If the Attorney General has reason to believe
+10
+11
+that an operator is in violation of this section, the Attorney
+11
+12
+General may bring an action against the operator for a deceptive or
+12
+13
+unfair trade practice. In addition to any other remedy under this
+13
+14
+act, the Attorney General may collect a civil penalty of up to Fifty
+14
+15
+Thousand Dollars ($50,000.00) per violation and court costs and
+15
+16
+reasonable attorney fees.
+16
+17
+C. This section shall not be construed to preclude any other
+17
+18
+available remedy at law or equity.
+18
+19
+D. For purposes of bringing an action pursuant to this section,
+19
+20
+a person who meets the definition of an operator who owns, operates,
+20
+21
+or otherwise makes available a bot to individuals in this state is
+21
+22
+considered to be both engaged in substantial and not isolated
+22
+23
+activities within this state and operating, conducting, engaging in,
+23
+24
+24
+Req. No. 2840 Page 13
+1
+or carrying on a business, and doing business in this state, and is
+1
+2
+therefore subject to the jurisdiction of the courts of this state.
+2
+3
+
+Section 53:
+SECTION 7. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 406 of Title 75A, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. An artificial intelligence technology company may not sell
+6
+7
+or disclose personal information of users unless the information is
+7
+8
+de-identified data.
+8
+9
+B. An artificial intelligence technology company in possession
+9
+10
+of de-identified data shall:
+10
+11
+
+Section 54:
+1. Take reasonable measures to ensure that the data cannot be
+11
+12
+associated with an individual;
+12
+13
+
+Section 55:
+2. Maintain and use the data in de-identified form. An
+13
+14
+artificial intelligence technology company may not attempt to
+14
+15
+reidentify the data, except that the artificial intelligence
+15
+16
+technology company may attempt to reidentify the data solely for the
+16
+17
+purpose of determining whether its de-identification process
+17
+18
+satisfies the requirements of this section;
+18
+19
+
+Section 56:
+3. Contractually obligate a recipient of the de-identified data
+19
+20
+to comply with this section; and
+20
+21
+
+Section 57:
+4. Implement business processes to prevent the inadvertent
+21
+22
+release of de-identified data.
+22
+23
+C. A violation of this section shall be deemed a deceptive or
+23
+24
+unfair trade practice. If the Attorney General has reason to
+24
+Req. No. 2840 Page 14
+1
+believe that an artificial intelligence technology company is in
+1
+2
+violation of this section, the Attorney General may bring an action
+2
+3
+against the artificial intelligence technology company for a
+3
+4
+deceptive or unfair trade practice. In addition to any other remedy
+4
+5
+under this act, the Attorney General may collect a civil penalty of
+5
+6
+up to Fifty Thousand Dollars ($50,000.00) per violation and court
+6
+7
+costs and reasonable attorney fees.
+7
+8
+D. For purposes of bringing an action pursuant to this section,
+8
+9
+a person who meets the definition of an artificial intelligence
+9
+10
+technology company that produces, develops, creates, designs, or
+10
+11
+manufactures artificial intelligence products, or implements
+11
+12
+artificial intelligence technology in this state, is considered to
+12
+13
+be both engaged in substantial and not isolated activities within
+13
+14
+this state and operating, conducting, engaging in, or carrying on a
+14
+15
+business, and doing business in this state, and is therefore subject
+15
+16
+to the jurisdiction of the courts of this state.
+16
+17
+
+Section 58:
+SECTION 8. NEW LAW A new section of law to be codified
+17
+18
+in the Oklahoma Statutes as Section 407 of Title 75A, unless there
+18
+19
+is created a duplication in numbering, reads as follows:
+19
+20
+A. If, by his or her own inquiry or as a result of complaints,
+20
+21
+the Attorney General has reason to believe that a person has engaged
+21
+22
+in, or is engaging in, a practice or an act that violates this act,
+22
+23
+the Attorney General may administer oaths and affirmations, subpoena
+23
+24
+witnesses or matter, and collect evidence. At any time before the
+24
+Req. No. 2840 Page 15
+1
+return date specified in the subpoena, the party served may file in
+1
+2
+the district court in the county in which it resides or in which it
+2
+3
+transacts business a petition for an order modifying or setting
+3
+4
+aside the subpoena. The petitioner may raise any objection or
+4
+5
+privilege that would be available upon service of a subpoena in a
+5
+6
+civil action. The subpoena shall inform the party served of the
+6
+7
+party’s rights under this section.
+7
+8
+B. If the matter that the Attorney General seeks to obtain by
+8
+9
+subpoena is located outside this state, the person subpoenaed may
+9
+10
+make the matter available at the place where it is located. The
+10
+11
+Attorney General may designate representatives, including officials
+11
+12
+of the state in which the matter is located, to inspect the matter
+12
+13
+on its behalf and may respond to similar requests from officials of
+13
+14
+other states.
+14
+15
+C. Upon the failure of a person, without lawful excuse, to obey
+15
+16
+a subpoena and upon reasonable notice to all persons affected, the
+16
+17
+Attorney General may apply to the district court for an order
+17
+18
+compelling compliance.
+18
+19
+D. The Attorney General may request that a person who refuses
+19
+20
+to comply with a subpoena on the grounds that the testimony or
+20
+21
+matter may be self-incriminating be ordered by the court to provide
+21
+22
+the testimony or matter. Except in a prosecution for perjury, a
+22
+23
+person who complies with a court order to provide testimony or
+23
+24
+matter after asserting a valid privilege against self-incrimination
+24
+Req. No. 2840 Page 16
+1
+may not have the testimony or matter provided, or evidence derived
+1
+2
+from the testimony or matter, received against the person in any
+2
+3
+criminal investigation or proceeding.
+3
+4
+E. A person upon whom a subpoena is served pursuant to this
+4
+5
+
+Section 59:
+section shall comply with its terms unless otherwise provided by
+5
+6
+order of the court. A person who fails to appear, with the intent
+6
+7
+to avoid, evade, or prevent compliance in whole or in part with an
+7
+8
+investigation under this section, or who removes from any place,
+8
+9
+conceals, withholds, mutilates, alters, or destroys, or by any other
+9
+10
+means falsifies any documentary material in the possession, custody,
+10
+11
+or control of a person subject to a subpoena, or who knowingly
+11
+12
+conceals relevant information with the intent to avoid, evade, or
+12
+13
+prevent compliance, is liable for a civil penalty not more than Five
+13
+14
+Thousand Dollars ($5,000.00) per week in violation and court costs
+14
+15
+and reasonable attorney fees.
+15
+16
+
+Section 60:
+SECTION 9. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 408 of Title 75A, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+A. A person shall not publish, print, display, or otherwise
+19
+20
+publicly use for trade or for any commercial or advertising purpose
+20
+21
+the name, portrait, photograph, image, or other likeness of an
+21
+22
+individual created through generative artificial intelligence
+22
+23
+without the express written or oral consent to such use given by any
+23
+24
+of the following:
+24
+Req. No. 2840 Page 17
+1
+
+Section 61:
+1. The individual;
+1
+2
+
+Section 62:
+2. Any other person authorized in writing by the individual to
+2
+3
+license the commercial use of the individual’s name, image, or
+3
+4
+likeness; or
+4
+5
+
+Section 63:
+3. If the individual is deceased:
+5
+6
+a. a person authorized in writing to license the
+6
+7
+commercial use of the individual’s name, image, or
+7
+8
+likeness, or
+8
+9
+b. if no person is authorized, any one individual from a
+9
+10
+class composed of the deceased individual’s surviving
+10
+11
+spouse and surviving children. A parent or legal
+11
+12
+guardian may give consent on behalf of a minor
+12
+13
+surviving child.
+13
+14
+B. If the consent required in subsection A of this section is
+14
+15
+not obtained, the individual whose name, portrait, photograph,
+15
+16
+image, or other likeness is used, or a person authorized by the
+16
+17
+individual in writing to license the commercial use of the
+17
+18
+individual’s name, image, or likeness, or, if the individual whose
+18
+19
+likeness is used is deceased, a person having the right to give such
+19
+20
+consent, as provided in subsection A of this section, may bring an
+20
+21
+action to enjoin the unauthorized publication, printing, display, or
+21
+22
+other public use and recover damages for any loss or injury
+22
+23
+resulting from the unauthorized publication, including an amount
+23
+24
+24
+Req. No. 2840 Page 18
+1
+that would have been a reasonable royalty, and punitive or exemplary
+1
+2
+damages.
+2
+3
+C. If a person uses the name, portrait, photograph, image, or
+3
+4
+other likeness of a servicemember without obtaining the consent
+4
+5
+required in subsection A of this section and the use is not subject
+5
+6
+to an exception listed in this section, a court may impose a civil
+6
+7
+penalty of up to One Thousand Dollars ($1,000.00) per violation in
+7
+8
+addition to the civil remedies contained in subsection B of this
+8
+9
+
+Section 64:
+section. Each commercial transaction constitutes a violation under
+9
+10
+this section.
+10
+11
+D. This section shall not apply to any of the following:
+11
+12
+
+Section 65:
+1. The publication, printing, display, or use of the name,
+12
+13
+image, or likeness of an individual in a newspaper, magazine, book,
+13
+14
+news broadcast or telecast, or other news medium or publication that
+14
+15
+is used as part of a bona fide news report or presentation having a
+15
+16
+current and legitimate public interest and if the name, image, or
+16
+17
+likeness is not used for advertising purposes;
+17
+18
+
+Section 66:
+2. The use of an individual’s name, portrait, photograph,
+18
+19
+image, or other likeness in connection with the resale or other
+19
+20
+distribution of literary, musical, or artistic productions or other
+20
+21
+articles of merchandise or property with the individual’s consent on
+21
+22
+or in connection with the initial sale or distribution of the
+22
+23
+productions, articles, or merchandise; or
+23
+24
+24
+Req. No. 2840 Page 19
+1
+
+Section 67:
+3. A photograph of an individual solely as a member of the
+1
+2
+public if the individual is not named or otherwise identified in or
+2
+3
+in connection with the use of the photograph.
+3
+4
+E. An action may not be brought under this section by reason of
+4
+5
+a publication, printing, display, or other public use of the name,
+5
+6
+image, or likeness of an individual occurring more than forty (40)
+6
+7
+years after the death of the individual.
+7
+8
+F. The remedies in this section are in addition to and not in
+8
+9
+limitation of the remedies and rights of any person under the common
+9
+10
+law against the invasion of his or her privacy.
+10
+11
+
+Section 68:
+SECTION 10. NEW LAW A new section of law to be codified
+11
+12
+in the Oklahoma Statutes as Section 409 of Title 75A, unless there
+12
+13
+is created a duplication in numbering, reads as follows:
+13
+14
+No relief may be obtained under Section 9 of this act against
+14
+15
+any broadcaster, publisher, or distributor broadcasting, publishing,
+15
+16
+or distributing paid advertising matter by radio or television or in
+16
+17
+a newspaper, magazine, or similar periodical without knowledge or
+17
+18
+notice that any consent required by Section 9 of this act, in
+18
+19
+connection with such advertising matter, has not been obtained,
+19
+20
+except an injunction against the presentation of such advertising
+20
+21
+matter in future broadcasts or in future issues of such newspaper,
+21
+22
+magazine, or similar periodical.
+22
+23
+23
+24
+24
+Req. No. 2840 Page 20
+1
+
+Section 69:
+SECTION 11. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 410 of Title 75A, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A contract made by a minor or made by a parent or legal guardian
+4
+5
+of a minor, or a contract proposed to be so made, may be approved by
+5
+6
+the probate division of a circuit court or any other division of the
+6
+7
+circuit court that has guardianship jurisdiction, where the minor is
+7
+8
+a resident of this state or the services of the minor are to be
+8
+9
+performed or rendered in this state; where the contract sought to be
+9
+10
+approved is one under which the minor will endorse a product or
+10
+11
+service, or in any other way receive compensation for the use of the
+11
+12
+name, image, or likeness of the minor.
+12
+13
+
+Section 70:
+SECTION 12. This act shall become effective November 1, 2026.
+13
+14
+14
+15
+60-2-2840 BRC 1/15/2026 12:15:19 PM
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2840 Page 21
+[DELETED:  P B H]
+[DELETED:  P]
+[DELETED:  P a a a]
+[DELETED:  P t d]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P B 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 2085 By: Hamilton
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to artificial intelligence; defining
+7
+terms; prohibiting a state governmental entity from
+8
+extending or renewing contracts with certain
+8
+entities; authorizing the promulgation of rules;
+9
+establishing certain rights of Oklahomans;
+9
+authorizing Oklahomans to exercise certain rights;
+10
+prohibiting companion chatbot platforms from
+10
+providing services to minors; providing certain
+11
+exception; directing companion chatbot platforms to
+11
+provide the minor’s parent or legal guardian certain
+12
+options; requiring companion chatbot platforms to
+12
+terminate certain accounts and provide certain
+13
+options; mandating companion chatbot platforms make
+13
+certain disclosures and institute certain measures to
+14
+prevent their companion chatbot from sharing certain
+14
+materials; providing that certain violations are
+15
+deceptive or unfair trade practices; establishing
+15
+certain civil penalties; specifying certain
+16
+requirements for contract formation; requiring bot
+16
+operators to periodically provide certain notice to
+17
+users; providing that certain violations are
+17
+deceptive or unfair trade practices; establishing
+18
+certain civil penalties; prohibiting artificial
+18
+intelligence companies from selling or disclosing
+19
+certain information of users; providing certain
+19
+exceptions; providing that certain violations are
+20
+deceptive or unfair trade practices; establishing
+20
+certain civil penalties; authorizing the Attorney
+21
+General to issue and enforce civil investigative
+21
+demands under certain circumstances; prohibiting
+22
+certain commercial uses of an individual’s name,
+22
+image, or likeness created by generative artificial
+23
+intelligence without certain consent; providing
+23
+certain exceptions; providing for the approval of
+24
+certain contracts; providing for codification;
+24
+Req. No. 2840 Page 1
+
+1
+providing for noncodification; and providing an
+1
+effective date.
+2
+2
+3
+3
+4
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+4
+5
+SECTION 1. NEW LAW A new section of law to be codified
+5
+6
+in the Oklahoma Statutes as Section 401 of Title 75A, unless there
+6
+7
+is created a duplication in numbering, reads as follows:
+7
+8
+As used in this act:
+8
+9
+1. “Account holder” means an individual who opens an account or
+9
+10
+creates a profile on or is identified by a companion chatbot
+10
+11
+platform by a unique identifier while he or she is using or
+11
+12
+accessing the platform, if the platform knows or has reason to
+12
+13
+believe the individual is a resident of this state;
+13
+14
+2. “Artificial intelligence” means a computer system, program,
+14
+15
+or set of algorithms capable of performing tasks or producing
+15
+16
+outputs that imitate intelligent human behavior;
+16
+17
+3. “Artificial intelligence technology company” means a
+17
+18
+business or organization that produces, develops, creates, designs,
+18
+19
+or manufactures artificial intelligence technology or products,
+19
+20
+collects data for use in artificial intelligence products, or
+20
+21
+implements artificial intelligence technology;
+21
+22
+4. “Bot” means an automated online software application in
+22
+23
+which all or substantially all of the actions or posts of the
+23
+24
+account are not the result of a natural person;
+24
+Req. No. 2840 Page 2
+
+1
+5. “Companion chatbot” means an artificial intelligence system
+1
+2
+with a natural language interface that provides adaptive, human-like
+2
+3
+responses to user inputs and attempts to fulfill a user’s social
+3
+4
+needs, including by exhibiting anthropomorphic features and being
+4
+5
+able to sustain a relationship across multiple interactions. The
+5
+6
+term does not include:
+6
+7
+a. a chatbot used only for customer service, a business’s
+7
+8
+operational purposes, productivity, and analysis
+8
+9
+related to source information, internal research, or
+9
+10
+technical assistance,
+10
+11
+b. a chatbot that is a feature of a video game and is
+11
+12
+limited to replies related to the video game and does
+12
+13
+not discuss topics related to mental health, self-
+13
+14
+harm, or material harmful to minors or maintain a
+14
+15
+dialogue on other topics unrelated to the video game,
+15
+16
+or
+16
+17
+c. a stand-alone consumer electronic device that
+17
+18
+functions as a speaker and voice command interface,
+18
+19
+acts as a voice-activated virtual assistant, and does
+19
+20
+not sustain a relationship across multiple
+20
+21
+interactions or generate outputs likely to elicit
+21
+22
+emotional responses in the user;
+22
+23
+23
+24
+24
+Req. No. 2840 Page 3
+
+1
+6. “De-identified data” means data that cannot reasonably be
+1
+2
+linked to an identified or identifiable individual or a device
+2
+3
+linked to that individual;
+3
+4
+7. “Foreign adversary” shall mean any country designated by the
+4
+5
+United States Secretary of State as hostile or a Country of
+5
+6
+Particular Concern (CPC);
+6
+7
+8. “Generative artificial intelligence” means a machine-based
+7
+8
+system that can, for a given set of human-defined objectives,
+8
+9
+emulate the structure and characteristics of input data in order to
+9
+10
+generate derived synthetic content, including images, videos, audio,
+10
+11
+text, and other digital content;
+11
+12
+9. “Material harmful to minors” means any communication,
+12
+13
+picture, image, graphic image file, article, recording, writing, or
+13
+14
+other matter of any kind that is obscene or that:
+14
+15
+a. the average person, applying contemporary community
+15
+16
+standards, would find, taking the material as a whole
+16
+17
+and with respect to minors, is designed to appeal to,
+17
+18
+or is designed to pander to, the prurient interest,
+18
+19
+b. depicts, describes, or represents, in a manner
+19
+20
+patently offensive with respect to minors, an actual
+20
+21
+or simulated sexual act or sexual contact, an actual
+21
+22
+or simulated normal or perverted sexual act or sexual
+22
+23
+contact, or a lewd exhibition of the genitals or post-
+23
+24
+pubescent female breast, and
+24
+Req. No. 2840 Page 4
+
+1
+c. taken as a whole, lacks serious literary, artistic,
+1
+2
+political, or scientific value for minors;
+2
+3
+10. “Minor” has the same meaning as defined in Section 1040.75
+3
+4
+of Title 21 of the Oklahoma Statutes;
+4
+5
+11. “Operator” means a person who owns, operates, or otherwise
+5
+6
+makes available a bot to individuals in this state;
+6
+7
+12. “Pop-up” means a visible notification on the computer,
+7
+8
+tablet, or smartphone screen of a user which may be resolved if the
+8
+9
+user interacts with or responds to the notification;
+9
+10
+13. “Resident” means an individual who has resided in this
+10
+11
+state for more than six (6) months during the preceding twelve-month
+11
+12
+period;
+12
+13
+14. “Servicemember” has the same meaning as defined in Section
+13
+14
+150.1 of Title 43 of the Oklahoma Statutes;
+14
+15
+15. “State governmental entity” has the same meaning as defined
+15
+16
+in Section 695.3 of Title 62 of the Oklahoma Statutes;
+16
+17
+16. “Surviving children” means an individual’s surviving
+17
+18
+immediate offspring and any children legally adopted by the
+18
+19
+individual;
+19
+20
+17. “Surviving spouse” means an individual’s surviving spouse
+20
+21
+under the law of the individual’s domicile at the time of the
+21
+22
+individual’s death, regardless of whether the spouse later
+22
+23
+remarried;
+23
+24
+24
+Req. No. 2840 Page 5
+
+1
+18. “User” means an individual who resides or is domiciled in
+1
+2
+this state and who accesses an Internet website, online or cloud-
+2
+3
+computing service, online application, or mobile application; and
+3
+4
+19. “Video game” means a game played on an electronic device
+4
+5
+that uses a computer, microprocessor, or similar electronic
+5
+6
+circuitry and its own monitor, or is designed to be used with a
+6
+7
+television set or a computer monitor, to interact with the user of
+7
+8
+the device.
+8
+9
+SECTION 2. NEW LAW A new section of law to be codified
+9
+10
+in the Oklahoma Statutes as Section 402 of Title 75A, unless there
+10
+11
+is created a duplication in numbering, reads as follows:
+11
+12
+A. On and after the effective date of this act, a state
+12
+13
+governmental entity shall not accept a bid on, a proposal for, or a
+13
+14
+reply to, or enter into, extend, or renew a contract with, an entity
+14
+15
+to provide artificial intelligence technology, software, or
+15
+16
+products, including as a portion or an option to the products or
+16
+17
+services provided under the contract, unless the entity provides the
+17
+18
+state governmental entity with an affidavit signed by an officer or
+18
+19
+a representative of the entity under penalty of perjury attesting
+19
+20
+that the entity does not meet any of the criteria listed in
+20
+21
+subsection B of this section.
+21
+22
+B. A state governmental entity shall not knowingly enter into a
+22
+23
+contract with an entity for artificial intelligence technology,
+23
+24
+24
+Req. No. 2840 Page 6
+
+1
+software, or products, including as a portion or an option to the
+1
+2
+products or services provided under the contract, if:
+2
+3
+1. The entity is owned by a foreign adversary;
+3
+4
+2. A government of a foreign adversary has a controlling
+4
+5
+interest in the entity; or
+5
+6
+3. The entity is organized under the laws of or has its
+6
+7
+principal place of business in a country designated as a foreign
+7
+8
+adversary.
+8
+9
+SECTION 3. NEW LAW A new section of law to be codified
+9
+10
+in the Oklahoma Statutes as Section 403 of Title 75A, unless there
+10
+11
+is created a duplication in numbering, reads as follows:
+11
+12
+The Attorney General shall enforce the provisions of this act.
+12
+13
+The Attorney General may promulgate rules necessary to implement,
+13
+14
+interpret, and enforce the provisions of this act.
+14
+15
+SECTION 4. NEW LAW A new section of law not to be
+15
+16
+codified in the Oklahoma Statutes reads as follows:
+16
+17
+The Legislature finds that:
+17
+18
+A. Oklahomans are entitled to certain rights with respect to
+18
+19
+the use of artificial intelligence, including, but not limited to:
+19
+20
+1. The right to use artificial intelligence to improve their
+20
+21
+own lives and the lives of family members, fellow residents, and the
+21
+22
+world at large in accordance with the law;
+22
+23
+2. The right to supervise, access, limit, and control their
+23
+24
+minor children’s use of artificial intelligence;
+24
+Req. No. 2840 Page 7
+
+1
+3. The right to know whether they are communicating with a
+1
+2
+human being or an artificial intelligence system, program, or
+2
+3
+chatbot;
+3
+4
+4. The right to know if artificial intelligence technology
+4
+5
+companies are collecting personal information or biometric data, and
+5
+6
+the right to expect artificial intelligence technology companies to
+6
+7
+protect and de-identify that information or data in accordance with
+7
+8
+the law;
+8
+9
+5. The right to pursue civil remedies authorized by law against
+9
+10
+persons who use artificial intelligence to appropriate the name,
+10
+11
+image, or likeness of others for commercial purposes without their
+11
+12
+consent;
+12
+13
+6. The right to be protected by law from criminal acts, such as
+13
+14
+fraud, exploitation, identity theft, stalking, and cyberbullying,
+14
+15
+regardless of whether artificial intelligence is used in the
+15
+16
+commission of those acts;
+16
+17
+7. The right to be protected by law from criminal acts relating
+17
+18
+to the alteration of existing images to create sexual or lewd or
+18
+19
+lascivious images or child pornography, regardless of whether
+19
+20
+artificial intelligence is used in the commission of those acts;
+20
+21
+8. The right to know whether political advertisements,
+21
+22
+electioneering communications, or similar advertisements were
+22
+23
+created in whole or in part with the use of artificial intelligence;
+23
+24
+and
+24
+Req. No. 2840 Page 8
+
+1
+9. The right to pursue civil remedies authorized by law against
+1
+2
+others who use artificial intelligence to slander, libel, or defame
+2
+3
+them.
+3
+4
+B. Oklahomans may exercise the rights described in this section
+4
+5
+in accordance with existing law. This section may not be construed
+5
+6
+as creating new or independent rights or entitlements.
+6
+7
+SECTION 5. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 404 of Title 75A, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. A companion chatbot platform shall prohibit a minor from
+10
+11
+entering into a contract with the platform to become an account
+11
+12
+holder or from maintaining an existing account, unless the minor’s
+12
+13
+parent or legal guardian provides consent for the minor to become an
+13
+14
+account holder or maintain an existing account. If the minor’s
+14
+15
+parent or legal guardian provides consent for the minor to become an
+15
+16
+account holder or maintain an existing account, the companion
+16
+17
+chatbot platform shall allow the consenting parent or legal guardian
+17
+18
+of the minor account holder to:
+18
+19
+1. Receive copies of all interactions between the minor account
+19
+20
+holder and the companion chatbot;
+20
+21
+2. Limit the amount of time that the minor account holder may
+21
+22
+interact with the companion chatbot each day;
+22
+23
+23
+24
+24
+Req. No. 2840 Page 9
+
+1
+3. Disable any of the interactions between the minor account
+1
+2
+holder and third-party account holders on the companion chatbot
+2
+3
+platform; and
+3
+4
+4. Receive timely notifications if the minor account holder
+4
+5
+expresses to the companion chatbot a desire or an intent to engage
+5
+6
+in self-harm or to harm others.
+6
+7
+B. A companion chatbot platform shall:
+7
+8
+1. Terminate any account belonging to an account holder who is
+8
+9
+a minor if the companion chatbot platform treats or categorizes the
+9
+10
+account as belonging to a minor for purposes of targeting content or
+10
+11
+advertising and if the minor’s parent or legal guardian has not
+11
+12
+provided consent for the minor to become an account holder or to
+12
+13
+maintain an existing account;
+13
+14
+2. Allow an account holder who is a minor to request to
+14
+15
+terminate the account. Termination shall be effective within five
+15
+16
+(5) business days after the request;
+16
+17
+3. Allow the consenting parent or legal guardian of an account
+17
+18
+holder who is a minor to request that the minor’s account be
+18
+19
+terminated. Termination shall be effective within ten (10) business
+19
+20
+days after the request; and
+20
+21
+4. Permanently delete all personal information held by the
+21
+22
+companion chatbot platform relating to the terminated account,
+22
+23
+unless state or federal law requires the platform to maintain the
+23
+24
+information.
+24
+Req. No. 2840 Page 10
+
+1
+C. In connection with all accounts held by account holders who
+1
+2
+are minors, the companion chatbot platform shall:
+2
+3
+1. Disclose to the account holder that he or she is interacting
+3
+4
+with artificial intelligence;
+4
+5
+2. Provide by default a clear and conspicuous notification to
+5
+6
+the account holder, at the beginning of companion chatbot
+6
+7
+interactions and at least once every hour during continuing
+7
+8
+interactions, reminding the minor to take a break and that the
+8
+9
+companion chatbot is artificially generated and not human; and
+9
+10
+3. Institute reasonable measures to prevent its companion
+10
+11
+chatbot from producing or sharing materials harmful to minors or
+11
+12
+encouraging the account holder to engage in any of the conduct
+12
+13
+described or depicted in materials harmful to minors.
+13
+14
+D. A knowing or reckless violation of this section shall be
+14
+15
+deemed a deceptive or unfair trade practice. If the Attorney
+15
+16
+General has reason to believe that a companion chatbot platform is
+16
+17
+in violation of this section, the Attorney General may bring an
+17
+18
+action against the platform for a deceptive or unfair trade
+18
+19
+practice. In addition to any other remedy under this act, the
+19
+20
+Attorney General may collect a civil penalty of up to Fifty Thousand
+20
+21
+Dollars ($50,000.00) per violation and court costs and reasonable
+21
+22
+attorney fees. If the companion chatbot platform’s failure to
+22
+23
+comply with this section is part of a consistent pattern of knowing
+23
+24
+24
+Req. No. 2840 Page 11
+
+1
+or reckless conduct, punitive damages may be assessed against the
+1
+2
+companion chatbot platform.
+2
+3
+E. 1. A companion chatbot platform that knowingly or
+3
+4
+recklessly violates this section is liable to a minor account holder
+4
+5
+for up to Ten Thousand Dollars ($10,000.00) in damages plus court
+5
+6
+costs and reasonable attorney fees as ordered by the court.
+6
+7
+2. A civil action for a claim under this subsection shall be
+7
+8
+brought within one (1) year after the date the complainant knew, or
+8
+9
+reasonably should have known, of the alleged violation.
+9
+10
+3. An action brought under this subsection may be brought only
+10
+11
+on behalf of a minor account holder.
+11
+12
+F. For purposes of bringing an action under this section, a
+12
+13
+companion chatbot platform that allows a minor user in this state to
+13
+14
+create an account on the platform is considered to be both engaged
+14
+15
+in substantial and not isolated activities within this state and
+15
+16
+operating, conducting, engaging in, or carrying on a business and
+16
+17
+doing business in this state, and is therefore subject to the
+17
+18
+jurisdiction of the courts of this state.
+18
+19
+G. If a companion chatbot platform allows a minor account
+19
+20
+holder to use the companion chatbot platform, the parties shall be
+20
+21
+deemed to have entered into a contract.
+21
+22
+H. This section shall not be construed to preclude any other
+22
+23
+available remedy at law or equity.
+23
+24
+24
+Req. No. 2840 Page 12
+
+1
+SECTION 6. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 405 of Title 75A, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. At the beginning of an interaction between a user and a bot,
+4
+5
+and at least once every hour during the interaction, an operator
+5
+6
+shall display a pop-up message notifying the user that he or she is
+6
+7
+not engaging in dialogue with a human counterpart.
+7
+8
+B. A violation of this section is deemed a deceptive or unfair
+8
+9
+trade practice actionable solely by the Attorney General on behalf
+9
+10
+of a user of a bot. If the Attorney General has reason to believe
+10
+11
+that an operator is in violation of this section, the Attorney
+11
+12
+General may bring an action against the operator for a deceptive or
+12
+13
+unfair trade practice. In addition to any other remedy under this
+13
+14
+act, the Attorney General may collect a civil penalty of up to Fifty
+14
+15
+Thousand Dollars ($50,000.00) per violation and court costs and
+15
+16
+reasonable attorney fees.
+16
+17
+C. This section shall not be construed to preclude any other
+17
+18
+available remedy at law or equity.
+18
+19
+D. For purposes of bringing an action pursuant to this section,
+19
+20
+a person who meets the definition of an operator who owns, operates,
+20
+21
+or otherwise makes available a bot to individuals in this state is
+21
+22
+considered to be both engaged in substantial and not isolated
+22
+23
+activities within this state and operating, conducting, engaging in,
+23
+24
+24
+Req. No. 2840 Page 13
+
+1
+or carrying on a business, and doing business in this state, and is
+1
+2
+therefore subject to the jurisdiction of the courts of this state.
+2
+3
+SECTION 7. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 406 of Title 75A, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. An artificial intelligence technology company may not sell
+6
+7
+or disclose personal information of users unless the information is
+7
+8
+de-identified data.
+8
+9
+B. An artificial intelligence technology company in possession
+9
+10
+of de-identified data shall:
+10
+11
+1. Take reasonable measures to ensure that the data cannot be
+11
+12
+associated with an individual;
+12
+13
+2. Maintain and use the data in de-identified form. An
+13
+14
+artificial intelligence technology company may not attempt to
+14
+15
+reidentify the data, except that the artificial intelligence
+15
+16
+technology company may attempt to reidentify the data solely for the
+16
+17
+purpose of determining whether its de-identification process
+17
+18
+satisfies the requirements of this section;
+18
+19
+3. Contractually obligate a recipient of the de-identified data
+19
+20
+to comply with this section; and
+20
+21
+4. Implement business processes to prevent the inadvertent
+21
+22
+release of de-identified data.
+22
+23
+C. A violation of this section shall be deemed a deceptive or
+23
+24
+unfair trade practice. If the Attorney General has reason to
+24
+Req. No. 2840 Page 14
+
+1
+believe that an artificial intelligence technology company is in
+1
+2
+violation of this section, the Attorney General may bring an action
+2
+3
+against the artificial intelligence technology company for a
+3
+4
+deceptive or unfair trade practice. In addition to any other remedy
+4
+5
+under this act, the Attorney General may collect a civil penalty of
+5
+6
+up to Fifty Thousand Dollars ($50,000.00) per violation and court
+6
+7
+costs and reasonable attorney fees.
+7
+8
+D. For purposes of bringing an action pursuant to this section,
+8
+9
+a person who meets the definition of an artificial intelligence
+9
+10
+technology company that produces, develops, creates, designs, or
+10
+11
+manufactures artificial intelligence products, or implements
+11
+12
+artificial intelligence technology in this state, is considered to
+12
+13
+be both engaged in substantial and not isolated activities within
+13
+14
+this state and operating, conducting, engaging in, or carrying on a
+14
+15
+business, and doing business in this state, and is therefore subject
+15
+16
+to the jurisdiction of the courts of this state.
+16
+17
+SECTION 8. NEW LAW A new section of law to be codified
+17
+18
+in the Oklahoma Statutes as Section 407 of Title 75A, unless there
+18
+19
+is created a duplication in numbering, reads as follows:
+19
+20
+A. If, by his or her own inquiry or as a result of complaints,
+20
+21
+the Attorney General has reason to believe that a person has engaged
+21
+22
+in, or is engaging in, a practice or an act that violates this act,
+22
+23
+the Attorney General may administer oaths and affirmations, subpoena
+23
+24
+witnesses or matter, and collect evidence. At any time before the
+24
+Req. No. 2840 Page 15
+
+1
+return date specified in the subpoena, the party served may file in
+1
+2
+the district court in the county in which it resides or in which it
+2
+3
+transacts business a petition for an order modifying or setting
+3
+4
+aside the subpoena. The petitioner may raise any objection or
+4
+5
+privilege that would be available upon service of a subpoena in a
+5
+6
+civil action. The subpoena shall inform the party served of the
+6
+7
+party’s rights under this section.
+7
+8
+B. If the matter that the Attorney General seeks to obtain by
+8
+9
+subpoena is located outside this state, the person subpoenaed may
+9
+10
+make the matter available at the place where it is located. The
+10
+11
+Attorney General may designate representatives, including officials
+11
+12
+of the state in which the matter is located, to inspect the matter
+12
+13
+on its behalf and may respond to similar requests from officials of
+13
+14
+other states.
+14
+15
+C. Upon the failure of a person, without lawful excuse, to obey
+15
+16
+a subpoena and upon reasonable notice to all persons affected, the
+16
+17
+Attorney General may apply to the district court for an order
+17
+18
+compelling compliance.
+18
+19
+D. The Attorney General may request that a person who refuses
+19
+20
+to comply with a subpoena on the grounds that the testimony or
+20
+21
+matter may be self-incriminating be ordered by the court to provide
+21
+22
+the testimony or matter. Except in a prosecution for perjury, a
+22
+23
+person who complies with a court order to provide testimony or
+23
+24
+matter after asserting a valid privilege against self-incrimination
+24
+Req. No. 2840 Page 16
+
+1
+may not have the testimony or matter provided, or evidence derived
+1
+2
+from the testimony or matter, received against the person in any
+2
+3
+criminal investigation or proceeding.
+3
+4
+E. A person upon whom a subpoena is served pursuant to this
+4
+5
+section shall comply with its terms unless otherwise provided by
+5
+6
+order of the court. A person who fails to appear, with the intent
+6
+7
+to avoid, evade, or prevent compliance in whole or in part with an
+7
+8
+investigation under this section, or who removes from any place,
+8
+9
+conceals, withholds, mutilates, alters, or destroys, or by any other
+9
+10
+means falsifies any documentary material in the possession, custody,
+10
+11
+or control of a person subject to a subpoena, or who knowingly
+11
+12
+conceals relevant information with the intent to avoid, evade, or
+12
+13
+prevent compliance, is liable for a civil penalty not more than Five
+13
+14
+Thousand Dollars ($5,000.00) per week in violation and court costs
+14
+15
+and reasonable attorney fees.
+15
+16
+SECTION 9. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 408 of Title 75A, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+A. A person shall not publish, print, display, or otherwise
+19
+20
+publicly use for trade or for any commercial or advertising purpose
+20
+21
+the name, portrait, photograph, image, or other likeness of an
+21
+22
+individual created through generative artificial intelligence
+22
+23
+without the express written or oral consent to such use given by any
+23
+24
+of the following:
+24
+Req. No. 2840 Page 17
+
+1
+1. The individual;
+1
+2
+2. Any other person authorized in writing by the individual to
+2
+3
+license the commercial use of the individual’s name, image, or
+3
+4
+likeness; or
+4
+5
+3. If the individual is deceased:
+5
+6
+a. a person authorized in writing to license the
+6
+7
+commercial use of the individual’s name, image, or
+7
+8
+likeness, or
+8
+9
+b. if no person is authorized, any one individual from a
+9
+10
+class composed of the deceased individual’s surviving
+10
+11
+spouse and surviving children. A parent or legal
+11
+12
+guardian may give consent on behalf of a minor
+12
+13
+surviving child.
+13
+14
+B. If the consent required in subsection A of this section is
+14
+15
+not obtained, the individual whose name, portrait, photograph,
+15
+16
+image, or other likeness is used, or a person authorized by the
+16
+17
+individual in writing to license the commercial use of the
+17
+18
+individual’s name, image, or likeness, or, if the individual whose
+18
+19
+likeness is used is deceased, a person having the right to give such
+19
+20
+consent, as provided in subsection A of this section, may bring an
+20
+21
+action to enjoin the unauthorized publication, printing, display, or
+21
+22
+other public use and recover damages for any loss or injury
+22
+23
+resulting from the unauthorized publication, including an amount
+23
+24
+24
+Req. No. 2840 Page 18
+
+1
+that would have been a reasonable royalty, and punitive or exemplary
+1
+2
+damages.
+2
+3
+C. If a person uses the name, portrait, photograph, image, or
+3
+4
+other likeness of a servicemember without obtaining the consent
+4
+5
+required in subsection A of this section and the use is not subject
+5
+6
+to an exception listed in this section, a court may impose a civil
+6
+7
+penalty of up to One Thousand Dollars ($1,000.00) per violation in
+7
+8
+addition to the civil remedies contained in subsection B of this
+8
+9
+section. Each commercial transaction constitutes a violation under
+9
+10
+this section.
+10
+11
+D. This section shall not apply to any of the following:
+11
+12
+1. The publication, printing, display, or use of the name,
+12
+13
+image, or likeness of an individual in a newspaper, magazine, book,
+13
+14
+news broadcast or telecast, or other news medium or publication that
+14
+15
+is used as part of a bona fide news report or presentation having a
+15
+16
+current and legitimate public interest and if the name, image, or
+16
+17
+likeness is not used for advertising purposes;
+17
+18
+2. The use of an individual’s name, portrait, photograph,
+18
+19
+image, or other likeness in connection with the resale or other
+19
+20
+distribution of literary, musical, or artistic productions or other
+20
+21
+articles of merchandise or property with the individual’s consent on
+21
+22
+or in connection with the initial sale or distribution of the
+22
+23
+productions, articles, or merchandise; or
+23
+24
+24
+Req. No. 2840 Page 19
+
+1
+3. A photograph of an individual solely as a member of the
+1
+2
+public if the individual is not named or otherwise identified in or
+2
+3
+in connection with the use of the photograph.
+3
+4
+E. An action may not be brought under this section by reason of
+4
+5
+a publication, printing, display, or other public use of the name,
+5
+6
+image, or likeness of an individual occurring more than forty (40)
+6
+7
+years after the death of the individual.
+7
+8
+F. The remedies in this section are in addition to and not in
+8
+9
+limitation of the remedies and rights of any person under the common
+9
+10
+law against the invasion of his or her privacy.
+10
+11
+SECTION 10. NEW LAW A new section of law to be codified
+11
+12
+in the Oklahoma Statutes as Section 409 of Title 75A, unless there
+12
+13
+is created a duplication in numbering, reads as follows:
+13
+14
+No relief may be obtained under Section 9 of this act against
+14
+15
+any broadcaster, publisher, or distributor broadcasting, publishing,
+15
+16
+or distributing paid advertising matter by radio or television or in
+16
+17
+a newspaper, magazine, or similar periodical without knowledge or
+17
+18
+notice that any consent required by Section 9 of this act, in
+18
+19
+connection with such advertising matter, has not been obtained,
+19
+20
+except an injunction against the presentation of such advertising
+20
+21
+matter in future broadcasts or in future issues of such newspaper,
+21
+22
+magazine, or similar periodical.
+22
+23
+23
+24
+24
+Req. No. 2840 Page 20
+
+1
+SECTION 11. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 410 of Title 75A, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A contract made by a minor or made by a parent or legal guardian
+4
+5
+of a minor, or a contract proposed to be so made, may be approved by
+5
+6
+the probate division of a circuit court or any other division of the
+6
+7
+circuit court that has guardianship jurisdiction, where the minor is
+7
+8
+a resident of this state or the services of the minor are to be
+8
+9
+performed or rendered in this state; where the contract sought to be
+9
+10
+approved is one under which the minor will endorse a product or
+10
+11
+service, or in any other way receive compensation for the use of the
+11
+12
+name, image, or likeness of the minor.
+12
+13
+SECTION 12. This act shall become effective November 1, 2026.
+13
+14
+14
+15
+60-2-2840 BRC 1/15/2026 12:15:19 PM
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2840 Page 21
+
+[DELETED:  P B H]
+[DELETED:  P]
+[DELETED:  P a a a]
+[DELETED:  P t d]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P B 1]
