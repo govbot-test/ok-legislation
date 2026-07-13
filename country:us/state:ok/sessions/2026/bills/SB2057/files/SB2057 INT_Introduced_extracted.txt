@@ -1,0 +1,1284 @@
+Title: SENATE BILL 2057 By: Frix
+Official Title: SENATE BILL 2057 By: Frix
+Number of Sections: 46
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to ad valorem tax; amending 68 O.S.
+7
+2021, Sections 2802 and 2803, which relate to
+8
+definitions and classification of property; defining
+8
+term; expanding classifications of property for
+9
+purposes of ad valorem taxation; updating statutory
+9
+language; and providing an effective date.
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+
+Section 2:
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2802, is
+13
+14
+amended to read as follows:
+14
+15
+
+Section 3:
+Section 2802. As used in Section 2801 et seq. of this title:
+15
+16
+
+Section 4:
+1. “Accepted standards for mass appraisal practice” means those
+16
+17
+standards for the collection and analysis of information about
+17
+18
+taxable properties within a taxing jurisdiction permitting the
+18
+19
+accurate estimate of fair cash value for similar properties in the
+19
+20
+jurisdiction either without direct observation of such similar
+20
+21
+properties or without direct sales price information for such
+21
+22
+similar properties using a reliable statistical or other method to
+22
+23
+estimate the values of such properties;
+23
+24
+24
+Req. No. 3224 Page 1
+1
+
+Section 5:
+2. “Additional homestead exemption” means the exemption
+1
+2
+provided by Section 2890 of this title;
+2
+3
+
+Section 6:
+3. “Assessor” means the county assessor and, unless the context
+3
+4
+clearly requires otherwise, deputy assessors and persons employed by
+4
+5
+the county assessor in performance of duties imposed by law;
+5
+6
+
+Section 7:
+4. “Assess and value” means to establish the fair cash value
+6
+7
+and taxable fair cash value of taxable real and personal property
+7
+8
+pursuant to requirements of law;
+8
+9
+
+Section 8:
+5. “Assessed valuation” or “assessed value” means the
+9
+10
+percentage of the fair cash value of personal property, or the
+10
+11
+percentage of the taxable fair cash value of real property, pursuant
+11
+12
+to the provisions of Sections 8 and 8B of Article X of the Oklahoma
+12
+13
+Constitution, either of individual items of personal property,
+13
+14
+parcels of real property or the aggregate total of such individual
+14
+15
+taxable items or parcels within a jurisdiction;
+15
+16
+
+Section 9:
+6. “Assessment percentage” means the percentage applied to
+16
+17
+personal property and real property pursuant to Section 8 of Article
+17
+18
+X of the Oklahoma Constitution;
+18
+19
+
+Section 10:
+7. “Assessment ratio” means the relationship between assessed
+19
+20
+value and taxable fair cash value for a county or for use categories
+20
+21
+within a county expressed as a percentage determined in the annual
+21
+22
+equalization ratio study;
+22
+23
+23
+24
+24
+Req. No. 3224 Page 2
+1
+
+Section 11:
+8. “Assessment roll” means a computerized or noncomputerized
+1
+2
+record required by law to be kept by the county assessor and
+2
+3
+containing information about property within a taxing jurisdiction;
+3
+4
+
+Section 12:
+9. “Assessment year” means the year beginning January 1 of each
+4
+5
+calendar year and ending on December 31 preceding the following
+5
+6
+January 1 assessment date;
+6
+7
+
+Section 13:
+10. “Business assets” means the nonresidential personal
+7
+8
+property of a taxpayer, excluding the personal property of an
+8
+9
+agricultural operation, including, but not limited to, implements of
+9
+10
+husbandry and attachments, machinery, livestock, and improvements to
+10
+11
+agricultural land, boat docks, and airplane hangers;
+11
+12
+
+Section 14:
+11. “Circuit breaker” means the form of property tax relief
+12
+13
+provided by Sections 2904 through 2911 of this title;
+13
+14
+
+Section 15:
+11. 12. “Class of subjects” means a category of property
+14
+15
+specifically designated pursuant to provisions of the Oklahoma
+15
+16
+Constitution for purposes of ad valorem taxation;
+16
+17
+
+Section 16:
+12. 13. “Code” means the Ad Valorem Tax Code, Section 2801 et
+17
+18
+seq. of this title;
+18
+19
+
+Section 17:
+13. 14. “Coefficient of dispersion” means a statistical measure
+19
+20
+of assessment uniformity for a category of property or for all
+20
+21
+property within a taxing jurisdiction;
+21
+22
+
+Section 18:
+14. 15. “Confidence level” means a statistical procedure for
+22
+23
+determining the degree of reliability for use in reporting the
+23
+24
+assessment ratio for a taxing jurisdiction;
+24
+Req. No. 3224 Page 3
+1
+
+Section 19:
+15. 16. “Cost approach” means a method used to establish the
+1
+2
+fair cash value of property involving an estimate of current
+2
+3
+construction cost of improvements, subtracting accrued depreciation
+3
+4
+including any loss in value that may be caused by physical
+4
+5
+deterioration, functional obsolescence or economic obsolescence and
+5
+6
+adding the value of the land.
+6
+7
+a. Physical deterioration is a cause of depreciation that
+7
+8
+is a loss in value due to ordinary wear and tear and
+8
+9
+the forces of nature.
+9
+10
+b. Functional or internal obsolescence is the loss in
+10
+11
+value of a property resulting from changes in tastes,
+11
+12
+preferences, technical innovations or market
+12
+13
+standards.
+13
+14
+c. Economic or external obsolescence is a cause of
+14
+15
+depreciation that is a loss in value as a result of
+15
+16
+impairment in utility and desirability caused by
+16
+17
+factors outside the boundaries of the property or loss
+17
+18
+of value in a property (relative, relative to the cost
+18
+19
+of replacing it with a property of equal utility),
+19
+20
+utility that stems from factors external to the
+20
+21
+property;
+21
+22
+
+Section 20:
+16. 17. “County board of equalization” means the board which,
+22
+23
+upon hearing competent evidence, has the authority to correct and
+23
+24
+adjust the assessment rolls in its respective county to conform to
+24
+Req. No. 3224 Page 4
+1
+fair cash value and such other responsibilities as prescribed in
+1
+2
+
+Section 21:
+Section 2801 et seq. of this title;
+2
+3
+
+Section 22:
+17. 18. “Equalization” means the process for making adjustments
+3
+4
+to taxable property values within a county by analyzing the
+4
+5
+relationships between assessed values and fair cash values in one or
+5
+6
+more use categories within the county or between counties by
+6
+7
+analyzing the relationship between assessed value and fair cash
+7
+8
+value in each county;
+8
+9
+
+Section 23:
+18. 19. “Equalization ratio study” means the analysis of the
+9
+10
+relationships between assessed values and fair cash values in the
+10
+11
+manner provided by law;
+11
+12
+
+Section 24:
+19. 20. “Fair cash value” or “market value” means the value or
+12
+13
+price at which a willing buyer would purchase property and a willing
+13
+14
+seller would sell property if both parties are knowledgeable about
+14
+15
+the property and its uses and if neither party is under any undue
+15
+16
+pressure to buy or sell and for real property shall mean the value
+16
+17
+for the highest and best use for which such property was actually
+17
+18
+used, or was previously classified for use, during the calendar year
+18
+19
+next preceding the applicable January 1 assessment date;
+19
+20
+
+Section 25:
+20. 21. “Homestead exemption” means the reduction in the
+20
+21
+taxable value of a homestead as authorized by law;
+21
+22
+
+Section 26:
+21. 22. “Income and expense approach” means a method to
+22
+23
+estimate fair cash value of a property by determining the present
+23
+24
+value of the projected income stream;
+24
+Req. No. 3224 Page 5
+1
+
+Section 27:
+22. 23. “List and assess” means the process by which taxable
+1
+2
+property is discovered, its description recorded for purposes of ad
+2
+3
+valorem taxation and its fair cash value and taxable fair cash value
+3
+4
+are established;
+4
+5
+
+Section 28:
+23. 24. “Mill” or “millage” means the rate of tax imposed upon
+5
+6
+taxable value. One (1) mill equals One Dollar ($1.00) of tax for
+6
+7
+each One Thousand Dollars ($1,000.00) of taxable value;
+7
+8
+
+Section 29:
+24. 25. “Multiple regression analysis” means a statistical
+8
+9
+technique for estimating unknown data on the basis of known and
+9
+10
+available data;
+10
+11
+
+Section 30:
+25. 26. “Parcel” means a contiguous area of land described in a
+11
+12
+single description by a deed or other instrument or as one of a
+12
+13
+number of lots on a plat or plan, separately owned and capable of
+13
+14
+being separately conveyed;
+14
+15
+
+Section 31:
+26. 27. “Sales comparison approach” means the collection,
+15
+16
+verification, and screening of sales data, stratification of sales
+16
+17
+information for purposes of comparison and use of such information
+17
+18
+to establish the fair cash value of taxable property;
+18
+19
+
+Section 32:
+27. 28. “State Board of Equalization” means the Board
+19
+20
+responsible for valuation of railroad, airline and public service
+20
+21
+corporation property and the adjustment and equalization of all
+21
+22
+property values both centrally and locally assessed;
+22
+23
+
+Section 33:
+28. 29. “Taxable value” means the percentage of the fair cash
+23
+24
+value of personal property or the taxable fair cash value of real
+24
+Req. No. 3224 Page 6
+1
+property, less applicable exemptions, upon which an ad valorem tax
+1
+2
+rate is levied pursuant to the provisions of Section 8 and Section
+2
+3
+8B of Article X of the Oklahoma Constitution;
+3
+4
+
+Section 34:
+29. 30. “Taxable fair cash value” means the fair cash value of
+4
+5
+locally assessed real property as capped pursuant to Section 8B of
+5
+6
+Article X of the Oklahoma Constitution;
+6
+7
+
+Section 35:
+30. 31. “Use category” means a subcategory of real property,
+7
+8
+that is either agricultural use, residential use or
+8
+9
+commercial/industrial use but does not and shall not constitute a
+9
+10
+class of subjects within the meaning of the Oklahoma Constitution
+10
+11
+for purposes of ad valorem taxation;
+11
+12
+
+Section 36:
+31. 32. “Use value” means the basis for establishing fair cash
+12
+13
+value of real property pursuant to the requirement of Section 8 of
+13
+14
+Article X of the Oklahoma Constitution; and
+14
+15
+
+Section 37:
+32. 33. “Visual inspection program” means the program required
+15
+16
+in order to gather data about real property from physical
+16
+17
+examination of the property and improvements in order to establish
+17
+18
+the fair cash values of properties so inspected at least once each
+18
+19
+four (4) years and the fair cash values of similar properties on an
+19
+20
+annual basis.
+20
+21
+
+Section 38:
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 2803, is
+21
+22
+amended to read as follows:
+22
+23
+
+Section 39:
+Section 2803. A. The Legislature, pursuant to authority of
+23
+24
+Article X, Section 22 of Article X of the Oklahoma Constitution,
+24
+Req. No. 3224 Page 7
+1
+hereby classifies the following types of property for purposes of ad
+1
+2
+valorem taxation:
+2
+3
+
+Section 40:
+1. Real property;
+3
+4
+
+Section 41:
+2. Personal property, except as provided in paragraph
+4
+5
+paragraphs 3 and 6 of this subsection;
+5
+6
+
+Section 42:
+3. Personal property which is household goods of the head of
+6
+7
+families and livestock employed in support of the family in those
+7
+8
+counties which have exempted such property pursuant to subsection
+8
+9
+(b) B of Section 6 of Article X of the Oklahoma Constitution;
+9
+10
+
+Section 43:
+4. Public service corporation property; and
+10
+11
+
+Section 44:
+5. Railroad and air carrier property; and
+11
+12
+
+Section 45:
+6. Business assets.
+12
+13
+B. Valuation of each class of subjects shall be made by a
+13
+14
+method appropriate for each class or any subclass thereof, as
+14
+15
+established by the Ad Valorem Division of the Oklahoma Tax
+15
+16
+Commission.
+16
+17
+C. Classification as provided by this section shall require
+17
+18
+uniform treatment of each item within a class or any subclass as
+18
+19
+provided in Article X, Section 5 of Article X of the Oklahoma
+19
+20
+Constitution.
+20
+21
+
+Section 46:
+SECTION 3. This act shall become effective January 1, 2027.
+21
+22
+22
+23
+60-2-3224 QD 1/15/2026 11:20:24 AM
+23
+24
+24
+Req. No. 3224 Page 8
+[DELETED:  P B F]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P P F E]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 2057 By: Frix
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to ad valorem tax; amending 68 O.S.
+7
+2021, Sections 2802 and 2803, which relate to
+8
+definitions and classification of property; defining
+8
+term; expanding classifications of property for
+9
+purposes of ad valorem taxation; updating statutory
+9
+language; and providing an effective date.
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2802, is
+13
+14
+amended to read as follows:
+14
+15
+Section 2802. As used in Section 2801 et seq. of this title:
+15
+16
+1. “Accepted standards for mass appraisal practice” means those
+16
+17
+standards for the collection and analysis of information about
+17
+18
+taxable properties within a taxing jurisdiction permitting the
+18
+19
+accurate estimate of fair cash value for similar properties in the
+19
+20
+jurisdiction either without direct observation of such similar
+20
+21
+properties or without direct sales price information for such
+21
+22
+similar properties using a reliable statistical or other method to
+22
+23
+estimate the values of such properties;
+23
+24
+24
+Req. No. 3224 Page 1
+
+1
+2. “Additional homestead exemption” means the exemption
+1
+2
+provided by Section 2890 of this title;
+2
+3
+3. “Assessor” means the county assessor and, unless the context
+3
+4
+clearly requires otherwise, deputy assessors and persons employed by
+4
+5
+the county assessor in performance of duties imposed by law;
+5
+6
+4. “Assess and value” means to establish the fair cash value
+6
+7
+and taxable fair cash value of taxable real and personal property
+7
+8
+pursuant to requirements of law;
+8
+9
+5. “Assessed valuation” or “assessed value” means the
+9
+10
+percentage of the fair cash value of personal property, or the
+10
+11
+percentage of the taxable fair cash value of real property, pursuant
+11
+12
+to the provisions of Sections 8 and 8B of Article X of the Oklahoma
+12
+13
+Constitution, either of individual items of personal property,
+13
+14
+parcels of real property or the aggregate total of such individual
+14
+15
+taxable items or parcels within a jurisdiction;
+15
+16
+6. “Assessment percentage” means the percentage applied to
+16
+17
+personal property and real property pursuant to Section 8 of Article
+17
+18
+X of the Oklahoma Constitution;
+18
+19
+7. “Assessment ratio” means the relationship between assessed
+19
+20
+value and taxable fair cash value for a county or for use categories
+20
+21
+within a county expressed as a percentage determined in the annual
+21
+22
+equalization ratio study;
+22
+23
+23
+24
+24
+Req. No. 3224 Page 2
+
+1
+8. “Assessment roll” means a computerized or noncomputerized
+1
+2
+record required by law to be kept by the county assessor and
+2
+3
+containing information about property within a taxing jurisdiction;
+3
+4
+9. “Assessment year” means the year beginning January 1 of each
+4
+5
+calendar year and ending on December 31 preceding the following
+5
+6
+January 1 assessment date;
+6
+7
+10. “Business assets” means the nonresidential personal
+7
+8
+property of a taxpayer, excluding the personal property of an
+8
+9
+agricultural operation, including, but not limited to, implements of
+9
+10
+husbandry and attachments, machinery, livestock, and improvements to
+10
+11
+agricultural land, boat docks, and airplane hangers;
+11
+12
+11. “Circuit breaker” means the form of property tax relief
+12
+13
+provided by Sections 2904 through 2911 of this title;
+13
+14
+11. 12. “Class of subjects” means a category of property
+14
+15
+specifically designated pursuant to provisions of the Oklahoma
+15
+16
+Constitution for purposes of ad valorem taxation;
+16
+17
+12. 13. “Code” means the Ad Valorem Tax Code, Section 2801 et
+17
+18
+seq. of this title;
+18
+19
+13. 14. “Coefficient of dispersion” means a statistical measure
+19
+20
+of assessment uniformity for a category of property or for all
+20
+21
+property within a taxing jurisdiction;
+21
+22
+14. 15. “Confidence level” means a statistical procedure for
+22
+23
+determining the degree of reliability for use in reporting the
+23
+24
+assessment ratio for a taxing jurisdiction;
+24
+Req. No. 3224 Page 3
+
+1
+15. 16. “Cost approach” means a method used to establish the
+1
+2
+fair cash value of property involving an estimate of current
+2
+3
+construction cost of improvements, subtracting accrued depreciation
+3
+4
+including any loss in value that may be caused by physical
+4
+5
+deterioration, functional obsolescence or economic obsolescence and
+5
+6
+adding the value of the land.
+6
+7
+a. Physical deterioration is a cause of depreciation that
+7
+8
+is a loss in value due to ordinary wear and tear and
+8
+9
+the forces of nature.
+9
+10
+b. Functional or internal obsolescence is the loss in
+10
+11
+value of a property resulting from changes in tastes,
+11
+12
+preferences, technical innovations or market
+12
+13
+standards.
+13
+14
+c. Economic or external obsolescence is a cause of
+14
+15
+depreciation that is a loss in value as a result of
+15
+16
+impairment in utility and desirability caused by
+16
+17
+factors outside the boundaries of the property or loss
+17
+18
+of value in a property (relative, relative to the cost
+18
+19
+of replacing it with a property of equal utility),
+19
+20
+utility that stems from factors external to the
+20
+21
+property;
+21
+22
+16. 17. “County board of equalization” means the board which,
+22
+23
+upon hearing competent evidence, has the authority to correct and
+23
+24
+adjust the assessment rolls in its respective county to conform to
+24
+Req. No. 3224 Page 4
+
+1
+fair cash value and such other responsibilities as prescribed in
+1
+2
+Section 2801 et seq. of this title;
+2
+3
+17. 18. “Equalization” means the process for making adjustments
+3
+4
+to taxable property values within a county by analyzing the
+4
+5
+relationships between assessed values and fair cash values in one or
+5
+6
+more use categories within the county or between counties by
+6
+7
+analyzing the relationship between assessed value and fair cash
+7
+8
+value in each county;
+8
+9
+18. 19. “Equalization ratio study” means the analysis of the
+9
+10
+relationships between assessed values and fair cash values in the
+10
+11
+manner provided by law;
+11
+12
+19. 20. “Fair cash value” or “market value” means the value or
+12
+13
+price at which a willing buyer would purchase property and a willing
+13
+14
+seller would sell property if both parties are knowledgeable about
+14
+15
+the property and its uses and if neither party is under any undue
+15
+16
+pressure to buy or sell and for real property shall mean the value
+16
+17
+for the highest and best use for which such property was actually
+17
+18
+used, or was previously classified for use, during the calendar year
+18
+19
+next preceding the applicable January 1 assessment date;
+19
+20
+20. 21. “Homestead exemption” means the reduction in the
+20
+21
+taxable value of a homestead as authorized by law;
+21
+22
+21. 22. “Income and expense approach” means a method to
+22
+23
+estimate fair cash value of a property by determining the present
+23
+24
+value of the projected income stream;
+24
+Req. No. 3224 Page 5
+
+1
+22. 23. “List and assess” means the process by which taxable
+1
+2
+property is discovered, its description recorded for purposes of ad
+2
+3
+valorem taxation and its fair cash value and taxable fair cash value
+3
+4
+are established;
+4
+5
+23. 24. “Mill” or “millage” means the rate of tax imposed upon
+5
+6
+taxable value. One (1) mill equals One Dollar ($1.00) of tax for
+6
+7
+each One Thousand Dollars ($1,000.00) of taxable value;
+7
+8
+24. 25. “Multiple regression analysis” means a statistical
+8
+9
+technique for estimating unknown data on the basis of known and
+9
+10
+available data;
+10
+11
+25. 26. “Parcel” means a contiguous area of land described in a
+11
+12
+single description by a deed or other instrument or as one of a
+12
+13
+number of lots on a plat or plan, separately owned and capable of
+13
+14
+being separately conveyed;
+14
+15
+26. 27. “Sales comparison approach” means the collection,
+15
+16
+verification, and screening of sales data, stratification of sales
+16
+17
+information for purposes of comparison and use of such information
+17
+18
+to establish the fair cash value of taxable property;
+18
+19
+27. 28. “State Board of Equalization” means the Board
+19
+20
+responsible for valuation of railroad, airline and public service
+20
+21
+corporation property and the adjustment and equalization of all
+21
+22
+property values both centrally and locally assessed;
+22
+23
+28. 29. “Taxable value” means the percentage of the fair cash
+23
+24
+value of personal property or the taxable fair cash value of real
+24
+Req. No. 3224 Page 6
+
+1
+property, less applicable exemptions, upon which an ad valorem tax
+1
+2
+rate is levied pursuant to the provisions of Section 8 and Section
+2
+3
+8B of Article X of the Oklahoma Constitution;
+3
+4
+29. 30. “Taxable fair cash value” means the fair cash value of
+4
+5
+locally assessed real property as capped pursuant to Section 8B of
+5
+6
+Article X of the Oklahoma Constitution;
+6
+7
+30. 31. “Use category” means a subcategory of real property,
+7
+8
+that is either agricultural use, residential use or
+8
+9
+commercial/industrial use but does not and shall not constitute a
+9
+10
+class of subjects within the meaning of the Oklahoma Constitution
+10
+11
+for purposes of ad valorem taxation;
+11
+12
+31. 32. “Use value” means the basis for establishing fair cash
+12
+13
+value of real property pursuant to the requirement of Section 8 of
+13
+14
+Article X of the Oklahoma Constitution; and
+14
+15
+32. 33. “Visual inspection program” means the program required
+15
+16
+in order to gather data about real property from physical
+16
+17
+examination of the property and improvements in order to establish
+17
+18
+the fair cash values of properties so inspected at least once each
+18
+19
+four (4) years and the fair cash values of similar properties on an
+19
+20
+annual basis.
+20
+21
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 2803, is
+21
+22
+amended to read as follows:
+22
+23
+Section 2803. A. The Legislature, pursuant to authority of
+23
+24
+Article X, Section 22 of Article X of the Oklahoma Constitution,
+24
+Req. No. 3224 Page 7
+
+1
+hereby classifies the following types of property for purposes of ad
+1
+2
+valorem taxation:
+2
+3
+1. Real property;
+3
+4
+2. Personal property, except as provided in paragraph
+4
+5
+paragraphs 3 and 6 of this subsection;
+5
+6
+3. Personal property which is household goods of the head of
+6
+7
+families and livestock employed in support of the family in those
+7
+8
+counties which have exempted such property pursuant to subsection
+8
+9
+(b) B of Section 6 of Article X of the Oklahoma Constitution;
+9
+10
+4. Public service corporation property; and
+10
+11
+5. Railroad and air carrier property; and
+11
+12
+6. Business assets.
+12
+13
+B. Valuation of each class of subjects shall be made by a
+13
+14
+method appropriate for each class or any subclass thereof, as
+14
+15
+established by the Ad Valorem Division of the Oklahoma Tax
+15
+16
+Commission.
+16
+17
+C. Classification as provided by this section shall require
+17
+18
+uniform treatment of each item within a class or any subclass as
+18
+19
+provided in Article X, Section 5 of Article X of the Oklahoma
+19
+20
+Constitution.
+20
+21
+SECTION 3. This act shall become effective January 1, 2027.
+21
+22
+22
+23
+60-2-3224 QD 1/15/2026 11:20:24 AM
+23
+24
+24
+Req. No. 3224 Page 8
+
+[DELETED:  P B F]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P P F E]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P Q 1]

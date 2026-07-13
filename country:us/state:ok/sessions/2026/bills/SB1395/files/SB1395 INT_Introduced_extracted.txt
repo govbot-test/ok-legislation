@@ -1,0 +1,3726 @@
+Title: SENATE BILL 1395 By: Rader
+Official Title: SENATE BILL 1395 By: Rader
+Number of Sections: 71
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to income tax; amending 68 O.S. 2021,
+7
+
+Section 2:
+Section 205, as last amended by Section 2, Chapter
+8
+204, O.S.L. 2025 (68 O.S. Supp. 2025, Section 205),
+8
+which relates to the confidential nature of records
+9
+and files of the Oklahoma Tax Commission; excepting
+9
+and requiring the disclosure of information;
+10
+requiring electronic submission of certain report;
+10
+amending 68 O.S. 2021, Section 2357.4, which relates
+11
+to tax credit for investments; limiting credit for
+11
+certain operations to certain tax years; modifying
+12
+carry forward provisions for certain tax years;
+12
+requiring submission and approval of application to
+13
+claim credit for certain tax years; prescribing
+13
+information requirements; requiring the Oklahoma Tax
+14
+Commission to provide certain data to the Incentive
+14
+Evaluation Commission; updating statutory references;
+15
+updating statutory language; and providing an
+15
+effective date.
+16
+16
+17
+17
+18
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18
+19
+
+Section 3:
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 205, as last
+19
+20
+amended by Section 2, Chapter 204, O.S.L. 2025 (68 O.S. Supp. 2025,
+20
+21
+
+Section 4:
+Section 205), is amended to read as follows:
+21
+22
+
+Section 5:
+Section 205. A. The records and files of the Oklahoma Tax
+22
+23
+Commission concerning the administration of the Uniform Tax
+23
+24
+Procedure Code or of any state tax law shall be considered
+24
+Req. No. 2463 Page 1
+1
+confidential and privileged, except as otherwise provided for by
+1
+2
+law, and neither the Tax Commission nor any employee engaged in the
+2
+3
+administration of the Tax Commission or charged with the custody of
+3
+4
+any such records or files nor any person who may have secured
+4
+5
+information from the Tax Commission shall disclose any information
+5
+6
+obtained from the records or files or from any examination or
+6
+7
+inspection of the premises or property of any person.
+7
+8
+B. Except as provided in paragraph 26 25 of subsection C of
+8
+9
+this section, neither the Tax Commission nor any employee engaged in
+9
+10
+the administration of the Tax Commission or charged with the custody
+10
+11
+of any such records or files shall be required by any court of this
+11
+12
+state to produce any of the records or files for the inspection of
+12
+13
+any person or for use in any action or proceeding, except when the
+13
+14
+records or files or the facts shown thereby are directly involved in
+14
+15
+an action or proceeding pursuant to the provisions of the Uniform
+15
+16
+Tax Procedure Code or of the state tax law, or when the
+16
+17
+determination of the action or proceeding will affect the validity
+17
+18
+or the amount of the claim of the state pursuant to any state tax
+18
+19
+law, or when the information contained in the records or files
+19
+20
+constitutes evidence of violation of the provisions of the Uniform
+20
+21
+Tax Procedure Code or of any state tax law.
+21
+22
+C. The provisions of this section shall not prevent the Tax
+22
+23
+Commission, or with respect to the Oklahoma Department of Commerce
+23
+24
+in administration of the Oklahoma Rural Jobs Act as provided by
+24
+Req. No. 2463 Page 2
+1
+paragraph 22 of this subsection, from disclosing the following
+1
+2
+information and no liability whatsoever, civil or criminal, shall
+2
+3
+attach to any member of the Tax Commission, or the Oklahoma
+3
+4
+Department of Commerce as applicable, or any employee thereof for
+4
+5
+any error or omission in the disclosure of such information:
+5
+6
+
+Section 6:
+1. The delivery to a taxpayer or a duly authorized
+6
+7
+representative of the taxpayer of a copy of any report or any other
+7
+8
+paper filed by the taxpayer pursuant to the provisions of the
+8
+9
+Uniform Tax Procedure Code or of any state tax law;
+9
+10
+
+Section 7:
+2. The exchange of information that is not protected by the
+10
+11
+federal Privacy Protection Act of 1980, 42 U.S.C., Section 2000aa et
+11
+12
+seq., pursuant to reciprocal agreements entered into by the Tax
+12
+13
+Commission and other state agencies or agencies of the federal
+13
+14
+government;
+14
+15
+
+Section 8:
+3. The publication of statistics so classified as to prevent
+15
+16
+the identification of a particular report and the items thereof;
+16
+17
+
+Section 9:
+4. The examination of records and files by the State Auditor
+17
+18
+and Inspector or the duly authorized agents of the State Auditor and
+18
+19
+Inspector;
+19
+20
+
+Section 10:
+5. The disclosing of information or evidence to the Oklahoma
+20
+21
+State Bureau of Investigation, Attorney General, Oklahoma State
+21
+22
+Bureau of Narcotics and Dangerous Drugs Control, any district
+22
+23
+attorney or agent of any federal law enforcement agency when the
+23
+24
+information or evidence is to be used by such officials to
+24
+Req. No. 2463 Page 3
+1
+investigate or prosecute violations of the criminal provisions of
+1
+2
+the Uniform Tax Procedure Code or of any state tax law or of any
+2
+3
+federal crime committed against this state. Any information
+3
+4
+disclosed to the Oklahoma State Bureau of Investigation, Attorney
+4
+5
+General, Oklahoma State Bureau of Narcotics and Dangerous Drugs
+5
+6
+Control, any district attorney, or agent of any federal law
+6
+7
+enforcement agency shall be kept confidential by such person and not
+7
+8
+be disclosed except when presented to a court in a prosecution for
+8
+9
+violation of the tax laws of this state or except as specifically
+9
+10
+authorized by law, and a violation by the Oklahoma State Bureau of
+10
+11
+Investigation, Attorney General, Oklahoma State Bureau of Narcotics
+11
+12
+and Dangerous Drugs Control, district attorney, or agent of any
+12
+13
+federal law enforcement agency by otherwise releasing the
+13
+14
+information shall be a felony;
+14
+15
+
+Section 11:
+6. The use by any division of the Tax Commission of any
+15
+16
+information or evidence in the possession of or contained in any
+16
+17
+report or return filed with any other division of the Tax
+17
+18
+Commission;
+18
+19
+
+Section 12:
+7. The furnishing, at the discretion of the Tax Commission, of
+19
+20
+any information disclosed by its records or files to any official
+20
+21
+person or body of this state, any other state, the United States, or
+21
+22
+a foreign country who is concerned with the administration or
+22
+23
+assessment of any similar tax in this state, any other state, or the
+23
+24
+United States. The provisions of this paragraph shall include the
+24
+Req. No. 2463 Page 4
+1
+furnishing of information by the Tax Commission to a county assessor
+1
+2
+to determine the amount of gross household income pursuant to the
+2
+3
+provisions of Section 8C of Article X of the Oklahoma Constitution
+3
+4
+or Section 2890 of this title. The Tax Commission shall promulgate
+4
+5
+rules to give guidance to the county assessors regarding the type of
+5
+6
+information which may be used by the county assessors in determining
+6
+7
+the amount of gross household income pursuant to Section 8C of
+7
+8
+Article X of the Oklahoma Constitution or Section 2890 of this
+8
+9
+title. The provisions of this paragraph shall also include the
+9
+10
+furnishing of information to the State Treasurer for the purpose of
+10
+11
+administration of the Uniform Unclaimed Property Act;
+11
+12
+
+Section 13:
+8. The furnishing of information to other state agencies for
+12
+13
+the limited purpose of aiding in the collection of debts owed by
+13
+14
+individuals to such requesting agencies;
+14
+15
+
+Section 14:
+9. The furnishing of information requested by any member of the
+15
+16
+general public and stated in the sworn lists or schedules of taxable
+16
+17
+property of public service corporations organized, existing, or
+17
+18
+doing business in this state which are submitted to and certified by
+18
+19
+the State Board of Equalization pursuant to the provisions of
+19
+20
+
+Section 15:
+Section 2858 of this title and Section 21 of Article X of the
+20
+21
+Oklahoma Constitution, provided such information would be a public
+21
+22
+record if filed pursuant to Sections 2838 and 2839 of this title on
+22
+23
+behalf of a corporation other than a public service corporation;
+23
+24
+24
+Req. No. 2463 Page 5
+1
+
+Section 16:
+10. The furnishing of information requested by any member of
+1
+2
+the general public and stated in the findings of the Tax Commission
+2
+3
+as to the adjustment and equalization of the valuation of real and
+3
+4
+personal property of the counties of the state, which are submitted
+4
+5
+to and certified by the State Board of Equalization pursuant to the
+5
+6
+provisions of Section 2865 of this title and Section 21 of Article X
+6
+7
+of the Oklahoma Constitution;
+7
+8
+
+Section 17:
+11. The furnishing of information as to the issuance or
+8
+9
+revocation of any tax permit, license, or exemption by the Tax
+9
+10
+Commission as provided for by law. Such information shall be
+10
+11
+limited to the name of the person issued the permit, license, or
+11
+12
+exemption, the name of the business entity authorized to engage in
+12
+13
+business pursuant to the permit, license, or exemption, the address
+13
+14
+of the business entity, and the grounds for revocation;
+14
+15
+
+Section 18:
+12. The posting of notice of revocation of any tax permit or
+15
+16
+license upon the premises of the place of business of any business
+16
+17
+entity which has had any tax permit or license revoked by the Tax
+17
+18
+Commission as provided for by law. Such notice shall be limited to
+18
+19
+the name of the person issued the permit or license, the name of the
+19
+20
+business entity authorized to engage in business pursuant to the
+20
+21
+permit or license, the address of the business entity, and the
+21
+22
+grounds for revocation;
+22
+23
+
+Section 19:
+13. The furnishing of information upon written request by any
+23
+24
+member of the general public as to the outstanding and unpaid amount
+24
+Req. No. 2463 Page 6
+1
+due and owing by any taxpayer of this state for any delinquent tax,
+1
+2
+together with penalty and interest, for which a tax warrant or a
+2
+3
+certificate of indebtedness has been filed pursuant to law;
+3
+4
+
+Section 20:
+14. After the filing of a tax warrant pursuant to law, the
+4
+5
+furnishing of information upon written request by any member of the
+5
+6
+general public as to any agreement entered into by the Tax
+6
+7
+Commission concerning a compromise of tax liability for an amount
+7
+8
+less than the amount of tax liability stated on such warrant;
+8
+9
+
+Section 21:
+15. The disclosure of information necessary to complete the
+9
+10
+performance of any contract authorized by this title to any person
+10
+11
+with whom the Tax Commission has contracted;
+11
+12
+
+Section 22:
+16. The disclosure of information to any person for a purpose
+12
+13
+as authorized by the taxpayer pursuant to a waiver of
+13
+14
+confidentiality. The waiver shall be in writing and shall be made
+14
+15
+upon such form as the Tax Commission may prescribe;
+15
+16
+
+Section 23:
+17. The disclosure of information required in order to comply
+16
+17
+with the provisions of Section 2369 of this title;
+17
+18
+
+Section 24:
+18. The disclosure to an employer, as defined in Sections
+18
+19
+
+Section 25:
+Section 2385.1 and 2385.3 of this title, of information required in
+19
+20
+order to collect the tax imposed by Section 2385.2 of this title;
+20
+21
+
+Section 26:
+19. The disclosure to a plaintiff of a corporation’s last-known
+21
+22
+address shown on the records of the Franchise Tax Division of the
+22
+23
+Tax Commission in order for such plaintiff to comply with the
+23
+24
+requirements of Section 2004 of Title 12 of the Oklahoma Statutes;
+24
+Req. No. 2463 Page 7
+1
+
+Section 27:
+20. The disclosure of information directly involved in the
+1
+2
+resolution of the protest by a taxpayer to an assessment of tax or
+2
+3
+additional tax or the resolution of a claim for refund filed by a
+3
+4
+taxpayer, including the disclosure of the pendency of an
+4
+5
+administrative proceeding involving such protest or claim, to a
+5
+6
+person called by the Tax Commission as an expert witness or as a
+6
+7
+witness whose area of knowledge or expertise specifically addresses
+7
+8
+the issue addressed in the protest or claim for refund. Such
+8
+9
+disclosure to a witness shall be limited to information pertaining
+9
+10
+to the specific knowledge of that witness as to the transaction or
+10
+11
+relationship between taxpayer and witness;
+11
+12
+
+Section 28:
+21. The disclosure of information necessary to implement an
+12
+13
+agreement authorized by Section 2702 of this title when such
+13
+14
+information is directly involved in the resolution of issues arising
+14
+15
+out of the enforcement of a municipal sales tax ordinance. Such
+15
+16
+disclosure shall be to the governing body or to the municipal
+16
+17
+attorney, if so designated by the governing body;
+17
+18
+
+Section 29:
+22. The furnishing of information regarding incentive payments
+18
+19
+made pursuant to the provisions of Sections 3601 through 3609 3612
+19
+20
+of this title, incentive payments made pursuant to the provisions of
+20
+21
+
+Section 30:
+Sections 3501 through 3508 of this title, or tax credits claimed
+21
+22
+pursuant to the provisions of Sections 3930 through 3937 of this
+22
+23
+title;
+23
+24
+24
+Req. No. 2463 Page 8
+1
+
+Section 31:
+23. The furnishing to a prospective purchaser of any business,
+1
+2
+or his or her authorized representative, of information relating to
+2
+3
+any liabilities, delinquencies, assessments, or warrants of the
+3
+4
+prospective seller of the business which have not been filed of
+4
+5
+record, established, or become final and which relate solely to the
+5
+6
+seller’s business. Any disclosure under this paragraph shall only
+6
+7
+be allowed upon the presentment by the prospective buyer, or the
+7
+8
+buyer’s authorized representative, of the purchase contract and a
+8
+9
+written authorization between the parties;
+9
+10
+
+Section 32:
+24. The furnishing of information as to the amount of state
+10
+11
+revenue affected by the issuance or granting of any tax permit,
+11
+12
+license, exemption, deduction, credit, or other tax preference by
+12
+13
+the Tax Commission as provided for by law. Such information shall
+13
+14
+be limited to the type of permit, license, exemption, deduction,
+14
+15
+credit, or other tax preference issued or granted, the date and
+15
+16
+duration of such permit, license, exemption, deduction, credit, or
+16
+17
+other tax preference and the amount of such revenue. The provisions
+17
+18
+of this paragraph shall not authorize the disclosure of the name of
+18
+19
+the person issued such permit, license, exemption, deduction,
+19
+20
+credit, or other tax preference, or the name of the business entity
+20
+21
+authorized to engage in business pursuant to the permit, license,
+21
+22
+exemption, deduction, credit, or other tax preference;
+22
+23
+
+Section 33:
+25. The examination of records and files of a person or entity
+23
+24
+by the Oklahoma State Bureau of Narcotics and Dangerous Drugs
+24
+Req. No. 2463 Page 9
+1
+Control, district attorney, or the Attorney General pursuant to a
+1
+2
+court order by a magistrate in whose territorial jurisdiction the
+2
+3
+person or entity resides, or where the Tax Commission records and
+3
+4
+files are physically located. Such an order may only be issued upon
+4
+5
+a sworn application by an agent of the Oklahoma State Bureau of
+5
+6
+Narcotics and Dangerous Drugs Control or the Attorney General,
+6
+7
+certifying that the person or entity whose records and files are to
+7
+8
+be examined is the target of an ongoing investigation of a felony
+8
+9
+violation of the Uniform Controlled Dangerous Substances Act and
+9
+10
+that information resulting from such an examination would likely be
+10
+11
+relevant to that investigation. Any records or information obtained
+11
+12
+pursuant to such an order may only be used by the Oklahoma State
+12
+13
+Bureau of Narcotics and Dangerous Drugs Control, district attorney,
+13
+14
+or the Attorney General in the investigation and prosecution of a
+14
+15
+felony violation of the Uniform Controlled Dangerous Substances Act
+15
+16
+or money laundering pursuant to Section 2001 of Title 21 of the
+16
+17
+Oklahoma Statutes. Any such order issued pursuant to this
+17
+18
+paragraph, along with the underlying application, shall be sealed
+18
+19
+and not disclosed to the person or entity whose records were
+19
+20
+examined, for a period of ninety (90) days. The issuing magistrate
+20
+21
+may grant extensions of such period upon a showing of good cause in
+21
+22
+furtherance of the investigation. Upon the expiration of ninety
+22
+23
+(90) days and any extensions granted by the magistrate, a copy of
+23
+24
+the application and order shall be served upon the person or entity
+24
+Req. No. 2463 Page 10
+1
+whose records were examined, along with a copy of the records or
+1
+2
+information actually provided by the Tax Commission;
+2
+3
+
+Section 34:
+26. The disclosure of information, as prescribed by this
+3
+4
+paragraph, which is related to the proposed or actual usage of tax
+4
+5
+credits pursuant to Section 2357.7 of this title, the Small Business
+5
+6
+Capital Formation Incentive Act, or the Rural Venture Capital
+6
+7
+Formation Incentive Act. Unless the context clearly requires
+7
+8
+otherwise, the terms used in this paragraph shall have the same
+8
+9
+meaning as defined by Section 2357.7, 2357.61, or 2357.72 of this
+9
+10
+title. The disclosure of information authorized by this paragraph
+10
+11
+shall include:
+11
+12
+a. the legal name of any qualified venture capital
+12
+13
+company, qualified small business capital company, or
+13
+14
+qualified rural small business capital company,
+14
+15
+b. the identity or legal name of any person or entity
+15
+16
+that is a shareholder or partner of a qualified
+16
+17
+venture capital company, qualified small business
+17
+18
+capital company, or qualified rural small business
+18
+19
+capital company,
+19
+20
+c. the identity or legal name of any Oklahoma business
+20
+21
+venture, Oklahoma small business venture, or Oklahoma
+21
+22
+rural small business venture in which a qualified
+22
+23
+investment has been made by a capital company, or
+23
+24
+24
+Req. No. 2463 Page 11
+1
+d. the amount of funds invested in a qualified venture
+1
+2
+capital company, the amount of qualified investments
+2
+3
+in a qualified small business capital company or
+3
+4
+qualified rural small business capital company, and
+4
+5
+the amount of investments made by a qualified venture
+5
+6
+capital company, qualified small business capital
+6
+7
+company, or qualified rural small business capital
+7
+8
+company;
+8
+9
+
+Section 35:
+27. The disclosure of specific information as required by
+9
+10
+
+Section 36:
+Section 46 of Title 62 of the Oklahoma Statutes;
+10
+11
+
+Section 37:
+28. The disclosure of specific information as required by
+11
+12
+
+Section 38:
+Section 205.5 of this title;
+12
+13
+
+Section 39:
+29. The disclosure of specific information as required by
+13
+14
+
+Section 40:
+Section 205.6 of this title;
+14
+15
+
+Section 41:
+30. The disclosure of information to the State Treasurer
+15
+16
+necessary to implement Section 2368.27 of this title;
+16
+17
+
+Section 42:
+31. The disclosure of specific information to the Oklahoma
+17
+18
+Health Care Authority for purposes of determining eligibility for
+18
+19
+current or potential recipients of assistance from the Oklahoma
+19
+20
+Medicaid Program;
+20
+21
+
+Section 43:
+32. The disclosure of information to the Oklahoma Department of
+21
+22
+Veterans Affairs including, but not limited to, the name and basis
+22
+23
+for eligibility of each individual who qualifies for the sales tax
+23
+24
+exemption authorized in paragraph 34 of Section 1357 of this title;
+24
+Req. No. 2463 Page 12
+1
+
+Section 44:
+33. The disclosure of information to the Oklahoma Medical
+1
+2
+Marijuana Authority for the purposes of compliance with the Oklahoma
+2
+3
+Medical Marijuana and Patient Protection Act or Section 420 et seq.
+3
+4
+of Title 63 of the Oklahoma Statutes; or
+4
+5
+
+Section 45:
+34. The disclosure of information required in order to comply
+5
+6
+with the provisions of subsection H of Section 2902 of this title;
+6
+7
+or
+7
+8
+
+Section 46:
+35. The disclosure of information required in order to comply
+8
+9
+with the provisions of subsection O of Section 2357.4 of this title.
+9
+10
+D. The Tax Commission shall cause to be prepared and made
+10
+11
+available for public inspection in the office of the Tax Commission
+11
+12
+in such manner as it may determine an annual list containing the
+12
+13
+name and post office address of each person, whether individual,
+13
+14
+corporate or otherwise, making and filing an income tax return with
+14
+15
+the Tax Commission.
+15
+16
+It is specifically provided that no liability whatsoever, civil
+16
+17
+or criminal, shall attach to any member of the Tax Commission or any
+17
+18
+employee thereof for any error or omission of any name or address in
+18
+19
+the preparation and publication of the list.
+19
+20
+E. The Tax Commission shall prepare or cause to be prepared a
+20
+21
+report on all provisions of state tax law that reduce state revenue
+21
+22
+through exclusions, deductions, credits, exemptions, deferrals, or
+22
+23
+other preferential tax treatments. The report shall be prepared not
+23
+24
+later than October 1 of each even-numbered year and shall be
+24
+Req. No. 2463 Page 13
+1
+submitted electronically to the Governor, the President Pro Tempore
+1
+2
+of the Senate and the Speaker of the House of Representatives. The
+2
+3
+Tax Commission may prepare and submit supplements to the report at
+3
+4
+other times of the year if additional or updated information
+4
+5
+relevant to the report becomes available. The report shall include,
+5
+6
+for the previous fiscal year, the Tax Commission’s best estimate of
+6
+7
+the amount of state revenue that would have been collected but for
+7
+8
+the existence of each such exclusion, deduction, credit, exemption,
+8
+9
+deferral, or other preferential tax treatment allowed by law. The
+9
+10
+Tax Commission may request the assistance of other state agencies as
+10
+11
+may be needed to prepare the report. The Tax Commission is
+11
+12
+authorized to require any recipient of a tax incentive or tax
+12
+13
+expenditure to report to the Tax Commission such information as
+13
+14
+requested so that the Tax Commission may fulfill its obligations as
+14
+15
+required by this subsection. The Tax Commission may require this
+15
+16
+information to be submitted in an electronic format. The Tax
+16
+17
+Commission may disallow any claim of a person for a tax incentive
+17
+18
+due to its failure to file a report as required under the authority
+18
+19
+of this subsection.
+19
+20
+F. It is further provided that the provisions of this section
+20
+21
+shall be strictly interpreted and shall not be construed as
+21
+22
+permitting the disclosure of any other information contained in the
+22
+23
+records and files of the Tax Commission relating to income tax or to
+23
+24
+any other taxes.
+24
+Req. No. 2463 Page 14
+1
+G. Unless otherwise provided for in this section, any violation
+1
+2
+of the provisions of this section shall constitute a misdemeanor and
+2
+3
+shall be punishable by the imposition of a fine not exceeding One
+3
+4
+Thousand Dollars ($1,000.00) or by imprisonment in the county jail
+4
+5
+for a term not exceeding one (1) year, or by both such fine and
+5
+6
+imprisonment, and the offender shall be removed or dismissed from
+6
+7
+office.
+7
+8
+H. Offenses described in Section 2376 of this title shall be
+8
+9
+reported to the appropriate district attorney of this state by the
+9
+10
+Tax Commission as soon as the offenses are discovered by the Tax
+10
+11
+Commission or its agents or employees. The Tax Commission shall
+11
+12
+make available to the appropriate district attorney or to the
+12
+13
+authorized agent of the district attorney its records and files
+13
+14
+pertinent to prosecutions, and such records and files shall be fully
+14
+15
+admissible as evidence for the purpose of such prosecutions.
+15
+16
+
+Section 47:
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 2357.4, is
+16
+17
+amended to read as follows:
+17
+18
+
+Section 48:
+Section 2357.4. A. Except as otherwise provided in subsection
+18
+19
+F of Section 3658 of this title and in subsections J K and K L of
+19
+20
+this section, for taxable years beginning after December 31, 1987,
+20
+21
+there shall be allowed a credit against the tax imposed by Section
+21
+22
+2355 of this title for:
+22
+23
+
+Section 49:
+1. Investment in qualified depreciable property placed in
+23
+24
+service during those years for use in a manufacturing operation, as
+24
+Req. No. 2463 Page 15
+1
+defined in Section 1352 of this title, which has received a
+1
+2
+manufacturer exemption permit pursuant to the provisions of Section
+2
+3
+
+Section 50:
+1359.2 of this title or a qualified aircraft maintenance or
+3
+4
+manufacturing facility as defined in Section 1357 of this title in
+4
+5
+this state or a qualified web search portal as defined in Section
+5
+6
+1357 of this title; or
+6
+7
+
+Section 51:
+2. A net increase in the number of full-time-equivalent
+7
+8
+employees in a manufacturing operation, as defined in Section 1352
+8
+9
+of this title, which has received a manufacturer exemption permit
+9
+10
+pursuant to the provisions of Section 1359.2 of this title or a
+10
+11
+qualified aircraft maintenance or manufacturing facility defined in
+11
+12
+
+Section 52:
+Section 1357 of this title in this state or in a qualified web
+12
+13
+search portal as defined in Section 1357 of this title including
+13
+14
+employees engaged in support services. Provided, a manufacturing
+14
+15
+operation, as defined in Section 1352 of this title, shall be
+15
+16
+allowed a credit authorized pursuant to this paragraph for tax years
+16
+17
+1988 through 2026.
+17
+18
+B. Except as otherwise provided in subsection F of Section 3658
+18
+19
+of this title and in subsections J K and K L of this section, for
+19
+20
+taxable years beginning after December 31, 1998, there shall be
+20
+21
+allowed a credit against the tax imposed by Section 2355 of this
+21
+22
+title for:
+22
+23
+
+Section 53:
+1. Investment in qualified depreciable property with a total
+23
+24
+cost equal to or greater than Forty Million Dollars ($40,000,000.00)
+24
+Req. No. 2463 Page 16
+1
+within three (3) years from the date of initial qualifying
+1
+2
+expenditure and placed in service in this state during those years
+2
+3
+for use in the manufacture of products described by any Industry
+3
+4
+Number contained in Division D of Part I of the Standard Industrial
+4
+5
+Classification (SIC) Manual, latest revision; or
+5
+6
+
+Section 54:
+2. A For tax years 1999 through 2026, a net increase in the
+6
+7
+number of full-time-equivalent employees in this state engaged in
+7
+8
+the manufacture of any goods identified by any Industry Number
+8
+9
+contained in Division D of Part I of the Standard Industrial
+9
+10
+Classification (SIC) Manual, latest revision, if the total cost of
+10
+11
+qualified depreciable property placed in service by the business
+11
+12
+entity within the state equals or exceeds Forty Million Dollars
+12
+13
+($40,000,000.00) within three (3) years from the date of initial
+13
+14
+qualifying expenditure.
+14
+15
+C. The business entity may claim the credit authorized by
+15
+16
+subsection B of this section for expenditures incurred or for a net
+16
+17
+increase in the number of full-time-equivalent employees after the
+17
+18
+business entity provides proof satisfactory to the Oklahoma Tax
+18
+19
+Commission that the conditions imposed pursuant to paragraph 1 or
+19
+20
+paragraph 2 of subsection B of this section have been satisfied.
+20
+21
+D. If a business entity fails to expend the amount required by
+21
+22
+paragraph 1 or paragraph 2 of subsection B of this section within
+22
+23
+the time required, the business entity may not claim the credit
+23
+24
+authorized by subsection B of this section but shall be allowed to
+24
+Req. No. 2463 Page 17
+1
+claim a credit pursuant to subsection A of this section if the
+1
+2
+requirements of subsection A of this section are met with respect to
+2
+3
+the investment in qualified depreciable property or net increase in
+3
+4
+the number of full-time-equivalent employees.
+4
+5
+E. The credit provided for in subsection A of this section, if
+5
+6
+based upon investment in qualified depreciable property, shall not
+6
+7
+be allowed unless the investment in qualified depreciable property
+7
+8
+is at least Fifty Thousand Dollars ($50,000.00). The credit
+8
+9
+provided for in subsection A or B of this section shall not be
+9
+10
+allowed if the applicable investment is the direct cause of a
+10
+11
+decrease in the number of full-time-equivalent employees. Qualified
+11
+12
+property shall be limited to machinery, fixtures, equipment,
+12
+13
+buildings, or substantial improvements thereto, placed in service in
+13
+14
+this state during the taxable year. The taxable years for which the
+14
+15
+credit may be allowed if based upon investment in qualified
+15
+16
+depreciable property shall be measured from the year in which the
+16
+17
+qualified property is placed in service. If the credit provided for
+17
+18
+in subsection A or B of this section is calculated on the basis of
+18
+19
+the cost of the qualified property, the credit shall be allowed in
+19
+20
+each of the four (4) subsequent years. If the qualified property on
+20
+21
+which a credit has previously been allowed is acquired from a
+21
+22
+related party, the date such property is placed in service by the
+22
+23
+transferor shall be considered to be the date such property is
+23
+24
+24
+Req. No. 2463 Page 18
+1
+placed in service by the transferee, for purposes of determining the
+1
+2
+aggregate number of years for which credit may be allowed.
+2
+3
+F. The credit provided for in subsection A or B of this
+3
+4
+
+Section 55:
+section, if based upon an increase in the number of full-time-
+4
+5
+equivalent employees, shall be allowed in each of the four (4)
+5
+6
+subsequent years only if the level of new employees is maintained in
+6
+7
+the subsequent year. In calculating the credit by the number of new
+7
+8
+employees, only those employees whose paid wages or salary were at
+8
+9
+least Seven Thousand Dollars ($7,000.00) during each year the credit
+9
+10
+is claimed shall be included in the calculation. Provided, that the
+10
+11
+first year a credit is claimed for a new employee, such employee may
+11
+12
+be included in the calculation notwithstanding paid wages of less
+12
+13
+than Seven Thousand Dollars ($7,000.00) if the employee was hired in
+13
+14
+the last three quarters of the tax year, has wages or salary which
+14
+15
+will result in annual paid wages in excess of Seven Thousand Dollars
+15
+16
+($7,000.00) and the taxpayer submits an affidavit stating that the
+16
+17
+employee’s position will be retained in the following tax year and
+17
+18
+will result in the payment of wages in excess of Seven Thousand
+18
+19
+Dollars ($7,000.00). The number of new employees shall be
+19
+20
+determined by comparing the monthly average number of full-time
+20
+21
+employees subject to Oklahoma income tax withholding for the final
+21
+22
+quarter of the taxable year with the corresponding period of the
+22
+23
+prior taxable year, as substantiated by such reports as may be
+23
+24
+required by the Tax Commission.
+24
+Req. No. 2463 Page 19
+1
+G. The credit allowed by subsection A of this section shall be
+1
+2
+the greater amount of either:
+2
+3
+
+Section 56:
+1. One percent (1%) of the cost of the qualified property in
+3
+4
+the year the property is placed in service; or
+4
+5
+
+Section 57:
+2. Five Hundred Dollars ($500.00) for each new employee. No
+5
+6
+credit shall be allowed in any taxable year for a net increase in
+6
+7
+the number of full-time-equivalent employees if such increase is a
+7
+8
+result of an investment in qualified depreciable property for which
+8
+9
+an income tax credit has been allowed as authorized by this section.
+9
+10
+H. The credit allowed by subsection B of this section shall be
+10
+11
+the greater amount of either:
+11
+12
+
+Section 58:
+1. Two percent (2%) of the cost of the qualified property in
+12
+13
+the year the property is placed in service; or
+13
+14
+
+Section 59:
+2. One Thousand Dollars ($1,000.00) for each new employee.
+14
+15
+No credit shall be allowed in any taxable year for a net
+15
+16
+increase in the number of full-time-equivalent employees if such
+16
+17
+increase is a result of an investment in qualified depreciable
+17
+18
+property for which an income tax credit has been allowed as
+18
+19
+authorized by this section.
+19
+20
+I. Except as provided by subsection G of Section 3658 of this
+20
+21
+title, any credits allowed but not used in any taxable year tax year
+21
+22
+2026 and previous tax years may be carried over in order as follows:
+22
+23
+
+Section 60:
+1. To each of the four (4) years following the year of
+23
+24
+qualification;
+24
+Req. No. 2463 Page 20
+1
+
+Section 61:
+2. To the extent not used in those years in order to each of
+1
+2
+the fifteen (15) years following the initial five-year period;
+2
+3
+
+Section 62:
+3. If a C corporation that otherwise qualified for the credits
+3
+4
+under subsection A of this section subsequently changes its
+4
+5
+operating status to that of a pass-through entity which is being
+5
+6
+treated as the same entity for federal tax purposes, the credits
+6
+7
+will continue to be available as if the pass-through entity had
+7
+8
+originally qualified for the credits subject to the limitations of
+8
+9
+this section;
+9
+10
+
+Section 63:
+4. To the extent not used in paragraphs 1 and 2 of this
+10
+11
+subsection, such credits from qualified depreciable property placed
+11
+12
+in service on or after January 1, 2000, may be utilized in any
+12
+13
+subsequent tax years after the initial twenty-year period; and
+13
+14
+
+Section 64:
+5. Provided, for tax years beginning on or after January 1,
+14
+15
+2016, and ending on or before December 31, 2018, the amount of
+15
+16
+credits available as an offset in a taxable year shall be limited to
+16
+17
+the percentage calculated by the Tax Commission pursuant to the
+17
+18
+provisions of subsection L M of this section.
+18
+19
+J. Any credits allowed pursuant to this section but not used
+19
+20
+may be carried forward in order to each of the seven (7) subsequent
+20
+21
+tax years.
+21
+22
+K. No credit otherwise authorized by the provisions of this
+22
+23
+
+Section 65:
+section may be claimed for any event, transaction, investment,
+23
+24
+expenditure, or other act occurring on or after July 1, 2010, for
+24
+Req. No. 2463 Page 21
+1
+which the credit would otherwise be allowable until the provisions
+1
+2
+of this subsection shall cease to be operative on July 1, 2012.
+2
+3
+Beginning July 1, 2012, the credit authorized by this section may be
+3
+4
+claimed for any event, transaction, investment, expenditure, or
+4
+5
+other act occurring on or after July 1, 2010, according to the
+5
+6
+provisions of this section; provided, credits accrued during the
+6
+7
+period from July 1, 2010, through June 30, 2012, shall be limited to
+7
+8
+a period of two (2) taxable years. The credit shall be limited in
+8
+9
+each taxable year to fifty percent (50%) of the total amount of the
+9
+10
+accrued credit. Any tax credits which accrue during the period of
+10
+11
+July 1, 2010, through June 30, 2012, may not be claimed for any
+11
+12
+period prior to the taxable year beginning January 1, 2012. No
+12
+13
+credits which accrue during the period of July 1, 2010, through June
+13
+14
+30, 2012, may be used to file an amended tax return for any taxable
+14
+15
+year prior to the taxable year beginning January 1, 2012.
+15
+16
+K. L. Beginning January 1, 2017, except with respect to tax
+16
+17
+credits allowed from investment or job creation occurring prior to
+17
+18
+January 1, 2017, the credits authorized by this section shall not be
+18
+19
+allowed for investment or job creation in electric power generation
+19
+20
+by means of wind as described by the North American Industry
+20
+21
+Classification System, No. 221119.
+21
+22
+L. M. For tax years beginning on or after January 1, 2016, and
+22
+23
+ending on or before December 31, 2018, the total amount of credits
+23
+24
+authorized by this section used to offset tax shall be adjusted
+24
+Req. No. 2463 Page 22
+1
+annually to limit the annual amount of credits to Twenty-five
+1
+2
+Million Dollars ($25,000,000.00). The Tax Commission shall annually
+2
+3
+calculate and publish a percentage by which the credits authorized
+3
+4
+by this section shall be reduced so the total amount of credits used
+4
+5
+to offset tax does not exceed Twenty-five Million Dollars
+5
+6
+($25,000,000.00) per year. The formula to be used for the
+6
+7
+percentage adjustment shall be Twenty-five Million Dollars
+7
+8
+($25,000,000.00) divided by the credits used to offset tax in the
+8
+9
+second preceding year.
+9
+10
+M. N. Pursuant to subsection L M of this section, in the event
+10
+11
+the total tax credits authorized by this section exceed Twenty-five
+11
+12
+Million Dollars ($25,000,000.00) in any calendar year, the Tax
+12
+13
+Commission shall permit any excess over Twenty-five Million Dollars
+13
+14
+($25,000,000.00) but shall factor such excess into the percentage
+14
+15
+adjustment formula for subsequent years.
+15
+16
+O. For tax year 2027 and subsequent tax years, an entity shall
+16
+17
+submit an application, on a form prescribed by the Oklahoma Tax
+17
+18
+Commission, and receive approval by the Tax Commission before
+18
+19
+claiming a tax credit authorized pursuant to this section. The form
+19
+20
+shall require the following information:
+20
+21
+
+Section 66:
+1. The National Industry Number of the North American Industry
+21
+22
+Classification System (NAICS) Manual, latest revision, that
+22
+23
+describes the primary business activity of the entity;
+23
+24
+24
+Req. No. 2463 Page 23
+1
+
+Section 67:
+2. The amount of unused, carried forward credit claimed, as
+1
+2
+authorized pursuant to paragraph 2 of subsection A of this section
+2
+3
+and paragraph 2 of subsection B of this section;
+3
+4
+
+Section 68:
+3. The amount of unused, carried forward credit claimed, as
+4
+5
+authorized pursuant to paragraph 1 of subsection A of this section
+5
+6
+and paragraph 1 of subsection B of this section;
+6
+7
+
+Section 69:
+4. The average wage of new jobs created pursuant to the
+7
+8
+investment or creation of new jobs for which credit is applied for
+8
+9
+pursuant to this subsection; and
+9
+10
+
+Section 70:
+5. The following categories of investment, including amounts,
+10
+11
+for which the credit is applied for pursuant to this subsection:
+11
+12
+a. new facility,
+12
+13
+b. expansion of existing facility,
+13
+14
+c. upgrades to existing facility, and
+14
+15
+d. upgrades and replacement of equipment.
+15
+16
+The Oklahoma Tax Commission shall provide the data collected
+16
+17
+pursuant to this subsection to the Incentive Evaluation Commission
+17
+18
+for only evaluation purposes by the Incentive Evaluation Commission
+18
+19
+or a designee. The Oklahoma Tax Commission may promulgate rules to
+19
+20
+effectuate the provisions of this subsection.
+20
+21
+
+Section 71:
+SECTION 3. This act shall become effective November 1, 2026.
+21
+22
+22
+23
+60-2-2463 QD 12/30/2025 11:02:12 PM
+23
+24
+24
+Req. No. 2463 Page 24
+[DELETED:  P B R]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P n e u u Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1395 By: Rader
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to income tax; amending 68 O.S. 2021,
+7
+Section 205, as last amended by Section 2, Chapter
+8
+204, O.S.L. 2025 (68 O.S. Supp. 2025, Section 205),
+8
+which relates to the confidential nature of records
+9
+and files of the Oklahoma Tax Commission; excepting
+9
+and requiring the disclosure of information;
+10
+requiring electronic submission of certain report;
+10
+amending 68 O.S. 2021, Section 2357.4, which relates
+11
+to tax credit for investments; limiting credit for
+11
+certain operations to certain tax years; modifying
+12
+carry forward provisions for certain tax years;
+12
+requiring submission and approval of application to
+13
+claim credit for certain tax years; prescribing
+13
+information requirements; requiring the Oklahoma Tax
+14
+Commission to provide certain data to the Incentive
+14
+Evaluation Commission; updating statutory references;
+15
+updating statutory language; and providing an
+15
+effective date.
+16
+16
+17
+17
+18
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18
+19
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 205, as last
+19
+20
+amended by Section 2, Chapter 204, O.S.L. 2025 (68 O.S. Supp. 2025,
+20
+21
+Section 205), is amended to read as follows:
+21
+22
+Section 205. A. The records and files of the Oklahoma Tax
+22
+23
+Commission concerning the administration of the Uniform Tax
+23
+24
+Procedure Code or of any state tax law shall be considered
+24
+Req. No. 2463 Page 1
+
+1
+confidential and privileged, except as otherwise provided for by
+1
+2
+law, and neither the Tax Commission nor any employee engaged in the
+2
+3
+administration of the Tax Commission or charged with the custody of
+3
+4
+any such records or files nor any person who may have secured
+4
+5
+information from the Tax Commission shall disclose any information
+5
+6
+obtained from the records or files or from any examination or
+6
+7
+inspection of the premises or property of any person.
+7
+8
+B. Except as provided in paragraph 26 25 of subsection C of
+8
+9
+this section, neither the Tax Commission nor any employee engaged in
+9
+10
+the administration of the Tax Commission or charged with the custody
+10
+11
+of any such records or files shall be required by any court of this
+11
+12
+state to produce any of the records or files for the inspection of
+12
+13
+any person or for use in any action or proceeding, except when the
+13
+14
+records or files or the facts shown thereby are directly involved in
+14
+15
+an action or proceeding pursuant to the provisions of the Uniform
+15
+16
+Tax Procedure Code or of the state tax law, or when the
+16
+17
+determination of the action or proceeding will affect the validity
+17
+18
+or the amount of the claim of the state pursuant to any state tax
+18
+19
+law, or when the information contained in the records or files
+19
+20
+constitutes evidence of violation of the provisions of the Uniform
+20
+21
+Tax Procedure Code or of any state tax law.
+21
+22
+C. The provisions of this section shall not prevent the Tax
+22
+23
+Commission, or with respect to the Oklahoma Department of Commerce
+23
+24
+in administration of the Oklahoma Rural Jobs Act as provided by
+24
+Req. No. 2463 Page 2
+
+1
+paragraph 22 of this subsection, from disclosing the following
+1
+2
+information and no liability whatsoever, civil or criminal, shall
+2
+3
+attach to any member of the Tax Commission, or the Oklahoma
+3
+4
+Department of Commerce as applicable, or any employee thereof for
+4
+5
+any error or omission in the disclosure of such information:
+5
+6
+1. The delivery to a taxpayer or a duly authorized
+6
+7
+representative of the taxpayer of a copy of any report or any other
+7
+8
+paper filed by the taxpayer pursuant to the provisions of the
+8
+9
+Uniform Tax Procedure Code or of any state tax law;
+9
+10
+2. The exchange of information that is not protected by the
+10
+11
+federal Privacy Protection Act of 1980, 42 U.S.C., Section 2000aa et
+11
+12
+seq., pursuant to reciprocal agreements entered into by the Tax
+12
+13
+Commission and other state agencies or agencies of the federal
+13
+14
+government;
+14
+15
+3. The publication of statistics so classified as to prevent
+15
+16
+the identification of a particular report and the items thereof;
+16
+17
+4. The examination of records and files by the State Auditor
+17
+18
+and Inspector or the duly authorized agents of the State Auditor and
+18
+19
+Inspector;
+19
+20
+5. The disclosing of information or evidence to the Oklahoma
+20
+21
+State Bureau of Investigation, Attorney General, Oklahoma State
+21
+22
+Bureau of Narcotics and Dangerous Drugs Control, any district
+22
+23
+attorney or agent of any federal law enforcement agency when the
+23
+24
+information or evidence is to be used by such officials to
+24
+Req. No. 2463 Page 3
+
+1
+investigate or prosecute violations of the criminal provisions of
+1
+2
+the Uniform Tax Procedure Code or of any state tax law or of any
+2
+3
+federal crime committed against this state. Any information
+3
+4
+disclosed to the Oklahoma State Bureau of Investigation, Attorney
+4
+5
+General, Oklahoma State Bureau of Narcotics and Dangerous Drugs
+5
+6
+Control, any district attorney, or agent of any federal law
+6
+7
+enforcement agency shall be kept confidential by such person and not
+7
+8
+be disclosed except when presented to a court in a prosecution for
+8
+9
+violation of the tax laws of this state or except as specifically
+9
+10
+authorized by law, and a violation by the Oklahoma State Bureau of
+10
+11
+Investigation, Attorney General, Oklahoma State Bureau of Narcotics
+11
+12
+and Dangerous Drugs Control, district attorney, or agent of any
+12
+13
+federal law enforcement agency by otherwise releasing the
+13
+14
+information shall be a felony;
+14
+15
+6. The use by any division of the Tax Commission of any
+15
+16
+information or evidence in the possession of or contained in any
+16
+17
+report or return filed with any other division of the Tax
+17
+18
+Commission;
+18
+19
+7. The furnishing, at the discretion of the Tax Commission, of
+19
+20
+any information disclosed by its records or files to any official
+20
+21
+person or body of this state, any other state, the United States, or
+21
+22
+a foreign country who is concerned with the administration or
+22
+23
+assessment of any similar tax in this state, any other state, or the
+23
+24
+United States. The provisions of this paragraph shall include the
+24
+Req. No. 2463 Page 4
+
+1
+furnishing of information by the Tax Commission to a county assessor
+1
+2
+to determine the amount of gross household income pursuant to the
+2
+3
+provisions of Section 8C of Article X of the Oklahoma Constitution
+3
+4
+or Section 2890 of this title. The Tax Commission shall promulgate
+4
+5
+rules to give guidance to the county assessors regarding the type of
+5
+6
+information which may be used by the county assessors in determining
+6
+7
+the amount of gross household income pursuant to Section 8C of
+7
+8
+Article X of the Oklahoma Constitution or Section 2890 of this
+8
+9
+title. The provisions of this paragraph shall also include the
+9
+10
+furnishing of information to the State Treasurer for the purpose of
+10
+11
+administration of the Uniform Unclaimed Property Act;
+11
+12
+8. The furnishing of information to other state agencies for
+12
+13
+the limited purpose of aiding in the collection of debts owed by
+13
+14
+individuals to such requesting agencies;
+14
+15
+9. The furnishing of information requested by any member of the
+15
+16
+general public and stated in the sworn lists or schedules of taxable
+16
+17
+property of public service corporations organized, existing, or
+17
+18
+doing business in this state which are submitted to and certified by
+18
+19
+the State Board of Equalization pursuant to the provisions of
+19
+20
+Section 2858 of this title and Section 21 of Article X of the
+20
+21
+Oklahoma Constitution, provided such information would be a public
+21
+22
+record if filed pursuant to Sections 2838 and 2839 of this title on
+22
+23
+behalf of a corporation other than a public service corporation;
+23
+24
+24
+Req. No. 2463 Page 5
+
+1
+10. The furnishing of information requested by any member of
+1
+2
+the general public and stated in the findings of the Tax Commission
+2
+3
+as to the adjustment and equalization of the valuation of real and
+3
+4
+personal property of the counties of the state, which are submitted
+4
+5
+to and certified by the State Board of Equalization pursuant to the
+5
+6
+provisions of Section 2865 of this title and Section 21 of Article X
+6
+7
+of the Oklahoma Constitution;
+7
+8
+11. The furnishing of information as to the issuance or
+8
+9
+revocation of any tax permit, license, or exemption by the Tax
+9
+10
+Commission as provided for by law. Such information shall be
+10
+11
+limited to the name of the person issued the permit, license, or
+11
+12
+exemption, the name of the business entity authorized to engage in
+12
+13
+business pursuant to the permit, license, or exemption, the address
+13
+14
+of the business entity, and the grounds for revocation;
+14
+15
+12. The posting of notice of revocation of any tax permit or
+15
+16
+license upon the premises of the place of business of any business
+16
+17
+entity which has had any tax permit or license revoked by the Tax
+17
+18
+Commission as provided for by law. Such notice shall be limited to
+18
+19
+the name of the person issued the permit or license, the name of the
+19
+20
+business entity authorized to engage in business pursuant to the
+20
+21
+permit or license, the address of the business entity, and the
+21
+22
+grounds for revocation;
+22
+23
+13. The furnishing of information upon written request by any
+23
+24
+member of the general public as to the outstanding and unpaid amount
+24
+Req. No. 2463 Page 6
+
+1
+due and owing by any taxpayer of this state for any delinquent tax,
+1
+2
+together with penalty and interest, for which a tax warrant or a
+2
+3
+certificate of indebtedness has been filed pursuant to law;
+3
+4
+14. After the filing of a tax warrant pursuant to law, the
+4
+5
+furnishing of information upon written request by any member of the
+5
+6
+general public as to any agreement entered into by the Tax
+6
+7
+Commission concerning a compromise of tax liability for an amount
+7
+8
+less than the amount of tax liability stated on such warrant;
+8
+9
+15. The disclosure of information necessary to complete the
+9
+10
+performance of any contract authorized by this title to any person
+10
+11
+with whom the Tax Commission has contracted;
+11
+12
+16. The disclosure of information to any person for a purpose
+12
+13
+as authorized by the taxpayer pursuant to a waiver of
+13
+14
+confidentiality. The waiver shall be in writing and shall be made
+14
+15
+upon such form as the Tax Commission may prescribe;
+15
+16
+17. The disclosure of information required in order to comply
+16
+17
+with the provisions of Section 2369 of this title;
+17
+18
+18. The disclosure to an employer, as defined in Sections
+18
+19
+Section 2385.1 and 2385.3 of this title, of information required in
+19
+20
+order to collect the tax imposed by Section 2385.2 of this title;
+20
+21
+19. The disclosure to a plaintiff of a corporation’s last-known
+21
+22
+address shown on the records of the Franchise Tax Division of the
+22
+23
+Tax Commission in order for such plaintiff to comply with the
+23
+24
+requirements of Section 2004 of Title 12 of the Oklahoma Statutes;
+24
+Req. No. 2463 Page 7
+
+1
+20. The disclosure of information directly involved in the
+1
+2
+resolution of the protest by a taxpayer to an assessment of tax or
+2
+3
+additional tax or the resolution of a claim for refund filed by a
+3
+4
+taxpayer, including the disclosure of the pendency of an
+4
+5
+administrative proceeding involving such protest or claim, to a
+5
+6
+person called by the Tax Commission as an expert witness or as a
+6
+7
+witness whose area of knowledge or expertise specifically addresses
+7
+8
+the issue addressed in the protest or claim for refund. Such
+8
+9
+disclosure to a witness shall be limited to information pertaining
+9
+10
+to the specific knowledge of that witness as to the transaction or
+10
+11
+relationship between taxpayer and witness;
+11
+12
+21. The disclosure of information necessary to implement an
+12
+13
+agreement authorized by Section 2702 of this title when such
+13
+14
+information is directly involved in the resolution of issues arising
+14
+15
+out of the enforcement of a municipal sales tax ordinance. Such
+15
+16
+disclosure shall be to the governing body or to the municipal
+16
+17
+attorney, if so designated by the governing body;
+17
+18
+22. The furnishing of information regarding incentive payments
+18
+19
+made pursuant to the provisions of Sections 3601 through 3609 3612
+19
+20
+of this title, incentive payments made pursuant to the provisions of
+20
+21
+Sections 3501 through 3508 of this title, or tax credits claimed
+21
+22
+pursuant to the provisions of Sections 3930 through 3937 of this
+22
+23
+title;
+23
+24
+24
+Req. No. 2463 Page 8
+
+1
+23. The furnishing to a prospective purchaser of any business,
+1
+2
+or his or her authorized representative, of information relating to
+2
+3
+any liabilities, delinquencies, assessments, or warrants of the
+3
+4
+prospective seller of the business which have not been filed of
+4
+5
+record, established, or become final and which relate solely to the
+5
+6
+seller’s business. Any disclosure under this paragraph shall only
+6
+7
+be allowed upon the presentment by the prospective buyer, or the
+7
+8
+buyer’s authorized representative, of the purchase contract and a
+8
+9
+written authorization between the parties;
+9
+10
+24. The furnishing of information as to the amount of state
+10
+11
+revenue affected by the issuance or granting of any tax permit,
+11
+12
+license, exemption, deduction, credit, or other tax preference by
+12
+13
+the Tax Commission as provided for by law. Such information shall
+13
+14
+be limited to the type of permit, license, exemption, deduction,
+14
+15
+credit, or other tax preference issued or granted, the date and
+15
+16
+duration of such permit, license, exemption, deduction, credit, or
+16
+17
+other tax preference and the amount of such revenue. The provisions
+17
+18
+of this paragraph shall not authorize the disclosure of the name of
+18
+19
+the person issued such permit, license, exemption, deduction,
+19
+20
+credit, or other tax preference, or the name of the business entity
+20
+21
+authorized to engage in business pursuant to the permit, license,
+21
+22
+exemption, deduction, credit, or other tax preference;
+22
+23
+25. The examination of records and files of a person or entity
+23
+24
+by the Oklahoma State Bureau of Narcotics and Dangerous Drugs
+24
+Req. No. 2463 Page 9
+
+1
+Control, district attorney, or the Attorney General pursuant to a
+1
+2
+court order by a magistrate in whose territorial jurisdiction the
+2
+3
+person or entity resides, or where the Tax Commission records and
+3
+4
+files are physically located. Such an order may only be issued upon
+4
+5
+a sworn application by an agent of the Oklahoma State Bureau of
+5
+6
+Narcotics and Dangerous Drugs Control or the Attorney General,
+6
+7
+certifying that the person or entity whose records and files are to
+7
+8
+be examined is the target of an ongoing investigation of a felony
+8
+9
+violation of the Uniform Controlled Dangerous Substances Act and
+9
+10
+that information resulting from such an examination would likely be
+10
+11
+relevant to that investigation. Any records or information obtained
+11
+12
+pursuant to such an order may only be used by the Oklahoma State
+12
+13
+Bureau of Narcotics and Dangerous Drugs Control, district attorney,
+13
+14
+or the Attorney General in the investigation and prosecution of a
+14
+15
+felony violation of the Uniform Controlled Dangerous Substances Act
+15
+16
+or money laundering pursuant to Section 2001 of Title 21 of the
+16
+17
+Oklahoma Statutes. Any such order issued pursuant to this
+17
+18
+paragraph, along with the underlying application, shall be sealed
+18
+19
+and not disclosed to the person or entity whose records were
+19
+20
+examined, for a period of ninety (90) days. The issuing magistrate
+20
+21
+may grant extensions of such period upon a showing of good cause in
+21
+22
+furtherance of the investigation. Upon the expiration of ninety
+22
+23
+(90) days and any extensions granted by the magistrate, a copy of
+23
+24
+the application and order shall be served upon the person or entity
+24
+Req. No. 2463 Page 10
+
+1
+whose records were examined, along with a copy of the records or
+1
+2
+information actually provided by the Tax Commission;
+2
+3
+26. The disclosure of information, as prescribed by this
+3
+4
+paragraph, which is related to the proposed or actual usage of tax
+4
+5
+credits pursuant to Section 2357.7 of this title, the Small Business
+5
+6
+Capital Formation Incentive Act, or the Rural Venture Capital
+6
+7
+Formation Incentive Act. Unless the context clearly requires
+7
+8
+otherwise, the terms used in this paragraph shall have the same
+8
+9
+meaning as defined by Section 2357.7, 2357.61, or 2357.72 of this
+9
+10
+title. The disclosure of information authorized by this paragraph
+10
+11
+shall include:
+11
+12
+a. the legal name of any qualified venture capital
+12
+13
+company, qualified small business capital company, or
+13
+14
+qualified rural small business capital company,
+14
+15
+b. the identity or legal name of any person or entity
+15
+16
+that is a shareholder or partner of a qualified
+16
+17
+venture capital company, qualified small business
+17
+18
+capital company, or qualified rural small business
+18
+19
+capital company,
+19
+20
+c. the identity or legal name of any Oklahoma business
+20
+21
+venture, Oklahoma small business venture, or Oklahoma
+21
+22
+rural small business venture in which a qualified
+22
+23
+investment has been made by a capital company, or
+23
+24
+24
+Req. No. 2463 Page 11
+
+1
+d. the amount of funds invested in a qualified venture
+1
+2
+capital company, the amount of qualified investments
+2
+3
+in a qualified small business capital company or
+3
+4
+qualified rural small business capital company, and
+4
+5
+the amount of investments made by a qualified venture
+5
+6
+capital company, qualified small business capital
+6
+7
+company, or qualified rural small business capital
+7
+8
+company;
+8
+9
+27. The disclosure of specific information as required by
+9
+10
+Section 46 of Title 62 of the Oklahoma Statutes;
+10
+11
+28. The disclosure of specific information as required by
+11
+12
+Section 205.5 of this title;
+12
+13
+29. The disclosure of specific information as required by
+13
+14
+Section 205.6 of this title;
+14
+15
+30. The disclosure of information to the State Treasurer
+15
+16
+necessary to implement Section 2368.27 of this title;
+16
+17
+31. The disclosure of specific information to the Oklahoma
+17
+18
+Health Care Authority for purposes of determining eligibility for
+18
+19
+current or potential recipients of assistance from the Oklahoma
+19
+20
+Medicaid Program;
+20
+21
+32. The disclosure of information to the Oklahoma Department of
+21
+22
+Veterans Affairs including, but not limited to, the name and basis
+22
+23
+for eligibility of each individual who qualifies for the sales tax
+23
+24
+exemption authorized in paragraph 34 of Section 1357 of this title;
+24
+Req. No. 2463 Page 12
+
+1
+33. The disclosure of information to the Oklahoma Medical
+1
+2
+Marijuana Authority for the purposes of compliance with the Oklahoma
+2
+3
+Medical Marijuana and Patient Protection Act or Section 420 et seq.
+3
+4
+of Title 63 of the Oklahoma Statutes; or
+4
+5
+34. The disclosure of information required in order to comply
+5
+6
+with the provisions of subsection H of Section 2902 of this title;
+6
+7
+or
+7
+8
+35. The disclosure of information required in order to comply
+8
+9
+with the provisions of subsection O of Section 2357.4 of this title.
+9
+10
+D. The Tax Commission shall cause to be prepared and made
+10
+11
+available for public inspection in the office of the Tax Commission
+11
+12
+in such manner as it may determine an annual list containing the
+12
+13
+name and post office address of each person, whether individual,
+13
+14
+corporate or otherwise, making and filing an income tax return with
+14
+15
+the Tax Commission.
+15
+16
+It is specifically provided that no liability whatsoever, civil
+16
+17
+or criminal, shall attach to any member of the Tax Commission or any
+17
+18
+employee thereof for any error or omission of any name or address in
+18
+19
+the preparation and publication of the list.
+19
+20
+E. The Tax Commission shall prepare or cause to be prepared a
+20
+21
+report on all provisions of state tax law that reduce state revenue
+21
+22
+through exclusions, deductions, credits, exemptions, deferrals, or
+22
+23
+other preferential tax treatments. The report shall be prepared not
+23
+24
+later than October 1 of each even-numbered year and shall be
+24
+Req. No. 2463 Page 13
+
+1
+submitted electronically to the Governor, the President Pro Tempore
+1
+2
+of the Senate and the Speaker of the House of Representatives. The
+2
+3
+Tax Commission may prepare and submit supplements to the report at
+3
+4
+other times of the year if additional or updated information
+4
+5
+relevant to the report becomes available. The report shall include,
+5
+6
+for the previous fiscal year, the Tax Commission’s best estimate of
+6
+7
+the amount of state revenue that would have been collected but for
+7
+8
+the existence of each such exclusion, deduction, credit, exemption,
+8
+9
+deferral, or other preferential tax treatment allowed by law. The
+9
+10
+Tax Commission may request the assistance of other state agencies as
+10
+11
+may be needed to prepare the report. The Tax Commission is
+11
+12
+authorized to require any recipient of a tax incentive or tax
+12
+13
+expenditure to report to the Tax Commission such information as
+13
+14
+requested so that the Tax Commission may fulfill its obligations as
+14
+15
+required by this subsection. The Tax Commission may require this
+15
+16
+information to be submitted in an electronic format. The Tax
+16
+17
+Commission may disallow any claim of a person for a tax incentive
+17
+18
+due to its failure to file a report as required under the authority
+18
+19
+of this subsection.
+19
+20
+F. It is further provided that the provisions of this section
+20
+21
+shall be strictly interpreted and shall not be construed as
+21
+22
+permitting the disclosure of any other information contained in the
+22
+23
+records and files of the Tax Commission relating to income tax or to
+23
+24
+any other taxes.
+24
+Req. No. 2463 Page 14
+
+1
+G. Unless otherwise provided for in this section, any violation
+1
+2
+of the provisions of this section shall constitute a misdemeanor and
+2
+3
+shall be punishable by the imposition of a fine not exceeding One
+3
+4
+Thousand Dollars ($1,000.00) or by imprisonment in the county jail
+4
+5
+for a term not exceeding one (1) year, or by both such fine and
+5
+6
+imprisonment, and the offender shall be removed or dismissed from
+6
+7
+office.
+7
+8
+H. Offenses described in Section 2376 of this title shall be
+8
+9
+reported to the appropriate district attorney of this state by the
+9
+10
+Tax Commission as soon as the offenses are discovered by the Tax
+10
+11
+Commission or its agents or employees. The Tax Commission shall
+11
+12
+make available to the appropriate district attorney or to the
+12
+13
+authorized agent of the district attorney its records and files
+13
+14
+pertinent to prosecutions, and such records and files shall be fully
+14
+15
+admissible as evidence for the purpose of such prosecutions.
+15
+16
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 2357.4, is
+16
+17
+amended to read as follows:
+17
+18
+Section 2357.4. A. Except as otherwise provided in subsection
+18
+19
+F of Section 3658 of this title and in subsections J K and K L of
+19
+20
+this section, for taxable years beginning after December 31, 1987,
+20
+21
+there shall be allowed a credit against the tax imposed by Section
+21
+22
+2355 of this title for:
+22
+23
+1. Investment in qualified depreciable property placed in
+23
+24
+service during those years for use in a manufacturing operation, as
+24
+Req. No. 2463 Page 15
+
+1
+defined in Section 1352 of this title, which has received a
+1
+2
+manufacturer exemption permit pursuant to the provisions of Section
+2
+3
+1359.2 of this title or a qualified aircraft maintenance or
+3
+4
+manufacturing facility as defined in Section 1357 of this title in
+4
+5
+this state or a qualified web search portal as defined in Section
+5
+6
+1357 of this title; or
+6
+7
+2. A net increase in the number of full-time-equivalent
+7
+8
+employees in a manufacturing operation, as defined in Section 1352
+8
+9
+of this title, which has received a manufacturer exemption permit
+9
+10
+pursuant to the provisions of Section 1359.2 of this title or a
+10
+11
+qualified aircraft maintenance or manufacturing facility defined in
+11
+12
+Section 1357 of this title in this state or in a qualified web
+12
+13
+search portal as defined in Section 1357 of this title including
+13
+14
+employees engaged in support services. Provided, a manufacturing
+14
+15
+operation, as defined in Section 1352 of this title, shall be
+15
+16
+allowed a credit authorized pursuant to this paragraph for tax years
+16
+17
+1988 through 2026.
+17
+18
+B. Except as otherwise provided in subsection F of Section 3658
+18
+19
+of this title and in subsections J K and K L of this section, for
+19
+20
+taxable years beginning after December 31, 1998, there shall be
+20
+21
+allowed a credit against the tax imposed by Section 2355 of this
+21
+22
+title for:
+22
+23
+1. Investment in qualified depreciable property with a total
+23
+24
+cost equal to or greater than Forty Million Dollars ($40,000,000.00)
+24
+Req. No. 2463 Page 16
+
+1
+within three (3) years from the date of initial qualifying
+1
+2
+expenditure and placed in service in this state during those years
+2
+3
+for use in the manufacture of products described by any Industry
+3
+4
+Number contained in Division D of Part I of the Standard Industrial
+4
+5
+Classification (SIC) Manual, latest revision; or
+5
+6
+2. A For tax years 1999 through 2026, a net increase in the
+6
+7
+number of full-time-equivalent employees in this state engaged in
+7
+8
+the manufacture of any goods identified by any Industry Number
+8
+9
+contained in Division D of Part I of the Standard Industrial
+9
+10
+Classification (SIC) Manual, latest revision, if the total cost of
+10
+11
+qualified depreciable property placed in service by the business
+11
+12
+entity within the state equals or exceeds Forty Million Dollars
+12
+13
+($40,000,000.00) within three (3) years from the date of initial
+13
+14
+qualifying expenditure.
+14
+15
+C. The business entity may claim the credit authorized by
+15
+16
+subsection B of this section for expenditures incurred or for a net
+16
+17
+increase in the number of full-time-equivalent employees after the
+17
+18
+business entity provides proof satisfactory to the Oklahoma Tax
+18
+19
+Commission that the conditions imposed pursuant to paragraph 1 or
+19
+20
+paragraph 2 of subsection B of this section have been satisfied.
+20
+21
+D. If a business entity fails to expend the amount required by
+21
+22
+paragraph 1 or paragraph 2 of subsection B of this section within
+22
+23
+the time required, the business entity may not claim the credit
+23
+24
+authorized by subsection B of this section but shall be allowed to
+24
+Req. No. 2463 Page 17
+
+1
+claim a credit pursuant to subsection A of this section if the
+1
+2
+requirements of subsection A of this section are met with respect to
+2
+3
+the investment in qualified depreciable property or net increase in
+3
+4
+the number of full-time-equivalent employees.
+4
+5
+E. The credit provided for in subsection A of this section, if
+5
+6
+based upon investment in qualified depreciable property, shall not
+6
+7
+be allowed unless the investment in qualified depreciable property
+7
+8
+is at least Fifty Thousand Dollars ($50,000.00). The credit
+8
+9
+provided for in subsection A or B of this section shall not be
+9
+10
+allowed if the applicable investment is the direct cause of a
+10
+11
+decrease in the number of full-time-equivalent employees. Qualified
+11
+12
+property shall be limited to machinery, fixtures, equipment,
+12
+13
+buildings, or substantial improvements thereto, placed in service in
+13
+14
+this state during the taxable year. The taxable years for which the
+14
+15
+credit may be allowed if based upon investment in qualified
+15
+16
+depreciable property shall be measured from the year in which the
+16
+17
+qualified property is placed in service. If the credit provided for
+17
+18
+in subsection A or B of this section is calculated on the basis of
+18
+19
+the cost of the qualified property, the credit shall be allowed in
+19
+20
+each of the four (4) subsequent years. If the qualified property on
+20
+21
+which a credit has previously been allowed is acquired from a
+21
+22
+related party, the date such property is placed in service by the
+22
+23
+transferor shall be considered to be the date such property is
+23
+24
+24
+Req. No. 2463 Page 18
+
+1
+placed in service by the transferee, for purposes of determining the
+1
+2
+aggregate number of years for which credit may be allowed.
+2
+3
+F. The credit provided for in subsection A or B of this
+3
+4
+section, if based upon an increase in the number of full-time-
+4
+5
+equivalent employees, shall be allowed in each of the four (4)
+5
+6
+subsequent years only if the level of new employees is maintained in
+6
+7
+the subsequent year. In calculating the credit by the number of new
+7
+8
+employees, only those employees whose paid wages or salary were at
+8
+9
+least Seven Thousand Dollars ($7,000.00) during each year the credit
+9
+10
+is claimed shall be included in the calculation. Provided, that the
+10
+11
+first year a credit is claimed for a new employee, such employee may
+11
+12
+be included in the calculation notwithstanding paid wages of less
+12
+13
+than Seven Thousand Dollars ($7,000.00) if the employee was hired in
+13
+14
+the last three quarters of the tax year, has wages or salary which
+14
+15
+will result in annual paid wages in excess of Seven Thousand Dollars
+15
+16
+($7,000.00) and the taxpayer submits an affidavit stating that the
+16
+17
+employee’s position will be retained in the following tax year and
+17
+18
+will result in the payment of wages in excess of Seven Thousand
+18
+19
+Dollars ($7,000.00). The number of new employees shall be
+19
+20
+determined by comparing the monthly average number of full-time
+20
+21
+employees subject to Oklahoma income tax withholding for the final
+21
+22
+quarter of the taxable year with the corresponding period of the
+22
+23
+prior taxable year, as substantiated by such reports as may be
+23
+24
+required by the Tax Commission.
+24
+Req. No. 2463 Page 19
+
+1
+G. The credit allowed by subsection A of this section shall be
+1
+2
+the greater amount of either:
+2
+3
+1. One percent (1%) of the cost of the qualified property in
+3
+4
+the year the property is placed in service; or
+4
+5
+2. Five Hundred Dollars ($500.00) for each new employee. No
+5
+6
+credit shall be allowed in any taxable year for a net increase in
+6
+7
+the number of full-time-equivalent employees if such increase is a
+7
+8
+result of an investment in qualified depreciable property for which
+8
+9
+an income tax credit has been allowed as authorized by this section.
+9
+10
+H. The credit allowed by subsection B of this section shall be
+10
+11
+the greater amount of either:
+11
+12
+1. Two percent (2%) of the cost of the qualified property in
+12
+13
+the year the property is placed in service; or
+13
+14
+2. One Thousand Dollars ($1,000.00) for each new employee.
+14
+15
+No credit shall be allowed in any taxable year for a net
+15
+16
+increase in the number of full-time-equivalent employees if such
+16
+17
+increase is a result of an investment in qualified depreciable
+17
+18
+property for which an income tax credit has been allowed as
+18
+19
+authorized by this section.
+19
+20
+I. Except as provided by subsection G of Section 3658 of this
+20
+21
+title, any credits allowed but not used in any taxable year tax year
+21
+22
+2026 and previous tax years may be carried over in order as follows:
+22
+23
+1. To each of the four (4) years following the year of
+23
+24
+qualification;
+24
+Req. No. 2463 Page 20
+
+1
+2. To the extent not used in those years in order to each of
+1
+2
+the fifteen (15) years following the initial five-year period;
+2
+3
+3. If a C corporation that otherwise qualified for the credits
+3
+4
+under subsection A of this section subsequently changes its
+4
+5
+operating status to that of a pass-through entity which is being
+5
+6
+treated as the same entity for federal tax purposes, the credits
+6
+7
+will continue to be available as if the pass-through entity had
+7
+8
+originally qualified for the credits subject to the limitations of
+8
+9
+this section;
+9
+10
+4. To the extent not used in paragraphs 1 and 2 of this
+10
+11
+subsection, such credits from qualified depreciable property placed
+11
+12
+in service on or after January 1, 2000, may be utilized in any
+12
+13
+subsequent tax years after the initial twenty-year period; and
+13
+14
+5. Provided, for tax years beginning on or after January 1,
+14
+15
+2016, and ending on or before December 31, 2018, the amount of
+15
+16
+credits available as an offset in a taxable year shall be limited to
+16
+17
+the percentage calculated by the Tax Commission pursuant to the
+17
+18
+provisions of subsection L M of this section.
+18
+19
+J. Any credits allowed pursuant to this section but not used
+19
+20
+may be carried forward in order to each of the seven (7) subsequent
+20
+21
+tax years.
+21
+22
+K. No credit otherwise authorized by the provisions of this
+22
+23
+section may be claimed for any event, transaction, investment,
+23
+24
+expenditure, or other act occurring on or after July 1, 2010, for
+24
+Req. No. 2463 Page 21
+
+1
+which the credit would otherwise be allowable until the provisions
+1
+2
+of this subsection shall cease to be operative on July 1, 2012.
+2
+3
+Beginning July 1, 2012, the credit authorized by this section may be
+3
+4
+claimed for any event, transaction, investment, expenditure, or
+4
+5
+other act occurring on or after July 1, 2010, according to the
+5
+6
+provisions of this section; provided, credits accrued during the
+6
+7
+period from July 1, 2010, through June 30, 2012, shall be limited to
+7
+8
+a period of two (2) taxable years. The credit shall be limited in
+8
+9
+each taxable year to fifty percent (50%) of the total amount of the
+9
+10
+accrued credit. Any tax credits which accrue during the period of
+10
+11
+July 1, 2010, through June 30, 2012, may not be claimed for any
+11
+12
+period prior to the taxable year beginning January 1, 2012. No
+12
+13
+credits which accrue during the period of July 1, 2010, through June
+13
+14
+30, 2012, may be used to file an amended tax return for any taxable
+14
+15
+year prior to the taxable year beginning January 1, 2012.
+15
+16
+K. L. Beginning January 1, 2017, except with respect to tax
+16
+17
+credits allowed from investment or job creation occurring prior to
+17
+18
+January 1, 2017, the credits authorized by this section shall not be
+18
+19
+allowed for investment or job creation in electric power generation
+19
+20
+by means of wind as described by the North American Industry
+20
+21
+Classification System, No. 221119.
+21
+22
+L. M. For tax years beginning on or after January 1, 2016, and
+22
+23
+ending on or before December 31, 2018, the total amount of credits
+23
+24
+authorized by this section used to offset tax shall be adjusted
+24
+Req. No. 2463 Page 22
+
+1
+annually to limit the annual amount of credits to Twenty-five
+1
+2
+Million Dollars ($25,000,000.00). The Tax Commission shall annually
+2
+3
+calculate and publish a percentage by which the credits authorized
+3
+4
+by this section shall be reduced so the total amount of credits used
+4
+5
+to offset tax does not exceed Twenty-five Million Dollars
+5
+6
+($25,000,000.00) per year. The formula to be used for the
+6
+7
+percentage adjustment shall be Twenty-five Million Dollars
+7
+8
+($25,000,000.00) divided by the credits used to offset tax in the
+8
+9
+second preceding year.
+9
+10
+M. N. Pursuant to subsection L M of this section, in the event
+10
+11
+the total tax credits authorized by this section exceed Twenty-five
+11
+12
+Million Dollars ($25,000,000.00) in any calendar year, the Tax
+12
+13
+Commission shall permit any excess over Twenty-five Million Dollars
+13
+14
+($25,000,000.00) but shall factor such excess into the percentage
+14
+15
+adjustment formula for subsequent years.
+15
+16
+O. For tax year 2027 and subsequent tax years, an entity shall
+16
+17
+submit an application, on a form prescribed by the Oklahoma Tax
+17
+18
+Commission, and receive approval by the Tax Commission before
+18
+19
+claiming a tax credit authorized pursuant to this section. The form
+19
+20
+shall require the following information:
+20
+21
+1. The National Industry Number of the North American Industry
+21
+22
+Classification System (NAICS) Manual, latest revision, that
+22
+23
+describes the primary business activity of the entity;
+23
+24
+24
+Req. No. 2463 Page 23
+
+1
+2. The amount of unused, carried forward credit claimed, as
+1
+2
+authorized pursuant to paragraph 2 of subsection A of this section
+2
+3
+and paragraph 2 of subsection B of this section;
+3
+4
+3. The amount of unused, carried forward credit claimed, as
+4
+5
+authorized pursuant to paragraph 1 of subsection A of this section
+5
+6
+and paragraph 1 of subsection B of this section;
+6
+7
+4. The average wage of new jobs created pursuant to the
+7
+8
+investment or creation of new jobs for which credit is applied for
+8
+9
+pursuant to this subsection; and
+9
+10
+5. The following categories of investment, including amounts,
+10
+11
+for which the credit is applied for pursuant to this subsection:
+11
+12
+a. new facility,
+12
+13
+b. expansion of existing facility,
+13
+14
+c. upgrades to existing facility, and
+14
+15
+d. upgrades and replacement of equipment.
+15
+16
+The Oklahoma Tax Commission shall provide the data collected
+16
+17
+pursuant to this subsection to the Incentive Evaluation Commission
+17
+18
+for only evaluation purposes by the Incentive Evaluation Commission
+18
+19
+or a designee. The Oklahoma Tax Commission may promulgate rules to
+19
+20
+effectuate the provisions of this subsection.
+20
+21
+SECTION 3. This act shall become effective November 1, 2026.
+21
+22
+22
+23
+60-2-2463 QD 12/30/2025 11:02:12 PM
+23
+24
+24
+Req. No. 2463 Page 24
+
+[DELETED:  P B R]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t t]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P n e u u Q 1]

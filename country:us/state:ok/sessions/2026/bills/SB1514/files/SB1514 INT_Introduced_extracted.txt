@@ -1,0 +1,3690 @@
+Title: SENATE BILL 1514 By: McIntosh
+Official Title: SENATE BILL 1514 By: McIntosh
+Number of Sections: 57
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to wind energy; amending 17 O.S.
+7
+2021, Sections 160.13, 160.14, 160.15, and 160.21, as
+8
+amended by Section 22, Chapter 126, O.S.L. 2023 (17
+8
+O.S. Supp. 2025, Section 160.21), which relate to the
+9
+Oklahoma Wind Energy Development Act; modifying
+9
+definitions; defining terms; modifying certain depth
+10
+requirement; requiring decommission or removal in
+10
+certain circumstances; requiring certain restoration;
+11
+modifying requirements for evidence of financial
+11
+security; requiring certain permit; stating permit
+12
+application criteria; requiring certain mailing and
+12
+notification; modifying where certain meeting shall
+13
+be held; establishing minimum requirements for
+13
+certain approval; requiring certain notification;
+14
+authorizing comments from executive agencies;
+14
+requiring certain letter; requiring public hearing;
+15
+authorizing promulgation of rules; stating certain
+15
+disclosure; stating exception; providing for
+16
+codification; and providing an effective date.
+16
+17
+17
+18
+18
+19
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19
+20
+
+Section 2:
+SECTION 1. AMENDATORY 17 O.S. 2021, Section 160.13, is
+20
+21
+amended to read as follows:
+21
+22
+
+Section 3:
+Section 160.13. As used in the Oklahoma Wind Energy Development
+22
+23
+Act:
+23
+24
+24
+Req. No. 2525 Page 1
+1
+
+Section 4:
+1. “Abandonment” means the failure to generate electricity from
+1
+2
+commercial wind energy equipment for a period of twenty-four (24)
+2
+3
+consecutive months one hundred eighty (180) consecutive days for
+3
+4
+reasons other than curtailment, repowering, a valid judicial order,
+4
+5
+or other governmental regulatory action, with no pending
+5
+6
+negotiations for purchase. A wind energy facility shall not be
+6
+7
+considered abandoned if the owner or operator has elected not to run
+7
+8
+the facility, but it has been maintained in proper working order and
+8
+9
+is capable of generating electricity;
+9
+10
+
+Section 5:
+2. “Commencement of construction” means beginning excavation of
+10
+11
+wind turbine foundations or other actions relating to the actual
+11
+12
+erection and installation of commercial wind energy equipment. It
+12
+13
+shall include the clearing of land, relocation of utilities,
+13
+14
+expansion of a wind energy facility, and other actions that would
+14
+15
+adversely affect the natural environment of the proposed site. It
+15
+16
+shall not include erection of meteorological towers, environmental
+16
+17
+assessments, surveys, preliminary engineering, or other activities
+17
+18
+associated with assessment of development of the wind resources on a
+18
+19
+given parcel of property;
+19
+20
+
+Section 6:
+3. “Commercial generation date” means the date on which the
+20
+21
+wind turbine in question first generates electrical energy in
+21
+22
+commercial quantities;
+22
+23
+23
+24
+24
+Req. No. 2525 Page 2
+1
+
+Section 7:
+4. “Commercial wind energy equipment” means a wind tower and
+1
+2
+turbine with five hundred kilowatts (500kw) or greater of total
+2
+3
+nameplate generating capacity;
+3
+4
+
+Section 8:
+5. “Commercial quantities” means an amount of electrical energy
+4
+5
+sufficient for sale or use off-site from a wind turbine or wind
+5
+6
+energy facility, and shall not include amounts of electrical energy
+6
+7
+used only for the maintenance or testing of the wind turbine or wind
+7
+8
+energy facility itself;
+8
+9
+
+Section 9:
+6. “Nonparticipating landowner” means a landowner that is not
+9
+10
+under a lease or other property agreement with an owner or operator;
+10
+11
+
+Section 10:
+7. “Operate” means activity associated with the management,
+11
+12
+operation, and maintenance of a completed wind energy facility and
+12
+13
+includes the installation or improvement of a wind energy facility;
+13
+14
+
+Section 11:
+8. “Operator” means a person or entity that operates a wind
+14
+15
+energy facility;
+15
+16
+
+Section 12:
+9. “Owner” means the entity having a majority equity interest
+16
+17
+in commercial wind energy equipment, including their respective
+17
+18
+successors and assigns;
+18
+19
+
+Section 13:
+7. 10. “Person” means a natural person, corporation, limited
+19
+20
+liability company, partnership, joint venture, or other private
+20
+21
+business entity;
+21
+22
+
+Section 14:
+11. “Proprietary information” means commercial or financial
+22
+23
+information that:
+23
+24
+24
+Req. No. 2525 Page 3
+1
+a. is used directly or indirectly in the business of an
+1
+2
+applicant submitting information to a political
+2
+3
+subdivision, and
+3
+4
+b. gives an applicant submitting information to a
+4
+5
+political subdivision an advantage or opportunity to
+5
+6
+obtain an advantage over a competitor that does not
+6
+7
+know of, or otherwise use, the information.
+7
+8
+It shall include trade secrets;
+8
+9
+
+Section 15:
+12. “Redevelop” means to replan, reconstruct, or redesign a
+9
+10
+wind energy facility and includes the acquisition, clearance,
+10
+11
+development, disposal, or combination thereof, of a wind energy
+11
+12
+facility;
+12
+13
+
+Section 16:
+13. “Transmission facility” means a power cable, distribution
+13
+14
+line, or other equipment that delivers electricity from a wind
+14
+15
+turbine located in this state to the point of interconnection with a
+15
+16
+power distribution grid, long-distance power transmission grid, or
+16
+17
+other facility by and through which the electricity is distributed
+17
+18
+or transmitted to one or more customers. It shall not include
+18
+19
+distribution, transmission, or other facilities that are located
+19
+20
+beyond the point of interconnection with the power distribution grid
+20
+21
+or transmission grid;
+21
+22
+
+Section 17:
+14. “Under development” means the execution of land leases on
+22
+23
+all real estate to be included in the proposed development, the
+23
+24
+commencement of necessary state and federal studies related to
+24
+Req. No. 2525 Page 4
+1
+construction of a wind energy facility, and the commencement of on-
+1
+2
+site physical work of a significant nature on the proposed wind
+2
+3
+energy facility site;
+3
+4
+
+Section 18:
+15. “Useful life” means the time during which a wind turbine or
+4
+5
+wind energy facility is generating electricity in commercial
+5
+6
+quantities;
+6
+7
+
+Section 19:
+8. “Wind turbine” means a wind energy conversion system which
+7
+8
+converts wind energy into electricity through the use of a wind
+8
+9
+turbine generator and includes the turbine, blade, tower, base and
+9
+10
+pad transformer, if any; and
+10
+11
+
+Section 20:
+9. 16. “Wind energy facility” means an electrical generation
+11
+12
+facility consisting of one or more wind turbines under common
+12
+13
+ownership or operating control, that, cumulatively with any other
+13
+14
+wind energy facility:
+14
+15
+a. has a rated capacity of five (5) megawatts or more of
+15
+16
+electrical energy, and
+16
+17
+b. is more than two hundred (200) feet in height,
+17
+18
+and includes substations, meteorological data towers, aboveground
+18
+19
+and underground electrical transmission lines, transformers, control
+19
+20
+systems, and other buildings or facilities used to support the
+20
+21
+operation of the facility, and whose primary purpose is to supply
+21
+22
+electricity to an off-site customer or customers. Wind energy
+22
+23
+facility shall not include a wind energy facility located entirely
+23
+24
+on property held in fee simple absolute estate by the owner of the
+24
+Req. No. 2525 Page 5
+1
+wind energy facility nor shall it include equipment that, when
+1
+2
+installed in connection with a dwelling, transmits or uses wind
+2
+3
+energy to produce electrical energy in a useful form for residential
+3
+4
+purposes;
+4
+5
+
+Section 21:
+17. “Wind energy facility expansion” means an activity that
+5
+6
+adds or substantially modifies a wind energy facility including, but
+6
+7
+not limited to, increasing the height or the number of wind
+7
+8
+turbines, transmission facilities, or other equipment or that
+8
+9
+increases the environmental footprint of a wind energy facility; and
+9
+10
+
+Section 22:
+18. “Wind turbine” means a wind energy conversion system that
+10
+11
+converts wind energy into electricity through the use of a wind
+11
+12
+turbine generator and includes the turbine, blade, tower, base, and
+12
+13
+pad transformer, if any.
+13
+14
+
+Section 23:
+SECTION 2. AMENDATORY 17 O.S. 2021, Section 160.14, is
+14
+15
+amended to read as follows:
+15
+16
+
+Section 24:
+Section 160.14. A. The owner of a wind energy facility shall
+16
+17
+be responsible, at its expense, for the proper decommissioning of
+17
+18
+the facility upon abandonment or the end of the useful life of the
+18
+19
+commercial wind energy equipment in the wind energy facility.
+19
+20
+B. Proper decommissioning of a wind energy facility shall
+20
+21
+include:
+21
+22
+
+Section 25:
+1. Removal of wind turbines, towers, buildings, cabling,
+22
+23
+electrical components, foundations and any other associated
+23
+24
+24
+Req. No. 2525 Page 6
+1
+facilities, to a depth of thirty (30) forty-eight (48) inches below
+1
+2
+grade; and
+2
+3
+
+Section 26:
+2. Disturbed earth being graded and reseeded or otherwise
+3
+4
+restored to substantially the same physical condition as existed
+4
+5
+prior to the construction of the wind energy facility by the owner,
+5
+6
+excluding roads, unless the landowner specifically requests in
+6
+7
+writing that the roads or other land surface areas be restored.
+7
+8
+C. The decommissioning of the wind energy facility, or
+8
+9
+individual pieces of commercial wind energy equipment, shall be
+9
+10
+completed as follows:
+10
+11
+
+Section 27:
+1. By the owner of the wind energy facility within twelve (12)
+11
+12
+months after abandonment or the end of the useful life of the
+12
+13
+commercial wind energy equipment in the wind energy facility; and
+13
+14
+
+Section 28:
+2. If the owner of the wind energy facility fails to complete
+14
+15
+the decommissioning within the period prescribed in paragraph 1 of
+15
+16
+this subsection, the Corporation Commission shall take such measures
+16
+17
+as are necessary to complete the decommissioning.
+17
+18
+D. A lease or other agreement between a landowner and an owner
+18
+19
+of a wind energy facility may contain provisions for decommissioning
+19
+20
+that are more restrictive than provided for in this section.
+20
+21
+E. A wind energy facility shall be decommissioned or removed
+21
+22
+if:
+22
+23
+
+Section 29:
+1. A wind turbine ceases to generate electricity for one
+23
+24
+hundred eighty (180) continuous days unless the termination of
+24
+Req. No. 2525 Page 7
+1
+electricity was mandated by state or federal law or was authorized
+1
+2
+by the Commission. Two extensions may be authorized by the
+2
+3
+Commission for one-hundred-eighty-day periods at a time if the wind
+3
+4
+energy facility continues to be maintained in proper working order;
+4
+5
+or
+5
+6
+
+Section 30:
+2. A wind turbine or group of wind turbines violates the noise
+6
+7
+level restrictions pursuant to Section 160.21 of this title unless
+7
+8
+the wind turbine or group of wind turbines is brought into
+8
+9
+compliance within one hundred eighty (180) days of the violation.
+9
+10
+One extension may be authorized by the Commission pursuant to this
+10
+11
+paragraph.
+11
+12
+F. Within twelve (12) months of the decommissioning of a wind
+12
+13
+energy facility, the property shall be restored to its original
+13
+14
+condition.
+14
+15
+
+Section 31:
+SECTION 3. AMENDATORY 17 O.S. 2021, Section 160.15, is
+15
+16
+amended to read as follows:
+16
+17
+
+Section 32:
+Section 160.15. A. The owner of a wind energy facility shall
+17
+18
+submit to the Corporation Commission evidence of financial security
+18
+19
+to cover the anticipated costs of decommissioning the wind energy
+19
+20
+facility. For a wind energy facility or portion thereof which
+20
+21
+reaches the commercial generation date prior to December 31, 2016,
+21
+22
+the evidence of financial security shall be submitted after the
+22
+23
+fifteenth year of operation of the facility. For a wind energy
+23
+24
+facility or portion thereof which reaches the commercial generation
+24
+Req. No. 2525 Page 8
+1
+date on or after December 31, 2016, the evidence of financial
+1
+2
+security shall be submitted by the fifth year of operation of the
+2
+3
+facility with a permit application pursuant to Section 160.21 of
+3
+4
+this title. Evidence of financial security may be in the form of a
+4
+5
+surety bond, collateral bond, parent guaranty, cash, cashier’s
+5
+6
+check, certificate of deposit, bank joint custody receipt or other
+6
+7
+approved negotiable instrument as established in rules promulgated
+7
+8
+by the Commission.
+8
+9
+B. 1. For a wind energy facility which reaches the commercial
+9
+10
+generation date prior to December 31, 2016, the evidence of
+10
+11
+financial security shall be accompanied by an estimate of the total
+11
+12
+cost of decommissioning, minus the salvage value of the equipment,
+12
+13
+prepared by a professional engineer licensed in this state. The
+13
+14
+amount of the evidence of financial security shall be either:
+14
+15
+a. the estimate of the total cost of decommissioning
+15
+16
+minus the salvage value of the equipment which shall
+16
+17
+be submitted to the Commission in the fifteenth year
+17
+18
+of the project and every tenth fifth year thereafter
+18
+19
+for the life of the wind energy facility, or
+19
+20
+b. one hundred twenty-five percent (125%) of the estimate
+20
+21
+of the total cost of decommissioning which shall be
+21
+22
+submitted to the Commission in the fifteenth year of
+22
+23
+the project.
+23
+24
+24
+Req. No. 2525 Page 9
+1
+
+Section 33:
+2. For a wind energy facility which reaches the commercial
+1
+2
+generation date on or after December 31, 2016, the evidence of
+2
+3
+financial security shall be accompanied by an estimate of the total
+3
+4
+cost of decommissioning and an estimate of the salvage value of the
+4
+5
+equipment prepared by a professional engineer licensed in this
+5
+6
+state. The amount of the evidence of financial security shall be
+6
+7
+one hundred twenty-five percent (125%) of the estimate of the total
+7
+8
+cost of decommissioning, minus the salvage value of the equipment,
+8
+9
+which shall be submitted to the Commission by the fifth year after
+9
+10
+reaching the commercial generation date when applying for a permit
+10
+11
+pursuant to Section 160.21 of this title and once every five (5)
+11
+12
+years thereafter upon request by the Commission.
+12
+13
+C. If the owner of a wind energy facility fails to submit the
+13
+14
+information with the Commission as is required by this section, the
+14
+15
+owner shall be subject to an administrative penalty not to exceed
+15
+16
+One Thousand Five Hundred Dollars ($1,500.00) per day.
+16
+17
+D. In the event of a transfer of ownership of a wind energy
+17
+18
+facility, the evidence of financial security posted by the
+18
+19
+transferor shall remain in place and shall not be released until
+19
+20
+such time as evidence of financial security meeting the requirements
+20
+21
+of this section is posted by the new owner of the wind energy
+21
+22
+facility and deemed acceptable by the Commission.
+22
+23
+E. The provisions of this section shall apply to any wind
+23
+24
+energy facility or portion thereof entering into or renewing a power
+24
+Req. No. 2525 Page 10
+1
+purchase agreement (PPA) for the energy generated by the wind energy
+1
+2
+facility on or after January 1, 2011. If a wind energy facility
+2
+3
+does not sell its energy under a power purchase agreement, the
+3
+4
+provisions of this section shall apply to the wind energy facility
+4
+5
+or portion thereof which construction commences on or after January
+5
+6
+1, 2011.
+6
+7
+
+Section 34:
+SECTION 4. AMENDATORY 17 O.S. 2021, Section 160.21, as
+7
+8
+amended by Section 22, Chapter 126, O.S.L. 2023 (17 O.S. Supp. 2025,
+8
+9
+
+Section 35:
+Section 160.21), is amended to read as follows:
+9
+10
+
+Section 36:
+Section 160.21. A. 1. A person shall not construct, operate,
+10
+11
+or redevelop a wind energy facility or wind energy facility
+11
+12
+expansion in this state before obtaining a permit from the
+12
+13
+Corporation Commission. In addition, if a political subdivision has
+13
+14
+enacted an ordinance that addresses the construction or expansion of
+14
+15
+a wind energy facility within its jurisdiction, permission shall be
+15
+16
+obtained from the political subdivision. Subject to the approval of
+16
+17
+the Commission, a permit issued pursuant to this section may be
+17
+18
+transferred to a person that agrees to comply with the terms of the
+18
+19
+permit. A filing fee of Two Thousand Five Hundred Dollars
+19
+20
+($2,500.00) shall be submitted with each permit application.
+20
+21
+
+Section 37:
+2. The owner of a wind energy facility shall submit
+21
+22
+notification of intent to build a facility a permit application to
+22
+23
+the Corporation Commission within six (6) months of the initial
+23
+24
+filing with the Federal Aviation Administration (FAA) of a FAA 7460-
+24
+Req. No. 2525 Page 11
+1
+1 form. The Corporation Commission shall prescribe the form and
+1
+2
+submittal requirements of the notification permit application;
+2
+3
+provided, the information required on the notification permit
+3
+4
+application form shall include at least the same information
+4
+5
+required on the FAA form and, a map of the project boundary, a
+5
+6
+complete description of the wind energy facility including the
+6
+7
+number and size of the wind turbines, the proposed timeline for
+7
+8
+construction and operation of the wind energy facility, and a
+8
+9
+development and management plan. The development and management
+9
+10
+plan shall address physical characteristics of the wind energy
+10
+11
+facility; electric standards that meet national electric codes;
+11
+12
+construction, operation, and maintenance standards that comply with
+12
+13
+all building codes and ensure maintenance in a manner that protects
+13
+14
+the public and complies with all requirements of this subsection;
+14
+15
+and emergency procedures. The emergency procedures shall include:
+15
+16
+a. a way to provide notice to the Oklahoma Department of
+16
+17
+Emergency Management and local emergency agencies
+17
+18
+within twenty-four (24) hours of an emergency,
+18
+19
+b. directions to address an emergency situation,
+19
+20
+including written procedures to shut down the wind
+20
+21
+energy facility or a portion of the facility as
+21
+22
+necessary, and
+22
+23
+c. an emergency evacuation plan for an area within four
+23
+24
+(4) miles of a wind energy facility, including the
+24
+Req. No. 2525 Page 12
+1
+location of alternate landing zones for emergency
+1
+2
+service aircraft.
+2
+3
+The emergency procedures shall be reviewed at least annually by
+3
+4
+the owner or operator of the wind energy facility in collaboration
+4
+5
+with the fire department, law enforcement, and other appropriate
+5
+6
+first responders as necessary. Copies of the emergency procedures
+6
+7
+shall be distributed to the local legislative body, first
+7
+8
+responders, and supervisors or employees of the wind energy
+8
+9
+facility.
+9
+10
+
+Section 38:
+3. The owner of a wind energy facility shall submit to the
+10
+11
+Oklahoma Department of Aerospace and Aeronautics copies of all
+11
+12
+initial FAA 7460-1 forms for all individual wind turbines or any
+12
+13
+other individual structure that requires a FAA Form 7460-1 that is
+13
+14
+part of a wind energy facility within thirty (30) days of the
+14
+15
+initial filing with the FAA. The Oklahoma Department of Aerospace
+15
+16
+and Aeronautics shall prescribe the submittal requirements for the
+16
+17
+7460-1 form.
+17
+18
+
+Section 39:
+4. The owner of the wind energy facility shall send copies of
+18
+19
+the notification permit application to the board of county
+19
+20
+commissioners of every county in which all or a portion of the wind
+20
+21
+energy facility is to be located within twenty-four (24) hours of
+21
+22
+filing with the Corporation Commission. If all or a portion of the
+22
+23
+wind energy facility is to be located within the incorporated area
+23
+24
+of a municipality, copies of the notification permit application
+24
+Req. No. 2525 Page 13
+1
+shall also be sent to the governing body of the municipality within
+1
+2
+twenty-four (24) hours of filing with the Corporation Commission.
+2
+3
+In addition to sending copies of the permit application to the
+3
+4
+county commissioners and the governing body of a municipality, if
+4
+5
+necessary, the owner of the wind energy facility shall send a copy
+5
+6
+of the permit application to the Oklahoma Tourism and Recreation
+6
+7
+Department, the county clerk of every county in which all or a
+7
+8
+portion of the wind energy facility is to be located, and any
+8
+9
+landowner and resident located within four (4) miles of the proposed
+9
+10
+location of the wind energy facility or wind energy facility
+10
+11
+expansion within twenty-four (24) hours of filing with the
+11
+12
+Corporation Commission.
+12
+13
+If the owner of a wind energy facility is required to file
+13
+14
+subsequent 7460-1 forms with the FAA due to changing locations or
+14
+15
+heights of individual structures from the locations or heights
+15
+16
+originally proposed in the initial 7460-1 forms submitted to the
+16
+17
+Oklahoma Department of Aerospace and Aeronautics, the owner shall,
+17
+18
+within ten (10) days of filing with the FAA, submit such subsequent
+18
+19
+7460-1 forms to the Corporation Commission and Oklahoma Department
+19
+20
+of Aerospace and Aeronautics. A wind energy facility owner shall
+20
+21
+not be required to start the notification processes over unless the
+21
+22
+subsequent 7460-1 forms expand the project beyond its original
+22
+23
+boundaries submitted to the Corporation Commission.
+23
+24
+24
+Req. No. 2525 Page 14
+1
+B. Within ten (10) days of receiving a FAA 7460-1 form, as
+1
+2
+provided for in subsection A of this section, the Oklahoma
+2
+3
+Department of Aerospace and Aeronautics shall notify the Oklahoma
+3
+4
+Strategic Military Planning Commission. The Oklahoma Strategic
+4
+5
+Military Planning Commission shall notify local base commanders upon
+5
+6
+receipt of this notification. The Oklahoma Strategic Military
+6
+7
+Planning Commission shall submit a letter to the Military Aviation
+7
+8
+and Installation Assurance Siting Clearinghouse outlining potential
+8
+9
+areas of impact, as provided in Section 160.20 of this title, within
+9
+10
+thirty (30) days of receipt of the notification. The letter from
+10
+11
+the Oklahoma Strategic Military Planning Commission shall be
+11
+12
+submitted to the Corporation Commission, the Oklahoma Department of
+12
+13
+Aerospace and Aeronautics, and the wind energy facility owner at the
+13
+14
+same time the letter is submitted to the Clearinghouse.
+14
+15
+C. Within six (6) months of submitting the notification permit
+15
+16
+application with the Corporation Commission as provided for in
+16
+17
+subsection A of this section, the owner of the wind energy facility
+17
+18
+shall cause a copy of the notification permit application to be
+18
+19
+published in a newspaper of general circulation in the county or
+19
+20
+counties in which all or a portion of the wind energy facility is to
+20
+21
+be located. Proof of publication shall be submitted to the
+21
+22
+Corporation Commission.
+22
+23
+D. Within six (6) months of submitting the notification permit
+23
+24
+application with the Corporation Commission as provided in
+24
+Req. No. 2525 Page 15
+1
+subsection A of this section, the owner of the wind energy facility
+1
+2
+shall cause a copy of the notification permit application to be
+2
+3
+sent, by certified mail, to:
+3
+4
+
+Section 40:
+1. Any oil and gas operator, as reflected in the records of the
+4
+5
+Corporation Commission, who is conducting oil and gas operations
+5
+6
+upon all or any part of the surface estate as to which the wind
+6
+7
+energy developer intends the construction of the wind energy
+7
+8
+facility;
+8
+9
+
+Section 41:
+2. Any oil and gas operator, as reflected in the records of the
+9
+10
+Corporation Commission, of an unspaced unit, or a unit created by
+10
+11
+order of the Corporation Commission, who is conducting oil and gas
+11
+12
+operations for the unit where all or any part of the unit area is
+12
+13
+within the geographical boundaries of the surface estate as to which
+13
+14
+the wind energy developer intends the construction of the wind
+14
+15
+energy facility; and
+15
+16
+
+Section 42:
+3. As to tracts of land not described in paragraphs 1 and 2 of
+16
+17
+this subsection on which the wind energy developer intends to
+17
+18
+construct a wind energy facility, all lessees of oil and gas leases
+18
+19
+covering the mineral estate underlying any part of the tracts of
+19
+20
+land that are filed of record with the county clerk in the county
+20
+21
+where the tracts are located and whose primary term has not expired.
+21
+22
+If the wind energy developer makes a search with reasonable
+22
+23
+diligence, and the whereabouts of a party entitled to any notice
+23
+24
+described in this subsection cannot be ascertained or such notice
+24
+Req. No. 2525 Page 16
+1
+cannot be delivered, then an affidavit attesting to such diligent
+1
+2
+search for the parties shall be placed in the records of the county
+2
+3
+clerk where the surface estate is actually located.
+3
+4
+E. Within sixty (60) days of publishing the notification permit
+4
+5
+application in a newspaper as provided for in subsection C of this
+5
+6
+
+Section 43:
+section, the owner of the wind energy facility shall hold a public
+6
+7
+meeting. Notice of the public meeting shall be published in a
+7
+8
+newspaper of general circulation and submitted to the board of
+8
+9
+county commissioners in the county or counties in which all or a
+9
+10
+portion of the wind energy facility is to be located. The notice
+10
+11
+shall contain the place, date, and time of the public meeting.
+11
+12
+Proof of publication of the notice shall be submitted to the
+12
+13
+Corporation Commission. The public meeting shall be held in one of
+13
+14
+the counties each county in which all or a portion of the wind
+14
+15
+energy facility is to be located or expanded.
+15
+16
+F. With regard to the surface estate upon which the owner of a
+16
+17
+wind energy facility intends to construct a wind energy facility, at
+17
+18
+least sixty (60) days before entering upon the surface estate for
+18
+19
+the purposes of commencement of construction of the wind energy
+19
+20
+facility, the owner shall provide written notice, by certified mail,
+20
+21
+of its intent to construct the wind energy facility to:
+21
+22
+
+Section 44:
+1. Any oil and gas operator, as reflected in the records of the
+22
+23
+Corporation Commission, who is conducting oil and gas operations
+23
+24
+upon all or any part of the surface estate as to which the wind
+24
+Req. No. 2525 Page 17
+1
+energy developer intends the construction of the wind energy
+1
+2
+facility;
+2
+3
+
+Section 45:
+2. Any oil and gas operator, as reflected in the records of the
+3
+4
+Corporation Commission, of an unspaced unit, or a unit created by
+4
+5
+order of the Corporation Commission, who is conducting oil and gas
+5
+6
+operations for the unit where all or any part of the unit area is
+6
+7
+within the geographical boundaries of the surface estate as to which
+7
+8
+the wind energy developer intends the construction of the wind
+8
+9
+energy facility; and
+9
+10
+
+Section 46:
+3. As to tracts of land not described in paragraphs 1 and 2 of
+10
+11
+this subsection on which the wind energy developer intends to
+11
+12
+construct a wind energy facility, all lessees of oil and gas leases
+12
+13
+covering the mineral estate underlying any part of the tracts of
+13
+14
+land that are filed of record with the county clerk in the county
+14
+15
+where the tracts are located and whose primary term has not expired.
+15
+16
+The notice shall contain a map or plat of the proposed location,
+16
+17
+with sufficient specificity of all of the various elements of the
+17
+18
+wind energy facility to be located on the governmental section which
+18
+19
+includes all or any part of the tracts of land described in
+19
+20
+paragraphs 1, 2, and 3 of this subsection and the approximate date
+20
+21
+that the owner of the wind energy facility proposes to commence
+21
+22
+construction. If the wind energy developer makes a search with
+22
+23
+reasonable diligence, and the whereabouts of a party entitled to any
+23
+24
+notice described in this subsection cannot be ascertained or such
+24
+Req. No. 2525 Page 18
+1
+notice cannot be delivered, then an affidavit attesting to such
+1
+2
+diligent search for the parties shall be placed in the records of
+2
+3
+the county clerk where the surface estate is actually located.
+3
+4
+Within thirty (30) days of receiving such notice, any oil and gas
+4
+5
+operator, as described in paragraphs 1, 2, and 3 of this subsection
+5
+6
+shall reciprocate, in writing by certified mail, certain site,
+6
+7
+operational and infrastructure information, with sufficient
+7
+8
+specificity, to be shared with the owner of the wind energy facility
+8
+9
+to assist both with the safe construction and operation pertaining
+9
+10
+to the surface estate. This information should include American
+10
+11
+Land Title Association (ALTA) surveys of existing subsurface and
+11
+12
+surface improvements on the property, if any, as well as other
+12
+13
+technical specifications for existing improvements such as pipe
+13
+14
+size, material, capacity and depth.
+14
+15
+G. The owner of a wind energy facility shall not commence
+15
+16
+construction on the facility until the notification and public
+16
+17
+meeting requirements of this section have been met. If an owner of
+17
+18
+a wind energy facility fails to submit the information as required
+18
+19
+in this section, the owner shall be subject to an administrative
+19
+20
+penalty from the Corporation Commission not to exceed One Thousand
+20
+21
+Five Hundred Dollars ($1,500.00) per day, per violation as provided
+21
+22
+by law.
+22
+23
+23
+24
+24
+Req. No. 2525 Page 19
+1
+H. The Corporation Commission shall establish that the
+1
+2
+applicant has met the following minimum requirements before
+2
+3
+approving a permit application:
+3
+4
+
+Section 47:
+1. The minimum setback for the base of any wind turbine from a
+4
+5
+nonparticipating landowner’s property line shall be equal to the
+5
+6
+greater of one quarter (1/4) of a nautical mile or two (2) times the
+6
+7
+total height of the wind turbine as measured from the ground at its
+7
+8
+base to the maximum height of the blade tip. A nonparticipating
+8
+9
+landowner may elect to sign a waiver that allows a wind turbine or
+9
+10
+group of wind turbines to be placed up to one and one-tenth (1.1)
+10
+11
+times the total height of the wind turbine as measured from the
+11
+12
+ground at its base to the maximum height of the blade tip from the
+12
+13
+nonparticipating landowner’s property line;
+13
+14
+
+Section 48:
+2. The minimum setback from the base of a wind turbine shall be
+14
+15
+one half (1/2) of a nautical mile from any residential structure
+15
+16
+that exists at the time the permit application is submitted to the
+16
+17
+Corporation Commission;
+17
+18
+
+Section 49:
+3. An environmental impact assessment, conducted by a qualified
+18
+19
+third-party expert approved by the Corporation Commission and paid
+19
+20
+for by the applicant, of the potential adverse impacts within four
+20
+21
+(4) miles of the perimeter of the wind energy facility or wind
+21
+22
+energy facility expansion. The environmental impact assessment
+22
+23
+shall include, but not be limited to, a study of the:
+23
+24
+24
+Req. No. 2525 Page 20
+1
+a. economic impacts to individuals, real property values,
+1
+2
+tourism, and agriculture,
+2
+3
+b. compliance with state and national fire, building, and
+3
+4
+electrical codes,
+4
+5
+c. impact on wildlife including potential adverse impacts
+5
+6
+to wildlife refuges, preserves and management areas,
+6
+7
+habitats for threatened or endangered species, primary
+7
+8
+nursery areas as designated by the Oklahoma Wildlife
+8
+9
+Conservation Commission, and critical fishery habitats
+9
+10
+as identified by state or federal law,
+10
+11
+d. viewshed analysis for state and federal parks and
+11
+12
+forests, historic and cultural sites, public parks and
+12
+13
+recreation areas, and private conservation land, and
+13
+14
+e. bodies of water within four (4) miles of the perimeter
+14
+15
+of the wind energy facility or wind energy facility
+15
+16
+expansion, including flowing water sources, stormwater
+16
+17
+runoff, wetlands, groundwater, aquifers, and private
+17
+18
+wells.
+18
+19
+Such environmental impact assessment shall not be required if an
+19
+20
+environmental review of the wind energy facility or any portion of
+20
+21
+the wind energy facility is required pursuant to the National
+21
+22
+Environmental Policy Act of 1969 that includes public input, a
+22
+23
+public hearing, an environmental impact statement, and a viewshed
+23
+24
+analysis;
+24
+Req. No. 2525 Page 21
+1
+
+Section 50:
+4. A risk assessment and mitigation recommendations for shadow
+1
+2
+flicker and other incidents, including wind turbine fires,
+2
+3
+structural damage or failure, ice throw, blade shear, and hazardous
+3
+4
+material spills. Shadow flicker shall not exceed thirty (30) hours
+4
+5
+annually as verified in an assessment prepared according to industry
+5
+6
+standards. A nonparticipating landowner may elect to sign a written
+6
+7
+waiver to allow shadow flicker, ice throw, or blade shear from any
+7
+8
+wind turbine on the nonparticipating landowner’s property;
+8
+9
+
+Section 51:
+5. A risk assessment for civil air navigation, military or law
+9
+10
+enforcement routes or training exercises, emergency medical flights,
+10
+11
+radar operations, and mobile phone services;
+11
+12
+
+Section 52:
+6. A risk assessment for lighting requirements beyond those
+12
+13
+required by the Federal Aviation Administration; and
+13
+14
+
+Section 53:
+7. A baseline determination of preconstruction noise levels,
+14
+15
+including modeling and enforcement, conducted by a qualified third-
+15
+16
+party acoustics expert paid for by the applicant. Except during an
+16
+17
+event of inclement weather that prevents an operator from
+17
+18
+controlling the noise level of one or more wind turbines, the noise
+18
+19
+emission limit at a nonparticipating landowner’s dwelling shall not
+19
+20
+exceed thirty-five A-weighted decibels (35 dBA). The emission limit
+20
+21
+at a nonparticipating landowner’s property line shall not exceed
+21
+22
+forty-five A-weighted decibels (45 dBA). A nonparticipating
+22
+23
+landowner may elect to sign a written waiver to allow for noise
+23
+24
+levels that exceed such limits.
+24
+Req. No. 2525 Page 22
+1
+
+Section 54:
+SECTION 5. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 160.24 of Title 17, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. Upon receipt of an application for a permit for the
+4
+5
+construction, operation, or redevelopment of a wind energy facility
+5
+6
+or a wind energy facility expansion pursuant to Section 160.21 of
+6
+7
+Title 17 of the Oklahoma Statutes, the Corporation Commission shall
+7
+8
+notify executive agencies of this state requesting comments
+8
+9
+regarding the adequacy of a permit application.
+9
+10
+B. Comments shall be received within one hundred twenty (120)
+10
+11
+days after the notification from the Commission unless an agency
+11
+12
+requests a longer period to consider the permit application.
+12
+13
+C. Upon review of comments received, if any, the Commission
+13
+14
+shall determine whether the applicant failed to include or
+14
+15
+adequately develop relevant environmental or economic impacts
+15
+16
+associated with the wind energy facility as required pursuant to
+16
+17
+
+Section 55:
+Section 160.21 of Title 17 of the Oklahoma Statutes. The Commission
+17
+18
+shall issue a letter to the applicant if there are deficiencies in
+18
+19
+the application. The letter shall be prepared and served to the
+19
+20
+applicant no later than twenty (20) days before the date for a
+20
+21
+public hearing pursuant to subsection D of this section. The
+21
+22
+applicant shall promptly respond to the letter and the public
+22
+23
+hearing shall be deferred unless the applicant has responded before
+23
+24
+the hearing.
+24
+Req. No. 2525 Page 23
+1
+D. A public hearing shall be set no earlier than sixty (60)
+1
+2
+days after the notification date for comments from executive
+2
+3
+agencies. The testimony presented at the hearing may be presented
+3
+4
+in writing or orally; provided, the Commission may promulgate rules
+4
+5
+designed to exclude repetitive, redundant, or irrelevant testimony.
+5
+6
+After the public hearing, the Commission may deny, grant, or
+6
+7
+conditionally grant the permit.
+7
+8
+
+Section 56:
+SECTION 6. NEW LAW A new section of law to be codified
+8
+9
+in the Oklahoma Statutes as Section 160.25 of Title 17, unless there
+9
+10
+is created a duplication in numbering, reads as follows:
+10
+11
+A. Except as provided in subsection B of this section, a permit
+11
+12
+application for the construction, operation, or redevelopment of a
+12
+13
+wind energy facility or a wind energy facility expansion and other
+13
+14
+documents required pursuant to this act are subject to disclosure
+14
+15
+under the Oklahoma Open Records Act and the federal Freedom of
+15
+16
+Information Act.
+16
+17
+B. Proprietary information contained in a permit application or
+17
+18
+other documents required pursuant to this act or documents used by
+18
+19
+the Commission to evaluate and approve or deny a permit application
+19
+20
+shall remain confidential and not subject to disclosure under the
+20
+21
+Oklahoma Open Records Act or the federal Freedom of Information Act.
+21
+22
+
+Section 57:
+SECTION 7. This act shall become effective November 1, 2026.
+22
+23
+23
+24
+60-2-2525 CN 1/11/2026 9:41:14 AM
+24
+Req. No. 2525 Page 24
+[DELETED:  P B M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P i g]
+[DELETED:  P h i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t o]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a d a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P e c i v b]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1514 By: McIntosh
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to wind energy; amending 17 O.S.
+7
+2021, Sections 160.13, 160.14, 160.15, and 160.21, as
+8
+amended by Section 22, Chapter 126, O.S.L. 2023 (17
+8
+O.S. Supp. 2025, Section 160.21), which relate to the
+9
+Oklahoma Wind Energy Development Act; modifying
+9
+definitions; defining terms; modifying certain depth
+10
+requirement; requiring decommission or removal in
+10
+certain circumstances; requiring certain restoration;
+11
+modifying requirements for evidence of financial
+11
+security; requiring certain permit; stating permit
+12
+application criteria; requiring certain mailing and
+12
+notification; modifying where certain meeting shall
+13
+be held; establishing minimum requirements for
+13
+certain approval; requiring certain notification;
+14
+authorizing comments from executive agencies;
+14
+requiring certain letter; requiring public hearing;
+15
+authorizing promulgation of rules; stating certain
+15
+disclosure; stating exception; providing for
+16
+codification; and providing an effective date.
+16
+17
+17
+18
+18
+19
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19
+20
+SECTION 1. AMENDATORY 17 O.S. 2021, Section 160.13, is
+20
+21
+amended to read as follows:
+21
+22
+Section 160.13. As used in the Oklahoma Wind Energy Development
+22
+23
+Act:
+23
+24
+24
+Req. No. 2525 Page 1
+
+1
+1. “Abandonment” means the failure to generate electricity from
+1
+2
+commercial wind energy equipment for a period of twenty-four (24)
+2
+3
+consecutive months one hundred eighty (180) consecutive days for
+3
+4
+reasons other than curtailment, repowering, a valid judicial order,
+4
+5
+or other governmental regulatory action, with no pending
+5
+6
+negotiations for purchase. A wind energy facility shall not be
+6
+7
+considered abandoned if the owner or operator has elected not to run
+7
+8
+the facility, but it has been maintained in proper working order and
+8
+9
+is capable of generating electricity;
+9
+10
+2. “Commencement of construction” means beginning excavation of
+10
+11
+wind turbine foundations or other actions relating to the actual
+11
+12
+erection and installation of commercial wind energy equipment. It
+12
+13
+shall include the clearing of land, relocation of utilities,
+13
+14
+expansion of a wind energy facility, and other actions that would
+14
+15
+adversely affect the natural environment of the proposed site. It
+15
+16
+shall not include erection of meteorological towers, environmental
+16
+17
+assessments, surveys, preliminary engineering, or other activities
+17
+18
+associated with assessment of development of the wind resources on a
+18
+19
+given parcel of property;
+19
+20
+3. “Commercial generation date” means the date on which the
+20
+21
+wind turbine in question first generates electrical energy in
+21
+22
+commercial quantities;
+22
+23
+23
+24
+24
+Req. No. 2525 Page 2
+
+1
+4. “Commercial wind energy equipment” means a wind tower and
+1
+2
+turbine with five hundred kilowatts (500kw) or greater of total
+2
+3
+nameplate generating capacity;
+3
+4
+5. “Commercial quantities” means an amount of electrical energy
+4
+5
+sufficient for sale or use off-site from a wind turbine or wind
+5
+6
+energy facility, and shall not include amounts of electrical energy
+6
+7
+used only for the maintenance or testing of the wind turbine or wind
+7
+8
+energy facility itself;
+8
+9
+6. “Nonparticipating landowner” means a landowner that is not
+9
+10
+under a lease or other property agreement with an owner or operator;
+10
+11
+7. “Operate” means activity associated with the management,
+11
+12
+operation, and maintenance of a completed wind energy facility and
+12
+13
+includes the installation or improvement of a wind energy facility;
+13
+14
+8. “Operator” means a person or entity that operates a wind
+14
+15
+energy facility;
+15
+16
+9. “Owner” means the entity having a majority equity interest
+16
+17
+in commercial wind energy equipment, including their respective
+17
+18
+successors and assigns;
+18
+19
+7. 10. “Person” means a natural person, corporation, limited
+19
+20
+liability company, partnership, joint venture, or other private
+20
+21
+business entity;
+21
+22
+11. “Proprietary information” means commercial or financial
+22
+23
+information that:
+23
+24
+24
+Req. No. 2525 Page 3
+
+1
+a. is used directly or indirectly in the business of an
+1
+2
+applicant submitting information to a political
+2
+3
+subdivision, and
+3
+4
+b. gives an applicant submitting information to a
+4
+5
+political subdivision an advantage or opportunity to
+5
+6
+obtain an advantage over a competitor that does not
+6
+7
+know of, or otherwise use, the information.
+7
+8
+It shall include trade secrets;
+8
+9
+12. “Redevelop” means to replan, reconstruct, or redesign a
+9
+10
+wind energy facility and includes the acquisition, clearance,
+10
+11
+development, disposal, or combination thereof, of a wind energy
+11
+12
+facility;
+12
+13
+13. “Transmission facility” means a power cable, distribution
+13
+14
+line, or other equipment that delivers electricity from a wind
+14
+15
+turbine located in this state to the point of interconnection with a
+15
+16
+power distribution grid, long-distance power transmission grid, or
+16
+17
+other facility by and through which the electricity is distributed
+17
+18
+or transmitted to one or more customers. It shall not include
+18
+19
+distribution, transmission, or other facilities that are located
+19
+20
+beyond the point of interconnection with the power distribution grid
+20
+21
+or transmission grid;
+21
+22
+14. “Under development” means the execution of land leases on
+22
+23
+all real estate to be included in the proposed development, the
+23
+24
+commencement of necessary state and federal studies related to
+24
+Req. No. 2525 Page 4
+
+1
+construction of a wind energy facility, and the commencement of on-
+1
+2
+site physical work of a significant nature on the proposed wind
+2
+3
+energy facility site;
+3
+4
+15. “Useful life” means the time during which a wind turbine or
+4
+5
+wind energy facility is generating electricity in commercial
+5
+6
+quantities;
+6
+7
+8. “Wind turbine” means a wind energy conversion system which
+7
+8
+converts wind energy into electricity through the use of a wind
+8
+9
+turbine generator and includes the turbine, blade, tower, base and
+9
+10
+pad transformer, if any; and
+10
+11
+9. 16. “Wind energy facility” means an electrical generation
+11
+12
+facility consisting of one or more wind turbines under common
+12
+13
+ownership or operating control, that, cumulatively with any other
+13
+14
+wind energy facility:
+14
+15
+a. has a rated capacity of five (5) megawatts or more of
+15
+16
+electrical energy, and
+16
+17
+b. is more than two hundred (200) feet in height,
+17
+18
+and includes substations, meteorological data towers, aboveground
+18
+19
+and underground electrical transmission lines, transformers, control
+19
+20
+systems, and other buildings or facilities used to support the
+20
+21
+operation of the facility, and whose primary purpose is to supply
+21
+22
+electricity to an off-site customer or customers. Wind energy
+22
+23
+facility shall not include a wind energy facility located entirely
+23
+24
+on property held in fee simple absolute estate by the owner of the
+24
+Req. No. 2525 Page 5
+
+1
+wind energy facility nor shall it include equipment that, when
+1
+2
+installed in connection with a dwelling, transmits or uses wind
+2
+3
+energy to produce electrical energy in a useful form for residential
+3
+4
+purposes;
+4
+5
+17. “Wind energy facility expansion” means an activity that
+5
+6
+adds or substantially modifies a wind energy facility including, but
+6
+7
+not limited to, increasing the height or the number of wind
+7
+8
+turbines, transmission facilities, or other equipment or that
+8
+9
+increases the environmental footprint of a wind energy facility; and
+9
+10
+18. “Wind turbine” means a wind energy conversion system that
+10
+11
+converts wind energy into electricity through the use of a wind
+11
+12
+turbine generator and includes the turbine, blade, tower, base, and
+12
+13
+pad transformer, if any.
+13
+14
+SECTION 2. AMENDATORY 17 O.S. 2021, Section 160.14, is
+14
+15
+amended to read as follows:
+15
+16
+Section 160.14. A. The owner of a wind energy facility shall
+16
+17
+be responsible, at its expense, for the proper decommissioning of
+17
+18
+the facility upon abandonment or the end of the useful life of the
+18
+19
+commercial wind energy equipment in the wind energy facility.
+19
+20
+B. Proper decommissioning of a wind energy facility shall
+20
+21
+include:
+21
+22
+1. Removal of wind turbines, towers, buildings, cabling,
+22
+23
+electrical components, foundations and any other associated
+23
+24
+24
+Req. No. 2525 Page 6
+
+1
+facilities, to a depth of thirty (30) forty-eight (48) inches below
+1
+2
+grade; and
+2
+3
+2. Disturbed earth being graded and reseeded or otherwise
+3
+4
+restored to substantially the same physical condition as existed
+4
+5
+prior to the construction of the wind energy facility by the owner,
+5
+6
+excluding roads, unless the landowner specifically requests in
+6
+7
+writing that the roads or other land surface areas be restored.
+7
+8
+C. The decommissioning of the wind energy facility, or
+8
+9
+individual pieces of commercial wind energy equipment, shall be
+9
+10
+completed as follows:
+10
+11
+1. By the owner of the wind energy facility within twelve (12)
+11
+12
+months after abandonment or the end of the useful life of the
+12
+13
+commercial wind energy equipment in the wind energy facility; and
+13
+14
+2. If the owner of the wind energy facility fails to complete
+14
+15
+the decommissioning within the period prescribed in paragraph 1 of
+15
+16
+this subsection, the Corporation Commission shall take such measures
+16
+17
+as are necessary to complete the decommissioning.
+17
+18
+D. A lease or other agreement between a landowner and an owner
+18
+19
+of a wind energy facility may contain provisions for decommissioning
+19
+20
+that are more restrictive than provided for in this section.
+20
+21
+E. A wind energy facility shall be decommissioned or removed
+21
+22
+if:
+22
+23
+1. A wind turbine ceases to generate electricity for one
+23
+24
+hundred eighty (180) continuous days unless the termination of
+24
+Req. No. 2525 Page 7
+
+1
+electricity was mandated by state or federal law or was authorized
+1
+2
+by the Commission. Two extensions may be authorized by the
+2
+3
+Commission for one-hundred-eighty-day periods at a time if the wind
+3
+4
+energy facility continues to be maintained in proper working order;
+4
+5
+or
+5
+6
+2. A wind turbine or group of wind turbines violates the noise
+6
+7
+level restrictions pursuant to Section 160.21 of this title unless
+7
+8
+the wind turbine or group of wind turbines is brought into
+8
+9
+compliance within one hundred eighty (180) days of the violation.
+9
+10
+One extension may be authorized by the Commission pursuant to this
+10
+11
+paragraph.
+11
+12
+F. Within twelve (12) months of the decommissioning of a wind
+12
+13
+energy facility, the property shall be restored to its original
+13
+14
+condition.
+14
+15
+SECTION 3. AMENDATORY 17 O.S. 2021, Section 160.15, is
+15
+16
+amended to read as follows:
+16
+17
+Section 160.15. A. The owner of a wind energy facility shall
+17
+18
+submit to the Corporation Commission evidence of financial security
+18
+19
+to cover the anticipated costs of decommissioning the wind energy
+19
+20
+facility. For a wind energy facility or portion thereof which
+20
+21
+reaches the commercial generation date prior to December 31, 2016,
+21
+22
+the evidence of financial security shall be submitted after the
+22
+23
+fifteenth year of operation of the facility. For a wind energy
+23
+24
+facility or portion thereof which reaches the commercial generation
+24
+Req. No. 2525 Page 8
+
+1
+date on or after December 31, 2016, the evidence of financial
+1
+2
+security shall be submitted by the fifth year of operation of the
+2
+3
+facility with a permit application pursuant to Section 160.21 of
+3
+4
+this title. Evidence of financial security may be in the form of a
+4
+5
+surety bond, collateral bond, parent guaranty, cash, cashier’s
+5
+6
+check, certificate of deposit, bank joint custody receipt or other
+6
+7
+approved negotiable instrument as established in rules promulgated
+7
+8
+by the Commission.
+8
+9
+B. 1. For a wind energy facility which reaches the commercial
+9
+10
+generation date prior to December 31, 2016, the evidence of
+10
+11
+financial security shall be accompanied by an estimate of the total
+11
+12
+cost of decommissioning, minus the salvage value of the equipment,
+12
+13
+prepared by a professional engineer licensed in this state. The
+13
+14
+amount of the evidence of financial security shall be either:
+14
+15
+a. the estimate of the total cost of decommissioning
+15
+16
+minus the salvage value of the equipment which shall
+16
+17
+be submitted to the Commission in the fifteenth year
+17
+18
+of the project and every tenth fifth year thereafter
+18
+19
+for the life of the wind energy facility, or
+19
+20
+b. one hundred twenty-five percent (125%) of the estimate
+20
+21
+of the total cost of decommissioning which shall be
+21
+22
+submitted to the Commission in the fifteenth year of
+22
+23
+the project.
+23
+24
+24
+Req. No. 2525 Page 9
+
+1
+2. For a wind energy facility which reaches the commercial
+1
+2
+generation date on or after December 31, 2016, the evidence of
+2
+3
+financial security shall be accompanied by an estimate of the total
+3
+4
+cost of decommissioning and an estimate of the salvage value of the
+4
+5
+equipment prepared by a professional engineer licensed in this
+5
+6
+state. The amount of the evidence of financial security shall be
+6
+7
+one hundred twenty-five percent (125%) of the estimate of the total
+7
+8
+cost of decommissioning, minus the salvage value of the equipment,
+8
+9
+which shall be submitted to the Commission by the fifth year after
+9
+10
+reaching the commercial generation date when applying for a permit
+10
+11
+pursuant to Section 160.21 of this title and once every five (5)
+11
+12
+years thereafter upon request by the Commission.
+12
+13
+C. If the owner of a wind energy facility fails to submit the
+13
+14
+information with the Commission as is required by this section, the
+14
+15
+owner shall be subject to an administrative penalty not to exceed
+15
+16
+One Thousand Five Hundred Dollars ($1,500.00) per day.
+16
+17
+D. In the event of a transfer of ownership of a wind energy
+17
+18
+facility, the evidence of financial security posted by the
+18
+19
+transferor shall remain in place and shall not be released until
+19
+20
+such time as evidence of financial security meeting the requirements
+20
+21
+of this section is posted by the new owner of the wind energy
+21
+22
+facility and deemed acceptable by the Commission.
+22
+23
+E. The provisions of this section shall apply to any wind
+23
+24
+energy facility or portion thereof entering into or renewing a power
+24
+Req. No. 2525 Page 10
+
+1
+purchase agreement (PPA) for the energy generated by the wind energy
+1
+2
+facility on or after January 1, 2011. If a wind energy facility
+2
+3
+does not sell its energy under a power purchase agreement, the
+3
+4
+provisions of this section shall apply to the wind energy facility
+4
+5
+or portion thereof which construction commences on or after January
+5
+6
+1, 2011.
+6
+7
+SECTION 4. AMENDATORY 17 O.S. 2021, Section 160.21, as
+7
+8
+amended by Section 22, Chapter 126, O.S.L. 2023 (17 O.S. Supp. 2025,
+8
+9
+Section 160.21), is amended to read as follows:
+9
+10
+Section 160.21. A. 1. A person shall not construct, operate,
+10
+11
+or redevelop a wind energy facility or wind energy facility
+11
+12
+expansion in this state before obtaining a permit from the
+12
+13
+Corporation Commission. In addition, if a political subdivision has
+13
+14
+enacted an ordinance that addresses the construction or expansion of
+14
+15
+a wind energy facility within its jurisdiction, permission shall be
+15
+16
+obtained from the political subdivision. Subject to the approval of
+16
+17
+the Commission, a permit issued pursuant to this section may be
+17
+18
+transferred to a person that agrees to comply with the terms of the
+18
+19
+permit. A filing fee of Two Thousand Five Hundred Dollars
+19
+20
+($2,500.00) shall be submitted with each permit application.
+20
+21
+2. The owner of a wind energy facility shall submit
+21
+22
+notification of intent to build a facility a permit application to
+22
+23
+the Corporation Commission within six (6) months of the initial
+23
+24
+filing with the Federal Aviation Administration (FAA) of a FAA 7460-
+24
+Req. No. 2525 Page 11
+
+1
+1 form. The Corporation Commission shall prescribe the form and
+1
+2
+submittal requirements of the notification permit application;
+2
+3
+provided, the information required on the notification permit
+3
+4
+application form shall include at least the same information
+4
+5
+required on the FAA form and, a map of the project boundary, a
+5
+6
+complete description of the wind energy facility including the
+6
+7
+number and size of the wind turbines, the proposed timeline for
+7
+8
+construction and operation of the wind energy facility, and a
+8
+9
+development and management plan. The development and management
+9
+10
+plan shall address physical characteristics of the wind energy
+10
+11
+facility; electric standards that meet national electric codes;
+11
+12
+construction, operation, and maintenance standards that comply with
+12
+13
+all building codes and ensure maintenance in a manner that protects
+13
+14
+the public and complies with all requirements of this subsection;
+14
+15
+and emergency procedures. The emergency procedures shall include:
+15
+16
+a. a way to provide notice to the Oklahoma Department of
+16
+17
+Emergency Management and local emergency agencies
+17
+18
+within twenty-four (24) hours of an emergency,
+18
+19
+b. directions to address an emergency situation,
+19
+20
+including written procedures to shut down the wind
+20
+21
+energy facility or a portion of the facility as
+21
+22
+necessary, and
+22
+23
+c. an emergency evacuation plan for an area within four
+23
+24
+(4) miles of a wind energy facility, including the
+24
+Req. No. 2525 Page 12
+
+1
+location of alternate landing zones for emergency
+1
+2
+service aircraft.
+2
+3
+The emergency procedures shall be reviewed at least annually by
+3
+4
+the owner or operator of the wind energy facility in collaboration
+4
+5
+with the fire department, law enforcement, and other appropriate
+5
+6
+first responders as necessary. Copies of the emergency procedures
+6
+7
+shall be distributed to the local legislative body, first
+7
+8
+responders, and supervisors or employees of the wind energy
+8
+9
+facility.
+9
+10
+3. The owner of a wind energy facility shall submit to the
+10
+11
+Oklahoma Department of Aerospace and Aeronautics copies of all
+11
+12
+initial FAA 7460-1 forms for all individual wind turbines or any
+12
+13
+other individual structure that requires a FAA Form 7460-1 that is
+13
+14
+part of a wind energy facility within thirty (30) days of the
+14
+15
+initial filing with the FAA. The Oklahoma Department of Aerospace
+15
+16
+and Aeronautics shall prescribe the submittal requirements for the
+16
+17
+7460-1 form.
+17
+18
+4. The owner of the wind energy facility shall send copies of
+18
+19
+the notification permit application to the board of county
+19
+20
+commissioners of every county in which all or a portion of the wind
+20
+21
+energy facility is to be located within twenty-four (24) hours of
+21
+22
+filing with the Corporation Commission. If all or a portion of the
+22
+23
+wind energy facility is to be located within the incorporated area
+23
+24
+of a municipality, copies of the notification permit application
+24
+Req. No. 2525 Page 13
+
+1
+shall also be sent to the governing body of the municipality within
+1
+2
+twenty-four (24) hours of filing with the Corporation Commission.
+2
+3
+In addition to sending copies of the permit application to the
+3
+4
+county commissioners and the governing body of a municipality, if
+4
+5
+necessary, the owner of the wind energy facility shall send a copy
+5
+6
+of the permit application to the Oklahoma Tourism and Recreation
+6
+7
+Department, the county clerk of every county in which all or a
+7
+8
+portion of the wind energy facility is to be located, and any
+8
+9
+landowner and resident located within four (4) miles of the proposed
+9
+10
+location of the wind energy facility or wind energy facility
+10
+11
+expansion within twenty-four (24) hours of filing with the
+11
+12
+Corporation Commission.
+12
+13
+If the owner of a wind energy facility is required to file
+13
+14
+subsequent 7460-1 forms with the FAA due to changing locations or
+14
+15
+heights of individual structures from the locations or heights
+15
+16
+originally proposed in the initial 7460-1 forms submitted to the
+16
+17
+Oklahoma Department of Aerospace and Aeronautics, the owner shall,
+17
+18
+within ten (10) days of filing with the FAA, submit such subsequent
+18
+19
+7460-1 forms to the Corporation Commission and Oklahoma Department
+19
+20
+of Aerospace and Aeronautics. A wind energy facility owner shall
+20
+21
+not be required to start the notification processes over unless the
+21
+22
+subsequent 7460-1 forms expand the project beyond its original
+22
+23
+boundaries submitted to the Corporation Commission.
+23
+24
+24
+Req. No. 2525 Page 14
+
+1
+B. Within ten (10) days of receiving a FAA 7460-1 form, as
+1
+2
+provided for in subsection A of this section, the Oklahoma
+2
+3
+Department of Aerospace and Aeronautics shall notify the Oklahoma
+3
+4
+Strategic Military Planning Commission. The Oklahoma Strategic
+4
+5
+Military Planning Commission shall notify local base commanders upon
+5
+6
+receipt of this notification. The Oklahoma Strategic Military
+6
+7
+Planning Commission shall submit a letter to the Military Aviation
+7
+8
+and Installation Assurance Siting Clearinghouse outlining potential
+8
+9
+areas of impact, as provided in Section 160.20 of this title, within
+9
+10
+thirty (30) days of receipt of the notification. The letter from
+10
+11
+the Oklahoma Strategic Military Planning Commission shall be
+11
+12
+submitted to the Corporation Commission, the Oklahoma Department of
+12
+13
+Aerospace and Aeronautics, and the wind energy facility owner at the
+13
+14
+same time the letter is submitted to the Clearinghouse.
+14
+15
+C. Within six (6) months of submitting the notification permit
+15
+16
+application with the Corporation Commission as provided for in
+16
+17
+subsection A of this section, the owner of the wind energy facility
+17
+18
+shall cause a copy of the notification permit application to be
+18
+19
+published in a newspaper of general circulation in the county or
+19
+20
+counties in which all or a portion of the wind energy facility is to
+20
+21
+be located. Proof of publication shall be submitted to the
+21
+22
+Corporation Commission.
+22
+23
+D. Within six (6) months of submitting the notification permit
+23
+24
+application with the Corporation Commission as provided in
+24
+Req. No. 2525 Page 15
+
+1
+subsection A of this section, the owner of the wind energy facility
+1
+2
+shall cause a copy of the notification permit application to be
+2
+3
+sent, by certified mail, to:
+3
+4
+1. Any oil and gas operator, as reflected in the records of the
+4
+5
+Corporation Commission, who is conducting oil and gas operations
+5
+6
+upon all or any part of the surface estate as to which the wind
+6
+7
+energy developer intends the construction of the wind energy
+7
+8
+facility;
+8
+9
+2. Any oil and gas operator, as reflected in the records of the
+9
+10
+Corporation Commission, of an unspaced unit, or a unit created by
+10
+11
+order of the Corporation Commission, who is conducting oil and gas
+11
+12
+operations for the unit where all or any part of the unit area is
+12
+13
+within the geographical boundaries of the surface estate as to which
+13
+14
+the wind energy developer intends the construction of the wind
+14
+15
+energy facility; and
+15
+16
+3. As to tracts of land not described in paragraphs 1 and 2 of
+16
+17
+this subsection on which the wind energy developer intends to
+17
+18
+construct a wind energy facility, all lessees of oil and gas leases
+18
+19
+covering the mineral estate underlying any part of the tracts of
+19
+20
+land that are filed of record with the county clerk in the county
+20
+21
+where the tracts are located and whose primary term has not expired.
+21
+22
+If the wind energy developer makes a search with reasonable
+22
+23
+diligence, and the whereabouts of a party entitled to any notice
+23
+24
+described in this subsection cannot be ascertained or such notice
+24
+Req. No. 2525 Page 16
+
+1
+cannot be delivered, then an affidavit attesting to such diligent
+1
+2
+search for the parties shall be placed in the records of the county
+2
+3
+clerk where the surface estate is actually located.
+3
+4
+E. Within sixty (60) days of publishing the notification permit
+4
+5
+application in a newspaper as provided for in subsection C of this
+5
+6
+section, the owner of the wind energy facility shall hold a public
+6
+7
+meeting. Notice of the public meeting shall be published in a
+7
+8
+newspaper of general circulation and submitted to the board of
+8
+9
+county commissioners in the county or counties in which all or a
+9
+10
+portion of the wind energy facility is to be located. The notice
+10
+11
+shall contain the place, date, and time of the public meeting.
+11
+12
+Proof of publication of the notice shall be submitted to the
+12
+13
+Corporation Commission. The public meeting shall be held in one of
+13
+14
+the counties each county in which all or a portion of the wind
+14
+15
+energy facility is to be located or expanded.
+15
+16
+F. With regard to the surface estate upon which the owner of a
+16
+17
+wind energy facility intends to construct a wind energy facility, at
+17
+18
+least sixty (60) days before entering upon the surface estate for
+18
+19
+the purposes of commencement of construction of the wind energy
+19
+20
+facility, the owner shall provide written notice, by certified mail,
+20
+21
+of its intent to construct the wind energy facility to:
+21
+22
+1. Any oil and gas operator, as reflected in the records of the
+22
+23
+Corporation Commission, who is conducting oil and gas operations
+23
+24
+upon all or any part of the surface estate as to which the wind
+24
+Req. No. 2525 Page 17
+
+1
+energy developer intends the construction of the wind energy
+1
+2
+facility;
+2
+3
+2. Any oil and gas operator, as reflected in the records of the
+3
+4
+Corporation Commission, of an unspaced unit, or a unit created by
+4
+5
+order of the Corporation Commission, who is conducting oil and gas
+5
+6
+operations for the unit where all or any part of the unit area is
+6
+7
+within the geographical boundaries of the surface estate as to which
+7
+8
+the wind energy developer intends the construction of the wind
+8
+9
+energy facility; and
+9
+10
+3. As to tracts of land not described in paragraphs 1 and 2 of
+10
+11
+this subsection on which the wind energy developer intends to
+11
+12
+construct a wind energy facility, all lessees of oil and gas leases
+12
+13
+covering the mineral estate underlying any part of the tracts of
+13
+14
+land that are filed of record with the county clerk in the county
+14
+15
+where the tracts are located and whose primary term has not expired.
+15
+16
+The notice shall contain a map or plat of the proposed location,
+16
+17
+with sufficient specificity of all of the various elements of the
+17
+18
+wind energy facility to be located on the governmental section which
+18
+19
+includes all or any part of the tracts of land described in
+19
+20
+paragraphs 1, 2, and 3 of this subsection and the approximate date
+20
+21
+that the owner of the wind energy facility proposes to commence
+21
+22
+construction. If the wind energy developer makes a search with
+22
+23
+reasonable diligence, and the whereabouts of a party entitled to any
+23
+24
+notice described in this subsection cannot be ascertained or such
+24
+Req. No. 2525 Page 18
+
+1
+notice cannot be delivered, then an affidavit attesting to such
+1
+2
+diligent search for the parties shall be placed in the records of
+2
+3
+the county clerk where the surface estate is actually located.
+3
+4
+Within thirty (30) days of receiving such notice, any oil and gas
+4
+5
+operator, as described in paragraphs 1, 2, and 3 of this subsection
+5
+6
+shall reciprocate, in writing by certified mail, certain site,
+6
+7
+operational and infrastructure information, with sufficient
+7
+8
+specificity, to be shared with the owner of the wind energy facility
+8
+9
+to assist both with the safe construction and operation pertaining
+9
+10
+to the surface estate. This information should include American
+10
+11
+Land Title Association (ALTA) surveys of existing subsurface and
+11
+12
+surface improvements on the property, if any, as well as other
+12
+13
+technical specifications for existing improvements such as pipe
+13
+14
+size, material, capacity and depth.
+14
+15
+G. The owner of a wind energy facility shall not commence
+15
+16
+construction on the facility until the notification and public
+16
+17
+meeting requirements of this section have been met. If an owner of
+17
+18
+a wind energy facility fails to submit the information as required
+18
+19
+in this section, the owner shall be subject to an administrative
+19
+20
+penalty from the Corporation Commission not to exceed One Thousand
+20
+21
+Five Hundred Dollars ($1,500.00) per day, per violation as provided
+21
+22
+by law.
+22
+23
+23
+24
+24
+Req. No. 2525 Page 19
+
+1
+H. The Corporation Commission shall establish that the
+1
+2
+applicant has met the following minimum requirements before
+2
+3
+approving a permit application:
+3
+4
+1. The minimum setback for the base of any wind turbine from a
+4
+5
+nonparticipating landowner’s property line shall be equal to the
+5
+6
+greater of one quarter (1/4) of a nautical mile or two (2) times the
+6
+7
+total height of the wind turbine as measured from the ground at its
+7
+8
+base to the maximum height of the blade tip. A nonparticipating
+8
+9
+landowner may elect to sign a waiver that allows a wind turbine or
+9
+10
+group of wind turbines to be placed up to one and one-tenth (1.1)
+10
+11
+times the total height of the wind turbine as measured from the
+11
+12
+ground at its base to the maximum height of the blade tip from the
+12
+13
+nonparticipating landowner’s property line;
+13
+14
+2. The minimum setback from the base of a wind turbine shall be
+14
+15
+one half (1/2) of a nautical mile from any residential structure
+15
+16
+that exists at the time the permit application is submitted to the
+16
+17
+Corporation Commission;
+17
+18
+3. An environmental impact assessment, conducted by a qualified
+18
+19
+third-party expert approved by the Corporation Commission and paid
+19
+20
+for by the applicant, of the potential adverse impacts within four
+20
+21
+(4) miles of the perimeter of the wind energy facility or wind
+21
+22
+energy facility expansion. The environmental impact assessment
+22
+23
+shall include, but not be limited to, a study of the:
+23
+24
+24
+Req. No. 2525 Page 20
+
+1
+a. economic impacts to individuals, real property values,
+1
+2
+tourism, and agriculture,
+2
+3
+b. compliance with state and national fire, building, and
+3
+4
+electrical codes,
+4
+5
+c. impact on wildlife including potential adverse impacts
+5
+6
+to wildlife refuges, preserves and management areas,
+6
+7
+habitats for threatened or endangered species, primary
+7
+8
+nursery areas as designated by the Oklahoma Wildlife
+8
+9
+Conservation Commission, and critical fishery habitats
+9
+10
+as identified by state or federal law,
+10
+11
+d. viewshed analysis for state and federal parks and
+11
+12
+forests, historic and cultural sites, public parks and
+12
+13
+recreation areas, and private conservation land, and
+13
+14
+e. bodies of water within four (4) miles of the perimeter
+14
+15
+of the wind energy facility or wind energy facility
+15
+16
+expansion, including flowing water sources, stormwater
+16
+17
+runoff, wetlands, groundwater, aquifers, and private
+17
+18
+wells.
+18
+19
+Such environmental impact assessment shall not be required if an
+19
+20
+environmental review of the wind energy facility or any portion of
+20
+21
+the wind energy facility is required pursuant to the National
+21
+22
+Environmental Policy Act of 1969 that includes public input, a
+22
+23
+public hearing, an environmental impact statement, and a viewshed
+23
+24
+analysis;
+24
+Req. No. 2525 Page 21
+
+1
+4. A risk assessment and mitigation recommendations for shadow
+1
+2
+flicker and other incidents, including wind turbine fires,
+2
+3
+structural damage or failure, ice throw, blade shear, and hazardous
+3
+4
+material spills. Shadow flicker shall not exceed thirty (30) hours
+4
+5
+annually as verified in an assessment prepared according to industry
+5
+6
+standards. A nonparticipating landowner may elect to sign a written
+6
+7
+waiver to allow shadow flicker, ice throw, or blade shear from any
+7
+8
+wind turbine on the nonparticipating landowner’s property;
+8
+9
+5. A risk assessment for civil air navigation, military or law
+9
+10
+enforcement routes or training exercises, emergency medical flights,
+10
+11
+radar operations, and mobile phone services;
+11
+12
+6. A risk assessment for lighting requirements beyond those
+12
+13
+required by the Federal Aviation Administration; and
+13
+14
+7. A baseline determination of preconstruction noise levels,
+14
+15
+including modeling and enforcement, conducted by a qualified third-
+15
+16
+party acoustics expert paid for by the applicant. Except during an
+16
+17
+event of inclement weather that prevents an operator from
+17
+18
+controlling the noise level of one or more wind turbines, the noise
+18
+19
+emission limit at a nonparticipating landowner’s dwelling shall not
+19
+20
+exceed thirty-five A-weighted decibels (35 dBA). The emission limit
+20
+21
+at a nonparticipating landowner’s property line shall not exceed
+21
+22
+forty-five A-weighted decibels (45 dBA). A nonparticipating
+22
+23
+landowner may elect to sign a written waiver to allow for noise
+23
+24
+levels that exceed such limits.
+24
+Req. No. 2525 Page 22
+
+1
+SECTION 5. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 160.24 of Title 17, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. Upon receipt of an application for a permit for the
+4
+5
+construction, operation, or redevelopment of a wind energy facility
+5
+6
+or a wind energy facility expansion pursuant to Section 160.21 of
+6
+7
+Title 17 of the Oklahoma Statutes, the Corporation Commission shall
+7
+8
+notify executive agencies of this state requesting comments
+8
+9
+regarding the adequacy of a permit application.
+9
+10
+B. Comments shall be received within one hundred twenty (120)
+10
+11
+days after the notification from the Commission unless an agency
+11
+12
+requests a longer period to consider the permit application.
+12
+13
+C. Upon review of comments received, if any, the Commission
+13
+14
+shall determine whether the applicant failed to include or
+14
+15
+adequately develop relevant environmental or economic impacts
+15
+16
+associated with the wind energy facility as required pursuant to
+16
+17
+Section 160.21 of Title 17 of the Oklahoma Statutes. The Commission
+17
+18
+shall issue a letter to the applicant if there are deficiencies in
+18
+19
+the application. The letter shall be prepared and served to the
+19
+20
+applicant no later than twenty (20) days before the date for a
+20
+21
+public hearing pursuant to subsection D of this section. The
+21
+22
+applicant shall promptly respond to the letter and the public
+22
+23
+hearing shall be deferred unless the applicant has responded before
+23
+24
+the hearing.
+24
+Req. No. 2525 Page 23
+
+1
+D. A public hearing shall be set no earlier than sixty (60)
+1
+2
+days after the notification date for comments from executive
+2
+3
+agencies. The testimony presented at the hearing may be presented
+3
+4
+in writing or orally; provided, the Commission may promulgate rules
+4
+5
+designed to exclude repetitive, redundant, or irrelevant testimony.
+5
+6
+After the public hearing, the Commission may deny, grant, or
+6
+7
+conditionally grant the permit.
+7
+8
+SECTION 6. NEW LAW A new section of law to be codified
+8
+9
+in the Oklahoma Statutes as Section 160.25 of Title 17, unless there
+9
+10
+is created a duplication in numbering, reads as follows:
+10
+11
+A. Except as provided in subsection B of this section, a permit
+11
+12
+application for the construction, operation, or redevelopment of a
+12
+13
+wind energy facility or a wind energy facility expansion and other
+13
+14
+documents required pursuant to this act are subject to disclosure
+14
+15
+under the Oklahoma Open Records Act and the federal Freedom of
+15
+16
+Information Act.
+16
+17
+B. Proprietary information contained in a permit application or
+17
+18
+other documents required pursuant to this act or documents used by
+18
+19
+the Commission to evaluate and approve or deny a permit application
+19
+20
+shall remain confidential and not subject to disclosure under the
+20
+21
+Oklahoma Open Records Act or the federal Freedom of Information Act.
+21
+22
+SECTION 7. This act shall become effective November 1, 2026.
+22
+23
+23
+24
+60-2-2525 CN 1/11/2026 9:41:14 AM
+24
+Req. No. 2525 Page 24
+
+[DELETED:  P B M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P i g]
+[DELETED:  P h i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t o]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a d a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P e c i v b]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]

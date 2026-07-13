@@ -1,0 +1,2408 @@
+Title: SENATE BILL 1193 By: Pugh
+Official Title: SENATE BILL 1193 By: Pugh
+Number of Sections: 29
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to school funding; amending 70 O.S.
+7
+2021, Section 18-200.1, as last amended by Section 2,
+8
+Chapter 285, O.S.L. 2025 (70 O.S. Supp. 2025, Section
+8
+18-200.1), which relates to State Aid; removing
+9
+limitations on school district general fund
+9
+carryover, method for calculating carryover amount,
+10
+and penalties for exceeding limitations; updating
+10
+statutory language; repealing 70 O.S. 2021, Section
+11
+18-200.1, as amended by Section 1, Chapter 488,
+11
+O.S.L. 2021, which relates to State Aid; providing an
+12
+effective date; and declaring an emergency.
+12
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+
+Section 2:
+SECTION 1. AMENDATORY 70 O.S. 2021, Section 18-200.1, as
+16
+17
+last amended by Section 2, Chapter 285, O.S.L. 2025 (70 O.S. Supp.
+17
+18
+2025, Section 18-200.1), is amended to read as follows:
+18
+19
+
+Section 3:
+Section 18-200.1. A. Beginning with the 2022-2023 school year,
+19
+20
+and each school year thereafter, each school district shall have its
+20
+21
+initial allocation of State Aid calculated based on the state
+21
+22
+dedicated revenues actually collected during the preceding fiscal
+22
+23
+year, the adjusted assessed valuation of the preceding year, and the
+23
+24
+weighted average daily membership for the school district of the
+24
+Req. No. 2409 Page 1
+1
+preceding school year. Each school district shall submit the
+1
+2
+following data based on the first nine (9) weeks, to be used in the
+2
+3
+calculation of the average daily membership of the school district:
+3
+4
+
+Section 4:
+1. Student enrollment by grade level;
+4
+5
+
+Section 5:
+2. Pupil category counts; and
+5
+6
+
+Section 6:
+3. Transportation supplement data.
+6
+7
+On or before December 30, the State Department of Education
+7
+8
+shall determine each school district’s current year allocation
+8
+9
+pursuant to subsection D of this section. The State Department of
+9
+10
+Education shall complete an audit, using procedures established by
+10
+11
+the Department, of the student enrollment by grade level data, pupil
+11
+12
+category counts, and transportation supplement data to be used in
+12
+13
+the State Aid Formula pursuant to subsection D of this section by
+13
+14
+December 1 and by January 15 shall notify each school district of
+14
+15
+the district’s final State Aid allocation for the current school
+15
+16
+year. The January payment of State Aid and each subsequent payment
+16
+17
+for the remainder of the school year shall be based on the final
+17
+18
+State Aid allocation as calculated in subsection D of this section.
+18
+19
+Except for reductions made due to the assessment of penalties by the
+19
+20
+State Department of Education according to law, the January payment
+20
+21
+of State Aid and each subsequent payment for the remainder of the
+21
+22
+school year shall not decrease by an amount more than the amount
+22
+23
+that the current chargeable revenue increases for that district.
+23
+24
+24
+Req. No. 2409 Page 2
+1
+B. The State Department of Education shall retain not less than
+1
+2
+one and one-half percent (1 1/2%) of the total funds appropriated
+2
+3
+for financial support of schools, to be used to make midyear
+3
+4
+adjustments in State Aid and which shall be reflected in the final
+4
+5
+allocations. If the amount of appropriated funds, including the one
+5
+6
+and one-half percent (1 1/2%) retained, remaining after January 1 of
+6
+7
+each year is not sufficient to fully fund the final allocations, the
+7
+8
+Department shall recalculate each school district’s remaining
+8
+9
+allocation pursuant to subsection D of this section using the
+9
+10
+reduced amount of appropriated funds.
+10
+11
+C. On and after July 1, 1997, the amount of State Aid each
+11
+12
+district shall receive shall be the sum of the Foundation Aid, the
+12
+13
+Salary Incentive Aid, and the Transportation Supplement, as adjusted
+13
+14
+pursuant to the provisions of Section 18-112.2 of this title;
+14
+15
+provided, no district having per pupil revenue in excess of three
+15
+16
+hundred percent (300%) of the average per pupil revenue of all
+16
+17
+districts shall receive any State Aid or Supplement in State Aid.
+17
+18
+The July calculation of per pupil revenue shall be determined by
+18
+19
+dividing the district’s second preceding year’s total weighted
+19
+20
+average daily membership (ADM) into the district’s second preceding
+20
+21
+year’s total revenues excluding federal revenue, insurance loss
+21
+22
+payments, reimbursements, recovery of overpayments and refunds,
+22
+23
+unused reserves, prior expenditures recovered, prior year surpluses,
+23
+24
+and less the amount of any transfer fees paid in that year.
+24
+Req. No. 2409 Page 3
+1
+The December calculation of per pupil revenue shall be
+1
+2
+determined by dividing the district’s preceding year’s total
+2
+3
+weighted average daily membership (ADM) into the district’s
+3
+4
+preceding year’s total revenues excluding federal revenue, insurance
+4
+5
+loss payments, reimbursements, recovery of overpayments and refunds,
+5
+6
+unused reserves, prior expenditures recovered, prior year surpluses,
+6
+7
+and less the amount of any transfer fees paid in that year.
+7
+8
+D. For the 1997-98 school year, and each school year
+8
+9
+thereafter, Foundation Aid, the Transportation Supplement, and
+9
+10
+Salary Incentive Aid shall be calculated as follows:
+10
+11
+
+Section 7:
+1. Foundation Aid shall be determined by subtracting the amount
+11
+12
+of the Foundation Program Income from the cost of the Foundation
+12
+13
+Program and adding to this difference the Transportation Supplement.
+13
+14
+a. The Foundation Program shall be a district’s higher
+14
+15
+weighted average daily membership based on the first
+15
+16
+nine (9) weeks of the current school year or the
+16
+17
+preceding school year of a school district, as
+17
+18
+determined by the provisions of subsection A of
+18
+19
+
+Section 8:
+Section 18-201.1 of this title and paragraphs 1, 2, 3,
+19
+20
+and 4 of subsection B of Section 18-201.1 of this
+20
+21
+title, multiplied by the Base Foundation Support
+21
+22
+Level.
+22
+23
+b. The Foundation Program Income shall be the sum of the
+23
+24
+following:
+24
+Req. No. 2409 Page 4
+1
+(1) the adjusted assessed valuation of the current
+1
+2
+school year of the school district, minus the
+2
+3
+previous year protested ad valorem tax revenues
+3
+4
+held as prescribed in Section 2884 of Title 68 of
+4
+5
+the Oklahoma Statutes, multiplied by the mills
+5
+6
+levied pursuant to subsection (c) of Section 9 of
+6
+7
+Article X of the Oklahoma Constitution, if
+7
+8
+applicable, as adjusted in subsection (c) of
+8
+9
+
+Section 9:
+Section 8A of Article X of the Oklahoma
+9
+10
+Constitution. For purposes of this subsection,
+10
+11
+the “adjusted assessed valuation of the current
+11
+12
+school year” shall be the adjusted assessed
+12
+13
+valuation on which tax revenues are collected
+13
+14
+during the current school year,
+14
+15
+(2) seventy-five percent (75%) of the amount received
+15
+16
+by the school district from the proceeds of the
+16
+17
+county levy during the preceding fiscal year, as
+17
+18
+levied pursuant to subsection (b) of Section 9 of
+18
+19
+Article X of the Oklahoma Constitution,
+19
+20
+(3) motor vehicle collections,
+20
+21
+(4) gross production tax,
+21
+22
+(5) state apportionment, and
+22
+23
+(6) R.E.A. tax.
+23
+24
+24
+Req. No. 2409 Page 5
+1
+The items listed in divisions (3), (4), (5), and (6) of
+1
+2
+this subparagraph shall consist of the amounts actually
+2
+3
+collected from such sources during the preceding fiscal
+3
+4
+year calculated on a per capita basis on the unit provided
+4
+5
+for by law for the distribution of each such revenue.
+5
+6
+
+Section 10:
+2. The Transportation Supplement shall be equal to the average
+6
+7
+daily haul times the per capita allowance times the appropriate
+7
+8
+transportation factor.
+8
+9
+a. The average daily haul shall be the number of children
+9
+10
+in a district who are legally transported and who live
+10
+11
+one and one-half (1 1/2) miles or more from school.
+11
+12
+b. The per capita allowance shall be determined using the
+12
+13
+following chart:
+13
+14
+PER CAPITA PER CAPITA
+14
+15
+DENSITY FIGURE ALLOWANCE DENSITY FIGURE ALLOWANCE
+15
+16
+.3000 - .3083 $167.00 .9334 - .9599 $99.00
+16
+17
+.3084 - .3249 $165.00 .9600 - .9866 $97.00
+17
+18
+.3250 - .3416 $163.00 .9867 - 1.1071 $95.00
+18
+19
+.3417 - .3583 $161.00 1.1072 - 1.3214 $92.00
+19
+20
+.3584 - .3749 $158.00 1.3215 - 1.5357 $90.00
+20
+21
+.3750 - .3916 $156.00 1.5358 - 1.7499 $88.00
+21
+22
+.3917 - .4083 $154.00 1.7500 - 1.9642 $86.00
+22
+23
+.4084 - .4249 $152.00 1.9643 - 2.1785 $84.00
+23
+24
+.4250 - .4416 $150.00 2.1786 - 2.3928 $81.00
+24
+Req. No. 2409 Page 6
+1
+.4417 - .4583 $147.00 2.3929 - 2.6249 $79.00
+1
+2
+.4584 - .4749 $145.00 2.6250 - 2.8749 $77.00
+2
+3
+.4750 - .4916 $143.00 2.8750 - 3.1249 $75.00
+3
+4
+.4917 - .5083 $141.00 3.1250 - 3.3749 $73.00
+4
+5
+.5084 - .5249 $139.00 3.3750 - 3.6666 $70.00
+5
+6
+.5250 - .5416 $136.00 3.6667 - 3.9999 $68.00
+6
+7
+.5417 - .5583 $134.00 4.0000 - 4.3333 $66.00
+7
+8
+.5584 - .5749 $132.00 4.3334 - 4.6666 $64.00
+8
+9
+.5750 - .5916 $130.00 4.6667 - 4.9999 $62.00
+9
+10
+.5917 - .6133 $128.00 5.0000 - 5.5000 $59.00
+10
+11
+.6134 - .6399 $125.00 5.5001 - 6.0000 $57.00
+11
+12
+.6400 - .6666 $123.00 6.0001 - 6.5000 $55.00
+12
+13
+.6667 - .6933 $121.00 6.5001 - 7.0000 $53.00
+13
+14
+.6934 - .7199 $119.00 7.0001 - 7.3333 $51.00
+14
+15
+.7200 - .7466 $117.00 7.3334 - 7.6667 $48.00
+15
+16
+.7467 - .7733 $114.00 7.6668 - 8.0000 $46.00
+16
+17
+.7734 - .7999 $112.00 8.0001 - 8.3333 $44.00
+17
+18
+.8000 - .8266 $110.00 8.3334 - 8.6667 $42.00
+18
+19
+.8267 - .8533 $108.00 8.6668 - 9.0000 $40.00
+19
+20
+.8534 - .8799 $106.00 9.0001 - 9.3333 $37.00
+20
+21
+.8800 - .9066 $103.00 9.3334 - 9.6667 $35.00
+21
+22
+.9067 - .9333 $101.00 9.6668 or more $33.00
+22
+23
+c. The formula transportation factor shall be 2.0.
+23
+24
+
+Section 11:
+3. Salary Incentive Aid shall be determined as follows:
+24
+Req. No. 2409 Page 7
+1
+a. Multiply the Incentive Aid guarantee by the district’s
+1
+2
+higher weighted average daily membership based on the
+2
+3
+first nine (9) weeks of the current school year or the
+3
+4
+preceding school year of a school district, as
+4
+5
+determined by the provisions of subsection A of
+5
+6
+
+Section 12:
+Section 18-201.1 of this title and paragraphs 1, 2, 3,
+6
+7
+and 4 of subsection B of Section 18-201.1 of this
+7
+8
+title.
+8
+9
+b. Divide the district’s adjusted assessed valuation of
+9
+10
+the current school year minus the previous year’s
+10
+11
+protested ad valorem tax revenues held as prescribed
+11
+12
+in Section 2884 of Title 68 of the Oklahoma Statutes,
+12
+13
+by one thousand (1,000) and subtract the quotient from
+13
+14
+the product of subparagraph a of this paragraph. The
+14
+15
+remainder shall not be less than zero (0).
+15
+16
+c. Multiply the number of mills levied for general fund
+16
+17
+purposes above the fifteen (15) mills required to
+17
+18
+support Foundation Aid pursuant to division (1) of
+18
+19
+subparagraph b of paragraph 1 of this subsection, not
+19
+20
+including the county four-mill levy, by the remainder
+20
+21
+of subparagraph b of this paragraph. The product
+21
+22
+shall be the Salary Incentive Aid of the district.
+22
+23
+E. By June 30, 1998, the State Department of Education shall
+23
+24
+develop and the Department and all school districts shall have
+24
+Req. No. 2409 Page 8
+1
+implemented a student identification system which is consistent with
+1
+2
+the provisions of subsections D and E of Section 3111 of Title 74 of
+2
+3
+the Oklahoma Statutes. The student identification system shall be
+3
+4
+used specifically for the purpose of reporting enrollment data by
+4
+5
+school sites and by school districts, the administration of the
+5
+6
+Oklahoma School Testing Program Act, the collection of appropriate
+6
+7
+and necessary data pursuant to the Oklahoma Educational Indicators
+7
+8
+Program, determining student enrollment, establishing a student
+8
+9
+mobility rate, allocation of the State Aid Formula, and midyear
+9
+10
+adjustments in funding for student growth. This enrollment data
+10
+11
+shall be submitted to the State Department of Education in
+11
+12
+accordance with rules promulgated by the State Board of Education.
+12
+13
+Funding for the development, implementation, personnel training, and
+13
+14
+maintenance of the student identification system shall be set out in
+14
+15
+a separate line item in the allocation section of the appropriation
+15
+16
+bill for the State Board of Education for each year.
+16
+17
+F. 1. In the event that ad valorem taxes of a school district
+17
+18
+are determined to be uncollectible because of bankruptcy, clerical
+18
+19
+error, or a successful tax protest, and the amount of such taxes
+19
+20
+deemed uncollectible exceeds Fifty Thousand Dollars ($50,000.00) or
+20
+21
+an amount greater than twenty-five percent (25%) of ad valorem taxes
+21
+22
+per tax year, or the valuation of a district is lowered by order of
+22
+23
+the State Board of Equalization, the school district’s State Aid,
+23
+24
+for the school year that such ad valorem taxes are calculated in the
+24
+Req. No. 2409 Page 9
+1
+State Aid Formula, shall be determined by subtracting the net
+1
+2
+assessed valuation of the property upon which taxes were deemed
+2
+3
+uncollectible from the assessed valuation of the school district and
+3
+4
+the state. Upon request of the local board of education, it shall
+4
+5
+be the duty of the county assessor to certify to the Director of
+5
+6
+Finance of the State Department of Education the net assessed
+6
+7
+valuation of the property upon which taxes were determined
+7
+8
+uncollectible.
+8
+9
+
+Section 13:
+2. In the event that the amount of funds a school district
+9
+10
+receives for reimbursement from the Ad Valorem Reimbursement Fund is
+10
+11
+less than the amount of funds claimed for reimbursement by the
+11
+12
+school district due to insufficiency of funds as provided in Section
+12
+13
+193 of Title 62 of the Oklahoma Statutes, then the school district’s
+13
+14
+assessed valuation for the school year that such ad valorem
+14
+15
+reimbursement is calculated in the State Aid Formula shall be
+15
+16
+adjusted accordingly.
+16
+17
+G. 1. Notwithstanding the provisions of Section 18-112.2 of
+17
+18
+this title, a school district shall have its State Aid reduced by an
+18
+19
+amount equal to the amount of carryover in the general fund of the
+19
+20
+district as of June 30 of the preceding fiscal year, that is in
+20
+21
+excess of the following standards for two (2) consecutive years:
+21
+22
+Total Amount of Amount of
+22
+23
+General Fund Collections, General Fund
+23
+24
+Excluding Previous Year Balance
+24
+Req. No. 2409 Page 10
+1
+Cash Surplus as of June 30 Allowable
+1
+2
+Less than $1,000,000 48%
+2
+3
+$1,000,000 - $2,999,999 42%
+3
+4
+$3,000,000 - $3,999,999 36%
+4
+5
+$4,000,000 - $4,999,999 30%
+5
+6
+$5,000,000 - $5,999,999 24%
+6
+7
+$6,000,000 - $7,999,999 22%
+7
+8
+$8,000,000 - $9,999,999 19%
+8
+9
+$10,000,000 or more 17%
+9
+10
+
+Section 14:
+2. By February 1 the State Department of Education shall send
+10
+11
+by certified mail, with return receipt requested, to each school
+11
+12
+district superintendent, auditor, and regional accreditation officer
+12
+13
+a notice of and calculation sheet reflecting the general fund
+13
+14
+balance penalty to be assessed against that school district.
+14
+15
+Calculation of the general fund balance penalty shall not include
+15
+16
+federal revenue. Within thirty (30) days of receipt of this written
+16
+17
+notice the school district shall submit to the Department a written
+17
+18
+reply either accepting or protesting the penalty to be assessed
+18
+19
+against the district. If protesting, the school district shall
+19
+20
+submit with its reply the reasons for rejecting the calculations and
+20
+21
+documentation supporting those reasons. The Department shall review
+21
+22
+all school district penalty protest documentation and notify each
+22
+23
+district by March 15 of its finding and the final penalty to be
+23
+24
+24
+Req. No. 2409 Page 11
+1
+assessed to each district. General fund balance penalties shall be
+1
+2
+assessed to all school districts by April 1.
+2
+3
+
+Section 15:
+3. Any school district which receives proceeds from a tax
+3
+4
+settlement or a Federal Emergency Management Agency settlement
+4
+5
+during the last two (2) months of the preceding fiscal year shall be
+5
+6
+exempt from the penalties assessed in this subsection, if the
+6
+7
+penalty would occur solely as a result of receiving funds from the
+7
+8
+tax settlement.
+8
+9
+
+Section 16:
+4. Any school district which receives an increase in State Aid
+9
+10
+because of a change in Foundation and/or Salary Incentive Aid
+10
+11
+factors during the last two (2) months of the preceding fiscal year
+11
+12
+shall be exempt from the penalties assessed in this subsection, if
+12
+13
+the penalty would occur solely as a result of receiving funds from
+13
+14
+the increase in State Aid.
+14
+15
+
+Section 17:
+5. If a school district does not receive Foundation and/or
+15
+16
+Salary Incentive Aid during the preceding fiscal year, the State
+16
+17
+Board of Education may waive the penalty assessed in this subsection
+17
+18
+if the penalty would result in a loss of more than forty percent
+18
+19
+(40%) of the remaining State Aid to be allocated to the school
+19
+20
+district between April 1 and the remainder of the school year and if
+20
+21
+the Board determines the penalty will cause the school district not
+21
+22
+to meet remaining financial obligations.
+22
+23
+
+Section 18:
+6. Any school district which receives gross production revenue
+23
+24
+apportionment during the 2002-2003 school year or in any subsequent
+24
+Req. No. 2409 Page 12
+1
+school year that is greater than the gross production revenue
+1
+2
+apportionment of the preceding school year shall be exempt from the
+2
+3
+penalty assessed in this subsection, if the penalty would occur
+3
+4
+solely as a result of the gross production revenue apportionment, as
+4
+5
+determined by the State Board of Education.
+5
+6
+
+Section 19:
+7. Beginning July 1, 2003, school districts that participate in
+6
+7
+consolidation or annexation pursuant to the provisions of the
+7
+8
+Oklahoma School Consolidation and Annexation Act shall be exempt
+8
+9
+from the penalty assessed in this subsection for the school year in
+9
+10
+which the consolidation or annexation occurs and for the next three
+10
+11
+(3) fiscal years.
+11
+12
+
+Section 20:
+8. Any school district which receives proceeds from a sales tax
+12
+13
+levied by a municipality pursuant to Section 22-159 of Title 11 of
+13
+14
+the Oklahoma Statutes or proceeds from a sales tax levied by a
+14
+15
+county pursuant to Section 1370 of Title 68 of the Oklahoma Statutes
+15
+16
+during the 2003-2004 school year or the 2004-2005 school year shall
+16
+17
+be exempt from the penalties assessed in this subsection, if the
+17
+18
+penalty would occur solely as a result of receiving funds from the
+18
+19
+sales tax levy.
+19
+20
+
+Section 21:
+9. Any school district which has an amount of carryover in the
+20
+21
+general fund of the district in excess of the limits established in
+21
+22
+paragraph 1 of this subsection during the fiscal years beginning
+22
+23
+July 1, 2020, July 1, 2021, July 1, 2022, July 1, 2023, and July 1,
+23
+24
+24
+Req. No. 2409 Page 13
+1
+2024, shall not be assessed a general fund balance penalty as
+1
+2
+provided for in this subsection.
+2
+3
+
+Section 22:
+10. For purposes of calculating the general fund balance
+3
+4
+penalty, the terms “carryover” and “general fund balance” shall not
+4
+5
+include federal revenue.
+5
+6
+H. In order to provide startup funds for the implementation of
+6
+7
+early childhood programs, State Aid may be advanced to school
+7
+8
+districts that initially start early childhood instruction at a
+8
+9
+school site. School districts that desire such advanced funding
+9
+10
+shall make application to the State Department of Education no later
+10
+11
+than September 15 of each year and advanced funding shall be awarded
+11
+12
+to the approved districts no later than October 30. The advanced
+12
+13
+funding shall not exceed the per pupil amount of State Aid as
+13
+14
+calculated in subsection D of this section per anticipated Head
+14
+15
+Start eligible student. The total amount of advanced funding shall
+15
+16
+be proportionately reduced from the monthly payments of the
+16
+17
+district’s State Aid payments during the last six (6) months of the
+17
+18
+same fiscal year.
+18
+19
+I. H. 1. Beginning July 1, 1996, the Oklahoma Tax Commission,
+19
+20
+notwithstanding any provision of law to the contrary, shall report
+20
+21
+monthly to the State Department of Education the monthly
+21
+22
+apportionment of the following information:
+22
+23
+a. the assessed valuation of property,
+23
+24
+b. motor vehicle collections,
+24
+Req. No. 2409 Page 14
+1
+c. R.E.A. tax collected, and
+1
+2
+d. gross productions tax collected.
+2
+3
+
+Section 23:
+2. Beginning July 1, 1997, the State Auditor and Inspector’s
+3
+4
+Office of the State Auditor and Inspector, notwithstanding any
+4
+5
+provision of law to the contrary, shall report monthly to the State
+5
+6
+Department of Education the monthly apportionment of the proceeds of
+6
+7
+the county levy.
+7
+8
+
+Section 24:
+3. Beginning July 1, 1996, the Commissioners of the Land
+8
+9
+Office, notwithstanding any provision of law to the contrary, shall
+9
+10
+report monthly to the State Department of Education the monthly
+10
+11
+apportionment of state apportionment.
+11
+12
+
+Section 25:
+4. Beginning July 1, 1997, the county treasurers’ offices,
+12
+13
+notwithstanding any provision of law to the contrary, shall report
+13
+14
+monthly to the State Department of Education the ad valorem tax
+14
+15
+protest amounts for each county.
+15
+16
+
+Section 26:
+5. The information reported by the Tax Commission, the State
+16
+17
+Auditor and Inspector’s Office of the State Auditor and Inspector,
+17
+18
+the county treasurers’ offices, and the Commissioners of the Land
+18
+19
+Office, pursuant to this subsection shall be reported by a school
+19
+20
+district on forms developed by the State Department of Education.
+20
+21
+
+Section 27:
+SECTION 2. REPEALER 70 O.S. 2021, Section 18-200.1, as
+21
+22
+amended by Section 1, Chapter 488, O.S.L. 2021, is hereby repealed.
+22
+23
+
+Section 28:
+SECTION 3. This act shall become effective July 1, 2026.
+23
+24
+24
+Req. No. 2409 Page 15
+1
+
+Section 29:
+SECTION 4. It being immediately necessary for the preservation
+1
+2
+of the public peace, health, or safety, an emergency is hereby
+2
+3
+declared to exist, by reason whereof this act shall take effect and
+3
+4
+be in full force from and after its passage and approval.
+4
+5
+5
+6
+60-2-2409 EB 3/18/2026 3:37:47 PM
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2409 Page 16
+[DELETED:  P B P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P T T]
+[DELETED:  P t s m g s R]
+[DELETED:  P T T P A D A $   $ $   $ $   $ $ 1 $ $ 1 $ $ 1 $ $ 1 $ $ 1 $ $ 2 $]
+[DELETED:  P $ 2 $ $ 2 $ $ 2 $ $ 3 $ $ 3 $ $ 3 $ $ 4 $ $ 4 $ $ 4 $ $ 5 $ $ 5 $ $ 6 $ $ 6 $ $ 7 $ $ 7 $ $ 7 $ $ 8 $ $ 8 $ $ 8 $ $ 9 $ $ 9 $ $ 9 $ T]
+[DELETED:  P M D M]
+[DELETED:  P]
+[DELETED:  P A G B]
+[DELETED:  P AL 4$ 4$ 3$ 3$ 2$ 2$ 1  1]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t m]
+[DELETED:  P R g]
+[DELETED:  P E 3]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1193 By: Pugh
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to school funding; amending 70 O.S.
+7
+2021, Section 18-200.1, as last amended by Section 2,
+8
+Chapter 285, O.S.L. 2025 (70 O.S. Supp. 2025, Section
+8
+18-200.1), which relates to State Aid; removing
+9
+limitations on school district general fund
+9
+carryover, method for calculating carryover amount,
+10
+and penalties for exceeding limitations; updating
+10
+statutory language; repealing 70 O.S. 2021, Section
+11
+18-200.1, as amended by Section 1, Chapter 488,
+11
+O.S.L. 2021, which relates to State Aid; providing an
+12
+effective date; and declaring an emergency.
+12
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+SECTION 1. AMENDATORY 70 O.S. 2021, Section 18-200.1, as
+16
+17
+last amended by Section 2, Chapter 285, O.S.L. 2025 (70 O.S. Supp.
+17
+18
+2025, Section 18-200.1), is amended to read as follows:
+18
+19
+Section 18-200.1. A. Beginning with the 2022-2023 school year,
+19
+20
+and each school year thereafter, each school district shall have its
+20
+21
+initial allocation of State Aid calculated based on the state
+21
+22
+dedicated revenues actually collected during the preceding fiscal
+22
+23
+year, the adjusted assessed valuation of the preceding year, and the
+23
+24
+weighted average daily membership for the school district of the
+24
+Req. No. 2409 Page 1
+
+1
+preceding school year. Each school district shall submit the
+1
+2
+following data based on the first nine (9) weeks, to be used in the
+2
+3
+calculation of the average daily membership of the school district:
+3
+4
+1. Student enrollment by grade level;
+4
+5
+2. Pupil category counts; and
+5
+6
+3. Transportation supplement data.
+6
+7
+On or before December 30, the State Department of Education
+7
+8
+shall determine each school district’s current year allocation
+8
+9
+pursuant to subsection D of this section. The State Department of
+9
+10
+Education shall complete an audit, using procedures established by
+10
+11
+the Department, of the student enrollment by grade level data, pupil
+11
+12
+category counts, and transportation supplement data to be used in
+12
+13
+the State Aid Formula pursuant to subsection D of this section by
+13
+14
+December 1 and by January 15 shall notify each school district of
+14
+15
+the district’s final State Aid allocation for the current school
+15
+16
+year. The January payment of State Aid and each subsequent payment
+16
+17
+for the remainder of the school year shall be based on the final
+17
+18
+State Aid allocation as calculated in subsection D of this section.
+18
+19
+Except for reductions made due to the assessment of penalties by the
+19
+20
+State Department of Education according to law, the January payment
+20
+21
+of State Aid and each subsequent payment for the remainder of the
+21
+22
+school year shall not decrease by an amount more than the amount
+22
+23
+that the current chargeable revenue increases for that district.
+23
+24
+24
+Req. No. 2409 Page 2
+
+1
+B. The State Department of Education shall retain not less than
+1
+2
+one and one-half percent (1 1/2%) of the total funds appropriated
+2
+3
+for financial support of schools, to be used to make midyear
+3
+4
+adjustments in State Aid and which shall be reflected in the final
+4
+5
+allocations. If the amount of appropriated funds, including the one
+5
+6
+and one-half percent (1 1/2%) retained, remaining after January 1 of
+6
+7
+each year is not sufficient to fully fund the final allocations, the
+7
+8
+Department shall recalculate each school district’s remaining
+8
+9
+allocation pursuant to subsection D of this section using the
+9
+10
+reduced amount of appropriated funds.
+10
+11
+C. On and after July 1, 1997, the amount of State Aid each
+11
+12
+district shall receive shall be the sum of the Foundation Aid, the
+12
+13
+Salary Incentive Aid, and the Transportation Supplement, as adjusted
+13
+14
+pursuant to the provisions of Section 18-112.2 of this title;
+14
+15
+provided, no district having per pupil revenue in excess of three
+15
+16
+hundred percent (300%) of the average per pupil revenue of all
+16
+17
+districts shall receive any State Aid or Supplement in State Aid.
+17
+18
+The July calculation of per pupil revenue shall be determined by
+18
+19
+dividing the district’s second preceding year’s total weighted
+19
+20
+average daily membership (ADM) into the district’s second preceding
+20
+21
+year’s total revenues excluding federal revenue, insurance loss
+21
+22
+payments, reimbursements, recovery of overpayments and refunds,
+22
+23
+unused reserves, prior expenditures recovered, prior year surpluses,
+23
+24
+and less the amount of any transfer fees paid in that year.
+24
+Req. No. 2409 Page 3
+
+1
+The December calculation of per pupil revenue shall be
+1
+2
+determined by dividing the district’s preceding year’s total
+2
+3
+weighted average daily membership (ADM) into the district’s
+3
+4
+preceding year’s total revenues excluding federal revenue, insurance
+4
+5
+loss payments, reimbursements, recovery of overpayments and refunds,
+5
+6
+unused reserves, prior expenditures recovered, prior year surpluses,
+6
+7
+and less the amount of any transfer fees paid in that year.
+7
+8
+D. For the 1997-98 school year, and each school year
+8
+9
+thereafter, Foundation Aid, the Transportation Supplement, and
+9
+10
+Salary Incentive Aid shall be calculated as follows:
+10
+11
+1. Foundation Aid shall be determined by subtracting the amount
+11
+12
+of the Foundation Program Income from the cost of the Foundation
+12
+13
+Program and adding to this difference the Transportation Supplement.
+13
+14
+a. The Foundation Program shall be a district’s higher
+14
+15
+weighted average daily membership based on the first
+15
+16
+nine (9) weeks of the current school year or the
+16
+17
+preceding school year of a school district, as
+17
+18
+determined by the provisions of subsection A of
+18
+19
+Section 18-201.1 of this title and paragraphs 1, 2, 3,
+19
+20
+and 4 of subsection B of Section 18-201.1 of this
+20
+21
+title, multiplied by the Base Foundation Support
+21
+22
+Level.
+22
+23
+b. The Foundation Program Income shall be the sum of the
+23
+24
+following:
+24
+Req. No. 2409 Page 4
+
+1
+(1) the adjusted assessed valuation of the current
+1
+2
+school year of the school district, minus the
+2
+3
+previous year protested ad valorem tax revenues
+3
+4
+held as prescribed in Section 2884 of Title 68 of
+4
+5
+the Oklahoma Statutes, multiplied by the mills
+5
+6
+levied pursuant to subsection (c) of Section 9 of
+6
+7
+Article X of the Oklahoma Constitution, if
+7
+8
+applicable, as adjusted in subsection (c) of
+8
+9
+Section 8A of Article X of the Oklahoma
+9
+10
+Constitution. For purposes of this subsection,
+10
+11
+the “adjusted assessed valuation of the current
+11
+12
+school year” shall be the adjusted assessed
+12
+13
+valuation on which tax revenues are collected
+13
+14
+during the current school year,
+14
+15
+(2) seventy-five percent (75%) of the amount received
+15
+16
+by the school district from the proceeds of the
+16
+17
+county levy during the preceding fiscal year, as
+17
+18
+levied pursuant to subsection (b) of Section 9 of
+18
+19
+Article X of the Oklahoma Constitution,
+19
+20
+(3) motor vehicle collections,
+20
+21
+(4) gross production tax,
+21
+22
+(5) state apportionment, and
+22
+23
+(6) R.E.A. tax.
+23
+24
+24
+Req. No. 2409 Page 5
+
+1
+The items listed in divisions (3), (4), (5), and (6) of
+1
+2
+this subparagraph shall consist of the amounts actually
+2
+3
+collected from such sources during the preceding fiscal
+3
+4
+year calculated on a per capita basis on the unit provided
+4
+5
+for by law for the distribution of each such revenue.
+5
+6
+2. The Transportation Supplement shall be equal to the average
+6
+7
+daily haul times the per capita allowance times the appropriate
+7
+8
+transportation factor.
+8
+9
+a. The average daily haul shall be the number of children
+9
+10
+in a district who are legally transported and who live
+10
+11
+one and one-half (1 1/2) miles or more from school.
+11
+12
+b. The per capita allowance shall be determined using the
+12
+13
+following chart:
+13
+14
+PER CAPITA PER CAPITA
+14
+15
+DENSITY FIGURE ALLOWANCE DENSITY FIGURE ALLOWANCE
+15
+16
+.3000 - .3083 $167.00 .9334 - .9599 $99.00
+16
+17
+.3084 - .3249 $165.00 .9600 - .9866 $97.00
+17
+18
+.3250 - .3416 $163.00 .9867 - 1.1071 $95.00
+18
+19
+.3417 - .3583 $161.00 1.1072 - 1.3214 $92.00
+19
+20
+.3584 - .3749 $158.00 1.3215 - 1.5357 $90.00
+20
+21
+.3750 - .3916 $156.00 1.5358 - 1.7499 $88.00
+21
+22
+.3917 - .4083 $154.00 1.7500 - 1.9642 $86.00
+22
+23
+.4084 - .4249 $152.00 1.9643 - 2.1785 $84.00
+23
+24
+.4250 - .4416 $150.00 2.1786 - 2.3928 $81.00
+24
+Req. No. 2409 Page 6
+
+1
+.4417 - .4583 $147.00 2.3929 - 2.6249 $79.00
+1
+2
+.4584 - .4749 $145.00 2.6250 - 2.8749 $77.00
+2
+3
+.4750 - .4916 $143.00 2.8750 - 3.1249 $75.00
+3
+4
+.4917 - .5083 $141.00 3.1250 - 3.3749 $73.00
+4
+5
+.5084 - .5249 $139.00 3.3750 - 3.6666 $70.00
+5
+6
+.5250 - .5416 $136.00 3.6667 - 3.9999 $68.00
+6
+7
+.5417 - .5583 $134.00 4.0000 - 4.3333 $66.00
+7
+8
+.5584 - .5749 $132.00 4.3334 - 4.6666 $64.00
+8
+9
+.5750 - .5916 $130.00 4.6667 - 4.9999 $62.00
+9
+10
+.5917 - .6133 $128.00 5.0000 - 5.5000 $59.00
+10
+11
+.6134 - .6399 $125.00 5.5001 - 6.0000 $57.00
+11
+12
+.6400 - .6666 $123.00 6.0001 - 6.5000 $55.00
+12
+13
+.6667 - .6933 $121.00 6.5001 - 7.0000 $53.00
+13
+14
+.6934 - .7199 $119.00 7.0001 - 7.3333 $51.00
+14
+15
+.7200 - .7466 $117.00 7.3334 - 7.6667 $48.00
+15
+16
+.7467 - .7733 $114.00 7.6668 - 8.0000 $46.00
+16
+17
+.7734 - .7999 $112.00 8.0001 - 8.3333 $44.00
+17
+18
+.8000 - .8266 $110.00 8.3334 - 8.6667 $42.00
+18
+19
+.8267 - .8533 $108.00 8.6668 - 9.0000 $40.00
+19
+20
+.8534 - .8799 $106.00 9.0001 - 9.3333 $37.00
+20
+21
+.8800 - .9066 $103.00 9.3334 - 9.6667 $35.00
+21
+22
+.9067 - .9333 $101.00 9.6668 or more $33.00
+22
+23
+c. The formula transportation factor shall be 2.0.
+23
+24
+3. Salary Incentive Aid shall be determined as follows:
+24
+Req. No. 2409 Page 7
+
+1
+a. Multiply the Incentive Aid guarantee by the district’s
+1
+2
+higher weighted average daily membership based on the
+2
+3
+first nine (9) weeks of the current school year or the
+3
+4
+preceding school year of a school district, as
+4
+5
+determined by the provisions of subsection A of
+5
+6
+Section 18-201.1 of this title and paragraphs 1, 2, 3,
+6
+7
+and 4 of subsection B of Section 18-201.1 of this
+7
+8
+title.
+8
+9
+b. Divide the district’s adjusted assessed valuation of
+9
+10
+the current school year minus the previous year’s
+10
+11
+protested ad valorem tax revenues held as prescribed
+11
+12
+in Section 2884 of Title 68 of the Oklahoma Statutes,
+12
+13
+by one thousand (1,000) and subtract the quotient from
+13
+14
+the product of subparagraph a of this paragraph. The
+14
+15
+remainder shall not be less than zero (0).
+15
+16
+c. Multiply the number of mills levied for general fund
+16
+17
+purposes above the fifteen (15) mills required to
+17
+18
+support Foundation Aid pursuant to division (1) of
+18
+19
+subparagraph b of paragraph 1 of this subsection, not
+19
+20
+including the county four-mill levy, by the remainder
+20
+21
+of subparagraph b of this paragraph. The product
+21
+22
+shall be the Salary Incentive Aid of the district.
+22
+23
+E. By June 30, 1998, the State Department of Education shall
+23
+24
+develop and the Department and all school districts shall have
+24
+Req. No. 2409 Page 8
+
+1
+implemented a student identification system which is consistent with
+1
+2
+the provisions of subsections D and E of Section 3111 of Title 74 of
+2
+3
+the Oklahoma Statutes. The student identification system shall be
+3
+4
+used specifically for the purpose of reporting enrollment data by
+4
+5
+school sites and by school districts, the administration of the
+5
+6
+Oklahoma School Testing Program Act, the collection of appropriate
+6
+7
+and necessary data pursuant to the Oklahoma Educational Indicators
+7
+8
+Program, determining student enrollment, establishing a student
+8
+9
+mobility rate, allocation of the State Aid Formula, and midyear
+9
+10
+adjustments in funding for student growth. This enrollment data
+10
+11
+shall be submitted to the State Department of Education in
+11
+12
+accordance with rules promulgated by the State Board of Education.
+12
+13
+Funding for the development, implementation, personnel training, and
+13
+14
+maintenance of the student identification system shall be set out in
+14
+15
+a separate line item in the allocation section of the appropriation
+15
+16
+bill for the State Board of Education for each year.
+16
+17
+F. 1. In the event that ad valorem taxes of a school district
+17
+18
+are determined to be uncollectible because of bankruptcy, clerical
+18
+19
+error, or a successful tax protest, and the amount of such taxes
+19
+20
+deemed uncollectible exceeds Fifty Thousand Dollars ($50,000.00) or
+20
+21
+an amount greater than twenty-five percent (25%) of ad valorem taxes
+21
+22
+per tax year, or the valuation of a district is lowered by order of
+22
+23
+the State Board of Equalization, the school district’s State Aid,
+23
+24
+for the school year that such ad valorem taxes are calculated in the
+24
+Req. No. 2409 Page 9
+
+1
+State Aid Formula, shall be determined by subtracting the net
+1
+2
+assessed valuation of the property upon which taxes were deemed
+2
+3
+uncollectible from the assessed valuation of the school district and
+3
+4
+the state. Upon request of the local board of education, it shall
+4
+5
+be the duty of the county assessor to certify to the Director of
+5
+6
+Finance of the State Department of Education the net assessed
+6
+7
+valuation of the property upon which taxes were determined
+7
+8
+uncollectible.
+8
+9
+2. In the event that the amount of funds a school district
+9
+10
+receives for reimbursement from the Ad Valorem Reimbursement Fund is
+10
+11
+less than the amount of funds claimed for reimbursement by the
+11
+12
+school district due to insufficiency of funds as provided in Section
+12
+13
+193 of Title 62 of the Oklahoma Statutes, then the school district’s
+13
+14
+assessed valuation for the school year that such ad valorem
+14
+15
+reimbursement is calculated in the State Aid Formula shall be
+15
+16
+adjusted accordingly.
+16
+17
+G. 1. Notwithstanding the provisions of Section 18-112.2 of
+17
+18
+this title, a school district shall have its State Aid reduced by an
+18
+19
+amount equal to the amount of carryover in the general fund of the
+19
+20
+district as of June 30 of the preceding fiscal year, that is in
+20
+21
+excess of the following standards for two (2) consecutive years:
+21
+22
+Total Amount of Amount of
+22
+23
+General Fund Collections, General Fund
+23
+24
+Excluding Previous Year Balance
+24
+Req. No. 2409 Page 10
+
+1
+Cash Surplus as of June 30 Allowable
+1
+2
+Less than $1,000,000 48%
+2
+3
+$1,000,000 - $2,999,999 42%
+3
+4
+$3,000,000 - $3,999,999 36%
+4
+5
+$4,000,000 - $4,999,999 30%
+5
+6
+$5,000,000 - $5,999,999 24%
+6
+7
+$6,000,000 - $7,999,999 22%
+7
+8
+$8,000,000 - $9,999,999 19%
+8
+9
+$10,000,000 or more 17%
+9
+10
+2. By February 1 the State Department of Education shall send
+10
+11
+by certified mail, with return receipt requested, to each school
+11
+12
+district superintendent, auditor, and regional accreditation officer
+12
+13
+a notice of and calculation sheet reflecting the general fund
+13
+14
+balance penalty to be assessed against that school district.
+14
+15
+Calculation of the general fund balance penalty shall not include
+15
+16
+federal revenue. Within thirty (30) days of receipt of this written
+16
+17
+notice the school district shall submit to the Department a written
+17
+18
+reply either accepting or protesting the penalty to be assessed
+18
+19
+against the district. If protesting, the school district shall
+19
+20
+submit with its reply the reasons for rejecting the calculations and
+20
+21
+documentation supporting those reasons. The Department shall review
+21
+22
+all school district penalty protest documentation and notify each
+22
+23
+district by March 15 of its finding and the final penalty to be
+23
+24
+24
+Req. No. 2409 Page 11
+
+1
+assessed to each district. General fund balance penalties shall be
+1
+2
+assessed to all school districts by April 1.
+2
+3
+3. Any school district which receives proceeds from a tax
+3
+4
+settlement or a Federal Emergency Management Agency settlement
+4
+5
+during the last two (2) months of the preceding fiscal year shall be
+5
+6
+exempt from the penalties assessed in this subsection, if the
+6
+7
+penalty would occur solely as a result of receiving funds from the
+7
+8
+tax settlement.
+8
+9
+4. Any school district which receives an increase in State Aid
+9
+10
+because of a change in Foundation and/or Salary Incentive Aid
+10
+11
+factors during the last two (2) months of the preceding fiscal year
+11
+12
+shall be exempt from the penalties assessed in this subsection, if
+12
+13
+the penalty would occur solely as a result of receiving funds from
+13
+14
+the increase in State Aid.
+14
+15
+5. If a school district does not receive Foundation and/or
+15
+16
+Salary Incentive Aid during the preceding fiscal year, the State
+16
+17
+Board of Education may waive the penalty assessed in this subsection
+17
+18
+if the penalty would result in a loss of more than forty percent
+18
+19
+(40%) of the remaining State Aid to be allocated to the school
+19
+20
+district between April 1 and the remainder of the school year and if
+20
+21
+the Board determines the penalty will cause the school district not
+21
+22
+to meet remaining financial obligations.
+22
+23
+6. Any school district which receives gross production revenue
+23
+24
+apportionment during the 2002-2003 school year or in any subsequent
+24
+Req. No. 2409 Page 12
+
+1
+school year that is greater than the gross production revenue
+1
+2
+apportionment of the preceding school year shall be exempt from the
+2
+3
+penalty assessed in this subsection, if the penalty would occur
+3
+4
+solely as a result of the gross production revenue apportionment, as
+4
+5
+determined by the State Board of Education.
+5
+6
+7. Beginning July 1, 2003, school districts that participate in
+6
+7
+consolidation or annexation pursuant to the provisions of the
+7
+8
+Oklahoma School Consolidation and Annexation Act shall be exempt
+8
+9
+from the penalty assessed in this subsection for the school year in
+9
+10
+which the consolidation or annexation occurs and for the next three
+10
+11
+(3) fiscal years.
+11
+12
+8. Any school district which receives proceeds from a sales tax
+12
+13
+levied by a municipality pursuant to Section 22-159 of Title 11 of
+13
+14
+the Oklahoma Statutes or proceeds from a sales tax levied by a
+14
+15
+county pursuant to Section 1370 of Title 68 of the Oklahoma Statutes
+15
+16
+during the 2003-2004 school year or the 2004-2005 school year shall
+16
+17
+be exempt from the penalties assessed in this subsection, if the
+17
+18
+penalty would occur solely as a result of receiving funds from the
+18
+19
+sales tax levy.
+19
+20
+9. Any school district which has an amount of carryover in the
+20
+21
+general fund of the district in excess of the limits established in
+21
+22
+paragraph 1 of this subsection during the fiscal years beginning
+22
+23
+July 1, 2020, July 1, 2021, July 1, 2022, July 1, 2023, and July 1,
+23
+24
+24
+Req. No. 2409 Page 13
+
+1
+2024, shall not be assessed a general fund balance penalty as
+1
+2
+provided for in this subsection.
+2
+3
+10. For purposes of calculating the general fund balance
+3
+4
+penalty, the terms “carryover” and “general fund balance” shall not
+4
+5
+include federal revenue.
+5
+6
+H. In order to provide startup funds for the implementation of
+6
+7
+early childhood programs, State Aid may be advanced to school
+7
+8
+districts that initially start early childhood instruction at a
+8
+9
+school site. School districts that desire such advanced funding
+9
+10
+shall make application to the State Department of Education no later
+10
+11
+than September 15 of each year and advanced funding shall be awarded
+11
+12
+to the approved districts no later than October 30. The advanced
+12
+13
+funding shall not exceed the per pupil amount of State Aid as
+13
+14
+calculated in subsection D of this section per anticipated Head
+14
+15
+Start eligible student. The total amount of advanced funding shall
+15
+16
+be proportionately reduced from the monthly payments of the
+16
+17
+district’s State Aid payments during the last six (6) months of the
+17
+18
+same fiscal year.
+18
+19
+I. H. 1. Beginning July 1, 1996, the Oklahoma Tax Commission,
+19
+20
+notwithstanding any provision of law to the contrary, shall report
+20
+21
+monthly to the State Department of Education the monthly
+21
+22
+apportionment of the following information:
+22
+23
+a. the assessed valuation of property,
+23
+24
+b. motor vehicle collections,
+24
+Req. No. 2409 Page 14
+
+1
+c. R.E.A. tax collected, and
+1
+2
+d. gross productions tax collected.
+2
+3
+2. Beginning July 1, 1997, the State Auditor and Inspector’s
+3
+4
+Office of the State Auditor and Inspector, notwithstanding any
+4
+5
+provision of law to the contrary, shall report monthly to the State
+5
+6
+Department of Education the monthly apportionment of the proceeds of
+6
+7
+the county levy.
+7
+8
+3. Beginning July 1, 1996, the Commissioners of the Land
+8
+9
+Office, notwithstanding any provision of law to the contrary, shall
+9
+10
+report monthly to the State Department of Education the monthly
+10
+11
+apportionment of state apportionment.
+11
+12
+4. Beginning July 1, 1997, the county treasurers’ offices,
+12
+13
+notwithstanding any provision of law to the contrary, shall report
+13
+14
+monthly to the State Department of Education the ad valorem tax
+14
+15
+protest amounts for each county.
+15
+16
+5. The information reported by the Tax Commission, the State
+16
+17
+Auditor and Inspector’s Office of the State Auditor and Inspector,
+17
+18
+the county treasurers’ offices, and the Commissioners of the Land
+18
+19
+Office, pursuant to this subsection shall be reported by a school
+19
+20
+district on forms developed by the State Department of Education.
+20
+21
+SECTION 2. REPEALER 70 O.S. 2021, Section 18-200.1, as
+21
+22
+amended by Section 1, Chapter 488, O.S.L. 2021, is hereby repealed.
+22
+23
+SECTION 3. This act shall become effective July 1, 2026.
+23
+24
+24
+Req. No. 2409 Page 15
+
+1
+SECTION 4. It being immediately necessary for the preservation
+1
+2
+of the public peace, health, or safety, an emergency is hereby
+2
+3
+declared to exist, by reason whereof this act shall take effect and
+3
+4
+be in full force from and after its passage and approval.
+4
+5
+5
+6
+60-2-2409 EB 3/18/2026 3:37:47 PM
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2409 Page 16
+
+[DELETED:  P B P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P T T]
+[DELETED:  P t s m g s R]
+[DELETED:  P T T P A D A $   $ $   $ $   $ $ 1 $ $ 1 $ $ 1 $ $ 1 $ $ 1 $ $ 2 $]
+[DELETED:  P $ 2 $ $ 2 $ $ 2 $ $ 3 $ $ 3 $ $ 3 $ $ 4 $ $ 4 $ $ 4 $ $ 5 $ $ 5 $ $ 6 $ $ 6 $ $ 7 $ $ 7 $ $ 7 $ $ 8 $ $ 8 $ $ 8 $ $ 9 $ $ 9 $ $ 9 $ T]
+[DELETED:  P M D M]
+[DELETED:  P]
+[DELETED:  P A G B]
+[DELETED:  P AL 4$ 4$ 3$ 3$ 2$ 2$ 1  1]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t m]
+[DELETED:  P R g]
+[DELETED:  P E 3]
