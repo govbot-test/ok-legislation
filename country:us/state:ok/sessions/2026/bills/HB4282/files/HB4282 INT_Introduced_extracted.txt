@@ -1,0 +1,790 @@
+Title: 3 HOUSE BILL 4282 By: Miller
+Official Title: 3 HOUSE BILL 4282 By: Miller
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to motor vehicles; creating the
+Oklahoma Driver Fairness and Transparency Act;
+8 providing purpose; defining terms; requiring certain
+knowledge be provided at the time of offers;
+9 determining certain windows for acceptance of offers;
+providing circumstances for uses of estimates or
+10 minimum amounts; requiring certain information be
+provided in specific time limits; determining length
+11 of time such information is available; determining
+certain requirements for tips; allowing for uses of
+12 certain assistive technologies; allowing for specific
+revisions of assistive technologies under specific
+13 circumstances; prohibiting certain adverse or
+retaliatory actions because of the use of assistive
+14 technologies; requiring certain filings with the
+Oklahoma Corporation Commission; requiring written
+15 notice of certain decisions within certain timelines;
+providing additional methods of review; requiring the
+16 use of human review in certain circumstances;
+allowing for driver participation in the review
+17 processes; determining notice requirements of certain
+decisions; imposing a timeframe for restoration of
+18 drivers; requiring certain documentation be held for
+a specific period of time; allowing for certain
+19 previous cases to be considered for review under
+specific circumstances; prohibiting certain actions;
+20 prohibiting certain contract terms; allowing the
+Oklahoma Corporation Commission to impose certain
+21 fines; allowing the Oklahoma Attorney General's
+office to pursue certain cases; allowing for specific
+22 civil actions; requiring the promulgation of rules;
+maintaining certain driver statuses; providing for
+23 severability; providing for codification; and
+providing an effective date.
+24
+Req. No. 15235 Page 1
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 1040 of Title 47, unless there
+4 is created a duplication in numbering, reads as follows:
+5 This act shall be known and may be cited as the "Oklahoma Driver
+6 Fairness and Transparency Act".
+7 SECTION 2. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 1041 of Title 47, unless there
+9 is created a duplication in numbering, reads as follows:
+10 The purpose of this act is to ensure that drivers have
+11 transparency in compensation and destinations, protection of tips,
+12 fair deactivation procedures, lawful use of third-party tools and
+13 accessibility services, prohibition of retaliation based on
+14 acceptance behavior, and preservation of independent-contractor
+15 status.
+16 SECTION 3. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 1042 of Title 47, unless there
+18 is created a duplication in numbering, reads as follows:
+19 As used in the Oklahoma Driver Fairness and Transparency Act:
+20 1. "Acceptance rating" means any metric calculated from a
+21 driver's ratio of accepted to offered tasks, including a decline
+22 rate, cancellation rate, or any substantially similar measure;
+23 2. "Assistive technology" means software or hardware used by a
+24 driver to perceive, operate, or communicate with a platform's
+Req. No. 15235 Page 2
+1 appl ication, including operating-system accessibility services such
+2 as screen readers, voice control, switch control, and third-party
+3 assistive applications;
+4 3. "Courier application service (CAS)" is as defined in Section
+5 1071 of Title 47 of the Oklahoma Statutes;
+6 4. "Deactivation" means any action of a platform that
+7 terminates or disables a driver's access to accept offers for a
+8 period of seventy-two (72) hours or more;
+9 5. "Driver" means a natural person who uses a platform's
+10 digital application to provide transportation or delivery services
+11 as an independent contractor. This person may be a TNC driver, as
+12 defined in Section 1011 of Title 47 of the Oklahoma Statutes, or a
+13 CAS driver as defined in Section 1071 of Title 47 of the Oklahoma
+14 Statutes;
+15 6. "Platform" means a technology-enabled marketplace, including
+16 a transportation network company (TNC) or a courier application
+17 service (CAS), that connects consumers with app-based transportation
+18 or delivery services;
+19 7. "Suspension" means an action to limit a driver's access to
+20 accept offers for a period of less than seventy-two (72) hours;
+21 8. "Tier" means any program or policy that conditions
+22 disclosures, offer access, scheduling access, dispatch priority,
+23 incentives, or other material terms on a driver's acceptance rating
+24 or other acceptance-related behavior;
+Req. No. 15235 Page 3
+1 9. "Third-party driver tool" means software or hardware
+2 lawfully used by a driver, including navigation, accessibility,
+3 analytics, offer-management, or workflow tools that are not owned or
+4 provided by the platform; and
+5 10. "Tip" means any gratuity designated by the consumer for the
+6 driver, whether done pre- or post-delivery.
+7 SECTION 4. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 1043 of Title 47, unless there
+9 is created a duplication in numbering, reads as follows:
+10 A. Before a driver accepts an offer, a platform shall display
+11 all known information including:
+12 1. The full amount, down to the cent, of the driver's
+13 compensation, including base pay, the known tip, and any other
+14 amounts;
+15 2. Pickup location or locations, exact drop-off location or
+16 locations, including street address and unit number if provided, the
+17 number of stops, and the estimated time and distance of the drive;
+18 and
+19 3. Any incentives or conditions attached to the offer.
+20 B. For CAS offers, a platform shall provide a minimum
+21 acceptance window of sixty (60) seconds. For TNC offers, a platform
+22 shall provide a minimum acceptance window of thirty (30) seconds.
+23 C. A platform shall not condition the disclosures required by
+24 this section, or access to offers, on a driver's acceptance rating,
+Req. No. 15235 Page 4
+1 tier , or loyalty status. Nor shall the platform suppress, delay, or
+2 degrade such disclosures based on acceptance behavior.
+3 D. A platform shall not mask, conceal, round, or otherwise
+4 obscure any component of compensation or destination information
+5 required by this section. If any component is contingent or
+6 estimated, the platform shall disclose the contingency or estimation
+7 and the exact calculation method or the minimum guaranteed amount.
+8 SECTION 5. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 1044 of Title 47, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. Within twenty-four (24) hours after completion or
+12 cancellation, a platform shall make available to the driver an
+13 itemized receipt stating:
+14 1. The customer's total amount paid;
+15 2. The driver's total compensation broken down into:
+16 a. the base pay amount,
+17 b. the tip amount, and
+18 c. any incentives or bonuses the driver received;
+19 3. The itemized fees, commissions, or service charges retained
+20 by the platform;
+21 4. The taxes, regulatory fees, and surcharges;
+22 5. The time and distance of the trip; and
+23 6. In the event of a cancellation, whether the consumer or
+24 platform canceled the trip.
+Req. No. 15235 Page 5
+1 Addi tionally, any post-trip adjustments, withholdings, or
+2 chargebacks, which shall be identified and explained.
+3 B. Itemized receipts shall remain accessible to the driver for
+4 at least one (1) year.
+5 SECTION 6. NEW LAW A new section of law to be codified
+6 in the Oklahoma Statutes as Section 1045 of Title 47, unless there
+7 is created a duplication in numbering, reads as follows:
+8 A. One hundred percent (100%) of tips shall be paid to the
+9 driver and shall not be used to offset or reduce pay or other
+10 compensation owed.
+11 B. A consumer's reduction or removal of a tip within twenty-
+12 four (24) hours after completion shall not reduce the driver's
+13 compensation. The platform shall make the driver whole for any such
+14 reduction.
+15 C. After twenty-four (24) hours, a platform may adjust a tip
+16 only upon documented evidence of fraud, duplicate charge, or
+17 mistaken amount with contemporaneous written notice to the driver,
+18 including the reason and evidence relied upon. There shall be a
+19 process for the driver to challenge the determination.
+20 D. Nothing in the section prohibits a consumer from increasing
+21 a tip at any time. Any such increase shall go to the driver in
+22 full.
+23
+24
+Req. No. 15235 Page 6
+1 SECTION 7. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 1046 of Title 47, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. A platform shall not deactivate, suspend, limit dispatch,
+5 reduce ranking, block features, downgrade performance, or otherwise
+6 retaliate against a driver solely because the driver uses a third-
+7 party driver tool or any assistive technology or accessibility
+8 service.
+9 B. 1. A platform shall not block, disable, or interfere with
+10 operating-system accessibility services, including, but not limited
+11 to: screen readers, voice control, switch control, AssistiveTouch,
+12 magnification, text-to-speech, or accessibility shortcuts. Nor
+13 shall the platform block a third-party assistive technology used by
+14 the driver to perceive or operate the platform's application.
+15 2. The presence or activation of such services shall not, by
+16 itself, constitute grounds for adverse action against the driver.
+17 C. 1. A platform may restrict a specific functionality of a
+18 third-party tool or assistive technology only if the platform
+19 demonstrates that the particular functionality, as implemented,
+20 materially:
+21 a. compromises traffic safety,
+22 b. violates state or federal law,
+23 c. circumvents identity, security, or fraud-prevention
+24 measures, or
+Req. No. 15235 Page 7
+1 d. falsifies location or trip data presented to the
+2 platform or consumer, including GPS spoofing tools,
+3 and the platform demonstrated that the risk cannot be
+4 mitigated through reasonable alternatives or
+5 accommodations.
+6 2. Any restrictions shall be narrowly tailored to the specific
+7 functionality and may not be a blanket ban on accessibility services
+8 or a third-party tool.
+9 D. 1. Before enforcing a new or revised restriction affecting
+10 third-party or assistive technologies, a platform shall publish the
+11 restriction with the specific safety or security rationale and shall
+12 provide fourteen (14) days' advance notice to drivers. In the event
+13 where immediate action is necessary because of a legitimate security
+14 concern, the fourteen (14) days' notice may be waived.
+15 2. Where a restriction affects an accessibility service or
+16 assistive technology, the platform shall offer a reasonable
+17 alternative or accommodation that enables the driver to access the
+18 application's core functions.
+19 E. 1. No adverse action shall be taken based solely on
+20 automated detection of device, app, process, or "fingerprint"
+21 signals indicating the presence or use of third-party tools or
+22 accessibility services, without human review and a specific
+23 explanation provided to the driver.
+24
+Req. No. 15235 Page 8
+1 2. A platform shall not require a driver to uninstall, disable,
+2 or consent to the disabling of any operating system service,
+3 including accessibility services, as a condition of access to the
+4 platform, except as permitted under subsection C for specific
+5 functionality that materially compromises the safety, security, or
+6 fraud prevention and only where no reasonable alternative or
+7 accommodation exists.
+8 F. Nothing in this section shall be construed to reduce or
+9 limit any rights or obligations under federal and state disability
+10 laws.
+11 SECTION 8. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 1047 of Title 47, unless there
+13 is created a duplication in numbering, reads as follows:
+14 A. Each platform shall adopt, publish on its website and drive
+15 app, and file with the Oklahoma Corporation Commission a
+16 deactivation and suspension policy listing violations, specific
+17 consequences, and the procedures for human review and appeal.
+18 B. Within twenty-four (24) hours of any deactivation or
+19 suspension, the platform shall provide the driver a written notice
+20 stating:
+21 1. The specific reasons for the action, including the policy
+22 provision or provisions allegedly violated;
+23 2. The evidence relied upon, redacted only as required by law;
+24 and
+Req. No. 15235 Page 9
+1 3. A link or method to challenge the action and request a human
+2 review.
+3 C. No deactivation or suspension may be imposed or maintained
+4 based solely on automated flags, device or app fingerprinted, or
+5 algorithmic scoring without timely human review. A platform may
+6 impose an immediate temporary suspension to address an acute safety
+7 or security risk, but a trained human review shall validate or lift
+8 the action within twenty-four (24) hours.
+9 D. 1. All challenges shall be decided by at least one (1)
+10 trained human reviewer who was not the originator of the decision.
+11 2. Any deactivation shall be affirmed only after review by a
+12 panel of at least five (5) human reviewers, including at least one
+13 reviewer who was not involved in the initial determination.
+14 3. Reviewers shall consider any explanation or evidence
+15 submitted by the driver and shall issue a reasoned written decision.
+16 E. 1. The driver shall be offered either a phone or video
+17 conference of at least fifteen (15) minutes, or a written submission
+18 process to be involved in the review.
+19 2. The driver may be represented by counsel or an authorized
+20 representative. Language and accessibility accommodations shall be
+21 provided upon request.
+22 F. 1. The platform shall issue a reasoned decision within
+23 fourteen (14) days after the driver submits a challenge, unless
+24
+Req. No. 15235 Page 10
+1 exte nded once for up to seven (7) additional days for good causes
+2 stated in writing to the driver.
+3 2. If the action is reversed, the platform shall restore the
+4 driver's access within twenty-four (24) hours.
+5 G. The platform shall retain the notice, evidence, and
+6 decisions for at least three (3) years, and shall make them
+7 available to the driver upon request.
+8 H. At the driver's request, the challenge and human review
+9 described in subsections B through D of this section, shall be
+10 decided by a review panel that includes at least one member not
+11 employed by the platform, selected from a roster maintained by the
+12 Oklahoma Corporation Commission in consultation with recognized
+13 driver organizations. The panel's decision shall constitute the
+14 platform's final internal decision.
+15 SECTION 9. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 1048 of Title 47, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. Any driver deactivated within three (3) years prior to the
+19 effective date of this act, shall have twelve (12) months from the
+20 effective date to request a lookback review following the same
+21 procedures in this act. This review shall be limited to the
+22 incident cited by the platform as the reason for the deactivation.
+23 B. Upon request, the platform shall provide the reasons and
+24 evidence it relied upon at the time of deactivation, redacted only
+Req. No. 15235 Page 11
+1 as r equired by law, and shall evaluate the request under the current
+2 policy or policy in effect at the time of the deactivation,
+3 whichever is more favorable to the driver.
+4 C. Remedies in these cases shall include reactivation or a
+5 reasoned denial. A platform's failure to timely process a lookback
+6 request may be enjoined by a court. Nothing herein creates
+7 liability for damages solely for a past deactivation decision prior
+8 to the effective date of this act.
+9 SECTION 10. NEW LAW A new section of law to be codified
+10 in the Oklahoma Statutes as Section 1049 of Title 47, unless there
+11 is created a duplication in numbering, reads as follows:
+12 A. A platform shall not take adverse action against a driver
+13 for lawfully accepting or declining offers, using destination or
+14 areas preferences provided by the platform, or exercising rights
+15 under this act.
+16 B. A platform shall not reduce offer volume, dispatch priority,
+17 incentives, access to promotions, or any other material term based
+18 on a driver's acceptance rating or decline and cancellation
+19 behavior, except as necessary to address documented safety, fraud,
+20 or legal violations consistent with this act.
+21 C. Contract terms that waive or limit rights under this act,
+22 require venue outside of Oklahoma, or impose fee-shifting against
+23 drivers for asserting rights under this act are void as against
+24 public policy.
+Req. No. 15235 Page 12
+1 SECTION 11. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 1050 of Title 47, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. The Oklahoma Corporation Commission may receive complaints,
+5 investigate, and assess civil penalties against a platform, not to
+6 exceed Two Thousand Five Hundred Dollars ($2,500.00) per violation,
+7 or Ten Thousand Dollars ($10,000.00) per knowing or repeated
+8 violations.
+9 B. The Oklahoma Attorney General may bring a civil action to
+10 enforce this act.
+11 C. A driver aggrieved by a violation of this act may bring a
+12 civil action for injunctive relief, actual damages, or statutory
+13 damages of not less than Five Hundred Dollars ($500.00) per
+14 violation, and reasonable attorney fees and costs. The court may
+15 order reinstatement where appropriate.
+16 D. Rights and remedies under this act are cumulative and
+17 nonexclusive.
+18 SECTION 12. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 1051 of Title 47, unless there
+20 is created a duplication in numbering, reads as follows:
+21 The Oklahoma Corporation Commission shall promulgate rules to
+22 implement this act. Such rules shall include:
+23 A. The establishment and maintenance of a roster of qualified
+24 external reviewers for panels convened under this act;
+Req. No. 15235 Page 13
+1 B. Setting minimum qualifications, training, and conflict-of-
+2 interest standards for reviewers;
+3 C. Specifying the selection procedure for assigning reviews to
+4 particular matters, ensuring impartiality; and
+5 D. Defining notice, timelines, and accessibility accommodations
+6 for the challenge and review process.
+7 SECTION 13. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 1052 of Title 47, unless there
+9 is created a duplication in numbering, reads as follows:
+10 A. Nothing in this act shall be construed to alter a driver's
+11 status as an independent contractor under state or federal law.
+12 B. The provisions of this act shall be severable and if any
+13 section, subsection, sentence or clause of this act is for any
+14 reason held to be invalid, such holding shall not affect the
+15 validity of the remaining portions thereof.
+16 SECTION 14. This act shall become effective November 1, 2026.
+17
+18 60-2-15235 MKS 01/08/26
+19
+20
+21
+22
+23
+24
+Req. No. 15235 Page 14
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t a]
+[DELETED:  P]
+[DELETED:  P c v c]
+[DELETED:  P f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 0]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 HOUSE BILL 4282 By: Miller
+4
+5
+6 AS INTRODUCED
+7 An Act relating to motor vehicles; creating the
+Oklahoma Driver Fairness and Transparency Act;
+8 providing purpose; defining terms; requiring certain
+knowledge be provided at the time of offers;
+9 determining certain windows for acceptance of offers;
+providing circumstances for uses of estimates or
+10 minimum amounts; requiring certain information be
+provided in specific time limits; determining length
+11 of time such information is available; determining
+certain requirements for tips; allowing for uses of
+12 certain assistive technologies; allowing for specific
+revisions of assistive technologies under specific
+13 circumstances; prohibiting certain adverse or
+retaliatory actions because of the use of assistive
+14 technologies; requiring certain filings with the
+Oklahoma Corporation Commission; requiring written
+15 notice of certain decisions within certain timelines;
+providing additional methods of review; requiring the
+16 use of human review in certain circumstances;
+allowing for driver participation in the review
+17 processes; determining notice requirements of certain
+decisions; imposing a timeframe for restoration of
+18 drivers; requiring certain documentation be held for
+a specific period of time; allowing for certain
+19 previous cases to be considered for review under
+specific circumstances; prohibiting certain actions;
+20 prohibiting certain contract terms; allowing the
+Oklahoma Corporation Commission to impose certain
+21 fines; allowing the Oklahoma Attorney General's
+office to pursue certain cases; allowing for specific
+22 civil actions; requiring the promulgation of rules;
+maintaining certain driver statuses; providing for
+23 severability; providing for codification; and
+providing an effective date.
+24
+Req. No. 15235 Page 1
+
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 1040 of Title 47, unless there
+4 is created a duplication in numbering, reads as follows:
+5 This act shall be known and may be cited as the "Oklahoma Driver
+6 Fairness and Transparency Act".
+7 SECTION 2. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 1041 of Title 47, unless there
+9 is created a duplication in numbering, reads as follows:
+10 The purpose of this act is to ensure that drivers have
+11 transparency in compensation and destinations, protection of tips,
+12 fair deactivation procedures, lawful use of third-party tools and
+13 accessibility services, prohibition of retaliation based on
+14 acceptance behavior, and preservation of independent-contractor
+15 status.
+16 SECTION 3. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 1042 of Title 47, unless there
+18 is created a duplication in numbering, reads as follows:
+19 As used in the Oklahoma Driver Fairness and Transparency Act:
+20 1. "Acceptance rating" means any metric calculated from a
+21 driver's ratio of accepted to offered tasks, including a decline
+22 rate, cancellation rate, or any substantially similar measure;
+23 2. "Assistive technology" means software or hardware used by a
+24 driver to perceive, operate, or communicate with a platform's
+Req. No. 15235 Page 2
+
+1 appl ication, including operating-system accessibility services such
+2 as screen readers, voice control, switch control, and third-party
+3 assistive applications;
+4 3. "Courier application service (CAS)" is as defined in Section
+5 1071 of Title 47 of the Oklahoma Statutes;
+6 4. "Deactivation" means any action of a platform that
+7 terminates or disables a driver's access to accept offers for a
+8 period of seventy-two (72) hours or more;
+9 5. "Driver" means a natural person who uses a platform's
+10 digital application to provide transportation or delivery services
+11 as an independent contractor. This person may be a TNC driver, as
+12 defined in Section 1011 of Title 47 of the Oklahoma Statutes, or a
+13 CAS driver as defined in Section 1071 of Title 47 of the Oklahoma
+14 Statutes;
+15 6. "Platform" means a technology-enabled marketplace, including
+16 a transportation network company (TNC) or a courier application
+17 service (CAS), that connects consumers with app-based transportation
+18 or delivery services;
+19 7. "Suspension" means an action to limit a driver's access to
+20 accept offers for a period of less than seventy-two (72) hours;
+21 8. "Tier" means any program or policy that conditions
+22 disclosures, offer access, scheduling access, dispatch priority,
+23 incentives, or other material terms on a driver's acceptance rating
+24 or other acceptance-related behavior;
+Req. No. 15235 Page 3
+
+1 9. "Third-party driver tool" means software or hardware
+2 lawfully used by a driver, including navigation, accessibility,
+3 analytics, offer-management, or workflow tools that are not owned or
+4 provided by the platform; and
+5 10. "Tip" means any gratuity designated by the consumer for the
+6 driver, whether done pre- or post-delivery.
+7 SECTION 4. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 1043 of Title 47, unless there
+9 is created a duplication in numbering, reads as follows:
+10 A. Before a driver accepts an offer, a platform shall display
+11 all known information including:
+12 1. The full amount, down to the cent, of the driver's
+13 compensation, including base pay, the known tip, and any other
+14 amounts;
+15 2. Pickup location or locations, exact drop-off location or
+16 locations, including street address and unit number if provided, the
+17 number of stops, and the estimated time and distance of the drive;
+18 and
+19 3. Any incentives or conditions attached to the offer.
+20 B. For CAS offers, a platform shall provide a minimum
+21 acceptance window of sixty (60) seconds. For TNC offers, a platform
+22 shall provide a minimum acceptance window of thirty (30) seconds.
+23 C. A platform shall not condition the disclosures required by
+24 this section, or access to offers, on a driver's acceptance rating,
+Req. No. 15235 Page 4
+
+1 tier , or loyalty status. Nor shall the platform suppress, delay, or
+2 degrade such disclosures based on acceptance behavior.
+3 D. A platform shall not mask, conceal, round, or otherwise
+4 obscure any component of compensation or destination information
+5 required by this section. If any component is contingent or
+6 estimated, the platform shall disclose the contingency or estimation
+7 and the exact calculation method or the minimum guaranteed amount.
+8 SECTION 5. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 1044 of Title 47, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. Within twenty-four (24) hours after completion or
+12 cancellation, a platform shall make available to the driver an
+13 itemized receipt stating:
+14 1. The customer's total amount paid;
+15 2. The driver's total compensation broken down into:
+16 a. the base pay amount,
+17 b. the tip amount, and
+18 c. any incentives or bonuses the driver received;
+19 3. The itemized fees, commissions, or service charges retained
+20 by the platform;
+21 4. The taxes, regulatory fees, and surcharges;
+22 5. The time and distance of the trip; and
+23 6. In the event of a cancellation, whether the consumer or
+24 platform canceled the trip.
+Req. No. 15235 Page 5
+
+1 Addi tionally, any post-trip adjustments, withholdings, or
+2 chargebacks, which shall be identified and explained.
+3 B. Itemized receipts shall remain accessible to the driver for
+4 at least one (1) year.
+5 SECTION 6. NEW LAW A new section of law to be codified
+6 in the Oklahoma Statutes as Section 1045 of Title 47, unless there
+7 is created a duplication in numbering, reads as follows:
+8 A. One hundred percent (100%) of tips shall be paid to the
+9 driver and shall not be used to offset or reduce pay or other
+10 compensation owed.
+11 B. A consumer's reduction or removal of a tip within twenty-
+12 four (24) hours after completion shall not reduce the driver's
+13 compensation. The platform shall make the driver whole for any such
+14 reduction.
+15 C. After twenty-four (24) hours, a platform may adjust a tip
+16 only upon documented evidence of fraud, duplicate charge, or
+17 mistaken amount with contemporaneous written notice to the driver,
+18 including the reason and evidence relied upon. There shall be a
+19 process for the driver to challenge the determination.
+20 D. Nothing in the section prohibits a consumer from increasing
+21 a tip at any time. Any such increase shall go to the driver in
+22 full.
+23
+24
+Req. No. 15235 Page 6
+
+1 SECTION 7. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 1046 of Title 47, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. A platform shall not deactivate, suspend, limit dispatch,
+5 reduce ranking, block features, downgrade performance, or otherwise
+6 retaliate against a driver solely because the driver uses a third-
+7 party driver tool or any assistive technology or accessibility
+8 service.
+9 B. 1. A platform shall not block, disable, or interfere with
+10 operating-system accessibility services, including, but not limited
+11 to: screen readers, voice control, switch control, AssistiveTouch,
+12 magnification, text-to-speech, or accessibility shortcuts. Nor
+13 shall the platform block a third-party assistive technology used by
+14 the driver to perceive or operate the platform's application.
+15 2. The presence or activation of such services shall not, by
+16 itself, constitute grounds for adverse action against the driver.
+17 C. 1. A platform may restrict a specific functionality of a
+18 third-party tool or assistive technology only if the platform
+19 demonstrates that the particular functionality, as implemented,
+20 materially:
+21 a. compromises traffic safety,
+22 b. violates state or federal law,
+23 c. circumvents identity, security, or fraud-prevention
+24 measures, or
+Req. No. 15235 Page 7
+
+1 d. falsifies location or trip data presented to the
+2 platform or consumer, including GPS spoofing tools,
+3 and the platform demonstrated that the risk cannot be
+4 mitigated through reasonable alternatives or
+5 accommodations.
+6 2. Any restrictions shall be narrowly tailored to the specific
+7 functionality and may not be a blanket ban on accessibility services
+8 or a third-party tool.
+9 D. 1. Before enforcing a new or revised restriction affecting
+10 third-party or assistive technologies, a platform shall publish the
+11 restriction with the specific safety or security rationale and shall
+12 provide fourteen (14) days' advance notice to drivers. In the event
+13 where immediate action is necessary because of a legitimate security
+14 concern, the fourteen (14) days' notice may be waived.
+15 2. Where a restriction affects an accessibility service or
+16 assistive technology, the platform shall offer a reasonable
+17 alternative or accommodation that enables the driver to access the
+18 application's core functions.
+19 E. 1. No adverse action shall be taken based solely on
+20 automated detection of device, app, process, or "fingerprint"
+21 signals indicating the presence or use of third-party tools or
+22 accessibility services, without human review and a specific
+23 explanation provided to the driver.
+24
+Req. No. 15235 Page 8
+
+1 2. A platform shall not require a driver to uninstall, disable,
+2 or consent to the disabling of any operating system service,
+3 including accessibility services, as a condition of access to the
+4 platform, except as permitted under subsection C for specific
+5 functionality that materially compromises the safety, security, or
+6 fraud prevention and only where no reasonable alternative or
+7 accommodation exists.
+8 F. Nothing in this section shall be construed to reduce or
+9 limit any rights or obligations under federal and state disability
+10 laws.
+11 SECTION 8. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 1047 of Title 47, unless there
+13 is created a duplication in numbering, reads as follows:
+14 A. Each platform shall adopt, publish on its website and drive
+15 app, and file with the Oklahoma Corporation Commission a
+16 deactivation and suspension policy listing violations, specific
+17 consequences, and the procedures for human review and appeal.
+18 B. Within twenty-four (24) hours of any deactivation or
+19 suspension, the platform shall provide the driver a written notice
+20 stating:
+21 1. The specific reasons for the action, including the policy
+22 provision or provisions allegedly violated;
+23 2. The evidence relied upon, redacted only as required by law;
+24 and
+Req. No. 15235 Page 9
+
+1 3. A link or method to challenge the action and request a human
+2 review.
+3 C. No deactivation or suspension may be imposed or maintained
+4 based solely on automated flags, device or app fingerprinted, or
+5 algorithmic scoring without timely human review. A platform may
+6 impose an immediate temporary suspension to address an acute safety
+7 or security risk, but a trained human review shall validate or lift
+8 the action within twenty-four (24) hours.
+9 D. 1. All challenges shall be decided by at least one (1)
+10 trained human reviewer who was not the originator of the decision.
+11 2. Any deactivation shall be affirmed only after review by a
+12 panel of at least five (5) human reviewers, including at least one
+13 reviewer who was not involved in the initial determination.
+14 3. Reviewers shall consider any explanation or evidence
+15 submitted by the driver and shall issue a reasoned written decision.
+16 E. 1. The driver shall be offered either a phone or video
+17 conference of at least fifteen (15) minutes, or a written submission
+18 process to be involved in the review.
+19 2. The driver may be represented by counsel or an authorized
+20 representative. Language and accessibility accommodations shall be
+21 provided upon request.
+22 F. 1. The platform shall issue a reasoned decision within
+23 fourteen (14) days after the driver submits a challenge, unless
+24
+Req. No. 15235 Page 10
+
+1 exte nded once for up to seven (7) additional days for good causes
+2 stated in writing to the driver.
+3 2. If the action is reversed, the platform shall restore the
+4 driver's access within twenty-four (24) hours.
+5 G. The platform shall retain the notice, evidence, and
+6 decisions for at least three (3) years, and shall make them
+7 available to the driver upon request.
+8 H. At the driver's request, the challenge and human review
+9 described in subsections B through D of this section, shall be
+10 decided by a review panel that includes at least one member not
+11 employed by the platform, selected from a roster maintained by the
+12 Oklahoma Corporation Commission in consultation with recognized
+13 driver organizations. The panel's decision shall constitute the
+14 platform's final internal decision.
+15 SECTION 9. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 1048 of Title 47, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. Any driver deactivated within three (3) years prior to the
+19 effective date of this act, shall have twelve (12) months from the
+20 effective date to request a lookback review following the same
+21 procedures in this act. This review shall be limited to the
+22 incident cited by the platform as the reason for the deactivation.
+23 B. Upon request, the platform shall provide the reasons and
+24 evidence it relied upon at the time of deactivation, redacted only
+Req. No. 15235 Page 11
+
+1 as r equired by law, and shall evaluate the request under the current
+2 policy or policy in effect at the time of the deactivation,
+3 whichever is more favorable to the driver.
+4 C. Remedies in these cases shall include reactivation or a
+5 reasoned denial. A platform's failure to timely process a lookback
+6 request may be enjoined by a court. Nothing herein creates
+7 liability for damages solely for a past deactivation decision prior
+8 to the effective date of this act.
+9 SECTION 10. NEW LAW A new section of law to be codified
+10 in the Oklahoma Statutes as Section 1049 of Title 47, unless there
+11 is created a duplication in numbering, reads as follows:
+12 A. A platform shall not take adverse action against a driver
+13 for lawfully accepting or declining offers, using destination or
+14 areas preferences provided by the platform, or exercising rights
+15 under this act.
+16 B. A platform shall not reduce offer volume, dispatch priority,
+17 incentives, access to promotions, or any other material term based
+18 on a driver's acceptance rating or decline and cancellation
+19 behavior, except as necessary to address documented safety, fraud,
+20 or legal violations consistent with this act.
+21 C. Contract terms that waive or limit rights under this act,
+22 require venue outside of Oklahoma, or impose fee-shifting against
+23 drivers for asserting rights under this act are void as against
+24 public policy.
+Req. No. 15235 Page 12
+
+1 SECTION 11. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 1050 of Title 47, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. The Oklahoma Corporation Commission may receive complaints,
+5 investigate, and assess civil penalties against a platform, not to
+6 exceed Two Thousand Five Hundred Dollars ($2,500.00) per violation,
+7 or Ten Thousand Dollars ($10,000.00) per knowing or repeated
+8 violations.
+9 B. The Oklahoma Attorney General may bring a civil action to
+10 enforce this act.
+11 C. A driver aggrieved by a violation of this act may bring a
+12 civil action for injunctive relief, actual damages, or statutory
+13 damages of not less than Five Hundred Dollars ($500.00) per
+14 violation, and reasonable attorney fees and costs. The court may
+15 order reinstatement where appropriate.
+16 D. Rights and remedies under this act are cumulative and
+17 nonexclusive.
+18 SECTION 12. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 1051 of Title 47, unless there
+20 is created a duplication in numbering, reads as follows:
+21 The Oklahoma Corporation Commission shall promulgate rules to
+22 implement this act. Such rules shall include:
+23 A. The establishment and maintenance of a roster of qualified
+24 external reviewers for panels convened under this act;
+Req. No. 15235 Page 13
+
+1 B. Setting minimum qualifications, training, and conflict-of-
+2 interest standards for reviewers;
+3 C. Specifying the selection procedure for assigning reviews to
+4 particular matters, ensuring impartiality; and
+5 D. Defining notice, timelines, and accessibility accommodations
+6 for the challenge and review process.
+7 SECTION 13. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 1052 of Title 47, unless there
+9 is created a duplication in numbering, reads as follows:
+10 A. Nothing in this act shall be construed to alter a driver's
+11 status as an independent contractor under state or federal law.
+12 B. The provisions of this act shall be severable and if any
+13 section, subsection, sentence or clause of this act is for any
+14 reason held to be invalid, such holding shall not affect the
+15 validity of the remaining portions thereof.
+16 SECTION 14. This act shall become effective November 1, 2026.
+17
+18 60-2-15235 MKS 01/08/26
+19
+20
+21
+22
+23
+24
+Req. No. 15235 Page 14
+
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t t a]
+[DELETED:  P]
+[DELETED:  P c v c]
+[DELETED:  P f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 0]
