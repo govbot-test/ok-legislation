@@ -1,0 +1,3724 @@
+Title: SENATE BILL 1974 By: Hicks
+Official Title: SENATE BILL 1974 By: Hicks
+Number of Sections: 67
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+AS INTRODUCED
+5
+6
+An Act relating to students; amending 70 O.S. 2021,
+6
+
+Section 2:
+Section 13-101, which relates to services for
+7
+children with disabilities; defining terms; removing
+7
+definition; updating statutory language; updating
+8
+statutory references; amending 70 O.S. 2021, Section
+8
+13-102, which relates to determining eligibility for
+9
+certain services; allowing a school district or
+9
+certain parent or legal guardian to initiate request
+10
+for evaluation; requiring evaluation to be conducted
+10
+within certain time frame; providing certain
+11
+construction; prohibiting provision of certain
+11
+services without consent; providing for evaluation of
+12
+certain children; providing exceptions to consent;
+12
+clarifying eligibility for certain services;
+13
+providing requirements for reevaluation; requiring
+13
+prior notice; requiring certain determination to be
+14
+made by certain team; providing for meetings of
+14
+individualized education program teams; prohibiting
+15
+certain determination from being made based on
+15
+certain determinant factors; providing for
+16
+determination of specific learning disability;
+16
+updating statutory references; updating statutory
+17
+language; directing the State Board of Education to
+17
+establish and maintain certain policies and
+18
+procedures; providing for contents of policies and
+18
+procedures; directing school districts to provide
+19
+procedural safeguards to certain parents and legal
+19
+guardians; providing procedures for due process
+20
+complaints; providing opportunity for impartial due
+20
+process hearing; providing policies and procedures
+21
+for due process hearings; directing the State
+21
+Department of Education to adopt certain policies and
+22
+procedures for mediation; directing the Department to
+22
+develop and publish certain form; providing for
+23
+placement of child while certain hearings or sessions
+23
+are pending; providing for promulgation of rules;
+24
+24
+Req. No. 2304 Page 1
+1
+providing for codification; providing an effective
+1
+date; and declaring an emergency.
+2
+2
+3
+3
+4
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+4
+5
+
+Section 3:
+SECTION 1. AMENDATORY 70 O.S. 2021, Section 13-101, is
+5
+6
+amended to read as follows:
+6
+7
+
+Section 4:
+Section 13-101. A. For the purposes of this title:
+7
+8
+
+Section 5:
+1. “Child with a disability” means a child who is at least
+8
+9
+three (3) years of age but has not reached twenty-two (22) years of
+9
+10
+age with intellectual disabilities, hearing impairments, speech or
+10
+11
+language impairments, visual impairments, serious emotional
+11
+12
+disturbance, orthopedic impairments, autism, traumatic brain injury,
+12
+13
+other health impairments, or specific learning disabilities and who,
+13
+14
+by reason thereof, needs special education and related services;
+14
+15
+
+Section 6:
+2. “Free appropriate public education” means special education
+15
+16
+and related services that:
+16
+17
+a. have been provided at public expense, under public
+17
+18
+supervision and direction, and without charge,
+18
+19
+b. meet the standards of the State Department of
+19
+20
+Education, and
+20
+21
+c. are provided in conformity with a child’s IEP;
+21
+22
+
+Section 7:
+3. “Individualized education program” or “IEP” means a written
+22
+23
+statement for each child with a disability that is developed,
+23
+24
+24
+Req. No. 2304 Page 2
+1
+reviewed, and revised in accordance with the provisions of Section
+1
+2
+13-102 of this title. The IEP shall include:
+2
+3
+a. a statement of the child’s present levels of academic
+3
+4
+achievement and functional performance,
+4
+5
+b. a statement of measurable annual goals including
+5
+6
+academic and functional goals,
+6
+7
+c. a description of how the child’s progress toward
+7
+8
+meeting the annual goals will be measured and when
+8
+9
+periodic reports on the progress the child is making
+9
+10
+toward meeting the annual goals is to be provided,
+10
+11
+d. a statement of the special education and related
+11
+12
+services and supplementary aids and services, based on
+12
+13
+peer-reviewed research to the extent practicable, to
+13
+14
+be provided to the child, or on behalf of the child,
+14
+15
+and a statement of the program modifications or
+15
+16
+supports for school personnel that are to be provided
+16
+17
+for the child,
+17
+18
+e. an explanation of the extent, if any, to which the
+18
+19
+child will not participate with nondisabled children
+19
+20
+in the regular class and activities,
+20
+21
+f. a statement of any individual appropriate
+21
+22
+accommodations that are necessary to measure the
+22
+23
+academic achievement and functional performance of the
+23
+24
+child on statewide assessments and district-
+24
+Req. No. 2304 Page 3
+1
+administered assessments. If the IEP team determines,
+1
+2
+and parental consent is provided as required by
+2
+3
+
+Section 8:
+Section 13-114.6 of this title, that the child shall
+3
+4
+take an alternate assessment, the IEP shall include a
+4
+5
+statement of why the child cannot participate in the
+5
+6
+regular assessment and why the alternate assessment
+6
+7
+selected is appropriate for the child,
+7
+8
+g. the projected date for the beginning of the services
+8
+9
+and modifications including the anticipated frequency,
+9
+10
+location, and duration of such services and
+10
+11
+modifications, and
+11
+12
+h. beginning no later than the first IEP to be in effect
+12
+13
+when the child is age sixteen (16) years and updated
+13
+14
+annually thereafter:
+14
+15
+(1) appropriate measurable postsecondary goals based
+15
+16
+on age-appropriate transition assessments related
+16
+17
+to training, education, employment, and, where
+17
+18
+appropriate, independent living skills,
+18
+19
+(2) transition services needed to assist the child in
+19
+20
+reaching the postsecondary goals, and
+20
+21
+(3) beginning no later than one (1) year before the
+21
+22
+child reaches age eighteen (18) years, a
+22
+23
+statement that the child has been informed of his
+23
+24
+24
+Req. No. 2304 Page 4
+1
+or her rights, if any, that will transfer upon
+1
+2
+reaching age eighteen (18) years; and
+2
+3
+
+Section 9:
+4. “Individualized education program team” or “IEP team” means
+3
+4
+a group of individuals composed of:
+4
+5
+a. the parents or legal guardians of a child with a
+5
+6
+disability,
+6
+7
+b. at least one regular education teacher of the child
+7
+8
+with a disability if the child is participating in the
+8
+9
+regular education environment,
+9
+10
+c. at least one special education teacher or, where
+10
+11
+appropriate, at least one special education provider,
+11
+12
+d. a representative of the school district,
+12
+13
+e. an individual who can interpret the instructional
+13
+14
+implications of evaluation results who may also meet
+14
+15
+the requirements of subparagraphs b through d of this
+15
+16
+paragraph,
+16
+17
+f. other individuals who have knowledge or special
+17
+18
+expertise regarding the child including related
+18
+19
+service personnel, at the discretion of the child’s
+19
+20
+parent or legal guardian or the school district, and
+20
+21
+g. the child with a disability, whenever appropriate.
+21
+22
+B. 1. The several school School districts of Oklahoma in this
+22
+23
+state are hereby authorized to provide special education and related
+23
+24
+services necessary for children with disabilities as hereinafter
+24
+Req. No. 2304 Page 5
+1
+defined as provided for in the Individuals with Disabilities
+1
+2
+Education Act (IDEA) and the provisions of this act. Two or more
+2
+3
+school districts may establish cooperative programs of special
+3
+4
+education for children with disabilities when such arrangement is
+4
+5
+approved by the State Board of Education. Funds may be expended for
+5
+6
+school services for an additional period during the summer months
+6
+7
+for approved programs for qualified children with disabilities,
+7
+8
+provided their individualized education program (I.E.P.) IEP states
+8
+9
+the need for extended school year special education and related
+9
+10
+services. Children with disabilities shall mean children, as
+10
+11
+defined in the Individuals with Disabilities Education Act (IDEA),
+11
+12
+P.L. No. 105-17, who are three (3) years of age.
+12
+13
+
+Section 10:
+2. Provided, on On and after July 1, 1991, children from age
+13
+14
+birth through two (2) years (0-36 months) of age three (3) years who
+14
+15
+meet the eligibility criteria specified in Section 13-123 of this
+15
+16
+title, shall be served pursuant to the provisions of the Oklahoma
+16
+17
+Early Intervention Act. The attendance of said such children in
+17
+18
+special education classes shall be included in the average daily
+18
+19
+membership computations for State Aid purposes.
+19
+20
+C. The State Board of Education is authorized to modify and
+20
+21
+redefine by regulation the eligibility definitions whenever such
+21
+22
+modification is required to receive federal assistance under the
+22
+23
+Individuals with Disabilities Education Act (IDEA), P.L. No. 105-17
+23
+24
+provisions of IDEA. Rules developed pursuant to Section 18-109.5 of
+24
+Req. No. 2304 Page 6
+1
+this title shall provide for such modification and revised
+1
+2
+definitions.
+2
+3
+D. It shall be the duty of each school district to provide
+3
+4
+special education and related services for all children with
+4
+5
+disabilities as herein defined who reside in that school district in
+5
+6
+accordance with the Individuals with Disabilities Education Act
+6
+7
+(IDEA), P.L. No. 105-17 IDEA. This duty may be satisfied by:
+7
+8
+
+Section 11:
+1. The district directly providing special education for such
+8
+9
+children;
+9
+10
+
+Section 12:
+2. The district joining in a cooperative program with another
+10
+11
+district or districts to provide special education for such
+11
+12
+children;
+12
+13
+
+Section 13:
+3. The district joining in a written agreement with a private
+13
+14
+or public institution, licensed residential child care and treatment
+14
+15
+facility, or day treatment facility within such district to provide
+15
+16
+special education for children who are deaf or hard-of-hearing,
+16
+17
+children who are blind or partially blind, or other eligible
+17
+18
+children with disabilities; or
+18
+19
+
+Section 14:
+4. Transferring eligible children and youth with disabilities
+19
+20
+to other school districts which accept them and provide special
+20
+21
+education and related services for such children, with the district
+21
+22
+in which the child resides paying tuition therefor as hereinafter
+22
+23
+provided. For those students who transfer pursuant to the
+23
+24
+provisions of the Education Open Transfer Act, the receiving school
+24
+Req. No. 2304 Page 7
+1
+district shall assume all responsibility for education and shall
+1
+2
+count the student for federal and state funding purposes according
+2
+3
+to the provisions of subsection B of Section 13-103 of this title.
+3
+4
+
+Section 15:
+SECTION 2. AMENDATORY 70 O.S. 2021, Section 13-102, is
+4
+5
+amended to read as follows:
+5
+6
+
+Section 16:
+Section 13-102. A. The determination of whether a child is
+6
+7
+eligible for special education and related services shall be the
+7
+8
+responsibility of the multidisciplinary evaluation team of the
+8
+9
+school district in which such child has legal residence in
+9
+10
+accordance with the provisions of the Individuals with Disabilities
+10
+11
+Education Act (IDEA), P.L. No. 101-476 and the rules approved by the
+11
+12
+State Board of Education. The eligibility of children with
+12
+13
+disabilities shall be reevaluated at least once every three (3)
+13
+14
+years or more frequently if conditions warrant or if the parent or
+14
+15
+teacher of the child requests an evaluation as required under the
+15
+16
+Individuals with Disabilities Education Act (IDEA), P.L. No. 101-476
+16
+17
+IDEA.
+17
+18
+B. A school district or the parent or legal guardian of a child
+18
+19
+may initiate a request for an initial evaluation to determine if he
+19
+20
+or she is a child with a disability. An initial evaluation shall be
+20
+21
+conducted within sixty (60) days of receiving consent from a parent
+21
+22
+or legal guardian. The sixty-day period shall not apply if a parent
+22
+23
+or legal guardian fails to produce the child for the evaluation or
+23
+24
+if the child transfers to another school district.
+24
+Req. No. 2304 Page 8
+1
+
+Section 17:
+1. Consent from a parent or legal guardian to conduct an
+1
+2
+initial evaluation shall not be construed as consent for development
+2
+3
+of an individualized education program (IEP) or consent for a child
+3
+4
+to receive special education and related services.
+4
+5
+
+Section 18:
+2. If a child’s parent or legal guardian fails to respond to a
+5
+6
+request to provide consent or refuses to provide consent for the
+6
+7
+child to receive special education and related services, the school
+7
+8
+district in which the child is enrolled shall be prohibited from
+8
+9
+providing such services. The school district shall not be found to
+9
+10
+be in violation of the provisions of IDEA to provide a free
+10
+11
+appropriate public education to the child and shall not be required
+11
+12
+to convene an IEP team meeting or to develop an IEP for the child.
+12
+13
+
+Section 19:
+3. For a child who is a ward of the state and does not reside
+13
+14
+with his or her parent or legal guardian, a school district shall
+14
+15
+make reasonable efforts to obtain consent for an initial evaluation
+15
+16
+to determine whether the child is a child with a disability.
+16
+17
+
+Section 20:
+4. Consent for an initial evaluation shall not be required if:
+17
+18
+a. despite reasonable efforts to do so, the school
+18
+19
+district cannot discover the whereabouts of the
+19
+20
+child’s parent or legal guardian,
+20
+21
+b. the rights of the child’s parent or parents have been
+21
+22
+terminated in accordance with state law, or
+22
+23
+c. the rights of the child’s parent or parents to make
+23
+24
+educational decisions have been subrogated by a judge
+24
+Req. No. 2304 Page 9
+1
+in accordance with state law and consent for initial
+1
+2
+evaluation has been given by an individual appointed
+2
+3
+by the judge to represent the child.
+3
+4
+C. Any child determined to be a child with a disability and
+4
+5
+eligible shall be permitted to receive such special education and
+5
+6
+related services for a minimum period of twelve (12) years.
+6
+7
+Successful completion of a secondary education program must shall be
+7
+8
+determined through the individualized education program (IEP) IEP
+8
+9
+and transcript records of the student. Eligibility for special
+9
+10
+education and related services shall cease upon a determination and
+10
+11
+documentation of graduation or completion of a secondary education
+11
+12
+program in accordance with the IEP. In no event shall eligibility
+12
+13
+for special education and related services cease prior to a child
+13
+14
+with a disability reaching twenty-two (22) years of age unless he or
+14
+15
+she has graduated with a standard or alternate diploma or otherwise
+15
+16
+completed a secondary education program in accordance with his or
+16
+17
+her IEP.
+17
+18
+D. 1. A school district shall conduct a reevaluation of each
+18
+19
+child with a disability if:
+19
+20
+a. the school district determines that the educational or
+20
+21
+related service needs including improved academic
+21
+22
+achievement and functional performance of the child
+22
+23
+warrant a reevaluation, or
+23
+24
+24
+Req. No. 2304 Page 10
+1
+b. the child’s parent, legal guardian, or teacher
+1
+2
+requests a reevaluation.
+2
+3
+
+Section 21:
+2. A reevaluation shall be conducted at least once every three
+3
+4
+(3) years unless the parent or legal guardian and the school
+4
+5
+district agree that a reevaluation is unnecessary. A reevaluation
+5
+6
+conducted pursuant to this subsection shall not occur more
+6
+7
+frequently than once a year unless the child’s parent or legal
+7
+8
+guardian and the school district agree.
+8
+9
+E. A school district shall provide prior notice to the parent
+9
+10
+or legal guardian of a child with a disability that includes a
+10
+11
+description of any evaluation procedures to be used.
+11
+12
+F. In conducting an evaluation or reevaluation, a school
+12
+13
+district shall:
+13
+14
+
+Section 22:
+1. Use a variety of assessment tools and strategies to gather
+14
+15
+relevant, functional, developmental, and academic information
+15
+16
+including information that may be provided by a parent or legal
+16
+17
+guardian that may assist in determining whether the child is a child
+17
+18
+with a disability and the content of the child’s IEP;
+18
+19
+
+Section 23:
+2. Not use any single measure or assessment as the sole
+19
+20
+criterion for determining whether a child is a child with a
+20
+21
+disability or determining an appropriate educational program for the
+21
+22
+child;
+22
+23
+23
+24
+24
+Req. No. 2304 Page 11
+1
+
+Section 24:
+3. Use technically sound instruments that may assess the
+1
+2
+relative contribution of cognitive and behavioral factors in
+2
+3
+addition to physical or developmental factors;
+3
+4
+
+Section 25:
+4. Ensure that assessments and other evaluation materials used
+4
+5
+to assess a child:
+5
+6
+a. are selected and administered so as not to be
+6
+7
+discriminatory on a racial or cultural basis,
+7
+8
+b. are provided and administered in the language and form
+8
+9
+most likely to yield accurate information on what the
+9
+10
+child knows and can do academically, developmentally,
+10
+11
+and functionally, unless it is not feasible to so
+11
+12
+provide or administer,
+12
+13
+c. are used for purposes for which assessments or
+13
+14
+measures are valid and reliable,
+14
+15
+d. are administered by trained and knowledgeable
+15
+16
+personnel, and
+16
+17
+e. are administered in accordance with any instructions
+17
+18
+provided by the producer of such assessments;
+18
+19
+
+Section 26:
+5. Ensure a child is assessed in all areas of suspected
+19
+20
+disability;
+20
+21
+
+Section 27:
+6. Review existing evaluation data on the child including
+21
+22
+evaluations and information provided by the parent or legal guardian
+22
+23
+of the child; current classroom-based, local, or state assessments;
+23
+24
+24
+Req. No. 2304 Page 12
+1
+classroom-based observations; and observations by teachers and
+1
+2
+related service providers; and
+2
+3
+
+Section 28:
+7. Ensure that assessments of a child with a disability who
+3
+4
+transfers from one school district to another in the same academic
+4
+5
+year are coordinated with the sending and receiving school districts
+5
+6
+as necessary and as expeditiously as possible to ensure prompt
+6
+7
+completion of evaluations.
+7
+8
+G. Upon completion of an evaluation or reevaluation conducted
+8
+9
+pursuant to this section, the determination of whether a child is a
+9
+10
+child with a disability and the educational needs of the child shall
+10
+11
+be made by an IEP team. The school district shall provide the
+11
+12
+child’s parent or legal guardian a copy of the evaluation report and
+12
+13
+the documentation determining eligibility for special education and
+13
+14
+related services.
+14
+15
+H. 1. A member of an IEP team shall not be required to attend
+15
+16
+an IEP meeting, in whole or in part, if the parent or legal guardian
+16
+17
+of the child with a disability and the school district agree that
+17
+18
+such attendance is not necessary.
+18
+19
+
+Section 29:
+2. A member of an IEP team may be excused from attending an IEP
+19
+20
+meeting, in whole or in part, when the meeting involves a
+20
+21
+modification to or discussion of the member’s area of curriculum or
+21
+22
+related services if the parent or legal guardian of the child with a
+22
+23
+disability and the school district provide written consent for
+23
+24
+24
+Req. No. 2304 Page 13
+1
+excusal and the IEP team member submits in writing input into the
+1
+2
+development of the IEP prior to the meeting.
+2
+3
+I. A child shall not be determined to be a child with a
+3
+4
+disability and eligible for special education and related services
+4
+5
+if the determinant factor is:
+5
+6
+
+Section 30:
+1. A lack of appropriate instruction in reading including in
+6
+7
+the essential components of reading instruction;
+7
+8
+
+Section 31:
+2. A lack of instruction in mathematics; or
+8
+9
+
+Section 32:
+3. Limited English proficiency.
+9
+10
+J. In determining whether a child has a specific learning
+10
+11
+disability as defined by Section 18-109.5 of this title, a school
+11
+12
+district shall not be required to take into consideration whether a
+12
+13
+child has a severe discrepancy between achievement and intellectual
+13
+14
+ability in oral expression, listening comprehension, written
+14
+15
+expression, basic reading skills, reading comprehension,
+15
+16
+mathematical calculation, or mathematical reasoning. A school
+16
+17
+district may use a process that determines whether a child responds
+17
+18
+to specific scientific, research-based intervention as a part of the
+18
+19
+evaluation or reevaluation procedures used in accordance with
+19
+20
+subsection F of this section.
+20
+21
+
+Section 33:
+SECTION 3. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 13-103.1 of Title 70, unless
+22
+23
+there is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 2304 Page 14
+1
+A. The State Board of Education shall establish and maintain
+1
+2
+policies and procedures to ensure that children with disabilities
+2
+3
+and their parents or legal guardians are guaranteed procedural
+3
+4
+safeguards with respect to the provision of a free appropriate
+4
+5
+public education. The policies and procedures shall include:
+5
+6
+
+Section 34:
+1. An opportunity for the parent or legal guardian of a child
+6
+7
+with a disability to examine all records relating to such child and
+7
+8
+to participate in meetings regarding the identification, evaluation,
+8
+9
+and educational placement of the child and regarding the provision
+9
+10
+of a free appropriate public education to the child, and to obtain
+10
+11
+an independent educational evaluation of the child;
+11
+12
+
+Section 35:
+2. Protection of the rights of a child with a disability when
+12
+13
+the child’s parent or legal guardian is unknown; the school district
+13
+14
+cannot, after reasonable efforts, locate the child’s parent or legal
+14
+15
+guardian; or the child is a ward of the state including the
+15
+16
+assignment of an individual to act as a surrogate for the parent or
+16
+17
+legal guardian. A surrogate shall not be an employee of the State
+17
+18
+Department of Education, the school district in which the child is
+18
+19
+enrolled, or any other agency that is involved in the education or
+19
+20
+care of the child;
+20
+21
+
+Section 36:
+3. Written prior notice to the parent or legal guardian of a
+21
+22
+child with a disability who is under the age of twenty-two (22)
+22
+23
+whenever the school district proposes to initiate or change or
+23
+24
+refuses to initiate or change the identification, evaluation, or
+24
+Req. No. 2304 Page 15
+1
+educational placement of the child or the provision of a free
+1
+2
+appropriate public education to the child. The notice shall include
+2
+3
+information about policies and procedures for mediation available to
+3
+4
+the parent or legal guardian pursuant to subsection F of this
+4
+5
+
+Section 37:
+section. Notice shall be provided in the native language of the
+5
+6
+child’s parent or legal guardian unless it is not feasible to do so;
+6
+7
+
+Section 38:
+4. An opportunity for mediation, which shall:
+7
+8
+a. be voluntary on the part of the parties,
+8
+9
+b. not be used to deny or delay the rights of a parent or
+9
+10
+legal guardian to a due process hearing as provided
+10
+11
+for in subsection E of this section, and
+11
+12
+c. be conducted by a qualified and impartial mediator who
+12
+13
+is trained in effective mediation techniques;
+13
+14
+
+Section 39:
+5. An opportunity for any party to present a complaint:
+14
+15
+a. with respect to any matter relating to the
+15
+16
+identification, evaluation, or educational placement
+16
+17
+of the child or the provision of a free appropriate
+17
+18
+public education to such child, and
+18
+19
+b. which sets forth an alleged violation that occurred
+19
+20
+not more than two (2) years before the date the
+20
+21
+child’s parent or legal guardian or the school
+21
+22
+district in which the child is enrolled knew or should
+22
+23
+have known about an alleged action that forms the
+23
+24
+basis of the complaint;
+24
+Req. No. 2304 Page 16
+1
+
+Section 40:
+6. Requirements that either party, or the attorney representing
+1
+2
+a party, provide due process complaint notice to the other party and
+2
+3
+such notice is submitted to the State Department of Education. The
+3
+4
+notice shall include:
+4
+5
+a. the name of the child,
+5
+6
+b. the address of the residence of the child, or
+6
+7
+available contact information if the child is
+7
+8
+considered homeless children and youth as defined in
+8
+9
+
+Section 41:
+Section 600 of Title 10 of the Oklahoma Statutes,
+9
+10
+c. the name of the school district in which the child is
+10
+11
+enrolled,
+11
+12
+d. a description of the nature of the problem relating to
+12
+13
+proposed initiation or change including facts related
+13
+14
+to such problem, and
+14
+15
+e. a proposed resolution of the problem to the extent
+15
+16
+known and available; and
+16
+17
+
+Section 42:
+7. A model form to assist parents and legal guardians in filing
+17
+18
+a complaint and due process complaint notice in accordance with the
+18
+19
+provisions of this subsection.
+19
+20
+B. Each school district in this state shall provide a copy of
+20
+21
+the procedural safeguards to parents and legal guardians of a child
+21
+22
+with a disability enrolled in the school district annually, upon
+22
+23
+initial referral or upon request for an initial evaluation, upon the
+23
+24
+first occurrence of filing a complaint, and upon request of a parent
+24
+Req. No. 2304 Page 17
+1
+or legal guardian. A school district may post the procedural
+1
+2
+safeguards on its website.
+2
+3
+C. Within ten (10) days of receiving a due process complaint
+3
+4
+notice as provided for in subsection A of this section, a school
+4
+5
+district shall submit to the child’s parent or legal guardian a
+5
+6
+response that includes the following:
+6
+7
+
+Section 43:
+1. An explanation of why the school district proposed or
+7
+8
+refused to take the action raised in the complaint;
+8
+9
+
+Section 44:
+2. A description of other options that the IEP team considered
+9
+10
+and the reasons why those options were rejected;
+10
+11
+
+Section 45:
+3. A description of each evaluation procedure, assessment,
+11
+12
+record, or report the agency used as the basis for the proposed or
+12
+13
+refused action; and
+13
+14
+
+Section 46:
+4. A description of the factors that are relevant to the school
+14
+15
+district’s proposal or refusal.
+15
+16
+D. The parent or legal guardian of a child with a disability
+16
+17
+who submits a due process complaint notice as provided for in
+17
+18
+subsection A of this section shall be given an opportunity for an
+18
+19
+impartial due process hearing, which shall be conducted by the State
+19
+20
+Department of Education.
+20
+21
+E. Policies and procedures for a due process hearing shall
+21
+22
+include:
+22
+23
+
+Section 47:
+1. a. A request for a due process hearing shall be made by
+23
+24
+the parent or legal guardian of a child with a
+24
+Req. No. 2304 Page 18
+1
+disability or the State Department of Education within
+1
+2
+two (2) years of the date the parent or legal guardian
+2
+3
+or the Department knew or should have known about the
+3
+4
+alleged action that forms the basis of the complaint.
+4
+5
+b. The time limitation provided in this paragraph shall
+5
+6
+not apply if the parent or legal guardian of a child
+6
+7
+was prevented from requesting the hearing due to
+7
+8
+specific misrepresentations by the school district
+8
+9
+that it had resolved the problem forming the basis of
+9
+10
+the complaint or the school district withheld required
+10
+11
+information from the parent or legal guardian.
+11
+12
+
+Section 48:
+2. Within fifteen (15) days of receiving a due process
+12
+13
+complaint notice as provided for in subsection A of this section,
+13
+14
+the party providing a hearing officer shall provide notification of
+14
+15
+such hearing.
+15
+16
+
+Section 49:
+3. A hearing officer shall:
+16
+17
+a. not be an employee of the State Department of
+17
+18
+Education or a school district involved in the
+18
+19
+education or care of the child,
+19
+20
+b. not be a person having a personal or professional
+20
+21
+interest that conflicts with the person’s objectivity
+21
+22
+in the hearing, and
+22
+23
+c. possess knowledge of and the ability to understand the
+23
+24
+provisions of the Individuals with Disabilities
+24
+Req. No. 2304 Page 19
+1
+Education Act (IDEA), legal interpretations thereof,
+1
+2
+and associated federal and state regulations.
+2
+3
+
+Section 50:
+4. Within five (5) days of receiving the notification provided
+3
+4
+for in paragraph 1 of this subsection, the hearing officer shall
+4
+5
+make a determination of whether the due process complaint notice is
+5
+6
+facially sufficient.
+6
+7
+
+Section 51:
+5. A party may amend its due process complaint notice only if:
+7
+8
+a. the other party consents in writing to such amendment
+8
+9
+and is given the opportunity to resolve the complaint,
+9
+10
+or
+10
+11
+b. the hearing officer grants permission no later than
+11
+12
+five (5) days before a due process hearing is
+12
+13
+scheduled.
+13
+14
+
+Section 52:
+6. Within five (5) days prior to a hearing conducted pursuant
+14
+15
+to this subsection, each party shall disclose to all parties all
+15
+16
+evaluations completed and recommendations made based on such
+16
+17
+evaluations.
+17
+18
+
+Section 53:
+7. A decision made by a hearing officer shall be made on
+18
+19
+substantive grounds based on a determination of whether the child
+19
+20
+with a disability received a free appropriate public education.
+20
+21
+Provided, however, a hearing officer may find that a child with a
+21
+22
+disability did not receive a free appropriate public education based
+22
+23
+on a procedural violation only if the procedural violation:
+23
+24
+24
+Req. No. 2304 Page 20
+1
+a. impeded the child’s right to a free appropriate public
+1
+2
+education,
+2
+3
+b. significantly impeded the opportunity of a parent or
+3
+4
+legal guardian to participate in the decision-making
+4
+5
+process regarding the provision of a free appropriate
+5
+6
+public education to the child, or
+6
+7
+c. caused a deprivation of educational benefits.
+7
+8
+
+Section 54:
+8. Any party aggrieved by the findings and decision rendered in
+8
+9
+a due process hearing conducted by the State Department of Education
+9
+10
+pursuant to the provisions of this subsection may appeal such
+10
+11
+findings and decision to the Department. The Department shall
+11
+12
+conduct an impartial review of the findings and decision, and the
+12
+13
+officer conducting such review shall make an independent decision
+13
+14
+upon completion of such review.
+14
+15
+
+Section 55:
+9. Any party to a due process hearing conducted pursuant to the
+15
+16
+provisions of this subsection shall be accorded:
+16
+17
+a. the right to be accompanied and advised by counsel and
+17
+18
+by individuals with special knowledge or training
+18
+19
+regarding the problems of children with disabilities,
+19
+20
+b. the right to present evidence and confront, cross
+20
+21
+examine, and compel the attendance of witnesses, and
+21
+22
+c. the right to a written or, at the option of a child’s
+22
+23
+parent or legal guardian, an electronic verbatim
+23
+24
+record of such hearing.
+24
+Req. No. 2304 Page 21
+1
+
+Section 56:
+10. Any party who brings a civil action with regard to a due
+1
+2
+process complaint shall have ninety (90) days from the date of the
+2
+3
+decision of a hearing officer to bring such action.
+3
+4
+F. The State Department of Education shall adopt policies and
+4
+5
+procedures for mediation to resolve disputes over the
+5
+6
+identification, evaluation, educational placement, manifestation
+6
+7
+determination, interim alternative educational placement, or the
+7
+8
+provision of a free appropriate public education to a child with a
+8
+9
+disability. The policies and procedures shall include:
+9
+10
+
+Section 57:
+1. A conciliation conference, which a parent or legal guardian
+10
+11
+may request to meet with the IEP team or appropriate school district
+11
+12
+staff to discuss any objections to the prior notice received
+12
+13
+pursuant to paragraph 3 of subsection A of this section. Within
+13
+14
+five (5) days after the conciliation conference, the school district
+14
+15
+shall provide the parent or legal guardian a conciliation conference
+15
+16
+memorandum describing the district’s final proposed services for the
+16
+17
+student;
+17
+18
+
+Section 58:
+2. A facilitated IEP team meeting led by an impartial
+18
+19
+facilitator provided by the State Department of Education;
+19
+20
+
+Section 59:
+3. An opportunity to meet with a disinterested party. The
+20
+21
+State Department of Education shall develop and maintain a list of
+21
+22
+qualified mediators who are knowledgeable in the laws and
+22
+23
+regulations relating to the provision of special education and
+23
+24
+related services;
+24
+Req. No. 2304 Page 22
+1
+
+Section 60:
+4. A provision stating that the cost of the mediation process
+1
+2
+shall be borne by the state;
+2
+3
+
+Section 61:
+5. A requirement that mediation sessions be scheduled in a
+3
+4
+timely manner and be held in a location that is convenient to the
+4
+5
+parties to the dispute. A district shall hold a conciliation
+5
+6
+conference, facilitated IEP team meeting, or other mediation within
+6
+7
+ten (10) calendar days from the date the public school district
+7
+8
+receives the request from a parent or legal guardian;
+8
+9
+
+Section 62:
+6. A confidentiality provision to ensure that discussions that
+9
+10
+occur during the mediation process cannot be used as evidence in any
+10
+11
+subsequent due process hearing or civil proceeding;
+11
+12
+
+Section 63:
+7. A requirement to execute a written, legally binding
+12
+13
+agreement when a resolution is reached through the mediation
+13
+14
+process. The agreement shall be signed by the parent or legal
+14
+15
+guardian of the child with a disability and an authorized school
+15
+16
+district representative;
+16
+17
+
+Section 64:
+8. A provision allowing any party to a mediation conducted
+17
+18
+pursuant to the provisions of this subsection to request additional
+18
+19
+mediation to address implementation of any mediated agreement; and
+19
+20
+
+Section 65:
+9. A provision prohibiting mediators, facilitators, and any of
+20
+21
+their records associated with a mediation conducted pursuant to the
+21
+22
+provisions of this section from being subject to subpoena in a civil
+22
+23
+action.
+23
+24
+24
+Req. No. 2304 Page 23
+1
+G. The State Department of Education shall develop and publish
+1
+2
+on its website a model form to be used by parents and legal
+2
+3
+guardians to request any of the mediation procedures provided for in
+3
+4
+subsection F of this section.
+4
+5
+H. While a due process hearing or mediation session is pending,
+5
+6
+a child with a disability shall remain in his or her current
+6
+7
+educational placement, unless the State Department of Education, the
+7
+8
+school district in which the student is enrolled, or his or her
+8
+9
+parent or legal guardian otherwise agree. If the child was applying
+9
+10
+for initial admission to a school district, he or she shall be
+10
+11
+placed in the school district until all such proceedings have been
+11
+12
+completed.
+12
+13
+I. The State Board of Education may promulgate rules to
+13
+14
+implement the provisions of this section.
+14
+15
+
+Section 66:
+SECTION 4. This act shall become effective July 1, 2026.
+15
+16
+
+Section 67:
+SECTION 5. It being immediately necessary for the preservation
+16
+17
+of the public peace, health, or safety, an emergency is hereby
+17
+18
+declared to exist, by reason whereof this act shall take effect and
+18
+19
+be in full force from and after its passage and approval.
+19
+20
+20
+21
+60-2-2304 EB 1/15/2026 9:20:30 AM
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2304 Page 24
+[DELETED:  P B H]
+[DELETED:  P h m a]
+[DELETED:  P a a a a a a]
+[DELETED:  P t b a t b]
+[DELETED:  P t a a a a o t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P d t t]
+[DELETED:  P t]
+[DELETED:  P t]
+[DELETED:  P a a a a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P b n b w w]
+[DELETED:  P t t t a a]
+[DELETED:  P a A]
+[DELETED:  P T n n p]
+[DELETED:  P t t]
+[DELETED:  P i s c t t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P E 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1974 By: Hicks
+3
+4
+4
+5
+AS INTRODUCED
+5
+6
+An Act relating to students; amending 70 O.S. 2021,
+6
+Section 13-101, which relates to services for
+7
+children with disabilities; defining terms; removing
+7
+definition; updating statutory language; updating
+8
+statutory references; amending 70 O.S. 2021, Section
+8
+13-102, which relates to determining eligibility for
+9
+certain services; allowing a school district or
+9
+certain parent or legal guardian to initiate request
+10
+for evaluation; requiring evaluation to be conducted
+10
+within certain time frame; providing certain
+11
+construction; prohibiting provision of certain
+11
+services without consent; providing for evaluation of
+12
+certain children; providing exceptions to consent;
+12
+clarifying eligibility for certain services;
+13
+providing requirements for reevaluation; requiring
+13
+prior notice; requiring certain determination to be
+14
+made by certain team; providing for meetings of
+14
+individualized education program teams; prohibiting
+15
+certain determination from being made based on
+15
+certain determinant factors; providing for
+16
+determination of specific learning disability;
+16
+updating statutory references; updating statutory
+17
+language; directing the State Board of Education to
+17
+establish and maintain certain policies and
+18
+procedures; providing for contents of policies and
+18
+procedures; directing school districts to provide
+19
+procedural safeguards to certain parents and legal
+19
+guardians; providing procedures for due process
+20
+complaints; providing opportunity for impartial due
+20
+process hearing; providing policies and procedures
+21
+for due process hearings; directing the State
+21
+Department of Education to adopt certain policies and
+22
+procedures for mediation; directing the Department to
+22
+develop and publish certain form; providing for
+23
+placement of child while certain hearings or sessions
+23
+are pending; providing for promulgation of rules;
+24
+24
+Req. No. 2304 Page 1
+
+1
+providing for codification; providing an effective
+1
+date; and declaring an emergency.
+2
+2
+3
+3
+4
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+4
+5
+SECTION 1. AMENDATORY 70 O.S. 2021, Section 13-101, is
+5
+6
+amended to read as follows:
+6
+7
+Section 13-101. A. For the purposes of this title:
+7
+8
+1. “Child with a disability” means a child who is at least
+8
+9
+three (3) years of age but has not reached twenty-two (22) years of
+9
+10
+age with intellectual disabilities, hearing impairments, speech or
+10
+11
+language impairments, visual impairments, serious emotional
+11
+12
+disturbance, orthopedic impairments, autism, traumatic brain injury,
+12
+13
+other health impairments, or specific learning disabilities and who,
+13
+14
+by reason thereof, needs special education and related services;
+14
+15
+2. “Free appropriate public education” means special education
+15
+16
+and related services that:
+16
+17
+a. have been provided at public expense, under public
+17
+18
+supervision and direction, and without charge,
+18
+19
+b. meet the standards of the State Department of
+19
+20
+Education, and
+20
+21
+c. are provided in conformity with a child’s IEP;
+21
+22
+3. “Individualized education program” or “IEP” means a written
+22
+23
+statement for each child with a disability that is developed,
+23
+24
+24
+Req. No. 2304 Page 2
+
+1
+reviewed, and revised in accordance with the provisions of Section
+1
+2
+13-102 of this title. The IEP shall include:
+2
+3
+a. a statement of the child’s present levels of academic
+3
+4
+achievement and functional performance,
+4
+5
+b. a statement of measurable annual goals including
+5
+6
+academic and functional goals,
+6
+7
+c. a description of how the child’s progress toward
+7
+8
+meeting the annual goals will be measured and when
+8
+9
+periodic reports on the progress the child is making
+9
+10
+toward meeting the annual goals is to be provided,
+10
+11
+d. a statement of the special education and related
+11
+12
+services and supplementary aids and services, based on
+12
+13
+peer-reviewed research to the extent practicable, to
+13
+14
+be provided to the child, or on behalf of the child,
+14
+15
+and a statement of the program modifications or
+15
+16
+supports for school personnel that are to be provided
+16
+17
+for the child,
+17
+18
+e. an explanation of the extent, if any, to which the
+18
+19
+child will not participate with nondisabled children
+19
+20
+in the regular class and activities,
+20
+21
+f. a statement of any individual appropriate
+21
+22
+accommodations that are necessary to measure the
+22
+23
+academic achievement and functional performance of the
+23
+24
+child on statewide assessments and district-
+24
+Req. No. 2304 Page 3
+
+1
+administered assessments. If the IEP team determines,
+1
+2
+and parental consent is provided as required by
+2
+3
+Section 13-114.6 of this title, that the child shall
+3
+4
+take an alternate assessment, the IEP shall include a
+4
+5
+statement of why the child cannot participate in the
+5
+6
+regular assessment and why the alternate assessment
+6
+7
+selected is appropriate for the child,
+7
+8
+g. the projected date for the beginning of the services
+8
+9
+and modifications including the anticipated frequency,
+9
+10
+location, and duration of such services and
+10
+11
+modifications, and
+11
+12
+h. beginning no later than the first IEP to be in effect
+12
+13
+when the child is age sixteen (16) years and updated
+13
+14
+annually thereafter:
+14
+15
+(1) appropriate measurable postsecondary goals based
+15
+16
+on age-appropriate transition assessments related
+16
+17
+to training, education, employment, and, where
+17
+18
+appropriate, independent living skills,
+18
+19
+(2) transition services needed to assist the child in
+19
+20
+reaching the postsecondary goals, and
+20
+21
+(3) beginning no later than one (1) year before the
+21
+22
+child reaches age eighteen (18) years, a
+22
+23
+statement that the child has been informed of his
+23
+24
+24
+Req. No. 2304 Page 4
+
+1
+or her rights, if any, that will transfer upon
+1
+2
+reaching age eighteen (18) years; and
+2
+3
+4. “Individualized education program team” or “IEP team” means
+3
+4
+a group of individuals composed of:
+4
+5
+a. the parents or legal guardians of a child with a
+5
+6
+disability,
+6
+7
+b. at least one regular education teacher of the child
+7
+8
+with a disability if the child is participating in the
+8
+9
+regular education environment,
+9
+10
+c. at least one special education teacher or, where
+10
+11
+appropriate, at least one special education provider,
+11
+12
+d. a representative of the school district,
+12
+13
+e. an individual who can interpret the instructional
+13
+14
+implications of evaluation results who may also meet
+14
+15
+the requirements of subparagraphs b through d of this
+15
+16
+paragraph,
+16
+17
+f. other individuals who have knowledge or special
+17
+18
+expertise regarding the child including related
+18
+19
+service personnel, at the discretion of the child’s
+19
+20
+parent or legal guardian or the school district, and
+20
+21
+g. the child with a disability, whenever appropriate.
+21
+22
+B. 1. The several school School districts of Oklahoma in this
+22
+23
+state are hereby authorized to provide special education and related
+23
+24
+services necessary for children with disabilities as hereinafter
+24
+Req. No. 2304 Page 5
+
+1
+defined as provided for in the Individuals with Disabilities
+1
+2
+Education Act (IDEA) and the provisions of this act. Two or more
+2
+3
+school districts may establish cooperative programs of special
+3
+4
+education for children with disabilities when such arrangement is
+4
+5
+approved by the State Board of Education. Funds may be expended for
+5
+6
+school services for an additional period during the summer months
+6
+7
+for approved programs for qualified children with disabilities,
+7
+8
+provided their individualized education program (I.E.P.) IEP states
+8
+9
+the need for extended school year special education and related
+9
+10
+services. Children with disabilities shall mean children, as
+10
+11
+defined in the Individuals with Disabilities Education Act (IDEA),
+11
+12
+P.L. No. 105-17, who are three (3) years of age.
+12
+13
+2. Provided, on On and after July 1, 1991, children from age
+13
+14
+birth through two (2) years (0-36 months) of age three (3) years who
+14
+15
+meet the eligibility criteria specified in Section 13-123 of this
+15
+16
+title, shall be served pursuant to the provisions of the Oklahoma
+16
+17
+Early Intervention Act. The attendance of said such children in
+17
+18
+special education classes shall be included in the average daily
+18
+19
+membership computations for State Aid purposes.
+19
+20
+C. The State Board of Education is authorized to modify and
+20
+21
+redefine by regulation the eligibility definitions whenever such
+21
+22
+modification is required to receive federal assistance under the
+22
+23
+Individuals with Disabilities Education Act (IDEA), P.L. No. 105-17
+23
+24
+provisions of IDEA. Rules developed pursuant to Section 18-109.5 of
+24
+Req. No. 2304 Page 6
+
+1
+this title shall provide for such modification and revised
+1
+2
+definitions.
+2
+3
+D. It shall be the duty of each school district to provide
+3
+4
+special education and related services for all children with
+4
+5
+disabilities as herein defined who reside in that school district in
+5
+6
+accordance with the Individuals with Disabilities Education Act
+6
+7
+(IDEA), P.L. No. 105-17 IDEA. This duty may be satisfied by:
+7
+8
+1. The district directly providing special education for such
+8
+9
+children;
+9
+10
+2. The district joining in a cooperative program with another
+10
+11
+district or districts to provide special education for such
+11
+12
+children;
+12
+13
+3. The district joining in a written agreement with a private
+13
+14
+or public institution, licensed residential child care and treatment
+14
+15
+facility, or day treatment facility within such district to provide
+15
+16
+special education for children who are deaf or hard-of-hearing,
+16
+17
+children who are blind or partially blind, or other eligible
+17
+18
+children with disabilities; or
+18
+19
+4. Transferring eligible children and youth with disabilities
+19
+20
+to other school districts which accept them and provide special
+20
+21
+education and related services for such children, with the district
+21
+22
+in which the child resides paying tuition therefor as hereinafter
+22
+23
+provided. For those students who transfer pursuant to the
+23
+24
+provisions of the Education Open Transfer Act, the receiving school
+24
+Req. No. 2304 Page 7
+
+1
+district shall assume all responsibility for education and shall
+1
+2
+count the student for federal and state funding purposes according
+2
+3
+to the provisions of subsection B of Section 13-103 of this title.
+3
+4
+SECTION 2. AMENDATORY 70 O.S. 2021, Section 13-102, is
+4
+5
+amended to read as follows:
+5
+6
+Section 13-102. A. The determination of whether a child is
+6
+7
+eligible for special education and related services shall be the
+7
+8
+responsibility of the multidisciplinary evaluation team of the
+8
+9
+school district in which such child has legal residence in
+9
+10
+accordance with the provisions of the Individuals with Disabilities
+10
+11
+Education Act (IDEA), P.L. No. 101-476 and the rules approved by the
+11
+12
+State Board of Education. The eligibility of children with
+12
+13
+disabilities shall be reevaluated at least once every three (3)
+13
+14
+years or more frequently if conditions warrant or if the parent or
+14
+15
+teacher of the child requests an evaluation as required under the
+15
+16
+Individuals with Disabilities Education Act (IDEA), P.L. No. 101-476
+16
+17
+IDEA.
+17
+18
+B. A school district or the parent or legal guardian of a child
+18
+19
+may initiate a request for an initial evaluation to determine if he
+19
+20
+or she is a child with a disability. An initial evaluation shall be
+20
+21
+conducted within sixty (60) days of receiving consent from a parent
+21
+22
+or legal guardian. The sixty-day period shall not apply if a parent
+22
+23
+or legal guardian fails to produce the child for the evaluation or
+23
+24
+if the child transfers to another school district.
+24
+Req. No. 2304 Page 8
+
+1
+1. Consent from a parent or legal guardian to conduct an
+1
+2
+initial evaluation shall not be construed as consent for development
+2
+3
+of an individualized education program (IEP) or consent for a child
+3
+4
+to receive special education and related services.
+4
+5
+2. If a child’s parent or legal guardian fails to respond to a
+5
+6
+request to provide consent or refuses to provide consent for the
+6
+7
+child to receive special education and related services, the school
+7
+8
+district in which the child is enrolled shall be prohibited from
+8
+9
+providing such services. The school district shall not be found to
+9
+10
+be in violation of the provisions of IDEA to provide a free
+10
+11
+appropriate public education to the child and shall not be required
+11
+12
+to convene an IEP team meeting or to develop an IEP for the child.
+12
+13
+3. For a child who is a ward of the state and does not reside
+13
+14
+with his or her parent or legal guardian, a school district shall
+14
+15
+make reasonable efforts to obtain consent for an initial evaluation
+15
+16
+to determine whether the child is a child with a disability.
+16
+17
+4. Consent for an initial evaluation shall not be required if:
+17
+18
+a. despite reasonable efforts to do so, the school
+18
+19
+district cannot discover the whereabouts of the
+19
+20
+child’s parent or legal guardian,
+20
+21
+b. the rights of the child’s parent or parents have been
+21
+22
+terminated in accordance with state law, or
+22
+23
+c. the rights of the child’s parent or parents to make
+23
+24
+educational decisions have been subrogated by a judge
+24
+Req. No. 2304 Page 9
+
+1
+in accordance with state law and consent for initial
+1
+2
+evaluation has been given by an individual appointed
+2
+3
+by the judge to represent the child.
+3
+4
+C. Any child determined to be a child with a disability and
+4
+5
+eligible shall be permitted to receive such special education and
+5
+6
+related services for a minimum period of twelve (12) years.
+6
+7
+Successful completion of a secondary education program must shall be
+7
+8
+determined through the individualized education program (IEP) IEP
+8
+9
+and transcript records of the student. Eligibility for special
+9
+10
+education and related services shall cease upon a determination and
+10
+11
+documentation of graduation or completion of a secondary education
+11
+12
+program in accordance with the IEP. In no event shall eligibility
+12
+13
+for special education and related services cease prior to a child
+13
+14
+with a disability reaching twenty-two (22) years of age unless he or
+14
+15
+she has graduated with a standard or alternate diploma or otherwise
+15
+16
+completed a secondary education program in accordance with his or
+16
+17
+her IEP.
+17
+18
+D. 1. A school district shall conduct a reevaluation of each
+18
+19
+child with a disability if:
+19
+20
+a. the school district determines that the educational or
+20
+21
+related service needs including improved academic
+21
+22
+achievement and functional performance of the child
+22
+23
+warrant a reevaluation, or
+23
+24
+24
+Req. No. 2304 Page 10
+
+1
+b. the child’s parent, legal guardian, or teacher
+1
+2
+requests a reevaluation.
+2
+3
+2. A reevaluation shall be conducted at least once every three
+3
+4
+(3) years unless the parent or legal guardian and the school
+4
+5
+district agree that a reevaluation is unnecessary. A reevaluation
+5
+6
+conducted pursuant to this subsection shall not occur more
+6
+7
+frequently than once a year unless the child’s parent or legal
+7
+8
+guardian and the school district agree.
+8
+9
+E. A school district shall provide prior notice to the parent
+9
+10
+or legal guardian of a child with a disability that includes a
+10
+11
+description of any evaluation procedures to be used.
+11
+12
+F. In conducting an evaluation or reevaluation, a school
+12
+13
+district shall:
+13
+14
+1. Use a variety of assessment tools and strategies to gather
+14
+15
+relevant, functional, developmental, and academic information
+15
+16
+including information that may be provided by a parent or legal
+16
+17
+guardian that may assist in determining whether the child is a child
+17
+18
+with a disability and the content of the child’s IEP;
+18
+19
+2. Not use any single measure or assessment as the sole
+19
+20
+criterion for determining whether a child is a child with a
+20
+21
+disability or determining an appropriate educational program for the
+21
+22
+child;
+22
+23
+23
+24
+24
+Req. No. 2304 Page 11
+
+1
+3. Use technically sound instruments that may assess the
+1
+2
+relative contribution of cognitive and behavioral factors in
+2
+3
+addition to physical or developmental factors;
+3
+4
+4. Ensure that assessments and other evaluation materials used
+4
+5
+to assess a child:
+5
+6
+a. are selected and administered so as not to be
+6
+7
+discriminatory on a racial or cultural basis,
+7
+8
+b. are provided and administered in the language and form
+8
+9
+most likely to yield accurate information on what the
+9
+10
+child knows and can do academically, developmentally,
+10
+11
+and functionally, unless it is not feasible to so
+11
+12
+provide or administer,
+12
+13
+c. are used for purposes for which assessments or
+13
+14
+measures are valid and reliable,
+14
+15
+d. are administered by trained and knowledgeable
+15
+16
+personnel, and
+16
+17
+e. are administered in accordance with any instructions
+17
+18
+provided by the producer of such assessments;
+18
+19
+5. Ensure a child is assessed in all areas of suspected
+19
+20
+disability;
+20
+21
+6. Review existing evaluation data on the child including
+21
+22
+evaluations and information provided by the parent or legal guardian
+22
+23
+of the child; current classroom-based, local, or state assessments;
+23
+24
+24
+Req. No. 2304 Page 12
+
+1
+classroom-based observations; and observations by teachers and
+1
+2
+related service providers; and
+2
+3
+7. Ensure that assessments of a child with a disability who
+3
+4
+transfers from one school district to another in the same academic
+4
+5
+year are coordinated with the sending and receiving school districts
+5
+6
+as necessary and as expeditiously as possible to ensure prompt
+6
+7
+completion of evaluations.
+7
+8
+G. Upon completion of an evaluation or reevaluation conducted
+8
+9
+pursuant to this section, the determination of whether a child is a
+9
+10
+child with a disability and the educational needs of the child shall
+10
+11
+be made by an IEP team. The school district shall provide the
+11
+12
+child’s parent or legal guardian a copy of the evaluation report and
+12
+13
+the documentation determining eligibility for special education and
+13
+14
+related services.
+14
+15
+H. 1. A member of an IEP team shall not be required to attend
+15
+16
+an IEP meeting, in whole or in part, if the parent or legal guardian
+16
+17
+of the child with a disability and the school district agree that
+17
+18
+such attendance is not necessary.
+18
+19
+2. A member of an IEP team may be excused from attending an IEP
+19
+20
+meeting, in whole or in part, when the meeting involves a
+20
+21
+modification to or discussion of the member’s area of curriculum or
+21
+22
+related services if the parent or legal guardian of the child with a
+22
+23
+disability and the school district provide written consent for
+23
+24
+24
+Req. No. 2304 Page 13
+
+1
+excusal and the IEP team member submits in writing input into the
+1
+2
+development of the IEP prior to the meeting.
+2
+3
+I. A child shall not be determined to be a child with a
+3
+4
+disability and eligible for special education and related services
+4
+5
+if the determinant factor is:
+5
+6
+1. A lack of appropriate instruction in reading including in
+6
+7
+the essential components of reading instruction;
+7
+8
+2. A lack of instruction in mathematics; or
+8
+9
+3. Limited English proficiency.
+9
+10
+J. In determining whether a child has a specific learning
+10
+11
+disability as defined by Section 18-109.5 of this title, a school
+11
+12
+district shall not be required to take into consideration whether a
+12
+13
+child has a severe discrepancy between achievement and intellectual
+13
+14
+ability in oral expression, listening comprehension, written
+14
+15
+expression, basic reading skills, reading comprehension,
+15
+16
+mathematical calculation, or mathematical reasoning. A school
+16
+17
+district may use a process that determines whether a child responds
+17
+18
+to specific scientific, research-based intervention as a part of the
+18
+19
+evaluation or reevaluation procedures used in accordance with
+19
+20
+subsection F of this section.
+20
+21
+SECTION 3. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 13-103.1 of Title 70, unless
+22
+23
+there is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 2304 Page 14
+
+1
+A. The State Board of Education shall establish and maintain
+1
+2
+policies and procedures to ensure that children with disabilities
+2
+3
+and their parents or legal guardians are guaranteed procedural
+3
+4
+safeguards with respect to the provision of a free appropriate
+4
+5
+public education. The policies and procedures shall include:
+5
+6
+1. An opportunity for the parent or legal guardian of a child
+6
+7
+with a disability to examine all records relating to such child and
+7
+8
+to participate in meetings regarding the identification, evaluation,
+8
+9
+and educational placement of the child and regarding the provision
+9
+10
+of a free appropriate public education to the child, and to obtain
+10
+11
+an independent educational evaluation of the child;
+11
+12
+2. Protection of the rights of a child with a disability when
+12
+13
+the child’s parent or legal guardian is unknown; the school district
+13
+14
+cannot, after reasonable efforts, locate the child’s parent or legal
+14
+15
+guardian; or the child is a ward of the state including the
+15
+16
+assignment of an individual to act as a surrogate for the parent or
+16
+17
+legal guardian. A surrogate shall not be an employee of the State
+17
+18
+Department of Education, the school district in which the child is
+18
+19
+enrolled, or any other agency that is involved in the education or
+19
+20
+care of the child;
+20
+21
+3. Written prior notice to the parent or legal guardian of a
+21
+22
+child with a disability who is under the age of twenty-two (22)
+22
+23
+whenever the school district proposes to initiate or change or
+23
+24
+refuses to initiate or change the identification, evaluation, or
+24
+Req. No. 2304 Page 15
+
+1
+educational placement of the child or the provision of a free
+1
+2
+appropriate public education to the child. The notice shall include
+2
+3
+information about policies and procedures for mediation available to
+3
+4
+the parent or legal guardian pursuant to subsection F of this
+4
+5
+section. Notice shall be provided in the native language of the
+5
+6
+child’s parent or legal guardian unless it is not feasible to do so;
+6
+7
+4. An opportunity for mediation, which shall:
+7
+8
+a. be voluntary on the part of the parties,
+8
+9
+b. not be used to deny or delay the rights of a parent or
+9
+10
+legal guardian to a due process hearing as provided
+10
+11
+for in subsection E of this section, and
+11
+12
+c. be conducted by a qualified and impartial mediator who
+12
+13
+is trained in effective mediation techniques;
+13
+14
+5. An opportunity for any party to present a complaint:
+14
+15
+a. with respect to any matter relating to the
+15
+16
+identification, evaluation, or educational placement
+16
+17
+of the child or the provision of a free appropriate
+17
+18
+public education to such child, and
+18
+19
+b. which sets forth an alleged violation that occurred
+19
+20
+not more than two (2) years before the date the
+20
+21
+child’s parent or legal guardian or the school
+21
+22
+district in which the child is enrolled knew or should
+22
+23
+have known about an alleged action that forms the
+23
+24
+basis of the complaint;
+24
+Req. No. 2304 Page 16
+
+1
+6. Requirements that either party, or the attorney representing
+1
+2
+a party, provide due process complaint notice to the other party and
+2
+3
+such notice is submitted to the State Department of Education. The
+3
+4
+notice shall include:
+4
+5
+a. the name of the child,
+5
+6
+b. the address of the residence of the child, or
+6
+7
+available contact information if the child is
+7
+8
+considered homeless children and youth as defined in
+8
+9
+Section 600 of Title 10 of the Oklahoma Statutes,
+9
+10
+c. the name of the school district in which the child is
+10
+11
+enrolled,
+11
+12
+d. a description of the nature of the problem relating to
+12
+13
+proposed initiation or change including facts related
+13
+14
+to such problem, and
+14
+15
+e. a proposed resolution of the problem to the extent
+15
+16
+known and available; and
+16
+17
+7. A model form to assist parents and legal guardians in filing
+17
+18
+a complaint and due process complaint notice in accordance with the
+18
+19
+provisions of this subsection.
+19
+20
+B. Each school district in this state shall provide a copy of
+20
+21
+the procedural safeguards to parents and legal guardians of a child
+21
+22
+with a disability enrolled in the school district annually, upon
+22
+23
+initial referral or upon request for an initial evaluation, upon the
+23
+24
+first occurrence of filing a complaint, and upon request of a parent
+24
+Req. No. 2304 Page 17
+
+1
+or legal guardian. A school district may post the procedural
+1
+2
+safeguards on its website.
+2
+3
+C. Within ten (10) days of receiving a due process complaint
+3
+4
+notice as provided for in subsection A of this section, a school
+4
+5
+district shall submit to the child’s parent or legal guardian a
+5
+6
+response that includes the following:
+6
+7
+1. An explanation of why the school district proposed or
+7
+8
+refused to take the action raised in the complaint;
+8
+9
+2. A description of other options that the IEP team considered
+9
+10
+and the reasons why those options were rejected;
+10
+11
+3. A description of each evaluation procedure, assessment,
+11
+12
+record, or report the agency used as the basis for the proposed or
+12
+13
+refused action; and
+13
+14
+4. A description of the factors that are relevant to the school
+14
+15
+district’s proposal or refusal.
+15
+16
+D. The parent or legal guardian of a child with a disability
+16
+17
+who submits a due process complaint notice as provided for in
+17
+18
+subsection A of this section shall be given an opportunity for an
+18
+19
+impartial due process hearing, which shall be conducted by the State
+19
+20
+Department of Education.
+20
+21
+E. Policies and procedures for a due process hearing shall
+21
+22
+include:
+22
+23
+1. a. A request for a due process hearing shall be made by
+23
+24
+the parent or legal guardian of a child with a
+24
+Req. No. 2304 Page 18
+
+1
+disability or the State Department of Education within
+1
+2
+two (2) years of the date the parent or legal guardian
+2
+3
+or the Department knew or should have known about the
+3
+4
+alleged action that forms the basis of the complaint.
+4
+5
+b. The time limitation provided in this paragraph shall
+5
+6
+not apply if the parent or legal guardian of a child
+6
+7
+was prevented from requesting the hearing due to
+7
+8
+specific misrepresentations by the school district
+8
+9
+that it had resolved the problem forming the basis of
+9
+10
+the complaint or the school district withheld required
+10
+11
+information from the parent or legal guardian.
+11
+12
+2. Within fifteen (15) days of receiving a due process
+12
+13
+complaint notice as provided for in subsection A of this section,
+13
+14
+the party providing a hearing officer shall provide notification of
+14
+15
+such hearing.
+15
+16
+3. A hearing officer shall:
+16
+17
+a. not be an employee of the State Department of
+17
+18
+Education or a school district involved in the
+18
+19
+education or care of the child,
+19
+20
+b. not be a person having a personal or professional
+20
+21
+interest that conflicts with the person’s objectivity
+21
+22
+in the hearing, and
+22
+23
+c. possess knowledge of and the ability to understand the
+23
+24
+provisions of the Individuals with Disabilities
+24
+Req. No. 2304 Page 19
+
+1
+Education Act (IDEA), legal interpretations thereof,
+1
+2
+and associated federal and state regulations.
+2
+3
+4. Within five (5) days of receiving the notification provided
+3
+4
+for in paragraph 1 of this subsection, the hearing officer shall
+4
+5
+make a determination of whether the due process complaint notice is
+5
+6
+facially sufficient.
+6
+7
+5. A party may amend its due process complaint notice only if:
+7
+8
+a. the other party consents in writing to such amendment
+8
+9
+and is given the opportunity to resolve the complaint,
+9
+10
+or
+10
+11
+b. the hearing officer grants permission no later than
+11
+12
+five (5) days before a due process hearing is
+12
+13
+scheduled.
+13
+14
+6. Within five (5) days prior to a hearing conducted pursuant
+14
+15
+to this subsection, each party shall disclose to all parties all
+15
+16
+evaluations completed and recommendations made based on such
+16
+17
+evaluations.
+17
+18
+7. A decision made by a hearing officer shall be made on
+18
+19
+substantive grounds based on a determination of whether the child
+19
+20
+with a disability received a free appropriate public education.
+20
+21
+Provided, however, a hearing officer may find that a child with a
+21
+22
+disability did not receive a free appropriate public education based
+22
+23
+on a procedural violation only if the procedural violation:
+23
+24
+24
+Req. No. 2304 Page 20
+
+1
+a. impeded the child’s right to a free appropriate public
+1
+2
+education,
+2
+3
+b. significantly impeded the opportunity of a parent or
+3
+4
+legal guardian to participate in the decision-making
+4
+5
+process regarding the provision of a free appropriate
+5
+6
+public education to the child, or
+6
+7
+c. caused a deprivation of educational benefits.
+7
+8
+8. Any party aggrieved by the findings and decision rendered in
+8
+9
+a due process hearing conducted by the State Department of Education
+9
+10
+pursuant to the provisions of this subsection may appeal such
+10
+11
+findings and decision to the Department. The Department shall
+11
+12
+conduct an impartial review of the findings and decision, and the
+12
+13
+officer conducting such review shall make an independent decision
+13
+14
+upon completion of such review.
+14
+15
+9. Any party to a due process hearing conducted pursuant to the
+15
+16
+provisions of this subsection shall be accorded:
+16
+17
+a. the right to be accompanied and advised by counsel and
+17
+18
+by individuals with special knowledge or training
+18
+19
+regarding the problems of children with disabilities,
+19
+20
+b. the right to present evidence and confront, cross
+20
+21
+examine, and compel the attendance of witnesses, and
+21
+22
+c. the right to a written or, at the option of a child’s
+22
+23
+parent or legal guardian, an electronic verbatim
+23
+24
+record of such hearing.
+24
+Req. No. 2304 Page 21
+
+1
+10. Any party who brings a civil action with regard to a due
+1
+2
+process complaint shall have ninety (90) days from the date of the
+2
+3
+decision of a hearing officer to bring such action.
+3
+4
+F. The State Department of Education shall adopt policies and
+4
+5
+procedures for mediation to resolve disputes over the
+5
+6
+identification, evaluation, educational placement, manifestation
+6
+7
+determination, interim alternative educational placement, or the
+7
+8
+provision of a free appropriate public education to a child with a
+8
+9
+disability. The policies and procedures shall include:
+9
+10
+1. A conciliation conference, which a parent or legal guardian
+10
+11
+may request to meet with the IEP team or appropriate school district
+11
+12
+staff to discuss any objections to the prior notice received
+12
+13
+pursuant to paragraph 3 of subsection A of this section. Within
+13
+14
+five (5) days after the conciliation conference, the school district
+14
+15
+shall provide the parent or legal guardian a conciliation conference
+15
+16
+memorandum describing the district’s final proposed services for the
+16
+17
+student;
+17
+18
+2. A facilitated IEP team meeting led by an impartial
+18
+19
+facilitator provided by the State Department of Education;
+19
+20
+3. An opportunity to meet with a disinterested party. The
+20
+21
+State Department of Education shall develop and maintain a list of
+21
+22
+qualified mediators who are knowledgeable in the laws and
+22
+23
+regulations relating to the provision of special education and
+23
+24
+related services;
+24
+Req. No. 2304 Page 22
+
+1
+4. A provision stating that the cost of the mediation process
+1
+2
+shall be borne by the state;
+2
+3
+5. A requirement that mediation sessions be scheduled in a
+3
+4
+timely manner and be held in a location that is convenient to the
+4
+5
+parties to the dispute. A district shall hold a conciliation
+5
+6
+conference, facilitated IEP team meeting, or other mediation within
+6
+7
+ten (10) calendar days from the date the public school district
+7
+8
+receives the request from a parent or legal guardian;
+8
+9
+6. A confidentiality provision to ensure that discussions that
+9
+10
+occur during the mediation process cannot be used as evidence in any
+10
+11
+subsequent due process hearing or civil proceeding;
+11
+12
+7. A requirement to execute a written, legally binding
+12
+13
+agreement when a resolution is reached through the mediation
+13
+14
+process. The agreement shall be signed by the parent or legal
+14
+15
+guardian of the child with a disability and an authorized school
+15
+16
+district representative;
+16
+17
+8. A provision allowing any party to a mediation conducted
+17
+18
+pursuant to the provisions of this subsection to request additional
+18
+19
+mediation to address implementation of any mediated agreement; and
+19
+20
+9. A provision prohibiting mediators, facilitators, and any of
+20
+21
+their records associated with a mediation conducted pursuant to the
+21
+22
+provisions of this section from being subject to subpoena in a civil
+22
+23
+action.
+23
+24
+24
+Req. No. 2304 Page 23
+
+1
+G. The State Department of Education shall develop and publish
+1
+2
+on its website a model form to be used by parents and legal
+2
+3
+guardians to request any of the mediation procedures provided for in
+3
+4
+subsection F of this section.
+4
+5
+H. While a due process hearing or mediation session is pending,
+5
+6
+a child with a disability shall remain in his or her current
+6
+7
+educational placement, unless the State Department of Education, the
+7
+8
+school district in which the student is enrolled, or his or her
+8
+9
+parent or legal guardian otherwise agree. If the child was applying
+9
+10
+for initial admission to a school district, he or she shall be
+10
+11
+placed in the school district until all such proceedings have been
+11
+12
+completed.
+12
+13
+I. The State Board of Education may promulgate rules to
+13
+14
+implement the provisions of this section.
+14
+15
+SECTION 4. This act shall become effective July 1, 2026.
+15
+16
+SECTION 5. It being immediately necessary for the preservation
+16
+17
+of the public peace, health, or safety, an emergency is hereby
+17
+18
+declared to exist, by reason whereof this act shall take effect and
+18
+19
+be in full force from and after its passage and approval.
+19
+20
+20
+21
+60-2-2304 EB 1/15/2026 9:20:30 AM
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2304 Page 24
+
+[DELETED:  P B H]
+[DELETED:  P h m a]
+[DELETED:  P a a a a a a]
+[DELETED:  P t b a t b]
+[DELETED:  P t a a a a o t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P d t t]
+[DELETED:  P t]
+[DELETED:  P t]
+[DELETED:  P a a a a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P b n b w w]
+[DELETED:  P t t t a a]
+[DELETED:  P a A]
+[DELETED:  P T n n p]
+[DELETED:  P t t]
+[DELETED:  P i s c t t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P E 1]

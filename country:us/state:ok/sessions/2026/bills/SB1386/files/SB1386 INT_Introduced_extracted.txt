@@ -1,0 +1,2327 @@
+Title: SENATE BILL 1386 By: Gillespie
+Official Title: SENATE BILL 1386 By: Gillespie
+Number of Sections: 44
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to court recording; providing
+7
+legislative findings; amending 20 O.S. 2021, Sections
+8
+1314 and 1315, which relate to storage of audio and
+8
+video records and the Oklahoma Court Information
+9
+System (OCIS); requiring the Supreme Court and the
+9
+Administrative Office of the Courts (AOC) to
+10
+establish certain policies, guidelines, and
+10
+standards; providing allowable sources of funding for
+11
+certain equipment; requiring the Legislature to
+11
+provide certain funding; requiring the AOC to
+12
+implement certain standards; updating statutory
+12
+language; defining terms; requiring the Supreme Court
+13
+to establish a uniform statewide court recording
+13
+policy; requiring recording systems to support AI-
+14
+assisted transcripts; requiring recordings to be
+14
+preserved with certain technical characteristics;
+15
+requiring recording systems to include confidential
+15
+audio channels; requiring the AOC to monitor
+16
+compliance; requiring the Supreme Court and the AOC
+16
+to enter contracts and acquire necessary equipment;
+17
+requiring court reporters to complete certain acts
+17
+when a proceeding is recorded; providing penalties
+18
+for violations; providing for whistleblower
+18
+protections; repealing 20 O.S. 2021, Section 1512,
+19
+which relates to court recording pilot program;
+19
+providing for noncodification; providing for
+20
+codification; and providing an effective date.
+20
+21
+21
+22
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+22
+23
+
+Section 2:
+SECTION 1. NEW LAW A new section of law not to be
+23
+24
+codified in the Oklahoma Statutes reads as follows:
+24
+Req. No. 2503 Page 1
+1
+The Legislature finds that public access, transparency, and
+1
+2
+accurate recording of judicial proceedings are compelling state
+2
+3
+interests essential to accountability and the integrity of
+3
+4
+Oklahoma’s justice system. The requirements of this act shall be
+4
+5
+liberally construed to advance those interests and shall supersede
+5
+6
+any conflicting court rule, administrative order, local order, or
+6
+7
+policy.
+7
+8
+
+Section 3:
+SECTION 2. AMENDATORY 20 O.S. 2021, Section 1314, is
+8
+9
+amended to read as follows:
+9
+10
+
+Section 4:
+Section 1314. A. The Supreme Court may provide shall
+10
+11
+promulgate by rule for the following the statewide policies
+11
+12
+governing court audio and video recording, broadcasting,
+12
+13
+livestreaming, and the preservation of public access of judicial
+13
+14
+records. The Administrative Office of the Courts shall develop and
+14
+15
+implement the technical guidelines and operational standards
+15
+16
+necessary to carry out such policies including, but not limited to:
+16
+17
+
+Section 5:
+1. The Technical specifications for the acquisition, joint
+17
+18
+acquisition, installation, maintenance, and operation of equipment
+18
+19
+by two or more district courts or court clerks audio and video
+19
+20
+recording, broadcasting, and livestreaming systems required by
+20
+21
+
+Section 6:
+Section 4 of this act;
+21
+22
+
+Section 7:
+2. The Standards for digitization, storage, secure
+22
+23
+preservation, retention, and archiving of recorded media and related
+23
+24
+court records;
+24
+Req. No. 2503 Page 2
+1
+
+Section 8:
+3. Procedures for portable recording systems for public
+1
+2
+proceedings occurring outside of permanent courts;
+2
+3
+
+Section 9:
+4. Processes for the disposition or transfer of surplus
+3
+4
+technology property acquired from local court funds; and
+4
+5
+
+Section 10:
+3. The guidelines
+5
+6
+
+Section 11:
+5. Guidelines and standards for the microfilming and storage of
+6
+7
+court records ensuring full compatibility with the Oklahoma Court
+7
+8
+Information System including statewide archival and public access
+8
+9
+integration.
+9
+10
+B. Equipment required by Section 4 of this act shall be funded
+10
+11
+through state appropriations, statewide procurement, or other state-
+11
+12
+administered funding mechanisms and shall not be funded by local
+12
+13
+court budgets.
+13
+14
+C. The Legislature shall appropriate sufficient funds annually
+14
+15
+to ensure implementation, maintenance, and modernization of
+15
+16
+recording systems.
+16
+17
+
+Section 12:
+SECTION 3. AMENDATORY 20 O.S. 2021, Section 1315, is
+17
+18
+amended to read as follows:
+18
+19
+
+Section 13:
+Section 1315. A. 1. The Supreme Court, by and through the
+19
+20
+Office of the Administrative Director Office of the Courts, shall
+20
+21
+establish a court information system to be designated the “Oklahoma
+21
+22
+Court Information System” for the purpose of providing data
+22
+23
+processing services to state agencies, boards, and commissions and
+23
+24
+24
+Req. No. 2503 Page 3
+1
+other entities pursuant to contract. The Administrative Director
+1
+2
+Office of the Courts may assess a reasonable fee for such services.
+2
+3
+
+Section 14:
+2. Court clerks and judges of the district courts of this state
+3
+4
+shall utilize the case tracking, accounting, legal research, and
+4
+5
+other services of the “Oklahoma Oklahoma Court Information System”
+5
+6
+System at the direction of the Chief Justice of the Supreme Court.
+6
+7
+The development and implementation of the system’s accounting,
+7
+8
+auditing, and financial reporting functions shall be subject to the
+8
+9
+approval of the State Auditor and Inspector.
+9
+10
+B. There is hereby created in the State Treasury a revolving
+10
+11
+fund for the Supreme Court to be designated the “Oklahoma Court
+11
+12
+Information System Revolving Fund”. The fund shall be a continuing
+12
+13
+fund, not subject to fiscal year limitations, and shall consist of
+13
+14
+all monies received in payment of data processing services furnished
+14
+15
+pursuant to contract. The Administrative Director Office of the
+15
+16
+Courts, at the end of each month, shall issue a statement of charges
+16
+17
+to each entity for which data processing services were furnished.
+17
+18
+The cost for data processing services shall be recovered directly
+18
+19
+from the entity for which such services were furnished and shall not
+19
+20
+be prorated to or payable by those not receiving the services. All
+20
+21
+monies accruing to the credit of the fund are hereby appropriated
+21
+22
+and may be budgeted and expended by the Supreme Court for the
+22
+23
+acquisition, operation, maintenance, repair, and replacement of data
+23
+24
+processing equipment and software and for the operational expenses
+24
+Req. No. 2503 Page 4
+1
+of any court which is subject to the authority of the Administrative
+1
+2
+Director Office of the Courts. Expenditures from the fund shall be
+2
+3
+made upon warrants issued by the State Treasurer against claims
+3
+4
+filed as prescribed by law with the Director of the Office of
+4
+5
+Management and Enterprise Services for approval and payment. Until
+5
+6
+June 30, 2018, the Office of Management and Enterprise Services
+6
+7
+shall, at the request of the Administrative Director Office of the
+7
+8
+Courts, transfer an amount not to exceed Five Million Dollars
+8
+9
+($5,000,000.00) from the Oklahoma Court Information System Revolving
+9
+10
+Fund to the District Court Interagency Reimbursement Fund an amount
+10
+11
+that the Administrative Director Office of the Courts, with the
+11
+12
+approval of the Chief Justice of the Supreme Court, shall deem
+12
+13
+appropriate and necessary to perform the duties imposed upon the
+13
+14
+district courts by law.
+14
+15
+C. The Administrative Office of the Courts shall ensure that
+15
+16
+all audio and video recording, broadcasting, and livestreaming
+16
+17
+systems support accurate transcription and shall implement technical
+17
+18
+standards for audio and video quality, certification or approval
+18
+19
+requirements for transcription providers, secure verification
+19
+20
+processes, archival and retrieval standards, ADA-compliant closed
+20
+21
+captioning and interpreter integration, and chain of custody
+21
+22
+metadata and audit-trail logging including timestamps, access logs,
+22
+23
+and operator identification.
+23
+24
+24
+Req. No. 2503 Page 5
+1
+
+Section 15:
+SECTION 4. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 1510 of Title 20, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. As used in this section and Sections 1314 and 1315 of Title
+4
+5
+20 of the Oklahoma Statutes:
+5
+6
+
+Section 16:
+1. “ADA-compliant” means compliant with 42 U.S.C., Sections
+6
+7
+12101 through 12213, including, but not limited to, closed
+7
+8
+captioning, interpreter integration, and accessibility features;
+8
+9
+
+Section 17:
+2. “AI-assisted transcript” means a text transcription
+9
+10
+generated through the Supreme Court–approved speech-to-text or
+10
+11
+automated transcription technology, used to assist in the creation
+11
+12
+of but not replace the certified transcript produced by a court
+12
+13
+reporter;
+13
+14
+
+Section 18:
+3. “Confidential audio channel” means a segregated microphone
+14
+15
+or audio feed used for attorney–client communication or other
+15
+16
+statutorily protected communication that is recorded for integrity
+16
+17
+purposes but is not audible on any public livestream or publicly
+17
+18
+accessible recording;
+18
+19
+
+Section 19:
+4. “Livestream” or “livestreaming” means real-time or near–
+19
+20
+real-time electronic transmission of a public proceeding to the
+20
+21
+public using an internet platform, statewide portal, or any medium
+21
+22
+designated by the Supreme Court;
+22
+23
+
+Section 20:
+5. “Official record” means the complete set of recorded media,
+23
+24
+transcripts, metadata, audit logs, and associated materials that
+24
+Req. No. 2503 Page 6
+1
+document a judicial proceeding and are required by law to be
+1
+2
+preserved;
+2
+3
+
+Section 21:
+6. “Portable recording equipment” means Supreme Court–approved
+3
+4
+audio or video systems used when a proceeding occurs outside an
+4
+5
+equipped court;
+5
+6
+
+Section 22:
+7. “Public access portal” means the statewide online platform
+6
+7
+maintained by the Oklahoma Court Information System (OCIS) that
+7
+8
+provides public access to recordings, broadcasts, livestreams, and
+8
+9
+archived official records of public judicial proceedings;
+9
+10
+
+Section 23:
+8. “Recorded media” or “recording” means any audio, video, or
+10
+11
+audiovisual capture of a judicial proceeding including, but not
+11
+12
+limited to, original files, backup files, redundancy systems, and
+12
+13
+captures made using portable recording equipment;
+13
+14
+
+Section 24:
+9. “Redundancy” means dual-path or simultaneous recording
+14
+15
+systems ensuring a secondary recording source if the primary
+15
+16
+recording fails;
+16
+17
+
+Section 25:
+10. “Tampering” means altering, corrupting, deleting,
+17
+18
+concealing, disabling, shutting off, failing to initiate, or failing
+18
+19
+to report defects in recorded media with intent to impair the
+19
+20
+accuracy, integrity, or availability of the official record;
+20
+21
+
+Section 26:
+11. “Technically infeasible” means circumstances involving
+21
+22
+temporary equipment failure, loss of connectivity, power outage,
+22
+23
+emergency conditions, or other circumstances beyond the control of
+23
+24
+24
+Req. No. 2503 Page 7
+1
+court personnel and shall not include lack of required equipment;
+1
+2
+and
+2
+3
+
+Section 27:
+12. “Unique recording identifier” means the OCIS-assigned
+3
+4
+digital identifier linked to each recording, metadata file, and
+4
+5
+transcript to ensure authenticity, auditability, and proof of non-
+5
+6
+alteration.
+6
+7
+B. The Supreme Court shall promulgate, by rule or
+7
+8
+administrative order, a uniform statewide policy governing the use
+8
+9
+of audio and video recording, broadcasting, and livestreaming
+9
+10
+systems in courts in this state. Such rules shall apply to all
+10
+11
+courts of record and to all court proceedings required by law to be
+11
+12
+open to the public. All courts of record shall audio- and video-
+12
+13
+record all public proceedings. Livestreaming shall be provided for
+13
+14
+all public proceedings unless technically infeasible. Any rule or
+14
+15
+administrative order promulgated under this section shall be
+15
+16
+consistent with Sections 1314 and 1315 of Title 20 of the Oklahoma
+16
+17
+Statutes and shall not narrow, restrict, or modify its requirements.
+17
+18
+C. The uniform statewide policy required by subsection B of
+18
+19
+this section shall:
+19
+20
+
+Section 28:
+1. Authorize audio and video coverage of all public proceedings
+20
+21
+except as expressly limited by statute;
+21
+22
+
+Section 29:
+2. Standardize procedures for requests, notice, equipment
+22
+23
+placement, and operational standards;
+23
+24
+24
+Req. No. 2503 Page 8
+1
+
+Section 30:
+3. Prohibit the photographing, recording, broadcasting, or
+1
+2
+livestreaming of the following individuals to the extent required by
+2
+3
+law, and not by rule, general judicial policy, or administrative
+3
+4
+order:
+4
+5
+a. jurors and prospective jurors, as provided in Sections
+5
+6
+853 and 853.1 of Title 22 of the Oklahoma Statutes,
+6
+7
+b. minors whose identity or juvenile records are
+7
+8
+confidential pursuant to Section 1-6-107 of Title 10A
+8
+9
+of the Oklahoma Statutes,
+9
+10
+c. victims or witnesses whose identity or personal
+10
+11
+information is confidential or protected pursuant to
+11
+12
+
+Section 31:
+Section 142A-9 of Title 21 and Section 60.14 of Title
+12
+13
+22 of the Oklahoma Statutes,
+13
+14
+d. vulnerable adults whose records or identifying
+14
+15
+information is confidential pursuant to Section 10-110
+15
+16
+of Title 43A of the Oklahoma Statutes, and
+16
+17
+e. any other individual whose identity is confidential
+17
+18
+pursuant to state or federal law. Such state or
+18
+19
+federal law shall be cited in the record of the court
+19
+20
+proceeding;
+20
+21
+
+Section 32:
+4. Ensure that judicial authority may restrict recording,
+21
+22
+broadcasting, or livestreaming upon written findings supported by
+22
+23
+clear and convincing evidence that a compelling interest requires
+23
+24
+restriction and a written finding that the restriction is narrowly
+24
+Req. No. 2503 Page 9
+1
+tailored. Any restriction shall be stated on the official record
+1
+2
+and be subject to accelerated appellate review;
+2
+3
+
+Section 33:
+5. Specify retention, secure deletion, sealing, and public
+3
+4
+access procedures for recordings that become part of the official
+4
+5
+court record. Audio and video recordings shall be retained and
+5
+6
+stored for not less than ten (10) years or for the duration of all
+6
+7
+direct appeals, post-conviction proceedings, and federal habeas
+7
+8
+review, whichever is longer;
+8
+9
+
+Section 34:
+6. Require establishment of a statewide online public access
+9
+10
+portal through which recordings of public court proceedings shall be
+10
+11
+accessible, subject to statutory confidentiality limitations;
+11
+12
+
+Section 35:
+7. Require compliance with 42 U.S.C., Sections 12101 through
+12
+13
+12213, for all recordings, livestreams, and archives, including
+13
+14
+closed captioning, interpreter feed integration, and accessibility
+14
+15
+features;
+15
+16
+
+Section 36:
+8. Require statewide training and certification standards for
+16
+17
+audio and video system operators, transcription personnel, and court
+17
+18
+administrative staff; and
+18
+19
+
+Section 37:
+9. Establish minimum equipment standards including, but not
+19
+20
+limited to, intelligible audio capture from all speaking
+20
+21
+participants, high-definition video sufficient to identify
+21
+22
+participants, time-coded recordings compatible with the Oklahoma
+22
+23
+Court Information System for indexing and transcript cross-
+23
+24
+referencing, technological redundancy to prevent the loss of
+24
+Req. No. 2503 Page 10
+1
+recordings including dual-path recording or backup capture programs,
+1
+2
+secure encrypted storage with audit-trail metadata, streaming
+2
+3
+hardware capable of real-time broadcasting with fallback provisions,
+3
+4
+and system monitoring tools providing real-time malfunction alerts,
+4
+5
+technical support, and replacement schedules to ensure no recording
+5
+6
+downtime exceeds seventy-two (72) hours.
+6
+7
+D. No broader category of exemption shall be created by rule,
+7
+8
+general judicial policy, or administrative order under paragraph 3
+8
+9
+of subsection C of this section.
+9
+10
+E. All court recording systems shall support the creation of
+10
+11
+AI-assisted transcripts with sufficient clarity, audio fidelity, and
+11
+12
+speaker identification to enable accurate automated transcription.
+12
+13
+AI-assisted transcripts shall not replace certified transcripts but
+13
+14
+shall be made available to court reporters for verification and
+14
+15
+correction.
+15
+16
+F. All livestreams and archived recordings of public
+16
+17
+proceedings shall be preserved in identical resolution, frame rate,
+17
+18
+and audio fidelity as originally captured. No down-sampling,
+18
+19
+degradation, compression, or alteration of quality may occur except
+19
+20
+as required for storage integrity. Publicly accessible versions
+20
+21
+shall match the original quality.
+21
+22
+G. All court audio recording systems shall include one or more
+22
+23
+confidential audio channels for attorney–client communication or
+23
+24
+other protected communications. Confidential channels shall be
+24
+Req. No. 2503 Page 11
+1
+recorded solely for integrity verification but shall not be audible
+1
+2
+on any public livestream or publicly accessible recording.
+2
+3
+H. Audio and video recordings that have been sealed by order of
+3
+4
+the court shall be preserved in full and in their original digital
+4
+5
+form for the duration of the applicable retention period. No sealed
+5
+6
+recording may be deleted, destroyed, overwritten, or altered.
+6
+7
+Access shall be logged and limited to authorized personnel.
+7
+8
+I. The Administrative Office of the Courts (AOC) shall monitor
+8
+9
+statewide compliance with the requirements of this section and with
+9
+10
+rules issued pursuant to this section. The AOC shall conduct
+10
+11
+periodic audits, verify operational status of equipment, review
+11
+12
+audit-trail metadata, and issue annual compliance reports to the
+12
+13
+Supreme Court and the Legislature.
+13
+14
+J. The Supreme Court and the AOC, with approval of the Chief
+14
+15
+Justice of the Supreme Court, shall issue requests for proposals,
+15
+16
+enter contracts, and acquire equipment, software, services, and
+16
+17
+technology necessary to implement this section and Sections 1314 and
+17
+18
+1315 of Title 20 of the Oklahoma Statutes.
+18
+19
+K. Audio or video recordings shall form part of the official
+19
+20
+record and shall be transcribed by a certified court reporter or
+20
+21
+Supreme Court–authorized transcription provider, retained, and made
+21
+22
+available for reference and verification.
+22
+23
+L. When a court proceeding or portion of a court proceeding is
+23
+24
+recorded pursuant to law or rule, the official court reporter shall:
+24
+Req. No. 2503 Page 12
+1
+
+Section 38:
+1. Retrieve and review the recorded media and, if available,
+1
+2
+the auto-generated transcript created from that recording;
+2
+3
+
+Section 39:
+2. Compare the auto-generated transcript to the recorded media
+3
+4
+and make any corrections necessary to ensure that the transcript is
+4
+5
+accurate, complete, and verbatim including speaker identifications
+5
+6
+where discernible;
+6
+7
+
+Section 40:
+3. Certify the transcript as an accurate, complete, and
+7
+8
+unaltered representation of the recorded portion of the proceeding,
+8
+9
+using certification language prescribed by the State Board of
+9
+10
+Examiners of Certified Shorthand Reporters;
+10
+11
+
+Section 41:
+4. Ensure the transcript includes continuous timestamp
+11
+12
+references sufficient to locate corresponding segments of the
+12
+13
+recorded media; and
+13
+14
+
+Section 42:
+5. Ensure that the transcript includes the entirety of each
+14
+15
+subject of testimony or argument and does not contain selective
+15
+16
+portions that materially alter context or meaning.
+16
+17
+M. The court reporter shall immediately report to the presiding
+17
+18
+judge and to the Administrative Office of the Courts any gap,
+18
+19
+interruption, omission, or corruption in the recorded media, missing
+19
+20
+time frame in the recorded media, or incomplete segment preventing
+20
+21
+complete transcript certification. The report required by this
+21
+22
+subsection shall be in writing, filed under the case number, and
+22
+23
+preserved as part of the official record.
+23
+24
+24
+Req. No. 2503 Page 13
+1
+N. Failure to comply with this section or any rule promulgated
+1
+2
+pursuant to this section may constitute grounds for referral to the
+2
+3
+Council on Judicial Complaints pursuant to Section 1651 et seq. of
+3
+4
+Title 20 of the Oklahoma Statutes. When noncompliance involves
+4
+5
+conduct within the jurisdiction of the Court on the Judiciary as
+5
+6
+described in Section 2 of Article VII-A of the Oklahoma
+6
+7
+Constitution, the findings of the Council on Judicial Complaints may
+7
+8
+form the basis for proceedings in accordance with applicable laws
+8
+9
+including, but not limited to, Section 1659 of Title 20 of the
+9
+10
+Oklahoma Statutes. Lack of funding or equipment shall not
+10
+11
+constitute good cause for noncompliance.
+11
+12
+O. No person including any court reporter, court clerk,
+12
+13
+attorney, judge, vendor, contractor, or agent of the state shall
+13
+14
+knowingly and willfully alter, delete, conceal, obscure, corrupt, or
+14
+15
+fail to report a gap in recorded media with the intent to impair,
+15
+16
+influence, or affect the integrity or accuracy of the official court
+16
+17
+record. Any person who engages in conduct prohibited by this
+17
+18
+subsection shall be subject to penalties under Section 1513 of Title
+18
+19
+20 of the Oklahoma Statutes and prosecution under state law
+19
+20
+including, but not limited to, tampering with evidence.
+20
+21
+P. When recorded media is offered or admitted as evidence, the
+21
+22
+court reporter shall ensure that a certified transcript accompanies
+22
+23
+the recording; the transcript includes notation of objections, bench
+23
+24
+conferences, sealed or confidential portions, and redactions
+24
+Req. No. 2503 Page 14
+1
+required by law; and the recording is marked and secured in a format
+1
+2
+compatible with the Oklahoma Court Information System and any
+2
+3
+applicable rules of appellate procedure. If a redacted version is
+3
+4
+used for public access, the unredacted original shall be preserved
+4
+5
+under seal as part of the official record.
+5
+6
+Q. No court employee, contractor, or agent shall be
+6
+7
+disciplined, terminated, retaliated against, or otherwise penalized
+7
+8
+for reporting suspected tampering, corruption, suppression, or
+8
+9
+mismanagement of court recordings. Any adverse action within one
+9
+10
+(1) year shall be presumed retaliatory unless rebutted by clear and
+10
+11
+convincing evidence.
+11
+12
+
+Section 43:
+SECTION 5. REPEALER 20 O.S. 2021, Section 1512, is
+12
+13
+hereby repealed.
+13
+14
+
+Section 44:
+SECTION 6. This act shall become effective November 1, 2026.
+14
+15
+15
+16
+60-2-2503 BLB 12/30/2025 10:01:17 PM
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2503 Page 15
+[DELETED:  P B G]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P j m v v a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P B 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1386 By: Gillespie
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to court recording; providing
+7
+legislative findings; amending 20 O.S. 2021, Sections
+8
+1314 and 1315, which relate to storage of audio and
+8
+video records and the Oklahoma Court Information
+9
+System (OCIS); requiring the Supreme Court and the
+9
+Administrative Office of the Courts (AOC) to
+10
+establish certain policies, guidelines, and
+10
+standards; providing allowable sources of funding for
+11
+certain equipment; requiring the Legislature to
+11
+provide certain funding; requiring the AOC to
+12
+implement certain standards; updating statutory
+12
+language; defining terms; requiring the Supreme Court
+13
+to establish a uniform statewide court recording
+13
+policy; requiring recording systems to support AI-
+14
+assisted transcripts; requiring recordings to be
+14
+preserved with certain technical characteristics;
+15
+requiring recording systems to include confidential
+15
+audio channels; requiring the AOC to monitor
+16
+compliance; requiring the Supreme Court and the AOC
+16
+to enter contracts and acquire necessary equipment;
+17
+requiring court reporters to complete certain acts
+17
+when a proceeding is recorded; providing penalties
+18
+for violations; providing for whistleblower
+18
+protections; repealing 20 O.S. 2021, Section 1512,
+19
+which relates to court recording pilot program;
+19
+providing for noncodification; providing for
+20
+codification; and providing an effective date.
+20
+21
+21
+22
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+22
+23
+SECTION 1. NEW LAW A new section of law not to be
+23
+24
+codified in the Oklahoma Statutes reads as follows:
+24
+Req. No. 2503 Page 1
+
+1
+The Legislature finds that public access, transparency, and
+1
+2
+accurate recording of judicial proceedings are compelling state
+2
+3
+interests essential to accountability and the integrity of
+3
+4
+Oklahoma’s justice system. The requirements of this act shall be
+4
+5
+liberally construed to advance those interests and shall supersede
+5
+6
+any conflicting court rule, administrative order, local order, or
+6
+7
+policy.
+7
+8
+SECTION 2. AMENDATORY 20 O.S. 2021, Section 1314, is
+8
+9
+amended to read as follows:
+9
+10
+Section 1314. A. The Supreme Court may provide shall
+10
+11
+promulgate by rule for the following the statewide policies
+11
+12
+governing court audio and video recording, broadcasting,
+12
+13
+livestreaming, and the preservation of public access of judicial
+13
+14
+records. The Administrative Office of the Courts shall develop and
+14
+15
+implement the technical guidelines and operational standards
+15
+16
+necessary to carry out such policies including, but not limited to:
+16
+17
+1. The Technical specifications for the acquisition, joint
+17
+18
+acquisition, installation, maintenance, and operation of equipment
+18
+19
+by two or more district courts or court clerks audio and video
+19
+20
+recording, broadcasting, and livestreaming systems required by
+20
+21
+Section 4 of this act;
+21
+22
+2. The Standards for digitization, storage, secure
+22
+23
+preservation, retention, and archiving of recorded media and related
+23
+24
+court records;
+24
+Req. No. 2503 Page 2
+
+1
+3. Procedures for portable recording systems for public
+1
+2
+proceedings occurring outside of permanent courts;
+2
+3
+4. Processes for the disposition or transfer of surplus
+3
+4
+technology property acquired from local court funds; and
+4
+5
+3. The guidelines
+5
+6
+5. Guidelines and standards for the microfilming and storage of
+6
+7
+court records ensuring full compatibility with the Oklahoma Court
+7
+8
+Information System including statewide archival and public access
+8
+9
+integration.
+9
+10
+B. Equipment required by Section 4 of this act shall be funded
+10
+11
+through state appropriations, statewide procurement, or other state-
+11
+12
+administered funding mechanisms and shall not be funded by local
+12
+13
+court budgets.
+13
+14
+C. The Legislature shall appropriate sufficient funds annually
+14
+15
+to ensure implementation, maintenance, and modernization of
+15
+16
+recording systems.
+16
+17
+SECTION 3. AMENDATORY 20 O.S. 2021, Section 1315, is
+17
+18
+amended to read as follows:
+18
+19
+Section 1315. A. 1. The Supreme Court, by and through the
+19
+20
+Office of the Administrative Director Office of the Courts, shall
+20
+21
+establish a court information system to be designated the “Oklahoma
+21
+22
+Court Information System” for the purpose of providing data
+22
+23
+processing services to state agencies, boards, and commissions and
+23
+24
+24
+Req. No. 2503 Page 3
+
+1
+other entities pursuant to contract. The Administrative Director
+1
+2
+Office of the Courts may assess a reasonable fee for such services.
+2
+3
+2. Court clerks and judges of the district courts of this state
+3
+4
+shall utilize the case tracking, accounting, legal research, and
+4
+5
+other services of the “Oklahoma Oklahoma Court Information System”
+5
+6
+System at the direction of the Chief Justice of the Supreme Court.
+6
+7
+The development and implementation of the system’s accounting,
+7
+8
+auditing, and financial reporting functions shall be subject to the
+8
+9
+approval of the State Auditor and Inspector.
+9
+10
+B. There is hereby created in the State Treasury a revolving
+10
+11
+fund for the Supreme Court to be designated the “Oklahoma Court
+11
+12
+Information System Revolving Fund”. The fund shall be a continuing
+12
+13
+fund, not subject to fiscal year limitations, and shall consist of
+13
+14
+all monies received in payment of data processing services furnished
+14
+15
+pursuant to contract. The Administrative Director Office of the
+15
+16
+Courts, at the end of each month, shall issue a statement of charges
+16
+17
+to each entity for which data processing services were furnished.
+17
+18
+The cost for data processing services shall be recovered directly
+18
+19
+from the entity for which such services were furnished and shall not
+19
+20
+be prorated to or payable by those not receiving the services. All
+20
+21
+monies accruing to the credit of the fund are hereby appropriated
+21
+22
+and may be budgeted and expended by the Supreme Court for the
+22
+23
+acquisition, operation, maintenance, repair, and replacement of data
+23
+24
+processing equipment and software and for the operational expenses
+24
+Req. No. 2503 Page 4
+
+1
+of any court which is subject to the authority of the Administrative
+1
+2
+Director Office of the Courts. Expenditures from the fund shall be
+2
+3
+made upon warrants issued by the State Treasurer against claims
+3
+4
+filed as prescribed by law with the Director of the Office of
+4
+5
+Management and Enterprise Services for approval and payment. Until
+5
+6
+June 30, 2018, the Office of Management and Enterprise Services
+6
+7
+shall, at the request of the Administrative Director Office of the
+7
+8
+Courts, transfer an amount not to exceed Five Million Dollars
+8
+9
+($5,000,000.00) from the Oklahoma Court Information System Revolving
+9
+10
+Fund to the District Court Interagency Reimbursement Fund an amount
+10
+11
+that the Administrative Director Office of the Courts, with the
+11
+12
+approval of the Chief Justice of the Supreme Court, shall deem
+12
+13
+appropriate and necessary to perform the duties imposed upon the
+13
+14
+district courts by law.
+14
+15
+C. The Administrative Office of the Courts shall ensure that
+15
+16
+all audio and video recording, broadcasting, and livestreaming
+16
+17
+systems support accurate transcription and shall implement technical
+17
+18
+standards for audio and video quality, certification or approval
+18
+19
+requirements for transcription providers, secure verification
+19
+20
+processes, archival and retrieval standards, ADA-compliant closed
+20
+21
+captioning and interpreter integration, and chain of custody
+21
+22
+metadata and audit-trail logging including timestamps, access logs,
+22
+23
+and operator identification.
+23
+24
+24
+Req. No. 2503 Page 5
+
+1
+SECTION 4. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 1510 of Title 20, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. As used in this section and Sections 1314 and 1315 of Title
+4
+5
+20 of the Oklahoma Statutes:
+5
+6
+1. “ADA-compliant” means compliant with 42 U.S.C., Sections
+6
+7
+12101 through 12213, including, but not limited to, closed
+7
+8
+captioning, interpreter integration, and accessibility features;
+8
+9
+2. “AI-assisted transcript” means a text transcription
+9
+10
+generated through the Supreme Court–approved speech-to-text or
+10
+11
+automated transcription technology, used to assist in the creation
+11
+12
+of but not replace the certified transcript produced by a court
+12
+13
+reporter;
+13
+14
+3. “Confidential audio channel” means a segregated microphone
+14
+15
+or audio feed used for attorney–client communication or other
+15
+16
+statutorily protected communication that is recorded for integrity
+16
+17
+purposes but is not audible on any public livestream or publicly
+17
+18
+accessible recording;
+18
+19
+4. “Livestream” or “livestreaming” means real-time or near–
+19
+20
+real-time electronic transmission of a public proceeding to the
+20
+21
+public using an internet platform, statewide portal, or any medium
+21
+22
+designated by the Supreme Court;
+22
+23
+5. “Official record” means the complete set of recorded media,
+23
+24
+transcripts, metadata, audit logs, and associated materials that
+24
+Req. No. 2503 Page 6
+
+1
+document a judicial proceeding and are required by law to be
+1
+2
+preserved;
+2
+3
+6. “Portable recording equipment” means Supreme Court–approved
+3
+4
+audio or video systems used when a proceeding occurs outside an
+4
+5
+equipped court;
+5
+6
+7. “Public access portal” means the statewide online platform
+6
+7
+maintained by the Oklahoma Court Information System (OCIS) that
+7
+8
+provides public access to recordings, broadcasts, livestreams, and
+8
+9
+archived official records of public judicial proceedings;
+9
+10
+8. “Recorded media” or “recording” means any audio, video, or
+10
+11
+audiovisual capture of a judicial proceeding including, but not
+11
+12
+limited to, original files, backup files, redundancy systems, and
+12
+13
+captures made using portable recording equipment;
+13
+14
+9. “Redundancy” means dual-path or simultaneous recording
+14
+15
+systems ensuring a secondary recording source if the primary
+15
+16
+recording fails;
+16
+17
+10. “Tampering” means altering, corrupting, deleting,
+17
+18
+concealing, disabling, shutting off, failing to initiate, or failing
+18
+19
+to report defects in recorded media with intent to impair the
+19
+20
+accuracy, integrity, or availability of the official record;
+20
+21
+11. “Technically infeasible” means circumstances involving
+21
+22
+temporary equipment failure, loss of connectivity, power outage,
+22
+23
+emergency conditions, or other circumstances beyond the control of
+23
+24
+24
+Req. No. 2503 Page 7
+
+1
+court personnel and shall not include lack of required equipment;
+1
+2
+and
+2
+3
+12. “Unique recording identifier” means the OCIS-assigned
+3
+4
+digital identifier linked to each recording, metadata file, and
+4
+5
+transcript to ensure authenticity, auditability, and proof of non-
+5
+6
+alteration.
+6
+7
+B. The Supreme Court shall promulgate, by rule or
+7
+8
+administrative order, a uniform statewide policy governing the use
+8
+9
+of audio and video recording, broadcasting, and livestreaming
+9
+10
+systems in courts in this state. Such rules shall apply to all
+10
+11
+courts of record and to all court proceedings required by law to be
+11
+12
+open to the public. All courts of record shall audio- and video-
+12
+13
+record all public proceedings. Livestreaming shall be provided for
+13
+14
+all public proceedings unless technically infeasible. Any rule or
+14
+15
+administrative order promulgated under this section shall be
+15
+16
+consistent with Sections 1314 and 1315 of Title 20 of the Oklahoma
+16
+17
+Statutes and shall not narrow, restrict, or modify its requirements.
+17
+18
+C. The uniform statewide policy required by subsection B of
+18
+19
+this section shall:
+19
+20
+1. Authorize audio and video coverage of all public proceedings
+20
+21
+except as expressly limited by statute;
+21
+22
+2. Standardize procedures for requests, notice, equipment
+22
+23
+placement, and operational standards;
+23
+24
+24
+Req. No. 2503 Page 8
+
+1
+3. Prohibit the photographing, recording, broadcasting, or
+1
+2
+livestreaming of the following individuals to the extent required by
+2
+3
+law, and not by rule, general judicial policy, or administrative
+3
+4
+order:
+4
+5
+a. jurors and prospective jurors, as provided in Sections
+5
+6
+853 and 853.1 of Title 22 of the Oklahoma Statutes,
+6
+7
+b. minors whose identity or juvenile records are
+7
+8
+confidential pursuant to Section 1-6-107 of Title 10A
+8
+9
+of the Oklahoma Statutes,
+9
+10
+c. victims or witnesses whose identity or personal
+10
+11
+information is confidential or protected pursuant to
+11
+12
+Section 142A-9 of Title 21 and Section 60.14 of Title
+12
+13
+22 of the Oklahoma Statutes,
+13
+14
+d. vulnerable adults whose records or identifying
+14
+15
+information is confidential pursuant to Section 10-110
+15
+16
+of Title 43A of the Oklahoma Statutes, and
+16
+17
+e. any other individual whose identity is confidential
+17
+18
+pursuant to state or federal law. Such state or
+18
+19
+federal law shall be cited in the record of the court
+19
+20
+proceeding;
+20
+21
+4. Ensure that judicial authority may restrict recording,
+21
+22
+broadcasting, or livestreaming upon written findings supported by
+22
+23
+clear and convincing evidence that a compelling interest requires
+23
+24
+restriction and a written finding that the restriction is narrowly
+24
+Req. No. 2503 Page 9
+
+1
+tailored. Any restriction shall be stated on the official record
+1
+2
+and be subject to accelerated appellate review;
+2
+3
+5. Specify retention, secure deletion, sealing, and public
+3
+4
+access procedures for recordings that become part of the official
+4
+5
+court record. Audio and video recordings shall be retained and
+5
+6
+stored for not less than ten (10) years or for the duration of all
+6
+7
+direct appeals, post-conviction proceedings, and federal habeas
+7
+8
+review, whichever is longer;
+8
+9
+6. Require establishment of a statewide online public access
+9
+10
+portal through which recordings of public court proceedings shall be
+10
+11
+accessible, subject to statutory confidentiality limitations;
+11
+12
+7. Require compliance with 42 U.S.C., Sections 12101 through
+12
+13
+12213, for all recordings, livestreams, and archives, including
+13
+14
+closed captioning, interpreter feed integration, and accessibility
+14
+15
+features;
+15
+16
+8. Require statewide training and certification standards for
+16
+17
+audio and video system operators, transcription personnel, and court
+17
+18
+administrative staff; and
+18
+19
+9. Establish minimum equipment standards including, but not
+19
+20
+limited to, intelligible audio capture from all speaking
+20
+21
+participants, high-definition video sufficient to identify
+21
+22
+participants, time-coded recordings compatible with the Oklahoma
+22
+23
+Court Information System for indexing and transcript cross-
+23
+24
+referencing, technological redundancy to prevent the loss of
+24
+Req. No. 2503 Page 10
+
+1
+recordings including dual-path recording or backup capture programs,
+1
+2
+secure encrypted storage with audit-trail metadata, streaming
+2
+3
+hardware capable of real-time broadcasting with fallback provisions,
+3
+4
+and system monitoring tools providing real-time malfunction alerts,
+4
+5
+technical support, and replacement schedules to ensure no recording
+5
+6
+downtime exceeds seventy-two (72) hours.
+6
+7
+D. No broader category of exemption shall be created by rule,
+7
+8
+general judicial policy, or administrative order under paragraph 3
+8
+9
+of subsection C of this section.
+9
+10
+E. All court recording systems shall support the creation of
+10
+11
+AI-assisted transcripts with sufficient clarity, audio fidelity, and
+11
+12
+speaker identification to enable accurate automated transcription.
+12
+13
+AI-assisted transcripts shall not replace certified transcripts but
+13
+14
+shall be made available to court reporters for verification and
+14
+15
+correction.
+15
+16
+F. All livestreams and archived recordings of public
+16
+17
+proceedings shall be preserved in identical resolution, frame rate,
+17
+18
+and audio fidelity as originally captured. No down-sampling,
+18
+19
+degradation, compression, or alteration of quality may occur except
+19
+20
+as required for storage integrity. Publicly accessible versions
+20
+21
+shall match the original quality.
+21
+22
+G. All court audio recording systems shall include one or more
+22
+23
+confidential audio channels for attorney–client communication or
+23
+24
+other protected communications. Confidential channels shall be
+24
+Req. No. 2503 Page 11
+
+1
+recorded solely for integrity verification but shall not be audible
+1
+2
+on any public livestream or publicly accessible recording.
+2
+3
+H. Audio and video recordings that have been sealed by order of
+3
+4
+the court shall be preserved in full and in their original digital
+4
+5
+form for the duration of the applicable retention period. No sealed
+5
+6
+recording may be deleted, destroyed, overwritten, or altered.
+6
+7
+Access shall be logged and limited to authorized personnel.
+7
+8
+I. The Administrative Office of the Courts (AOC) shall monitor
+8
+9
+statewide compliance with the requirements of this section and with
+9
+10
+rules issued pursuant to this section. The AOC shall conduct
+10
+11
+periodic audits, verify operational status of equipment, review
+11
+12
+audit-trail metadata, and issue annual compliance reports to the
+12
+13
+Supreme Court and the Legislature.
+13
+14
+J. The Supreme Court and the AOC, with approval of the Chief
+14
+15
+Justice of the Supreme Court, shall issue requests for proposals,
+15
+16
+enter contracts, and acquire equipment, software, services, and
+16
+17
+technology necessary to implement this section and Sections 1314 and
+17
+18
+1315 of Title 20 of the Oklahoma Statutes.
+18
+19
+K. Audio or video recordings shall form part of the official
+19
+20
+record and shall be transcribed by a certified court reporter or
+20
+21
+Supreme Court–authorized transcription provider, retained, and made
+21
+22
+available for reference and verification.
+22
+23
+L. When a court proceeding or portion of a court proceeding is
+23
+24
+recorded pursuant to law or rule, the official court reporter shall:
+24
+Req. No. 2503 Page 12
+
+1
+1. Retrieve and review the recorded media and, if available,
+1
+2
+the auto-generated transcript created from that recording;
+2
+3
+2. Compare the auto-generated transcript to the recorded media
+3
+4
+and make any corrections necessary to ensure that the transcript is
+4
+5
+accurate, complete, and verbatim including speaker identifications
+5
+6
+where discernible;
+6
+7
+3. Certify the transcript as an accurate, complete, and
+7
+8
+unaltered representation of the recorded portion of the proceeding,
+8
+9
+using certification language prescribed by the State Board of
+9
+10
+Examiners of Certified Shorthand Reporters;
+10
+11
+4. Ensure the transcript includes continuous timestamp
+11
+12
+references sufficient to locate corresponding segments of the
+12
+13
+recorded media; and
+13
+14
+5. Ensure that the transcript includes the entirety of each
+14
+15
+subject of testimony or argument and does not contain selective
+15
+16
+portions that materially alter context or meaning.
+16
+17
+M. The court reporter shall immediately report to the presiding
+17
+18
+judge and to the Administrative Office of the Courts any gap,
+18
+19
+interruption, omission, or corruption in the recorded media, missing
+19
+20
+time frame in the recorded media, or incomplete segment preventing
+20
+21
+complete transcript certification. The report required by this
+21
+22
+subsection shall be in writing, filed under the case number, and
+22
+23
+preserved as part of the official record.
+23
+24
+24
+Req. No. 2503 Page 13
+
+1
+N. Failure to comply with this section or any rule promulgated
+1
+2
+pursuant to this section may constitute grounds for referral to the
+2
+3
+Council on Judicial Complaints pursuant to Section 1651 et seq. of
+3
+4
+Title 20 of the Oklahoma Statutes. When noncompliance involves
+4
+5
+conduct within the jurisdiction of the Court on the Judiciary as
+5
+6
+described in Section 2 of Article VII-A of the Oklahoma
+6
+7
+Constitution, the findings of the Council on Judicial Complaints may
+7
+8
+form the basis for proceedings in accordance with applicable laws
+8
+9
+including, but not limited to, Section 1659 of Title 20 of the
+9
+10
+Oklahoma Statutes. Lack of funding or equipment shall not
+10
+11
+constitute good cause for noncompliance.
+11
+12
+O. No person including any court reporter, court clerk,
+12
+13
+attorney, judge, vendor, contractor, or agent of the state shall
+13
+14
+knowingly and willfully alter, delete, conceal, obscure, corrupt, or
+14
+15
+fail to report a gap in recorded media with the intent to impair,
+15
+16
+influence, or affect the integrity or accuracy of the official court
+16
+17
+record. Any person who engages in conduct prohibited by this
+17
+18
+subsection shall be subject to penalties under Section 1513 of Title
+18
+19
+20 of the Oklahoma Statutes and prosecution under state law
+19
+20
+including, but not limited to, tampering with evidence.
+20
+21
+P. When recorded media is offered or admitted as evidence, the
+21
+22
+court reporter shall ensure that a certified transcript accompanies
+22
+23
+the recording; the transcript includes notation of objections, bench
+23
+24
+conferences, sealed or confidential portions, and redactions
+24
+Req. No. 2503 Page 14
+
+1
+required by law; and the recording is marked and secured in a format
+1
+2
+compatible with the Oklahoma Court Information System and any
+2
+3
+applicable rules of appellate procedure. If a redacted version is
+3
+4
+used for public access, the unredacted original shall be preserved
+4
+5
+under seal as part of the official record.
+5
+6
+Q. No court employee, contractor, or agent shall be
+6
+7
+disciplined, terminated, retaliated against, or otherwise penalized
+7
+8
+for reporting suspected tampering, corruption, suppression, or
+8
+9
+mismanagement of court recordings. Any adverse action within one
+9
+10
+(1) year shall be presumed retaliatory unless rebutted by clear and
+10
+11
+convincing evidence.
+11
+12
+SECTION 5. REPEALER 20 O.S. 2021, Section 1512, is
+12
+13
+hereby repealed.
+13
+14
+SECTION 6. This act shall become effective November 1, 2026.
+14
+15
+15
+16
+60-2-2503 BLB 12/30/2025 10:01:17 PM
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2503 Page 15
+
+[DELETED:  P B G]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P j m v v a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P B 1]

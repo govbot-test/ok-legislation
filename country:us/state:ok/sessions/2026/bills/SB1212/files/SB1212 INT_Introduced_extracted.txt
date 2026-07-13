@@ -1,0 +1,463 @@
+Title: SENATE BILL 1212 By: Sacchieri
+Official Title: SENATE BILL 1212 By: Sacchieri
+Number of Sections: 11
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Ad Valorem Tax Code; amending
+7
+68 O.S. 2021, Section 2866, which relates to the
+8
+equalization ratio study; prescribing compliance
+8
+requirements for counties; updating statutory
+9
+language; and providing an effective date.
+9
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+
+Section 2:
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2866, is
+13
+14
+amended to read as follows:
+14
+15
+
+Section 3:
+Section 2866. A. For purposes of reporting to the State Board
+15
+16
+of Equalization the ratio derived from comparing the assessed value
+16
+17
+of the real property of each county to the full or fair cash value
+17
+18
+of such real property, the Oklahoma Tax Commission shall conduct and
+18
+19
+publish an equalization ratio study for each county annually in
+19
+20
+accordance with the requirements of this section.
+20
+21
+B. The equalization ratio study shall be conducted in a manner
+21
+22
+that ensures:
+22
+23
+
+Section 4:
+1. the The ratio of assessed value to the fair cash value of
+23
+24
+properties in a sample extracted from a county is expressed as a
+24
+Req. No. 2256 Page 1
+1
+median of the ratios determined for all properties included in the
+1
+2
+sample;
+2
+3
+
+Section 5:
+2. sample Sample data gathered for purposes of establishing the
+3
+4
+fair cash value of properties within the sample relates to the
+4
+5
+applicable assessment date of the study in a manner that produces
+5
+6
+reliable ratio study results;
+6
+7
+
+Section 6:
+3. sample Sample sizes of sufficient numbers to produce an
+7
+8
+estimated ratio for a use category within a county or a ratio for an
+8
+9
+entire county at a ratio that accurately estimates the true, but
+9
+10
+unknown, assessment level;
+10
+11
+
+Section 7:
+4. appraisals Appraisals selected for inclusion in the ratio
+11
+12
+study are representative of the use category or stratum of
+12
+13
+properties included in the sample;
+13
+14
+
+Section 8:
+5. sales Sales files containing adequate information are
+14
+15
+developed and maintained for purposes of appraisals; and
+15
+16
+
+Section 9:
+6. uniformity Uniformity of assessments within a use category
+16
+17
+or stratum for a county do not exceed a coefficient of dispersion
+17
+18
+value of twenty percent (20%).
+18
+19
+C. Upon completion of the study required by this section,
+19
+20
+counties found to have median assessed ratios within a deviation
+20
+21
+range of seventy-five hundredths of one percent (0.75%) of the
+21
+22
+assessment percentage of the county, as authorized pursuant to
+22
+23
+
+Section 10:
+Section 8 of Article X of the Oklahoma Constitution, for each
+23
+24
+property classification, and to have median assessed ratios within a
+24
+Req. No. 2256 Page 2
+1
+deviation range of one and fifty hundredths percent (1.50%) between
+1
+2
+each property classification, shall be certified to the State Board
+2
+3
+of Equalization as being in compliance with the equalization ratio
+3
+4
+study requirements.
+4
+5
+D. The Oklahoma Tax Commission shall provide for a computer
+5
+6
+system that permits the equalization ratio study to be conducted
+6
+7
+pursuant to the requirements of this section. Such computer system
+7
+8
+shall be designed to permit monitoring and analysis of assessment
+8
+9
+performance in the several counties and to detect noncompliance with
+9
+10
+legal standards for valuation of taxable property in order to
+10
+11
+fulfill the duties imposed by Section 2830 of this title. The
+11
+12
+provisions of this subsection shall not be construed to authorize
+12
+13
+the Oklahoma Tax Commission to install a mainframe computer capable
+13
+14
+of remote monitoring of or making inputs into computers in the
+14
+15
+offices of the various county assessors.
+15
+16
+
+Section 11:
+SECTION 2. This act shall become effective November 1, 2026.
+16
+17
+17
+18
+60-2-2256 QD 12/2/2025 11:14:42 PM
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2256 Page 3
+[DELETED:  P B S]
+[DELETED:  P]
+[DELETED:  P Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1212 By: Sacchieri
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Ad Valorem Tax Code; amending
+7
+68 O.S. 2021, Section 2866, which relates to the
+8
+equalization ratio study; prescribing compliance
+8
+requirements for counties; updating statutory
+9
+language; and providing an effective date.
+9
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2866, is
+13
+14
+amended to read as follows:
+14
+15
+Section 2866. A. For purposes of reporting to the State Board
+15
+16
+of Equalization the ratio derived from comparing the assessed value
+16
+17
+of the real property of each county to the full or fair cash value
+17
+18
+of such real property, the Oklahoma Tax Commission shall conduct and
+18
+19
+publish an equalization ratio study for each county annually in
+19
+20
+accordance with the requirements of this section.
+20
+21
+B. The equalization ratio study shall be conducted in a manner
+21
+22
+that ensures:
+22
+23
+1. the The ratio of assessed value to the fair cash value of
+23
+24
+properties in a sample extracted from a county is expressed as a
+24
+Req. No. 2256 Page 1
+
+1
+median of the ratios determined for all properties included in the
+1
+2
+sample;
+2
+3
+2. sample Sample data gathered for purposes of establishing the
+3
+4
+fair cash value of properties within the sample relates to the
+4
+5
+applicable assessment date of the study in a manner that produces
+5
+6
+reliable ratio study results;
+6
+7
+3. sample Sample sizes of sufficient numbers to produce an
+7
+8
+estimated ratio for a use category within a county or a ratio for an
+8
+9
+entire county at a ratio that accurately estimates the true, but
+9
+10
+unknown, assessment level;
+10
+11
+4. appraisals Appraisals selected for inclusion in the ratio
+11
+12
+study are representative of the use category or stratum of
+12
+13
+properties included in the sample;
+13
+14
+5. sales Sales files containing adequate information are
+14
+15
+developed and maintained for purposes of appraisals; and
+15
+16
+6. uniformity Uniformity of assessments within a use category
+16
+17
+or stratum for a county do not exceed a coefficient of dispersion
+17
+18
+value of twenty percent (20%).
+18
+19
+C. Upon completion of the study required by this section,
+19
+20
+counties found to have median assessed ratios within a deviation
+20
+21
+range of seventy-five hundredths of one percent (0.75%) of the
+21
+22
+assessment percentage of the county, as authorized pursuant to
+22
+23
+Section 8 of Article X of the Oklahoma Constitution, for each
+23
+24
+property classification, and to have median assessed ratios within a
+24
+Req. No. 2256 Page 2
+
+1
+deviation range of one and fifty hundredths percent (1.50%) between
+1
+2
+each property classification, shall be certified to the State Board
+2
+3
+of Equalization as being in compliance with the equalization ratio
+3
+4
+study requirements.
+4
+5
+D. The Oklahoma Tax Commission shall provide for a computer
+5
+6
+system that permits the equalization ratio study to be conducted
+6
+7
+pursuant to the requirements of this section. Such computer system
+7
+8
+shall be designed to permit monitoring and analysis of assessment
+8
+9
+performance in the several counties and to detect noncompliance with
+9
+10
+legal standards for valuation of taxable property in order to
+10
+11
+fulfill the duties imposed by Section 2830 of this title. The
+11
+12
+provisions of this subsection shall not be construed to authorize
+12
+13
+the Oklahoma Tax Commission to install a mainframe computer capable
+13
+14
+of remote monitoring of or making inputs into computers in the
+14
+15
+offices of the various county assessors.
+15
+16
+SECTION 2. This act shall become effective November 1, 2026.
+16
+17
+17
+18
+60-2-2256 QD 12/2/2025 11:14:42 PM
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2256 Page 3
+
+[DELETED:  P B S]
+[DELETED:  P]
+[DELETED:  P Q 1]

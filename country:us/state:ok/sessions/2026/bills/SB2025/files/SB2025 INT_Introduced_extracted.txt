@@ -1,0 +1,1409 @@
+Title: SENATE BILL 2025 By: Deevers
+Official Title: SENATE BILL 2025 By: Deevers
+Number of Sections: 43
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+AS INTRODUCED
+5
+6
+An Act relating to digital asset kiosks; creating the
+6
+Virtual Currency Kiosk Consumer Access and Protection
+7
+Act; providing short title; defining terms; requiring
+7
+certain operators to hold certain licenses to operate
+8
+in this state; requiring certain submission to the
+8
+Banking Department; establishing certain report
+9
+requirements; requiring certain interface to display
+9
+certain information; requiring certain fraud warning
+10
+to be displayed during certain time of transaction;
+10
+requiring certain fraud warning to include certain
+11
+information; requiring display of certain telephone
+11
+number; requiring provision of certain receipt after
+12
+certain transaction; requiring certain transaction
+12
+limits for certain customers; requiring certain
+13
+records to be maintained by certain operator;
+13
+requiring certain records to be preserved for a
+14
+certain period of time; requiring certain operator to
+14
+cooperate with certain investigations; construing
+15
+provisions; allowing Banking Department to promulgate
+15
+rules; allowing the Department to conduct certain
+16
+investigations and examinations of certain operators;
+16
+providing for certain fees; providing for certain
+17
+penalties; establishing certain remedies and
+17
+penalties to be cumulative; allowing certain operator
+18
+to challenge certain final order in a certain manner;
+18
+providing for codification; and providing an
+19
+effective date.
+19
+20
+20
+21
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+21
+22
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+22
+23
+in the Oklahoma Statutes as Section 1521 of Title 6, unless there is
+23
+24
+created a duplication in numbering, reads as follows:
+24
+Req. No. 3445 Page 1
+1
+This act shall be known and may be cited as the “Virtual
+1
+2
+Currency Kiosk Consumer Access and Protection Act”.
+2
+3
+
+Section 3:
+SECTION 2. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 1521.1 of Title 6, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+As used in this act:
+6
+7
+
+Section 4:
+1. “Customer” means an individual who uses a digital asset
+7
+8
+kiosk to conduct a transaction involving digital assets;
+8
+9
+
+Section 5:
+2. “Digital asset” means virtual currencies, cryptocurrencies,
+9
+10
+including stablecoins, fungible tokens, non-fungible tokens, and
+10
+11
+other digital-only assets that confer economic, proprietary, or
+11
+12
+access rights or powers;
+12
+13
+
+Section 6:
+3. “Digital asset kiosk” means an electronic terminal that
+13
+14
+enables a consumer to exchange fiat currency for digital assets, or
+14
+15
+digital assets for fiat currency. Digital asset kiosk includes, but
+15
+16
+is not limited to, a machine that either connects to an external
+16
+17
+digital asset exchange to execute the transaction or dispenses
+17
+18
+digital assets from the kiosk operator’s own holdings;
+18
+19
+
+Section 7:
+4. “Digital asset kiosk operator” means a person or entity
+19
+20
+authorized to do business in this state that owns or operators one
+20
+21
+or more digital asset kiosks in this state;
+21
+22
+
+Section 8:
+5. “Fiat currency” means government-issued currency that is
+22
+23
+designated as legal tender in the United States and is not backed by
+23
+24
+a physical commodity;
+24
+Req. No. 3445 Page 2
+1
+
+Section 9:
+6. “Money transmission license” means a license issued in this
+1
+2
+state to engage in the business of money transmission;
+2
+3
+
+Section 10:
+7. “New customer” means a customer during the period of five
+3
+4
+(5) calendar days following the date of that customer’s first
+4
+5
+transaction with a digital asset kiosk operator; and
+5
+6
+
+Section 11:
+8. “Virtual business license” means a license, registration, or
+6
+7
+other authorization issued under the laws of this state to engage in
+7
+8
+digital asset or virtual currency business activity.
+8
+9
+
+Section 12:
+SECTION 3. NEW LAW A new section of law to be codified
+9
+10
+in the Oklahoma Statutes as Section 1521.2 of Title 6, unless there
+10
+11
+is created a duplication in numbering, reads as follows:
+11
+12
+A. No digital asset kiosk operator shall operate any digital
+12
+13
+asset kiosk in this state unless the operator:
+13
+14
+
+Section 13:
+1. Holds a valid money transmission license; or
+14
+15
+
+Section 14:
+2. Holds a valid virtual business license.
+15
+16
+B. A digital asset kiosk operator shall submit to the Banking
+16
+17
+Department an annual report listing all digital asset kiosk
+17
+18
+locations operated in this state. The report shall include:
+18
+19
+
+Section 15:
+1. The name of the business or establishment where each digital
+19
+20
+asset kiosk is located;
+20
+21
+
+Section 16:
+2. The physical address of the location where each digital
+21
+22
+asset kiosk is located;
+22
+23
+
+Section 17:
+3. The date on which each digital asset kiosk began operation;
+23
+24
+and
+24
+Req. No. 3445 Page 3
+1
+
+Section 18:
+4. The date on which each digital asset kiosk ceased operation,
+1
+2
+if applicable.
+2
+3
+C. Each digital asset kiosk operation shall ensure that each
+3
+4
+kiosk’s user interface prominently displays the following
+4
+5
+information to the customer before the customer commits to a
+5
+6
+transaction:
+6
+7
+
+Section 19:
+1. All fees or charges the customer will incur for the
+7
+8
+transaction;
+8
+9
+
+Section 20:
+2. The applicable exchange rate or price used to convert
+9
+10
+between fiat currency and the digital asset, if applicable;
+10
+11
+
+Section 21:
+3. A notice that transactions in digital assets are irrevocable
+11
+12
+and cannot be refunded once executed; and
+12
+13
+
+Section 22:
+4. A notice that digital assets and transactions conducted
+13
+14
+through the digital asset kiosk are not insured or guaranteed by the
+14
+15
+Federal Deposit Insurance Corporation or the Securities Investor
+15
+16
+Protection Corporation.
+16
+17
+D. Each digital asset kiosk operator shall ensure that a fraud
+17
+18
+warning is displayed on the kiosk interface before a customer may
+18
+19
+complete any transaction. The fraud warning shall:
+19
+20
+
+Section 23:
+1. Describe common scam tactics involving digital asset kiosks
+20
+21
+and shall advise the customer not to proceed with the transaction if
+21
+22
+he or she is being instructed or pressured by a third party or if he
+22
+23
+or she suspects fraud;
+23
+24
+24
+Req. No. 3445 Page 4
+1
+
+Section 24:
+2. State that no government agency or official will ever
+1
+2
+request payment using a digital asset kiosk; and
+2
+3
+
+Section 25:
+3. Direct customers who suspect fraud to contact the phone
+3
+4
+number displayed on the kiosk pursuant to subsection E of this
+4
+5
+
+Section 26:
+section.
+5
+6
+E. Each digital asset kiosk shall display a valid telephone
+6
+7
+number that customers can call for assistance or to report issues.
+7
+8
+Such telephone number shall connect either to the digital asset
+8
+9
+kiosk operator’s customer service center or to a designated local
+9
+10
+law enforcement nonemergency line. The telephone number shall be
+10
+11
+posted prominently on the kiosk or its electronic display so that
+11
+12
+customers can easily see it before and during a transaction.
+12
+13
+F. Upon completion of any transaction at a digital asset kiosk,
+13
+14
+the digital asset kiosk operator shall provide the customer with a
+14
+15
+receipt in either printed or electronic form. Each receipt shall
+15
+16
+include:
+16
+17
+
+Section 27:
+1. The date and time of the transaction;
+17
+18
+
+Section 28:
+2. The type and amount of digital asset transacted and, if
+18
+19
+applicable, the corresponding amount of fiat currency exchanged;
+19
+20
+
+Section 29:
+3. The fees charged for the transaction;
+20
+21
+
+Section 30:
+4. The exchange rate applied; and
+21
+22
+
+Section 31:
+5. The name of the digital asset kiosk operator and the
+22
+23
+operator’s customer service contact information.
+23
+24
+24
+Req. No. 3445 Page 5
+1
+G. Each digital asset kiosk operator shall implement
+1
+2
+transaction limits for new customers. New customers shall not be
+2
+3
+permitted to conduct transactions totaling more than Three Thousand
+3
+4
+Dollars ($3,000.00) per calendar day through a digital asset kiosk.
+4
+5
+
+Section 32:
+SECTION 4. NEW LAW A new section of law to be codified
+5
+6
+in the Oklahoma Statutes as Section 1521.3 of Title 6, unless there
+6
+7
+is created a duplication in numbering, reads as follows:
+7
+8
+A. Each digital asset kiosk operator shall maintain complete
+8
+9
+and accurate records of all digital asset kiosk transactions and
+9
+10
+related customer information as required under applicable state and
+10
+11
+federal law. The records shall be preserved, at minimum, for the
+11
+12
+period of time required by the Banking Department’s regulations or
+12
+13
+other applicable law.
+13
+14
+B. A digital asset kiosk operator shall cooperate with law
+14
+15
+enforcement authorities in the investigation and prevention of fraud
+15
+16
+and other unlawful activities. Such cooperation shall include, but
+16
+17
+is not limited to:
+17
+18
+
+Section 33:
+1. Promptly complying with lawful subpoenas, court orders, and
+18
+19
+other official requests for records or information relating to
+19
+20
+digital asset kiosks or customers;
+20
+21
+
+Section 34:
+2. Respond in good faith to lawful requests from the Banking
+21
+22
+Department or law enforcement relating to fraud involving a digital
+22
+23
+asset kiosk; and
+23
+24
+24
+Req. No. 3445 Page 6
+1
+
+Section 35:
+3. Designate a point of contact within the digital asset kiosk
+1
+2
+operator’s organization for communication with the Department and
+2
+3
+law enforcement regarding fraud-related matters.
+3
+4
+C. No provision of this section shall be construed to require a
+4
+5
+digital asset kiosk operator to monitor or block transactions in
+5
+6
+real time except as required by applicable law.
+6
+7
+
+Section 36:
+SECTION 5. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 1521.4 of Title 6, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. The Banking Department may promulgate any rules necessary
+10
+11
+for the enforcement of this act. The Department may conduct
+11
+12
+investigations and examinations of digital asset kiosk operators as
+12
+13
+reasonably necessary to ensure compliance with this act and any
+13
+14
+rules adopted pursuant to this act. In conducting such
+14
+15
+investigations, the Department may:
+15
+16
+
+Section 37:
+1. Require a digital asset kiosk operator to submit reports or
+16
+17
+documentation relevant to its digital asset kiosk business and
+17
+18
+compliance with this act;
+18
+19
+
+Section 38:
+2. Inspect the books, records, and digital asset kiosks of the
+19
+20
+operator during normal business hours; and
+20
+21
+
+Section 39:
+3. Take testimony or issue subpoenas to compel the appearance
+21
+22
+of witnesses and the production of documents.
+22
+23
+23
+24
+24
+Req. No. 3445 Page 7
+1
+B. If the Department determines that a digital asset kiosk
+1
+2
+operator has violated this act or any rule or order issued pursuant
+2
+3
+to this act, the Department may:
+3
+4
+
+Section 40:
+1. Issue an order requiring the operator to cease and desist
+4
+5
+the violation and to take corrective action as necessary to comply
+5
+6
+with this act;
+6
+7
+
+Section 41:
+2. Impose an administrative fine or penalty. Each violation,
+7
+8
+or each day that a violation continues, may be treated as a separate
+8
+9
+violation. The maximum penalty for each violation shall be One
+9
+10
+Thousand Dollars ($1,000.00); and
+10
+11
+
+Section 42:
+3. Suspend or revoke the digital asset kiosk operator’s license
+11
+12
+or virtual business license, or suspend or prohibit such operator
+12
+13
+from operating any digital asset kiosks in this state.
+13
+14
+C. The remedies and penalties provided in this section shall be
+14
+15
+cumulative and shall not limit enforcement under other applicable
+15
+16
+laws of this state.
+16
+17
+D. Nothing in this act shall be construed to limit the rights
+17
+18
+of any person to pursue civil remedies against a digital asset kiosk
+18
+19
+operator or to restrict the authority of the Attorney General or
+19
+20
+other authorized officials of this state to bring civil or criminal
+20
+21
+proceedings under applicable law.
+21
+22
+E. A digital asset kiosk operator may challenge any final order
+22
+23
+or enforcement action taken by the Department pursuant to this act
+23
+24
+24
+Req. No. 3445 Page 8
+1
+by filing an appeal in a court of competent jurisdiction in
+1
+2
+accordance with applicable state law.
+2
+3
+
+Section 43:
+SECTION 6. This act shall become effective November 1, 2026.
+3
+4
+4
+5
+60-2-3445 CAD 1/15/2026 10:29:13 AM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3445 Page 9
+[DELETED:  P B D]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 2025 By: Deevers
+3
+4
+4
+5
+AS INTRODUCED
+5
+6
+An Act relating to digital asset kiosks; creating the
+6
+Virtual Currency Kiosk Consumer Access and Protection
+7
+Act; providing short title; defining terms; requiring
+7
+certain operators to hold certain licenses to operate
+8
+in this state; requiring certain submission to the
+8
+Banking Department; establishing certain report
+9
+requirements; requiring certain interface to display
+9
+certain information; requiring certain fraud warning
+10
+to be displayed during certain time of transaction;
+10
+requiring certain fraud warning to include certain
+11
+information; requiring display of certain telephone
+11
+number; requiring provision of certain receipt after
+12
+certain transaction; requiring certain transaction
+12
+limits for certain customers; requiring certain
+13
+records to be maintained by certain operator;
+13
+requiring certain records to be preserved for a
+14
+certain period of time; requiring certain operator to
+14
+cooperate with certain investigations; construing
+15
+provisions; allowing Banking Department to promulgate
+15
+rules; allowing the Department to conduct certain
+16
+investigations and examinations of certain operators;
+16
+providing for certain fees; providing for certain
+17
+penalties; establishing certain remedies and
+17
+penalties to be cumulative; allowing certain operator
+18
+to challenge certain final order in a certain manner;
+18
+providing for codification; and providing an
+19
+effective date.
+19
+20
+20
+21
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+21
+22
+SECTION 1. NEW LAW A new section of law to be codified
+22
+23
+in the Oklahoma Statutes as Section 1521 of Title 6, unless there is
+23
+24
+created a duplication in numbering, reads as follows:
+24
+Req. No. 3445 Page 1
+
+1
+This act shall be known and may be cited as the “Virtual
+1
+2
+Currency Kiosk Consumer Access and Protection Act”.
+2
+3
+SECTION 2. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 1521.1 of Title 6, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+As used in this act:
+6
+7
+1. “Customer” means an individual who uses a digital asset
+7
+8
+kiosk to conduct a transaction involving digital assets;
+8
+9
+2. “Digital asset” means virtual currencies, cryptocurrencies,
+9
+10
+including stablecoins, fungible tokens, non-fungible tokens, and
+10
+11
+other digital-only assets that confer economic, proprietary, or
+11
+12
+access rights or powers;
+12
+13
+3. “Digital asset kiosk” means an electronic terminal that
+13
+14
+enables a consumer to exchange fiat currency for digital assets, or
+14
+15
+digital assets for fiat currency. Digital asset kiosk includes, but
+15
+16
+is not limited to, a machine that either connects to an external
+16
+17
+digital asset exchange to execute the transaction or dispenses
+17
+18
+digital assets from the kiosk operator’s own holdings;
+18
+19
+4. “Digital asset kiosk operator” means a person or entity
+19
+20
+authorized to do business in this state that owns or operators one
+20
+21
+or more digital asset kiosks in this state;
+21
+22
+5. “Fiat currency” means government-issued currency that is
+22
+23
+designated as legal tender in the United States and is not backed by
+23
+24
+a physical commodity;
+24
+Req. No. 3445 Page 2
+
+1
+6. “Money transmission license” means a license issued in this
+1
+2
+state to engage in the business of money transmission;
+2
+3
+7. “New customer” means a customer during the period of five
+3
+4
+(5) calendar days following the date of that customer’s first
+4
+5
+transaction with a digital asset kiosk operator; and
+5
+6
+8. “Virtual business license” means a license, registration, or
+6
+7
+other authorization issued under the laws of this state to engage in
+7
+8
+digital asset or virtual currency business activity.
+8
+9
+SECTION 3. NEW LAW A new section of law to be codified
+9
+10
+in the Oklahoma Statutes as Section 1521.2 of Title 6, unless there
+10
+11
+is created a duplication in numbering, reads as follows:
+11
+12
+A. No digital asset kiosk operator shall operate any digital
+12
+13
+asset kiosk in this state unless the operator:
+13
+14
+1. Holds a valid money transmission license; or
+14
+15
+2. Holds a valid virtual business license.
+15
+16
+B. A digital asset kiosk operator shall submit to the Banking
+16
+17
+Department an annual report listing all digital asset kiosk
+17
+18
+locations operated in this state. The report shall include:
+18
+19
+1. The name of the business or establishment where each digital
+19
+20
+asset kiosk is located;
+20
+21
+2. The physical address of the location where each digital
+21
+22
+asset kiosk is located;
+22
+23
+3. The date on which each digital asset kiosk began operation;
+23
+24
+and
+24
+Req. No. 3445 Page 3
+
+1
+4. The date on which each digital asset kiosk ceased operation,
+1
+2
+if applicable.
+2
+3
+C. Each digital asset kiosk operation shall ensure that each
+3
+4
+kiosk’s user interface prominently displays the following
+4
+5
+information to the customer before the customer commits to a
+5
+6
+transaction:
+6
+7
+1. All fees or charges the customer will incur for the
+7
+8
+transaction;
+8
+9
+2. The applicable exchange rate or price used to convert
+9
+10
+between fiat currency and the digital asset, if applicable;
+10
+11
+3. A notice that transactions in digital assets are irrevocable
+11
+12
+and cannot be refunded once executed; and
+12
+13
+4. A notice that digital assets and transactions conducted
+13
+14
+through the digital asset kiosk are not insured or guaranteed by the
+14
+15
+Federal Deposit Insurance Corporation or the Securities Investor
+15
+16
+Protection Corporation.
+16
+17
+D. Each digital asset kiosk operator shall ensure that a fraud
+17
+18
+warning is displayed on the kiosk interface before a customer may
+18
+19
+complete any transaction. The fraud warning shall:
+19
+20
+1. Describe common scam tactics involving digital asset kiosks
+20
+21
+and shall advise the customer not to proceed with the transaction if
+21
+22
+he or she is being instructed or pressured by a third party or if he
+22
+23
+or she suspects fraud;
+23
+24
+24
+Req. No. 3445 Page 4
+
+1
+2. State that no government agency or official will ever
+1
+2
+request payment using a digital asset kiosk; and
+2
+3
+3. Direct customers who suspect fraud to contact the phone
+3
+4
+number displayed on the kiosk pursuant to subsection E of this
+4
+5
+section.
+5
+6
+E. Each digital asset kiosk shall display a valid telephone
+6
+7
+number that customers can call for assistance or to report issues.
+7
+8
+Such telephone number shall connect either to the digital asset
+8
+9
+kiosk operator’s customer service center or to a designated local
+9
+10
+law enforcement nonemergency line. The telephone number shall be
+10
+11
+posted prominently on the kiosk or its electronic display so that
+11
+12
+customers can easily see it before and during a transaction.
+12
+13
+F. Upon completion of any transaction at a digital asset kiosk,
+13
+14
+the digital asset kiosk operator shall provide the customer with a
+14
+15
+receipt in either printed or electronic form. Each receipt shall
+15
+16
+include:
+16
+17
+1. The date and time of the transaction;
+17
+18
+2. The type and amount of digital asset transacted and, if
+18
+19
+applicable, the corresponding amount of fiat currency exchanged;
+19
+20
+3. The fees charged for the transaction;
+20
+21
+4. The exchange rate applied; and
+21
+22
+5. The name of the digital asset kiosk operator and the
+22
+23
+operator’s customer service contact information.
+23
+24
+24
+Req. No. 3445 Page 5
+
+1
+G. Each digital asset kiosk operator shall implement
+1
+2
+transaction limits for new customers. New customers shall not be
+2
+3
+permitted to conduct transactions totaling more than Three Thousand
+3
+4
+Dollars ($3,000.00) per calendar day through a digital asset kiosk.
+4
+5
+SECTION 4. NEW LAW A new section of law to be codified
+5
+6
+in the Oklahoma Statutes as Section 1521.3 of Title 6, unless there
+6
+7
+is created a duplication in numbering, reads as follows:
+7
+8
+A. Each digital asset kiosk operator shall maintain complete
+8
+9
+and accurate records of all digital asset kiosk transactions and
+9
+10
+related customer information as required under applicable state and
+10
+11
+federal law. The records shall be preserved, at minimum, for the
+11
+12
+period of time required by the Banking Department’s regulations or
+12
+13
+other applicable law.
+13
+14
+B. A digital asset kiosk operator shall cooperate with law
+14
+15
+enforcement authorities in the investigation and prevention of fraud
+15
+16
+and other unlawful activities. Such cooperation shall include, but
+16
+17
+is not limited to:
+17
+18
+1. Promptly complying with lawful subpoenas, court orders, and
+18
+19
+other official requests for records or information relating to
+19
+20
+digital asset kiosks or customers;
+20
+21
+2. Respond in good faith to lawful requests from the Banking
+21
+22
+Department or law enforcement relating to fraud involving a digital
+22
+23
+asset kiosk; and
+23
+24
+24
+Req. No. 3445 Page 6
+
+1
+3. Designate a point of contact within the digital asset kiosk
+1
+2
+operator’s organization for communication with the Department and
+2
+3
+law enforcement regarding fraud-related matters.
+3
+4
+C. No provision of this section shall be construed to require a
+4
+5
+digital asset kiosk operator to monitor or block transactions in
+5
+6
+real time except as required by applicable law.
+6
+7
+SECTION 5. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 1521.4 of Title 6, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. The Banking Department may promulgate any rules necessary
+10
+11
+for the enforcement of this act. The Department may conduct
+11
+12
+investigations and examinations of digital asset kiosk operators as
+12
+13
+reasonably necessary to ensure compliance with this act and any
+13
+14
+rules adopted pursuant to this act. In conducting such
+14
+15
+investigations, the Department may:
+15
+16
+1. Require a digital asset kiosk operator to submit reports or
+16
+17
+documentation relevant to its digital asset kiosk business and
+17
+18
+compliance with this act;
+18
+19
+2. Inspect the books, records, and digital asset kiosks of the
+19
+20
+operator during normal business hours; and
+20
+21
+3. Take testimony or issue subpoenas to compel the appearance
+21
+22
+of witnesses and the production of documents.
+22
+23
+23
+24
+24
+Req. No. 3445 Page 7
+
+1
+B. If the Department determines that a digital asset kiosk
+1
+2
+operator has violated this act or any rule or order issued pursuant
+2
+3
+to this act, the Department may:
+3
+4
+1. Issue an order requiring the operator to cease and desist
+4
+5
+the violation and to take corrective action as necessary to comply
+5
+6
+with this act;
+6
+7
+2. Impose an administrative fine or penalty. Each violation,
+7
+8
+or each day that a violation continues, may be treated as a separate
+8
+9
+violation. The maximum penalty for each violation shall be One
+9
+10
+Thousand Dollars ($1,000.00); and
+10
+11
+3. Suspend or revoke the digital asset kiosk operator’s license
+11
+12
+or virtual business license, or suspend or prohibit such operator
+12
+13
+from operating any digital asset kiosks in this state.
+13
+14
+C. The remedies and penalties provided in this section shall be
+14
+15
+cumulative and shall not limit enforcement under other applicable
+15
+16
+laws of this state.
+16
+17
+D. Nothing in this act shall be construed to limit the rights
+17
+18
+of any person to pursue civil remedies against a digital asset kiosk
+18
+19
+operator or to restrict the authority of the Attorney General or
+19
+20
+other authorized officials of this state to bring civil or criminal
+20
+21
+proceedings under applicable law.
+21
+22
+E. A digital asset kiosk operator may challenge any final order
+22
+23
+or enforcement action taken by the Department pursuant to this act
+23
+24
+24
+Req. No. 3445 Page 8
+
+1
+by filing an appeal in a court of competent jurisdiction in
+1
+2
+accordance with applicable state law.
+2
+3
+SECTION 6. This act shall become effective November 1, 2026.
+3
+4
+4
+5
+60-2-3445 CAD 1/15/2026 10:29:13 AM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3445 Page 9
+
+[DELETED:  P B D]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]

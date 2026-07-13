@@ -1,0 +1,3426 @@
+Title: SENATE BILL 1657 By: Daniels
+Official Title: SENATE BILL 1657 By: Daniels
+Number of Sections: 91
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+AS INTRODUCED
+7
+8
+An Act relating to abortion; defining terms; limiting
+8
+applicability of act; providing certain construction;
+9
+prohibiting manufacture or provision of abortion-
+9
+inducing drugs; limiting effect of prohibition;
+10
+providing for and prohibiting certain enforcement;
+10
+authorizing certain qui tam actions; specifying
+11
+conditions for bringing qui tam action; prohibiting
+11
+certain actions and litigation; prohibiting certain
+12
+disclosures and access to information; prohibiting
+12
+certain deposition orders; specifying deadline for
+13
+certain actions; creating and prohibiting certain
+13
+affirmative defenses; specifying burden of proof;
+14
+directing and prohibiting award of certain relief;
+14
+prohibiting certain acts by public entities;
+15
+specifying jurisdiction; specifying applicability of
+15
+certain provisions; defining term; specifying
+16
+applicability of certain laws; directing award of
+16
+certain relief; prohibiting enforcement of certain
+17
+judgments; prohibiting certain defenses; providing
+17
+for codification; and declaring an emergency.
+18
+18
+19
+19
+20
+20
+21
+21
+22
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+22
+23
+23
+24
+24
+Req. No. 2462 Page 1
+1
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 1-745.61 of Title 63, unless
+2
+3
+there is created a duplication in numbering, reads as follows:
+3
+4
+
+Section 3:
+1. “Abortion” means the use or prescription of any instrument,
+4
+5
+medicine, drug, or any other substance or device intentionally to
+5
+6
+terminate the pregnancy of a female known to be pregnant with an
+6
+7
+intention other than to increase the probability of a live birth, to
+7
+8
+preserve the life or health of the child after live birth, to remove
+8
+9
+an ectopic pregnancy, or to remove a dead unborn child who died as
+9
+10
+the result of a spontaneous miscarriage, accidental trauma, or a
+10
+11
+criminal assault on the pregnant female or her unborn child;
+11
+12
+
+Section 4:
+2. “Abortion-inducing drug” means a medicine, drug, or any
+12
+13
+other substance prescribed or dispensed with the intent of
+13
+14
+terminating the pregnancy of a woman known to be pregnant, with
+14
+15
+knowledge that the termination will with reasonable likelihood cause
+15
+16
+the death of the unborn child. This includes the off-label use of
+16
+17
+drugs known to have abortion-inducing properties, which are
+17
+18
+prescribed specifically with the intent of causing an abortion, such
+18
+19
+as mifepristone (Mifeprex), misoprostol (Cytotec), and methotrexate.
+19
+20
+This definition does not apply to drugs that may be known to cause
+20
+21
+an abortion, but which are prescribed for other medical indications,
+21
+22
+such as chemotherapeutic agents and diagnostic drugs. The use of
+22
+23
+such drugs to induce abortion is also known as “medical”,
+23
+24
+“medication”, “RU–486”, “chemical”, “Mifeprex regimen”, or “drug-
+24
+Req. No. 2462 Page 2
+1
+induced” abortion;
+1
+2
+
+Section 5:
+3. “Health care facility” means a facility licensed by the
+2
+3
+State Department of Health, except the term does not include a
+3
+4
+hospital;
+4
+5
+
+Section 6:
+4. “Health care provider” means a person who is licensed,
+5
+6
+certified, or registered by this state to provide health care
+6
+7
+services or a medical group, independent practice association, or
+7
+8
+professional corporation providing health care services; and
+8
+9
+
+Section 7:
+5. “Hospital” means:
+9
+10
+a. a hospital licensed by the State Department of Health
+10
+11
+under Section 1-702 of Title 63 of the Oklahoma
+11
+12
+Statutes, or
+12
+13
+b. a hospital owned, maintained, or operated by this
+13
+14
+state.
+14
+15
+
+Section 8:
+SECTION 2. NEW LAW A new section of law to be codified
+15
+16
+in the Oklahoma Statutes as Section 1-745.62 of Title 63, unless
+16
+17
+there is created a duplication in numbering, reads as follows:
+17
+18
+A. This act does not apply to and a civil action under this act
+18
+19
+may not be brought against:
+19
+20
+
+Section 9:
+1. A hospital;
+20
+21
+
+Section 10:
+2. A health care facility licensed, owned, maintained, or
+21
+22
+operated by this state;
+22
+23
+
+Section 11:
+3. A health care provider, other than a provider against whom a
+23
+24
+qui tam action may be brought in accordance with paragraph 8 of
+24
+Req. No. 2462 Page 3
+1
+subsection D of Section 5 of this act;
+1
+2
+
+Section 12:
+4. An Internet service provider or the provider’s affiliates or
+2
+3
+subsidiaries;
+3
+4
+
+Section 13:
+5. An Internet search engine;
+4
+5
+
+Section 14:
+6. A cloud service provider solely providing access or
+5
+6
+connection to or from an Internet website or other information or
+6
+7
+content on the Internet or on a facility, system, or network that is
+7
+8
+not under the provider’s control, including transmission,
+8
+9
+downloading, intermediate storage, access software, or other
+9
+10
+services; or
+10
+11
+
+Section 15:
+7. A person who manufactures, distributes, mails, transports,
+11
+12
+delivers, prescribes, provides, or possesses abortion-inducing drugs
+12
+13
+in this state solely for one or more of the following purposes:
+13
+14
+a. treating a life-threatening medical condition through
+14
+15
+an abortion performed under Section 861 of Title 21 of
+15
+16
+the Oklahoma Statutes,
+16
+17
+b. removing an ectopic pregnancy,
+17
+18
+c. removing a dead, unborn child whose death was caused
+18
+19
+by spontaneous abortion, or
+19
+20
+d. a purpose that does not include performing, inducing,
+20
+21
+attempting, or assisting an abortion, other than an
+21
+22
+abortion performed to preserve the life of a pregnant
+22
+23
+woman as provided by Section 861 of Title 21 of the
+23
+24
+Oklahoma Statutes.
+24
+Req. No. 2462 Page 4
+1
+B. This act may not be construed to require the actual
+1
+2
+performance, inducement, or attempted performance of an abortion in
+2
+3
+order for a person to bring a civil action authorized by this act.
+3
+4
+
+Section 16:
+SECTION 3. NEW LAW A new section of law to be codified
+4
+5
+in the Oklahoma Statutes as Section 1-745.63 of Title 63, unless
+5
+6
+there is created a duplication in numbering, reads as follows:
+6
+7
+A. Except as provided by subsection B of this section or
+7
+8
+
+Section 17:
+Section 2 of this act, a person may not:
+8
+9
+
+Section 18:
+1. Manufacture or distribute an abortion-inducing drug in this
+9
+10
+state; or
+10
+11
+
+Section 19:
+2. Mail, transport, deliver, prescribe, or provide an abortion-
+11
+12
+inducing drug in any manner to or from any person or location in
+12
+13
+this state.
+13
+14
+B. Subsection A of this section does not prohibit:
+14
+15
+
+Section 20:
+1. Speech or conduct protected by the First Amendment to the
+15
+16
+United States Constitution, as made applicable to the states through
+16
+17
+the United States Supreme Court’s interpretation of the Fourteenth
+17
+18
+Amendment to the United States Constitution, or protected by Section
+18
+19
+22 of Article II of the Oklahoma Constitution;
+19
+20
+
+Section 21:
+2. Conduct a pregnant woman engages in during the course of
+20
+21
+aborting or attempting to abort the woman’s unborn child;
+21
+22
+
+Section 22:
+3. The manufacture, distribution, mailing, transport, delivery,
+22
+23
+prescribing, provision, or possession of an abortion-inducing drug
+23
+24
+solely for one or more of the purposes described by paragraph 7 of
+24
+Req. No. 2462 Page 5
+1
+subsection A of Section 2 of this act; or
+1
+2
+
+Section 23:
+4. Conduct a person engages in under the direction of a federal
+2
+3
+agency, contractor, or employee to carry out a duty under federal
+3
+4
+law, if prohibiting that conduct would violate the doctrine of
+4
+5
+preemption or intergovernmental immunity.
+5
+6
+
+Section 24:
+SECTION 4. NEW LAW A new section of law to be codified
+6
+7
+in the Oklahoma Statutes as Section 1-745.64 of Title 63, unless
+7
+8
+there is created a duplication in numbering, reads as follows:
+8
+9
+A. This act may be enforced only through a qui tam action
+9
+10
+brought under Section 5 of this act.
+10
+11
+B. No other direct or indirect enforcement of this act may be
+11
+12
+taken or threatened by this state, a political subdivision of this
+12
+13
+state, a district or county attorney, or any officer or employee of
+13
+14
+this state or a political subdivision of this state against any
+14
+15
+person, by any means whatsoever, except as provided in this act.
+15
+16
+C. This section does not preclude or limit the enforcement of
+16
+17
+any other law or regulation against conduct that is independently
+17
+18
+prohibited by the other law or regulation and that would remain
+18
+19
+prohibited by the other law or regulation in the absence of this
+19
+20
+act.
+20
+21
+
+Section 25:
+SECTION 5. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 1-745.65 of Title 63, unless
+22
+23
+there is created a duplication in numbering, reads as follows:
+23
+24
+A. A person, other than this state, a political subdivision of
+24
+Req. No. 2462 Page 6
+1
+this state, or an officer or employee of this state or a political
+1
+2
+subdivision of this state, has standing to bring and may bring a qui
+2
+3
+tam action against a person who:
+3
+4
+
+Section 26:
+1. Violates Section 3 of this act; or
+4
+5
+
+Section 27:
+2. Intends to violate Section 3 of this act.
+5
+6
+B. An action brought under this section shall be brought in the
+6
+7
+name of the qui tam relator, who is an assignee of this state’s
+7
+8
+claim for relief. Notwithstanding any other law, the transfer of
+8
+9
+this state’s claim to the qui tam relator is absolute, with the
+9
+10
+state retaining no interest in the subject matter of the claim.
+10
+11
+C. A qui tam relator may not bring an action under this section
+11
+12
+if the action is preempted by 47 U.S.C., Section 230(c).
+12
+13
+D. A qui tam action may not be brought under this section:
+13
+14
+
+Section 28:
+1. Against a woman for using, obtaining, or seeking to obtain
+14
+15
+abortion-inducing drugs to abort or attempt to abort her unborn
+15
+16
+child;
+16
+17
+
+Section 29:
+2. Against a person acting under the direction of a federal
+17
+18
+agency, contractor, or employee who is carrying out a duty under
+18
+19
+federal law if the imposition of liability would violate the
+19
+20
+doctrine of preemption or intergovernmental immunity;
+20
+21
+
+Section 30:
+3. By any person who:
+21
+22
+a. impregnated a woman through conduct constituting
+22
+23
+sexual assault under Section 112 of Title 21 of the
+23
+24
+Oklahoma Statutes,
+24
+Req. No. 2462 Page 7
+1
+b. committed an offense for which an affirmative finding
+1
+2
+of domestic abuse was made under Section 644 of Title
+2
+3
+21 of the Oklahoma Statutes,
+3
+4
+c. provided an abortion-inducing drug to a pregnant woman
+4
+5
+for the purpose of performing, inducing, or attempting
+5
+6
+an abortion without the woman’s consent or knowledge,
+6
+7
+d. has been convicted of an offense under Section 1173 of
+7
+8
+Title 21 of the Oklahoma Statutes, or
+8
+9
+e. acts in concert or participation with a person
+9
+10
+described by this subdivision;
+10
+11
+
+Section 31:
+4. Against a transportation network company (TNC) or a TNC
+11
+12
+driver for using a transportation network company’s digital network
+12
+13
+to provide a prearranged ride. As used in this paragraph, the terms
+13
+14
+“transportation network company (TNC)”, “TNC driver”, “digital
+14
+15
+network”, and “prearranged ride” have the same meanings as provided
+15
+16
+by Section 1011 of Title 47 of the Oklahoma Statutes;
+16
+17
+
+Section 32:
+5. Against a courier application service (CAS) or a CAS driver
+17
+18
+for using a delivery network company’s digital network to provide
+18
+19
+courier service. As used in this paragraph, the terms “courier
+19
+20
+application service (CAS)”, “CAS driver”, “digital network”, and
+20
+21
+“courier service” have the same meanings as provided by Section 1071
+21
+22
+of Title 47 of the Oklahoma Statutes;
+22
+23
+
+Section 33:
+6. Against an air carrier conducting domestic or flag
+23
+24
+operations under 14 C.F.R., Part 121 or a foreign air carrier
+24
+Req. No. 2462 Page 8
+1
+conducting scheduled operations under 14 C.F.R., Part 129;
+1
+2
+
+Section 34:
+7. Against a person to whom this act does not apply and against
+2
+3
+whom a civil action under this act may not be brought under
+3
+4
+subsection A of Section 2 of this act;
+4
+5
+
+Section 35:
+8. Against a health care provider, unless the qui tam relator
+5
+6
+pleads and proves that the provider engaged in conduct constituting
+6
+7
+a violation of Section 3 of this act while located outside this
+7
+8
+state; or
+8
+9
+
+Section 36:
+9. Against a pharmaceutical manufacturer, pharmaceutical
+9
+10
+distributor, or common carrier, unless the qui tam relator pleads
+10
+11
+and proves that the defendant failed to adopt and implement a policy
+11
+12
+to not distribute, mail, transport, deliver, provide, or possess
+12
+13
+abortion-inducing drugs other than for one or more of the purposes
+13
+14
+described by paragraph 7 of subsection A of Section 2 of this act.
+14
+15
+E. Notwithstanding any other law, including rules of civil
+15
+16
+procedure adopted under Title 12 of the Oklahoma Statutes, an action
+16
+17
+brought under this section may not be litigated on behalf of a
+17
+18
+claimant class or a defendant class, and a court may not certify a
+18
+19
+class in the action.
+19
+20
+F. In an action brought under this act, a qui tam relator or a
+20
+21
+defendant against whom an action is brought under this section may
+21
+22
+not, without the consent of the person to whom the information
+22
+23
+belongs, publicly disclose or improperly obtain:
+23
+24
+
+Section 37:
+1. Any personally identifiable information of a pregnant woman
+24
+Req. No. 2462 Page 9
+1
+who sought or obtained an abortion-inducing drug from a defendant
+1
+2
+against whom a qui tam action is brought under this section,
+2
+3
+including any written, electronic, audio, or visual document or
+3
+4
+media that identifies the pregnant woman;
+4
+5
+
+Section 38:
+2. Any information protected from public disclosure under the
+5
+6
+Health Insurance Portability and Accountability Act of 1996, P.L.
+6
+7
+No. 104-191, and regulations adopted under that Act; or
+7
+8
+
+Section 39:
+3. Any personal data of a pregnant woman who sought or obtained
+8
+9
+an abortion-inducing drug from a defendant against whom a qui tam
+9
+10
+action is brought under this section that is protected from public
+10
+11
+disclosure under federal or state law.
+11
+12
+G. Notwithstanding any other law, a court may not order in
+12
+13
+response to the filing of a petition by a qui tam relator the taking
+13
+14
+of a deposition of a woman who is the subject of a violation of
+14
+15
+
+Section 40:
+Section 3 of this act unless the woman consents to the deposition.
+15
+16
+H. A person may bring an action under this section not later
+16
+17
+than the sixth anniversary of the date the cause of action accrues.
+17
+18
+
+Section 41:
+SECTION 6. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 1-745.66 of Title 63, unless
+19
+20
+there is created a duplication in numbering, reads as follows:
+20
+21
+A. It is an affirmative defense to an action brought under
+21
+22
+
+Section 42:
+Section 5 of this act that the defendant:
+22
+23
+
+Section 43:
+1. Was unaware the defendant was engaged in the conduct
+23
+24
+prohibited under Section 3 of this act; and
+24
+Req. No. 2462 Page 10
+1
+
+Section 44:
+2. Took reasonable precautions to ensure the defendant would
+1
+2
+not violate Section 3 of this act.
+2
+3
+B. It is an affirmative defense to an action brought under
+3
+4
+
+Section 45:
+Section 5 of this act that:
+4
+5
+
+Section 46:
+1. The imposition of civil liability on the defendant will
+5
+6
+violate the defendant’s rights under federal law, including the
+6
+7
+United States Constitution;
+7
+8
+
+Section 47:
+2. The defendant:
+8
+9
+a. has standing to assert the rights of a third party
+9
+10
+under the tests for third-party standing established
+10
+11
+by the United States Supreme Court, and
+11
+12
+b. demonstrates that the imposition of civil liability on
+12
+13
+the defendant will violate the third party’s rights
+13
+14
+under federal law, including the United States
+14
+15
+Constitution;
+15
+16
+
+Section 48:
+3. The imposition of civil liability on the defendant will
+16
+17
+violate the defendant’s rights under the Oklahoma Constitution; or
+17
+18
+
+Section 49:
+4. The imposition of civil liability on the defendant will
+18
+19
+violate limits on extraterritorial jurisdiction imposed by the
+19
+20
+United States Constitution or the Oklahoma Constitution.
+20
+21
+C. The defendant has the burden of proving an affirmative
+21
+22
+defense under this section by a preponderance of the evidence.
+22
+23
+D. The following are not defenses to an action brought under
+23
+24
+
+Section 50:
+Section 5 of this act:
+24
+Req. No. 2462 Page 11
+1
+
+Section 51:
+1. A defendant’s ignorance or mistake of law, including a
+1
+2
+defendant’s mistaken belief that the requirements or provisions of
+2
+3
+this act are unconstitutional or were unconstitutional;
+3
+4
+
+Section 52:
+2. A defendant’s reliance on a state or federal court decision
+4
+5
+that is not binding on the court in which the action has been
+5
+6
+brought;
+6
+7
+
+Section 53:
+3. A defendant’s reliance on a federal agency rule or action
+7
+8
+that has been repealed, superseded, or declared invalid or
+8
+9
+unconstitutional, even if the federal agency rule or action had not
+9
+10
+been repealed, superseded, or declared invalid or unconstitutional
+10
+11
+when the cause of action accrued;
+11
+12
+
+Section 54:
+4. The laws of another state or jurisdiction, including an
+12
+13
+abortion shield law, unless the Oklahoma Constitution or federal law
+13
+14
+compels the court to enforce that law;
+14
+15
+
+Section 55:
+5. Nonmutual issue preclusion or nonmutual claim preclusion;
+15
+16
+
+Section 56:
+6. Sovereign immunity, governmental immunity, or official
+16
+17
+immunity, other than sovereign immunity, governmental immunity, or
+17
+18
+official immunity applicable to:
+18
+19
+a. a hospital owned, maintained, or operated by this
+19
+20
+state that facilitates the availability of or makes
+20
+21
+available abortion-inducing drugs solely for one or
+21
+22
+more of the purposes described by paragraph 7 of
+22
+23
+subsection A of Section 2 of this act,
+23
+24
+24
+Req. No. 2462 Page 12
+1
+b. a political subdivision of this state, including a
+1
+2
+hospital district, that facilitates the availability
+2
+3
+of or makes available abortion-inducing drugs solely
+3
+4
+for one or more of the purposes described by paragraph
+4
+5
+7 of subsection A of Section 2 of this act, or
+5
+6
+c. a health care provider employed by a hospital owned or
+6
+7
+operated by this state or a political subdivision of
+7
+8
+this state, including a hospital district, acting
+8
+9
+within the scope of the provider’s employment who
+9
+10
+prescribes, distributes, administers, or otherwise
+10
+11
+makes available abortion-inducing drugs solely for one
+11
+12
+or more of the purposes described by paragraph 7 of
+12
+13
+subsection A of Section 2 of this act;
+13
+14
+
+Section 57:
+7. A claim that the enforcement of this act or the imposition
+14
+15
+of civil liability against the defendant will violate the
+15
+16
+constitutional or federally protected rights of third parties,
+16
+17
+except as provided by subsection B of this section; or
+17
+18
+
+Section 58:
+8. Consent to the abortion by the claimant or the unborn
+18
+19
+child’s mother.
+19
+20
+
+Section 59:
+SECTION 7. NEW LAW A new section of law to be codified
+20
+21
+in the Oklahoma Statutes as Section 1-745.67 of Title 63, unless
+21
+22
+there is created a duplication in numbering, reads as follows:
+22
+23
+A. Notwithstanding any other law and except as provided by
+23
+24
+subsection B of this section, if a qui tam relator prevails in an
+24
+Req. No. 2462 Page 13
+1
+action brought under Section 5 of this act, the court shall award to
+1
+2
+the relator:
+2
+3
+
+Section 60:
+1. Injunctive relief sufficient to prevent the defendant from
+3
+4
+violating Section 3 of this act;
+4
+5
+
+Section 61:
+2. An amount not less than One Hundred Thousand Dollars
+5
+6
+($100,000.00) for each violation of Section 3 of this act, to be
+6
+7
+allocated in accordance with subsection B of this section; and
+7
+8
+
+Section 62:
+3. Costs and reasonable attorney fees.
+8
+9
+B. In awarding the amount described by paragraph 2 of
+9
+10
+subsection A of this section, the court shall ensure that:
+10
+11
+
+Section 63:
+1. The qui tam relator receives the entire amount awarded under
+11
+12
+paragraph 2 of subsection A of this section for an action in which
+12
+13
+the relator is:
+13
+14
+a. a woman who was pregnant at the time the woman
+14
+15
+obtained or received an abortion-inducing drug that
+15
+16
+was manufactured, distributed, mailed, transported,
+16
+17
+delivered, prescribed, provided, or possessed in
+17
+18
+violation of Section 3 of this act, or
+18
+19
+b. the father, sibling, or grandparent of the unborn
+19
+20
+child with which the woman described by subparagraph a
+20
+21
+of this paragraph was pregnant at the time the woman
+21
+22
+obtained or received the abortion-inducing drug; and
+22
+23
+
+Section 64:
+2. For an action in which the qui tam relator is a person other
+23
+24
+than a person described by paragraph 1 of this subsection:
+24
+Req. No. 2462 Page 14
+1
+a. the relator receives Ten Thousand Dollars ($10,000.00)
+1
+2
+of the total amount awarded under paragraph 2 of
+2
+3
+subsection A of this section, and
+3
+4
+b. the remainder of the amount awarded under paragraph 2
+4
+5
+of subsection A of this section is held in trust by
+5
+6
+the relator for the benefit of a charitable
+6
+7
+organization designated by the relator, except that
+7
+8
+the relator may not designate a charitable
+8
+9
+organization under this paragraph from which the
+9
+10
+relator or any of the relator’s family members
+10
+11
+receives a salary, stipend, or any type of
+11
+12
+remuneration or financial benefit.
+12
+13
+C. A court may not award relief under paragraph 2 or 3 of
+13
+14
+subsection A of this section in response to a violation of Section 3
+14
+15
+of this act if the defendant demonstrates that:
+15
+16
+
+Section 65:
+1. A court previously ordered the defendant to pay an amount
+16
+17
+under paragraph 2 of subsection A of this section in another action
+17
+18
+for that particular violation; and
+18
+19
+
+Section 66:
+2. The court order described by paragraph 1 of this subsection
+19
+20
+has not been vacated, reversed, or overturned.
+20
+21
+D. A court may not award costs or attorney fees to a defendant
+21
+22
+against whom an action is brought under Section 5 of this act.
+22
+23
+E. Subsection D of this section does not preclude a court from
+23
+24
+sanctioning a litigant or attorney for frivolous, malicious, or bad-
+24
+Req. No. 2462 Page 15
+1
+faith conduct.
+1
+2
+
+Section 67:
+SECTION 8. NEW LAW A new section of law to be codified
+2
+3
+in the Oklahoma Statutes as Section 1-745.68 of Title 63, unless
+3
+4
+there is created a duplication in numbering, reads as follows:
+4
+5
+A. This state, a political subdivision of this state, or an
+5
+6
+officer or employee of this state or a political subdivision of this
+6
+7
+state may not:
+7
+8
+
+Section 68:
+1. Act in concert or participation with a qui tam relator
+8
+9
+bringing an action under Section 5 of this act;
+9
+10
+
+Section 69:
+2. Establish or attempt to establish any type of agency or
+10
+11
+fiduciary relationship with a qui tam relator bringing an action
+11
+12
+under Section 5 of this act;
+12
+13
+
+Section 70:
+3. Attempt to control or influence a person’s decision to bring
+13
+14
+an action under Section 5 of this act or that person’s conduct of
+14
+15
+the litigation; or
+15
+16
+
+Section 71:
+4. Intervene in an action brought under Section 5 of this act.
+16
+17
+B. This section does not prohibit this state, a political
+17
+18
+subdivision of this state, or an officer or employee of this state
+18
+19
+or a political subdivision of this state from filing an amicus
+19
+20
+curiae brief in an action brought under Section 5 of this act if
+20
+21
+this state, the political subdivision, the officer, or the employee
+21
+22
+does not act in concert or participation with the qui tam relator.
+22
+23
+23
+24
+24
+Req. No. 2462 Page 16
+1
+
+Section 72:
+SECTION 9. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 1-745.69 of Title 63, unless
+2
+3
+there is created a duplication in numbering, reads as follows:
+3
+4
+A. Notwithstanding any other law, the courts of this state have
+4
+5
+personal jurisdiction over a defendant sued under Section 5 of this
+5
+6
+act to the maximum extent permitted by the Fourteenth Amendment to
+6
+7
+the United States Constitution, and the defendant may be served
+7
+8
+outside this state.
+8
+9
+B. Notwithstanding any other law, the law of this state applies
+9
+10
+to an action brought under Section 5 of this act to the maximum
+10
+11
+extent permitted by the Oklahoma Constitution and federal law,
+11
+12
+including the United States Constitution.
+12
+13
+C. Notwithstanding any other law, any contractual provision
+13
+14
+that requires or purports to require application of the laws of a
+14
+15
+different jurisdiction, or that requires or purports to require a
+15
+16
+qui tam action under Section 5 of this act to be litigated in a
+16
+17
+particular forum, is void based on this state’s public policy and is
+17
+18
+not enforceable in any court.
+18
+19
+D. Notwithstanding any other law, a court may not apply the law
+19
+20
+of another state or jurisdiction to any qui tam action brought under
+20
+21
+
+Section 73:
+Section 5 of this act unless the Oklahoma Constitution or federal
+21
+22
+law compels the court to apply that law.
+22
+23
+23
+24
+24
+Req. No. 2462 Page 17
+1
+
+Section 74:
+SECTION 10. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 1-745.70 of Title 63, unless
+2
+3
+there is created a duplication in numbering, reads as follows:
+3
+4
+A. For purposes of this section, the term “clawback provision”
+4
+5
+refers to any law of another state or jurisdiction that authorizes
+5
+6
+the bringing of a civil action against a person for:
+6
+7
+
+Section 75:
+1. Bringing or engaging in an action authorized by this act,
+7
+8
+including subsection F of this section;
+8
+9
+
+Section 76:
+2. Bringing or engaging in an action that alleges a violation
+9
+10
+of Section 3 of this act;
+10
+11
+
+Section 77:
+3. Attempting, intending, or threatening to bring or engage in
+11
+12
+an action described by paragraph 1 or 2 of this subsection; or
+12
+13
+
+Section 78:
+4. Providing legal representation or any type of assistance to
+13
+14
+a person who brings or engages in an action described by paragraph 1
+14
+15
+or 2 of this subsection.
+15
+16
+B. Notwithstanding any other law and except as otherwise
+16
+17
+provided by federal law or the Oklahoma Constitution, the laws of
+17
+18
+this state apply to:
+18
+19
+
+Section 79:
+1. Conduct described by subsection A of this section;
+19
+20
+
+Section 80:
+2. An action brought against a person for engaging in conduct
+20
+21
+described by subsection A of this section;
+21
+22
+
+Section 81:
+3. An action brought under a clawback provision against a
+22
+23
+resident of this state; and
+23
+24
+
+Section 82:
+4. An action brought under subsection F of this section.
+24
+Req. No. 2462 Page 18
+1
+C. Notwithstanding any other law, in an action described by
+1
+2
+paragraph 1 or 2 of subsection A of this section, the court shall,
+2
+3
+on request, issue a temporary, preliminary, or permanent injunction
+3
+4
+that restrains each defendant in the action, each person in privity
+4
+5
+with the defendant, and each person with whom the defendant is in
+5
+6
+active concert or participation from:
+6
+7
+
+Section 83:
+1. Bringing an action under any clawback provision against a
+7
+8
+claimant or prosecutor, a person in privity with the claimant or
+8
+9
+prosecutor, or a person providing legal representation or any type
+9
+10
+of assistance to the claimant or prosecutor; and
+10
+11
+
+Section 84:
+2. Continuing to litigate an action under any clawback
+11
+12
+provision that has been brought against a claimant or prosecutor, a
+12
+13
+person in privity with the claimant or prosecutor, or a person
+13
+14
+providing legal representation or any type of assistance to the
+14
+15
+claimant or prosecutor.
+15
+16
+D. Notwithstanding any other law, the doctrines of res judicata
+16
+17
+and collateral estoppel preclude a defendant against whom a judgment
+17
+18
+is entered in an action described by paragraph 1 or 2 of subsection
+18
+19
+A of this section and each person in privity with the defendant from
+19
+20
+litigating or relitigating any claim or issue under any clawback
+20
+21
+provision against a claimant, prosecutor, or person in privity with
+21
+22
+the claimant or prosecutor that was raised or could have been raised
+22
+23
+as a claim, cross-claim, counterclaim, or affirmative defense under
+23
+24
+the federal or this state’s rules of civil procedure.
+24
+Req. No. 2462 Page 19
+1
+E. Notwithstanding any other law, a court of this state may not
+1
+2
+enforce an out-of-state judgment obtained in an action brought under
+2
+3
+a clawback provision unless federal law or the Oklahoma Constitution
+3
+4
+requires the court to enforce the judgment.
+4
+5
+F. Notwithstanding any other law, if an action is brought or
+5
+6
+judgment is entered against a person under a clawback provision
+6
+7
+based wholly or partly on the person’s decision to engage in conduct
+7
+8
+described by subsection A of this section, that person is entitled
+8
+9
+to injunctive relief and damages from any person who brought the
+9
+10
+action or obtained the judgment or who sought to enforce the
+10
+11
+judgment. Notwithstanding any other law, the relief described by
+11
+12
+this subsection must include:
+12
+13
+
+Section 85:
+1. Compensatory damages, including money damages in an amount
+13
+14
+equal to the judgment damages and costs, expenses, and reasonable
+14
+15
+attorney fees spent in defending the action;
+15
+16
+
+Section 86:
+2. Costs, expenses, and reasonable attorney fees incurred in
+16
+17
+bringing an action under this subsection;
+17
+18
+
+Section 87:
+3. Additional amounts consisting of the greater of:
+18
+19
+a. twice the sum of the damages, costs, expenses, and
+19
+20
+fees described by paragraphs 1 and 2 of this
+20
+21
+subsection, or
+21
+22
+b. One Hundred Thousand Dollars ($100,000.00); and
+22
+23
+
+Section 88:
+4. Injunctive relief that restrains each person who brought the
+23
+24
+action under the clawback provision, each person in privity with the
+24
+Req. No. 2462 Page 20
+1
+person, and each person acting in concert or participation with the
+1
+2
+person from:
+2
+3
+a. bringing further actions under any clawback provision
+3
+4
+against the person against whom the action was
+4
+5
+brought, each person in privity with the person, or
+5
+6
+any person providing legal representation or any type
+6
+7
+of assistance to the person,
+7
+8
+b. continuing to litigate any actions brought under a
+8
+9
+clawback provision against the persons described by
+9
+10
+subparagraph a of this paragraph, and
+10
+11
+c. enforcing or attempting to enforce any judgment
+11
+12
+obtained in any actions brought under a clawback
+12
+13
+provision against the persons described by
+13
+14
+subparagraph a of this paragraph.
+14
+15
+G. It is not a defense to an action brought under subsection F
+15
+16
+of this section that:
+16
+17
+
+Section 89:
+1. The claimant failed to seek recovery under subsection F of
+17
+18
+this section in an action brought against the claimant under a
+18
+19
+clawback provision; or
+19
+20
+
+Section 90:
+2. A court in a preceding action brought against the claimant
+20
+21
+declined to recognize or enforce subsection F of this section or
+21
+22
+held any provision of that subsection invalid, unconstitutional, or
+22
+23
+preempted by federal law, notwithstanding the doctrines of issue or
+23
+24
+claim preclusion.
+24
+Req. No. 2462 Page 21
+1
+
+Section 91:
+SECTION 11. It being immediately necessary for the preservation
+1
+2
+of the public peace, health or safety, an emergency is hereby
+2
+3
+declared to exist, by reason whereof this act shall take effect and
+3
+4
+be in full force from and after its passage and approval.
+4
+5
+5
+6
+60-2-2462 DC 1/13/2026 9:06:25 PM
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2462 Page 22
+[DELETED:  P B D]
+[DELETED:  P]
+[DELETED:  P a a]
+[DELETED:  P t r r a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P i]
+[DELETED:  P c p h a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P h d]
+[DELETED:  P a]
+[DELETED:  P a a]
+[DELETED:  P a t]
+[DELETED:  P t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t O]
+[DELETED:  P b c e]
+[DELETED:  P D 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1657 By: Daniels
+3
+4
+4
+5
+5
+6
+6
+7
+AS INTRODUCED
+7
+8
+An Act relating to abortion; defining terms; limiting
+8
+applicability of act; providing certain construction;
+9
+prohibiting manufacture or provision of abortion-
+9
+inducing drugs; limiting effect of prohibition;
+10
+providing for and prohibiting certain enforcement;
+10
+authorizing certain qui tam actions; specifying
+11
+conditions for bringing qui tam action; prohibiting
+11
+certain actions and litigation; prohibiting certain
+12
+disclosures and access to information; prohibiting
+12
+certain deposition orders; specifying deadline for
+13
+certain actions; creating and prohibiting certain
+13
+affirmative defenses; specifying burden of proof;
+14
+directing and prohibiting award of certain relief;
+14
+prohibiting certain acts by public entities;
+15
+specifying jurisdiction; specifying applicability of
+15
+certain provisions; defining term; specifying
+16
+applicability of certain laws; directing award of
+16
+certain relief; prohibiting enforcement of certain
+17
+judgments; prohibiting certain defenses; providing
+17
+for codification; and declaring an emergency.
+18
+18
+19
+19
+20
+20
+21
+21
+22
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+22
+23
+23
+24
+24
+Req. No. 2462 Page 1
+
+1
+SECTION 1. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 1-745.61 of Title 63, unless
+2
+3
+there is created a duplication in numbering, reads as follows:
+3
+4
+1. “Abortion” means the use or prescription of any instrument,
+4
+5
+medicine, drug, or any other substance or device intentionally to
+5
+6
+terminate the pregnancy of a female known to be pregnant with an
+6
+7
+intention other than to increase the probability of a live birth, to
+7
+8
+preserve the life or health of the child after live birth, to remove
+8
+9
+an ectopic pregnancy, or to remove a dead unborn child who died as
+9
+10
+the result of a spontaneous miscarriage, accidental trauma, or a
+10
+11
+criminal assault on the pregnant female or her unborn child;
+11
+12
+2. “Abortion-inducing drug” means a medicine, drug, or any
+12
+13
+other substance prescribed or dispensed with the intent of
+13
+14
+terminating the pregnancy of a woman known to be pregnant, with
+14
+15
+knowledge that the termination will with reasonable likelihood cause
+15
+16
+the death of the unborn child. This includes the off-label use of
+16
+17
+drugs known to have abortion-inducing properties, which are
+17
+18
+prescribed specifically with the intent of causing an abortion, such
+18
+19
+as mifepristone (Mifeprex), misoprostol (Cytotec), and methotrexate.
+19
+20
+This definition does not apply to drugs that may be known to cause
+20
+21
+an abortion, but which are prescribed for other medical indications,
+21
+22
+such as chemotherapeutic agents and diagnostic drugs. The use of
+22
+23
+such drugs to induce abortion is also known as “medical”,
+23
+24
+“medication”, “RU–486”, “chemical”, “Mifeprex regimen”, or “drug-
+24
+Req. No. 2462 Page 2
+
+1
+induced” abortion;
+1
+2
+3. “Health care facility” means a facility licensed by the
+2
+3
+State Department of Health, except the term does not include a
+3
+4
+hospital;
+4
+5
+4. “Health care provider” means a person who is licensed,
+5
+6
+certified, or registered by this state to provide health care
+6
+7
+services or a medical group, independent practice association, or
+7
+8
+professional corporation providing health care services; and
+8
+9
+5. “Hospital” means:
+9
+10
+a. a hospital licensed by the State Department of Health
+10
+11
+under Section 1-702 of Title 63 of the Oklahoma
+11
+12
+Statutes, or
+12
+13
+b. a hospital owned, maintained, or operated by this
+13
+14
+state.
+14
+15
+SECTION 2. NEW LAW A new section of law to be codified
+15
+16
+in the Oklahoma Statutes as Section 1-745.62 of Title 63, unless
+16
+17
+there is created a duplication in numbering, reads as follows:
+17
+18
+A. This act does not apply to and a civil action under this act
+18
+19
+may not be brought against:
+19
+20
+1. A hospital;
+20
+21
+2. A health care facility licensed, owned, maintained, or
+21
+22
+operated by this state;
+22
+23
+3. A health care provider, other than a provider against whom a
+23
+24
+qui tam action may be brought in accordance with paragraph 8 of
+24
+Req. No. 2462 Page 3
+
+1
+subsection D of Section 5 of this act;
+1
+2
+4. An Internet service provider or the provider’s affiliates or
+2
+3
+subsidiaries;
+3
+4
+5. An Internet search engine;
+4
+5
+6. A cloud service provider solely providing access or
+5
+6
+connection to or from an Internet website or other information or
+6
+7
+content on the Internet or on a facility, system, or network that is
+7
+8
+not under the provider’s control, including transmission,
+8
+9
+downloading, intermediate storage, access software, or other
+9
+10
+services; or
+10
+11
+7. A person who manufactures, distributes, mails, transports,
+11
+12
+delivers, prescribes, provides, or possesses abortion-inducing drugs
+12
+13
+in this state solely for one or more of the following purposes:
+13
+14
+a. treating a life-threatening medical condition through
+14
+15
+an abortion performed under Section 861 of Title 21 of
+15
+16
+the Oklahoma Statutes,
+16
+17
+b. removing an ectopic pregnancy,
+17
+18
+c. removing a dead, unborn child whose death was caused
+18
+19
+by spontaneous abortion, or
+19
+20
+d. a purpose that does not include performing, inducing,
+20
+21
+attempting, or assisting an abortion, other than an
+21
+22
+abortion performed to preserve the life of a pregnant
+22
+23
+woman as provided by Section 861 of Title 21 of the
+23
+24
+Oklahoma Statutes.
+24
+Req. No. 2462 Page 4
+
+1
+B. This act may not be construed to require the actual
+1
+2
+performance, inducement, or attempted performance of an abortion in
+2
+3
+order for a person to bring a civil action authorized by this act.
+3
+4
+SECTION 3. NEW LAW A new section of law to be codified
+4
+5
+in the Oklahoma Statutes as Section 1-745.63 of Title 63, unless
+5
+6
+there is created a duplication in numbering, reads as follows:
+6
+7
+A. Except as provided by subsection B of this section or
+7
+8
+Section 2 of this act, a person may not:
+8
+9
+1. Manufacture or distribute an abortion-inducing drug in this
+9
+10
+state; or
+10
+11
+2. Mail, transport, deliver, prescribe, or provide an abortion-
+11
+12
+inducing drug in any manner to or from any person or location in
+12
+13
+this state.
+13
+14
+B. Subsection A of this section does not prohibit:
+14
+15
+1. Speech or conduct protected by the First Amendment to the
+15
+16
+United States Constitution, as made applicable to the states through
+16
+17
+the United States Supreme Court’s interpretation of the Fourteenth
+17
+18
+Amendment to the United States Constitution, or protected by Section
+18
+19
+22 of Article II of the Oklahoma Constitution;
+19
+20
+2. Conduct a pregnant woman engages in during the course of
+20
+21
+aborting or attempting to abort the woman’s unborn child;
+21
+22
+3. The manufacture, distribution, mailing, transport, delivery,
+22
+23
+prescribing, provision, or possession of an abortion-inducing drug
+23
+24
+solely for one or more of the purposes described by paragraph 7 of
+24
+Req. No. 2462 Page 5
+
+1
+subsection A of Section 2 of this act; or
+1
+2
+4. Conduct a person engages in under the direction of a federal
+2
+3
+agency, contractor, or employee to carry out a duty under federal
+3
+4
+law, if prohibiting that conduct would violate the doctrine of
+4
+5
+preemption or intergovernmental immunity.
+5
+6
+SECTION 4. NEW LAW A new section of law to be codified
+6
+7
+in the Oklahoma Statutes as Section 1-745.64 of Title 63, unless
+7
+8
+there is created a duplication in numbering, reads as follows:
+8
+9
+A. This act may be enforced only through a qui tam action
+9
+10
+brought under Section 5 of this act.
+10
+11
+B. No other direct or indirect enforcement of this act may be
+11
+12
+taken or threatened by this state, a political subdivision of this
+12
+13
+state, a district or county attorney, or any officer or employee of
+13
+14
+this state or a political subdivision of this state against any
+14
+15
+person, by any means whatsoever, except as provided in this act.
+15
+16
+C. This section does not preclude or limit the enforcement of
+16
+17
+any other law or regulation against conduct that is independently
+17
+18
+prohibited by the other law or regulation and that would remain
+18
+19
+prohibited by the other law or regulation in the absence of this
+19
+20
+act.
+20
+21
+SECTION 5. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 1-745.65 of Title 63, unless
+22
+23
+there is created a duplication in numbering, reads as follows:
+23
+24
+A. A person, other than this state, a political subdivision of
+24
+Req. No. 2462 Page 6
+
+1
+this state, or an officer or employee of this state or a political
+1
+2
+subdivision of this state, has standing to bring and may bring a qui
+2
+3
+tam action against a person who:
+3
+4
+1. Violates Section 3 of this act; or
+4
+5
+2. Intends to violate Section 3 of this act.
+5
+6
+B. An action brought under this section shall be brought in the
+6
+7
+name of the qui tam relator, who is an assignee of this state’s
+7
+8
+claim for relief. Notwithstanding any other law, the transfer of
+8
+9
+this state’s claim to the qui tam relator is absolute, with the
+9
+10
+state retaining no interest in the subject matter of the claim.
+10
+11
+C. A qui tam relator may not bring an action under this section
+11
+12
+if the action is preempted by 47 U.S.C., Section 230(c).
+12
+13
+D. A qui tam action may not be brought under this section:
+13
+14
+1. Against a woman for using, obtaining, or seeking to obtain
+14
+15
+abortion-inducing drugs to abort or attempt to abort her unborn
+15
+16
+child;
+16
+17
+2. Against a person acting under the direction of a federal
+17
+18
+agency, contractor, or employee who is carrying out a duty under
+18
+19
+federal law if the imposition of liability would violate the
+19
+20
+doctrine of preemption or intergovernmental immunity;
+20
+21
+3. By any person who:
+21
+22
+a. impregnated a woman through conduct constituting
+22
+23
+sexual assault under Section 112 of Title 21 of the
+23
+24
+Oklahoma Statutes,
+24
+Req. No. 2462 Page 7
+
+1
+b. committed an offense for which an affirmative finding
+1
+2
+of domestic abuse was made under Section 644 of Title
+2
+3
+21 of the Oklahoma Statutes,
+3
+4
+c. provided an abortion-inducing drug to a pregnant woman
+4
+5
+for the purpose of performing, inducing, or attempting
+5
+6
+an abortion without the woman’s consent or knowledge,
+6
+7
+d. has been convicted of an offense under Section 1173 of
+7
+8
+Title 21 of the Oklahoma Statutes, or
+8
+9
+e. acts in concert or participation with a person
+9
+10
+described by this subdivision;
+10
+11
+4. Against a transportation network company (TNC) or a TNC
+11
+12
+driver for using a transportation network company’s digital network
+12
+13
+to provide a prearranged ride. As used in this paragraph, the terms
+13
+14
+“transportation network company (TNC)”, “TNC driver”, “digital
+14
+15
+network”, and “prearranged ride” have the same meanings as provided
+15
+16
+by Section 1011 of Title 47 of the Oklahoma Statutes;
+16
+17
+5. Against a courier application service (CAS) or a CAS driver
+17
+18
+for using a delivery network company’s digital network to provide
+18
+19
+courier service. As used in this paragraph, the terms “courier
+19
+20
+application service (CAS)”, “CAS driver”, “digital network”, and
+20
+21
+“courier service” have the same meanings as provided by Section 1071
+21
+22
+of Title 47 of the Oklahoma Statutes;
+22
+23
+6. Against an air carrier conducting domestic or flag
+23
+24
+operations under 14 C.F.R., Part 121 or a foreign air carrier
+24
+Req. No. 2462 Page 8
+
+1
+conducting scheduled operations under 14 C.F.R., Part 129;
+1
+2
+7. Against a person to whom this act does not apply and against
+2
+3
+whom a civil action under this act may not be brought under
+3
+4
+subsection A of Section 2 of this act;
+4
+5
+8. Against a health care provider, unless the qui tam relator
+5
+6
+pleads and proves that the provider engaged in conduct constituting
+6
+7
+a violation of Section 3 of this act while located outside this
+7
+8
+state; or
+8
+9
+9. Against a pharmaceutical manufacturer, pharmaceutical
+9
+10
+distributor, or common carrier, unless the qui tam relator pleads
+10
+11
+and proves that the defendant failed to adopt and implement a policy
+11
+12
+to not distribute, mail, transport, deliver, provide, or possess
+12
+13
+abortion-inducing drugs other than for one or more of the purposes
+13
+14
+described by paragraph 7 of subsection A of Section 2 of this act.
+14
+15
+E. Notwithstanding any other law, including rules of civil
+15
+16
+procedure adopted under Title 12 of the Oklahoma Statutes, an action
+16
+17
+brought under this section may not be litigated on behalf of a
+17
+18
+claimant class or a defendant class, and a court may not certify a
+18
+19
+class in the action.
+19
+20
+F. In an action brought under this act, a qui tam relator or a
+20
+21
+defendant against whom an action is brought under this section may
+21
+22
+not, without the consent of the person to whom the information
+22
+23
+belongs, publicly disclose or improperly obtain:
+23
+24
+1. Any personally identifiable information of a pregnant woman
+24
+Req. No. 2462 Page 9
+
+1
+who sought or obtained an abortion-inducing drug from a defendant
+1
+2
+against whom a qui tam action is brought under this section,
+2
+3
+including any written, electronic, audio, or visual document or
+3
+4
+media that identifies the pregnant woman;
+4
+5
+2. Any information protected from public disclosure under the
+5
+6
+Health Insurance Portability and Accountability Act of 1996, P.L.
+6
+7
+No. 104-191, and regulations adopted under that Act; or
+7
+8
+3. Any personal data of a pregnant woman who sought or obtained
+8
+9
+an abortion-inducing drug from a defendant against whom a qui tam
+9
+10
+action is brought under this section that is protected from public
+10
+11
+disclosure under federal or state law.
+11
+12
+G. Notwithstanding any other law, a court may not order in
+12
+13
+response to the filing of a petition by a qui tam relator the taking
+13
+14
+of a deposition of a woman who is the subject of a violation of
+14
+15
+Section 3 of this act unless the woman consents to the deposition.
+15
+16
+H. A person may bring an action under this section not later
+16
+17
+than the sixth anniversary of the date the cause of action accrues.
+17
+18
+SECTION 6. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 1-745.66 of Title 63, unless
+19
+20
+there is created a duplication in numbering, reads as follows:
+20
+21
+A. It is an affirmative defense to an action brought under
+21
+22
+Section 5 of this act that the defendant:
+22
+23
+1. Was unaware the defendant was engaged in the conduct
+23
+24
+prohibited under Section 3 of this act; and
+24
+Req. No. 2462 Page 10
+
+1
+2. Took reasonable precautions to ensure the defendant would
+1
+2
+not violate Section 3 of this act.
+2
+3
+B. It is an affirmative defense to an action brought under
+3
+4
+Section 5 of this act that:
+4
+5
+1. The imposition of civil liability on the defendant will
+5
+6
+violate the defendant’s rights under federal law, including the
+6
+7
+United States Constitution;
+7
+8
+2. The defendant:
+8
+9
+a. has standing to assert the rights of a third party
+9
+10
+under the tests for third-party standing established
+10
+11
+by the United States Supreme Court, and
+11
+12
+b. demonstrates that the imposition of civil liability on
+12
+13
+the defendant will violate the third party’s rights
+13
+14
+under federal law, including the United States
+14
+15
+Constitution;
+15
+16
+3. The imposition of civil liability on the defendant will
+16
+17
+violate the defendant’s rights under the Oklahoma Constitution; or
+17
+18
+4. The imposition of civil liability on the defendant will
+18
+19
+violate limits on extraterritorial jurisdiction imposed by the
+19
+20
+United States Constitution or the Oklahoma Constitution.
+20
+21
+C. The defendant has the burden of proving an affirmative
+21
+22
+defense under this section by a preponderance of the evidence.
+22
+23
+D. The following are not defenses to an action brought under
+23
+24
+Section 5 of this act:
+24
+Req. No. 2462 Page 11
+
+1
+1. A defendant’s ignorance or mistake of law, including a
+1
+2
+defendant’s mistaken belief that the requirements or provisions of
+2
+3
+this act are unconstitutional or were unconstitutional;
+3
+4
+2. A defendant’s reliance on a state or federal court decision
+4
+5
+that is not binding on the court in which the action has been
+5
+6
+brought;
+6
+7
+3. A defendant’s reliance on a federal agency rule or action
+7
+8
+that has been repealed, superseded, or declared invalid or
+8
+9
+unconstitutional, even if the federal agency rule or action had not
+9
+10
+been repealed, superseded, or declared invalid or unconstitutional
+10
+11
+when the cause of action accrued;
+11
+12
+4. The laws of another state or jurisdiction, including an
+12
+13
+abortion shield law, unless the Oklahoma Constitution or federal law
+13
+14
+compels the court to enforce that law;
+14
+15
+5. Nonmutual issue preclusion or nonmutual claim preclusion;
+15
+16
+6. Sovereign immunity, governmental immunity, or official
+16
+17
+immunity, other than sovereign immunity, governmental immunity, or
+17
+18
+official immunity applicable to:
+18
+19
+a. a hospital owned, maintained, or operated by this
+19
+20
+state that facilitates the availability of or makes
+20
+21
+available abortion-inducing drugs solely for one or
+21
+22
+more of the purposes described by paragraph 7 of
+22
+23
+subsection A of Section 2 of this act,
+23
+24
+24
+Req. No. 2462 Page 12
+
+1
+b. a political subdivision of this state, including a
+1
+2
+hospital district, that facilitates the availability
+2
+3
+of or makes available abortion-inducing drugs solely
+3
+4
+for one or more of the purposes described by paragraph
+4
+5
+7 of subsection A of Section 2 of this act, or
+5
+6
+c. a health care provider employed by a hospital owned or
+6
+7
+operated by this state or a political subdivision of
+7
+8
+this state, including a hospital district, acting
+8
+9
+within the scope of the provider’s employment who
+9
+10
+prescribes, distributes, administers, or otherwise
+10
+11
+makes available abortion-inducing drugs solely for one
+11
+12
+or more of the purposes described by paragraph 7 of
+12
+13
+subsection A of Section 2 of this act;
+13
+14
+7. A claim that the enforcement of this act or the imposition
+14
+15
+of civil liability against the defendant will violate the
+15
+16
+constitutional or federally protected rights of third parties,
+16
+17
+except as provided by subsection B of this section; or
+17
+18
+8. Consent to the abortion by the claimant or the unborn
+18
+19
+child’s mother.
+19
+20
+SECTION 7. NEW LAW A new section of law to be codified
+20
+21
+in the Oklahoma Statutes as Section 1-745.67 of Title 63, unless
+21
+22
+there is created a duplication in numbering, reads as follows:
+22
+23
+A. Notwithstanding any other law and except as provided by
+23
+24
+subsection B of this section, if a qui tam relator prevails in an
+24
+Req. No. 2462 Page 13
+
+1
+action brought under Section 5 of this act, the court shall award to
+1
+2
+the relator:
+2
+3
+1. Injunctive relief sufficient to prevent the defendant from
+3
+4
+violating Section 3 of this act;
+4
+5
+2. An amount not less than One Hundred Thousand Dollars
+5
+6
+($100,000.00) for each violation of Section 3 of this act, to be
+6
+7
+allocated in accordance with subsection B of this section; and
+7
+8
+3. Costs and reasonable attorney fees.
+8
+9
+B. In awarding the amount described by paragraph 2 of
+9
+10
+subsection A of this section, the court shall ensure that:
+10
+11
+1. The qui tam relator receives the entire amount awarded under
+11
+12
+paragraph 2 of subsection A of this section for an action in which
+12
+13
+the relator is:
+13
+14
+a. a woman who was pregnant at the time the woman
+14
+15
+obtained or received an abortion-inducing drug that
+15
+16
+was manufactured, distributed, mailed, transported,
+16
+17
+delivered, prescribed, provided, or possessed in
+17
+18
+violation of Section 3 of this act, or
+18
+19
+b. the father, sibling, or grandparent of the unborn
+19
+20
+child with which the woman described by subparagraph a
+20
+21
+of this paragraph was pregnant at the time the woman
+21
+22
+obtained or received the abortion-inducing drug; and
+22
+23
+2. For an action in which the qui tam relator is a person other
+23
+24
+than a person described by paragraph 1 of this subsection:
+24
+Req. No. 2462 Page 14
+
+1
+a. the relator receives Ten Thousand Dollars ($10,000.00)
+1
+2
+of the total amount awarded under paragraph 2 of
+2
+3
+subsection A of this section, and
+3
+4
+b. the remainder of the amount awarded under paragraph 2
+4
+5
+of subsection A of this section is held in trust by
+5
+6
+the relator for the benefit of a charitable
+6
+7
+organization designated by the relator, except that
+7
+8
+the relator may not designate a charitable
+8
+9
+organization under this paragraph from which the
+9
+10
+relator or any of the relator’s family members
+10
+11
+receives a salary, stipend, or any type of
+11
+12
+remuneration or financial benefit.
+12
+13
+C. A court may not award relief under paragraph 2 or 3 of
+13
+14
+subsection A of this section in response to a violation of Section 3
+14
+15
+of this act if the defendant demonstrates that:
+15
+16
+1. A court previously ordered the defendant to pay an amount
+16
+17
+under paragraph 2 of subsection A of this section in another action
+17
+18
+for that particular violation; and
+18
+19
+2. The court order described by paragraph 1 of this subsection
+19
+20
+has not been vacated, reversed, or overturned.
+20
+21
+D. A court may not award costs or attorney fees to a defendant
+21
+22
+against whom an action is brought under Section 5 of this act.
+22
+23
+E. Subsection D of this section does not preclude a court from
+23
+24
+sanctioning a litigant or attorney for frivolous, malicious, or bad-
+24
+Req. No. 2462 Page 15
+
+1
+faith conduct.
+1
+2
+SECTION 8. NEW LAW A new section of law to be codified
+2
+3
+in the Oklahoma Statutes as Section 1-745.68 of Title 63, unless
+3
+4
+there is created a duplication in numbering, reads as follows:
+4
+5
+A. This state, a political subdivision of this state, or an
+5
+6
+officer or employee of this state or a political subdivision of this
+6
+7
+state may not:
+7
+8
+1. Act in concert or participation with a qui tam relator
+8
+9
+bringing an action under Section 5 of this act;
+9
+10
+2. Establish or attempt to establish any type of agency or
+10
+11
+fiduciary relationship with a qui tam relator bringing an action
+11
+12
+under Section 5 of this act;
+12
+13
+3. Attempt to control or influence a person’s decision to bring
+13
+14
+an action under Section 5 of this act or that person’s conduct of
+14
+15
+the litigation; or
+15
+16
+4. Intervene in an action brought under Section 5 of this act.
+16
+17
+B. This section does not prohibit this state, a political
+17
+18
+subdivision of this state, or an officer or employee of this state
+18
+19
+or a political subdivision of this state from filing an amicus
+19
+20
+curiae brief in an action brought under Section 5 of this act if
+20
+21
+this state, the political subdivision, the officer, or the employee
+21
+22
+does not act in concert or participation with the qui tam relator.
+22
+23
+23
+24
+24
+Req. No. 2462 Page 16
+
+1
+SECTION 9. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 1-745.69 of Title 63, unless
+2
+3
+there is created a duplication in numbering, reads as follows:
+3
+4
+A. Notwithstanding any other law, the courts of this state have
+4
+5
+personal jurisdiction over a defendant sued under Section 5 of this
+5
+6
+act to the maximum extent permitted by the Fourteenth Amendment to
+6
+7
+the United States Constitution, and the defendant may be served
+7
+8
+outside this state.
+8
+9
+B. Notwithstanding any other law, the law of this state applies
+9
+10
+to an action brought under Section 5 of this act to the maximum
+10
+11
+extent permitted by the Oklahoma Constitution and federal law,
+11
+12
+including the United States Constitution.
+12
+13
+C. Notwithstanding any other law, any contractual provision
+13
+14
+that requires or purports to require application of the laws of a
+14
+15
+different jurisdiction, or that requires or purports to require a
+15
+16
+qui tam action under Section 5 of this act to be litigated in a
+16
+17
+particular forum, is void based on this state’s public policy and is
+17
+18
+not enforceable in any court.
+18
+19
+D. Notwithstanding any other law, a court may not apply the law
+19
+20
+of another state or jurisdiction to any qui tam action brought under
+20
+21
+Section 5 of this act unless the Oklahoma Constitution or federal
+21
+22
+law compels the court to apply that law.
+22
+23
+23
+24
+24
+Req. No. 2462 Page 17
+
+1
+SECTION 10. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 1-745.70 of Title 63, unless
+2
+3
+there is created a duplication in numbering, reads as follows:
+3
+4
+A. For purposes of this section, the term “clawback provision”
+4
+5
+refers to any law of another state or jurisdiction that authorizes
+5
+6
+the bringing of a civil action against a person for:
+6
+7
+1. Bringing or engaging in an action authorized by this act,
+7
+8
+including subsection F of this section;
+8
+9
+2. Bringing or engaging in an action that alleges a violation
+9
+10
+of Section 3 of this act;
+10
+11
+3. Attempting, intending, or threatening to bring or engage in
+11
+12
+an action described by paragraph 1 or 2 of this subsection; or
+12
+13
+4. Providing legal representation or any type of assistance to
+13
+14
+a person who brings or engages in an action described by paragraph 1
+14
+15
+or 2 of this subsection.
+15
+16
+B. Notwithstanding any other law and except as otherwise
+16
+17
+provided by federal law or the Oklahoma Constitution, the laws of
+17
+18
+this state apply to:
+18
+19
+1. Conduct described by subsection A of this section;
+19
+20
+2. An action brought against a person for engaging in conduct
+20
+21
+described by subsection A of this section;
+21
+22
+3. An action brought under a clawback provision against a
+22
+23
+resident of this state; and
+23
+24
+4. An action brought under subsection F of this section.
+24
+Req. No. 2462 Page 18
+
+1
+C. Notwithstanding any other law, in an action described by
+1
+2
+paragraph 1 or 2 of subsection A of this section, the court shall,
+2
+3
+on request, issue a temporary, preliminary, or permanent injunction
+3
+4
+that restrains each defendant in the action, each person in privity
+4
+5
+with the defendant, and each person with whom the defendant is in
+5
+6
+active concert or participation from:
+6
+7
+1. Bringing an action under any clawback provision against a
+7
+8
+claimant or prosecutor, a person in privity with the claimant or
+8
+9
+prosecutor, or a person providing legal representation or any type
+9
+10
+of assistance to the claimant or prosecutor; and
+10
+11
+2. Continuing to litigate an action under any clawback
+11
+12
+provision that has been brought against a claimant or prosecutor, a
+12
+13
+person in privity with the claimant or prosecutor, or a person
+13
+14
+providing legal representation or any type of assistance to the
+14
+15
+claimant or prosecutor.
+15
+16
+D. Notwithstanding any other law, the doctrines of res judicata
+16
+17
+and collateral estoppel preclude a defendant against whom a judgment
+17
+18
+is entered in an action described by paragraph 1 or 2 of subsection
+18
+19
+A of this section and each person in privity with the defendant from
+19
+20
+litigating or relitigating any claim or issue under any clawback
+20
+21
+provision against a claimant, prosecutor, or person in privity with
+21
+22
+the claimant or prosecutor that was raised or could have been raised
+22
+23
+as a claim, cross-claim, counterclaim, or affirmative defense under
+23
+24
+the federal or this state’s rules of civil procedure.
+24
+Req. No. 2462 Page 19
+
+1
+E. Notwithstanding any other law, a court of this state may not
+1
+2
+enforce an out-of-state judgment obtained in an action brought under
+2
+3
+a clawback provision unless federal law or the Oklahoma Constitution
+3
+4
+requires the court to enforce the judgment.
+4
+5
+F. Notwithstanding any other law, if an action is brought or
+5
+6
+judgment is entered against a person under a clawback provision
+6
+7
+based wholly or partly on the person’s decision to engage in conduct
+7
+8
+described by subsection A of this section, that person is entitled
+8
+9
+to injunctive relief and damages from any person who brought the
+9
+10
+action or obtained the judgment or who sought to enforce the
+10
+11
+judgment. Notwithstanding any other law, the relief described by
+11
+12
+this subsection must include:
+12
+13
+1. Compensatory damages, including money damages in an amount
+13
+14
+equal to the judgment damages and costs, expenses, and reasonable
+14
+15
+attorney fees spent in defending the action;
+15
+16
+2. Costs, expenses, and reasonable attorney fees incurred in
+16
+17
+bringing an action under this subsection;
+17
+18
+3. Additional amounts consisting of the greater of:
+18
+19
+a. twice the sum of the damages, costs, expenses, and
+19
+20
+fees described by paragraphs 1 and 2 of this
+20
+21
+subsection, or
+21
+22
+b. One Hundred Thousand Dollars ($100,000.00); and
+22
+23
+4. Injunctive relief that restrains each person who brought the
+23
+24
+action under the clawback provision, each person in privity with the
+24
+Req. No. 2462 Page 20
+
+1
+person, and each person acting in concert or participation with the
+1
+2
+person from:
+2
+3
+a. bringing further actions under any clawback provision
+3
+4
+against the person against whom the action was
+4
+5
+brought, each person in privity with the person, or
+5
+6
+any person providing legal representation or any type
+6
+7
+of assistance to the person,
+7
+8
+b. continuing to litigate any actions brought under a
+8
+9
+clawback provision against the persons described by
+9
+10
+subparagraph a of this paragraph, and
+10
+11
+c. enforcing or attempting to enforce any judgment
+11
+12
+obtained in any actions brought under a clawback
+12
+13
+provision against the persons described by
+13
+14
+subparagraph a of this paragraph.
+14
+15
+G. It is not a defense to an action brought under subsection F
+15
+16
+of this section that:
+16
+17
+1. The claimant failed to seek recovery under subsection F of
+17
+18
+this section in an action brought against the claimant under a
+18
+19
+clawback provision; or
+19
+20
+2. A court in a preceding action brought against the claimant
+20
+21
+declined to recognize or enforce subsection F of this section or
+21
+22
+held any provision of that subsection invalid, unconstitutional, or
+22
+23
+preempted by federal law, notwithstanding the doctrines of issue or
+23
+24
+claim preclusion.
+24
+Req. No. 2462 Page 21
+
+1
+SECTION 11. It being immediately necessary for the preservation
+1
+2
+of the public peace, health or safety, an emergency is hereby
+2
+3
+declared to exist, by reason whereof this act shall take effect and
+3
+4
+be in full force from and after its passage and approval.
+4
+5
+5
+6
+60-2-2462 DC 1/13/2026 9:06:25 PM
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2462 Page 22
+
+[DELETED:  P B D]
+[DELETED:  P]
+[DELETED:  P a a]
+[DELETED:  P t r r a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P i]
+[DELETED:  P c p h a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P h d]
+[DELETED:  P a]
+[DELETED:  P a a]
+[DELETED:  P a t]
+[DELETED:  P t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P t O]
+[DELETED:  P b c e]
+[DELETED:  P D 1]

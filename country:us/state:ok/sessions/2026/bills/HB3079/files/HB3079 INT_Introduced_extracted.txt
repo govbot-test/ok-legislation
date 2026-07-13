@@ -1,0 +1,499 @@
+Title: 3 HOUSE BILL 3079 By: Fugate
+Official Title: 3 HOUSE BILL 3079 By: Fugate
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to public finance; amending 62 O.S.
+2021, Section 46, which relates to information
+8 regarding state revenues and expenditures; requiring
+information regarding income sources; requiring
+9 information regarding expenditures; prescribing
+requirements related to export of information;
+10 prescribing time period for data entry; providing an
+effective date; and declaring an emergency.
+11
+12
+13
+14
+15 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+16 SECTION 1. AMENDATORY 62 O.S. 2021, Section 46, is
+17 amended to read as follows:
+18 Section 46. A. This act shall be known and may be cited as the
+19 "Taxpayer Transparency Act".
+20 B. As used in the Taxpayer Transparency Act:
+21 1. "Single website" means a website that allows the public to
+22 access information identified in subsection C of this section
+23 without any fee or charge to the public for such access;
+24
+Req. No. 15788 Page 1
+1 2. "Expenditure of funds" means the disbursement of all state
+2 and federal funds regardless of amount of expenditure, whether
+3 appropriated or nonappropriated, excluding:
+4 a. the transfer of funds between two state agencies,
+5 b. payments of state or federal assistance to an
+6 individual,
+7 c. child support payments, and
+8 d. refunds issued by the Oklahoma Tax Commission
+9 resulting from the overpayment of tax;
+10 3. "Incentive payments" means payments made under the Oklahoma
+11 Quality Jobs Program Act, Saving Quality Jobs Act, Oklahoma Quality
+12 Jobs Incentive Leverage Act, Small Employer Quality Jobs Incentive
+13 Act, Oklahoma Specialized Quality Investment Act and Oklahoma
+14 Quality Investment Act;
+15 4. "Tax credit" means a credit pursuant to the Oklahoma Income
+16 Tax Act against tax liability which is taken by a taxpayer,
+17 excluding credits authorized under paragraphs 1 and 2 of subsection
+18 B of Section 2357 and Sections 2357.29, 2357.29A and 2357.43 of
+19 Title 68 of the Oklahoma Statutes; and
+20 5. "Stimulus funds expenditure" means the disbursement by state
+21 agencies of federal funds received pursuant to the federal American
+22 Recovery and Reinvestment Act of 2009.
+23 C. The Office of Management and Enterprise Services shall
+24 develop and operate a single website accessible by the public. The
+Req. No. 15788 Page 2
+1 webs ite shall include aggregate information on state and federal
+2 revenue, expenditures and incentive payments and information on
+3 state tax preferences as contained in the tax expenditure report
+4 published by the Oklahoma Tax Commission pursuant to subsection E of
+5 Section 205 of Title 68 of the Oklahoma Statutes. The website shall
+6 include search capabilities. The single website shall be organized
+7 and developed so that a user may readily identify the sources of
+8 revenue to each and every fund, of the state, whether an
+9 appropriated fund, revolving fund, or other fund, the date or dates
+10 upon which the revenue was appropriated, directed, transferred,
+11 apportioned, or otherwise deposited to the credit of the fund. The
+12 website shall also include every expenditure made from each fund,
+13 clearly identify the date of the expenditure, the person or entity
+14 to whom or to which funds were paid, the purpose of the expenditure,
+15 and a coding system to allow a user to readily determine the type of
+16 expenditure by reference to its code number and such other
+17 information as may be prescribed by the Office of Management and
+18 Enterprise Services, including, but not limited to, a method to
+19 allow a user to readily determine the fiscal year during which a
+20 fund received income and the fiscal year during which any
+21 expenditure was made. All of the income information related to each
+22 fund and all of the expenditure information related to each fund
+23 shall be created and maintained using a method that allows a user to
+24 export the information in a format or formats commonly available to
+Req. No. 15788 Page 3
+1 indi viduals or business entities. Each transaction with respect to
+2 each fund shall be entered into the system not later than ninety
+3 (90) days after its original occurrence.
+4 D. Effective January 1, 2011, the Office of Management and
+5 Enterprise Services shall update the website with "Open Books 2.0,",
+6 an expanded online database through which each individual
+7 expenditure shall be listed individually separate of aggregated
+8 amount. The information shall be searchable by term including name
+9 of recipient, entity making expenditure and date of expenditure.
+10 The website shall allow members of the public to export sets of data
+11 produced by search query in a standardized exportable form. No
+12 later than eighteen (18) months after "Open Books 2.0" is online,
+13 the Office of Management and Enterprise Services shall create an
+14 online archive for each fiscal year, beginning with Fiscal Year
+15 2011, which shall be accessible and searchable to online users.
+16 E. Such website shall also include, but not be limited to:
+17 1. For the expenditure of funds or incentive payments:
+18 a. the name and principal location of the entity and/or
+19 recipients of the funds, excluding release of
+20 information relating to an individual's place of
+21 residence, release of information prohibited by
+22 subsection D of Section 24A.7 of Title 51 of the
+23 Oklahoma Statutes or by federal law relating to
+24 privacy rights,
+Req. No. 15788 Page 4
+1 b. the amount of funds expended,
+2 c. the type of transaction,
+3 d. the funding or expending agency, and
+4 e. a descriptive purpose of the funding action or
+5 expenditure;
+6 2. For stimulus fund expenditures:
+7 a. a link to the name and principal location of the
+8 entity and/or recipients of the funds regardless of
+9 amount,
+10 b. the amount of stimulus funds expended,
+11 c. the funding or expending agency, and
+12 d. a descriptive purpose of the funding action or
+13 expenditure; and
+14 3. For each state tax credit, information, including but not
+15 limited to:
+16 a. the name of each taxpayer to which a credit has been
+17 granted,
+18 b. the amount of such credit, and
+19 c. the specific provision under which a credit has been
+20 granted.
+21 F. The single website provided for in subsection C of this
+22 section shall include data on state revenue, expenditures and
+23 incentive payments for the fiscal year 2007 and each fiscal year
+24 thereafter, on state tax credits for tax year 2007 and each tax year
+Req. No. 15788 Page 5
+1 ther eafter, and on stimulus fund expenditures for the fiscal year
+2 2009 and each fiscal year thereafter. For the fiscal year 2017 and
+3 each fiscal year thereafter, the website shall include data which
+4 track the expenditure of federal funds by program. Such data shall
+5 be available on the single website no later than one hundred twenty
+6 (120) days after the last day of the preceding fiscal year;
+7 provided, data on stimulus fund expenditures for the fiscal year
+8 2009 shall be available on the single website within one hundred
+9 twenty (120) days after June 10, 2010.
+10 G. No later than January 1, 2012, the single website provided
+11 for in subsection C of this section shall include a section specific
+12 to data on road funding in this state. This section of the website
+13 shall include but not be limited to historical as well as current
+14 revenue collections and apportionment data on the following:
+15 1. Diesel fuel and gasoline excise tax collected pursuant to
+16 Sections 500.4 and 603 of Title 68 of the Oklahoma Statutes;
+17 2. Gross production tax collected pursuant to Section 1001 of
+18 Title 68 of the Oklahoma Statutes;
+19 3. Motor vehicle collections collected pursuant to Sections 6-
+20 101, 6-114, 14-116 and 1105 et seq. of Title 47 of the Oklahoma
+21 Statutes; and
+22 4. Motor vehicle excise tax collected pursuant to Sections
+23 2103, 2104.3 and 2110 of Title 68 of the Oklahoma Statutes.
+24
+Req. No. 15788 Page 6
+1 H. No later than January 1, 2012, the Office of Management and
+2 Enterprise Services shall include as part of the single website all
+3 spending data subject to publication by the "School District
+4 Transparency Act" in Title 70 of the Oklahoma Statutes.
+5 I. No later than January 1, 2015, the Office of Management and
+6 Enterprise Services shall include as part of the single website an
+7 interactive Oklahoma Taxpayer Receipt function. Such function shall
+8 allow the taxpayer to enter an amount or estimated amount of income
+9 and sales tax paid during the most recent year in order to obtain an
+10 itemized estimate of the percentage and dollar amount of the income
+11 and sales tax paid by the taxpayer which is allocated to various
+12 general categories of state expenditures.
+13 J. The Oklahoma Tax Commission, the Office of the State
+14 Treasurer, all institutions of The Oklahoma State System of Higher
+15 Education and any other state agency shall provide to the Office of
+16 Management and Enterprise Services such information as is necessary
+17 to accomplish the purposes of the Taxpayer Transparency Act.
+18 K. So that the Tax Commission may fulfill its obligations as
+19 required by this section, all recipients of tax credits, as that
+20 term is defined herein, shall file their reports or returns claiming
+21 the tax credits in an electronic format, as may be required by the
+22 Tax Commission. The Tax Commission may disallow any claim of a
+23 person for a tax credit due to its failure to file a report or
+24 return as required under the authority of this subsection.
+Req. No. 15788 Page 7
+1 L. Nothing in the Taxpayer Transparency Act shall require the
+2 disclosure of information which is required to be kept confidential
+3 by state or federal law.
+4 M. The disclosure of information required by this section shall
+5 create no liability whatsoever, civil or criminal, to the State of
+6 Oklahoma or any member of the Office of Management and Enterprise
+7 Services or any employee thereof for disclosure of the information
+8 or for any error or omission in the disclosure.
+9 N. The State Auditor and Inspector shall maintain a website
+10 providing public access to the documentation of stimulus funding
+11 pursuant to the requirements of this section. The website shall
+12 provide a list of all stimulus fund expenditures regardless of
+13 amount. The entire list of stimulus fund expenditures and each of
+14 the related content requirements as detailed in subsection D of this
+15 section shall be available for export in standardized formats
+16 including but not limited to eXtensible Markup Language (XML) and
+17 Comma Separated Value (CSV) formats. The list of expenditures shall
+18 include searchable functionality including but not limited to the
+19 ability to search the expenditures by the name of the entity
+20 receiving funding, name of entity processing funding and name of
+21 entity benefiting from funding.
+22 O. Information about tax credits subject to disclosure pursuant
+23 to this section shall include the identity of all taxpayers or
+24
+Req. No. 15788 Page 8
+1 orga nizations having any part in the chain of custody or claim to
+2 the credit or credits at any time during the credit's existence.
+3 SECTION 2. This act shall become effective July 1, 2026.
+4 SECTION 3. It being immediately necessary for the preservation
+5 of the public peace, health or safety, an emergency is hereby
+6 declared to exist, by reason whereof this act shall take effect and
+7 be in full force from and after its passage and approval.
+8
+9 60-2-15788 MAH 01/11/26
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 15788 Page 9
+[DELETED:  P B]
+[DELETED:  P t p c r]
+[DELETED:  P]
+[DELETED:  P t]
+[DELETED:  P t t t a a t t a t t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 0]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 HOUSE BILL 3079 By: Fugate
+4
+5
+6 AS INTRODUCED
+7 An Act relating to public finance; amending 62 O.S.
+2021, Section 46, which relates to information
+8 regarding state revenues and expenditures; requiring
+information regarding income sources; requiring
+9 information regarding expenditures; prescribing
+requirements related to export of information;
+10 prescribing time period for data entry; providing an
+effective date; and declaring an emergency.
+11
+12
+13
+14
+15 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+16 SECTION 1. AMENDATORY 62 O.S. 2021, Section 46, is
+17 amended to read as follows:
+18 Section 46. A. This act shall be known and may be cited as the
+19 "Taxpayer Transparency Act".
+20 B. As used in the Taxpayer Transparency Act:
+21 1. "Single website" means a website that allows the public to
+22 access information identified in subsection C of this section
+23 without any fee or charge to the public for such access;
+24
+Req. No. 15788 Page 1
+
+1 2. "Expenditure of funds" means the disbursement of all state
+2 and federal funds regardless of amount of expenditure, whether
+3 appropriated or nonappropriated, excluding:
+4 a. the transfer of funds between two state agencies,
+5 b. payments of state or federal assistance to an
+6 individual,
+7 c. child support payments, and
+8 d. refunds issued by the Oklahoma Tax Commission
+9 resulting from the overpayment of tax;
+10 3. "Incentive payments" means payments made under the Oklahoma
+11 Quality Jobs Program Act, Saving Quality Jobs Act, Oklahoma Quality
+12 Jobs Incentive Leverage Act, Small Employer Quality Jobs Incentive
+13 Act, Oklahoma Specialized Quality Investment Act and Oklahoma
+14 Quality Investment Act;
+15 4. "Tax credit" means a credit pursuant to the Oklahoma Income
+16 Tax Act against tax liability which is taken by a taxpayer,
+17 excluding credits authorized under paragraphs 1 and 2 of subsection
+18 B of Section 2357 and Sections 2357.29, 2357.29A and 2357.43 of
+19 Title 68 of the Oklahoma Statutes; and
+20 5. "Stimulus funds expenditure" means the disbursement by state
+21 agencies of federal funds received pursuant to the federal American
+22 Recovery and Reinvestment Act of 2009.
+23 C. The Office of Management and Enterprise Services shall
+24 develop and operate a single website accessible by the public. The
+Req. No. 15788 Page 2
+
+1 webs ite shall include aggregate information on state and federal
+2 revenue, expenditures and incentive payments and information on
+3 state tax preferences as contained in the tax expenditure report
+4 published by the Oklahoma Tax Commission pursuant to subsection E of
+5 Section 205 of Title 68 of the Oklahoma Statutes. The website shall
+6 include search capabilities. The single website shall be organized
+7 and developed so that a user may readily identify the sources of
+8 revenue to each and every fund, of the state, whether an
+9 appropriated fund, revolving fund, or other fund, the date or dates
+10 upon which the revenue was appropriated, directed, transferred,
+11 apportioned, or otherwise deposited to the credit of the fund. The
+12 website shall also include every expenditure made from each fund,
+13 clearly identify the date of the expenditure, the person or entity
+14 to whom or to which funds were paid, the purpose of the expenditure,
+15 and a coding system to allow a user to readily determine the type of
+16 expenditure by reference to its code number and such other
+17 information as may be prescribed by the Office of Management and
+18 Enterprise Services, including, but not limited to, a method to
+19 allow a user to readily determine the fiscal year during which a
+20 fund received income and the fiscal year during which any
+21 expenditure was made. All of the income information related to each
+22 fund and all of the expenditure information related to each fund
+23 shall be created and maintained using a method that allows a user to
+24 export the information in a format or formats commonly available to
+Req. No. 15788 Page 3
+
+1 indi viduals or business entities. Each transaction with respect to
+2 each fund shall be entered into the system not later than ninety
+3 (90) days after its original occurrence.
+4 D. Effective January 1, 2011, the Office of Management and
+5 Enterprise Services shall update the website with "Open Books 2.0,",
+6 an expanded online database through which each individual
+7 expenditure shall be listed individually separate of aggregated
+8 amount. The information shall be searchable by term including name
+9 of recipient, entity making expenditure and date of expenditure.
+10 The website shall allow members of the public to export sets of data
+11 produced by search query in a standardized exportable form. No
+12 later than eighteen (18) months after "Open Books 2.0" is online,
+13 the Office of Management and Enterprise Services shall create an
+14 online archive for each fiscal year, beginning with Fiscal Year
+15 2011, which shall be accessible and searchable to online users.
+16 E. Such website shall also include, but not be limited to:
+17 1. For the expenditure of funds or incentive payments:
+18 a. the name and principal location of the entity and/or
+19 recipients of the funds, excluding release of
+20 information relating to an individual's place of
+21 residence, release of information prohibited by
+22 subsection D of Section 24A.7 of Title 51 of the
+23 Oklahoma Statutes or by federal law relating to
+24 privacy rights,
+Req. No. 15788 Page 4
+
+1 b. the amount of funds expended,
+2 c. the type of transaction,
+3 d. the funding or expending agency, and
+4 e. a descriptive purpose of the funding action or
+5 expenditure;
+6 2. For stimulus fund expenditures:
+7 a. a link to the name and principal location of the
+8 entity and/or recipients of the funds regardless of
+9 amount,
+10 b. the amount of stimulus funds expended,
+11 c. the funding or expending agency, and
+12 d. a descriptive purpose of the funding action or
+13 expenditure; and
+14 3. For each state tax credit, information, including but not
+15 limited to:
+16 a. the name of each taxpayer to which a credit has been
+17 granted,
+18 b. the amount of such credit, and
+19 c. the specific provision under which a credit has been
+20 granted.
+21 F. The single website provided for in subsection C of this
+22 section shall include data on state revenue, expenditures and
+23 incentive payments for the fiscal year 2007 and each fiscal year
+24 thereafter, on state tax credits for tax year 2007 and each tax year
+Req. No. 15788 Page 5
+
+1 ther eafter, and on stimulus fund expenditures for the fiscal year
+2 2009 and each fiscal year thereafter. For the fiscal year 2017 and
+3 each fiscal year thereafter, the website shall include data which
+4 track the expenditure of federal funds by program. Such data shall
+5 be available on the single website no later than one hundred twenty
+6 (120) days after the last day of the preceding fiscal year;
+7 provided, data on stimulus fund expenditures for the fiscal year
+8 2009 shall be available on the single website within one hundred
+9 twenty (120) days after June 10, 2010.
+10 G. No later than January 1, 2012, the single website provided
+11 for in subsection C of this section shall include a section specific
+12 to data on road funding in this state. This section of the website
+13 shall include but not be limited to historical as well as current
+14 revenue collections and apportionment data on the following:
+15 1. Diesel fuel and gasoline excise tax collected pursuant to
+16 Sections 500.4 and 603 of Title 68 of the Oklahoma Statutes;
+17 2. Gross production tax collected pursuant to Section 1001 of
+18 Title 68 of the Oklahoma Statutes;
+19 3. Motor vehicle collections collected pursuant to Sections 6-
+20 101, 6-114, 14-116 and 1105 et seq. of Title 47 of the Oklahoma
+21 Statutes; and
+22 4. Motor vehicle excise tax collected pursuant to Sections
+23 2103, 2104.3 and 2110 of Title 68 of the Oklahoma Statutes.
+24
+Req. No. 15788 Page 6
+
+1 H. No later than January 1, 2012, the Office of Management and
+2 Enterprise Services shall include as part of the single website all
+3 spending data subject to publication by the "School District
+4 Transparency Act" in Title 70 of the Oklahoma Statutes.
+5 I. No later than January 1, 2015, the Office of Management and
+6 Enterprise Services shall include as part of the single website an
+7 interactive Oklahoma Taxpayer Receipt function. Such function shall
+8 allow the taxpayer to enter an amount or estimated amount of income
+9 and sales tax paid during the most recent year in order to obtain an
+10 itemized estimate of the percentage and dollar amount of the income
+11 and sales tax paid by the taxpayer which is allocated to various
+12 general categories of state expenditures.
+13 J. The Oklahoma Tax Commission, the Office of the State
+14 Treasurer, all institutions of The Oklahoma State System of Higher
+15 Education and any other state agency shall provide to the Office of
+16 Management and Enterprise Services such information as is necessary
+17 to accomplish the purposes of the Taxpayer Transparency Act.
+18 K. So that the Tax Commission may fulfill its obligations as
+19 required by this section, all recipients of tax credits, as that
+20 term is defined herein, shall file their reports or returns claiming
+21 the tax credits in an electronic format, as may be required by the
+22 Tax Commission. The Tax Commission may disallow any claim of a
+23 person for a tax credit due to its failure to file a report or
+24 return as required under the authority of this subsection.
+Req. No. 15788 Page 7
+
+1 L. Nothing in the Taxpayer Transparency Act shall require the
+2 disclosure of information which is required to be kept confidential
+3 by state or federal law.
+4 M. The disclosure of information required by this section shall
+5 create no liability whatsoever, civil or criminal, to the State of
+6 Oklahoma or any member of the Office of Management and Enterprise
+7 Services or any employee thereof for disclosure of the information
+8 or for any error or omission in the disclosure.
+9 N. The State Auditor and Inspector shall maintain a website
+10 providing public access to the documentation of stimulus funding
+11 pursuant to the requirements of this section. The website shall
+12 provide a list of all stimulus fund expenditures regardless of
+13 amount. The entire list of stimulus fund expenditures and each of
+14 the related content requirements as detailed in subsection D of this
+15 section shall be available for export in standardized formats
+16 including but not limited to eXtensible Markup Language (XML) and
+17 Comma Separated Value (CSV) formats. The list of expenditures shall
+18 include searchable functionality including but not limited to the
+19 ability to search the expenditures by the name of the entity
+20 receiving funding, name of entity processing funding and name of
+21 entity benefiting from funding.
+22 O. Information about tax credits subject to disclosure pursuant
+23 to this section shall include the identity of all taxpayers or
+24
+Req. No. 15788 Page 8
+
+1 orga nizations having any part in the chain of custody or claim to
+2 the credit or credits at any time during the credit's existence.
+3 SECTION 2. This act shall become effective July 1, 2026.
+4 SECTION 3. It being immediately necessary for the preservation
+5 of the public peace, health or safety, an emergency is hereby
+6 declared to exist, by reason whereof this act shall take effect and
+7 be in full force from and after its passage and approval.
+8
+9 60-2-15788 MAH 01/11/26
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 15788 Page 9
+
+[DELETED:  P B]
+[DELETED:  P t p c r]
+[DELETED:  P]
+[DELETED:  P t]
+[DELETED:  P t t t a a t t a t t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 0]

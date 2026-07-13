@@ -1,0 +1,431 @@
+Title: SENATE BILL 1716 By: Howard
+Official Title: SENATE BILL 1716 By: Howard
+Number of Sections: 7
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Security Breach Notification
+7
+Act; amending 24 O.S. 2021, Section 165, as amended
+8
+by Section 4, Chapter 406, O.S.L. 2025 (24 O.S. Supp.
+8
+2025, Section 165), which relates to enforcement;
+9
+prohibiting class action liability for private entity
+9
+for cybersecurity event; providing exceptions; and
+10
+providing an effective date.
+10
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+
+Section 2:
+SECTION 1. AMENDATORY 24 O.S. 2021, Section 165, as
+14
+15
+amended by Section 4, Chapter 406, O.S.L. 2025 (24 O.S. Supp. 2025,
+15
+16
+
+Section 3:
+Section 165), is amended to read as follows:
+16
+17
+
+Section 4:
+Section 165. A. A violation of the Security Breach
+17
+18
+Notification Act that results in injury or loss to residents of this
+18
+19
+state may be enforced by the Attorney General or a district attorney
+19
+20
+in the same manner as an unlawful practice under the Oklahoma
+20
+21
+Consumer Protection Act.
+21
+22
+B. Except as provided in subsection D of this section, the
+22
+23
+Attorney General or a district attorney shall have exclusive
+23
+24
+authority to bring an action and may obtain actual damages for a
+24
+Req. No. 2726 Page 1
+1
+violation of the Security Breach Notification Act and a civil
+1
+2
+penalty not to exceed One Hundred Fifty Thousand Dollars
+2
+3
+($150,000.00) per breach of the security of the system or series of
+3
+4
+breaches of a similar nature that are determined in a single
+4
+5
+investigation. Civil penalties shall be based upon the magnitude of
+5
+6
+the breach, the extent to which the behavior of the individual or
+6
+7
+entity contributed to the breach, and any failure to provide the
+7
+8
+notice required by Section 163 of this title.
+8
+9
+C. 1. An individual or entity that uses reasonable safeguards
+9
+10
+and provides notice as required by Section 163 or 164 of this title
+10
+11
+shall not be subject to civil penalties and may use such compliance
+11
+12
+as an affirmative defense in a civil action filed under the Security
+12
+13
+Breach Notification Act.
+13
+14
+
+Section 5:
+2. An individual or entity that fails to use reasonable
+14
+15
+safeguards but provides notice as required by Section 163 or 164 of
+15
+16
+this title shall not be subject to the civil penalty set forth in
+16
+17
+subsection B of this section but shall be subject to actual damages
+17
+18
+and a civil penalty of Seventy-five Thousand Dollars ($75,000.00).
+18
+19
+
+Section 6:
+3. A private entity shall not be liable in a class action
+19
+20
+resulting from a cybersecurity event unless such event was caused by
+20
+21
+the willful and wanton conduct or gross negligence of the private
+21
+22
+entity.
+22
+23
+D. A violation of the Security Breach Notification Act by a
+23
+24
+state-chartered or state-licensed financial institution shall be
+24
+Req. No. 2726 Page 2
+1
+enforceable exclusively by the primary state regulator of the
+1
+2
+financial institution.
+2
+3
+
+Section 7:
+SECTION 2. This act shall become effective November 1, 2026.
+3
+4
+4
+5
+60-2-2726 TEK 1/14/2026 11:31:24 AM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2726 Page 3
+[DELETED:  P B H]
+[DELETED:  P]
+[DELETED:  P T 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1716 By: Howard
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Security Breach Notification
+7
+Act; amending 24 O.S. 2021, Section 165, as amended
+8
+by Section 4, Chapter 406, O.S.L. 2025 (24 O.S. Supp.
+8
+2025, Section 165), which relates to enforcement;
+9
+prohibiting class action liability for private entity
+9
+for cybersecurity event; providing exceptions; and
+10
+providing an effective date.
+10
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+SECTION 1. AMENDATORY 24 O.S. 2021, Section 165, as
+14
+15
+amended by Section 4, Chapter 406, O.S.L. 2025 (24 O.S. Supp. 2025,
+15
+16
+Section 165), is amended to read as follows:
+16
+17
+Section 165. A. A violation of the Security Breach
+17
+18
+Notification Act that results in injury or loss to residents of this
+18
+19
+state may be enforced by the Attorney General or a district attorney
+19
+20
+in the same manner as an unlawful practice under the Oklahoma
+20
+21
+Consumer Protection Act.
+21
+22
+B. Except as provided in subsection D of this section, the
+22
+23
+Attorney General or a district attorney shall have exclusive
+23
+24
+authority to bring an action and may obtain actual damages for a
+24
+Req. No. 2726 Page 1
+
+1
+violation of the Security Breach Notification Act and a civil
+1
+2
+penalty not to exceed One Hundred Fifty Thousand Dollars
+2
+3
+($150,000.00) per breach of the security of the system or series of
+3
+4
+breaches of a similar nature that are determined in a single
+4
+5
+investigation. Civil penalties shall be based upon the magnitude of
+5
+6
+the breach, the extent to which the behavior of the individual or
+6
+7
+entity contributed to the breach, and any failure to provide the
+7
+8
+notice required by Section 163 of this title.
+8
+9
+C. 1. An individual or entity that uses reasonable safeguards
+9
+10
+and provides notice as required by Section 163 or 164 of this title
+10
+11
+shall not be subject to civil penalties and may use such compliance
+11
+12
+as an affirmative defense in a civil action filed under the Security
+12
+13
+Breach Notification Act.
+13
+14
+2. An individual or entity that fails to use reasonable
+14
+15
+safeguards but provides notice as required by Section 163 or 164 of
+15
+16
+this title shall not be subject to the civil penalty set forth in
+16
+17
+subsection B of this section but shall be subject to actual damages
+17
+18
+and a civil penalty of Seventy-five Thousand Dollars ($75,000.00).
+18
+19
+3. A private entity shall not be liable in a class action
+19
+20
+resulting from a cybersecurity event unless such event was caused by
+20
+21
+the willful and wanton conduct or gross negligence of the private
+21
+22
+entity.
+22
+23
+D. A violation of the Security Breach Notification Act by a
+23
+24
+state-chartered or state-licensed financial institution shall be
+24
+Req. No. 2726 Page 2
+
+1
+enforceable exclusively by the primary state regulator of the
+1
+2
+financial institution.
+2
+3
+SECTION 2. This act shall become effective November 1, 2026.
+3
+4
+4
+5
+60-2-2726 TEK 1/14/2026 11:31:24 AM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2726 Page 3
+
+[DELETED:  P B H]
+[DELETED:  P]
+[DELETED:  P T 1]

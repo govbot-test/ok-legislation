@@ -1,0 +1,234 @@
+Title: 3 HOUSE BILL 3392 By: Clinton
+Official Title: 3 HOUSE BILL 3392 By: Clinton
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to the Oklahoma Corporation
+Commission; defining term; requiring Oklahoma
+8 Corporation Commission conduct certain study;
+detailing study requirements; requiring certain
+9 assessment as part of study; requiring submission of
+report by certain date; providing for distribution of
+10 report; providing for codification; and providing an
+effective date.
+11
+12
+13
+14 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15 SECTION 1. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 180.14 of Title 17, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. For the purposes of this section, "large load customer"
+19 means a customer or group of affiliated customers that:
+20 1. Is served by an electric utility subject to the jurisdiction
+21 of the Oklahoma Corporation Commission;
+22 2. Has a single-site or aggregated load with a maximum demand
+23 of fifty (50) megawatts or greater, or such other threshold as may
+24 be established by rule of the Commission; and
+Req. No. 15761 Page 1
+1 3. Is primarily engaged in one or more of the following
+2 activities:
+3 a. operation of data centers, cloud computing facilities,
+4 server farms, or digital asset processing facilities,
+5 b. artificial intelligence, high-performance computing,
+6 or large-scale information processing, or
+7 c. advanced manufacturing, industrial processing, or
+8 other operations requiring continuous or near-
+9 continuous high electric demand.
+10 The term shall include facilities under common ownership or
+11 control that are reasonably expected to operate in a coordinated
+12 manner or that collectively impose comparable impacts on electric
+13 infrastructure or rates. The term shall not include traditional
+14 residential, small commercial, or standard industrial customers
+15 unless such customers meet the demand thresholds established in this
+16 section.
+17 B. The Commission is hereby directed to conduct a comprehensive
+18 study examining the current and projected impacts of large load
+19 customers on:
+20 1. Electric generation capacity, transmission, and distribution
+21 infrastructure;
+22 2. System reliability, resilience, and resource adequacy;
+23 3. Utility planning, including integrated resource planning and
+24 transmission planning;
+Req. No. 15761 Page 2
+1 4. Electricity rates, cost allocation, and potential cross-
+2 subsidization affecting existing ratepayers;
+3 5. The need for new infrastructure investments attributable to
+4 large load customers and the appropriate assignment of such costs;
+5 and
+6 6. Any other factors the Commission deems necessary to protect
+7 public interest.
+8 C. As part of the study required in subsection B of this
+9 section, the Commission shall specifically assess:
+10 1. Whether the costs associated with serving large load
+11 customers are being equitably and proportionately allocated based on
+12 cost causation principles;
+13 2. Whether existing or proposed rate structures, tariffs,
+14 special contracts, or incentive arrangements result in direct or
+15 indirect cost shifting to residential, commercial, agricultural, or
+16 other customers not meeting the definition of large load customer;
+17 3. The extent to which infrastructure investments undertaken to
+18 serve large load customers would have been unnecessary in the
+19 absence of such customers;
+20 4. Whether current regulatory practices adequately ensure that
+21 large load customers bear the full incremental costs of service
+22 attributable to their demand; and
+23 5. Potential policy considerations to protect ratepayers.
+24
+Req. No. 15761 Page 3
+1 D. No later than December 1, 2027, the Commission shall deliver
+2 a report detailing the findings of the study to the President Pro
+3 Tempore of the Oklahoma State Senate and the Speaker of the Oklahoma
+4 House of Representatives.
+5 SECTION 2. This act shall become effective November 1, 2026.
+6
+7 60-2-15761 JBH 12/30/25
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 15761 Page 4
+[DELETED:  P B]
+[DELETED:  P o a a]
+[DELETED:  P]
+[DELETED:  P J 1]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 HOUSE BILL 3392 By: Clinton
+4
+5
+6 AS INTRODUCED
+7 An Act relating to the Oklahoma Corporation
+Commission; defining term; requiring Oklahoma
+8 Corporation Commission conduct certain study;
+detailing study requirements; requiring certain
+9 assessment as part of study; requiring submission of
+report by certain date; providing for distribution of
+10 report; providing for codification; and providing an
+effective date.
+11
+12
+13
+14 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15 SECTION 1. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 180.14 of Title 17, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. For the purposes of this section, "large load customer"
+19 means a customer or group of affiliated customers that:
+20 1. Is served by an electric utility subject to the jurisdiction
+21 of the Oklahoma Corporation Commission;
+22 2. Has a single-site or aggregated load with a maximum demand
+23 of fifty (50) megawatts or greater, or such other threshold as may
+24 be established by rule of the Commission; and
+Req. No. 15761 Page 1
+
+1 3. Is primarily engaged in one or more of the following
+2 activities:
+3 a. operation of data centers, cloud computing facilities,
+4 server farms, or digital asset processing facilities,
+5 b. artificial intelligence, high-performance computing,
+6 or large-scale information processing, or
+7 c. advanced manufacturing, industrial processing, or
+8 other operations requiring continuous or near-
+9 continuous high electric demand.
+10 The term shall include facilities under common ownership or
+11 control that are reasonably expected to operate in a coordinated
+12 manner or that collectively impose comparable impacts on electric
+13 infrastructure or rates. The term shall not include traditional
+14 residential, small commercial, or standard industrial customers
+15 unless such customers meet the demand thresholds established in this
+16 section.
+17 B. The Commission is hereby directed to conduct a comprehensive
+18 study examining the current and projected impacts of large load
+19 customers on:
+20 1. Electric generation capacity, transmission, and distribution
+21 infrastructure;
+22 2. System reliability, resilience, and resource adequacy;
+23 3. Utility planning, including integrated resource planning and
+24 transmission planning;
+Req. No. 15761 Page 2
+
+1 4. Electricity rates, cost allocation, and potential cross-
+2 subsidization affecting existing ratepayers;
+3 5. The need for new infrastructure investments attributable to
+4 large load customers and the appropriate assignment of such costs;
+5 and
+6 6. Any other factors the Commission deems necessary to protect
+7 public interest.
+8 C. As part of the study required in subsection B of this
+9 section, the Commission shall specifically assess:
+10 1. Whether the costs associated with serving large load
+11 customers are being equitably and proportionately allocated based on
+12 cost causation principles;
+13 2. Whether existing or proposed rate structures, tariffs,
+14 special contracts, or incentive arrangements result in direct or
+15 indirect cost shifting to residential, commercial, agricultural, or
+16 other customers not meeting the definition of large load customer;
+17 3. The extent to which infrastructure investments undertaken to
+18 serve large load customers would have been unnecessary in the
+19 absence of such customers;
+20 4. Whether current regulatory practices adequately ensure that
+21 large load customers bear the full incremental costs of service
+22 attributable to their demand; and
+23 5. Potential policy considerations to protect ratepayers.
+24
+Req. No. 15761 Page 3
+
+1 D. No later than December 1, 2027, the Commission shall deliver
+2 a report detailing the findings of the study to the President Pro
+3 Tempore of the Oklahoma State Senate and the Speaker of the Oklahoma
+4 House of Representatives.
+5 SECTION 2. This act shall become effective November 1, 2026.
+6
+7 60-2-15761 JBH 12/30/25
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 15761 Page 4
+
+[DELETED:  P B]
+[DELETED:  P o a a]
+[DELETED:  P]
+[DELETED:  P J 1]

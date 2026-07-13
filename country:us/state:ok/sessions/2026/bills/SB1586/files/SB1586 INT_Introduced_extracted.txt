@@ -1,0 +1,3410 @@
+Title: SENATE BILL 1586 By: Frix
+Official Title: SENATE BILL 1586 By: Frix
+Number of Sections: 52
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+RBS No. 3223
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Oklahoma Firefighters Pension
+7
+and Retirement System; amending 11 O.S. 2021,
+8
+
+Section 2:
+Sections 49-100.1, as last amended by Section 1,
+8
+Chapter 142, O.S.L. 2025, and 49-109, as amended by
+9
+
+Section 3:
+Section 4, Chapter 151, O.S.L. 2023 (11 O.S. Supp.
+9
+2025, Sections 49-100.1 and 49-109), which relate to
+10
+the Oklahoma Firefighters Pension and Retirement
+10
+System; modifying definitions; increasing computation
+11
+of certain benefits; providing for effective dates of
+11
+certain increase; updating statutory language;
+12
+updating statutory reference; amending 62 O.S. 2021,
+12
+
+Section 4:
+Section 3103, as last amended by Section 1, Chapter
+13
+357, O.S.L. 2024 (62 O.S. Supp. 2025, Section 3103),
+13
+which relates to the Oklahoma Pension Legislation
+14
+Actuarial Analysis Act; modifying term; updating
+14
+statutory reference; providing effective dates; and
+15
+declaring an emergency.
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+
+Section 5:
+SECTION 1. AMENDATORY 11 O.S. 2021, Section 49-100.1, as
+18
+19
+last amended by Section 1, Chapter 142, O.S.L. 2025 (11 O.S. Supp.
+19
+20
+2025, Section 49-100.1), is amended to read as follows:
+20
+21
+
+Section 6:
+Section 49-100.1. As used in this article:
+21
+22
+
+Section 7:
+1. “System” means the Oklahoma Firefighters Pension and
+22
+23
+Retirement System and all predecessor municipal firefighters pension
+23
+24
+and retirement systems;
+24
+Req. No. 3223 Page 1
+RBS No. 3223
+1
+
+Section 8:
+2. “Article” means Article 49 of this title;
+1
+2
+
+Section 9:
+3. “State Board” means the Oklahoma Firefighters Pension and
+2
+3
+Retirement Board;
+3
+4
+
+Section 10:
+4. “Local board” means the local firefighters pension and
+4
+5
+retirement boards;
+5
+6
+
+Section 11:
+5. “Fund” means the Oklahoma Firefighters Pension and
+6
+7
+Retirement Fund;
+7
+8
+
+Section 12:
+6. “Member” means all eligible firefighters of a participating
+8
+9
+municipality or a fire protection district who perform the essential
+9
+10
+functions of fire suppression, prevention, and life safety duties in
+10
+11
+a fire department. The term “member” member shall include, but not
+11
+12
+be limited to, the person serving as fire chief of any participating
+12
+13
+municipality, provided that a person serving as fire chief of a
+13
+14
+participating municipality shall meet the age, agility, physical,
+14
+15
+and other eligibility requirements required by law at the time said
+15
+16
+such person becomes a member of the System. Effective July 1, 1987,
+16
+17
+a member does not include a “leased employee” leased employee. The
+17
+18
+term “leased employee” means any person (other, other than an
+18
+19
+employee of the recipient) recipient, who pursuant to an agreement
+19
+20
+between the recipient and any other person (“leasing organization”),
+20
+21
+referred to as a leasing organization, has performed services for
+21
+22
+the recipient (or or for the recipient and related persons
+22
+23
+determined in accordance with Section 414(n)(6) of the Internal
+23
+24
+Revenue Code of 1986, as amended) amended, on a substantially full-
+24
+Req. No. 3223 Page 2
+RBS No. 3223
+1
+time basis for a period of at least one (1) year, and such services
+1
+2
+are performed under primary direction or control by the recipient.
+2
+3
+Contributions or benefits provided to a leased employee by the
+3
+4
+leasing organization which are attributable to services performed
+4
+5
+for the recipient employer shall be treated as provided by the
+5
+6
+recipient employer. A leased employee shall not be considered an
+6
+7
+employee of the recipient if the requirements of the safe harbor
+7
+8
+provisions of Section 414(n)(5) of the Internal Revenue Code of
+8
+9
+1986, as amended, are satisfied. Effective July 1, 1999, any
+9
+10
+individual who agrees with the participating municipality that the
+10
+11
+individual’s services are to be performed as a leased employee or an
+11
+12
+independent contractor shall not be a member regardless of any
+12
+13
+classification as a common law employee by the Internal Revenue
+13
+14
+Service or any other governmental agency, or any court of competent
+14
+15
+jurisdiction;
+15
+16
+
+Section 13:
+7. “Normal retirement date” means the date at which the member
+16
+17
+is eligible to receive the unreduced payments of the member’s
+17
+18
+accrued retirement benefit. Such date shall be the first day
+18
+19
+following the date the member completes twenty (20) years of
+19
+20
+credited service. If the member’s employment continues past the
+20
+21
+normal retirement date of the member, the actual retirement date of
+21
+22
+the member shall be the first day following the date the member
+22
+23
+terminates employment with more than twenty (20) years of credited
+23
+24
+service;
+24
+Req. No. 3223 Page 3
+RBS No. 3223
+1
+
+Section 14:
+8. “Credited service” means the period of service used to
+1
+2
+determine the eligibility for and the amount of benefits payable to
+2
+3
+a member. Credited service shall consist of the period during which
+3
+4
+the member participated in the System or the predecessor municipal
+4
+5
+systems as an active employee in an eligible membership
+5
+6
+classification, plus any service prior to the establishment of the
+6
+7
+predecessor municipal systems which was credited under the
+7
+8
+predecessor municipal systems; provided, however, “credited service”
+8
+9
+credited service for members from a fire protection district shall
+9
+10
+not begin accruing before July 1, 1982;
+10
+11
+
+Section 15:
+9. “Participating municipality” means a municipality, county
+11
+12
+fire department organized pursuant to subsection D of Section 351 of
+12
+13
+Title 19 of the Oklahoma Statutes, or fire protection district which
+13
+14
+is making contributions to the System on behalf of its firefighters.
+14
+15
+All participating municipalities shall appoint a fire chief who
+15
+16
+shall supervise and administer the fire department;
+16
+17
+
+Section 16:
+10. “Disability” means the complete inability of the
+17
+18
+firefighter to perform any and every duty of the firefighter’s
+18
+19
+regular occupation; provided further, that once benefits have been
+19
+20
+paid for twenty-four (24) months the provisions of Section 49-110 of
+20
+21
+this title shall apply to the firefighter;
+21
+22
+
+Section 17:
+11. “Executive Director” means the managing officer of the
+22
+23
+System employed by the State Board;
+23
+24
+24
+Req. No. 3223 Page 4
+RBS No. 3223
+1
+
+Section 18:
+12. “Eligible employer” means any municipality with a municipal
+1
+2
+fire department, any county fire department organized pursuant to
+2
+3
+subsection D of Section 351 of Title 19 of the Oklahoma Statutes, or
+3
+4
+any fire protection district with an organized fire department;
+4
+5
+
+Section 19:
+13. “Entry date” means the date as of which an eligible
+5
+6
+employer joins the System. The first entry date pursuant to this
+6
+7
+article shall be January 1, 1981;
+7
+8
+
+Section 20:
+14. “Final average salary” means the average paid gross salary
+8
+9
+of the firefighter for normally scheduled hours over the highest
+9
+10
+salaried thirty (30) consecutive months of the last sixty (60)
+10
+11
+months of credited service. Gross salary shall not include payment
+11
+12
+for accumulated sick or annual leave upon termination of employment,
+12
+13
+any uniform allowances, or any other compensation for reimbursement
+13
+14
+of out-of-pocket expenses. Only salary on which the required
+14
+15
+contributions have been made may be used in computing the final
+15
+16
+average salary. Effective January 1, 1988, gross salary shall
+16
+17
+include any amount of elective salary reduction under Section 125 of
+17
+18
+the Internal Revenue Code of 1986, as amended. Gross salary shall
+18
+19
+include any amount of elective salary reduction under Section 457 of
+19
+20
+the Internal Revenue Code of 1986, as amended, and any amount of
+20
+21
+nonelective salary reduction under Section 414(h) of the Internal
+21
+22
+Revenue Code of 1986, as amended. Effective July 1, 1998, for
+22
+23
+purposes of determining a member’s compensation, any contribution by
+23
+24
+the member to reduce the member’s regular cash remuneration under
+24
+Req. No. 3223 Page 5
+RBS No. 3223
+1
+
+Section 21:
+Section 132(f)(4) of the Internal Revenue Code of 1986, as amended,
+1
+2
+shall be treated as if the member did not make such an election.
+2
+3
+Only salary on which required contributions have been made may be
+3
+4
+used in computing final average salary.
+4
+5
+In addition to other applicable limitations, and notwithstanding
+5
+6
+any other provision to the contrary, for plan years beginning on or
+6
+7
+after July 1, 2002, the annual gross salary of each “Noneligible
+7
+8
+Member” Noneligible Member taken into account under the System shall
+8
+9
+not exceed the Economic Growth and Tax Relief Reconciliation Act of
+9
+10
+2001 (“EGTRRA”) annual salary limit. The EGTRRA annual salary limit
+10
+11
+is Two Hundred Thousand Dollars ($200,000.00), as adjusted by the
+11
+12
+Commissioner United States Secretary of the Treasury for increases
+12
+13
+in the cost of living in accordance with Section 401(a)(17)(B) of
+13
+14
+the Internal Revenue Code of 1986, as amended. The annual salary
+14
+15
+limit in effect for a calendar year applies to any period, not
+15
+16
+exceeding twelve (12) months a twelve-month determination period,
+16
+17
+over which salary is determined (“determination period”) beginning
+17
+18
+in such calendar year. If a determination period consists of fewer
+18
+19
+than twelve (12) months, the EGTRRA salary limit will be multiplied
+19
+20
+by a fraction, the numerator of which is the number of months in the
+20
+21
+determination period, and the denominator of which is twelve (12).
+21
+22
+For purposes of this subsection, a “Noneligible Member” is any
+22
+23
+member who first became a member during a plan year commencing on or
+23
+24
+after July 1, 1996.
+24
+Req. No. 3223 Page 6
+RBS No. 3223
+1
+For plan years beginning on or after July 1, 2002, any reference
+1
+2
+to the annual salary limit under Section 401(a)(17) of the Internal
+2
+3
+Revenue Code of 1986, as amended, shall mean the EGTRRA salary limit
+3
+4
+set forth in this subsection.
+4
+5
+Effective June 9, 2010, gross salary shall also include gross
+5
+6
+salary, as described above provided in this paragraph, for services,
+6
+7
+but paid by the later of two and one-half (2 1/2) months after a
+7
+8
+firefighter’s severance from employment or the end of the calendar
+8
+9
+year that includes the date the firefighter terminated employment,
+9
+10
+if it is a payment that, absent a severance from employment, would
+10
+11
+have been paid to the firefighter while the firefighter continued in
+11
+12
+employment with the participating municipality.
+12
+13
+Effective June 9, 2010, any payments not described above
+13
+14
+provided for in this paragraph shall not be considered gross salary
+14
+15
+if paid after severance from employment, even if they are paid by
+15
+16
+the later of two and one-half (2 1/2) months after the date of
+16
+17
+severance from employment or the end of the calendar year that
+17
+18
+includes the date of severance from employment, except payments to
+18
+19
+an individual who does not currently perform services for the
+19
+20
+participating municipality by reason of qualified military service
+20
+21
+within the meaning of Section 414(u)(5) of the Internal Revenue Code
+21
+22
+of 1986, as amended, to the extent these payments do not exceed the
+22
+23
+amounts the individual would have received if the individual had
+23
+24
+24
+Req. No. 3223 Page 7
+RBS No. 3223
+1
+continued to perform services for the participating municipality
+1
+2
+rather than entering qualified military service.
+2
+3
+Effective June 9, 2010, back pay, within the meaning of Section
+3
+4
+
+Section 22:
+1.415(c)-2(g)(8) of the Income Tax Regulations, shall be treated as
+4
+5
+gross salary for the year to which the back pay relates to the
+5
+6
+extent the back pay represents wages and compensation that would
+6
+7
+otherwise be included in this definition.
+7
+8
+Effective for years beginning after December 31, 2008, gross
+8
+9
+salary shall also include differential wage payments under Section
+9
+10
+414(u)(12) of the Internal Revenue Code of 1986, as amended;
+10
+11
+
+Section 23:
+15. “Accrued retirement benefit” means, for benefits computed
+11
+12
+prior to the effective date of this act, two and one-half percent (2
+12
+13
+1/2%) of the firefighter’s final average salary multiplied by the
+13
+14
+member’s years of credited service not to exceed thirty (30) years.
+14
+15
+For a member who entered the System on or after November 1,
+15
+16
+2013, and who retires on or after the effective date of this act,
+16
+17
+accrued retirement benefits shall mean:
+17
+18
+a. for such member who retires and terminates employment
+18
+19
+at least one (1) year after the effective date of this
+19
+20
+act and has at least twenty-five (25) years of
+20
+21
+credited service, three percent (3%) of the member’s
+21
+22
+final average salary multiplied by the member’s years
+22
+23
+of credited service, not to exceed thirty (30) years,
+23
+24
+24
+Req. No. 3223 Page 8
+RBS No. 3223
+1
+b. for such member who retires and terminates employment
+1
+2
+at least two (2) years after the effective date of
+2
+3
+this act and has at least twenty (20) years of
+3
+4
+credited service, three percent (3%) of the member’s
+4
+5
+final average salary multiplied by the member’s years
+5
+6
+of credited service, not to exceed thirty (30) years,
+6
+7
+c. for such member who retires and terminates employment
+7
+8
+at least five (5) years after the effective date of
+8
+9
+this act, three percent (3%) of the member’s final
+9
+10
+average salary multiplied by the member’s years of
+10
+11
+credited service, not to exceed thirty (30) years, and
+11
+12
+d. for such member who retires and terminates employment
+12
+13
+on or after the effective date of this act, but does
+13
+14
+not have the minimum years of credited service to
+14
+15
+qualify for the benefit outlined in subparagraphs a
+15
+16
+and b of this paragraph, or retires and terminates
+16
+17
+employment prior to the date outlined in subparagraph
+17
+18
+c of this paragraph, two and one-half percent (2 1/2%)
+18
+19
+of the member’s final average salary multiplied by the
+19
+20
+member’s years of credited service, not to exceed
+20
+21
+thirty (30) years;
+21
+22
+
+Section 24:
+16. “Beneficiary” means a member’s surviving spouse or any
+22
+23
+surviving children, including biological and adopted children, at
+23
+24
+the time of the member’s death. The surviving spouse must have been
+24
+Req. No. 3223 Page 9
+RBS No. 3223
+1
+married to the firefighter for the thirty (30) continuous months
+1
+2
+preceding the firefighter’s death; provided, a surviving spouse of a
+2
+3
+member who died while in, or as a consequence of, the performance of
+3
+4
+the member’s duty for a participating municipality, shall not be
+4
+5
+subject to the marriage limitation for survivor benefits. A
+5
+6
+surviving child of a member shall be a beneficiary until reaching
+6
+7
+eighteen (18) years of age or twenty-two (22) years of age if the
+7
+8
+child is enrolled full time full-time and regularly attending a
+8
+9
+public or private school or any institution of higher education.
+9
+10
+Any child adopted by a member after the member’s retirement shall be
+10
+11
+a beneficiary only if the child is adopted by the member for the
+11
+12
+thirty (30) continuous months preceding the member’s death. Any
+12
+13
+child who is adopted by a member after the member’s retirement and
+13
+14
+such member dies accidentally or as a consequence of the performance
+14
+15
+of the member’s duty as a firefighter shall not be subject to the
+15
+16
+thirty-month adoption requirement. This definition of beneficiary
+16
+17
+shall be in addition to any other requirement set forth in this
+17
+18
+article;
+18
+19
+
+Section 25:
+17. “Contributions” means payments remitted to the System
+19
+20
+pursuant to Section 49-122 or subsection A of Section 49-138 of this
+20
+21
+title. Contributions shall not include payments made to repurchase
+21
+22
+credited service pursuant to Section 49-117.1 of this title,
+22
+23
+payments made to transfer credited service from another retirement
+23
+24
+system pursuant to subsection A of Section 49-117.2 or Section 49-
+24
+Req. No. 3223 Page 10
+RBS No. 3223
+1
+
+Section 26:
+117.3 of this title, or payments made to purchase prior military
+1
+2
+service credit pursuant to subsection E of Section 49-138 of this
+2
+3
+title;
+3
+4
+
+Section 27:
+18. “Accumulated contributions” means the sum of all
+4
+5
+contributions made by a member to the System and includes both
+5
+6
+contributions deducted from the compensation of a member and
+6
+7
+contributions of a member picked up and paid by the participating
+7
+8
+municipality of the member. Accumulated contributions shall not
+8
+9
+include any interest on the contributions of the member, interest on
+9
+10
+any amount contributed by the municipality or state, and any amount
+10
+11
+contributed by the municipality or state; and
+11
+12
+
+Section 28:
+19. “Limitation year” means the year used in applying the
+12
+13
+limitations of Section 415 of the Internal Revenue Code of 1986, as
+13
+14
+amended, which year shall be the calendar year.
+14
+15
+
+Section 29:
+SECTION 2. AMENDATORY 11 O.S. 2021, Section 49-109, as
+15
+16
+amended by Section 4, Chapter 151, O.S.L. 2023 (11 O.S. Supp. 2025,
+16
+17
+
+Section 30:
+Section 49-109), is amended to read as follows:
+17
+18
+
+Section 31:
+Section 49-109. A. 1. Whenever any firefighter serving in any
+18
+19
+capacity in a regularly constituted fire department of a
+19
+20
+municipality shall become so physically or mentally disabled while
+20
+21
+in, or in consequence of, the performance of the firefighter’s duty
+21
+22
+as to prevent the effective performance of the firefighter’s duties,
+22
+23
+the State Oklahoma Firefighters Pension and Retirement Board may,
+23
+24
+upon the firefighter’s written request, or without such request if
+24
+Req. No. 3223 Page 11
+RBS No. 3223
+1
+the State Board deems it for the good of the department, retire the
+1
+2
+firefighter from active service, and if so retired, shall direct
+2
+3
+that the firefighter be paid from the Oklahoma Firefighters Pension
+3
+4
+and Retirement System a monthly pension equal to, for benefits
+4
+5
+computed prior to the effective date of this act, the greater of:
+5
+6
+
+Section 32:
+1. Fifty
+6
+7
+a. fifty percent (50%) of the average monthly salary
+7
+8
+which was paid to the firefighter during the last
+8
+9
+thirty (30) months of the firefighter’s service;, or
+9
+10
+
+Section 33:
+2. Two
+10
+11
+b. two and one-half percent (2 1/2%) of the firefighter’s
+11
+12
+final average salary multiplied by the member’s years
+12
+13
+of credited service, not to exceed thirty (30) years,
+13
+14
+provided such firefighter has completed twenty (20) or
+14
+15
+more years of credited service.
+15
+16
+
+Section 34:
+2. For a member who entered the System on or after November 1,
+16
+17
+2013, benefits computed on or after the effective date of this act,
+17
+18
+the greater of:
+18
+19
+a. three percent (3%) of the member’s final average
+19
+20
+salary multiplied by twenty (20) years,
+20
+21
+notwithstanding the years of actual credited service,
+21
+22
+or
+22
+23
+b. three percent (3%) of the member’s final average
+23
+24
+salary multiplied by the years of credited service of
+24
+Req. No. 3223 Page 12
+RBS No. 3223
+1
+the member, not to exceed thirty (30) years, if the
+1
+2
+officer has more than twenty (20) years of credited
+2
+3
+service.
+3
+4
+B. If the disability ceases within two (2) years from the date
+4
+5
+of the firefighter’s disability retirement and before the
+5
+6
+firefighter’s normal retirement date, the formerly disabled person
+6
+7
+shall be restored to active service at the salary attached to the
+7
+8
+rank the firefighter held at the time of the firefighter’s
+8
+9
+disability retirement provided the firefighter is capable of
+9
+10
+performing the duties of a firefighter. Whenever such disability
+10
+11
+shall cease, such disability pension provided pursuant to paragraph
+11
+12
+1 or 2 of subsection A of this section shall cease. If a
+12
+13
+firefighter participates in the Oklahoma Firefighters Deferred
+13
+14
+Option Plan pursuant to Section 49-106.1 of this title, the
+14
+15
+firefighter’s disability pension provided pursuant to this
+15
+16
+subsection shall be reduced to account for the firefighter’s
+16
+17
+participation in the Oklahoma Firefighters Deferred Option Plan.
+17
+18
+C. Whenever any firefighter, who has served in any capacity in
+18
+19
+a regularly constituted fire department of a municipality of the
+19
+20
+state, and who has served less than the firefighter’s normal
+20
+21
+retirement date, shall become so physically or mentally disabled
+21
+22
+from causes not arising in the line of duty as to prevent the
+22
+23
+effective performance of the firefighter’s duties, the firefighter
+23
+24
+shall be entitled to a pension during the continuance of such
+24
+Req. No. 3223 Page 13
+RBS No. 3223
+1
+disability based upon the firefighter’s service period, which shall
+1
+2
+be fifty percent (50%) of the average monthly salary which was paid
+2
+3
+to the firefighter during the last sixty (60) months of the
+3
+4
+firefighter’s service.
+4
+5
+D. No firefighter shall accrue additional service time while
+5
+6
+receiving a disability pension; provided further, that nothing
+6
+7
+herein contained shall affect the eligibility of any firefighter to
+7
+8
+apply for and receive a retirement pension after the firefighter’s
+8
+9
+normal retirement date; provided further, that no firefighter shall
+9
+10
+receive retirement benefits from the System during the time the
+10
+11
+firefighter is receiving disability benefits from the System. Any
+11
+12
+member or beneficiary eligible to receive a monthly benefit pursuant
+12
+13
+to this section may make an election to waive all or a portion of
+13
+14
+monthly benefits.
+14
+15
+E. If the requirements of Section 49-106.5 of this title are
+15
+16
+satisfied, a member who, by reason of disability, is separated from
+16
+17
+service as a public safety officer with the member’s participating
+17
+18
+municipality, may elect to have payment made directly to the
+18
+19
+provider for qualified health insurance premiums by deduction from
+19
+20
+his or her monthly disability benefit, after December 31, 2006, in
+20
+21
+accordance with Section 402(l) of the Internal Revenue Code of 1986,
+21
+22
+as amended. For distributions made after December 29, 2022, the
+22
+23
+election provided for under Section 402(l) of the Internal Revenue
+23
+24
+Code of 1986, as amended, may be made whether payment of the
+24
+Req. No. 3223 Page 14
+RBS No. 3223
+1
+premiums is made directly to the provider of the accident or health
+1
+2
+plan or qualified long-term care insurance contract by deduction
+2
+3
+from a distribution from the System or is made to the member.
+3
+4
+
+Section 35:
+SECTION 3. AMENDATORY 62 O.S. 2021, Section 3103, as
+4
+5
+last amended by Section 1, Chapter 357, O.S.L. 2024 (62 O.S. Supp.
+5
+6
+2025, Section 3103), is amended to read as follows:
+6
+7
+
+Section 36:
+Section 3103. As used in the Oklahoma Pension Legislation
+7
+8
+Actuarial Analysis Act:
+8
+9
+
+Section 37:
+1. “Amendment” means any amendment, including a substitute
+9
+10
+bill, made to a retirement bill by any committee of the House or
+10
+11
+Senate, any conference committee of the House or Senate, or by the
+11
+12
+House or Senate;
+12
+13
+
+Section 38:
+2. “RB number” means that number preceded by the letters “RB”
+13
+14
+assigned to a retirement bill by the respective staffs of the
+14
+15
+Oklahoma State Senate and the Oklahoma House of Representatives when
+15
+16
+the respective staff office prepares a retirement bill for a member
+16
+17
+of the Legislature;
+17
+18
+
+Section 39:
+3. “Legislative Actuary” means the firm or entity that enters
+18
+19
+into a contract with the Legislative Service Bureau pursuant to
+19
+20
+
+Section 40:
+Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+20
+21
+actuarial services and other duties provided for in the Oklahoma
+21
+22
+Pension Legislation Actuarial Analysis Act;
+22
+23
+
+Section 41:
+4. “Nonfiscal amendment” means an amendment to a retirement
+23
+24
+bill having a fiscal impact, which amendment does not change any
+24
+Req. No. 3223 Page 15
+RBS No. 3223
+1
+factor of an actuarial investigation specified in subsection A of
+1
+2
+
+Section 42:
+Section 3109 of this title;
+2
+3
+
+Section 43:
+5. “Nonfiscal retirement bill” means a retirement bill:
+3
+4
+a. which does not affect the cost or funding factors of a
+4
+5
+retirement system,
+5
+6
+b. which affects such factors only in a manner which does
+6
+7
+not:
+7
+8
+(1) grant a benefit increase under the retirement
+8
+9
+system affected by the bill,
+9
+10
+(2) create an actuarial accrued liability for or
+10
+11
+increase the actuarial accrued liability of the
+11
+12
+retirement system affected by the bill, or
+12
+13
+(3) increase the normal cost of the retirement system
+13
+14
+affected by the bill,
+14
+15
+c. which authorizes the purchase by an active member of
+15
+16
+the retirement system, at the actuarial cost for the
+16
+17
+purchase as computed pursuant to the statute in effect
+17
+18
+on the effective date of the measure allowing such
+18
+19
+purchase, of years of service for purposes of reaching
+19
+20
+a normal retirement date in the applicable retirement
+20
+21
+system, but which cannot be used in order to compute
+21
+22
+the number of years of service for purposes of
+22
+23
+computing the retirement benefit for the member,
+23
+24
+24
+Req. No. 3223 Page 16
+RBS No. 3223
+1
+d. which provides for the computation of a service-
+1
+2
+connected disability retirement benefit for members of
+2
+3
+the Oklahoma Law Enforcement Retirement System
+3
+4
+pursuant to Section 2-305 of Title 47 of the Oklahoma
+4
+5
+Statutes if the members were unable to complete twenty
+5
+6
+(20) years of service as a result of the disability,
+6
+7
+e. which requires membership in the defined benefit plan
+7
+8
+authorized by Section 901 et seq. of Title 74 of the
+8
+9
+Oklahoma Statutes for persons whose first elected or
+9
+10
+appointed service occurs on or after November 1, 2018,
+10
+11
+if such persons had any prior service in the Oklahoma
+11
+12
+Public Employees Retirement System prior to November
+12
+13
+1, 2015,
+13
+14
+f. which provides for a one-time increase in retirement
+14
+15
+benefits if the increase in retirement benefits is not
+15
+16
+a permanent increase in the gross annual retirement
+16
+17
+benefit payable to a member or beneficiary, occurs
+17
+18
+only once pursuant to a single statutory
+18
+19
+authorization, and does not exceed:
+19
+20
+(1) the lesser of two percent (2%) of the gross
+20
+21
+annual retirement benefit of the member or One
+21
+22
+Thousand Dollars ($1,000.00) and requires that
+22
+23
+the benefit may only be provided if the funded
+23
+24
+ratio of the affected retirement system would not
+24
+Req. No. 3223 Page 17
+RBS No. 3223
+1
+be less than sixty percent (60%) but not greater
+1
+2
+than eighty percent (80%) after the benefit
+2
+3
+increase is paid,
+3
+4
+(2) the lesser of two percent (2%) of the gross
+4
+5
+annual retirement benefit of the member or One
+5
+6
+Thousand Two Hundred Dollars ($1,200.00) and
+6
+7
+requires that the benefit may only be provided if
+7
+8
+the funded ratio of the affected retirement
+8
+9
+system would be greater than eighty percent (80%)
+9
+10
+but not greater than one hundred percent (100%)
+10
+11
+after the benefit increase is paid,
+11
+12
+(3) the lesser of two percent (2%) of the gross
+12
+13
+annual retirement benefit of the member or One
+13
+14
+Thousand Four Hundred Dollars ($1,400.00) and
+14
+15
+requires that the benefit may only be provided if
+15
+16
+the funded ratio of the affected retirement
+16
+17
+system would be greater than one hundred percent
+17
+18
+(100%) after the benefit increase is paid, or
+18
+19
+(4) the greater of two percent (2%) of the gross
+19
+20
+annual retirement benefit of the volunteer
+20
+21
+firefighter or One Hundred Dollars ($100.00) for
+21
+22
+persons who retired from the Oklahoma
+22
+23
+Firefighters Pension and Retirement System as
+23
+24
+volunteer firefighters and who did not retire
+24
+Req. No. 3223 Page 18
+RBS No. 3223
+1
+from the Oklahoma Firefighters Pension and
+1
+2
+Retirement System as a paid firefighter.
+2
+3
+As used in this subparagraph, “funded ratio” means the
+3
+4
+figure derived by dividing the actuarial value of
+4
+5
+assets of the applicable retirement system by the
+5
+6
+actuarial accrued liability of the applicable
+6
+7
+retirement system,
+7
+8
+g. which modifies the disability pension standard for
+8
+9
+police officers who are members of the Oklahoma Police
+9
+10
+Pension and Retirement System as provided by Section
+10
+11
+50-115 of Title 11 of the Oklahoma Statutes,
+11
+12
+h. which provides a cost-of-living benefit increase
+12
+13
+pursuant to the provisions of:
+13
+14
+(1) Section 49-143.7 of Title 11 of the Oklahoma
+14
+15
+Statutes,
+15
+16
+(2) Section 50-136.9 of Title 11 of the Oklahoma
+16
+17
+Statutes,
+17
+18
+(3) Section 1104K of Title 20 of the Oklahoma
+18
+19
+Statutes,
+19
+20
+(4) Section 2-305.12 of Title 47 of the Oklahoma
+20
+21
+Statutes,
+21
+22
+(5) Section 17-116.22 of Title 70 of the Oklahoma
+22
+23
+Statutes, or
+23
+24
+24
+Req. No. 3223 Page 19
+RBS No. 3223
+1
+(6) Section 930.11 of Title 74 of the Oklahoma
+1
+2
+Statutes,
+2
+3
+i. which modifies the computation of the line-of-duty
+3
+4
+disability benefit pursuant to Sections 50-101 and 50-
+4
+5
+115 of Title 11 of the Oklahoma Statutes,
+5
+6
+j. which allows the purchase of military prior service
+6
+7
+credit pursuant to the provisions of this act section
+7
+8
+and Section 49-138 of Title 11 of the Oklahoma
+8
+9
+Statutes,
+9
+10
+k. which increases the computation factor used to
+10
+11
+calculate the accrued retirement benefit and normal
+11
+12
+disability benefit pursuant to Section Sections 49-109
+12
+13
+and 50-101 of Title 11 of the Oklahoma Statutes,
+13
+14
+l. which increases the municipal contribution, employee
+14
+15
+contribution, or both for members of the Oklahoma
+15
+16
+Police Pension and Retirement System pursuant to
+16
+17
+
+Section 44:
+Sections 50-109 and 50-110 of Title 11 of the Oklahoma
+17
+18
+Statutes, or
+18
+19
+m. which modifies the computation of a retirement annuity
+19
+20
+pursuant to Section Sections 49-100.1 and 50-111.1 of
+20
+21
+Title 11 of the Oklahoma Statutes.
+21
+22
+A nonfiscal retirement bill shall include any retirement bill that
+22
+23
+has as its sole purpose the appropriation or distribution or
+23
+24
+redistribution of monies in some manner to a retirement system for
+24
+Req. No. 3223 Page 20
+RBS No. 3223
+1
+purposes of reducing the unfunded liability of such system or the
+1
+2
+earmarking of a portion of the revenue from a tax to a retirement
+2
+3
+system or increasing the percentage of the revenue earmarked from a
+3
+4
+tax to a retirement system;
+4
+5
+
+Section 45:
+6. “Reduction-in-cost amendment” means an amendment to a
+5
+6
+retirement bill having a fiscal impact which reduces the cost of the
+6
+7
+bill as such cost is determined by the actuarial investigation for
+7
+8
+the bill prepared pursuant to Section 3109 of this title;
+8
+9
+
+Section 46:
+7. “Retirement bill” means any bill or joint resolution
+9
+10
+introduced or any bill or joint resolution amended by a member of
+10
+11
+the Legislature which creates or amends any law directly affecting a
+11
+12
+retirement system. A retirement bill shall not mean a bill or
+12
+13
+resolution that impacts the revenue of any state tax in which a
+13
+14
+portion of the revenue generated from such tax is earmarked for the
+14
+15
+benefit of a retirement system;
+15
+16
+
+Section 47:
+8. “Retirement bill having a fiscal impact” means any
+16
+17
+retirement bill creating or establishing a retirement system and any
+17
+18
+other retirement bill other than a nonfiscal retirement bill; and
+18
+19
+
+Section 48:
+9. “Retirement system” means the Teachers’ Retirement System of
+19
+20
+Oklahoma, the Oklahoma Public Employees Retirement System, the
+20
+21
+Uniform Retirement System for Justices and Judges, the Oklahoma
+21
+22
+Firefighters Pension and Retirement System, the Oklahoma Police
+22
+23
+Pension and Retirement System, the Oklahoma Law Enforcement
+23
+24
+24
+Req. No. 3223 Page 21
+RBS No. 3223
+1
+Retirement System, or a retirement system established after January
+1
+2
+1, 2006.
+2
+3
+
+Section 49:
+SECTION 4. Section 3 of this act shall become effective June 1,
+3
+4
+
+Section 50:
+2026.
+4
+5
+
+Section 51:
+SECTION 5. Sections 1 and 2 of this act shall become effective
+5
+6
+July 1, 2026.
+6
+7
+
+Section 52:
+SECTION 6. It being immediately necessary for the preservation
+7
+8
+of the public peace, health or safety, an emergency is hereby
+8
+9
+declared to exist, by reason whereof this act shall take effect and
+9
+10
+be in full force from and after its passage and approval.
+10
+11
+11
+12
+60-2-3223 MSBB 1/13/2026 10:05:57 AM
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3223 Page 22
+[DELETED:  P B F]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P f]
+[DELETED:  P f f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P f t t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P w w g c i w]
+[DELETED:  P w w w t]
+[DELETED:  P t t t]
+[DELETED:  P w w S S S S S]
+[DELETED:  P S w w w w w]
+[DELETED:  P]
+[DELETED:  P M 1]
+
+
+================================================================================
+
+Raw Text:
+RBS No. 3223
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1586 By: Frix
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Oklahoma Firefighters Pension
+7
+and Retirement System; amending 11 O.S. 2021,
+8
+Sections 49-100.1, as last amended by Section 1,
+8
+Chapter 142, O.S.L. 2025, and 49-109, as amended by
+9
+Section 4, Chapter 151, O.S.L. 2023 (11 O.S. Supp.
+9
+2025, Sections 49-100.1 and 49-109), which relate to
+10
+the Oklahoma Firefighters Pension and Retirement
+10
+System; modifying definitions; increasing computation
+11
+of certain benefits; providing for effective dates of
+11
+certain increase; updating statutory language;
+12
+updating statutory reference; amending 62 O.S. 2021,
+12
+Section 3103, as last amended by Section 1, Chapter
+13
+357, O.S.L. 2024 (62 O.S. Supp. 2025, Section 3103),
+13
+which relates to the Oklahoma Pension Legislation
+14
+Actuarial Analysis Act; modifying term; updating
+14
+statutory reference; providing effective dates; and
+15
+declaring an emergency.
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+SECTION 1. AMENDATORY 11 O.S. 2021, Section 49-100.1, as
+18
+19
+last amended by Section 1, Chapter 142, O.S.L. 2025 (11 O.S. Supp.
+19
+20
+2025, Section 49-100.1), is amended to read as follows:
+20
+21
+Section 49-100.1. As used in this article:
+21
+22
+1. “System” means the Oklahoma Firefighters Pension and
+22
+23
+Retirement System and all predecessor municipal firefighters pension
+23
+24
+and retirement systems;
+24
+Req. No. 3223 Page 1
+
+RBS No. 3223
+1
+2. “Article” means Article 49 of this title;
+1
+2
+3. “State Board” means the Oklahoma Firefighters Pension and
+2
+3
+Retirement Board;
+3
+4
+4. “Local board” means the local firefighters pension and
+4
+5
+retirement boards;
+5
+6
+5. “Fund” means the Oklahoma Firefighters Pension and
+6
+7
+Retirement Fund;
+7
+8
+6. “Member” means all eligible firefighters of a participating
+8
+9
+municipality or a fire protection district who perform the essential
+9
+10
+functions of fire suppression, prevention, and life safety duties in
+10
+11
+a fire department. The term “member” member shall include, but not
+11
+12
+be limited to, the person serving as fire chief of any participating
+12
+13
+municipality, provided that a person serving as fire chief of a
+13
+14
+participating municipality shall meet the age, agility, physical,
+14
+15
+and other eligibility requirements required by law at the time said
+15
+16
+such person becomes a member of the System. Effective July 1, 1987,
+16
+17
+a member does not include a “leased employee” leased employee. The
+17
+18
+term “leased employee” means any person (other, other than an
+18
+19
+employee of the recipient) recipient, who pursuant to an agreement
+19
+20
+between the recipient and any other person (“leasing organization”),
+20
+21
+referred to as a leasing organization, has performed services for
+21
+22
+the recipient (or or for the recipient and related persons
+22
+23
+determined in accordance with Section 414(n)(6) of the Internal
+23
+24
+Revenue Code of 1986, as amended) amended, on a substantially full-
+24
+Req. No. 3223 Page 2
+
+RBS No. 3223
+1
+time basis for a period of at least one (1) year, and such services
+1
+2
+are performed under primary direction or control by the recipient.
+2
+3
+Contributions or benefits provided to a leased employee by the
+3
+4
+leasing organization which are attributable to services performed
+4
+5
+for the recipient employer shall be treated as provided by the
+5
+6
+recipient employer. A leased employee shall not be considered an
+6
+7
+employee of the recipient if the requirements of the safe harbor
+7
+8
+provisions of Section 414(n)(5) of the Internal Revenue Code of
+8
+9
+1986, as amended, are satisfied. Effective July 1, 1999, any
+9
+10
+individual who agrees with the participating municipality that the
+10
+11
+individual’s services are to be performed as a leased employee or an
+11
+12
+independent contractor shall not be a member regardless of any
+12
+13
+classification as a common law employee by the Internal Revenue
+13
+14
+Service or any other governmental agency, or any court of competent
+14
+15
+jurisdiction;
+15
+16
+7. “Normal retirement date” means the date at which the member
+16
+17
+is eligible to receive the unreduced payments of the member’s
+17
+18
+accrued retirement benefit. Such date shall be the first day
+18
+19
+following the date the member completes twenty (20) years of
+19
+20
+credited service. If the member’s employment continues past the
+20
+21
+normal retirement date of the member, the actual retirement date of
+21
+22
+the member shall be the first day following the date the member
+22
+23
+terminates employment with more than twenty (20) years of credited
+23
+24
+service;
+24
+Req. No. 3223 Page 3
+
+RBS No. 3223
+1
+8. “Credited service” means the period of service used to
+1
+2
+determine the eligibility for and the amount of benefits payable to
+2
+3
+a member. Credited service shall consist of the period during which
+3
+4
+the member participated in the System or the predecessor municipal
+4
+5
+systems as an active employee in an eligible membership
+5
+6
+classification, plus any service prior to the establishment of the
+6
+7
+predecessor municipal systems which was credited under the
+7
+8
+predecessor municipal systems; provided, however, “credited service”
+8
+9
+credited service for members from a fire protection district shall
+9
+10
+not begin accruing before July 1, 1982;
+10
+11
+9. “Participating municipality” means a municipality, county
+11
+12
+fire department organized pursuant to subsection D of Section 351 of
+12
+13
+Title 19 of the Oklahoma Statutes, or fire protection district which
+13
+14
+is making contributions to the System on behalf of its firefighters.
+14
+15
+All participating municipalities shall appoint a fire chief who
+15
+16
+shall supervise and administer the fire department;
+16
+17
+10. “Disability” means the complete inability of the
+17
+18
+firefighter to perform any and every duty of the firefighter’s
+18
+19
+regular occupation; provided further, that once benefits have been
+19
+20
+paid for twenty-four (24) months the provisions of Section 49-110 of
+20
+21
+this title shall apply to the firefighter;
+21
+22
+11. “Executive Director” means the managing officer of the
+22
+23
+System employed by the State Board;
+23
+24
+24
+Req. No. 3223 Page 4
+
+RBS No. 3223
+1
+12. “Eligible employer” means any municipality with a municipal
+1
+2
+fire department, any county fire department organized pursuant to
+2
+3
+subsection D of Section 351 of Title 19 of the Oklahoma Statutes, or
+3
+4
+any fire protection district with an organized fire department;
+4
+5
+13. “Entry date” means the date as of which an eligible
+5
+6
+employer joins the System. The first entry date pursuant to this
+6
+7
+article shall be January 1, 1981;
+7
+8
+14. “Final average salary” means the average paid gross salary
+8
+9
+of the firefighter for normally scheduled hours over the highest
+9
+10
+salaried thirty (30) consecutive months of the last sixty (60)
+10
+11
+months of credited service. Gross salary shall not include payment
+11
+12
+for accumulated sick or annual leave upon termination of employment,
+12
+13
+any uniform allowances, or any other compensation for reimbursement
+13
+14
+of out-of-pocket expenses. Only salary on which the required
+14
+15
+contributions have been made may be used in computing the final
+15
+16
+average salary. Effective January 1, 1988, gross salary shall
+16
+17
+include any amount of elective salary reduction under Section 125 of
+17
+18
+the Internal Revenue Code of 1986, as amended. Gross salary shall
+18
+19
+include any amount of elective salary reduction under Section 457 of
+19
+20
+the Internal Revenue Code of 1986, as amended, and any amount of
+20
+21
+nonelective salary reduction under Section 414(h) of the Internal
+21
+22
+Revenue Code of 1986, as amended. Effective July 1, 1998, for
+22
+23
+purposes of determining a member’s compensation, any contribution by
+23
+24
+the member to reduce the member’s regular cash remuneration under
+24
+Req. No. 3223 Page 5
+
+RBS No. 3223
+1
+Section 132(f)(4) of the Internal Revenue Code of 1986, as amended,
+1
+2
+shall be treated as if the member did not make such an election.
+2
+3
+Only salary on which required contributions have been made may be
+3
+4
+used in computing final average salary.
+4
+5
+In addition to other applicable limitations, and notwithstanding
+5
+6
+any other provision to the contrary, for plan years beginning on or
+6
+7
+after July 1, 2002, the annual gross salary of each “Noneligible
+7
+8
+Member” Noneligible Member taken into account under the System shall
+8
+9
+not exceed the Economic Growth and Tax Relief Reconciliation Act of
+9
+10
+2001 (“EGTRRA”) annual salary limit. The EGTRRA annual salary limit
+10
+11
+is Two Hundred Thousand Dollars ($200,000.00), as adjusted by the
+11
+12
+Commissioner United States Secretary of the Treasury for increases
+12
+13
+in the cost of living in accordance with Section 401(a)(17)(B) of
+13
+14
+the Internal Revenue Code of 1986, as amended. The annual salary
+14
+15
+limit in effect for a calendar year applies to any period, not
+15
+16
+exceeding twelve (12) months a twelve-month determination period,
+16
+17
+over which salary is determined (“determination period”) beginning
+17
+18
+in such calendar year. If a determination period consists of fewer
+18
+19
+than twelve (12) months, the EGTRRA salary limit will be multiplied
+19
+20
+by a fraction, the numerator of which is the number of months in the
+20
+21
+determination period, and the denominator of which is twelve (12).
+21
+22
+For purposes of this subsection, a “Noneligible Member” is any
+22
+23
+member who first became a member during a plan year commencing on or
+23
+24
+after July 1, 1996.
+24
+Req. No. 3223 Page 6
+
+RBS No. 3223
+1
+For plan years beginning on or after July 1, 2002, any reference
+1
+2
+to the annual salary limit under Section 401(a)(17) of the Internal
+2
+3
+Revenue Code of 1986, as amended, shall mean the EGTRRA salary limit
+3
+4
+set forth in this subsection.
+4
+5
+Effective June 9, 2010, gross salary shall also include gross
+5
+6
+salary, as described above provided in this paragraph, for services,
+6
+7
+but paid by the later of two and one-half (2 1/2) months after a
+7
+8
+firefighter’s severance from employment or the end of the calendar
+8
+9
+year that includes the date the firefighter terminated employment,
+9
+10
+if it is a payment that, absent a severance from employment, would
+10
+11
+have been paid to the firefighter while the firefighter continued in
+11
+12
+employment with the participating municipality.
+12
+13
+Effective June 9, 2010, any payments not described above
+13
+14
+provided for in this paragraph shall not be considered gross salary
+14
+15
+if paid after severance from employment, even if they are paid by
+15
+16
+the later of two and one-half (2 1/2) months after the date of
+16
+17
+severance from employment or the end of the calendar year that
+17
+18
+includes the date of severance from employment, except payments to
+18
+19
+an individual who does not currently perform services for the
+19
+20
+participating municipality by reason of qualified military service
+20
+21
+within the meaning of Section 414(u)(5) of the Internal Revenue Code
+21
+22
+of 1986, as amended, to the extent these payments do not exceed the
+22
+23
+amounts the individual would have received if the individual had
+23
+24
+24
+Req. No. 3223 Page 7
+
+RBS No. 3223
+1
+continued to perform services for the participating municipality
+1
+2
+rather than entering qualified military service.
+2
+3
+Effective June 9, 2010, back pay, within the meaning of Section
+3
+4
+1.415(c)-2(g)(8) of the Income Tax Regulations, shall be treated as
+4
+5
+gross salary for the year to which the back pay relates to the
+5
+6
+extent the back pay represents wages and compensation that would
+6
+7
+otherwise be included in this definition.
+7
+8
+Effective for years beginning after December 31, 2008, gross
+8
+9
+salary shall also include differential wage payments under Section
+9
+10
+414(u)(12) of the Internal Revenue Code of 1986, as amended;
+10
+11
+15. “Accrued retirement benefit” means, for benefits computed
+11
+12
+prior to the effective date of this act, two and one-half percent (2
+12
+13
+1/2%) of the firefighter’s final average salary multiplied by the
+13
+14
+member’s years of credited service not to exceed thirty (30) years.
+14
+15
+For a member who entered the System on or after November 1,
+15
+16
+2013, and who retires on or after the effective date of this act,
+16
+17
+accrued retirement benefits shall mean:
+17
+18
+a. for such member who retires and terminates employment
+18
+19
+at least one (1) year after the effective date of this
+19
+20
+act and has at least twenty-five (25) years of
+20
+21
+credited service, three percent (3%) of the member’s
+21
+22
+final average salary multiplied by the member’s years
+22
+23
+of credited service, not to exceed thirty (30) years,
+23
+24
+24
+Req. No. 3223 Page 8
+
+RBS No. 3223
+1
+b. for such member who retires and terminates employment
+1
+2
+at least two (2) years after the effective date of
+2
+3
+this act and has at least twenty (20) years of
+3
+4
+credited service, three percent (3%) of the member’s
+4
+5
+final average salary multiplied by the member’s years
+5
+6
+of credited service, not to exceed thirty (30) years,
+6
+7
+c. for such member who retires and terminates employment
+7
+8
+at least five (5) years after the effective date of
+8
+9
+this act, three percent (3%) of the member’s final
+9
+10
+average salary multiplied by the member’s years of
+10
+11
+credited service, not to exceed thirty (30) years, and
+11
+12
+d. for such member who retires and terminates employment
+12
+13
+on or after the effective date of this act, but does
+13
+14
+not have the minimum years of credited service to
+14
+15
+qualify for the benefit outlined in subparagraphs a
+15
+16
+and b of this paragraph, or retires and terminates
+16
+17
+employment prior to the date outlined in subparagraph
+17
+18
+c of this paragraph, two and one-half percent (2 1/2%)
+18
+19
+of the member’s final average salary multiplied by the
+19
+20
+member’s years of credited service, not to exceed
+20
+21
+thirty (30) years;
+21
+22
+16. “Beneficiary” means a member’s surviving spouse or any
+22
+23
+surviving children, including biological and adopted children, at
+23
+24
+the time of the member’s death. The surviving spouse must have been
+24
+Req. No. 3223 Page 9
+
+RBS No. 3223
+1
+married to the firefighter for the thirty (30) continuous months
+1
+2
+preceding the firefighter’s death; provided, a surviving spouse of a
+2
+3
+member who died while in, or as a consequence of, the performance of
+3
+4
+the member’s duty for a participating municipality, shall not be
+4
+5
+subject to the marriage limitation for survivor benefits. A
+5
+6
+surviving child of a member shall be a beneficiary until reaching
+6
+7
+eighteen (18) years of age or twenty-two (22) years of age if the
+7
+8
+child is enrolled full time full-time and regularly attending a
+8
+9
+public or private school or any institution of higher education.
+9
+10
+Any child adopted by a member after the member’s retirement shall be
+10
+11
+a beneficiary only if the child is adopted by the member for the
+11
+12
+thirty (30) continuous months preceding the member’s death. Any
+12
+13
+child who is adopted by a member after the member’s retirement and
+13
+14
+such member dies accidentally or as a consequence of the performance
+14
+15
+of the member’s duty as a firefighter shall not be subject to the
+15
+16
+thirty-month adoption requirement. This definition of beneficiary
+16
+17
+shall be in addition to any other requirement set forth in this
+17
+18
+article;
+18
+19
+17. “Contributions” means payments remitted to the System
+19
+20
+pursuant to Section 49-122 or subsection A of Section 49-138 of this
+20
+21
+title. Contributions shall not include payments made to repurchase
+21
+22
+credited service pursuant to Section 49-117.1 of this title,
+22
+23
+payments made to transfer credited service from another retirement
+23
+24
+system pursuant to subsection A of Section 49-117.2 or Section 49-
+24
+Req. No. 3223 Page 10
+
+RBS No. 3223
+1
+117.3 of this title, or payments made to purchase prior military
+1
+2
+service credit pursuant to subsection E of Section 49-138 of this
+2
+3
+title;
+3
+4
+18. “Accumulated contributions” means the sum of all
+4
+5
+contributions made by a member to the System and includes both
+5
+6
+contributions deducted from the compensation of a member and
+6
+7
+contributions of a member picked up and paid by the participating
+7
+8
+municipality of the member. Accumulated contributions shall not
+8
+9
+include any interest on the contributions of the member, interest on
+9
+10
+any amount contributed by the municipality or state, and any amount
+10
+11
+contributed by the municipality or state; and
+11
+12
+19. “Limitation year” means the year used in applying the
+12
+13
+limitations of Section 415 of the Internal Revenue Code of 1986, as
+13
+14
+amended, which year shall be the calendar year.
+14
+15
+SECTION 2. AMENDATORY 11 O.S. 2021, Section 49-109, as
+15
+16
+amended by Section 4, Chapter 151, O.S.L. 2023 (11 O.S. Supp. 2025,
+16
+17
+Section 49-109), is amended to read as follows:
+17
+18
+Section 49-109. A. 1. Whenever any firefighter serving in any
+18
+19
+capacity in a regularly constituted fire department of a
+19
+20
+municipality shall become so physically or mentally disabled while
+20
+21
+in, or in consequence of, the performance of the firefighter’s duty
+21
+22
+as to prevent the effective performance of the firefighter’s duties,
+22
+23
+the State Oklahoma Firefighters Pension and Retirement Board may,
+23
+24
+upon the firefighter’s written request, or without such request if
+24
+Req. No. 3223 Page 11
+
+RBS No. 3223
+1
+the State Board deems it for the good of the department, retire the
+1
+2
+firefighter from active service, and if so retired, shall direct
+2
+3
+that the firefighter be paid from the Oklahoma Firefighters Pension
+3
+4
+and Retirement System a monthly pension equal to, for benefits
+4
+5
+computed prior to the effective date of this act, the greater of:
+5
+6
+1. Fifty
+6
+7
+a. fifty percent (50%) of the average monthly salary
+7
+8
+which was paid to the firefighter during the last
+8
+9
+thirty (30) months of the firefighter’s service;, or
+9
+10
+2. Two
+10
+11
+b. two and one-half percent (2 1/2%) of the firefighter’s
+11
+12
+final average salary multiplied by the member’s years
+12
+13
+of credited service, not to exceed thirty (30) years,
+13
+14
+provided such firefighter has completed twenty (20) or
+14
+15
+more years of credited service.
+15
+16
+2. For a member who entered the System on or after November 1,
+16
+17
+2013, benefits computed on or after the effective date of this act,
+17
+18
+the greater of:
+18
+19
+a. three percent (3%) of the member’s final average
+19
+20
+salary multiplied by twenty (20) years,
+20
+21
+notwithstanding the years of actual credited service,
+21
+22
+or
+22
+23
+b. three percent (3%) of the member’s final average
+23
+24
+salary multiplied by the years of credited service of
+24
+Req. No. 3223 Page 12
+
+RBS No. 3223
+1
+the member, not to exceed thirty (30) years, if the
+1
+2
+officer has more than twenty (20) years of credited
+2
+3
+service.
+3
+4
+B. If the disability ceases within two (2) years from the date
+4
+5
+of the firefighter’s disability retirement and before the
+5
+6
+firefighter’s normal retirement date, the formerly disabled person
+6
+7
+shall be restored to active service at the salary attached to the
+7
+8
+rank the firefighter held at the time of the firefighter’s
+8
+9
+disability retirement provided the firefighter is capable of
+9
+10
+performing the duties of a firefighter. Whenever such disability
+10
+11
+shall cease, such disability pension provided pursuant to paragraph
+11
+12
+1 or 2 of subsection A of this section shall cease. If a
+12
+13
+firefighter participates in the Oklahoma Firefighters Deferred
+13
+14
+Option Plan pursuant to Section 49-106.1 of this title, the
+14
+15
+firefighter’s disability pension provided pursuant to this
+15
+16
+subsection shall be reduced to account for the firefighter’s
+16
+17
+participation in the Oklahoma Firefighters Deferred Option Plan.
+17
+18
+C. Whenever any firefighter, who has served in any capacity in
+18
+19
+a regularly constituted fire department of a municipality of the
+19
+20
+state, and who has served less than the firefighter’s normal
+20
+21
+retirement date, shall become so physically or mentally disabled
+21
+22
+from causes not arising in the line of duty as to prevent the
+22
+23
+effective performance of the firefighter’s duties, the firefighter
+23
+24
+shall be entitled to a pension during the continuance of such
+24
+Req. No. 3223 Page 13
+
+RBS No. 3223
+1
+disability based upon the firefighter’s service period, which shall
+1
+2
+be fifty percent (50%) of the average monthly salary which was paid
+2
+3
+to the firefighter during the last sixty (60) months of the
+3
+4
+firefighter’s service.
+4
+5
+D. No firefighter shall accrue additional service time while
+5
+6
+receiving a disability pension; provided further, that nothing
+6
+7
+herein contained shall affect the eligibility of any firefighter to
+7
+8
+apply for and receive a retirement pension after the firefighter’s
+8
+9
+normal retirement date; provided further, that no firefighter shall
+9
+10
+receive retirement benefits from the System during the time the
+10
+11
+firefighter is receiving disability benefits from the System. Any
+11
+12
+member or beneficiary eligible to receive a monthly benefit pursuant
+12
+13
+to this section may make an election to waive all or a portion of
+13
+14
+monthly benefits.
+14
+15
+E. If the requirements of Section 49-106.5 of this title are
+15
+16
+satisfied, a member who, by reason of disability, is separated from
+16
+17
+service as a public safety officer with the member’s participating
+17
+18
+municipality, may elect to have payment made directly to the
+18
+19
+provider for qualified health insurance premiums by deduction from
+19
+20
+his or her monthly disability benefit, after December 31, 2006, in
+20
+21
+accordance with Section 402(l) of the Internal Revenue Code of 1986,
+21
+22
+as amended. For distributions made after December 29, 2022, the
+22
+23
+election provided for under Section 402(l) of the Internal Revenue
+23
+24
+Code of 1986, as amended, may be made whether payment of the
+24
+Req. No. 3223 Page 14
+
+RBS No. 3223
+1
+premiums is made directly to the provider of the accident or health
+1
+2
+plan or qualified long-term care insurance contract by deduction
+2
+3
+from a distribution from the System or is made to the member.
+3
+4
+SECTION 3. AMENDATORY 62 O.S. 2021, Section 3103, as
+4
+5
+last amended by Section 1, Chapter 357, O.S.L. 2024 (62 O.S. Supp.
+5
+6
+2025, Section 3103), is amended to read as follows:
+6
+7
+Section 3103. As used in the Oklahoma Pension Legislation
+7
+8
+Actuarial Analysis Act:
+8
+9
+1. “Amendment” means any amendment, including a substitute
+9
+10
+bill, made to a retirement bill by any committee of the House or
+10
+11
+Senate, any conference committee of the House or Senate, or by the
+11
+12
+House or Senate;
+12
+13
+2. “RB number” means that number preceded by the letters “RB”
+13
+14
+assigned to a retirement bill by the respective staffs of the
+14
+15
+Oklahoma State Senate and the Oklahoma House of Representatives when
+15
+16
+the respective staff office prepares a retirement bill for a member
+16
+17
+of the Legislature;
+17
+18
+3. “Legislative Actuary” means the firm or entity that enters
+18
+19
+into a contract with the Legislative Service Bureau pursuant to
+19
+20
+Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+20
+21
+actuarial services and other duties provided for in the Oklahoma
+21
+22
+Pension Legislation Actuarial Analysis Act;
+22
+23
+4. “Nonfiscal amendment” means an amendment to a retirement
+23
+24
+bill having a fiscal impact, which amendment does not change any
+24
+Req. No. 3223 Page 15
+
+RBS No. 3223
+1
+factor of an actuarial investigation specified in subsection A of
+1
+2
+Section 3109 of this title;
+2
+3
+5. “Nonfiscal retirement bill” means a retirement bill:
+3
+4
+a. which does not affect the cost or funding factors of a
+4
+5
+retirement system,
+5
+6
+b. which affects such factors only in a manner which does
+6
+7
+not:
+7
+8
+(1) grant a benefit increase under the retirement
+8
+9
+system affected by the bill,
+9
+10
+(2) create an actuarial accrued liability for or
+10
+11
+increase the actuarial accrued liability of the
+11
+12
+retirement system affected by the bill, or
+12
+13
+(3) increase the normal cost of the retirement system
+13
+14
+affected by the bill,
+14
+15
+c. which authorizes the purchase by an active member of
+15
+16
+the retirement system, at the actuarial cost for the
+16
+17
+purchase as computed pursuant to the statute in effect
+17
+18
+on the effective date of the measure allowing such
+18
+19
+purchase, of years of service for purposes of reaching
+19
+20
+a normal retirement date in the applicable retirement
+20
+21
+system, but which cannot be used in order to compute
+21
+22
+the number of years of service for purposes of
+22
+23
+computing the retirement benefit for the member,
+23
+24
+24
+Req. No. 3223 Page 16
+
+RBS No. 3223
+1
+d. which provides for the computation of a service-
+1
+2
+connected disability retirement benefit for members of
+2
+3
+the Oklahoma Law Enforcement Retirement System
+3
+4
+pursuant to Section 2-305 of Title 47 of the Oklahoma
+4
+5
+Statutes if the members were unable to complete twenty
+5
+6
+(20) years of service as a result of the disability,
+6
+7
+e. which requires membership in the defined benefit plan
+7
+8
+authorized by Section 901 et seq. of Title 74 of the
+8
+9
+Oklahoma Statutes for persons whose first elected or
+9
+10
+appointed service occurs on or after November 1, 2018,
+10
+11
+if such persons had any prior service in the Oklahoma
+11
+12
+Public Employees Retirement System prior to November
+12
+13
+1, 2015,
+13
+14
+f. which provides for a one-time increase in retirement
+14
+15
+benefits if the increase in retirement benefits is not
+15
+16
+a permanent increase in the gross annual retirement
+16
+17
+benefit payable to a member or beneficiary, occurs
+17
+18
+only once pursuant to a single statutory
+18
+19
+authorization, and does not exceed:
+19
+20
+(1) the lesser of two percent (2%) of the gross
+20
+21
+annual retirement benefit of the member or One
+21
+22
+Thousand Dollars ($1,000.00) and requires that
+22
+23
+the benefit may only be provided if the funded
+23
+24
+ratio of the affected retirement system would not
+24
+Req. No. 3223 Page 17
+
+RBS No. 3223
+1
+be less than sixty percent (60%) but not greater
+1
+2
+than eighty percent (80%) after the benefit
+2
+3
+increase is paid,
+3
+4
+(2) the lesser of two percent (2%) of the gross
+4
+5
+annual retirement benefit of the member or One
+5
+6
+Thousand Two Hundred Dollars ($1,200.00) and
+6
+7
+requires that the benefit may only be provided if
+7
+8
+the funded ratio of the affected retirement
+8
+9
+system would be greater than eighty percent (80%)
+9
+10
+but not greater than one hundred percent (100%)
+10
+11
+after the benefit increase is paid,
+11
+12
+(3) the lesser of two percent (2%) of the gross
+12
+13
+annual retirement benefit of the member or One
+13
+14
+Thousand Four Hundred Dollars ($1,400.00) and
+14
+15
+requires that the benefit may only be provided if
+15
+16
+the funded ratio of the affected retirement
+16
+17
+system would be greater than one hundred percent
+17
+18
+(100%) after the benefit increase is paid, or
+18
+19
+(4) the greater of two percent (2%) of the gross
+19
+20
+annual retirement benefit of the volunteer
+20
+21
+firefighter or One Hundred Dollars ($100.00) for
+21
+22
+persons who retired from the Oklahoma
+22
+23
+Firefighters Pension and Retirement System as
+23
+24
+volunteer firefighters and who did not retire
+24
+Req. No. 3223 Page 18
+
+RBS No. 3223
+1
+from the Oklahoma Firefighters Pension and
+1
+2
+Retirement System as a paid firefighter.
+2
+3
+As used in this subparagraph, “funded ratio” means the
+3
+4
+figure derived by dividing the actuarial value of
+4
+5
+assets of the applicable retirement system by the
+5
+6
+actuarial accrued liability of the applicable
+6
+7
+retirement system,
+7
+8
+g. which modifies the disability pension standard for
+8
+9
+police officers who are members of the Oklahoma Police
+9
+10
+Pension and Retirement System as provided by Section
+10
+11
+50-115 of Title 11 of the Oklahoma Statutes,
+11
+12
+h. which provides a cost-of-living benefit increase
+12
+13
+pursuant to the provisions of:
+13
+14
+(1) Section 49-143.7 of Title 11 of the Oklahoma
+14
+15
+Statutes,
+15
+16
+(2) Section 50-136.9 of Title 11 of the Oklahoma
+16
+17
+Statutes,
+17
+18
+(3) Section 1104K of Title 20 of the Oklahoma
+18
+19
+Statutes,
+19
+20
+(4) Section 2-305.12 of Title 47 of the Oklahoma
+20
+21
+Statutes,
+21
+22
+(5) Section 17-116.22 of Title 70 of the Oklahoma
+22
+23
+Statutes, or
+23
+24
+24
+Req. No. 3223 Page 19
+
+RBS No. 3223
+1
+(6) Section 930.11 of Title 74 of the Oklahoma
+1
+2
+Statutes,
+2
+3
+i. which modifies the computation of the line-of-duty
+3
+4
+disability benefit pursuant to Sections 50-101 and 50-
+4
+5
+115 of Title 11 of the Oklahoma Statutes,
+5
+6
+j. which allows the purchase of military prior service
+6
+7
+credit pursuant to the provisions of this act section
+7
+8
+and Section 49-138 of Title 11 of the Oklahoma
+8
+9
+Statutes,
+9
+10
+k. which increases the computation factor used to
+10
+11
+calculate the accrued retirement benefit and normal
+11
+12
+disability benefit pursuant to Section Sections 49-109
+12
+13
+and 50-101 of Title 11 of the Oklahoma Statutes,
+13
+14
+l. which increases the municipal contribution, employee
+14
+15
+contribution, or both for members of the Oklahoma
+15
+16
+Police Pension and Retirement System pursuant to
+16
+17
+Sections 50-109 and 50-110 of Title 11 of the Oklahoma
+17
+18
+Statutes, or
+18
+19
+m. which modifies the computation of a retirement annuity
+19
+20
+pursuant to Section Sections 49-100.1 and 50-111.1 of
+20
+21
+Title 11 of the Oklahoma Statutes.
+21
+22
+A nonfiscal retirement bill shall include any retirement bill that
+22
+23
+has as its sole purpose the appropriation or distribution or
+23
+24
+redistribution of monies in some manner to a retirement system for
+24
+Req. No. 3223 Page 20
+
+RBS No. 3223
+1
+purposes of reducing the unfunded liability of such system or the
+1
+2
+earmarking of a portion of the revenue from a tax to a retirement
+2
+3
+system or increasing the percentage of the revenue earmarked from a
+3
+4
+tax to a retirement system;
+4
+5
+6. “Reduction-in-cost amendment” means an amendment to a
+5
+6
+retirement bill having a fiscal impact which reduces the cost of the
+6
+7
+bill as such cost is determined by the actuarial investigation for
+7
+8
+the bill prepared pursuant to Section 3109 of this title;
+8
+9
+7. “Retirement bill” means any bill or joint resolution
+9
+10
+introduced or any bill or joint resolution amended by a member of
+10
+11
+the Legislature which creates or amends any law directly affecting a
+11
+12
+retirement system. A retirement bill shall not mean a bill or
+12
+13
+resolution that impacts the revenue of any state tax in which a
+13
+14
+portion of the revenue generated from such tax is earmarked for the
+14
+15
+benefit of a retirement system;
+15
+16
+8. “Retirement bill having a fiscal impact” means any
+16
+17
+retirement bill creating or establishing a retirement system and any
+17
+18
+other retirement bill other than a nonfiscal retirement bill; and
+18
+19
+9. “Retirement system” means the Teachers’ Retirement System of
+19
+20
+Oklahoma, the Oklahoma Public Employees Retirement System, the
+20
+21
+Uniform Retirement System for Justices and Judges, the Oklahoma
+21
+22
+Firefighters Pension and Retirement System, the Oklahoma Police
+22
+23
+Pension and Retirement System, the Oklahoma Law Enforcement
+23
+24
+24
+Req. No. 3223 Page 21
+
+RBS No. 3223
+1
+Retirement System, or a retirement system established after January
+1
+2
+1, 2006.
+2
+3
+SECTION 4. Section 3 of this act shall become effective June 1,
+3
+4
+2026.
+4
+5
+SECTION 5. Sections 1 and 2 of this act shall become effective
+5
+6
+July 1, 2026.
+6
+7
+SECTION 6. It being immediately necessary for the preservation
+7
+8
+of the public peace, health or safety, an emergency is hereby
+8
+9
+declared to exist, by reason whereof this act shall take effect and
+9
+10
+be in full force from and after its passage and approval.
+10
+11
+11
+12
+60-2-3223 MSBB 1/13/2026 10:05:57 AM
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3223 Page 22
+
+[DELETED:  P B F]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P f]
+[DELETED:  P f f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P f t t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P w w g c i w]
+[DELETED:  P w w w t]
+[DELETED:  P t t t]
+[DELETED:  P w w S S S S S]
+[DELETED:  P S w w w w w]
+[DELETED:  P]
+[DELETED:  P M 1]

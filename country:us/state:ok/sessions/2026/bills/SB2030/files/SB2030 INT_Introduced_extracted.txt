@@ -1,0 +1,2754 @@
+Title: SENATE BILL 2030 By: Pugh
+Official Title: SENATE BILL 2030 By: Pugh
+Number of Sections: 51
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to criminal procedure; amending 22
+7
+O.S. 2021, Section 18, as last amended by Section 1,
+8
+Chapter 259, O.S.L. 2024 (22 O.S. Supp. 2025, Section
+8
+18), which relates to expungement of records; adding
+9
+certain persons authorized to file a motion for
+9
+expungement; clarifying certain term; requiring
+10
+Oklahoma State Bureau of Investigation to make
+10
+certain consideration; clarifying scope of certain
+11
+sealing; requiring establishment of certain portal;
+11
+requiring certain review; requiring certain
+12
+determination of eligibility; authorizing certain
+12
+petition; requiring certain notification; amending 22
+13
+O.S. 2021, Section 19, as last amended by Section 1,
+13
+Chapter 292, O.S.L. 2025 (22 O.S. Supp. 2025, Section
+14
+19), which relates to sealing and unsealing of
+14
+records; modifying procedure for certain expungement
+15
+order; authorizing promulgation of rules; clarifying
+15
+scope for which certain petition may be filed;
+16
+repealing 22 O.S. 2021, Section 18, as last amended
+16
+by Section 12, Chapter 452, O.S.L. 2024 (22 O.S.
+17
+Supp. 2025, Section 18), which relates to expungement
+17
+of records; and providing an effective date.
+18
+18
+19
+19
+20
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20
+21
+
+Section 2:
+SECTION 1. AMENDATORY 22 O.S. 2021, Section 18, as last
+21
+22
+amended by Section 1, Chapter 259, O.S.L. 2024 (22 O.S. Supp. 2025,
+22
+23
+
+Section 3:
+Section 18), is amended to read as follows:
+23
+24
+24
+Req. No. 2583 Page 1
+1
+
+Section 4:
+Section 18. A. Persons authorized to file a motion for
+1
+2
+expungement, as provided herein, must be within one of the following
+2
+3
+categories:
+3
+4
+
+Section 5:
+1. The person has been acquitted;
+4
+5
+
+Section 6:
+2. The conviction was reversed with instructions to dismiss by
+5
+6
+an appellate court of competent jurisdiction, or an appellate court
+6
+7
+of competent jurisdiction reversed the conviction and the
+7
+8
+prosecuting agency subsequently dismissed the charge;
+8
+9
+
+Section 7:
+3. The factual innocence of the person was established by the
+9
+10
+use of deoxyribonucleic acid (DNA) evidence subsequent to
+10
+11
+conviction, including a person who has been released from prison at
+11
+12
+the time innocence was established;
+12
+13
+
+Section 8:
+4. The person has received a full pardon by the Governor for
+13
+14
+the crime for which the person was sentenced;
+14
+15
+
+Section 9:
+5. The person was arrested and no charges of any type,
+15
+16
+including charges for an offense different than that for which the
+16
+17
+person was originally arrested, are filed and the statute of
+17
+18
+limitations has expired or the prosecuting agency has declined to
+18
+19
+file charges;
+19
+20
+
+Section 10:
+6. The person was under eighteen (18) years of age at the time
+20
+21
+the offense was committed and the person has received a full pardon
+21
+22
+for the offense;
+22
+23
+
+Section 11:
+7. The person was charged with one or more misdemeanor or
+23
+24
+felony crimes, all charges have been dismissed, the person has never
+24
+Req. No. 2583 Page 2
+1
+been convicted of a felony, no misdemeanor or felony charges are
+1
+2
+pending against the person and the statute of limitations for
+2
+3
+refiling the charge or charges has expired or the prosecuting agency
+3
+4
+confirms that the charge or charges will not be refiled; provided,
+4
+5
+however, this category shall not apply to charges that have been
+5
+6
+dismissed following the completion of a deferred judgment or delayed
+6
+7
+sentence;
+7
+8
+
+Section 12:
+8. The person was charged with a misdemeanor, the charge was
+8
+9
+dismissed following the successful completion of a deferred judgment
+9
+10
+or delayed sentence, the person has never been convicted of a
+10
+11
+felony, no misdemeanor or felony charges are pending against the
+11
+12
+person and at least one (1) year has passed since the charge was
+12
+13
+dismissed;
+13
+14
+
+Section 13:
+9. The person was charged with a nonviolent felony offense not
+14
+15
+listed in Section 571 of Title 57 of the Oklahoma Statutes, the
+15
+16
+charge was dismissed following the successful completion of a
+16
+17
+deferred judgment or delayed sentence, the person has never been
+17
+18
+convicted of a felony, no misdemeanor or felony charges are pending
+18
+19
+against the person and at least five (5) years have passed since the
+19
+20
+charge was dismissed;
+20
+21
+
+Section 14:
+10. The person was convicted of a misdemeanor offense, the
+21
+22
+person was sentenced to a fine less than Five Hundred One Dollars
+22
+23
+($501.00) without a term of imprisonment or a suspended sentence,
+23
+24
+the fine has been paid or satisfied by time served in lieu of the
+24
+Req. No. 2583 Page 3
+1
+fine, the person has not been convicted of a felony and no felony or
+1
+2
+misdemeanor charges are pending against the person;
+2
+3
+
+Section 15:
+11. The person was convicted of a misdemeanor offense, the
+3
+4
+person was sentenced to a term of imprisonment, a suspended sentence
+4
+5
+or a fine in an amount greater than Five Hundred Dollars ($500.00),
+5
+6
+the person has not been convicted of a felony, no felony or
+6
+7
+misdemeanor charges are pending against the person and at least five
+7
+8
+(5) years have passed since the end of the last misdemeanor
+8
+9
+sentence;
+9
+10
+
+Section 16:
+12. The person was convicted of a misdemeanor offense, the
+10
+11
+person has not been convicted of a felony, no felony or misdemeanor
+11
+12
+charges are pending against the person, and five (5) years have
+12
+13
+passed since the end of the last misdemeanor sentence;
+13
+14
+
+Section 17:
+13. The person was convicted of a nonviolent felony offense not
+14
+15
+listed in Section 571 of Title 57 of the Oklahoma Statutes, the
+15
+16
+person has not been convicted of any other felony, the person has
+16
+17
+not been convicted of a separate misdemeanor in the last seven (7)
+17
+18
+years, no felony or misdemeanor charges are pending against the
+18
+19
+person and at least five (5) years have passed since the completion
+19
+20
+of the sentence for the felony conviction;
+20
+21
+
+Section 18:
+13. 14. The person was convicted of not more than two felony
+21
+22
+offenses, none of which is a felony offense listed in Section 13.1
+22
+23
+of Title 21 of the Oklahoma Statutes or any offense that would
+23
+24
+require the person to register pursuant to the provisions of the Sex
+24
+Req. No. 2583 Page 4
+1
+Offenders Registration Act, no felony or misdemeanor charges are
+1
+2
+pending against the person, and at least ten (10) years have passed
+2
+3
+since the completion of the sentence for the felony conviction;
+3
+4
+
+Section 19:
+14. 15. The person was charged with not more than two felony
+4
+5
+offenses and the charges were dismissed following the successful
+5
+6
+completion of a deferred judgment or delayed sentence, none of which
+6
+7
+were felony offenses listed in Section 13.1 of Title 21 of the
+7
+8
+Oklahoma Statutes or would require the person to register pursuant
+8
+9
+to the provisions of the Sex Offenders Registration Act, no felony
+9
+10
+or misdemeanor charges are pending against the person, and at least
+10
+11
+ten (10) years have passed since the charges were dismissed;
+11
+12
+
+Section 20:
+16. The person has been charged or arrested or is the subject
+12
+13
+of an arrest warrant for a crime that was committed by another
+13
+14
+person who has appropriated or used the person’s name or other
+14
+15
+identification without the person’s consent or authorization; or
+15
+16
+
+Section 21:
+15. 17. The person was convicted of a nonviolent felony offense
+16
+17
+not listed in Section 571 of Title 57 of the Oklahoma Statutes which
+17
+18
+was subsequently reclassified as a misdemeanor under Oklahoma law,
+18
+19
+the person is not currently serving a sentence for a crime in this
+19
+20
+state or another state, at least thirty (30) days have passed since
+20
+21
+the completion or commutation of the sentence for the crime that was
+21
+22
+reclassified as a misdemeanor, any restitution ordered by the court
+22
+23
+to be paid by the person has been satisfied in full, and any
+23
+24
+treatment program ordered by the court has been successfully
+24
+Req. No. 2583 Page 5
+1
+completed by the person, including any person who failed a treatment
+1
+2
+program which resulted in an accelerated or revoked sentence that
+2
+3
+has since been successfully completed by the person or the person
+3
+4
+can show successful completion of a treatment program at a later
+4
+5
+date. Persons seeking an expungement of records under the
+5
+6
+provisions of this paragraph may utilize the expungement forms
+6
+7
+provided in Section 18a of this title; or
+7
+8
+
+Section 22:
+18. The person was convicted of a nonviolent felony offense not
+8
+9
+listed in Section 571 of Title 57 of the Oklahoma Statutes that was
+9
+10
+subsequently reclassified as a misdemeanor in this state, excluding
+10
+11
+convictions pursuant to paragraph 1 of subsection A of Section 2-402
+11
+12
+of Title 63 of the Oklahoma Statutes, the person is not currently
+12
+13
+serving a sentence for a crime in this state, and at least five (5)
+13
+14
+years have passed since the end of the last felony or misdemeanor
+14
+15
+offense.
+15
+16
+B. For purposes of Section 18 et seq. of this title:
+16
+17
+
+Section 23:
+1. “Expungement” means the sealing of criminal records, as well
+17
+18
+as any public civil record, involving actions brought by and against
+18
+19
+the State of Oklahoma arising from the same arrest, transaction or
+19
+20
+occurrence, including court records. A fully sealed expunged record
+20
+21
+shall not be available to the public or to law enforcement. Such
+21
+22
+records may be retained in the state criminal history repository but
+22
+23
+shall only be accessible to designated employees of the Oklahoma
+23
+24
+State Bureau of Investigation for research and statistical purposes.
+24
+Req. No. 2583 Page 6
+1
+A partially sealed expunged record shall not be available to the
+1
+2
+public but shall be available to law enforcement agencies for law
+2
+3
+enforcement purposes; and
+3
+4
+
+Section 24:
+2. “Single-source record” means a criminal history record from
+4
+5
+this state that consists of an Oklahoma arrest record only. A
+5
+6
+single-source record shall not contain any arrest from another
+6
+7
+state, a federal arrest, or an entry into the National Sex Offender
+7
+8
+Registry or a National Crime Information Center (NCIC)
+8
+9
+wanted/warrant entry.
+9
+10
+C. Beginning three (3) years after November 1, 2022 on the
+10
+11
+effective date of this act, and subject to the availability of
+11
+12
+funds, individuals with clean slate eligible arrest records shall be
+12
+13
+eligible to have their arrest records sealed automatically. For
+13
+14
+purposes of determining if the waiting periods in subsection A of
+14
+15
+this section have been met, the Oklahoma State Bureau of
+15
+16
+Investigation shall consider records in its possession and, in the
+16
+17
+absence of disposition or sentence termination records, shall deem
+17
+18
+sentences to have ended based on the sentence or supervision term
+18
+19
+length information in its possession. In the absence of a known
+19
+20
+term length of supervision or sentence, the Bureau shall deem a
+20
+21
+sentence completed if the statutory maximum term length has elapsed
+21
+22
+since the disposition date. For purposes of Section 18 et seq. of
+22
+23
+this title, “clean slate eligible arrest record” shall mean an
+23
+24
+24
+Req. No. 2583 Page 7
+1
+arrest a record where each charge within the record meets one of the
+1
+2
+following criteria:
+2
+3
+
+Section 25:
+1. Records described in paragraph 1, 2, 3, 4, 5, 6, 14 7, or 15
+3
+4
+16 of subsection A of this section;
+4
+5
+
+Section 26:
+2. Records described in paragraph 7 5 of subsection A of this
+5
+6
+
+Section 27:
+section where the prosecuting agency has declined to file charges
+6
+7
+and the record is an Oklahoma single-source record; or
+7
+8
+
+Section 28:
+3. Records described in paragraph 8, 10, 12, or 11 18 of
+8
+9
+subsection A of this section where the record is an Oklahoma single-
+9
+10
+source record.
+10
+11
+D. For purposes of seeking an expungement under the provisions
+11
+12
+of paragraph 10, 11, 12, 13, or 13 14 of subsection A of this
+12
+13
+
+Section 29:
+section, offenses arising out of the same transaction or occurrence
+13
+14
+shall be treated as one conviction and offense.
+14
+15
+E. Records expunged pursuant to paragraphs 4, 8, 9, 10, 11, 12,
+15
+16
+13, 14 and, 15, 16, or 17 of subsection A of this section and all
+16
+17
+records expunged pursuant to subsection C of this section shall be
+17
+18
+partially sealed so that such records are not available to the
+18
+19
+public but remain available to law enforcement agencies for law
+19
+20
+enforcement purposes. Records expunged pursuant to paragraphs 8, 9,
+20
+21
+10, 11, 12 and 13, 14, or 15 of subsection A of this section shall
+21
+22
+be admissible in any subsequent criminal prosecution to prove the
+22
+23
+existence of a prior conviction or prior deferred judgment without
+23
+24
+the necessity of a court order requesting the unsealing of the
+24
+Req. No. 2583 Page 8
+1
+records. Records expunged pursuant to paragraph 4, 6, 12 or 13, or
+1
+2
+14 of subsection A of this section may also include the sealing of
+2
+3
+Pardon and Parole Board records related to an application for a
+3
+4
+pardon. Such records shall be sealed to the public but not to the
+4
+5
+Pardon and Parole Board.
+5
+6
+F. 1. The Oklahoma State Bureau of Investigation shall
+6
+7
+establish and maintain a publicly accessible online portal for
+7
+8
+individuals to submit an expedited expungement request for records
+8
+9
+described in paragraph 17 of subsection A of this section or any
+9
+10
+clean slate eligible records described in subsection C of this
+10
+11
+
+Section 30:
+section.
+11
+12
+
+Section 31:
+2. An expedited expungement request submitted through the
+12
+13
+portal shall only require the individual to provide sufficient
+13
+14
+personal identification information to allow the Bureau to locate
+14
+15
+the relevant criminal history record and contact information,
+15
+16
+including an email address or phone number, for notification
+16
+17
+purposes.
+17
+18
+
+Section 32:
+3. Upon receipt of an expedited expungement request, the Bureau
+18
+19
+shall review the associated criminal history record to determine if
+19
+20
+it meets the criteria for an expedited expungement request pursuant
+20
+21
+to this subsection. If the record is determined to be eligible, the
+21
+22
+Bureau shall seal the record pursuant to the requirements of Section
+22
+23
+19 of this title. If the record is determined not to be eligible,
+23
+24
+the Bureau shall provide a written or electronic notice of rejection
+24
+Req. No. 2583 Page 9
+1
+to the individual, clearly stating the reason or reasons for
+1
+2
+rejection based on the criteria established in this section.
+2
+3
+
+Section 33:
+4. If the Bureau fails to provide a sealing of the record or a
+3
+4
+notice of rejection, or if the individual disagrees with the
+4
+5
+rejection, the individual may petition the district court pursuant
+5
+6
+to Section 19 of this title.
+6
+7
+
+Section 34:
+5. Upon the sealing of a record pursuant to this subsection,
+7
+8
+the Bureau shall immediately notify the individual, via the contact
+8
+9
+information provided in the request, that the record has been
+9
+10
+sealed.
+10
+11
+
+Section 35:
+SECTION 2. AMENDATORY 22 O.S. 2021, Section 19, as last
+11
+12
+amended by Section 1, Chapter 292, O.S.L. 2025 (22 O.S. Supp. 2025,
+12
+13
+
+Section 36:
+Section 19), is amended to read as follows:
+13
+14
+
+Section 37:
+Section 19. A. Any person qualified under Section 18 of this
+14
+15
+title may petition the district court of the district in which the
+15
+16
+arrest information pertaining to the person is located for the
+16
+17
+sealing of all or any part of the record, including a court record,
+17
+18
+except basic identification information.
+18
+19
+B. The process for the automatic expungement of a clean slate
+19
+20
+eligible arrest record as defined in subsection C of Section 18 of
+20
+21
+this title is as follows:
+21
+22
+
+Section 38:
+1. On a monthly basis, the Oklahoma State Bureau of
+22
+23
+Investigation shall identify arrest records which are clean slate
+23
+24
+24
+Req. No. 2583 Page 10
+1
+eligible by conducting a search of the criminal history repository
+1
+2
+records of the Bureau;
+2
+3
+
+Section 39:
+2. The Bureau shall, on a monthly basis, provide to the courts
+3
+4
+a list of clean slate eligible arrest records to the prosecuting
+4
+5
+agency and the arresting agency;
+5
+6
+
+Section 40:
+3. The prosecuting agency, arresting agency, and the Bureau
+6
+7
+may, no later than forty-five (45) days from the day on which the
+7
+8
+notice described in paragraph 2 of this subsection is transmitted,
+8
+9
+object to an automatic expungement and such objection shall be
+9
+10
+transmitted to all parties. An objection may be made for any of the
+10
+11
+following reasons:
+11
+12
+a. after reviewing the agency record, the agency believes
+12
+13
+the arrest record does not meet the definition of a
+13
+14
+clean slate eligible arrest record,
+14
+15
+b. the individual has not paid court-ordered restitution
+15
+16
+to the victim, or
+16
+17
+c. the agency has a reasonable belief, grounded in
+17
+18
+supporting facts, that an individual with a clean
+18
+19
+slate eligible arrest record is continuing to engage
+19
+20
+in criminal activity, whether charged or not charged,
+20
+21
+within or outside the state;
+21
+22
+
+Section 41:
+4. If an agency identified in paragraph 3 of this subsection
+22
+23
+objects for a reason described in paragraph 3 of this subsection
+23
+24
+within forty-five (45) days of the day on which the notice described
+24
+Req. No. 2583 Page 11
+1
+in paragraph 2 of this subsection is transmitted, the record shall
+1
+2
+not be expunged. Once a year, the Bureau shall electronically
+2
+3
+submit a report to the Legislature with a list of all cases where a
+3
+4
+record was not expunged pursuant to this paragraph; and
+4
+5
+
+Section 42:
+5. After forty-five (45) days pass from the day on which the
+5
+6
+notice described in paragraph 2 of this subsection is sent, the
+6
+7
+Bureau shall provide to the courts a list of all cases where
+7
+8
+responses from all parties were received and no parties objected.
+8
+9
+The court shall review this list and provide to all agencies that
+9
+10
+have criminal history records a signed expungement order for all
+10
+11
+cases approved. Upon receipt of a signed expungement order, each
+11
+12
+agency shall seal the relevant records.
+12
+13
+The Bureau and the Supreme Court may promulgate rules to govern
+13
+14
+the process for automatic expungement of records for a clean slate
+14
+15
+eligible arrest record in accordance with this subsection all cases
+15
+16
+identified pursuant to paragraph 1 of this subsection. The court
+16
+17
+shall review the list and provide a signed expungement order for all
+17
+18
+cases approved to all agencies that have criminal history records.
+18
+19
+Upon receipt of a signed expungement order, each agency shall seal
+19
+20
+the relevant records.
+20
+21
+
+Section 43:
+3. The Bureau and the Supreme Court may promulgate rules to
+21
+22
+govern the process for automatic expungement of records for a clean
+22
+23
+slate eligible record in accordance with this subsection.
+23
+24
+24
+Req. No. 2583 Page 12
+1
+C. 1. Nothing in this section precludes an individual from
+1
+2
+filing a petition for expungement of records that are eligible for
+2
+3
+automatic expungement under subsection subsections C and F of
+3
+4
+
+Section 44:
+Section 18 of this title if an automatic expungement has not
+4
+5
+occurred pursuant to subsection B of this section.
+5
+6
+
+Section 45:
+2. An individual does not have a cause of action for damages as
+6
+7
+a result of the failure of the Bureau to identify an arrest record
+7
+8
+as eligible for automatic expungement.
+8
+9
+D. An automatic expungement granted under subsection B of this
+9
+10
+
+Section 46:
+section does not preclude an individual from requesting the
+10
+11
+unsealing of records in accordance with subsection P of this
+11
+12
+
+Section 47:
+section.
+12
+13
+E. Upon the filing of a petition or entering of a court order
+13
+14
+as prescribed in subsection A of this section, the court shall set a
+14
+15
+date for a hearing and shall provide thirty (30) days of notice of
+15
+16
+the hearing to the prosecuting agency, the arresting agency, the
+16
+17
+Oklahoma State Bureau of Investigation, and any other person or
+17
+18
+agency whom the court has reason to believe may have relevant
+18
+19
+information related to the sealing of such record.
+19
+20
+F. If a petitioner requests expungement for multiple offenses
+20
+21
+in one county, each of which would qualify for expungement if
+21
+22
+processed sequentially, the expungements may be considered under a
+22
+23
+single petition. The petitioner shall not be required to submit
+23
+24
+24
+Req. No. 2583 Page 13
+1
+multiple petitions to accomplish the sequential sealing of multiple
+1
+2
+offenses in a single county.
+2
+3
+G. Upon a finding that the harm to privacy of the person in
+3
+4
+interest or dangers of unwarranted adverse consequences outweigh the
+4
+5
+public interest in retaining the records, the court may order such
+5
+6
+records, or any part thereof except basic identification
+6
+7
+information, to be sealed. If the court finds that neither sealing
+7
+8
+of the records nor maintaining of the records unsealed by the agency
+8
+9
+would serve the ends of justice, the court may enter an appropriate
+9
+10
+order limiting access to such records.
+10
+11
+Any order entered under this subsection shall specify those
+11
+12
+agencies to which such order shall apply. Any order entered
+12
+13
+pursuant to this subsection may be appealed by the petitioner, the
+13
+14
+prosecuting agency, the arresting agency, or the Oklahoma State
+14
+15
+Bureau of Investigation to the Supreme Court in accordance with the
+15
+16
+rules of the Supreme Court. In all such appeals, the Oklahoma State
+16
+17
+Bureau of Investigation is a necessary party and must be given
+17
+18
+notice of the appellate proceedings.
+18
+19
+H. Upon the entry of an order to seal the records, or any part
+19
+20
+thereof, or upon an automatic expungement described in subsection B
+20
+21
+of this section, the subject official actions shall be deemed never
+21
+22
+to have occurred, and the person in interest and all criminal
+22
+23
+justice agencies may properly reply, upon any inquiry in the matter,
+23
+24
+24
+Req. No. 2583 Page 14
+1
+that no such action ever occurred and that no such record exists
+1
+2
+with respect to such person.
+2
+3
+I. Inspection of the records included in the order may
+3
+4
+thereafter be permitted by the court only upon petition by the
+4
+5
+person in interest who is the subject of such records, the Attorney
+5
+6
+General, or by the prosecuting agency and only to those persons and
+6
+7
+for such purposes named in such petition.
+7
+8
+J. Employers, educational institutions, state and local
+8
+9
+government agencies, officials, and employees shall not, in any
+9
+10
+application or interview or otherwise, require an applicant to
+10
+11
+disclose any information contained in sealed records. An applicant
+11
+12
+need not, in answer to any question concerning arrest and criminal
+12
+13
+records, provide information that has been sealed, including any
+13
+14
+reference to or information concerning such sealed information and
+14
+15
+may state that no such action has ever occurred. Such an
+15
+16
+application may not be denied solely because of the refusal of the
+16
+17
+applicant to disclose arrest and criminal records information that
+17
+18
+has been sealed.
+18
+19
+K. All arrest and criminal records information existing prior
+19
+20
+to May 14, 1987, except basic identification information, is also
+20
+21
+subject to sealing in accordance with subsection G of this section.
+21
+22
+L. Nothing in this section shall be construed to authorize the
+22
+23
+physical destruction of any criminal justice records.
+23
+24
+24
+Req. No. 2583 Page 15
+1
+M. For the purposes of this section, sealed materials which are
+1
+2
+recorded in the same document as unsealed material may be recorded
+2
+3
+in a separate document, and sealed, then obliterated in the original
+3
+4
+document.
+4
+5
+N. For the purposes of this section, district court index
+5
+6
+reference of sealed material shall be destroyed, removed or
+6
+7
+obliterated.
+7
+8
+O. Any record ordered to be sealed pursuant to this section, if
+8
+9
+not unsealed within ten (10) years of the expungement order, may be
+9
+10
+obliterated or destroyed at the end of the ten-year period.
+10
+11
+P. Subsequent to records being sealed as provided herein, the
+11
+12
+prosecuting agency, the arresting agency, the Oklahoma State Bureau
+12
+13
+of Investigation, or other interested person or agency may petition
+13
+14
+the court for an order unsealing such records. Upon filing of a
+14
+15
+petition, the court shall set a date for hearing, which hearing may
+15
+16
+be closed at the discretion of the court, and shall provide thirty
+16
+17
+(30) days of notice to all interested parties. If, upon hearing,
+17
+18
+the court determines there has been a change of conditions or that
+18
+19
+there is a compelling reason to unseal the records, the court may
+19
+20
+order all or a portion of the records unsealed.
+20
+21
+Q. Nothing herein shall prohibit the introduction of evidence
+21
+22
+regarding actions sealed pursuant to the provisions of this section
+22
+23
+at any hearing or trial for purposes of impeaching the credibility
+23
+24
+24
+Req. No. 2583 Page 16
+1
+of a witness or as evidence of character testimony pursuant to
+1
+2
+
+Section 48:
+Section 2608 of Title 12 of the Oklahoma Statutes.
+2
+3
+R. If a person qualifies for an expungement under the
+3
+4
+provisions of paragraph 3 of subsection A of Section 18 of this
+4
+5
+title and the petition for expungement is granted by the court, the
+5
+6
+court shall order the reimbursement of all filing fees and court
+6
+7
+costs incurred by the petitioner as a result of filing the
+7
+8
+expungement request.
+8
+9
+S. If a person qualifies for an expungement under the
+9
+10
+provisions of paragraph 3 or 4 of subsection A of Section 18 of this
+10
+11
+title, the person may request a hearing be set within thirty (30)
+11
+12
+days after the date of filing the petition for expungement. The
+12
+13
+court shall grant the request for the hearing and shall provide a
+13
+14
+notice of no less than ten (10) days for said hearing to the
+14
+15
+prosecuting agency, the arresting agency, the Oklahoma State Bureau
+15
+16
+of Investigation, and any other person or agency whom the court has
+16
+17
+reason to believe may have relevant information related to the
+17
+18
+sealing of such record. Any order entered pursuant to the
+18
+19
+provisions of this subsection shall be subject to the provisions of
+19
+20
+subsections F through P of this section.
+20
+21
+T. Any offense that has been expunged shall not be treated as a
+21
+22
+prior offense in determining whether another offense qualifies for
+22
+23
+an expungement under Section 18 of this title.
+23
+24
+24
+Req. No. 2583 Page 17
+1
+
+Section 49:
+SECTION 3. REPEALER 22 O.S. 2021, Section 18, as last
+1
+2
+amended by Section 12, Chapter 452, O.S.L. 2024 (22 O.S. Supp. 2025,
+2
+3
+
+Section 50:
+Section 18), is hereby repealed.
+3
+4
+
+Section 51:
+SECTION 4. This act shall become effective November 1, 2026.
+4
+5
+5
+6
+60-2-2583 CN 1/15/2026 10:35:59 AM
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2583 Page 18
+[DELETED:  P B P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 2030 By: Pugh
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to criminal procedure; amending 22
+7
+O.S. 2021, Section 18, as last amended by Section 1,
+8
+Chapter 259, O.S.L. 2024 (22 O.S. Supp. 2025, Section
+8
+18), which relates to expungement of records; adding
+9
+certain persons authorized to file a motion for
+9
+expungement; clarifying certain term; requiring
+10
+Oklahoma State Bureau of Investigation to make
+10
+certain consideration; clarifying scope of certain
+11
+sealing; requiring establishment of certain portal;
+11
+requiring certain review; requiring certain
+12
+determination of eligibility; authorizing certain
+12
+petition; requiring certain notification; amending 22
+13
+O.S. 2021, Section 19, as last amended by Section 1,
+13
+Chapter 292, O.S.L. 2025 (22 O.S. Supp. 2025, Section
+14
+19), which relates to sealing and unsealing of
+14
+records; modifying procedure for certain expungement
+15
+order; authorizing promulgation of rules; clarifying
+15
+scope for which certain petition may be filed;
+16
+repealing 22 O.S. 2021, Section 18, as last amended
+16
+by Section 12, Chapter 452, O.S.L. 2024 (22 O.S.
+17
+Supp. 2025, Section 18), which relates to expungement
+17
+of records; and providing an effective date.
+18
+18
+19
+19
+20
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20
+21
+SECTION 1. AMENDATORY 22 O.S. 2021, Section 18, as last
+21
+22
+amended by Section 1, Chapter 259, O.S.L. 2024 (22 O.S. Supp. 2025,
+22
+23
+Section 18), is amended to read as follows:
+23
+24
+24
+Req. No. 2583 Page 1
+
+1
+Section 18. A. Persons authorized to file a motion for
+1
+2
+expungement, as provided herein, must be within one of the following
+2
+3
+categories:
+3
+4
+1. The person has been acquitted;
+4
+5
+2. The conviction was reversed with instructions to dismiss by
+5
+6
+an appellate court of competent jurisdiction, or an appellate court
+6
+7
+of competent jurisdiction reversed the conviction and the
+7
+8
+prosecuting agency subsequently dismissed the charge;
+8
+9
+3. The factual innocence of the person was established by the
+9
+10
+use of deoxyribonucleic acid (DNA) evidence subsequent to
+10
+11
+conviction, including a person who has been released from prison at
+11
+12
+the time innocence was established;
+12
+13
+4. The person has received a full pardon by the Governor for
+13
+14
+the crime for which the person was sentenced;
+14
+15
+5. The person was arrested and no charges of any type,
+15
+16
+including charges for an offense different than that for which the
+16
+17
+person was originally arrested, are filed and the statute of
+17
+18
+limitations has expired or the prosecuting agency has declined to
+18
+19
+file charges;
+19
+20
+6. The person was under eighteen (18) years of age at the time
+20
+21
+the offense was committed and the person has received a full pardon
+21
+22
+for the offense;
+22
+23
+7. The person was charged with one or more misdemeanor or
+23
+24
+felony crimes, all charges have been dismissed, the person has never
+24
+Req. No. 2583 Page 2
+
+1
+been convicted of a felony, no misdemeanor or felony charges are
+1
+2
+pending against the person and the statute of limitations for
+2
+3
+refiling the charge or charges has expired or the prosecuting agency
+3
+4
+confirms that the charge or charges will not be refiled; provided,
+4
+5
+however, this category shall not apply to charges that have been
+5
+6
+dismissed following the completion of a deferred judgment or delayed
+6
+7
+sentence;
+7
+8
+8. The person was charged with a misdemeanor, the charge was
+8
+9
+dismissed following the successful completion of a deferred judgment
+9
+10
+or delayed sentence, the person has never been convicted of a
+10
+11
+felony, no misdemeanor or felony charges are pending against the
+11
+12
+person and at least one (1) year has passed since the charge was
+12
+13
+dismissed;
+13
+14
+9. The person was charged with a nonviolent felony offense not
+14
+15
+listed in Section 571 of Title 57 of the Oklahoma Statutes, the
+15
+16
+charge was dismissed following the successful completion of a
+16
+17
+deferred judgment or delayed sentence, the person has never been
+17
+18
+convicted of a felony, no misdemeanor or felony charges are pending
+18
+19
+against the person and at least five (5) years have passed since the
+19
+20
+charge was dismissed;
+20
+21
+10. The person was convicted of a misdemeanor offense, the
+21
+22
+person was sentenced to a fine less than Five Hundred One Dollars
+22
+23
+($501.00) without a term of imprisonment or a suspended sentence,
+23
+24
+the fine has been paid or satisfied by time served in lieu of the
+24
+Req. No. 2583 Page 3
+
+1
+fine, the person has not been convicted of a felony and no felony or
+1
+2
+misdemeanor charges are pending against the person;
+2
+3
+11. The person was convicted of a misdemeanor offense, the
+3
+4
+person was sentenced to a term of imprisonment, a suspended sentence
+4
+5
+or a fine in an amount greater than Five Hundred Dollars ($500.00),
+5
+6
+the person has not been convicted of a felony, no felony or
+6
+7
+misdemeanor charges are pending against the person and at least five
+7
+8
+(5) years have passed since the end of the last misdemeanor
+8
+9
+sentence;
+9
+10
+12. The person was convicted of a misdemeanor offense, the
+10
+11
+person has not been convicted of a felony, no felony or misdemeanor
+11
+12
+charges are pending against the person, and five (5) years have
+12
+13
+passed since the end of the last misdemeanor sentence;
+13
+14
+13. The person was convicted of a nonviolent felony offense not
+14
+15
+listed in Section 571 of Title 57 of the Oklahoma Statutes, the
+15
+16
+person has not been convicted of any other felony, the person has
+16
+17
+not been convicted of a separate misdemeanor in the last seven (7)
+17
+18
+years, no felony or misdemeanor charges are pending against the
+18
+19
+person and at least five (5) years have passed since the completion
+19
+20
+of the sentence for the felony conviction;
+20
+21
+13. 14. The person was convicted of not more than two felony
+21
+22
+offenses, none of which is a felony offense listed in Section 13.1
+22
+23
+of Title 21 of the Oklahoma Statutes or any offense that would
+23
+24
+require the person to register pursuant to the provisions of the Sex
+24
+Req. No. 2583 Page 4
+
+1
+Offenders Registration Act, no felony or misdemeanor charges are
+1
+2
+pending against the person, and at least ten (10) years have passed
+2
+3
+since the completion of the sentence for the felony conviction;
+3
+4
+14. 15. The person was charged with not more than two felony
+4
+5
+offenses and the charges were dismissed following the successful
+5
+6
+completion of a deferred judgment or delayed sentence, none of which
+6
+7
+were felony offenses listed in Section 13.1 of Title 21 of the
+7
+8
+Oklahoma Statutes or would require the person to register pursuant
+8
+9
+to the provisions of the Sex Offenders Registration Act, no felony
+9
+10
+or misdemeanor charges are pending against the person, and at least
+10
+11
+ten (10) years have passed since the charges were dismissed;
+11
+12
+16. The person has been charged or arrested or is the subject
+12
+13
+of an arrest warrant for a crime that was committed by another
+13
+14
+person who has appropriated or used the person’s name or other
+14
+15
+identification without the person’s consent or authorization; or
+15
+16
+15. 17. The person was convicted of a nonviolent felony offense
+16
+17
+not listed in Section 571 of Title 57 of the Oklahoma Statutes which
+17
+18
+was subsequently reclassified as a misdemeanor under Oklahoma law,
+18
+19
+the person is not currently serving a sentence for a crime in this
+19
+20
+state or another state, at least thirty (30) days have passed since
+20
+21
+the completion or commutation of the sentence for the crime that was
+21
+22
+reclassified as a misdemeanor, any restitution ordered by the court
+22
+23
+to be paid by the person has been satisfied in full, and any
+23
+24
+treatment program ordered by the court has been successfully
+24
+Req. No. 2583 Page 5
+
+1
+completed by the person, including any person who failed a treatment
+1
+2
+program which resulted in an accelerated or revoked sentence that
+2
+3
+has since been successfully completed by the person or the person
+3
+4
+can show successful completion of a treatment program at a later
+4
+5
+date. Persons seeking an expungement of records under the
+5
+6
+provisions of this paragraph may utilize the expungement forms
+6
+7
+provided in Section 18a of this title; or
+7
+8
+18. The person was convicted of a nonviolent felony offense not
+8
+9
+listed in Section 571 of Title 57 of the Oklahoma Statutes that was
+9
+10
+subsequently reclassified as a misdemeanor in this state, excluding
+10
+11
+convictions pursuant to paragraph 1 of subsection A of Section 2-402
+11
+12
+of Title 63 of the Oklahoma Statutes, the person is not currently
+12
+13
+serving a sentence for a crime in this state, and at least five (5)
+13
+14
+years have passed since the end of the last felony or misdemeanor
+14
+15
+offense.
+15
+16
+B. For purposes of Section 18 et seq. of this title:
+16
+17
+1. “Expungement” means the sealing of criminal records, as well
+17
+18
+as any public civil record, involving actions brought by and against
+18
+19
+the State of Oklahoma arising from the same arrest, transaction or
+19
+20
+occurrence, including court records. A fully sealed expunged record
+20
+21
+shall not be available to the public or to law enforcement. Such
+21
+22
+records may be retained in the state criminal history repository but
+22
+23
+shall only be accessible to designated employees of the Oklahoma
+23
+24
+State Bureau of Investigation for research and statistical purposes.
+24
+Req. No. 2583 Page 6
+
+1
+A partially sealed expunged record shall not be available to the
+1
+2
+public but shall be available to law enforcement agencies for law
+2
+3
+enforcement purposes; and
+3
+4
+2. “Single-source record” means a criminal history record from
+4
+5
+this state that consists of an Oklahoma arrest record only. A
+5
+6
+single-source record shall not contain any arrest from another
+6
+7
+state, a federal arrest, or an entry into the National Sex Offender
+7
+8
+Registry or a National Crime Information Center (NCIC)
+8
+9
+wanted/warrant entry.
+9
+10
+C. Beginning three (3) years after November 1, 2022 on the
+10
+11
+effective date of this act, and subject to the availability of
+11
+12
+funds, individuals with clean slate eligible arrest records shall be
+12
+13
+eligible to have their arrest records sealed automatically. For
+13
+14
+purposes of determining if the waiting periods in subsection A of
+14
+15
+this section have been met, the Oklahoma State Bureau of
+15
+16
+Investigation shall consider records in its possession and, in the
+16
+17
+absence of disposition or sentence termination records, shall deem
+17
+18
+sentences to have ended based on the sentence or supervision term
+18
+19
+length information in its possession. In the absence of a known
+19
+20
+term length of supervision or sentence, the Bureau shall deem a
+20
+21
+sentence completed if the statutory maximum term length has elapsed
+21
+22
+since the disposition date. For purposes of Section 18 et seq. of
+22
+23
+this title, “clean slate eligible arrest record” shall mean an
+23
+24
+24
+Req. No. 2583 Page 7
+
+1
+arrest a record where each charge within the record meets one of the
+1
+2
+following criteria:
+2
+3
+1. Records described in paragraph 1, 2, 3, 4, 5, 6, 14 7, or 15
+3
+4
+16 of subsection A of this section;
+4
+5
+2. Records described in paragraph 7 5 of subsection A of this
+5
+6
+section where the prosecuting agency has declined to file charges
+6
+7
+and the record is an Oklahoma single-source record; or
+7
+8
+3. Records described in paragraph 8, 10, 12, or 11 18 of
+8
+9
+subsection A of this section where the record is an Oklahoma single-
+9
+10
+source record.
+10
+11
+D. For purposes of seeking an expungement under the provisions
+11
+12
+of paragraph 10, 11, 12, 13, or 13 14 of subsection A of this
+12
+13
+section, offenses arising out of the same transaction or occurrence
+13
+14
+shall be treated as one conviction and offense.
+14
+15
+E. Records expunged pursuant to paragraphs 4, 8, 9, 10, 11, 12,
+15
+16
+13, 14 and, 15, 16, or 17 of subsection A of this section and all
+16
+17
+records expunged pursuant to subsection C of this section shall be
+17
+18
+partially sealed so that such records are not available to the
+18
+19
+public but remain available to law enforcement agencies for law
+19
+20
+enforcement purposes. Records expunged pursuant to paragraphs 8, 9,
+20
+21
+10, 11, 12 and 13, 14, or 15 of subsection A of this section shall
+21
+22
+be admissible in any subsequent criminal prosecution to prove the
+22
+23
+existence of a prior conviction or prior deferred judgment without
+23
+24
+the necessity of a court order requesting the unsealing of the
+24
+Req. No. 2583 Page 8
+
+1
+records. Records expunged pursuant to paragraph 4, 6, 12 or 13, or
+1
+2
+14 of subsection A of this section may also include the sealing of
+2
+3
+Pardon and Parole Board records related to an application for a
+3
+4
+pardon. Such records shall be sealed to the public but not to the
+4
+5
+Pardon and Parole Board.
+5
+6
+F. 1. The Oklahoma State Bureau of Investigation shall
+6
+7
+establish and maintain a publicly accessible online portal for
+7
+8
+individuals to submit an expedited expungement request for records
+8
+9
+described in paragraph 17 of subsection A of this section or any
+9
+10
+clean slate eligible records described in subsection C of this
+10
+11
+section.
+11
+12
+2. An expedited expungement request submitted through the
+12
+13
+portal shall only require the individual to provide sufficient
+13
+14
+personal identification information to allow the Bureau to locate
+14
+15
+the relevant criminal history record and contact information,
+15
+16
+including an email address or phone number, for notification
+16
+17
+purposes.
+17
+18
+3. Upon receipt of an expedited expungement request, the Bureau
+18
+19
+shall review the associated criminal history record to determine if
+19
+20
+it meets the criteria for an expedited expungement request pursuant
+20
+21
+to this subsection. If the record is determined to be eligible, the
+21
+22
+Bureau shall seal the record pursuant to the requirements of Section
+22
+23
+19 of this title. If the record is determined not to be eligible,
+23
+24
+the Bureau shall provide a written or electronic notice of rejection
+24
+Req. No. 2583 Page 9
+
+1
+to the individual, clearly stating the reason or reasons for
+1
+2
+rejection based on the criteria established in this section.
+2
+3
+4. If the Bureau fails to provide a sealing of the record or a
+3
+4
+notice of rejection, or if the individual disagrees with the
+4
+5
+rejection, the individual may petition the district court pursuant
+5
+6
+to Section 19 of this title.
+6
+7
+5. Upon the sealing of a record pursuant to this subsection,
+7
+8
+the Bureau shall immediately notify the individual, via the contact
+8
+9
+information provided in the request, that the record has been
+9
+10
+sealed.
+10
+11
+SECTION 2. AMENDATORY 22 O.S. 2021, Section 19, as last
+11
+12
+amended by Section 1, Chapter 292, O.S.L. 2025 (22 O.S. Supp. 2025,
+12
+13
+Section 19), is amended to read as follows:
+13
+14
+Section 19. A. Any person qualified under Section 18 of this
+14
+15
+title may petition the district court of the district in which the
+15
+16
+arrest information pertaining to the person is located for the
+16
+17
+sealing of all or any part of the record, including a court record,
+17
+18
+except basic identification information.
+18
+19
+B. The process for the automatic expungement of a clean slate
+19
+20
+eligible arrest record as defined in subsection C of Section 18 of
+20
+21
+this title is as follows:
+21
+22
+1. On a monthly basis, the Oklahoma State Bureau of
+22
+23
+Investigation shall identify arrest records which are clean slate
+23
+24
+24
+Req. No. 2583 Page 10
+
+1
+eligible by conducting a search of the criminal history repository
+1
+2
+records of the Bureau;
+2
+3
+2. The Bureau shall, on a monthly basis, provide to the courts
+3
+4
+a list of clean slate eligible arrest records to the prosecuting
+4
+5
+agency and the arresting agency;
+5
+6
+3. The prosecuting agency, arresting agency, and the Bureau
+6
+7
+may, no later than forty-five (45) days from the day on which the
+7
+8
+notice described in paragraph 2 of this subsection is transmitted,
+8
+9
+object to an automatic expungement and such objection shall be
+9
+10
+transmitted to all parties. An objection may be made for any of the
+10
+11
+following reasons:
+11
+12
+a. after reviewing the agency record, the agency believes
+12
+13
+the arrest record does not meet the definition of a
+13
+14
+clean slate eligible arrest record,
+14
+15
+b. the individual has not paid court-ordered restitution
+15
+16
+to the victim, or
+16
+17
+c. the agency has a reasonable belief, grounded in
+17
+18
+supporting facts, that an individual with a clean
+18
+19
+slate eligible arrest record is continuing to engage
+19
+20
+in criminal activity, whether charged or not charged,
+20
+21
+within or outside the state;
+21
+22
+4. If an agency identified in paragraph 3 of this subsection
+22
+23
+objects for a reason described in paragraph 3 of this subsection
+23
+24
+within forty-five (45) days of the day on which the notice described
+24
+Req. No. 2583 Page 11
+
+1
+in paragraph 2 of this subsection is transmitted, the record shall
+1
+2
+not be expunged. Once a year, the Bureau shall electronically
+2
+3
+submit a report to the Legislature with a list of all cases where a
+3
+4
+record was not expunged pursuant to this paragraph; and
+4
+5
+5. After forty-five (45) days pass from the day on which the
+5
+6
+notice described in paragraph 2 of this subsection is sent, the
+6
+7
+Bureau shall provide to the courts a list of all cases where
+7
+8
+responses from all parties were received and no parties objected.
+8
+9
+The court shall review this list and provide to all agencies that
+9
+10
+have criminal history records a signed expungement order for all
+10
+11
+cases approved. Upon receipt of a signed expungement order, each
+11
+12
+agency shall seal the relevant records.
+12
+13
+The Bureau and the Supreme Court may promulgate rules to govern
+13
+14
+the process for automatic expungement of records for a clean slate
+14
+15
+eligible arrest record in accordance with this subsection all cases
+15
+16
+identified pursuant to paragraph 1 of this subsection. The court
+16
+17
+shall review the list and provide a signed expungement order for all
+17
+18
+cases approved to all agencies that have criminal history records.
+18
+19
+Upon receipt of a signed expungement order, each agency shall seal
+19
+20
+the relevant records.
+20
+21
+3. The Bureau and the Supreme Court may promulgate rules to
+21
+22
+govern the process for automatic expungement of records for a clean
+22
+23
+slate eligible record in accordance with this subsection.
+23
+24
+24
+Req. No. 2583 Page 12
+
+1
+C. 1. Nothing in this section precludes an individual from
+1
+2
+filing a petition for expungement of records that are eligible for
+2
+3
+automatic expungement under subsection subsections C and F of
+3
+4
+Section 18 of this title if an automatic expungement has not
+4
+5
+occurred pursuant to subsection B of this section.
+5
+6
+2. An individual does not have a cause of action for damages as
+6
+7
+a result of the failure of the Bureau to identify an arrest record
+7
+8
+as eligible for automatic expungement.
+8
+9
+D. An automatic expungement granted under subsection B of this
+9
+10
+section does not preclude an individual from requesting the
+10
+11
+unsealing of records in accordance with subsection P of this
+11
+12
+section.
+12
+13
+E. Upon the filing of a petition or entering of a court order
+13
+14
+as prescribed in subsection A of this section, the court shall set a
+14
+15
+date for a hearing and shall provide thirty (30) days of notice of
+15
+16
+the hearing to the prosecuting agency, the arresting agency, the
+16
+17
+Oklahoma State Bureau of Investigation, and any other person or
+17
+18
+agency whom the court has reason to believe may have relevant
+18
+19
+information related to the sealing of such record.
+19
+20
+F. If a petitioner requests expungement for multiple offenses
+20
+21
+in one county, each of which would qualify for expungement if
+21
+22
+processed sequentially, the expungements may be considered under a
+22
+23
+single petition. The petitioner shall not be required to submit
+23
+24
+24
+Req. No. 2583 Page 13
+
+1
+multiple petitions to accomplish the sequential sealing of multiple
+1
+2
+offenses in a single county.
+2
+3
+G. Upon a finding that the harm to privacy of the person in
+3
+4
+interest or dangers of unwarranted adverse consequences outweigh the
+4
+5
+public interest in retaining the records, the court may order such
+5
+6
+records, or any part thereof except basic identification
+6
+7
+information, to be sealed. If the court finds that neither sealing
+7
+8
+of the records nor maintaining of the records unsealed by the agency
+8
+9
+would serve the ends of justice, the court may enter an appropriate
+9
+10
+order limiting access to such records.
+10
+11
+Any order entered under this subsection shall specify those
+11
+12
+agencies to which such order shall apply. Any order entered
+12
+13
+pursuant to this subsection may be appealed by the petitioner, the
+13
+14
+prosecuting agency, the arresting agency, or the Oklahoma State
+14
+15
+Bureau of Investigation to the Supreme Court in accordance with the
+15
+16
+rules of the Supreme Court. In all such appeals, the Oklahoma State
+16
+17
+Bureau of Investigation is a necessary party and must be given
+17
+18
+notice of the appellate proceedings.
+18
+19
+H. Upon the entry of an order to seal the records, or any part
+19
+20
+thereof, or upon an automatic expungement described in subsection B
+20
+21
+of this section, the subject official actions shall be deemed never
+21
+22
+to have occurred, and the person in interest and all criminal
+22
+23
+justice agencies may properly reply, upon any inquiry in the matter,
+23
+24
+24
+Req. No. 2583 Page 14
+
+1
+that no such action ever occurred and that no such record exists
+1
+2
+with respect to such person.
+2
+3
+I. Inspection of the records included in the order may
+3
+4
+thereafter be permitted by the court only upon petition by the
+4
+5
+person in interest who is the subject of such records, the Attorney
+5
+6
+General, or by the prosecuting agency and only to those persons and
+6
+7
+for such purposes named in such petition.
+7
+8
+J. Employers, educational institutions, state and local
+8
+9
+government agencies, officials, and employees shall not, in any
+9
+10
+application or interview or otherwise, require an applicant to
+10
+11
+disclose any information contained in sealed records. An applicant
+11
+12
+need not, in answer to any question concerning arrest and criminal
+12
+13
+records, provide information that has been sealed, including any
+13
+14
+reference to or information concerning such sealed information and
+14
+15
+may state that no such action has ever occurred. Such an
+15
+16
+application may not be denied solely because of the refusal of the
+16
+17
+applicant to disclose arrest and criminal records information that
+17
+18
+has been sealed.
+18
+19
+K. All arrest and criminal records information existing prior
+19
+20
+to May 14, 1987, except basic identification information, is also
+20
+21
+subject to sealing in accordance with subsection G of this section.
+21
+22
+L. Nothing in this section shall be construed to authorize the
+22
+23
+physical destruction of any criminal justice records.
+23
+24
+24
+Req. No. 2583 Page 15
+
+1
+M. For the purposes of this section, sealed materials which are
+1
+2
+recorded in the same document as unsealed material may be recorded
+2
+3
+in a separate document, and sealed, then obliterated in the original
+3
+4
+document.
+4
+5
+N. For the purposes of this section, district court index
+5
+6
+reference of sealed material shall be destroyed, removed or
+6
+7
+obliterated.
+7
+8
+O. Any record ordered to be sealed pursuant to this section, if
+8
+9
+not unsealed within ten (10) years of the expungement order, may be
+9
+10
+obliterated or destroyed at the end of the ten-year period.
+10
+11
+P. Subsequent to records being sealed as provided herein, the
+11
+12
+prosecuting agency, the arresting agency, the Oklahoma State Bureau
+12
+13
+of Investigation, or other interested person or agency may petition
+13
+14
+the court for an order unsealing such records. Upon filing of a
+14
+15
+petition, the court shall set a date for hearing, which hearing may
+15
+16
+be closed at the discretion of the court, and shall provide thirty
+16
+17
+(30) days of notice to all interested parties. If, upon hearing,
+17
+18
+the court determines there has been a change of conditions or that
+18
+19
+there is a compelling reason to unseal the records, the court may
+19
+20
+order all or a portion of the records unsealed.
+20
+21
+Q. Nothing herein shall prohibit the introduction of evidence
+21
+22
+regarding actions sealed pursuant to the provisions of this section
+22
+23
+at any hearing or trial for purposes of impeaching the credibility
+23
+24
+24
+Req. No. 2583 Page 16
+
+1
+of a witness or as evidence of character testimony pursuant to
+1
+2
+Section 2608 of Title 12 of the Oklahoma Statutes.
+2
+3
+R. If a person qualifies for an expungement under the
+3
+4
+provisions of paragraph 3 of subsection A of Section 18 of this
+4
+5
+title and the petition for expungement is granted by the court, the
+5
+6
+court shall order the reimbursement of all filing fees and court
+6
+7
+costs incurred by the petitioner as a result of filing the
+7
+8
+expungement request.
+8
+9
+S. If a person qualifies for an expungement under the
+9
+10
+provisions of paragraph 3 or 4 of subsection A of Section 18 of this
+10
+11
+title, the person may request a hearing be set within thirty (30)
+11
+12
+days after the date of filing the petition for expungement. The
+12
+13
+court shall grant the request for the hearing and shall provide a
+13
+14
+notice of no less than ten (10) days for said hearing to the
+14
+15
+prosecuting agency, the arresting agency, the Oklahoma State Bureau
+15
+16
+of Investigation, and any other person or agency whom the court has
+16
+17
+reason to believe may have relevant information related to the
+17
+18
+sealing of such record. Any order entered pursuant to the
+18
+19
+provisions of this subsection shall be subject to the provisions of
+19
+20
+subsections F through P of this section.
+20
+21
+T. Any offense that has been expunged shall not be treated as a
+21
+22
+prior offense in determining whether another offense qualifies for
+22
+23
+an expungement under Section 18 of this title.
+23
+24
+24
+Req. No. 2583 Page 17
+
+1
+SECTION 3. REPEALER 22 O.S. 2021, Section 18, as last
+1
+2
+amended by Section 12, Chapter 452, O.S.L. 2024 (22 O.S. Supp. 2025,
+2
+3
+Section 18), is hereby repealed.
+3
+4
+SECTION 4. This act shall become effective November 1, 2026.
+4
+5
+5
+6
+60-2-2583 CN 1/15/2026 10:35:59 AM
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2583 Page 18
+
+[DELETED:  P B P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P a t t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 1]

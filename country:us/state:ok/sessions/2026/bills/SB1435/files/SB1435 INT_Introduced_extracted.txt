@@ -1,0 +1,910 @@
+Title: SENATE BILL 1435 By: Kirt
+Official Title: SENATE BILL 1435 By: Kirt
+Number of Sections: 17
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to insurance; amending 36 O.S. 2021,
+7
+
+Section 2:
+Sections 953 and 959, which relate to use of credit
+8
+information and sale of data or lists by consumer
+8
+reporting agencies; prohibiting the use of credit
+9
+information to underwrite or rate risks; applying
+9
+certain provisions to certain data or lists;
+10
+repealing 36 O.S. 2021, Sections 953.1, 954, 955,
+10
+956, 957, and 958, which relate to use of credit
+11
+information in personal insurance; and providing an
+11
+effective date.
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+
+Section 3:
+SECTION 1. AMENDATORY 36 O.S. 2021, Section 953, is
+15
+16
+amended to read as follows:
+16
+17
+
+Section 4:
+Section 953. An insurer authorized to do business in this state
+17
+18
+that uses shall not use credit information to underwrite or rate
+18
+19
+risks, shall not:
+19
+20
+
+Section 5:
+1. Use an insurance score that is calculated using income,
+20
+21
+gender, address, zip code, ethnic group, religion, marital status,
+21
+22
+or nationality of the consumer as a factor;
+22
+23
+
+Section 6:
+2. Deny, cancel or fail to renew a policy of personal insurance
+23
+24
+solely on the basis of credit information, without consideration of
+24
+Req. No. 2756 Page 1
+1
+any other applicable underwriting factor independent of credit
+1
+2
+information and not expressly prohibited by paragraph 1 of this
+2
+3
+
+Section 7:
+section;
+3
+4
+
+Section 8:
+3. Base renewal rates for personal insurance of an insured
+4
+5
+solely upon credit information, without consideration of any other
+5
+6
+applicable factor independent of credit information;
+6
+7
+
+Section 9:
+4. Take adverse action against a consumer solely because the
+7
+8
+consumer does not have a credit card account, without consideration
+8
+9
+of any other applicable factor independent of credit information;
+9
+10
+
+Section 10:
+5. Consider an absence of credit information or an inability to
+10
+11
+calculate an insurance score in underwriting or rating personal
+11
+12
+insurance, unless the insurer does one of the following:
+12
+13
+a. treats the consumer as otherwise approved by the
+13
+14
+Insurance Commissioner, if the insurer presents
+14
+15
+information that an absence or inability relates to
+15
+16
+the risk for the insurer,
+16
+17
+b. treats the consumer as if the applicant or insured had
+17
+18
+neutral credit information, as defined by the insurer,
+18
+19
+or
+19
+20
+c. excludes the use of credit information as a factor and
+20
+21
+use only other underwriting criteria;
+21
+22
+
+Section 11:
+6. Take an adverse action against a consumer based on credit
+22
+23
+information, unless an insurer obtains and uses a credit report
+23
+24
+24
+Req. No. 2756 Page 2
+1
+issued or an insurance score calculated within ninety (90) days from
+1
+2
+the date the policy is first written or renewal is issued;
+2
+3
+
+Section 12:
+7. Use credit information unless not later than every thirty-
+3
+4
+six (36) months following the last time that the insurer obtained
+4
+5
+current credit information for the insured, the insurer recalculates
+5
+6
+the insurance score or obtains an updated credit report. Regardless
+6
+7
+of the requirements of this subsection:
+7
+8
+a. at annual renewal, upon the request of a consumer or
+8
+9
+the agent of the consumer, the insurer shall
+9
+10
+reunderwrite and rerate the policy based upon a
+10
+11
+current credit report or insurance score. An insurer
+11
+12
+need not recalculate the insurance score or obtain the
+12
+13
+updated credit report of a consumer more frequently
+13
+14
+than once in a twelve-month period,
+14
+15
+b. the insurer shall have the discretion to obtain
+15
+16
+current credit information upon any renewal before the
+16
+17
+thirty-six (36) months, if consistent with its
+17
+18
+underwriting guidelines, and
+18
+19
+c. no insurer need obtain current credit information for
+19
+20
+an insured, despite the requirements of paragraph 7 of
+20
+21
+this section, if one of the following applies:
+21
+22
+(1) the insurer is treating the consumer as otherwise
+22
+23
+approved by the Commissioner,
+23
+24
+24
+Req. No. 2756 Page 3
+1
+(2) the insured is in the most favorably priced tier
+1
+2
+of the insurer, within a group of affiliated
+2
+3
+insurers. However, the insurer shall have the
+3
+4
+discretion to order a report, if consistent with
+4
+5
+its underwriting guidelines,
+5
+6
+(3) credit was not used for underwriting or rating
+6
+7
+the insured when the policy was initially
+7
+8
+written. However, the insurer shall have the
+8
+9
+discretion to use credit for underwriting or
+9
+10
+rating the insured upon renewal, if consistent
+10
+11
+with its underwriting guidelines, or
+11
+12
+(4) the insurer reevaluates the insured beginning no
+12
+13
+later than thirty-six (36) months after inception
+13
+14
+and thereafter based upon other underwriting or
+14
+15
+rating factors, excluding credit information; and
+15
+16
+
+Section 13:
+8. Use the following as a negative factor in any insurance
+16
+17
+scoring methodology or in reviewing credit information for the
+17
+18
+purpose of underwriting or rating a policy of personal insurance:
+18
+19
+a. credit inquiries not initiated by the consumer or
+19
+20
+inquiries requested by the consumer for the credit
+20
+21
+information of the consumer,
+21
+22
+b. inquiries relating to insurance coverage, if so
+22
+23
+identified on a credit report of the consumer,
+23
+24
+24
+Req. No. 2756 Page 4
+1
+c. collection accounts with a medical industry code, if
+1
+2
+so identified on the credit report of the consumer,
+2
+3
+d. multiple lender inquiries, if coded by the consumer
+3
+4
+reporting agency on the credit report of the consumer
+4
+5
+as being from the home mortgage industry and made
+5
+6
+within thirty (30) days of one another, unless only
+6
+7
+one inquiry is considered, and
+7
+8
+e. multiple lender inquiries, if coded by the consumer
+8
+9
+reporting agency on the credit report of the consumer
+9
+10
+as being from the automobile lending industry and made
+10
+11
+within thirty (30) days of one another, unless only
+11
+12
+one inquiry is considered.
+12
+13
+
+Section 14:
+SECTION 2. AMENDATORY 36 O.S. 2021, Section 959, is
+13
+14
+amended to read as follows:
+14
+15
+
+Section 15:
+Section 959. A. No consumer reporting agency shall provide or
+15
+16
+sell data or lists that include any information that in whole or in
+16
+17
+part was submitted in conjunction with an insurance inquiry about a
+17
+18
+consumer’s credit information or a request for a credit report or
+18
+19
+insurance score. Such information includes, but is not limited to,
+19
+20
+the expiration dates of an insurance policy or any other information
+20
+21
+that may identify time periods during which a consumer’s insurance
+21
+22
+may expire and the terms and conditions of the consumer’s insurance
+22
+23
+coverage.
+23
+24
+24
+Req. No. 2756 Page 5
+1
+B. The restrictions provided in subsection A of this section do
+1
+2
+not apply to data or lists the consumer reporting agency supplies to
+2
+3
+the insurance agent from whom information was received, the insurer
+3
+4
+on whose behalf such agent acted, or such insurer’s affiliates or
+4
+5
+holding companies.
+5
+6
+C. Nothing in this section shall be construed to restrict any
+6
+7
+insurer from being able to obtain a claims history report or a motor
+7
+8
+vehicle report.
+8
+9
+
+Section 16:
+SECTION 3. REPEALER 36 O.S. 2021, Sections 953.1, 954,
+9
+10
+955, 956, 957, and 958 are hereby repealed.
+10
+11
+
+Section 17:
+SECTION 4. This act shall become effective November 1, 2026.
+11
+12
+12
+13
+60-2-2756 CAD 1/6/2026 4:17:39 PM
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2756 Page 6
+[DELETED:  P B K]
+[DELETED:  P t t e]
+[DELETED:  P a t n t]
+[DELETED:  P t c t c i]
+[DELETED:  P c m m]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1435 By: Kirt
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to insurance; amending 36 O.S. 2021,
+7
+Sections 953 and 959, which relate to use of credit
+8
+information and sale of data or lists by consumer
+8
+reporting agencies; prohibiting the use of credit
+9
+information to underwrite or rate risks; applying
+9
+certain provisions to certain data or lists;
+10
+repealing 36 O.S. 2021, Sections 953.1, 954, 955,
+10
+956, 957, and 958, which relate to use of credit
+11
+information in personal insurance; and providing an
+11
+effective date.
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+SECTION 1. AMENDATORY 36 O.S. 2021, Section 953, is
+15
+16
+amended to read as follows:
+16
+17
+Section 953. An insurer authorized to do business in this state
+17
+18
+that uses shall not use credit information to underwrite or rate
+18
+19
+risks, shall not:
+19
+20
+1. Use an insurance score that is calculated using income,
+20
+21
+gender, address, zip code, ethnic group, religion, marital status,
+21
+22
+or nationality of the consumer as a factor;
+22
+23
+2. Deny, cancel or fail to renew a policy of personal insurance
+23
+24
+solely on the basis of credit information, without consideration of
+24
+Req. No. 2756 Page 1
+
+1
+any other applicable underwriting factor independent of credit
+1
+2
+information and not expressly prohibited by paragraph 1 of this
+2
+3
+section;
+3
+4
+3. Base renewal rates for personal insurance of an insured
+4
+5
+solely upon credit information, without consideration of any other
+5
+6
+applicable factor independent of credit information;
+6
+7
+4. Take adverse action against a consumer solely because the
+7
+8
+consumer does not have a credit card account, without consideration
+8
+9
+of any other applicable factor independent of credit information;
+9
+10
+5. Consider an absence of credit information or an inability to
+10
+11
+calculate an insurance score in underwriting or rating personal
+11
+12
+insurance, unless the insurer does one of the following:
+12
+13
+a. treats the consumer as otherwise approved by the
+13
+14
+Insurance Commissioner, if the insurer presents
+14
+15
+information that an absence or inability relates to
+15
+16
+the risk for the insurer,
+16
+17
+b. treats the consumer as if the applicant or insured had
+17
+18
+neutral credit information, as defined by the insurer,
+18
+19
+or
+19
+20
+c. excludes the use of credit information as a factor and
+20
+21
+use only other underwriting criteria;
+21
+22
+6. Take an adverse action against a consumer based on credit
+22
+23
+information, unless an insurer obtains and uses a credit report
+23
+24
+24
+Req. No. 2756 Page 2
+
+1
+issued or an insurance score calculated within ninety (90) days from
+1
+2
+the date the policy is first written or renewal is issued;
+2
+3
+7. Use credit information unless not later than every thirty-
+3
+4
+six (36) months following the last time that the insurer obtained
+4
+5
+current credit information for the insured, the insurer recalculates
+5
+6
+the insurance score or obtains an updated credit report. Regardless
+6
+7
+of the requirements of this subsection:
+7
+8
+a. at annual renewal, upon the request of a consumer or
+8
+9
+the agent of the consumer, the insurer shall
+9
+10
+reunderwrite and rerate the policy based upon a
+10
+11
+current credit report or insurance score. An insurer
+11
+12
+need not recalculate the insurance score or obtain the
+12
+13
+updated credit report of a consumer more frequently
+13
+14
+than once in a twelve-month period,
+14
+15
+b. the insurer shall have the discretion to obtain
+15
+16
+current credit information upon any renewal before the
+16
+17
+thirty-six (36) months, if consistent with its
+17
+18
+underwriting guidelines, and
+18
+19
+c. no insurer need obtain current credit information for
+19
+20
+an insured, despite the requirements of paragraph 7 of
+20
+21
+this section, if one of the following applies:
+21
+22
+(1) the insurer is treating the consumer as otherwise
+22
+23
+approved by the Commissioner,
+23
+24
+24
+Req. No. 2756 Page 3
+
+1
+(2) the insured is in the most favorably priced tier
+1
+2
+of the insurer, within a group of affiliated
+2
+3
+insurers. However, the insurer shall have the
+3
+4
+discretion to order a report, if consistent with
+4
+5
+its underwriting guidelines,
+5
+6
+(3) credit was not used for underwriting or rating
+6
+7
+the insured when the policy was initially
+7
+8
+written. However, the insurer shall have the
+8
+9
+discretion to use credit for underwriting or
+9
+10
+rating the insured upon renewal, if consistent
+10
+11
+with its underwriting guidelines, or
+11
+12
+(4) the insurer reevaluates the insured beginning no
+12
+13
+later than thirty-six (36) months after inception
+13
+14
+and thereafter based upon other underwriting or
+14
+15
+rating factors, excluding credit information; and
+15
+16
+8. Use the following as a negative factor in any insurance
+16
+17
+scoring methodology or in reviewing credit information for the
+17
+18
+purpose of underwriting or rating a policy of personal insurance:
+18
+19
+a. credit inquiries not initiated by the consumer or
+19
+20
+inquiries requested by the consumer for the credit
+20
+21
+information of the consumer,
+21
+22
+b. inquiries relating to insurance coverage, if so
+22
+23
+identified on a credit report of the consumer,
+23
+24
+24
+Req. No. 2756 Page 4
+
+1
+c. collection accounts with a medical industry code, if
+1
+2
+so identified on the credit report of the consumer,
+2
+3
+d. multiple lender inquiries, if coded by the consumer
+3
+4
+reporting agency on the credit report of the consumer
+4
+5
+as being from the home mortgage industry and made
+5
+6
+within thirty (30) days of one another, unless only
+6
+7
+one inquiry is considered, and
+7
+8
+e. multiple lender inquiries, if coded by the consumer
+8
+9
+reporting agency on the credit report of the consumer
+9
+10
+as being from the automobile lending industry and made
+10
+11
+within thirty (30) days of one another, unless only
+11
+12
+one inquiry is considered.
+12
+13
+SECTION 2. AMENDATORY 36 O.S. 2021, Section 959, is
+13
+14
+amended to read as follows:
+14
+15
+Section 959. A. No consumer reporting agency shall provide or
+15
+16
+sell data or lists that include any information that in whole or in
+16
+17
+part was submitted in conjunction with an insurance inquiry about a
+17
+18
+consumer’s credit information or a request for a credit report or
+18
+19
+insurance score. Such information includes, but is not limited to,
+19
+20
+the expiration dates of an insurance policy or any other information
+20
+21
+that may identify time periods during which a consumer’s insurance
+21
+22
+may expire and the terms and conditions of the consumer’s insurance
+22
+23
+coverage.
+23
+24
+24
+Req. No. 2756 Page 5
+
+1
+B. The restrictions provided in subsection A of this section do
+1
+2
+not apply to data or lists the consumer reporting agency supplies to
+2
+3
+the insurance agent from whom information was received, the insurer
+3
+4
+on whose behalf such agent acted, or such insurer’s affiliates or
+4
+5
+holding companies.
+5
+6
+C. Nothing in this section shall be construed to restrict any
+6
+7
+insurer from being able to obtain a claims history report or a motor
+7
+8
+vehicle report.
+8
+9
+SECTION 3. REPEALER 36 O.S. 2021, Sections 953.1, 954,
+9
+10
+955, 956, 957, and 958 are hereby repealed.
+10
+11
+SECTION 4. This act shall become effective November 1, 2026.
+11
+12
+12
+13
+60-2-2756 CAD 1/6/2026 4:17:39 PM
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2756 Page 6
+
+[DELETED:  P B K]
+[DELETED:  P t t e]
+[DELETED:  P a t n t]
+[DELETED:  P t c t c i]
+[DELETED:  P c m m]
+[DELETED:  P C 1]

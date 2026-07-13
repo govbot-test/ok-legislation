@@ -1,0 +1,950 @@
+Title: SENATE BILL 2102 By: Thompson
+Official Title: SENATE BILL 2102 By: Thompson
+Number of Sections: 27
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to credit card transactions; defining
+7
+terms; prohibiting certain credit card issuers from
+8
+fixing or charging certain fees; prohibiting credit
+8
+card issuers from penalizing certain merchants;
+9
+requiring certain credit card issuer to disclose
+9
+certain information on swipe fees; prohibiting
+10
+certain payment card network from fixing or charging
+10
+certain fees; prohibiting payment card network from
+11
+penalizing certain merchant; requiring certain
+11
+disclosures by payment card networks; authorizing
+12
+promulgation of rules by the Attorney General;
+12
+providing certain civil penalties; allowing filing of
+13
+certain suit by the Attorney General; providing for
+13
+codification; and providing an effective date.
+14
+14
+15
+15
+16
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+16
+17
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+17
+18
+in the Oklahoma Statutes as Section 2-701 of Title 14A, unless there
+18
+19
+is created a duplication in numbering, reads as follows:
+19
+20
+As used in this act:
+20
+21
+
+Section 3:
+1. “Assessment fee” means a fee paid to the payment card
+21
+22
+network for allowing a merchant to use a payment card or other
+22
+23
+payment code or device in a credit card transaction;
+23
+24
+24
+Req. No. 2485 Page 1
+1
+
+Section 4:
+2. “Cardholder” means the person named on the face of a credit
+1
+2
+card to whom or for whose benefit the credit card is issued;
+2
+3
+
+Section 5:
+3. “Credit card” means a card or device issued under an
+3
+4
+agreement by which the credit card issuer gives to a cardholder the
+4
+5
+right to obtain credit from the issuer or another person;
+5
+6
+
+Section 6:
+4. “Credit card issuer” means a lender, including a financial
+6
+7
+institution or a merchant that receives applications and issues
+7
+8
+credit cards to individuals;
+8
+9
+
+Section 7:
+5. “Credit card transaction” means a transaction in which a
+9
+10
+person uses a credit card or other payment code or device issued or
+10
+11
+approved through a payment card network to use a line of credit,
+11
+12
+whether authorization is based on a signature, personal
+12
+13
+identification number, or other means;
+13
+14
+
+Section 8:
+6. “Fee schedule” means any schedule, list, table, chart, or
+14
+15
+similar document or agreement that sets forth or fixes the amount or
+15
+16
+the formula for determining the amount of fee rates;
+16
+17
+
+Section 9:
+7. “Interchange fee” means a fee charged to a merchant for the
+17
+18
+purpose of compensating the credit card issuer for the issuer’s
+18
+19
+involvement in a credit card transaction;
+19
+20
+
+Section 10:
+8. “Merchant” means a person who accepts payment for goods or
+20
+21
+services through a credit card transaction;
+21
+22
+
+Section 11:
+9. “Payment card network” means an entity that directly or
+22
+23
+through a licensed member, processor, or agent provides the
+23
+24
+proprietary services, infrastructure, and software that:
+24
+Req. No. 2485 Page 2
+1
+a. routes information and data to conduct a credit card
+1
+2
+transaction authorization, clearance, and settlement,
+2
+3
+and
+3
+4
+b. the entity uses to accept as a form of payment, a
+4
+5
+brand of credit card or other device that may be used
+5
+6
+to carry out credit card transactions; and
+6
+7
+
+Section 12:
+10. “Swipe fee” means the interchange fee and, if applicable,
+7
+8
+the assessment fee.
+8
+9
+
+Section 13:
+SECTION 2. NEW LAW A new section of law to be codified
+9
+10
+in the Oklahoma Statutes as Section 2-702 of Title 14A, unless there
+10
+11
+is created a duplication in numbering, reads as follows:
+11
+12
+A. A credit card issuer that, together with any affiliates, has
+12
+13
+consolidated worldwide banking and nonbanking assets, including
+13
+14
+affiliate assets, other than trust assets under management, of more
+14
+15
+than Eighty-five Billion Dollars ($85,000,000,000.00) at any point
+15
+16
+during the previous calendar year shall not:
+16
+17
+
+Section 14:
+1. Fix or conspire to fix a swipe fee with or on behalf of
+17
+18
+another credit card issuer or payment card network;
+18
+19
+
+Section 15:
+2. Receive or charge an interchange fee with respect to a
+19
+20
+credit card transaction in an amount that is included on or
+20
+21
+determined by a fee schedule that:
+21
+22
+a. has been fixed, established, or recommended by a
+22
+23
+payment card network, or
+23
+24
+24
+Req. No. 2485 Page 3
+1
+b. the credit card issuer knows, or reasonably should
+1
+2
+know, is being used in the same calendar year by
+2
+3
+another credit card issuer to determine the amount of
+3
+4
+an interchange fee with respect to a credit card
+4
+5
+transaction that such issuer receives or charges;
+5
+6
+
+Section 16:
+3. Charge a cardholder or a merchant a fee due to a disputed
+6
+7
+credit card transaction unless a finding of fact concludes that the
+7
+8
+cardholder or merchant is responsible for the disputed transaction
+8
+9
+and the cardholder or merchant is provided written notification of
+9
+10
+the finding of fact; or
+10
+11
+
+Section 17:
+4. Prohibit or penalize a merchant that offers a cardholder a
+11
+12
+discount for using cash, a debit card, or a gift card instead of a
+12
+13
+credit card for payment.
+13
+14
+B. A credit card issuer shall disclose in a clear and
+14
+15
+conspicuous manner on a monthly statement sent to a cardholder that
+15
+16
+has been issued a credit card by the credit card issuer the amount
+16
+17
+of the swipe fee charged to the cardholder on a credit card
+17
+18
+transaction if one or more swipe fees have been charged to the
+18
+19
+cardholder on a credit card transaction.
+19
+20
+C. A payment card network shall not:
+20
+21
+
+Section 18:
+1. Fix or conspire to fix a swipe fee with or on behalf of
+21
+22
+another credit card issuer or payment card network;
+22
+23
+
+Section 19:
+2. Require a merchant to accept as payment any credit card
+23
+24
+issued by the credit card issuer;
+24
+Req. No. 2485 Page 4
+1
+
+Section 20:
+3. Charge a cardholder or a merchant a fee due to disputed
+1
+2
+credit card transactions unless a finding of fact concludes that the
+2
+3
+cardholder or merchant is responsible for the disputed credit card
+3
+4
+transaction and the cardholder or merchant is provided written
+4
+5
+notification of the finding of fact; or
+5
+6
+
+Section 21:
+4. Prohibit or penalize a merchant that offers a cardholder a
+6
+7
+discount for using cash, a debit card, or a gift card instead of a
+7
+8
+credit card for payment.
+8
+9
+D. A payment card network shall disclose not less than forty-
+9
+10
+five (45) days after the date of the credit card transaction, in a
+10
+11
+clear and conspicuous manner to the merchant or another person who
+11
+12
+assists the merchant in processing credit card transactions and who
+12
+13
+has been designated by the merchant to receive the disclosures, the
+13
+14
+rate and total amount of each swipe fee or other fee charged on each
+14
+15
+credit card transaction.
+15
+16
+
+Section 22:
+SECTION 3. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 2-703 of Title 14A, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+A. The Attorney General may promulgate rules necessary for the
+19
+20
+enforcement of this act.
+20
+21
+B. The Attorney General may investigate any violation of this
+21
+22
+act and may impose fines not to exceed:
+22
+23
+
+Section 23:
+1. Three Hundred Thousand Dollars ($300,000.00) for an
+23
+24
+individual;
+24
+Req. No. 2485 Page 5
+1
+
+Section 24:
+2. Three Million Dollars ($3,000,000.00) for an entity, if the
+1
+2
+lesser of the entity’s assets or market capitalization is less than
+2
+3
+Ten Million Dollars ($10,000,000.00);
+3
+4
+
+Section 25:
+3. Twenty Million Dollars ($20,000,000.00) for an entity, if
+4
+5
+the lesser of the entity’s assets or market capitalization is at
+5
+6
+least One Hundred Million Dollars ($100,000,000.00) but less than
+6
+7
+Five Hundred Million Dollars ($500,000,000.00); or
+7
+8
+
+Section 26:
+4. Thirty Million Dollars ($30,000,000.00) for an entity, if
+8
+9
+the lesser of the entity’s assets or market capitalization is Five
+9
+10
+Hundred Million Dollars ($500,000,000.00) or more.
+10
+11
+C. The Attorney General may file an action in a court of
+11
+12
+competent jurisdiction against any person in a judicial district in
+12
+13
+which any of the named defendants resides, does business, or
+13
+14
+maintains its principal place of business on behalf of this state to
+14
+15
+enjoin temporarily or permanently any activity or contemplated
+15
+16
+activity that violates or threatens to violate this act.
+16
+17
+
+Section 27:
+SECTION 4. This act shall become effective November 1, 2026.
+17
+18
+18
+19
+60-2-2485 CAD 1/15/2026 12:35:45 PM
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2485 Page 6
+[DELETED:  P B T]
+[DELETED:  P]
+[DELETED:  P r t h]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 2102 By: Thompson
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to credit card transactions; defining
+7
+terms; prohibiting certain credit card issuers from
+8
+fixing or charging certain fees; prohibiting credit
+8
+card issuers from penalizing certain merchants;
+9
+requiring certain credit card issuer to disclose
+9
+certain information on swipe fees; prohibiting
+10
+certain payment card network from fixing or charging
+10
+certain fees; prohibiting payment card network from
+11
+penalizing certain merchant; requiring certain
+11
+disclosures by payment card networks; authorizing
+12
+promulgation of rules by the Attorney General;
+12
+providing certain civil penalties; allowing filing of
+13
+certain suit by the Attorney General; providing for
+13
+codification; and providing an effective date.
+14
+14
+15
+15
+16
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+16
+17
+SECTION 1. NEW LAW A new section of law to be codified
+17
+18
+in the Oklahoma Statutes as Section 2-701 of Title 14A, unless there
+18
+19
+is created a duplication in numbering, reads as follows:
+19
+20
+As used in this act:
+20
+21
+1. “Assessment fee” means a fee paid to the payment card
+21
+22
+network for allowing a merchant to use a payment card or other
+22
+23
+payment code or device in a credit card transaction;
+23
+24
+24
+Req. No. 2485 Page 1
+
+1
+2. “Cardholder” means the person named on the face of a credit
+1
+2
+card to whom or for whose benefit the credit card is issued;
+2
+3
+3. “Credit card” means a card or device issued under an
+3
+4
+agreement by which the credit card issuer gives to a cardholder the
+4
+5
+right to obtain credit from the issuer or another person;
+5
+6
+4. “Credit card issuer” means a lender, including a financial
+6
+7
+institution or a merchant that receives applications and issues
+7
+8
+credit cards to individuals;
+8
+9
+5. “Credit card transaction” means a transaction in which a
+9
+10
+person uses a credit card or other payment code or device issued or
+10
+11
+approved through a payment card network to use a line of credit,
+11
+12
+whether authorization is based on a signature, personal
+12
+13
+identification number, or other means;
+13
+14
+6. “Fee schedule” means any schedule, list, table, chart, or
+14
+15
+similar document or agreement that sets forth or fixes the amount or
+15
+16
+the formula for determining the amount of fee rates;
+16
+17
+7. “Interchange fee” means a fee charged to a merchant for the
+17
+18
+purpose of compensating the credit card issuer for the issuer’s
+18
+19
+involvement in a credit card transaction;
+19
+20
+8. “Merchant” means a person who accepts payment for goods or
+20
+21
+services through a credit card transaction;
+21
+22
+9. “Payment card network” means an entity that directly or
+22
+23
+through a licensed member, processor, or agent provides the
+23
+24
+proprietary services, infrastructure, and software that:
+24
+Req. No. 2485 Page 2
+
+1
+a. routes information and data to conduct a credit card
+1
+2
+transaction authorization, clearance, and settlement,
+2
+3
+and
+3
+4
+b. the entity uses to accept as a form of payment, a
+4
+5
+brand of credit card or other device that may be used
+5
+6
+to carry out credit card transactions; and
+6
+7
+10. “Swipe fee” means the interchange fee and, if applicable,
+7
+8
+the assessment fee.
+8
+9
+SECTION 2. NEW LAW A new section of law to be codified
+9
+10
+in the Oklahoma Statutes as Section 2-702 of Title 14A, unless there
+10
+11
+is created a duplication in numbering, reads as follows:
+11
+12
+A. A credit card issuer that, together with any affiliates, has
+12
+13
+consolidated worldwide banking and nonbanking assets, including
+13
+14
+affiliate assets, other than trust assets under management, of more
+14
+15
+than Eighty-five Billion Dollars ($85,000,000,000.00) at any point
+15
+16
+during the previous calendar year shall not:
+16
+17
+1. Fix or conspire to fix a swipe fee with or on behalf of
+17
+18
+another credit card issuer or payment card network;
+18
+19
+2. Receive or charge an interchange fee with respect to a
+19
+20
+credit card transaction in an amount that is included on or
+20
+21
+determined by a fee schedule that:
+21
+22
+a. has been fixed, established, or recommended by a
+22
+23
+payment card network, or
+23
+24
+24
+Req. No. 2485 Page 3
+
+1
+b. the credit card issuer knows, or reasonably should
+1
+2
+know, is being used in the same calendar year by
+2
+3
+another credit card issuer to determine the amount of
+3
+4
+an interchange fee with respect to a credit card
+4
+5
+transaction that such issuer receives or charges;
+5
+6
+3. Charge a cardholder or a merchant a fee due to a disputed
+6
+7
+credit card transaction unless a finding of fact concludes that the
+7
+8
+cardholder or merchant is responsible for the disputed transaction
+8
+9
+and the cardholder or merchant is provided written notification of
+9
+10
+the finding of fact; or
+10
+11
+4. Prohibit or penalize a merchant that offers a cardholder a
+11
+12
+discount for using cash, a debit card, or a gift card instead of a
+12
+13
+credit card for payment.
+13
+14
+B. A credit card issuer shall disclose in a clear and
+14
+15
+conspicuous manner on a monthly statement sent to a cardholder that
+15
+16
+has been issued a credit card by the credit card issuer the amount
+16
+17
+of the swipe fee charged to the cardholder on a credit card
+17
+18
+transaction if one or more swipe fees have been charged to the
+18
+19
+cardholder on a credit card transaction.
+19
+20
+C. A payment card network shall not:
+20
+21
+1. Fix or conspire to fix a swipe fee with or on behalf of
+21
+22
+another credit card issuer or payment card network;
+22
+23
+2. Require a merchant to accept as payment any credit card
+23
+24
+issued by the credit card issuer;
+24
+Req. No. 2485 Page 4
+
+1
+3. Charge a cardholder or a merchant a fee due to disputed
+1
+2
+credit card transactions unless a finding of fact concludes that the
+2
+3
+cardholder or merchant is responsible for the disputed credit card
+3
+4
+transaction and the cardholder or merchant is provided written
+4
+5
+notification of the finding of fact; or
+5
+6
+4. Prohibit or penalize a merchant that offers a cardholder a
+6
+7
+discount for using cash, a debit card, or a gift card instead of a
+7
+8
+credit card for payment.
+8
+9
+D. A payment card network shall disclose not less than forty-
+9
+10
+five (45) days after the date of the credit card transaction, in a
+10
+11
+clear and conspicuous manner to the merchant or another person who
+11
+12
+assists the merchant in processing credit card transactions and who
+12
+13
+has been designated by the merchant to receive the disclosures, the
+13
+14
+rate and total amount of each swipe fee or other fee charged on each
+14
+15
+credit card transaction.
+15
+16
+SECTION 3. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 2-703 of Title 14A, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+A. The Attorney General may promulgate rules necessary for the
+19
+20
+enforcement of this act.
+20
+21
+B. The Attorney General may investigate any violation of this
+21
+22
+act and may impose fines not to exceed:
+22
+23
+1. Three Hundred Thousand Dollars ($300,000.00) for an
+23
+24
+individual;
+24
+Req. No. 2485 Page 5
+
+1
+2. Three Million Dollars ($3,000,000.00) for an entity, if the
+1
+2
+lesser of the entity’s assets or market capitalization is less than
+2
+3
+Ten Million Dollars ($10,000,000.00);
+3
+4
+3. Twenty Million Dollars ($20,000,000.00) for an entity, if
+4
+5
+the lesser of the entity’s assets or market capitalization is at
+5
+6
+least One Hundred Million Dollars ($100,000,000.00) but less than
+6
+7
+Five Hundred Million Dollars ($500,000,000.00); or
+7
+8
+4. Thirty Million Dollars ($30,000,000.00) for an entity, if
+8
+9
+the lesser of the entity’s assets or market capitalization is Five
+9
+10
+Hundred Million Dollars ($500,000,000.00) or more.
+10
+11
+C. The Attorney General may file an action in a court of
+11
+12
+competent jurisdiction against any person in a judicial district in
+12
+13
+which any of the named defendants resides, does business, or
+13
+14
+maintains its principal place of business on behalf of this state to
+14
+15
+enjoin temporarily or permanently any activity or contemplated
+15
+16
+activity that violates or threatens to violate this act.
+16
+17
+SECTION 4. This act shall become effective November 1, 2026.
+17
+18
+18
+19
+60-2-2485 CAD 1/15/2026 12:35:45 PM
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2485 Page 6
+
+[DELETED:  P B T]
+[DELETED:  P]
+[DELETED:  P r t h]
+[DELETED:  P t]
+[DELETED:  P]
+[DELETED:  P C 1]

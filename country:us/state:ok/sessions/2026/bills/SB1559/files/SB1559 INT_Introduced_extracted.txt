@@ -1,0 +1,487 @@
+Title: SENATE BILL 1559 By: McIntosh
+Official Title: SENATE BILL 1559 By: McIntosh
+Number of Sections: 16
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the state Medicaid program;
+7
+defining term; requiring the Oklahoma Health Care
+8
+Authority to conduct certain pilot program;
+8
+describing pilot program; stipulating certain
+9
+requirements related to contracts; requiring certain
+9
+competitive bidding process; providing certain
+10
+qualifications for direct primary care providers;
+10
+requiring certain annual reports; providing for
+11
+codification; and providing an effective date.
+11
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+15
+16
+in the Oklahoma Statutes as Section 1011.16 of Title 56, unless
+16
+17
+there is created a duplication in numbering, reads as follows:
+17
+18
+A. As used in this section, “direct primary care provider” has
+18
+19
+the same meaning as provided in Section 4605 of Title 36 of the
+19
+20
+Oklahoma Statutes.
+20
+21
+B. The Oklahoma Health Care Authority shall conduct a pilot
+21
+22
+program to test a direct primary care model for members of the state
+22
+23
+Medicaid program as provided in this section. The pilot program
+23
+24
+shall:
+24
+Req. No. 2385 Page 1
+1
+
+Section 3:
+1. Operate for a period of thirty-six (36) months, beginning no
+1
+2
+later than six (6) months following the effective date of this act;
+2
+3
+
+Section 4:
+2. Serve a cohort of up to one thousand Medicaid beneficiaries;
+3
+4
+
+Section 5:
+3. Include one or more direct primary care providers, selected
+4
+5
+based on criteria established by the Authority; and
+5
+6
+
+Section 6:
+4. Utilize per-member-per-month payments to direct primary care
+6
+7
+providers and quality benchmarks compliant with federal regulations
+7
+8
+to promote value-based care.
+8
+9
+C. Contracts entered into for the pilot program established
+9
+10
+under this section shall:
+10
+11
+
+Section 7:
+1. Be executed directly between the Oklahoma Health Care
+11
+12
+Authority and one or more direct primary care providers, independent
+12
+13
+of capitated contracts entered into by the Authority and contracted
+13
+14
+entities under the Ensuring Access to Medicaid Act;
+14
+15
+
+Section 8:
+2. Specify:
+15
+16
+a. the primary care services to be provided,
+16
+17
+b. the target populations to be served,
+17
+18
+c. the terms of per-member-per-month payments for direct
+18
+19
+primary care providers, and
+19
+20
+d. quality benchmarks to ensure accountability and
+20
+21
+performance; and
+21
+22
+
+Section 9:
+3. Be compliant with federal regulations including 42 C.F.R.,
+22
+23
+Part 438.
+23
+24
+24
+Req. No. 2385 Page 2
+1
+D. 1. The Authority shall establish a competitive bidding
+1
+2
+process to select direct primary care providers for the pilot
+2
+3
+program. The selection process shall account for the distinct
+3
+4
+operational model of direct primary care, facilitating effective
+4
+5
+integration of direct primary care into the Medicaid framework.
+5
+6
+
+Section 10:
+2. To qualify for the pilot program, a direct primary care
+6
+7
+provider shall meet federal enrollment and quality standards as
+7
+8
+provided in 42 C.F.R., Section 455.410 and 42 C.F.R., Part 438, with
+8
+9
+credentialing processes tailored to accommodate the noninsurance
+9
+10
+framework of direct primary care.
+10
+11
+E. During the operation of and at the conclusion of the pilot
+11
+12
+program, the Authority shall electronically submit annual reports to
+12
+13
+the President Pro Tempore of the Senate, the Speaker of the House of
+13
+14
+Representatives, and the Governor detailing:
+14
+15
+
+Section 11:
+1. Access to primary care services;
+15
+16
+
+Section 12:
+2. Patient satisfaction;
+16
+17
+
+Section 13:
+3. Clinical outcomes;
+17
+18
+
+Section 14:
+4. Cost outcomes; and
+18
+19
+
+Section 15:
+5. Recommendations for policy changes, particularly regarding
+19
+20
+the integration of direct primary care models into the state
+20
+21
+Medicaid program.
+21
+22
+
+Section 16:
+SECTION 2. This act shall become effective November 1, 2026.
+22
+23
+23
+24
+60-2-2385 DC 1/12/2026 6:45:16 PM
+24
+Req. No. 2385 Page 3
+[DELETED:  P B M]
+[DELETED:  P t t t q]
+[DELETED:  P D 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1559 By: McIntosh
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the state Medicaid program;
+7
+defining term; requiring the Oklahoma Health Care
+8
+Authority to conduct certain pilot program;
+8
+describing pilot program; stipulating certain
+9
+requirements related to contracts; requiring certain
+9
+competitive bidding process; providing certain
+10
+qualifications for direct primary care providers;
+10
+requiring certain annual reports; providing for
+11
+codification; and providing an effective date.
+11
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+SECTION 1. NEW LAW A new section of law to be codified
+15
+16
+in the Oklahoma Statutes as Section 1011.16 of Title 56, unless
+16
+17
+there is created a duplication in numbering, reads as follows:
+17
+18
+A. As used in this section, “direct primary care provider” has
+18
+19
+the same meaning as provided in Section 4605 of Title 36 of the
+19
+20
+Oklahoma Statutes.
+20
+21
+B. The Oklahoma Health Care Authority shall conduct a pilot
+21
+22
+program to test a direct primary care model for members of the state
+22
+23
+Medicaid program as provided in this section. The pilot program
+23
+24
+shall:
+24
+Req. No. 2385 Page 1
+
+1
+1. Operate for a period of thirty-six (36) months, beginning no
+1
+2
+later than six (6) months following the effective date of this act;
+2
+3
+2. Serve a cohort of up to one thousand Medicaid beneficiaries;
+3
+4
+3. Include one or more direct primary care providers, selected
+4
+5
+based on criteria established by the Authority; and
+5
+6
+4. Utilize per-member-per-month payments to direct primary care
+6
+7
+providers and quality benchmarks compliant with federal regulations
+7
+8
+to promote value-based care.
+8
+9
+C. Contracts entered into for the pilot program established
+9
+10
+under this section shall:
+10
+11
+1. Be executed directly between the Oklahoma Health Care
+11
+12
+Authority and one or more direct primary care providers, independent
+12
+13
+of capitated contracts entered into by the Authority and contracted
+13
+14
+entities under the Ensuring Access to Medicaid Act;
+14
+15
+2. Specify:
+15
+16
+a. the primary care services to be provided,
+16
+17
+b. the target populations to be served,
+17
+18
+c. the terms of per-member-per-month payments for direct
+18
+19
+primary care providers, and
+19
+20
+d. quality benchmarks to ensure accountability and
+20
+21
+performance; and
+21
+22
+3. Be compliant with federal regulations including 42 C.F.R.,
+22
+23
+Part 438.
+23
+24
+24
+Req. No. 2385 Page 2
+
+1
+D. 1. The Authority shall establish a competitive bidding
+1
+2
+process to select direct primary care providers for the pilot
+2
+3
+program. The selection process shall account for the distinct
+3
+4
+operational model of direct primary care, facilitating effective
+4
+5
+integration of direct primary care into the Medicaid framework.
+5
+6
+2. To qualify for the pilot program, a direct primary care
+6
+7
+provider shall meet federal enrollment and quality standards as
+7
+8
+provided in 42 C.F.R., Section 455.410 and 42 C.F.R., Part 438, with
+8
+9
+credentialing processes tailored to accommodate the noninsurance
+9
+10
+framework of direct primary care.
+10
+11
+E. During the operation of and at the conclusion of the pilot
+11
+12
+program, the Authority shall electronically submit annual reports to
+12
+13
+the President Pro Tempore of the Senate, the Speaker of the House of
+13
+14
+Representatives, and the Governor detailing:
+14
+15
+1. Access to primary care services;
+15
+16
+2. Patient satisfaction;
+16
+17
+3. Clinical outcomes;
+17
+18
+4. Cost outcomes; and
+18
+19
+5. Recommendations for policy changes, particularly regarding
+19
+20
+the integration of direct primary care models into the state
+20
+21
+Medicaid program.
+21
+22
+SECTION 2. This act shall become effective November 1, 2026.
+22
+23
+23
+24
+60-2-2385 DC 1/12/2026 6:45:16 PM
+24
+Req. No. 2385 Page 3
+
+[DELETED:  P B M]
+[DELETED:  P t t t q]
+[DELETED:  P D 1]

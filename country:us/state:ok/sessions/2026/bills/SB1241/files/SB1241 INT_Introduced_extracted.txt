@@ -1,0 +1,923 @@
+Title: 3 SENATE BILL 1241 By: Coleman
+Official Title: 3 SENATE BILL 1241 By: Coleman
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+1
+2 2nd Session of the 60th Legislature (2026)
+2
+3
+4
+4
+5
+5
+6 AS INTRODUCED
+6
+7 An Act relating to ticket sales; creating the
+7 Oklahoma Fraud and Ticketing Accountability Act;
+8 providing short title; amending Sections 1 and 2,
+8 Chapter 218, O.S.L. 2023 (15 O.S. Supp. 2025,
+9 Sections 774 and 774.1), which relate to definitions,
+9 and prohibited use or sale of software to be used on
+10 ticket sellers’ websites; updating statutory
+10 reference; updating statutory language; defining
+11 terms; prohibiting use or creation of certain bot;
+11 requiring certain seller to disclose certain
+12 requirements at certain point; prohibiting certain
+12 seller from offering or selling certain ticket;
+13 prohibiting certain resale of certain admission
+13 ticket; allowing certain persons to restrict
+14 transferability; allowing venue operators to enforce
+14 certain policies; prohibiting certain seller from
+15 facilitating sale of ticket above certain price;
+15 requiring certain seller to issue certain refund;
+16 allowing nonprofit organization to offer certain
+16 choices for refund of certain ticket; requiring
+17 certain venue to provide certain contact information
+17 for the Attorney General; prohibiting certain use or
+18 display without authorization; prohibiting
+18 implication of certain affiliations; establishing
+19 certain violations as unfair or deceptive trade
+19 practice subject to the Oklahoma Consumer Protection
+20 Act; allowing certain persons to bring certain civil
+20 action; construing provisions; providing for
+21 noncodification; providing for codification; and
+21 providing an effective date.
+22
+22
+23
+23
+24
+24
+Req. No. 2522 Page 1
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+1
+2 SECTION 1. NEW LAW A new section of law not to be
+2
+3 codified in the Oklahoma Statutes reads as follows:
+3
+4 This act shall be known and may be cited as the “Oklahoma Fraud
+4
+5 and Ticketing Accountability Act”.
+5
+6 SECTION 2. AMENDATORY Section 1, Chapter 218, O.S.L.
+6
+7 2023 (15 O.S. Supp. 2025, Section 774), is amended to read as
+7
+8 follows:
+8
+9 Section 774. As used in this act Section 774 et seq. of this
+9
+10 title:
+10
+11 1. “Admission ticket” means any physical, electronic, or other
+11
+12 form of evidence of a right of entry to a venue or an entertainment
+12
+13 event for one or more events at a specified date and time;
+13
+14 2. “Bot” means any machine, device, computer program,
+14
+15 artificial intelligence, or software that bypasses security measures
+15
+16 or ticket purchase limits, alone or with human assistance, to
+16
+17 acquire admission tickets on a retail platform;
+17
+18 3. “Event” means a concert, theatrical performance, sporting
+18
+19 event, exhibition, show, or other similar activity held in this
+19
+20 state;
+20
+21 4. “Face value” means a price printed on the admission ticket
+21
+22 or listed by the primary ticket seller at the point of initial sale,
+22
+23 excluding taxes, service fees, or delivery charges;
+23
+24
+24
+Req. No. 2522 Page 2
+1 3. 5. “Initial sale” means the first sale of an admission
+1
+2 ticket by the ticket seller, which may include the distribution of
+2
+3 admission tickets under an agreement between the ticker ticket
+3
+4 seller and the recipient;
+4
+5 4. 6. “Person” means any individual, partnership, corporation,
+5
+6 limited liability company, other organization, or any combination
+6
+7 thereof;
+7
+8 5. 7. “Place of entertainment” means any privately or publicly
+8
+9 owned or operated entertainment facility within this state, such as
+9
+10 a theater, stadium, museum, arena, park, racetrack, or other place
+10
+11 where concerts, theatrical performances, sporting events,
+11
+12 exhibitions, shows, or other similar activities are held and for
+12
+13 which an entry fee is charged;
+13
+14 6. 8. “Presale” means a sale of admission tickets at or below
+14
+15 the price printed on the ticket by, or with the permission of, a
+15
+16 ticket seller, prior to their release to the general public;
+16
+17 9. “Primary ticket seller” means a venue, promoter, or provider
+17
+18 authorized to sell tickets to the public at the point of initial
+18
+19 sale including, but not limited to, public school districts and
+19
+20 nonprofit organizations;
+20
+21 7. 10. “Promoter” means a person who organizes financing and
+21
+22 publicity for an entertainment event; and
+22
+23 11. “Resale” means any second or subsequent sale of an
+23
+24 admission ticket, by any method including, but not limited to, in-
+24
+Req. No. 2522 Page 3
+1 pers on, telephone, electronic mail, facsimile, or electronic
+1
+2 platforms. Resale shall not include tickets returned to or
+2
+3 exchanged by the primary ticket seller;
+3
+4 12. “Reseller” means a person or entity that offers or sells an
+4
+5 admission ticket after its initial sale;
+5
+6 13. “Secondary ticket exchange” means a marketplace, online
+6
+7 platform, or other entity facilitating resale of admission tickets;
+7
+8 14. “Speculative ticket” means an admission ticket offered for
+8
+9 sale that the reseller does not own, possess, or have the
+9
+10 contractual right to deliver;
+10
+11 15. “Sports” means any athletic competition, contest, or event
+11
+12 in which individuals or teams participate in games, matches, or
+12
+13 exhibitions of skill, agility, strength, or endurance whether
+13
+14 amateur, collegiate, or professional. Sports shall not mean
+14
+15 theatrical, musical, or other live entertainment performances, even
+15
+16 if occurring in a sports venue;
+16
+17 8. 16. “Ticket seller” means a person that makes admission
+17
+18 tickets available, directly or indirectly, at an initial presale or
+18
+19 sale to the general public, and may include an owner or operator of
+19
+20 a place of entertainment, a sponsor or promoter of an event, a
+20
+21 sports team participating in an event, a theater company, a musical
+21
+22 group, or similar participant in an event, or an employee or agent
+22
+23 of any such person; and
+23
+24
+24
+Req. No. 2522 Page 4
+1 17. “Total price” means the price paid for an admission ticket,
+1
+2 including all mandatory fees, service charges, and taxes, and
+2
+3 excluding shipping charges and government-imposed fees.
+3
+4 SECTION 3. AMENDATORY Section 2, Chapter 218, O.S.L.
+4
+5 2023 (15 O.S. Supp. 2025, Section 774.1), is amended to read as
+5
+6 follows:
+6
+7 Section 774.1. A. A person shall not:
+7
+8 1. Use software or a bot to circumvent, thwart, interfere with,
+8
+9 or evade a security measure, access control system, or other control
+9
+10 measure on a ticket seller’s Internet website; or
+10
+11 2. Sell software or a bot that is advertised for profit with
+11
+12 the express purpose to circumvent, thwart, interfere with, or evade
+12
+13 a security measure, access control system, or other control or
+13
+14 measure on a ticket seller’s Internet website; or
+14
+15 3. Use or create a bot to:
+15
+16 a. purchase tickets for any single Internet admission
+16
+17 ticket sale,
+17
+18 b. use multiple Internet protocol (IP) addresses,
+18
+19 purchaser accounts, or electronic mail addresses to
+19
+20 exceed posted ticket limits, or
+20
+21 c. circumvent electronic queues, presale codes, sales
+21
+22 volume limitations, security or access control
+22
+23 measures.
+23
+24
+24
+Req. No. 2522 Page 5
+1 B. The user or seller shall be in violation of subsection A of
+1
+2 this section if the user or seller knows or should know that:
+2
+3 1. The purpose of the software or bot is to circumvent, thwart,
+3
+4 interfere with, or evade a security measure, access control system,
+4
+5 or other control or measure on a ticket seller’s Internet website in
+5
+6 order to purchase admission tickets during the initial sale or
+6
+7 presale for an event held at a place of entertainment; or
+7
+8 2. The use of the software or bot led to the admission tickets
+8
+9 being resold on the initial seller’s Internet website or an Internet
+9
+10 site used for the resell resale of admission tickets for a price
+10
+11 above the admission ticket’s initial cost.
+11
+12 C. Any violation of this section shall constitute an unlawful
+12
+13 business unfair or deceptive trade practice and shall be subject to
+13
+14 the provisions of the Oklahoma Consumer Protection Act.
+14
+15 SECTION 4. NEW LAW A new section of law to be codified
+15
+16 in the Oklahoma Statutes as Section 774.2 of Title 15, unless there
+16
+17 is created a duplication in numbering, reads as follows:
+17
+18 A. A primary ticket seller, secondary ticket exchange, or
+18
+19 reseller shall clearly and conspicuously disclose at the point of
+19
+20 selection:
+20
+21 1. The total price, including all mandatory fees and taxes;
+21
+22 2. Itemization of base price, face value, service fees, and
+22
+23 taxes; and
+23
+24
+24
+Req. No. 2522 Page 6
+1 3. Seat location or section, row, and seat number, if
+1
+2 applicable.
+2
+3 B. 1. No reseller shall offer or sell a speculative ticket or
+3
+4 more than one copy of the same ticket for an event.
+4
+5 2. Admission tickets shall not be resold prior to the initial
+5
+6 public sale. Complimentary admission tickets shall not be resold by
+6
+7 ticket exchanges.
+7
+8 3. Artists, venues, and private ticketing providers may
+8
+9 restrict transferability if terms and conditions are clearly
+9
+10 disclosed and acknowledged by the purchaser prior to sale.
+10
+11 4. Tickets shall be considered licenses. Venue operators may
+11
+12 enforce policies regarding conduct, behavior, public health, safety,
+12
+13 or age, and may establish limits on the quantity of tickets
+13
+14 purchased.
+14
+15 5. No primary ticket seller, secondary ticket exchange, or
+15
+16 reseller shall sell, offer, or facilitate resale of any admission
+16
+17 ticket at a total price greater than one hundred ten percent (110%)
+17
+18 of the total price of the original ticket, including applicable fees
+18
+19 and taxes. This paragraph shall not apply to charitable fundraising
+19
+20 events, school auctions, or other fundraising activities with
+20
+21 explicit written permission from the place of entertainment,
+21
+22 promoter, venue, or artist to exceed ticket resale above one hundred
+22
+23 ten percent (110%).
+23
+24
+24
+Req. No. 2522 Page 7
+1 6. For admission tickets purchased for a series of events,
+1
+2 resale of a single event admission ticket shall not exceed the total
+2
+3 price of a comparable admission ticket, including fees and taxes.
+3
+4 C. 1. A primary ticket seller, secondary ticket exchange, or
+4
+5 reseller shall issue a full refund within ten (10) days if the:
+5
+6 a. event is canceled,
+6
+7 b. ticket is counterfeit or invalid,
+7
+8 c. ticket location does not conform to the description
+8
+9 provided at the time of purchase, or
+9
+10 d. ticket is not made available prior to the event.
+10
+11 2. Pursuant to paragraph 1 of this subsection, a nonprofit
+11
+12 organization may offer the choice to donate the cost of the
+12
+13 admission ticket to the nonprofit organization, exchange to another
+13
+14 performance or event, or receive a refund subject to the terms of
+14
+15 the organization’s refund policy.
+15
+16 3. The venue shall provide contact information for the Attorney
+16
+17 General if the purchaser presents an invalid ticket.
+17
+18 4. Nothing in this subsection shall be construed to alter any
+18
+19 rights or obligations under federal payment card laws including, but
+19
+20 not limited to, Regulation E of 12 C.F.R., Part 1005.
+20
+21 D. No person, resale platform, reseller, or operator of any
+21
+22 website purporting to sell or offer for sale event tickets shall:
+22
+23
+23
+24
+24
+Req. No. 2522 Page 8
+1 1. Use or display, without authorization, the name, mark, logo,
+1
+2 likeness, or intellectual property of an artist, venue, or event
+2
+3 organizer in promotional materials, social media, or advertisement;
+3
+4 2. Imply affiliation or endorsement with a venue, team, or
+4
+5 artist, including the use of the word “official”, unless authorized
+5
+6 in writing; or
+6
+7 3. Engage in commercial representations that are reasonably
+7
+8 likely to mislead consumers.
+8
+9 E. Any violation of this act shall constitute an unfair or
+9
+10 deceptive trade practice and shall be subject to the provisions of
+10
+11 the Oklahoma Consumer Protection Act.
+11
+12 F. Any aggrieved person may bring a civil action for actual
+12
+13 damages and restitution. The court may award court costs and
+13
+14 attorney fees to a prevailing party.
+14
+15 G. Nothing in this act shall be construed to include sports in
+15
+16 the provisions of this act.
+16
+17 SECTION 5. This act shall become effective November 1, 2026.
+17
+18
+18
+19 60-2-2522 CAD 12/15/2025 8:56:51 AM
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2522 Page 9
+[DELETED:  P B C]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P p u c]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P e t t t]
+[DELETED:  P C 1]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+1
+2 2nd Session of the 60th Legislature (2026)
+2
+3 SENATE BILL 1241 By: Coleman
+3
+4
+4
+5
+5
+6 AS INTRODUCED
+6
+7 An Act relating to ticket sales; creating the
+7 Oklahoma Fraud and Ticketing Accountability Act;
+8 providing short title; amending Sections 1 and 2,
+8 Chapter 218, O.S.L. 2023 (15 O.S. Supp. 2025,
+9 Sections 774 and 774.1), which relate to definitions,
+9 and prohibited use or sale of software to be used on
+10 ticket sellers’ websites; updating statutory
+10 reference; updating statutory language; defining
+11 terms; prohibiting use or creation of certain bot;
+11 requiring certain seller to disclose certain
+12 requirements at certain point; prohibiting certain
+12 seller from offering or selling certain ticket;
+13 prohibiting certain resale of certain admission
+13 ticket; allowing certain persons to restrict
+14 transferability; allowing venue operators to enforce
+14 certain policies; prohibiting certain seller from
+15 facilitating sale of ticket above certain price;
+15 requiring certain seller to issue certain refund;
+16 allowing nonprofit organization to offer certain
+16 choices for refund of certain ticket; requiring
+17 certain venue to provide certain contact information
+17 for the Attorney General; prohibiting certain use or
+18 display without authorization; prohibiting
+18 implication of certain affiliations; establishing
+19 certain violations as unfair or deceptive trade
+19 practice subject to the Oklahoma Consumer Protection
+20 Act; allowing certain persons to bring certain civil
+20 action; construing provisions; providing for
+21 noncodification; providing for codification; and
+21 providing an effective date.
+22
+22
+23
+23
+24
+24
+Req. No. 2522 Page 1
+
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+1
+2 SECTION 1. NEW LAW A new section of law not to be
+2
+3 codified in the Oklahoma Statutes reads as follows:
+3
+4 This act shall be known and may be cited as the “Oklahoma Fraud
+4
+5 and Ticketing Accountability Act”.
+5
+6 SECTION 2. AMENDATORY Section 1, Chapter 218, O.S.L.
+6
+7 2023 (15 O.S. Supp. 2025, Section 774), is amended to read as
+7
+8 follows:
+8
+9 Section 774. As used in this act Section 774 et seq. of this
+9
+10 title:
+10
+11 1. “Admission ticket” means any physical, electronic, or other
+11
+12 form of evidence of a right of entry to a venue or an entertainment
+12
+13 event for one or more events at a specified date and time;
+13
+14 2. “Bot” means any machine, device, computer program,
+14
+15 artificial intelligence, or software that bypasses security measures
+15
+16 or ticket purchase limits, alone or with human assistance, to
+16
+17 acquire admission tickets on a retail platform;
+17
+18 3. “Event” means a concert, theatrical performance, sporting
+18
+19 event, exhibition, show, or other similar activity held in this
+19
+20 state;
+20
+21 4. “Face value” means a price printed on the admission ticket
+21
+22 or listed by the primary ticket seller at the point of initial sale,
+22
+23 excluding taxes, service fees, or delivery charges;
+23
+24
+24
+Req. No. 2522 Page 2
+
+1 3. 5. “Initial sale” means the first sale of an admission
+1
+2 ticket by the ticket seller, which may include the distribution of
+2
+3 admission tickets under an agreement between the ticker ticket
+3
+4 seller and the recipient;
+4
+5 4. 6. “Person” means any individual, partnership, corporation,
+5
+6 limited liability company, other organization, or any combination
+6
+7 thereof;
+7
+8 5. 7. “Place of entertainment” means any privately or publicly
+8
+9 owned or operated entertainment facility within this state, such as
+9
+10 a theater, stadium, museum, arena, park, racetrack, or other place
+10
+11 where concerts, theatrical performances, sporting events,
+11
+12 exhibitions, shows, or other similar activities are held and for
+12
+13 which an entry fee is charged;
+13
+14 6. 8. “Presale” means a sale of admission tickets at or below
+14
+15 the price printed on the ticket by, or with the permission of, a
+15
+16 ticket seller, prior to their release to the general public;
+16
+17 9. “Primary ticket seller” means a venue, promoter, or provider
+17
+18 authorized to sell tickets to the public at the point of initial
+18
+19 sale including, but not limited to, public school districts and
+19
+20 nonprofit organizations;
+20
+21 7. 10. “Promoter” means a person who organizes financing and
+21
+22 publicity for an entertainment event; and
+22
+23 11. “Resale” means any second or subsequent sale of an
+23
+24 admission ticket, by any method including, but not limited to, in-
+24
+Req. No. 2522 Page 3
+
+1 pers on, telephone, electronic mail, facsimile, or electronic
+1
+2 platforms. Resale shall not include tickets returned to or
+2
+3 exchanged by the primary ticket seller;
+3
+4 12. “Reseller” means a person or entity that offers or sells an
+4
+5 admission ticket after its initial sale;
+5
+6 13. “Secondary ticket exchange” means a marketplace, online
+6
+7 platform, or other entity facilitating resale of admission tickets;
+7
+8 14. “Speculative ticket” means an admission ticket offered for
+8
+9 sale that the reseller does not own, possess, or have the
+9
+10 contractual right to deliver;
+10
+11 15. “Sports” means any athletic competition, contest, or event
+11
+12 in which individuals or teams participate in games, matches, or
+12
+13 exhibitions of skill, agility, strength, or endurance whether
+13
+14 amateur, collegiate, or professional. Sports shall not mean
+14
+15 theatrical, musical, or other live entertainment performances, even
+15
+16 if occurring in a sports venue;
+16
+17 8. 16. “Ticket seller” means a person that makes admission
+17
+18 tickets available, directly or indirectly, at an initial presale or
+18
+19 sale to the general public, and may include an owner or operator of
+19
+20 a place of entertainment, a sponsor or promoter of an event, a
+20
+21 sports team participating in an event, a theater company, a musical
+21
+22 group, or similar participant in an event, or an employee or agent
+22
+23 of any such person; and
+23
+24
+24
+Req. No. 2522 Page 4
+
+1 17. “Total price” means the price paid for an admission ticket,
+1
+2 including all mandatory fees, service charges, and taxes, and
+2
+3 excluding shipping charges and government-imposed fees.
+3
+4 SECTION 3. AMENDATORY Section 2, Chapter 218, O.S.L.
+4
+5 2023 (15 O.S. Supp. 2025, Section 774.1), is amended to read as
+5
+6 follows:
+6
+7 Section 774.1. A. A person shall not:
+7
+8 1. Use software or a bot to circumvent, thwart, interfere with,
+8
+9 or evade a security measure, access control system, or other control
+9
+10 measure on a ticket seller’s Internet website; or
+10
+11 2. Sell software or a bot that is advertised for profit with
+11
+12 the express purpose to circumvent, thwart, interfere with, or evade
+12
+13 a security measure, access control system, or other control or
+13
+14 measure on a ticket seller’s Internet website; or
+14
+15 3. Use or create a bot to:
+15
+16 a. purchase tickets for any single Internet admission
+16
+17 ticket sale,
+17
+18 b. use multiple Internet protocol (IP) addresses,
+18
+19 purchaser accounts, or electronic mail addresses to
+19
+20 exceed posted ticket limits, or
+20
+21 c. circumvent electronic queues, presale codes, sales
+21
+22 volume limitations, security or access control
+22
+23 measures.
+23
+24
+24
+Req. No. 2522 Page 5
+
+1 B. The user or seller shall be in violation of subsection A of
+1
+2 this section if the user or seller knows or should know that:
+2
+3 1. The purpose of the software or bot is to circumvent, thwart,
+3
+4 interfere with, or evade a security measure, access control system,
+4
+5 or other control or measure on a ticket seller’s Internet website in
+5
+6 order to purchase admission tickets during the initial sale or
+6
+7 presale for an event held at a place of entertainment; or
+7
+8 2. The use of the software or bot led to the admission tickets
+8
+9 being resold on the initial seller’s Internet website or an Internet
+9
+10 site used for the resell resale of admission tickets for a price
+10
+11 above the admission ticket’s initial cost.
+11
+12 C. Any violation of this section shall constitute an unlawful
+12
+13 business unfair or deceptive trade practice and shall be subject to
+13
+14 the provisions of the Oklahoma Consumer Protection Act.
+14
+15 SECTION 4. NEW LAW A new section of law to be codified
+15
+16 in the Oklahoma Statutes as Section 774.2 of Title 15, unless there
+16
+17 is created a duplication in numbering, reads as follows:
+17
+18 A. A primary ticket seller, secondary ticket exchange, or
+18
+19 reseller shall clearly and conspicuously disclose at the point of
+19
+20 selection:
+20
+21 1. The total price, including all mandatory fees and taxes;
+21
+22 2. Itemization of base price, face value, service fees, and
+22
+23 taxes; and
+23
+24
+24
+Req. No. 2522 Page 6
+
+1 3. Seat location or section, row, and seat number, if
+1
+2 applicable.
+2
+3 B. 1. No reseller shall offer or sell a speculative ticket or
+3
+4 more than one copy of the same ticket for an event.
+4
+5 2. Admission tickets shall not be resold prior to the initial
+5
+6 public sale. Complimentary admission tickets shall not be resold by
+6
+7 ticket exchanges.
+7
+8 3. Artists, venues, and private ticketing providers may
+8
+9 restrict transferability if terms and conditions are clearly
+9
+10 disclosed and acknowledged by the purchaser prior to sale.
+10
+11 4. Tickets shall be considered licenses. Venue operators may
+11
+12 enforce policies regarding conduct, behavior, public health, safety,
+12
+13 or age, and may establish limits on the quantity of tickets
+13
+14 purchased.
+14
+15 5. No primary ticket seller, secondary ticket exchange, or
+15
+16 reseller shall sell, offer, or facilitate resale of any admission
+16
+17 ticket at a total price greater than one hundred ten percent (110%)
+17
+18 of the total price of the original ticket, including applicable fees
+18
+19 and taxes. This paragraph shall not apply to charitable fundraising
+19
+20 events, school auctions, or other fundraising activities with
+20
+21 explicit written permission from the place of entertainment,
+21
+22 promoter, venue, or artist to exceed ticket resale above one hundred
+22
+23 ten percent (110%).
+23
+24
+24
+Req. No. 2522 Page 7
+
+1 6. For admission tickets purchased for a series of events,
+1
+2 resale of a single event admission ticket shall not exceed the total
+2
+3 price of a comparable admission ticket, including fees and taxes.
+3
+4 C. 1. A primary ticket seller, secondary ticket exchange, or
+4
+5 reseller shall issue a full refund within ten (10) days if the:
+5
+6 a. event is canceled,
+6
+7 b. ticket is counterfeit or invalid,
+7
+8 c. ticket location does not conform to the description
+8
+9 provided at the time of purchase, or
+9
+10 d. ticket is not made available prior to the event.
+10
+11 2. Pursuant to paragraph 1 of this subsection, a nonprofit
+11
+12 organization may offer the choice to donate the cost of the
+12
+13 admission ticket to the nonprofit organization, exchange to another
+13
+14 performance or event, or receive a refund subject to the terms of
+14
+15 the organization’s refund policy.
+15
+16 3. The venue shall provide contact information for the Attorney
+16
+17 General if the purchaser presents an invalid ticket.
+17
+18 4. Nothing in this subsection shall be construed to alter any
+18
+19 rights or obligations under federal payment card laws including, but
+19
+20 not limited to, Regulation E of 12 C.F.R., Part 1005.
+20
+21 D. No person, resale platform, reseller, or operator of any
+21
+22 website purporting to sell or offer for sale event tickets shall:
+22
+23
+23
+24
+24
+Req. No. 2522 Page 8
+
+1 1. Use or display, without authorization, the name, mark, logo,
+1
+2 likeness, or intellectual property of an artist, venue, or event
+2
+3 organizer in promotional materials, social media, or advertisement;
+3
+4 2. Imply affiliation or endorsement with a venue, team, or
+4
+5 artist, including the use of the word “official”, unless authorized
+5
+6 in writing; or
+6
+7 3. Engage in commercial representations that are reasonably
+7
+8 likely to mislead consumers.
+8
+9 E. Any violation of this act shall constitute an unfair or
+9
+10 deceptive trade practice and shall be subject to the provisions of
+10
+11 the Oklahoma Consumer Protection Act.
+11
+12 F. Any aggrieved person may bring a civil action for actual
+12
+13 damages and restitution. The court may award court costs and
+13
+14 attorney fees to a prevailing party.
+14
+15 G. Nothing in this act shall be construed to include sports in
+15
+16 the provisions of this act.
+16
+17 SECTION 5. This act shall become effective November 1, 2026.
+17
+18
+18
+19 60-2-2522 CAD 12/15/2025 8:56:51 AM
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2522 Page 9
+
+[DELETED:  P B C]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P p u c]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P e t t t]
+[DELETED:  P C 1]

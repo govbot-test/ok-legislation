@@ -1,0 +1,882 @@
+Title: 3 HOUSE BILL 4356 By: Moore
+Official Title: 3 HOUSE BILL 4356 By: Moore
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to social media; providing
+legislative intent; defining terms; prohibiting
+8 minors under sixteen years of age from being an
+account holder on certain social media platforms;
+9 requiring verification of account holder's age;
+permitting the use of third-party vendors to verify
+10 age; prohibiting social media platforms accessed by
+minors from engaging in certain activities; stating
+11 that violations may be reported to the Attorney
+General; permitting the Attorney General to send
+12 notice; clarifying social media platforms shall have
+a period to cure violations; clarifying when a social
+13 media company is liable for failure to comply;
+permitting the Attorney General to initiate an
+14 enforcement action; providing exemptions; limiting
+liability; prohibiting commercial entities or third-
+15 party vendors from retaining certain information;
+establishing liability for failure to comply;
+16 providing for codification; and providing an
+effective date.
+17
+18
+19 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20 SECTION 1. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 120 of Title 25, unless there is
+22 created a duplication in numbering, reads as follows:
+23 A. Nothing in this act shall be construed to limit the content
+24 found on social media platforms or prohibit minors from posting
+Req. No. 14736 Page 1
+1 cont ent on other platforms, digital or otherwise, that they legally
+2 have access to.
+3 B. As used in this act:
+4 1. "Account holder" means an individual who creates an account
+5 or a profile to use a social media platform;
+6 2. "Commercial entity":
+7 a. means a corporation, limited liability company,
+8 partnership, limited partnership, sole proprietorship,
+9 or other legally recognized entity, and
+10 b. includes a third-party vendor;
+11 3. "Dark pattern" means a user interface designed or
+12 manipulated with the substantial effect of subverting or impairing
+13 user autonomy, decision making, or choice and includes, but is not
+14 limited to, any practice the Federal Trade Commission refers to as a
+15 dark pattern;
+16 4. "Digitized identification card" means a data file available
+17 on a mobile device that has connectivity to the Internet through a
+18 state-approved application that allows the mobile device to download
+19 the data file from the Department of Public Safety that contains all
+20 of the data elements visible on the face and back of a driver
+21 license or identification card and displays the current status of
+22 the driver license or identification card, including valid, expired,
+23 canceled, suspended, revoked, active, or inactive;
+24
+Req. No. 14736 Page 2
+1 5. "Fake identification" means identification which has been
+2 fabricated or altered to misrepresent the age of the person using it
+3 for age verification that cannot be detected through reasonable
+4 efforts, taking into account available technology;
+5 6. "Minor" means an individual under eighteen (18) years of
+6 age;
+7 7. "Oklahoma user" means an individual who is a resident of the
+8 State of Oklahoma and who accesses or attempts to access a social
+9 media platform while present in this state and whose location out of
+10 this state is not assumed based only on the registered location of
+11 the Internet protocol address associated with the user;
+12 8. "Personal information" means information that is linked or
+13 reasonably linkable to an identified or identifiable minor,
+14 including biometric information and unique identifiers to the minor;
+15 9. "Reasonable age verification" means to confirm that a person
+16 seeking to access a social media platform is at least sixteen (16)
+17 years of age;
+18 10. a. "Social media company" means an online forum,
+19 website, or application that a company makes
+20 available for an account holder to:
+21 (1) create a public profile, establish an account, or
+22 register as a user for the primary purpose of
+23 interacting socially with other profiles and
+24 accounts,
+Req. No. 14736 Page 3
+1 (2) upload or create posts or content, which may
+2 include, but is not limited to, user-generated
+3 short video clips of dancing, voiceovers, or
+4 other acts of entertainment in which the primary
+5 purpose is not educational or informative,
+6 (3) view posts, activity, or content of other account
+7 holders, and
+8 (4) interact with other account holders or users
+9 including, without limitation, establishing
+10 mutual connections through request and
+11 acceptance,
+12 b. social media company does not include a/an:
+13 (1) media company that exclusively offers
+14 subscription content in which users follow or
+15 subscribe unilaterally and whose platform's
+16 primary purpose is not social interaction,
+17 (2) media company that exclusively offers interactive
+18 gaming, virtual gaming, or an online service that
+19 allows the creation and uploading of content for
+20 the purpose of interactive gaming, entertainment,
+21 or associated entertainment, and the
+22 communication related to that content,
+23 (3) online service, website, or application where the
+24 exclusive function is email or direct messaging
+Req. No. 14736 Page 4
+1 consisting of text, photographs, pictures,
+2 images, or videos shared only between the sender
+3 and the recipients, without displaying or posting
+4 publicly or to other users not specifically
+5 identified as the recipients by the sender, and
+6 (4) company that:
+7 (a) offers cloud storage services, enterprise
+8 cybersecurity services, educational devices,
+9 or enterprise collaboration tools for
+10 kindergarten through grade twelve (K-12)
+11 schools, and
+12 (b) derives less than twenty-five percent (25%)
+13 of the company's revenue from operating a
+14 social media platform, including games and
+15 advertising, or
+16 (5) company that provides career development
+17 opportunities, including professional networking,
+18 job skills, learning certifications, and job
+19 posting and application services;
+20 11. a. "Social media platform" means a public or semipublic
+21 Internet-based service or application:
+22 (1) that has users in Oklahoma,
+23 (2) that employs algorithms that analyze user data or
+24 information on users to select content for users,
+Req. No. 14736 Page 5
+1 (3) that features infinite scrolling, which means
+2 either:
+3 (a) continuously loading content or content that
+4 loads as the user scrolls down the page
+5 without the need to open a separate page, or
+6 (b) seamless content, or the use of pages with
+7 no visible or apparent end or page breaks,
+8 and
+9 (4) which a substantial function of the service or
+10 application is to connect users in order to allow
+11 users to interact socially with each other within
+12 the service or application,
+13 b. a service or application that provides email or direct
+14 messaging shall not be considered to meet the criteria
+15 under division (4) of subparagraph a of this paragraph
+16 on the basis of that function alone,
+17 c. social media platform does not include an online
+18 service, a website, or an application if the
+19 predominant or exclusive function is:
+20 (1) email,
+21 (2) direct messaging consisting of messages, photos,
+22 or videos that are sent between devices by
+23 electronic means if messages are:
+24
+Req. No. 14736 Page 6
+1 (a) shared between the sender and the recipient
+2 or recipients,
+3 (b) only visible to the sender and the recipient
+4 or recipients, and
+5 (c) not posted publicly,
+6 (3) a streaming service that:
+7 (a) provides only licensed media in a continuous
+8 flow from the service, website, or
+9 application to the end user, and
+10 (b) does not obtain a license to the media from
+11 a user or account holder by agreement of the
+12 streaming service's terms of service,
+13 (4) news, sports, entertainment, or other content
+14 that is preselected by the provider and not user-
+15 generated including, without limitation, if any
+16 chat, comment, or interactive functionality that
+17 is provided is incidental to, directly related
+18 to, or dependent upon provision of the content,
+19 (5) online shopping or e-commerce, if the interaction
+20 with other users or account holders is generally
+21 limited to:
+22 (a) the ability to post and comment on reviews,
+23 (b) the ability to display lists or collections
+24 of goods for sale or wish lists, and
+Req. No. 14736 Page 7
+1 (c) other functions that are focused on online
+2 shopping or e-commerce rather than
+3 interaction between users or account
+4 holders,
+5 (6) business-to-business software that is not
+6 accessible to the general public,
+7 (7) cloud storage,
+8 (8) shared document collaboration,
+9 (9) providing access to or interacting with data
+10 visualization platforms, libraries, or hubs,
+11 (10) to permit comments on a digital news website, if
+12 the news content is posted only by the provider
+13 of the digital news website,
+14 (11) providing or obtaining technical support for the
+15 social media company's social media platform,
+16 products, or services,
+17 (12) academic or scholarly research,
+18 (13) other research:
+19 (a) if:
+20 (i) the majority of the content is posted
+21 or created by the provider of the
+22 online service, website, or
+23 application, and
+24
+Req. No. 14736 Page 8
+1 (ii) the ability to chat, comment, or
+2 interact with other users is directly
+3 related to the provider's content,
+4 (b) that is a classified advertising service
+5 that only permits the sale of goods and
+6 prohibits the solicitation of personal
+7 services, or
+8 (c) that is used by and under the direction of
+9 an educational entity including, without
+10 limitation, a:
+11 (i) learning management system,
+12 (ii) student engagement program, and
+13 (iii) subject-specific or skill-specific
+14 program,
+15 d. social media platform does not include a social media
+16 platform that is controlled or owned by a business
+17 entity that has generated less than One Hundred
+18 Million Dollars ($100,000,000.00) globally from users
+19 in the United States of America in annual gross
+20 revenue;
+21 12. "Substantial harm or privacy risk to minors" means the
+22 processing of personal information in a manner that may result in
+23 any reasonably foreseeable substantial physical injury, economic
+24
+Req. No. 14736 Page 9
+1 inju ry, or offensive intrusion into the privacy expectations of a
+2 reasonable minor under the circumstances, including:
+3 a. mental health disorders or associated behaviors,
+4 including the promotion or exacerbation of self-harm,
+5 suicide, eating disorders, and substance abuse
+6 disorders,
+7 b. patterns of use that indicate or encourage addictive
+8 behaviors,
+9 c. physical violence, online bullying, and harassment,
+10 and
+11 d. sexual exploitation, including enticement, sex
+12 trafficking, and sexual abuse and trafficking of
+13 online sexual abuse material; and
+14 13. "User" means a person who has access to view all or some of
+15 the posts and content on a social media platform but is not an
+16 account holder.
+17 SECTION 2. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 121 of Title 25, unless there is
+19 created a duplication in numbering, reads as follows:
+20 A. A social media company shall not permit an Oklahoma user who
+21 is a minor less than sixteen (16) years of age to be an account
+22 holder on a social media company's social media platform.
+23 B. A social media company shall verify the age of an account
+24 holder.
+Req. No. 14736 Page 10
+1 C. 1. A social media company may use a third-party vendor to
+2 perform reasonable age verification before allowing access to the
+3 social media company's social media platform.
+4 2. Reasonable age verification methods under paragraph 1 of
+5 this subsection include providing:
+6 a. a digitized identification card, including a digital
+7 copy of a driver license,
+8 b. government-issued identification,
+9 c. any commercially reasonable age verification method,
+10 or
+11 d. confirmation from a platform from which social media
+12 applications are downloaded that the platform has
+13 verified the age of the user.
+14 SECTION 3. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 122 of Title 25, unless there is
+16 created a duplication in numbering, reads as follows:
+17 A. A social media platform that is accessed by minors shall
+18 not:
+19 1. Process the personal information of any minor if the social
+20 media platform has actual knowledge of or willfully disregards that
+21 the processing may result in substantial harm or is a privacy risk
+22 to minors;
+23 2. Profile a minor unless both of the following criteria are
+24 met:
+Req. No. 14736 Page 11
+1 a. the social media platform can demonstrate it has
+2 appropriate safeguards in place to protect minors, and
+3 b. (1) profiling is necessary to provide the online
+4 service or feature requested for the aspects of
+5 the online service or feature with which the
+6 minor is actively and knowingly engaged, or
+7 (2) the social media platform can demonstrate a
+8 compelling reason that profiling does not pose
+9 substantial harm or is a privacy risk to minors;
+10 3. Collect, sell, share, or retain any personal information
+11 that is not necessary to provide an online service or feature with
+12 which a minor is actively and knowingly engaged unless the online
+13 platform can demonstrate a compelling reason that collecting,
+14 selling, sharing, or retaining the personal information does not
+15 pose substantial harm or is a privacy risk to minors;
+16 4. Use the personal information of a minor for any reason other
+17 than the reason for which the personal information was collected
+18 unless the online platform can demonstrate a compelling reason that
+19 the use of the personal information does not pose substantial harm
+20 or is a privacy risk to minors;
+21 5. Collect, sell, or share any precise geolocation data of
+22 minors unless the collection of the precise geolocation data is
+23 strictly necessary for the online platform to provide the service,
+24 product, or feature requested and then only for the limited time
+Req. No. 14736 Page 12
+1 that the collection of the precise geolocation data is necessary to
+2 provide the service or feature;
+3 6. Collect any precise geolocation data of a minor without
+4 providing an obvious sign to the minor for the duration of the
+5 collection that the precise geolocation data is being collected;
+6 7. Use dark patterns to lead or encourage minors to provide
+7 personal information beyond what personal information would
+8 otherwise be reasonably expected to be provided for that online
+9 service or feature, to forego privacy protections, or to take any
+10 action that the online platform has actual knowledge of or willfully
+11 disregards that may result in substantial harm or is a privacy risk
+12 to minors; or
+13 8. Use any personal information collected to estimate the age
+14 or age range for any other purpose or retain that personal
+15 information longer than necessary to estimate age. The age estimate
+16 must be proportionate to the risks and data practice of an online
+17 service or feature.
+18 B. Violations of this section may be reported to the Office of
+19 the Attorney General.
+20 C. If the Attorney General determines that there has been a
+21 violation of this section, the Attorney General shall send notice to
+22 the social media platform.
+23 D. The social media platform shall have a forty-five-day period
+24 to cure the violation of this section.
+Req. No. 14736 Page 13
+1 SECTION 4. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 123 of Title 25, unless there is
+3 created a duplication in numbering, reads as follows:
+4 A. 1. A social media company that knowingly violates this act
+5 is liable if the social media company fails to perform a reasonable
+6 age verification or fails to comply with Section 3 of this act.
+7 2. If a social media company performs a reasonable age
+8 verification, the social media company shall not retain any
+9 identifying information of the individual after access to the social
+10 media platform has been granted.
+11 B. The Attorney General may initiate an enforcement action
+12 against social media companies that allegedly commit a violation of
+13 this act.
+14 C. A social media company that violates this act is liable to
+15 an individual for:
+16 1. A penalty of Two Thousand Five Hundred Dollars ($2,500.00)
+17 per violation, court costs, and reasonable attorney fees as ordered
+18 by the court; or
+19 2. Damages resulting from a minor accessing a social media
+20 platform without the consent of his or her parent or custodian,
+21 including court costs and reasonable attorney fees as ordered by the
+22 court.
+23 D. This section does not:
+24
+Req. No. 14736 Page 14
+1 1. Apply to a news or public interest broadcast, website video,
+2 report, or event;
+3 2. Affect the rights of a news-gathering organization; or
+4 3. Apply to cloud service providers.
+5 E. No social media platform shall be liable under this act if,
+6 after performing reasonable age verification, a minor manages access
+7 to the platform through means of fraud including, but not limited
+8 to, the use of fake identification by the minor or an individual
+9 claiming to be the parent or legal guardian of the minor.
+10 F. An Internet service provider, or any of its affiliates or
+11 subsidiaries, or search engines will not violate this act solely
+12 when providing access, connection to or from a website, or other
+13 information or content on the Internet, or a facility, system, or
+14 network that is not under that Internet service provider's control,
+15 including transmission, downloading, intermediate storage, access
+16 software, or other service that provides access or connectivity, to
+17 the extent the Internet service provider is not responsible for the
+18 creation of the content or the communication on a social media
+19 platform.
+20 SECTION 5. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 124 of Title 25, unless there is
+22 created a duplication in numbering, reads as follows:
+23 A. A commercial entity or third-party vendor shall not retain
+24 any identifying information of an individual supplied for the
+Req. No. 14736 Page 15
+1 purp ose of age verification, except if required for audit and
+2 testing purposes, and in any case for no longer than thirty (30)
+3 days after access to the social media platform has been granted.
+4 B. A commercial entity that is found to have knowingly retained
+5 identifying information of an individual after access to the
+6 material is granted, except as provided for in subsection A of this
+7 section, is liable to the individual for damages resulting from the
+8 retention of the identifying information, including court costs and
+9 reasonable attorney fees as ordered by the court.
+10 SECTION 6. This act shall become effective November 1, 2026.
+11
+12 60-2-14736 MJ 01/09/26
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 14736 Page 16
+[DELETED:  P B]
+[DELETED:  P m i]
+[DELETED:  P a " c]
+[DELETED:  P u v i s m m o]
+[DELETED:  P c o d c a " t t]
+[DELETED:  P t c s w a s e d]
+[DELETED:  P s o n a p d n o t t]
+[DELETED:  P o b c s p i t]
+[DELETED:  P t t l s]
+[DELETED:  P m p p s]
+[DELETED:  P a g a c]
+[DELETED:  P t ( p t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 0]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 HOUSE BILL 4356 By: Moore
+4
+5
+6 AS INTRODUCED
+7 An Act relating to social media; providing
+legislative intent; defining terms; prohibiting
+8 minors under sixteen years of age from being an
+account holder on certain social media platforms;
+9 requiring verification of account holder's age;
+permitting the use of third-party vendors to verify
+10 age; prohibiting social media platforms accessed by
+minors from engaging in certain activities; stating
+11 that violations may be reported to the Attorney
+General; permitting the Attorney General to send
+12 notice; clarifying social media platforms shall have
+a period to cure violations; clarifying when a social
+13 media company is liable for failure to comply;
+permitting the Attorney General to initiate an
+14 enforcement action; providing exemptions; limiting
+liability; prohibiting commercial entities or third-
+15 party vendors from retaining certain information;
+establishing liability for failure to comply;
+16 providing for codification; and providing an
+effective date.
+17
+18
+19 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20 SECTION 1. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 120 of Title 25, unless there is
+22 created a duplication in numbering, reads as follows:
+23 A. Nothing in this act shall be construed to limit the content
+24 found on social media platforms or prohibit minors from posting
+Req. No. 14736 Page 1
+
+1 cont ent on other platforms, digital or otherwise, that they legally
+2 have access to.
+3 B. As used in this act:
+4 1. "Account holder" means an individual who creates an account
+5 or a profile to use a social media platform;
+6 2. "Commercial entity":
+7 a. means a corporation, limited liability company,
+8 partnership, limited partnership, sole proprietorship,
+9 or other legally recognized entity, and
+10 b. includes a third-party vendor;
+11 3. "Dark pattern" means a user interface designed or
+12 manipulated with the substantial effect of subverting or impairing
+13 user autonomy, decision making, or choice and includes, but is not
+14 limited to, any practice the Federal Trade Commission refers to as a
+15 dark pattern;
+16 4. "Digitized identification card" means a data file available
+17 on a mobile device that has connectivity to the Internet through a
+18 state-approved application that allows the mobile device to download
+19 the data file from the Department of Public Safety that contains all
+20 of the data elements visible on the face and back of a driver
+21 license or identification card and displays the current status of
+22 the driver license or identification card, including valid, expired,
+23 canceled, suspended, revoked, active, or inactive;
+24
+Req. No. 14736 Page 2
+
+1 5. "Fake identification" means identification which has been
+2 fabricated or altered to misrepresent the age of the person using it
+3 for age verification that cannot be detected through reasonable
+4 efforts, taking into account available technology;
+5 6. "Minor" means an individual under eighteen (18) years of
+6 age;
+7 7. "Oklahoma user" means an individual who is a resident of the
+8 State of Oklahoma and who accesses or attempts to access a social
+9 media platform while present in this state and whose location out of
+10 this state is not assumed based only on the registered location of
+11 the Internet protocol address associated with the user;
+12 8. "Personal information" means information that is linked or
+13 reasonably linkable to an identified or identifiable minor,
+14 including biometric information and unique identifiers to the minor;
+15 9. "Reasonable age verification" means to confirm that a person
+16 seeking to access a social media platform is at least sixteen (16)
+17 years of age;
+18 10. a. "Social media company" means an online forum,
+19 website, or application that a company makes
+20 available for an account holder to:
+21 (1) create a public profile, establish an account, or
+22 register as a user for the primary purpose of
+23 interacting socially with other profiles and
+24 accounts,
+Req. No. 14736 Page 3
+
+1 (2) upload or create posts or content, which may
+2 include, but is not limited to, user-generated
+3 short video clips of dancing, voiceovers, or
+4 other acts of entertainment in which the primary
+5 purpose is not educational or informative,
+6 (3) view posts, activity, or content of other account
+7 holders, and
+8 (4) interact with other account holders or users
+9 including, without limitation, establishing
+10 mutual connections through request and
+11 acceptance,
+12 b. social media company does not include a/an:
+13 (1) media company that exclusively offers
+14 subscription content in which users follow or
+15 subscribe unilaterally and whose platform's
+16 primary purpose is not social interaction,
+17 (2) media company that exclusively offers interactive
+18 gaming, virtual gaming, or an online service that
+19 allows the creation and uploading of content for
+20 the purpose of interactive gaming, entertainment,
+21 or associated entertainment, and the
+22 communication related to that content,
+23 (3) online service, website, or application where the
+24 exclusive function is email or direct messaging
+Req. No. 14736 Page 4
+
+1 consisting of text, photographs, pictures,
+2 images, or videos shared only between the sender
+3 and the recipients, without displaying or posting
+4 publicly or to other users not specifically
+5 identified as the recipients by the sender, and
+6 (4) company that:
+7 (a) offers cloud storage services, enterprise
+8 cybersecurity services, educational devices,
+9 or enterprise collaboration tools for
+10 kindergarten through grade twelve (K-12)
+11 schools, and
+12 (b) derives less than twenty-five percent (25%)
+13 of the company's revenue from operating a
+14 social media platform, including games and
+15 advertising, or
+16 (5) company that provides career development
+17 opportunities, including professional networking,
+18 job skills, learning certifications, and job
+19 posting and application services;
+20 11. a. "Social media platform" means a public or semipublic
+21 Internet-based service or application:
+22 (1) that has users in Oklahoma,
+23 (2) that employs algorithms that analyze user data or
+24 information on users to select content for users,
+Req. No. 14736 Page 5
+
+1 (3) that features infinite scrolling, which means
+2 either:
+3 (a) continuously loading content or content that
+4 loads as the user scrolls down the page
+5 without the need to open a separate page, or
+6 (b) seamless content, or the use of pages with
+7 no visible or apparent end or page breaks,
+8 and
+9 (4) which a substantial function of the service or
+10 application is to connect users in order to allow
+11 users to interact socially with each other within
+12 the service or application,
+13 b. a service or application that provides email or direct
+14 messaging shall not be considered to meet the criteria
+15 under division (4) of subparagraph a of this paragraph
+16 on the basis of that function alone,
+17 c. social media platform does not include an online
+18 service, a website, or an application if the
+19 predominant or exclusive function is:
+20 (1) email,
+21 (2) direct messaging consisting of messages, photos,
+22 or videos that are sent between devices by
+23 electronic means if messages are:
+24
+Req. No. 14736 Page 6
+
+1 (a) shared between the sender and the recipient
+2 or recipients,
+3 (b) only visible to the sender and the recipient
+4 or recipients, and
+5 (c) not posted publicly,
+6 (3) a streaming service that:
+7 (a) provides only licensed media in a continuous
+8 flow from the service, website, or
+9 application to the end user, and
+10 (b) does not obtain a license to the media from
+11 a user or account holder by agreement of the
+12 streaming service's terms of service,
+13 (4) news, sports, entertainment, or other content
+14 that is preselected by the provider and not user-
+15 generated including, without limitation, if any
+16 chat, comment, or interactive functionality that
+17 is provided is incidental to, directly related
+18 to, or dependent upon provision of the content,
+19 (5) online shopping or e-commerce, if the interaction
+20 with other users or account holders is generally
+21 limited to:
+22 (a) the ability to post and comment on reviews,
+23 (b) the ability to display lists or collections
+24 of goods for sale or wish lists, and
+Req. No. 14736 Page 7
+
+1 (c) other functions that are focused on online
+2 shopping or e-commerce rather than
+3 interaction between users or account
+4 holders,
+5 (6) business-to-business software that is not
+6 accessible to the general public,
+7 (7) cloud storage,
+8 (8) shared document collaboration,
+9 (9) providing access to or interacting with data
+10 visualization platforms, libraries, or hubs,
+11 (10) to permit comments on a digital news website, if
+12 the news content is posted only by the provider
+13 of the digital news website,
+14 (11) providing or obtaining technical support for the
+15 social media company's social media platform,
+16 products, or services,
+17 (12) academic or scholarly research,
+18 (13) other research:
+19 (a) if:
+20 (i) the majority of the content is posted
+21 or created by the provider of the
+22 online service, website, or
+23 application, and
+24
+Req. No. 14736 Page 8
+
+1 (ii) the ability to chat, comment, or
+2 interact with other users is directly
+3 related to the provider's content,
+4 (b) that is a classified advertising service
+5 that only permits the sale of goods and
+6 prohibits the solicitation of personal
+7 services, or
+8 (c) that is used by and under the direction of
+9 an educational entity including, without
+10 limitation, a:
+11 (i) learning management system,
+12 (ii) student engagement program, and
+13 (iii) subject-specific or skill-specific
+14 program,
+15 d. social media platform does not include a social media
+16 platform that is controlled or owned by a business
+17 entity that has generated less than One Hundred
+18 Million Dollars ($100,000,000.00) globally from users
+19 in the United States of America in annual gross
+20 revenue;
+21 12. "Substantial harm or privacy risk to minors" means the
+22 processing of personal information in a manner that may result in
+23 any reasonably foreseeable substantial physical injury, economic
+24
+Req. No. 14736 Page 9
+
+1 inju ry, or offensive intrusion into the privacy expectations of a
+2 reasonable minor under the circumstances, including:
+3 a. mental health disorders or associated behaviors,
+4 including the promotion or exacerbation of self-harm,
+5 suicide, eating disorders, and substance abuse
+6 disorders,
+7 b. patterns of use that indicate or encourage addictive
+8 behaviors,
+9 c. physical violence, online bullying, and harassment,
+10 and
+11 d. sexual exploitation, including enticement, sex
+12 trafficking, and sexual abuse and trafficking of
+13 online sexual abuse material; and
+14 13. "User" means a person who has access to view all or some of
+15 the posts and content on a social media platform but is not an
+16 account holder.
+17 SECTION 2. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 121 of Title 25, unless there is
+19 created a duplication in numbering, reads as follows:
+20 A. A social media company shall not permit an Oklahoma user who
+21 is a minor less than sixteen (16) years of age to be an account
+22 holder on a social media company's social media platform.
+23 B. A social media company shall verify the age of an account
+24 holder.
+Req. No. 14736 Page 10
+
+1 C. 1. A social media company may use a third-party vendor to
+2 perform reasonable age verification before allowing access to the
+3 social media company's social media platform.
+4 2. Reasonable age verification methods under paragraph 1 of
+5 this subsection include providing:
+6 a. a digitized identification card, including a digital
+7 copy of a driver license,
+8 b. government-issued identification,
+9 c. any commercially reasonable age verification method,
+10 or
+11 d. confirmation from a platform from which social media
+12 applications are downloaded that the platform has
+13 verified the age of the user.
+14 SECTION 3. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 122 of Title 25, unless there is
+16 created a duplication in numbering, reads as follows:
+17 A. A social media platform that is accessed by minors shall
+18 not:
+19 1. Process the personal information of any minor if the social
+20 media platform has actual knowledge of or willfully disregards that
+21 the processing may result in substantial harm or is a privacy risk
+22 to minors;
+23 2. Profile a minor unless both of the following criteria are
+24 met:
+Req. No. 14736 Page 11
+
+1 a. the social media platform can demonstrate it has
+2 appropriate safeguards in place to protect minors, and
+3 b. (1) profiling is necessary to provide the online
+4 service or feature requested for the aspects of
+5 the online service or feature with which the
+6 minor is actively and knowingly engaged, or
+7 (2) the social media platform can demonstrate a
+8 compelling reason that profiling does not pose
+9 substantial harm or is a privacy risk to minors;
+10 3. Collect, sell, share, or retain any personal information
+11 that is not necessary to provide an online service or feature with
+12 which a minor is actively and knowingly engaged unless the online
+13 platform can demonstrate a compelling reason that collecting,
+14 selling, sharing, or retaining the personal information does not
+15 pose substantial harm or is a privacy risk to minors;
+16 4. Use the personal information of a minor for any reason other
+17 than the reason for which the personal information was collected
+18 unless the online platform can demonstrate a compelling reason that
+19 the use of the personal information does not pose substantial harm
+20 or is a privacy risk to minors;
+21 5. Collect, sell, or share any precise geolocation data of
+22 minors unless the collection of the precise geolocation data is
+23 strictly necessary for the online platform to provide the service,
+24 product, or feature requested and then only for the limited time
+Req. No. 14736 Page 12
+
+1 that the collection of the precise geolocation data is necessary to
+2 provide the service or feature;
+3 6. Collect any precise geolocation data of a minor without
+4 providing an obvious sign to the minor for the duration of the
+5 collection that the precise geolocation data is being collected;
+6 7. Use dark patterns to lead or encourage minors to provide
+7 personal information beyond what personal information would
+8 otherwise be reasonably expected to be provided for that online
+9 service or feature, to forego privacy protections, or to take any
+10 action that the online platform has actual knowledge of or willfully
+11 disregards that may result in substantial harm or is a privacy risk
+12 to minors; or
+13 8. Use any personal information collected to estimate the age
+14 or age range for any other purpose or retain that personal
+15 information longer than necessary to estimate age. The age estimate
+16 must be proportionate to the risks and data practice of an online
+17 service or feature.
+18 B. Violations of this section may be reported to the Office of
+19 the Attorney General.
+20 C. If the Attorney General determines that there has been a
+21 violation of this section, the Attorney General shall send notice to
+22 the social media platform.
+23 D. The social media platform shall have a forty-five-day period
+24 to cure the violation of this section.
+Req. No. 14736 Page 13
+
+1 SECTION 4. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 123 of Title 25, unless there is
+3 created a duplication in numbering, reads as follows:
+4 A. 1. A social media company that knowingly violates this act
+5 is liable if the social media company fails to perform a reasonable
+6 age verification or fails to comply with Section 3 of this act.
+7 2. If a social media company performs a reasonable age
+8 verification, the social media company shall not retain any
+9 identifying information of the individual after access to the social
+10 media platform has been granted.
+11 B. The Attorney General may initiate an enforcement action
+12 against social media companies that allegedly commit a violation of
+13 this act.
+14 C. A social media company that violates this act is liable to
+15 an individual for:
+16 1. A penalty of Two Thousand Five Hundred Dollars ($2,500.00)
+17 per violation, court costs, and reasonable attorney fees as ordered
+18 by the court; or
+19 2. Damages resulting from a minor accessing a social media
+20 platform without the consent of his or her parent or custodian,
+21 including court costs and reasonable attorney fees as ordered by the
+22 court.
+23 D. This section does not:
+24
+Req. No. 14736 Page 14
+
+1 1. Apply to a news or public interest broadcast, website video,
+2 report, or event;
+3 2. Affect the rights of a news-gathering organization; or
+4 3. Apply to cloud service providers.
+5 E. No social media platform shall be liable under this act if,
+6 after performing reasonable age verification, a minor manages access
+7 to the platform through means of fraud including, but not limited
+8 to, the use of fake identification by the minor or an individual
+9 claiming to be the parent or legal guardian of the minor.
+10 F. An Internet service provider, or any of its affiliates or
+11 subsidiaries, or search engines will not violate this act solely
+12 when providing access, connection to or from a website, or other
+13 information or content on the Internet, or a facility, system, or
+14 network that is not under that Internet service provider's control,
+15 including transmission, downloading, intermediate storage, access
+16 software, or other service that provides access or connectivity, to
+17 the extent the Internet service provider is not responsible for the
+18 creation of the content or the communication on a social media
+19 platform.
+20 SECTION 5. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 124 of Title 25, unless there is
+22 created a duplication in numbering, reads as follows:
+23 A. A commercial entity or third-party vendor shall not retain
+24 any identifying information of an individual supplied for the
+Req. No. 14736 Page 15
+
+1 purp ose of age verification, except if required for audit and
+2 testing purposes, and in any case for no longer than thirty (30)
+3 days after access to the social media platform has been granted.
+4 B. A commercial entity that is found to have knowingly retained
+5 identifying information of an individual after access to the
+6 material is granted, except as provided for in subsection A of this
+7 section, is liable to the individual for damages resulting from the
+8 retention of the identifying information, including court costs and
+9 reasonable attorney fees as ordered by the court.
+10 SECTION 6. This act shall become effective November 1, 2026.
+11
+12 60-2-14736 MJ 01/09/26
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 14736 Page 16
+
+[DELETED:  P B]
+[DELETED:  P m i]
+[DELETED:  P a " c]
+[DELETED:  P u v i s m m o]
+[DELETED:  P c o d c a " t t]
+[DELETED:  P t c s w a s e d]
+[DELETED:  P s o n a p d n o t t]
+[DELETED:  P o b c s p i t]
+[DELETED:  P t t l s]
+[DELETED:  P m p p s]
+[DELETED:  P a g a c]
+[DELETED:  P t ( p t]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 0]
