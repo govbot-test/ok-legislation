@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Criminal Judiciary",
+    "occurred_at": "2025-04-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB39&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB39"
+}

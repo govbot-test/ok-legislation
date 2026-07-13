@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Second Reading referred to Judiciary",
+    "occurred_at": "2025-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2265&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2265"
+}

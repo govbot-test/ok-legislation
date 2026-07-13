@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Remove Representative Rosecrants as principal House author and substitute with Representative Waldron",
+    "occurred_at": "2025-02-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1955&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1955"
+}

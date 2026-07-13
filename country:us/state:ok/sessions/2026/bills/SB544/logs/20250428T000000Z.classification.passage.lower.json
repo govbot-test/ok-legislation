@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading, Measure and Emergency passed:  Ayes: 83 Nays: 3",
+    "occurred_at": "2025-04-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB544&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB544"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Becomes law without Governor's signature 05/15/2025",
+    "occurred_at": "2025-05-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1516&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1516"
+}

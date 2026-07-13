@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading, Measure passed and Emergency failed:  Ayes: 73 Nays: 12; Ayes: 41 Nays: 42",
+    "occurred_at": "2025-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1493&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1493"
+}

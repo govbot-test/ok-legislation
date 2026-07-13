@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Placed on Third Reading",
+    "occurred_at": "2025-03-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB48&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB48"
+}

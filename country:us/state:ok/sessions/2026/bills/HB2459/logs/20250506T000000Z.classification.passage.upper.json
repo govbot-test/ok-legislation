@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Measure passed:  Ayes: 33  Nays: 13",
+    "occurred_at": "2025-05-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2459&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2459"
+}

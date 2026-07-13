@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "First Reading",
+    "occurred_at": "2025-03-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB96&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB96"
+}

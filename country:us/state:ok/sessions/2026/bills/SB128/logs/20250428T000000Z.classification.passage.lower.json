@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading, Measure passed:  Ayes: 51 Nays: 35",
+    "occurred_at": "2025-04-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB128&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB128"
+}

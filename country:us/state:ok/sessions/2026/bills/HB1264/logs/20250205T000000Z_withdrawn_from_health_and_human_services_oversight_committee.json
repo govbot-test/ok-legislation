@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Withdrawn from Health and Human Services Oversight Committee",
+    "occurred_at": "2025-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1264&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1264"
+}

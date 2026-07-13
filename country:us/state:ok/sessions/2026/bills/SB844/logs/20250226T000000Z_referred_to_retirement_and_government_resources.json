@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Retirement and Government Resources",
+    "occurred_at": "2025-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB844&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB844"
+}

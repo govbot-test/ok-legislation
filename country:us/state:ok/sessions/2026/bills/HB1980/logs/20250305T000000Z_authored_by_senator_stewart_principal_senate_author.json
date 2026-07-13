@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Authored by Senator Stewart (principal Senate author)",
+    "occurred_at": "2025-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1980&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1980"
+}

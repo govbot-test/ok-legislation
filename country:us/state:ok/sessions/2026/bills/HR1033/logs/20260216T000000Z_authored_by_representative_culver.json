@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Authored by Representative Culver",
+    "occurred_at": "2026-02-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HR1033&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR1033"
+}

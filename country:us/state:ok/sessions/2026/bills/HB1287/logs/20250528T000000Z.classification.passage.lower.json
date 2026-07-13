@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Fourth Reading, Measure and Emergency Passed:  Ayes: 82  Nays: 8",
+    "occurred_at": "2025-05-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1287&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1287"
+}

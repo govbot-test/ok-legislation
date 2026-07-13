@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading, Measure passed:  Ayes: 64 Nays: 27",
+    "occurred_at": "2025-05-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1039&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1039"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Failed in Committee - Energy",
+    "occurred_at": "2025-02-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1003&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1003"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Coauthored by Representative(s) Duel, Hilbert, Olsen, Hays, Stark, George, Grego, Hardin, Townley, West (Kevin), Osburn, Roberts, Miller, Culver, Wolfley, Strom, Fetgatter, Lowe (Dick), Dobrinski, Staires, Burns, Eaves, Turner, Hall, Wilk, Blair, Adams, Chapman, Caldwell (Chad), Bashore, Pfeiffer",
+    "occurred_at": "2025-05-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2728&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2728"
+}

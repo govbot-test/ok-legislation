@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Third Reading, Measure failed:  Ayes: 48 Nays: 45",
+    "occurred_at": "2025-03-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2713&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2713"
+}

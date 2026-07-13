@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Remove Representative Hill as principal House author and substitute with Representative Tedford",
+    "occurred_at": "2025-02-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2366&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2366"
+}

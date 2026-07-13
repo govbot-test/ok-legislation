@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Fourth Reading, Measure passed and Emergency failed:  Ayes: 51 Nays: 29; Ayes: 51 Nays: 29",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB212&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB212"
+}

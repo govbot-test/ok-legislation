@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Rules",
+    "occurred_at": "2025-02-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2715&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2715"
+}

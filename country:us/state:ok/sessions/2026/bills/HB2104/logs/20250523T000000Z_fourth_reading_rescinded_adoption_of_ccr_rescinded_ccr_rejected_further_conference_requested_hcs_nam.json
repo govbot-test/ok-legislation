@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Fourth Reading rescinded, adoption of CCR rescinded, CCR rejected, further conference requested, HC's named: Special Conference Committee on HB 2104",
+    "occurred_at": "2025-05-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2104&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2104"
+}

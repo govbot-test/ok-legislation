@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "HAs rejected, conference requested",
+    "occurred_at": "2025-05-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB212&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB212"
+}

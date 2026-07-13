@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Education Oversight committee; Do Pass Common Education",
+    "occurred_at": "2025-02-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2287&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2287"
+}

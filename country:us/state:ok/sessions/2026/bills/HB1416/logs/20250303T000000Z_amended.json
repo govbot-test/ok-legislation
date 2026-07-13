@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amended",
+    "occurred_at": "2025-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1416&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1416"
+}

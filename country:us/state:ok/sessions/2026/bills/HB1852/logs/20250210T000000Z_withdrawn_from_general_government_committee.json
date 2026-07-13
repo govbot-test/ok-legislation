@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Withdrawn from General Government Committee",
+    "occurred_at": "2025-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1852&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1852"
+}

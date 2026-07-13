@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Elections and Ethics",
+    "occurred_at": "2025-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2109&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2109"
+}

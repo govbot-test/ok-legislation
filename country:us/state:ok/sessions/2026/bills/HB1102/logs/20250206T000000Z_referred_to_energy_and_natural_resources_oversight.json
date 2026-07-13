@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Energy and Natural Resources Oversight",
+    "occurred_at": "2025-02-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1102&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1102"
+}
