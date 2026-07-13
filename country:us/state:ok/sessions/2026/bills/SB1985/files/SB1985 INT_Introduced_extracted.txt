@@ -1,0 +1,441 @@
+Title: SENATE BILL 1985 By: Guthrie
+Official Title: SENATE BILL 1985 By: Guthrie
+Number of Sections: 9
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to retirement systems; creating the
+7
+Strategic Pension Protection Act; providing short
+8
+title; defining terms; authorizing the investment of
+8
+state retirement funds in certain digital assets;
+9
+limiting amount of funds to be invested; providing
+9
+for noncodification; providing for codification; and
+10
+providing an effective date.
+10
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+
+Section 2:
+SECTION 1. NEW LAW A new section of law not to be
+14
+15
+codified in the Oklahoma Statutes reads as follows:
+15
+16
+This act shall be known and may be cited as the “Strategic
+16
+17
+Pension Protection Act”.
+17
+18
+
+Section 3:
+SECTION 2. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 2501 of Title 62, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+As used in this act:
+21
+22
+
+Section 4:
+1. “Bitcoin” means the decentralized digital currency launched
+22
+23
+in 2009 based on Satoshi Nakamoto’s white paper titled “Bitcoin: A
+23
+24
+Peer-to-Peer Electronic Cash System”. Bitcoin also means the
+24
+Req. No. 2201 Page 1
+1
+digital asset that is the basis of the bitcoin exchange-traded
+1
+2
+product and is regulated by the United States Securities and
+2
+3
+Exchange Commission;
+3
+4
+
+Section 5:
+2. “Digital asset” means virtual currency, cryptocurrencies,
+4
+5
+natively electronic assets, including stablecoins and non-fungible
+5
+6
+tokens (NFTs), and other digital-only assets that confer economic,
+6
+7
+proprietary, or access rights or powers;
+7
+8
+
+Section 6:
+3. “Exchange-traded product” (ETP) means any financial
+8
+9
+instrument that is approved by the United States Securities and
+9
+10
+Exchange Commission or the Commodity Futures Trading Commission, is
+10
+11
+traded on an American-regulated exchange, and derives its value from
+11
+12
+an underlying pool of assets such as stocks, bonds, commodities, or
+12
+13
+indexes; and
+13
+14
+
+Section 7:
+4. “Stablecoin” means a digital asset that is issued by a
+14
+15
+corporation backed by dollars or high-quality liquid assets and is
+15
+16
+redeemable on demand by the holder at par for a fixed monetary value
+16
+17
+in equivalent United States dollars.
+17
+18
+
+Section 8:
+SECTION 3. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 2502 of Title 62, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+Any state retirement system may invest digital assets in
+21
+22
+exchange-traded products that have been duly registered by either
+22
+23
+the United States Securities and Exchange Commission or the
+23
+24
+Commodity Futures Trading Commission. The amount of funds that may
+24
+Req. No. 2201 Page 2
+1
+be invested in bitcoin or any digital assets with a market cap of
+1
+2
+over Five Hundred Billion Dollars ($500,000,000,000.00) averaged
+2
+3
+over the previous calendar year and stablecoins may not, at the time
+3
+4
+the investment is made, exceed five percent (5%) of the total amount
+4
+5
+of funds in that account.
+5
+6
+
+Section 9:
+SECTION 4. This act shall become effective November 1, 2026.
+6
+7
+7
+8
+60-2-2201 QD 1/15/2026 9:34:30 AM
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2201 Page 3
+[DELETED:  P B G]
+[DELETED:  P]
+[DELETED:  P Q 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1985 By: Guthrie
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to retirement systems; creating the
+7
+Strategic Pension Protection Act; providing short
+8
+title; defining terms; authorizing the investment of
+8
+state retirement funds in certain digital assets;
+9
+limiting amount of funds to be invested; providing
+9
+for noncodification; providing for codification; and
+10
+providing an effective date.
+10
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+SECTION 1. NEW LAW A new section of law not to be
+14
+15
+codified in the Oklahoma Statutes reads as follows:
+15
+16
+This act shall be known and may be cited as the “Strategic
+16
+17
+Pension Protection Act”.
+17
+18
+SECTION 2. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 2501 of Title 62, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+As used in this act:
+21
+22
+1. “Bitcoin” means the decentralized digital currency launched
+22
+23
+in 2009 based on Satoshi Nakamoto’s white paper titled “Bitcoin: A
+23
+24
+Peer-to-Peer Electronic Cash System”. Bitcoin also means the
+24
+Req. No. 2201 Page 1
+
+1
+digital asset that is the basis of the bitcoin exchange-traded
+1
+2
+product and is regulated by the United States Securities and
+2
+3
+Exchange Commission;
+3
+4
+2. “Digital asset” means virtual currency, cryptocurrencies,
+4
+5
+natively electronic assets, including stablecoins and non-fungible
+5
+6
+tokens (NFTs), and other digital-only assets that confer economic,
+6
+7
+proprietary, or access rights or powers;
+7
+8
+3. “Exchange-traded product” (ETP) means any financial
+8
+9
+instrument that is approved by the United States Securities and
+9
+10
+Exchange Commission or the Commodity Futures Trading Commission, is
+10
+11
+traded on an American-regulated exchange, and derives its value from
+11
+12
+an underlying pool of assets such as stocks, bonds, commodities, or
+12
+13
+indexes; and
+13
+14
+4. “Stablecoin” means a digital asset that is issued by a
+14
+15
+corporation backed by dollars or high-quality liquid assets and is
+15
+16
+redeemable on demand by the holder at par for a fixed monetary value
+16
+17
+in equivalent United States dollars.
+17
+18
+SECTION 3. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 2502 of Title 62, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+Any state retirement system may invest digital assets in
+21
+22
+exchange-traded products that have been duly registered by either
+22
+23
+the United States Securities and Exchange Commission or the
+23
+24
+Commodity Futures Trading Commission. The amount of funds that may
+24
+Req. No. 2201 Page 2
+
+1
+be invested in bitcoin or any digital assets with a market cap of
+1
+2
+over Five Hundred Billion Dollars ($500,000,000,000.00) averaged
+2
+3
+over the previous calendar year and stablecoins may not, at the time
+3
+4
+the investment is made, exceed five percent (5%) of the total amount
+4
+5
+of funds in that account.
+5
+6
+SECTION 4. This act shall become effective November 1, 2026.
+6
+7
+7
+8
+60-2-2201 QD 1/15/2026 9:34:30 AM
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2201 Page 3
+
+[DELETED:  P B G]
+[DELETED:  P]
+[DELETED:  P Q 1]
