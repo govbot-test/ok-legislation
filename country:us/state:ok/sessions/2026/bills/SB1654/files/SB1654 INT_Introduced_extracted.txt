@@ -1,0 +1,2788 @@
+Title: SENATE BILL 1654 By: Frix
+Official Title: SENATE BILL 1654 By: Frix
+Number of Sections: 56
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to mobile integrated healthcare;
+7
+defining terms; requiring certain reimbursement by
+8
+health care benefit plan; amending 63 O.S. 2021,
+8
+
+Section 2:
+Section 1-2503, as amended by Section 1, Chapter 276,
+9
+O.S.L. 2022 (63 O.S. Supp. 2025, Section 1-2503),
+9
+which relates to the Oklahoma Emergency Response
+10
+Systems Development Act; defining terms; amending 63
+10
+O.S. 2021, Section 1-2511, which relates to powers
+11
+and duties; directing establishment of mobile
+11
+integrated healthcare program; updating statutory
+12
+language; updating statutory reference; providing for
+12
+promulgation of rules; defining terms; directing the
+13
+Oklahoma Health Care Authority to establish certain
+13
+reimbursement methodology; requiring certain
+14
+reimbursement by the Authority or contracted entity;
+14
+providing for codification; and providing an
+15
+effective date.
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+
+Section 3:
+SECTION 1. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 6050.4 of Title 36, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+A. As used in this section:
+21
+22
+
+Section 4:
+1. “Health care benefit plan” has the same meaning as provided
+22
+23
+in Section 6050.2 of Title 36 of the Oklahoma Statutes; and
+23
+24
+24
+Req. No. 2364 Page 1
+1
+
+Section 5:
+2. “Mobile integrated health care” (MIH) and “mobile integrated
+1
+2
+health care (MIH) supplier” have the same meanings as provided in
+2
+3
+
+Section 6:
+Section 1-2503 of Title 63 of the Oklahoma Statutes.
+3
+4
+B. Any encounter between a mobile integrated healthcare (MIH)
+4
+5
+supplier and an enrollee that results in a treatment without
+5
+6
+transport of the enrollee shall be reimbursed by a health care
+6
+7
+benefit plan at a rate not less than the minimum allowable
+7
+8
+reimbursement rate under the methodology established for the state
+8
+9
+Medicaid program by the Oklahoma Health Care Authority under Section
+9
+10
+4 of this act.
+10
+11
+C. When an MIH supplier triages, treats, and transports an
+11
+12
+enrollee to an alternative destination in accordance with an
+12
+13
+approved MIH program protocol, reimbursement by a health care
+13
+14
+benefit plan shall be at a rate not less than the minimum allowable
+14
+15
+reimbursement rate for basic life support (BLS) services or advanced
+15
+16
+life support (ALS) services, as appropriate based on the condition
+16
+17
+of the patient, including mileage from the scene to the alternative
+17
+18
+destination.
+18
+19
+
+Section 7:
+SECTION 2. AMENDATORY 63 O.S. 2021, Section 1-2503, as
+19
+20
+amended by Section 1, Chapter 276, O.S.L. 2022 (63 O.S. Supp. 2025,
+20
+21
+
+Section 8:
+Section 1-2503), is amended to read as follows:
+21
+22
+
+Section 9:
+Section 1-2503. As used in the Oklahoma Emergency Response
+22
+23
+Systems Development Act:
+23
+24
+24
+Req. No. 2364 Page 2
+1
+
+Section 10:
+1. “Ambulance” means any ground, air or water vehicle which is
+1
+2
+or should be approved by the State Commissioner of Health, designed
+2
+3
+and equipped to transport a patient or patients and to provide
+3
+4
+appropriate on-scene and en route patient stabilization and care as
+4
+5
+required. Vehicles used as ambulances shall meet such standards as
+5
+6
+may be required by the Commissioner for approval, and shall display
+6
+7
+evidence of such approval at all times;
+7
+8
+
+Section 11:
+2. “Ambulance authority” means any public trust or nonprofit
+8
+9
+corporation established by the state or any unit of local government
+9
+10
+or combination of units of government for the express purpose of
+10
+11
+providing, directly or by contract, emergency medical services in a
+11
+12
+specified area of the state;
+12
+13
+
+Section 12:
+3. “Ambulance patient” or “patient” means any person who is or
+13
+14
+will be transported in a reclining position to or from a health care
+14
+15
+facility in an ambulance;
+15
+16
+
+Section 13:
+4. “Ambulance service” means any private firm or governmental
+16
+17
+agency which is or should be licensed by the State Department of
+17
+18
+Health to provide levels of medical care based on certification
+18
+19
+standards promulgated by the Commissioner;
+19
+20
+
+Section 14:
+5. “Ambulance service district” means any county, group of
+20
+21
+counties or parts of counties formed together to provide, operate
+21
+22
+and finance emergency medical services as provided by Section 9C of
+22
+23
+Article X of the Oklahoma Constitution or Sections 1201 through 1221
+23
+24
+of Title 19 of the Oklahoma Statutes;
+24
+Req. No. 2364 Page 3
+1
+
+Section 15:
+6. “Board” means the State Board of Health;
+1
+2
+
+Section 16:
+7. “Certified emergency medical responder” means an individual
+2
+3
+certified by the Department to perform emergency medical services in
+3
+4
+accordance with the Oklahoma Emergency Response Systems Development
+4
+5
+Act and in accordance with the rules and standards promulgated by
+5
+6
+the Commissioner;
+6
+7
+
+Section 17:
+8. “Certified emergency medical response agency” means an
+7
+8
+organization of any type certified by the Department to provide
+8
+9
+emergency medical care and limited transport in an emergency vehicle
+9
+10
+as defined in Section 1-103 of Title 47 of the Oklahoma Statutes. A
+10
+11
+certified emergency medical response agency shall only provide
+11
+12
+transport upon approval by the appropriate online medical control at
+12
+13
+the time of transport. Certified emergency medical response
+13
+14
+agencies may utilize certified emergency medical responders or
+14
+15
+licensed emergency medical personnel; provided, however, that all
+15
+16
+personnel so utilized shall function under the direction of and
+16
+17
+consistent with guidelines for medical control;
+17
+18
+
+Section 18:
+9. “Classification” means an inclusive standardized
+18
+19
+identification of stabilizing and definitive emergency services
+19
+20
+provided by each hospital that treats emergency patients;
+20
+21
+
+Section 19:
+10. “CoAEMSP” means the Committee on Accreditation of
+21
+22
+Educational Programs for the Emergency Medical Services Professions;
+22
+23
+
+Section 20:
+11. “Commissioner” means the State Commissioner of Health;
+23
+24
+24
+Req. No. 2364 Page 4
+1
+
+Section 21:
+12. “Council” means the Trauma and Emergency Response Advisory
+1
+2
+Council created in Section 1-103a.1 of this title;
+2
+3
+
+Section 22:
+13. “Critical care paramedic” or “CCP” means a licensed
+3
+4
+paramedic who has successfully completed critical care training and
+4
+5
+testing requirements in accordance with the Oklahoma Emergency
+5
+6
+Response Systems Development Act and in accordance with the rules
+6
+7
+and standards promulgated by the Commissioner;
+7
+8
+
+Section 23:
+14. “Department” means the State Department of Health;
+8
+9
+
+Section 24:
+15. “Emergency medical services system” means a system which
+9
+10
+provides for the organization and appropriate designation of
+10
+11
+personnel, facilities and equipment for the effective and
+11
+12
+coordinated local, regional and statewide delivery of health care
+12
+13
+services primarily under emergency conditions;
+13
+14
+
+Section 25:
+16. “Letter of review” means the official designation from
+14
+15
+CoAEMSP to a paramedic program that is in the “becoming accredited”
+15
+16
+process;
+16
+17
+
+Section 26:
+17. “Licensed emergency medical personnel” means an emergency
+17
+18
+medical technician (EMT), an intermediate emergency medical
+18
+19
+technician (IEMT), an advanced emergency medical technician (AEMT),
+19
+20
+or a paramedic licensed by the Department to perform emergency
+20
+21
+medical services in accordance with the Oklahoma Emergency Response
+21
+22
+Systems Development Act and the rules and standards promulgated by
+22
+23
+the Commissioner;
+23
+24
+24
+Req. No. 2364 Page 5
+1
+
+Section 27:
+18. “Licensure” means the licensing of emergency medical care
+1
+2
+providers and ambulance services pursuant to rules and standards
+2
+3
+promulgated by the Commissioner at one or more of the following
+3
+4
+levels:
+4
+5
+a. basic life support,
+5
+6
+b. intermediate life support,
+6
+7
+c. paramedic life support,
+7
+8
+d. advanced life support,
+8
+9
+e. stretcher van, and
+9
+10
+f. specialty care, which shall be used solely for
+10
+11
+interhospital transport of patients requiring
+11
+12
+specialized en route medical monitoring and advanced
+12
+13
+life support which exceed the capabilities of the
+13
+14
+equipment and personnel provided by paramedic life
+14
+15
+support.
+15
+16
+Requirements for each level of care shall be established by the
+16
+17
+Commissioner. Licensure at any level of care includes a license to
+17
+18
+operate at any lower level, with the exception of licensure for
+18
+19
+specialty care; provided, however, that the highest level of care
+19
+20
+offered by an ambulance service shall be available twenty-four (24)
+20
+21
+hours each day, three hundred sixty-five (365) days per year.
+21
+22
+Licensure shall be granted or renewed for such periods and under
+22
+23
+such terms and conditions as may be promulgated by the Commissioner;
+23
+24
+24
+Req. No. 2364 Page 6
+1
+
+Section 28:
+19. “Medical control” means local, regional or statewide
+1
+2
+medical direction and quality assurance of health care delivery in
+2
+3
+an emergency medical service system. Online medical control is the
+3
+4
+medical direction given to licensed emergency medical personnel,
+4
+5
+certified emergency medical responders and stretcher van personnel
+5
+6
+by a physician via radio or telephone. Off-line medical control is
+6
+7
+the establishment and monitoring of all medical components of an
+7
+8
+emergency medical service system, which is to include stretcher van
+8
+9
+service including, but not limited to, protocols, standing orders,
+9
+10
+educational programs, and the quality and delivery of online
+10
+11
+control;
+11
+12
+
+Section 29:
+20. “Medical director” means a physician, fully licensed
+12
+13
+without restriction, who acts as a paid or volunteer medical advisor
+13
+14
+to a licensed ambulance service and who monitors and directs the
+14
+15
+care so provided. Such physicians shall meet such qualifications
+15
+16
+and requirements as may be promulgated by the Commissioner;
+16
+17
+
+Section 30:
+21. “Mobile integrated healthcare” (MIH) means a patient-
+17
+18
+centered model of care that:
+18
+19
+a. utilizes licensed emergency medical services personnel
+19
+20
+including, but not limited to, community paramedics,
+20
+21
+paramedics, emergency medical technicians, and other
+21
+22
+qualified health professionals,
+22
+23
+23
+24
+24
+Req. No. 2364 Page 7
+1
+b. provides in-home or on-scene assessment, treatment,
+1
+2
+and referral services to individuals in nonemergency
+2
+3
+or subacute situations,
+3
+4
+c. includes, but is not limited to, treat-in-place,
+4
+5
+telehealth, and transport to alternative destination
+5
+6
+programs,
+6
+7
+d. coordinates with hospitals, clinics, mental health
+7
+8
+facilities, long-term care providers, and primary care
+8
+9
+practitioners to ensure continuity and integration of
+9
+10
+care, and
+10
+11
+e. operates under approved medical direction and
+11
+12
+protocols consistent with standards adopted by the
+12
+13
+State Commissioner of Health;
+13
+14
+
+Section 31:
+22. “Mobile integrated healthcare (MIH) supplier” means an
+14
+15
+ambulance service, fire service, or other agency credentialed by the
+15
+16
+State Department of Health to provide MIH services under paragraph
+16
+17
+13 of Section 1-2511 of this title;
+17
+18
+
+Section 32:
+23. “Region” or “emergency medical service region” means two or
+18
+19
+more municipalities, counties, ambulance districts or other
+19
+20
+political subdivisions exercising joint control over one or more
+20
+21
+providers of emergency medical services and stretcher van service
+21
+22
+through common ordinances, authorities, boards or other means;
+22
+23
+
+Section 33:
+22. 24. “Regional emergency medical services system” means a
+23
+24
+network of organizations, individuals, facilities and equipment
+24
+Req. No. 2364 Page 8
+1
+which serves a region, subject to a unified set of regional rules
+1
+2
+and standards which may exceed, but may not be in contravention of,
+2
+3
+those required by the state, which is under the medical direction of
+3
+4
+a single regional medical director, and which participates directly
+4
+5
+in the delivery of the following services:
+5
+6
+a. medical call-taking and emergency medical services
+6
+7
+dispatching, emergency and routine including priority
+7
+8
+dispatching of first response agencies, stretcher van
+8
+9
+and ambulances,
+9
+10
+b. emergency medical responder services provided by
+10
+11
+emergency medical response agencies,
+11
+12
+c. ambulance services, both whether emergency, routine
+12
+13
+and or stretcher van including, but not limited to,
+13
+14
+the transport of patients in accordance with transport
+14
+15
+protocols approved by the regional medical director,
+15
+16
+and
+16
+17
+d. directions given by physicians directly via radio or
+17
+18
+telephone, or by written protocol, to emergency
+18
+19
+medical response agencies, stretcher van or ambulance
+19
+20
+personnel at the scene of an emergency or while en
+20
+21
+route to a hospital;
+21
+22
+
+Section 34:
+23. 25. “Regional medical director” means a licensed physician,
+22
+23
+who meets or exceeds the qualifications of a medical director as
+23
+24
+defined by the Oklahoma Emergency Response Systems Development Act,
+24
+Req. No. 2364 Page 9
+1
+chosen by an emergency medical service region to provide external
+1
+2
+medical oversight, quality control and related services to that
+2
+3
+region;
+3
+4
+
+Section 35:
+24. 26. “Registration” means the listing of an ambulance
+4
+5
+service in a registry maintained by the Department; provided,
+5
+6
+however, registration shall not be deemed to be a license;
+6
+7
+
+Section 36:
+25. 27. “Stretcher van” means any ground vehicle which is or
+7
+8
+should be approved by the State Commissioner of Health, which is
+8
+9
+designed and equipped to transport individuals on a stretcher or
+9
+10
+gurney type apparatus. Vehicles used as stretcher vans shall meet
+10
+11
+such standards as may be required by the Commissioner for approval
+11
+12
+and shall display evidence of licensure at all times. The
+12
+13
+Commissioner shall not establish Federal Specification KKK-A-1822
+13
+14
+ambulance standards for stretcher vans; provided, a stretcher van
+14
+15
+shall meet Ambulance Manufacturers Division (AMD) Standards 004, 012
+15
+16
+and 013, and shall pass corresponding safety tests. Stretcher van
+16
+17
+services shall only be permitted and approved by the Commissioner in
+17
+18
+emergency medical service regions, ambulance service districts, or
+18
+19
+counties with populations in excess of five hundred thousand
+19
+20
+(500,000) people. Notwithstanding the provisions of this paragraph,
+20
+21
+stretcher van transports may be made to and from any federal or
+21
+22
+state veterans facility. Stretcher vans may carry and provide
+22
+23
+oxygen and may carry and utilize any equipment necessary for the
+23
+24
+provision of oxygen;
+24
+Req. No. 2364 Page 10
+1
+
+Section 37:
+26. 28. “Stretcher van passenger” means any person who is or
+1
+2
+will be transported in a reclining position on a stretcher or
+2
+3
+gurney, who is medically stable, nonemergent and does not require
+3
+4
+any medical monitoring equipment or assistance during transport
+4
+5
+except oxygen. Passengers must be authorized as qualified to be
+5
+6
+transported by stretcher van. Passengers shall be authorized
+6
+7
+through screening provided by a certified medical dispatching
+7
+8
+protocol approved by the Department. All patients being transported
+8
+9
+to or from any medically licensed facility shall be screened before
+9
+10
+transport. Any patient transported without screening shall be a
+10
+11
+violation of Commissioner rule by the transporting company and
+11
+12
+subject to administrative procedures of the Department; and
+12
+13
+
+Section 38:
+27. 29. “Transport protocol” means the written instructions
+13
+14
+governing decision-making at the scene of a medical emergency by
+14
+15
+ambulance personnel regarding the selection of the hospital to which
+15
+16
+the patient shall be transported. Transport protocols shall be
+16
+17
+developed by the regional medical director for a regional emergency
+17
+18
+medical services system or by the Department if no regional
+18
+19
+emergency medical services system has been established. Such
+19
+20
+transport protocols shall adhere to, at a minimum, the following
+20
+21
+guidelines:
+21
+22
+a. nonemergency, routine transport shall be to the
+22
+23
+facility of the patient’s choice,
+23
+24
+24
+Req. No. 2364 Page 11
+1
+b. urgent or emergency transport not involving life-
+1
+2
+threatening medical illness or injury shall be to the
+2
+3
+nearest facility, or, subject to transport
+3
+4
+availability and system area coverage, to the facility
+4
+5
+of the patient’s choice,
+5
+6
+c. life-threatening medical illness or injury shall
+6
+7
+require transport to the nearest health care facility
+7
+8
+appropriate to the needs of the patient as established
+8
+9
+by regional or state guidelines, and
+9
+10
+d. emergency ambulance transportation is not required
+10
+11
+when a patient’s apparent clinical condition, as
+11
+12
+defined by applicable medical treatment protocols,
+12
+13
+does not warrant emergency ambulance transport, and
+13
+14
+nontransport of patients is authorized pursuant to
+14
+15
+applicable medical treatment protocols established by
+15
+16
+the regional medical director.
+16
+17
+
+Section 39:
+SECTION 3. AMENDATORY 63 O.S. 2021, Section 1-2511, is
+17
+18
+amended to read as follows:
+18
+19
+
+Section 40:
+Section 1-2511. The State Commissioner of Health shall have the
+19
+20
+following powers and duties with regard to an Oklahoma Emergency
+20
+21
+Medical Services Improvement Program:
+21
+22
+
+Section 41:
+1. Administer and coordinate all federal and state programs,
+22
+23
+not specifically assigned by state law to other state agencies,
+23
+24
+which include provisions of the Federal federal Emergency Medical
+24
+Req. No. 2364 Page 12
+1
+Services Systems Act of 1973 and other federal laws and programs
+1
+2
+relating to the development of emergency medical services in this
+2
+3
+state. The administration and coordination of federal and state
+3
+4
+laws and programs relating to the development, planning, prevention,
+4
+5
+improvement and management of emergency medical services shall be
+5
+6
+conducted by the Division of Emergency Medical Services, as
+6
+7
+prescribed by Section 1-2510 of this title;
+7
+8
+
+Section 42:
+2. Assist private and public organizations, emergency medical
+8
+9
+and health care providers, ambulance authorities, district boards
+9
+10
+and other interested persons or groups in improving emergency
+10
+11
+medical services at the local, municipal, district or state levels.
+11
+12
+This assistance shall be through professional advice and technical
+12
+13
+assistance;
+13
+14
+
+Section 43:
+3. Coordinate the efforts of local units of government to
+14
+15
+establish service districts and set up boards of trustees or other
+15
+16
+authorities to operate and finance emergency medical services in the
+16
+17
+state as provided under Section 9C of Article X of the Oklahoma
+17
+18
+Constitution or under Sections 1201 through 1221 of Title 19 of the
+18
+19
+Oklahoma Statutes. The Commissioner shall evaluate all proposed
+19
+20
+district areas and operational systems to determine the feasibility
+20
+21
+of their economic and health services delivery;
+21
+22
+
+Section 44:
+4. Prepare, maintain and utilize a comprehensive plan and
+22
+23
+program for emergency medical services development throughout the
+23
+24
+state to be adopted by the State Board Commissioner of Health,
+24
+Req. No. 2364 Page 13
+1
+giving consideration to the recommendations of the Trauma and
+1
+2
+Emergency Response Advisory Council created in Section 44 of this
+2
+3
+act Section 1-103a.1 of this title, and incorporated within the
+3
+4
+State Health Plan. The plan shall establish goals, objectives and
+4
+5
+standards for a statewide integrated system and a timetable for
+5
+6
+accomplishing and implementing different elements of the system.
+6
+7
+The plan shall also include, but not be limited to, all components
+7
+8
+of an emergency medical services system; regional and statewide
+8
+9
+planning; the establishment of standards and the appropriate
+9
+10
+criteria for the designation of facilities; data collection and
+10
+11
+quality assurance; and funding;
+11
+12
+
+Section 45:
+5. Maintain a comprehensive registry of all ambulance services
+12
+13
+operating within the state, to be published annually, and maintain a
+13
+14
+registry of critical care paramedics. All ambulance service
+14
+15
+providers shall register annually with the Commissioner on forms
+15
+16
+supplied by the State Department of Health, containing such requests
+16
+17
+for information as may be deemed necessary by the Commissioner;
+17
+18
+
+Section 46:
+6. Develop a standard report form which may be used by local,
+18
+19
+regional and statewide emergency medical services and emergency
+19
+20
+medical services systems to facilitate the collection of data
+20
+21
+related to the provision of emergency medical and trauma care. The
+21
+22
+Commissioner shall also develop a standardized emergency medical
+22
+23
+services data set and an electronic submission standard. Each
+23
+24
+ambulance service shall submit the information required in this
+24
+Req. No. 2364 Page 14
+1
+
+Section 47:
+section at such intervals as may be prescribed by rules promulgated
+1
+2
+by the State Board of Health Commissioner;
+2
+3
+
+Section 48:
+7. Evaluate and certify all emergency medical services training
+3
+4
+programs and emergency medical technician training courses and
+4
+5
+operational services in accordance with specifications and
+5
+6
+procedures approved by the Board Commissioner. Nonaccredited
+6
+7
+paramedic training programs shall begin their final paramedic
+7
+8
+training class by December 31, 2012. Only paramedic training
+8
+9
+programs accredited or receiving a Letter of Review (LOR) by CoAEMSP
+9
+10
+the Committee on Accreditation of Educational Programs for the
+10
+11
+Emergency Medical Services Professions (CoAEMSP) may enroll new
+11
+12
+paramedic students after January 1, 2013;
+12
+13
+
+Section 49:
+8. Provide an emergency medical personnel and ambulance service
+13
+14
+licensure program to include a requirement that ambulance services
+14
+15
+licensed as specialty care ambulance providers shall be used solely
+15
+16
+for interhospital transport of patients requiring specialized en
+16
+17
+route medical monitoring and advanced life support which exceeds the
+17
+18
+capabilities of the equipment and personnel provided by paramedic
+18
+19
+life support;
+19
+20
+
+Section 50:
+9. Employ and prescribe the duties of employees as may be
+20
+21
+necessary to administer the provisions of the Oklahoma Emergency
+21
+22
+Response Systems Development Act;
+22
+23
+23
+24
+24
+Req. No. 2364 Page 15
+1
+
+Section 51:
+10. Apply for and accept public and private gifts, grants,
+1
+2
+donations and other forms of financial assistance designed for the
+2
+3
+support of emergency medical services;
+3
+4
+
+Section 52:
+11. Develop a classification system for all hospitals that
+4
+5
+treat emergency patients. The classification system shall:
+5
+6
+a. identify stabilizing and definitive emergency services
+6
+7
+provided by each hospital, and
+7
+8
+b. require each hospital to notify the regional emergency
+8
+9
+medical services system control when treatment
+9
+10
+services are at maximum capacity and that emergency
+10
+11
+patients should be diverted to another hospital; and
+11
+12
+
+Section 53:
+12. Develop and monitor a statewide emergency medical services
+12
+13
+and trauma analysis system designed to:
+13
+14
+a. identify emergency patients and severely injured
+14
+15
+trauma patients treated in Oklahoma this state,
+15
+16
+b. identify the total amount of uncompensated emergency
+16
+17
+care provided each fiscal year by each hospital and
+17
+18
+ambulance service in Oklahoma this state, and
+18
+19
+c. monitor emergency patient care provided by emergency
+19
+20
+medical service and hospitals; and
+20
+21
+
+Section 54:
+13. Establish and administer a mobile integrated healthcare
+21
+22
+(MIH) program, formerly known as the community paramedic program,
+22
+23
+for the purpose of improving access to appropriate medical care,
+23
+24
+reducing unnecessary emergency department utilization, and enhancing
+24
+Req. No. 2364 Page 16
+1
+coordination between emergency medical services, hospitals, and
+1
+2
+community health providers. The Commissioner shall promulgate rules
+2
+3
+as necessary to:
+3
+4
+a. establish clinical, operational, and reporting
+4
+5
+standards for MIH suppliers,
+5
+6
+b. define eligibility and credentialing requirements for
+6
+7
+participating agencies and personnel,
+7
+8
+c. ensure compliance with emergency medical services
+8
+9
+licensing and medical oversight requirements,
+9
+10
+d. establish procedures for program evaluation, quality
+10
+11
+assurance, and outcome reporting, and
+11
+12
+e. facilitate participation of MIH suppliers in public
+12
+13
+and private reimbursement systems, including the state
+13
+14
+Medicaid program and commercial insurance plans, in
+14
+15
+collaboration with the Oklahoma Health Care Authority,
+15
+16
+the Insurance Department, and the Department of Mental
+16
+17
+Health and Substance Abuse Services.
+17
+18
+
+Section 55:
+SECTION 4. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 5025.1 of Title 63, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+A. As used in this section, “mobile integrated healthcare”
+21
+22
+(MIH) and “mobile integrated healthcare (MIH) supplier” have the
+22
+23
+same meanings as provided in Section 1-2503 of Title 63 of the
+23
+24
+Oklahoma Statutes.
+24
+Req. No. 2364 Page 17
+1
+B. The Oklahoma Health Care Authority shall establish a
+1
+2
+reimbursement methodology for encounters between a mobile integrated
+2
+3
+healthcare (MIH) supplier and a Medicaid member that result in a
+3
+4
+treatment without transport of the member.
+4
+5
+C. Any encounter between an MIH supplier and a Medicaid member
+5
+6
+that results in a treatment without transport of the member shall be
+6
+7
+reimbursed by the Authority or a contracted entity at a rate not
+7
+8
+less than the minimum allowable reimbursement rate under the
+8
+9
+methodology established under subsection B of this section.
+9
+10
+D. Unless the rate described in subsection H of Section 4002.12
+10
+11
+of Title 56 of the Oklahoma Statutes applies, when an MIH supplier
+11
+12
+triages, treats, and transports a Medicaid member to an alternative
+12
+13
+destination in accordance with an approved MIH program protocol,
+13
+14
+reimbursement by the Authority or a contracted entity shall be at a
+14
+15
+rate not less than the minimum allowable reimbursement rate for
+15
+16
+basic life support (BLS) services or advanced life support (ALS)
+16
+17
+services, as appropriate based on the condition of the patient,
+17
+18
+including mileage from the scene to the alternative destination.
+18
+19
+
+Section 56:
+SECTION 5. This act shall become effective January 1, 2027.
+19
+20
+20
+21
+60-2-2364 DC 1/13/2026 8:30:54 PM
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2364 Page 18
+[DELETED:  P B F]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P b i p a s s]
+[DELETED:  P u]
+[DELETED:  P p i c o]
+[DELETED:  P m e a d]
+[DELETED:  P]
+[DELETED:  P n]
+[DELETED:  P u l e]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P i r i i m]
+[DELETED:  P e d e e f]
+[DELETED:  P D 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1654 By: Frix
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to mobile integrated healthcare;
+7
+defining terms; requiring certain reimbursement by
+8
+health care benefit plan; amending 63 O.S. 2021,
+8
+Section 1-2503, as amended by Section 1, Chapter 276,
+9
+O.S.L. 2022 (63 O.S. Supp. 2025, Section 1-2503),
+9
+which relates to the Oklahoma Emergency Response
+10
+Systems Development Act; defining terms; amending 63
+10
+O.S. 2021, Section 1-2511, which relates to powers
+11
+and duties; directing establishment of mobile
+11
+integrated healthcare program; updating statutory
+12
+language; updating statutory reference; providing for
+12
+promulgation of rules; defining terms; directing the
+13
+Oklahoma Health Care Authority to establish certain
+13
+reimbursement methodology; requiring certain
+14
+reimbursement by the Authority or contracted entity;
+14
+providing for codification; and providing an
+15
+effective date.
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+SECTION 1. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 6050.4 of Title 36, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+A. As used in this section:
+21
+22
+1. “Health care benefit plan” has the same meaning as provided
+22
+23
+in Section 6050.2 of Title 36 of the Oklahoma Statutes; and
+23
+24
+24
+Req. No. 2364 Page 1
+
+1
+2. “Mobile integrated health care” (MIH) and “mobile integrated
+1
+2
+health care (MIH) supplier” have the same meanings as provided in
+2
+3
+Section 1-2503 of Title 63 of the Oklahoma Statutes.
+3
+4
+B. Any encounter between a mobile integrated healthcare (MIH)
+4
+5
+supplier and an enrollee that results in a treatment without
+5
+6
+transport of the enrollee shall be reimbursed by a health care
+6
+7
+benefit plan at a rate not less than the minimum allowable
+7
+8
+reimbursement rate under the methodology established for the state
+8
+9
+Medicaid program by the Oklahoma Health Care Authority under Section
+9
+10
+4 of this act.
+10
+11
+C. When an MIH supplier triages, treats, and transports an
+11
+12
+enrollee to an alternative destination in accordance with an
+12
+13
+approved MIH program protocol, reimbursement by a health care
+13
+14
+benefit plan shall be at a rate not less than the minimum allowable
+14
+15
+reimbursement rate for basic life support (BLS) services or advanced
+15
+16
+life support (ALS) services, as appropriate based on the condition
+16
+17
+of the patient, including mileage from the scene to the alternative
+17
+18
+destination.
+18
+19
+SECTION 2. AMENDATORY 63 O.S. 2021, Section 1-2503, as
+19
+20
+amended by Section 1, Chapter 276, O.S.L. 2022 (63 O.S. Supp. 2025,
+20
+21
+Section 1-2503), is amended to read as follows:
+21
+22
+Section 1-2503. As used in the Oklahoma Emergency Response
+22
+23
+Systems Development Act:
+23
+24
+24
+Req. No. 2364 Page 2
+
+1
+1. “Ambulance” means any ground, air or water vehicle which is
+1
+2
+or should be approved by the State Commissioner of Health, designed
+2
+3
+and equipped to transport a patient or patients and to provide
+3
+4
+appropriate on-scene and en route patient stabilization and care as
+4
+5
+required. Vehicles used as ambulances shall meet such standards as
+5
+6
+may be required by the Commissioner for approval, and shall display
+6
+7
+evidence of such approval at all times;
+7
+8
+2. “Ambulance authority” means any public trust or nonprofit
+8
+9
+corporation established by the state or any unit of local government
+9
+10
+or combination of units of government for the express purpose of
+10
+11
+providing, directly or by contract, emergency medical services in a
+11
+12
+specified area of the state;
+12
+13
+3. “Ambulance patient” or “patient” means any person who is or
+13
+14
+will be transported in a reclining position to or from a health care
+14
+15
+facility in an ambulance;
+15
+16
+4. “Ambulance service” means any private firm or governmental
+16
+17
+agency which is or should be licensed by the State Department of
+17
+18
+Health to provide levels of medical care based on certification
+18
+19
+standards promulgated by the Commissioner;
+19
+20
+5. “Ambulance service district” means any county, group of
+20
+21
+counties or parts of counties formed together to provide, operate
+21
+22
+and finance emergency medical services as provided by Section 9C of
+22
+23
+Article X of the Oklahoma Constitution or Sections 1201 through 1221
+23
+24
+of Title 19 of the Oklahoma Statutes;
+24
+Req. No. 2364 Page 3
+
+1
+6. “Board” means the State Board of Health;
+1
+2
+7. “Certified emergency medical responder” means an individual
+2
+3
+certified by the Department to perform emergency medical services in
+3
+4
+accordance with the Oklahoma Emergency Response Systems Development
+4
+5
+Act and in accordance with the rules and standards promulgated by
+5
+6
+the Commissioner;
+6
+7
+8. “Certified emergency medical response agency” means an
+7
+8
+organization of any type certified by the Department to provide
+8
+9
+emergency medical care and limited transport in an emergency vehicle
+9
+10
+as defined in Section 1-103 of Title 47 of the Oklahoma Statutes. A
+10
+11
+certified emergency medical response agency shall only provide
+11
+12
+transport upon approval by the appropriate online medical control at
+12
+13
+the time of transport. Certified emergency medical response
+13
+14
+agencies may utilize certified emergency medical responders or
+14
+15
+licensed emergency medical personnel; provided, however, that all
+15
+16
+personnel so utilized shall function under the direction of and
+16
+17
+consistent with guidelines for medical control;
+17
+18
+9. “Classification” means an inclusive standardized
+18
+19
+identification of stabilizing and definitive emergency services
+19
+20
+provided by each hospital that treats emergency patients;
+20
+21
+10. “CoAEMSP” means the Committee on Accreditation of
+21
+22
+Educational Programs for the Emergency Medical Services Professions;
+22
+23
+11. “Commissioner” means the State Commissioner of Health;
+23
+24
+24
+Req. No. 2364 Page 4
+
+1
+12. “Council” means the Trauma and Emergency Response Advisory
+1
+2
+Council created in Section 1-103a.1 of this title;
+2
+3
+13. “Critical care paramedic” or “CCP” means a licensed
+3
+4
+paramedic who has successfully completed critical care training and
+4
+5
+testing requirements in accordance with the Oklahoma Emergency
+5
+6
+Response Systems Development Act and in accordance with the rules
+6
+7
+and standards promulgated by the Commissioner;
+7
+8
+14. “Department” means the State Department of Health;
+8
+9
+15. “Emergency medical services system” means a system which
+9
+10
+provides for the organization and appropriate designation of
+10
+11
+personnel, facilities and equipment for the effective and
+11
+12
+coordinated local, regional and statewide delivery of health care
+12
+13
+services primarily under emergency conditions;
+13
+14
+16. “Letter of review” means the official designation from
+14
+15
+CoAEMSP to a paramedic program that is in the “becoming accredited”
+15
+16
+process;
+16
+17
+17. “Licensed emergency medical personnel” means an emergency
+17
+18
+medical technician (EMT), an intermediate emergency medical
+18
+19
+technician (IEMT), an advanced emergency medical technician (AEMT),
+19
+20
+or a paramedic licensed by the Department to perform emergency
+20
+21
+medical services in accordance with the Oklahoma Emergency Response
+21
+22
+Systems Development Act and the rules and standards promulgated by
+22
+23
+the Commissioner;
+23
+24
+24
+Req. No. 2364 Page 5
+
+1
+18. “Licensure” means the licensing of emergency medical care
+1
+2
+providers and ambulance services pursuant to rules and standards
+2
+3
+promulgated by the Commissioner at one or more of the following
+3
+4
+levels:
+4
+5
+a. basic life support,
+5
+6
+b. intermediate life support,
+6
+7
+c. paramedic life support,
+7
+8
+d. advanced life support,
+8
+9
+e. stretcher van, and
+9
+10
+f. specialty care, which shall be used solely for
+10
+11
+interhospital transport of patients requiring
+11
+12
+specialized en route medical monitoring and advanced
+12
+13
+life support which exceed the capabilities of the
+13
+14
+equipment and personnel provided by paramedic life
+14
+15
+support.
+15
+16
+Requirements for each level of care shall be established by the
+16
+17
+Commissioner. Licensure at any level of care includes a license to
+17
+18
+operate at any lower level, with the exception of licensure for
+18
+19
+specialty care; provided, however, that the highest level of care
+19
+20
+offered by an ambulance service shall be available twenty-four (24)
+20
+21
+hours each day, three hundred sixty-five (365) days per year.
+21
+22
+Licensure shall be granted or renewed for such periods and under
+22
+23
+such terms and conditions as may be promulgated by the Commissioner;
+23
+24
+24
+Req. No. 2364 Page 6
+
+1
+19. “Medical control” means local, regional or statewide
+1
+2
+medical direction and quality assurance of health care delivery in
+2
+3
+an emergency medical service system. Online medical control is the
+3
+4
+medical direction given to licensed emergency medical personnel,
+4
+5
+certified emergency medical responders and stretcher van personnel
+5
+6
+by a physician via radio or telephone. Off-line medical control is
+6
+7
+the establishment and monitoring of all medical components of an
+7
+8
+emergency medical service system, which is to include stretcher van
+8
+9
+service including, but not limited to, protocols, standing orders,
+9
+10
+educational programs, and the quality and delivery of online
+10
+11
+control;
+11
+12
+20. “Medical director” means a physician, fully licensed
+12
+13
+without restriction, who acts as a paid or volunteer medical advisor
+13
+14
+to a licensed ambulance service and who monitors and directs the
+14
+15
+care so provided. Such physicians shall meet such qualifications
+15
+16
+and requirements as may be promulgated by the Commissioner;
+16
+17
+21. “Mobile integrated healthcare” (MIH) means a patient-
+17
+18
+centered model of care that:
+18
+19
+a. utilizes licensed emergency medical services personnel
+19
+20
+including, but not limited to, community paramedics,
+20
+21
+paramedics, emergency medical technicians, and other
+21
+22
+qualified health professionals,
+22
+23
+23
+24
+24
+Req. No. 2364 Page 7
+
+1
+b. provides in-home or on-scene assessment, treatment,
+1
+2
+and referral services to individuals in nonemergency
+2
+3
+or subacute situations,
+3
+4
+c. includes, but is not limited to, treat-in-place,
+4
+5
+telehealth, and transport to alternative destination
+5
+6
+programs,
+6
+7
+d. coordinates with hospitals, clinics, mental health
+7
+8
+facilities, long-term care providers, and primary care
+8
+9
+practitioners to ensure continuity and integration of
+9
+10
+care, and
+10
+11
+e. operates under approved medical direction and
+11
+12
+protocols consistent with standards adopted by the
+12
+13
+State Commissioner of Health;
+13
+14
+22. “Mobile integrated healthcare (MIH) supplier” means an
+14
+15
+ambulance service, fire service, or other agency credentialed by the
+15
+16
+State Department of Health to provide MIH services under paragraph
+16
+17
+13 of Section 1-2511 of this title;
+17
+18
+23. “Region” or “emergency medical service region” means two or
+18
+19
+more municipalities, counties, ambulance districts or other
+19
+20
+political subdivisions exercising joint control over one or more
+20
+21
+providers of emergency medical services and stretcher van service
+21
+22
+through common ordinances, authorities, boards or other means;
+22
+23
+22. 24. “Regional emergency medical services system” means a
+23
+24
+network of organizations, individuals, facilities and equipment
+24
+Req. No. 2364 Page 8
+
+1
+which serves a region, subject to a unified set of regional rules
+1
+2
+and standards which may exceed, but may not be in contravention of,
+2
+3
+those required by the state, which is under the medical direction of
+3
+4
+a single regional medical director, and which participates directly
+4
+5
+in the delivery of the following services:
+5
+6
+a. medical call-taking and emergency medical services
+6
+7
+dispatching, emergency and routine including priority
+7
+8
+dispatching of first response agencies, stretcher van
+8
+9
+and ambulances,
+9
+10
+b. emergency medical responder services provided by
+10
+11
+emergency medical response agencies,
+11
+12
+c. ambulance services, both whether emergency, routine
+12
+13
+and or stretcher van including, but not limited to,
+13
+14
+the transport of patients in accordance with transport
+14
+15
+protocols approved by the regional medical director,
+15
+16
+and
+16
+17
+d. directions given by physicians directly via radio or
+17
+18
+telephone, or by written protocol, to emergency
+18
+19
+medical response agencies, stretcher van or ambulance
+19
+20
+personnel at the scene of an emergency or while en
+20
+21
+route to a hospital;
+21
+22
+23. 25. “Regional medical director” means a licensed physician,
+22
+23
+who meets or exceeds the qualifications of a medical director as
+23
+24
+defined by the Oklahoma Emergency Response Systems Development Act,
+24
+Req. No. 2364 Page 9
+
+1
+chosen by an emergency medical service region to provide external
+1
+2
+medical oversight, quality control and related services to that
+2
+3
+region;
+3
+4
+24. 26. “Registration” means the listing of an ambulance
+4
+5
+service in a registry maintained by the Department; provided,
+5
+6
+however, registration shall not be deemed to be a license;
+6
+7
+25. 27. “Stretcher van” means any ground vehicle which is or
+7
+8
+should be approved by the State Commissioner of Health, which is
+8
+9
+designed and equipped to transport individuals on a stretcher or
+9
+10
+gurney type apparatus. Vehicles used as stretcher vans shall meet
+10
+11
+such standards as may be required by the Commissioner for approval
+11
+12
+and shall display evidence of licensure at all times. The
+12
+13
+Commissioner shall not establish Federal Specification KKK-A-1822
+13
+14
+ambulance standards for stretcher vans; provided, a stretcher van
+14
+15
+shall meet Ambulance Manufacturers Division (AMD) Standards 004, 012
+15
+16
+and 013, and shall pass corresponding safety tests. Stretcher van
+16
+17
+services shall only be permitted and approved by the Commissioner in
+17
+18
+emergency medical service regions, ambulance service districts, or
+18
+19
+counties with populations in excess of five hundred thousand
+19
+20
+(500,000) people. Notwithstanding the provisions of this paragraph,
+20
+21
+stretcher van transports may be made to and from any federal or
+21
+22
+state veterans facility. Stretcher vans may carry and provide
+22
+23
+oxygen and may carry and utilize any equipment necessary for the
+23
+24
+provision of oxygen;
+24
+Req. No. 2364 Page 10
+
+1
+26. 28. “Stretcher van passenger” means any person who is or
+1
+2
+will be transported in a reclining position on a stretcher or
+2
+3
+gurney, who is medically stable, nonemergent and does not require
+3
+4
+any medical monitoring equipment or assistance during transport
+4
+5
+except oxygen. Passengers must be authorized as qualified to be
+5
+6
+transported by stretcher van. Passengers shall be authorized
+6
+7
+through screening provided by a certified medical dispatching
+7
+8
+protocol approved by the Department. All patients being transported
+8
+9
+to or from any medically licensed facility shall be screened before
+9
+10
+transport. Any patient transported without screening shall be a
+10
+11
+violation of Commissioner rule by the transporting company and
+11
+12
+subject to administrative procedures of the Department; and
+12
+13
+27. 29. “Transport protocol” means the written instructions
+13
+14
+governing decision-making at the scene of a medical emergency by
+14
+15
+ambulance personnel regarding the selection of the hospital to which
+15
+16
+the patient shall be transported. Transport protocols shall be
+16
+17
+developed by the regional medical director for a regional emergency
+17
+18
+medical services system or by the Department if no regional
+18
+19
+emergency medical services system has been established. Such
+19
+20
+transport protocols shall adhere to, at a minimum, the following
+20
+21
+guidelines:
+21
+22
+a. nonemergency, routine transport shall be to the
+22
+23
+facility of the patient’s choice,
+23
+24
+24
+Req. No. 2364 Page 11
+
+1
+b. urgent or emergency transport not involving life-
+1
+2
+threatening medical illness or injury shall be to the
+2
+3
+nearest facility, or, subject to transport
+3
+4
+availability and system area coverage, to the facility
+4
+5
+of the patient’s choice,
+5
+6
+c. life-threatening medical illness or injury shall
+6
+7
+require transport to the nearest health care facility
+7
+8
+appropriate to the needs of the patient as established
+8
+9
+by regional or state guidelines, and
+9
+10
+d. emergency ambulance transportation is not required
+10
+11
+when a patient’s apparent clinical condition, as
+11
+12
+defined by applicable medical treatment protocols,
+12
+13
+does not warrant emergency ambulance transport, and
+13
+14
+nontransport of patients is authorized pursuant to
+14
+15
+applicable medical treatment protocols established by
+15
+16
+the regional medical director.
+16
+17
+SECTION 3. AMENDATORY 63 O.S. 2021, Section 1-2511, is
+17
+18
+amended to read as follows:
+18
+19
+Section 1-2511. The State Commissioner of Health shall have the
+19
+20
+following powers and duties with regard to an Oklahoma Emergency
+20
+21
+Medical Services Improvement Program:
+21
+22
+1. Administer and coordinate all federal and state programs,
+22
+23
+not specifically assigned by state law to other state agencies,
+23
+24
+which include provisions of the Federal federal Emergency Medical
+24
+Req. No. 2364 Page 12
+
+1
+Services Systems Act of 1973 and other federal laws and programs
+1
+2
+relating to the development of emergency medical services in this
+2
+3
+state. The administration and coordination of federal and state
+3
+4
+laws and programs relating to the development, planning, prevention,
+4
+5
+improvement and management of emergency medical services shall be
+5
+6
+conducted by the Division of Emergency Medical Services, as
+6
+7
+prescribed by Section 1-2510 of this title;
+7
+8
+2. Assist private and public organizations, emergency medical
+8
+9
+and health care providers, ambulance authorities, district boards
+9
+10
+and other interested persons or groups in improving emergency
+10
+11
+medical services at the local, municipal, district or state levels.
+11
+12
+This assistance shall be through professional advice and technical
+12
+13
+assistance;
+13
+14
+3. Coordinate the efforts of local units of government to
+14
+15
+establish service districts and set up boards of trustees or other
+15
+16
+authorities to operate and finance emergency medical services in the
+16
+17
+state as provided under Section 9C of Article X of the Oklahoma
+17
+18
+Constitution or under Sections 1201 through 1221 of Title 19 of the
+18
+19
+Oklahoma Statutes. The Commissioner shall evaluate all proposed
+19
+20
+district areas and operational systems to determine the feasibility
+20
+21
+of their economic and health services delivery;
+21
+22
+4. Prepare, maintain and utilize a comprehensive plan and
+22
+23
+program for emergency medical services development throughout the
+23
+24
+state to be adopted by the State Board Commissioner of Health,
+24
+Req. No. 2364 Page 13
+
+1
+giving consideration to the recommendations of the Trauma and
+1
+2
+Emergency Response Advisory Council created in Section 44 of this
+2
+3
+act Section 1-103a.1 of this title, and incorporated within the
+3
+4
+State Health Plan. The plan shall establish goals, objectives and
+4
+5
+standards for a statewide integrated system and a timetable for
+5
+6
+accomplishing and implementing different elements of the system.
+6
+7
+The plan shall also include, but not be limited to, all components
+7
+8
+of an emergency medical services system; regional and statewide
+8
+9
+planning; the establishment of standards and the appropriate
+9
+10
+criteria for the designation of facilities; data collection and
+10
+11
+quality assurance; and funding;
+11
+12
+5. Maintain a comprehensive registry of all ambulance services
+12
+13
+operating within the state, to be published annually, and maintain a
+13
+14
+registry of critical care paramedics. All ambulance service
+14
+15
+providers shall register annually with the Commissioner on forms
+15
+16
+supplied by the State Department of Health, containing such requests
+16
+17
+for information as may be deemed necessary by the Commissioner;
+17
+18
+6. Develop a standard report form which may be used by local,
+18
+19
+regional and statewide emergency medical services and emergency
+19
+20
+medical services systems to facilitate the collection of data
+20
+21
+related to the provision of emergency medical and trauma care. The
+21
+22
+Commissioner shall also develop a standardized emergency medical
+22
+23
+services data set and an electronic submission standard. Each
+23
+24
+ambulance service shall submit the information required in this
+24
+Req. No. 2364 Page 14
+
+1
+section at such intervals as may be prescribed by rules promulgated
+1
+2
+by the State Board of Health Commissioner;
+2
+3
+7. Evaluate and certify all emergency medical services training
+3
+4
+programs and emergency medical technician training courses and
+4
+5
+operational services in accordance with specifications and
+5
+6
+procedures approved by the Board Commissioner. Nonaccredited
+6
+7
+paramedic training programs shall begin their final paramedic
+7
+8
+training class by December 31, 2012. Only paramedic training
+8
+9
+programs accredited or receiving a Letter of Review (LOR) by CoAEMSP
+9
+10
+the Committee on Accreditation of Educational Programs for the
+10
+11
+Emergency Medical Services Professions (CoAEMSP) may enroll new
+11
+12
+paramedic students after January 1, 2013;
+12
+13
+8. Provide an emergency medical personnel and ambulance service
+13
+14
+licensure program to include a requirement that ambulance services
+14
+15
+licensed as specialty care ambulance providers shall be used solely
+15
+16
+for interhospital transport of patients requiring specialized en
+16
+17
+route medical monitoring and advanced life support which exceeds the
+17
+18
+capabilities of the equipment and personnel provided by paramedic
+18
+19
+life support;
+19
+20
+9. Employ and prescribe the duties of employees as may be
+20
+21
+necessary to administer the provisions of the Oklahoma Emergency
+21
+22
+Response Systems Development Act;
+22
+23
+23
+24
+24
+Req. No. 2364 Page 15
+
+1
+10. Apply for and accept public and private gifts, grants,
+1
+2
+donations and other forms of financial assistance designed for the
+2
+3
+support of emergency medical services;
+3
+4
+11. Develop a classification system for all hospitals that
+4
+5
+treat emergency patients. The classification system shall:
+5
+6
+a. identify stabilizing and definitive emergency services
+6
+7
+provided by each hospital, and
+7
+8
+b. require each hospital to notify the regional emergency
+8
+9
+medical services system control when treatment
+9
+10
+services are at maximum capacity and that emergency
+10
+11
+patients should be diverted to another hospital; and
+11
+12
+12. Develop and monitor a statewide emergency medical services
+12
+13
+and trauma analysis system designed to:
+13
+14
+a. identify emergency patients and severely injured
+14
+15
+trauma patients treated in Oklahoma this state,
+15
+16
+b. identify the total amount of uncompensated emergency
+16
+17
+care provided each fiscal year by each hospital and
+17
+18
+ambulance service in Oklahoma this state, and
+18
+19
+c. monitor emergency patient care provided by emergency
+19
+20
+medical service and hospitals; and
+20
+21
+13. Establish and administer a mobile integrated healthcare
+21
+22
+(MIH) program, formerly known as the community paramedic program,
+22
+23
+for the purpose of improving access to appropriate medical care,
+23
+24
+reducing unnecessary emergency department utilization, and enhancing
+24
+Req. No. 2364 Page 16
+
+1
+coordination between emergency medical services, hospitals, and
+1
+2
+community health providers. The Commissioner shall promulgate rules
+2
+3
+as necessary to:
+3
+4
+a. establish clinical, operational, and reporting
+4
+5
+standards for MIH suppliers,
+5
+6
+b. define eligibility and credentialing requirements for
+6
+7
+participating agencies and personnel,
+7
+8
+c. ensure compliance with emergency medical services
+8
+9
+licensing and medical oversight requirements,
+9
+10
+d. establish procedures for program evaluation, quality
+10
+11
+assurance, and outcome reporting, and
+11
+12
+e. facilitate participation of MIH suppliers in public
+12
+13
+and private reimbursement systems, including the state
+13
+14
+Medicaid program and commercial insurance plans, in
+14
+15
+collaboration with the Oklahoma Health Care Authority,
+15
+16
+the Insurance Department, and the Department of Mental
+16
+17
+Health and Substance Abuse Services.
+17
+18
+SECTION 4. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 5025.1 of Title 63, unless there
+19
+20
+is created a duplication in numbering, reads as follows:
+20
+21
+A. As used in this section, “mobile integrated healthcare”
+21
+22
+(MIH) and “mobile integrated healthcare (MIH) supplier” have the
+22
+23
+same meanings as provided in Section 1-2503 of Title 63 of the
+23
+24
+Oklahoma Statutes.
+24
+Req. No. 2364 Page 17
+
+1
+B. The Oklahoma Health Care Authority shall establish a
+1
+2
+reimbursement methodology for encounters between a mobile integrated
+2
+3
+healthcare (MIH) supplier and a Medicaid member that result in a
+3
+4
+treatment without transport of the member.
+4
+5
+C. Any encounter between an MIH supplier and a Medicaid member
+5
+6
+that results in a treatment without transport of the member shall be
+6
+7
+reimbursed by the Authority or a contracted entity at a rate not
+7
+8
+less than the minimum allowable reimbursement rate under the
+8
+9
+methodology established under subsection B of this section.
+9
+10
+D. Unless the rate described in subsection H of Section 4002.12
+10
+11
+of Title 56 of the Oklahoma Statutes applies, when an MIH supplier
+11
+12
+triages, treats, and transports a Medicaid member to an alternative
+12
+13
+destination in accordance with an approved MIH program protocol,
+13
+14
+reimbursement by the Authority or a contracted entity shall be at a
+14
+15
+rate not less than the minimum allowable reimbursement rate for
+15
+16
+basic life support (BLS) services or advanced life support (ALS)
+16
+17
+services, as appropriate based on the condition of the patient,
+17
+18
+including mileage from the scene to the alternative destination.
+18
+19
+SECTION 5. This act shall become effective January 1, 2027.
+19
+20
+20
+21
+60-2-2364 DC 1/13/2026 8:30:54 PM
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2364 Page 18
+
+[DELETED:  P B F]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P b i p a s s]
+[DELETED:  P u]
+[DELETED:  P p i c o]
+[DELETED:  P m e a d]
+[DELETED:  P]
+[DELETED:  P n]
+[DELETED:  P u l e]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P i r i i m]
+[DELETED:  P e d e e f]
+[DELETED:  P D 1]
