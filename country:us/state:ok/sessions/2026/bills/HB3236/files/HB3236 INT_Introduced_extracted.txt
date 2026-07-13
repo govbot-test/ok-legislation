@@ -1,0 +1,619 @@
+Title: 3 HOUSE BILL 3236 By: Rosecrants
+Official Title: 3 HOUSE BILL 3236 By: Rosecrants
+Number of Sections: 2
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+RBH No. 15238
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+4
+5
+6 AS INTRODUCED
+7 An Act relating to retirement; amending 62 O.S. 2021,
+
+Section 2:
+Section 3103, as last amended by Section 2, Chapter
+8 361, O.S.L. 2024 (62 O.S. Supp. 2025, Section 3103),
+which relates to the Oklahoma Pension Legislation
+9 Actuarial Analysis Act; modifying terms; defining
+terms; directing the Board of Trustees of the
+10 Oklahoma Teachers' Retirement System to grant
+retirement benefit increase under certain
+11 circumstances; providing condition; providing
+limitation on retirement benefit increase; directing
+12 the System to provide annual report; directing the
+Legislative Office of Fiscal Transparency to conduct
+13 review; providing for codification; providing
+effective dates; providing for contingent effective
+14 dates based on outcome of approval of the emergency
+clause; and declaring an emergency.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. AMENDATORY 62 O.S. 2021, Section 3103, as
+19 last amended by Section 2, Chapter 361, O.S.L. 2024 (62 O.S. Supp.
+20 2025, Section 3103), is amended to read as follows:
+21 Section 3103. As used in the Oklahoma Pension Legislation
+22 Actuarial Analysis Act:
+23 1. "Amendment" means any amendment, including a substitute
+24 bill, made to a retirement bill by any committee of the House of
+Req. No. 15238 Page 1
+RBH No. 15238
+1 Repr esentatives or Senate, any conference committee of the House or
+2 Senate or by the House or Senate;
+3 2. "RB number" means that number preceded by the letters "RB"
+4 assigned to a retirement bill by the respective staffs of the
+5 Oklahoma State Senate and the Oklahoma House of Representatives when
+6 the respective staff office prepares a retirement bill for a member
+7 of the Legislature;
+8 3. "Legislative Actuary" means the firm or entity that enters
+9 into a contract with the Legislative Service Bureau pursuant to
+10 Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+11 actuarial services and other duties provided for in the Oklahoma
+12 Pension Legislation Actuarial Analysis Act;
+13 4. "Nonfiscal amendment" means an amendment to a retirement
+14 bill having a fiscal impact, which amendment does not change any
+15 factor of an actuarial investigation specified in subsection A of
+16 Section 3109 of this title;
+17 5. "Nonfiscal retirement bill" means a retirement bill:
+18 a. which does not affect the cost or funding factors of a
+19 retirement system,
+20 b. which affects such factors only in a manner which does
+21 not:
+22 (1) grant a benefit increase under the retirement
+23 system affected by the bill,
+24
+Req. No. 15238 Page 2
+RBH No. 15238
+1 (2) create an actuarial accrued liability for or
+2 increase the actuarial accrued liability of the
+3 retirement system affected by the bill, or
+4 (3) increase the normal cost of the retirement system
+5 affected by the bill,
+6 c. which authorizes the purchase by an active member of
+7 the retirement system, at the actuarial cost for the
+8 purchase as computed pursuant to the statute in effect
+9 on the effective date of the measure allowing such
+10 purchase, of years of service for purposes of reaching
+11 a normal retirement date in the applicable retirement
+12 system, but which cannot be used in order to compute
+13 the number of years of service for purposes of
+14 computing the retirement benefit for the member,
+15 d. which provides for the computation of a service-
+16 connected disability retirement benefit for members of
+17 the Oklahoma Law Enforcement Retirement System
+18 pursuant to Section 2-305 of Title 47 of the Oklahoma
+19 Statutes if the members were unable to complete twenty
+20 (20) years of service as a result of the disability,
+21 e. which requires membership in the defined benefit plan
+22 authorized by Section 901 et seq. of Title 74 of the
+23 Oklahoma Statutes for persons whose first elected or
+24 appointed service occurs on or after November 1, 2018,
+Req. No. 15238 Page 3
+RBH No. 15238
+1 if such persons had any prior service in the Oklahoma
+2 Public Employees Retirement System prior to November
+3 1, 2015,
+4 f. which provides for a one-time increase in retirement
+5 benefits if the increase in retirement benefits is not
+6 a permanent increase in the gross annual retirement
+7 benefit payable to a member or beneficiary, occurs
+8 only once pursuant to a single statutory authorization
+9 and does not exceed:
+10 (1) the lesser of two percent (2%) of the gross
+11 annual retirement benefit of the member or One
+12 Thousand Dollars ($1,000.00) and requires that
+13 the benefit may only be provided if the funded
+14 ratio of the affected retirement system would not
+15 be less than sixty percent (60%) but not greater
+16 than eighty percent (80%) after the benefit
+17 increase is paid,
+18 (2) the lesser of two percent (2%) of the gross
+19 annual retirement benefit of the member or One
+20 Thousand Two Hundred Dollars ($1,200.00) and
+21 requires that the benefit may only be provided if
+22 the funded ratio of the affected retirement
+23 system would be greater than eighty percent (80%)
+24
+Req. No. 15238 Page 4
+RBH No. 15238
+1 but not greater than one hundred percent (100%)
+2 after the benefit increase is paid,
+3 (3) the lesser of two percent (2%) of the gross
+4 annual retirement benefit of the member or One
+5 Thousand Four Hundred Dollars ($1,400.00) and
+6 requires that the benefit may only be provided if
+7 the funded ratio of the affected retirement
+8 system would be greater than one hundred percent
+9 (100%) after the benefit increase is paid, or
+10 (4) the greater of two percent (2%) of the gross
+11 annual retirement benefit of the volunteer
+12 firefighter or One Hundred Dollars ($100.00) for
+13 persons who retired from the Oklahoma
+14 Firefighters Pension and Retirement System as
+15 volunteer firefighters and who did not retire
+16 from the Oklahoma Firefighters Pension and
+17 Retirement System as a paid firefighter.
+18 As used in this subparagraph, "funded ratio" means the
+19 figure derived by dividing the actuarial value of
+20 assets of the applicable retirement system by the
+21 actuarial accrued liability of the applicable
+22 retirement system,
+23 g. which modifies the disability pension standard for
+24 police officers who are members of the Oklahoma Police
+Req. No. 15238 Page 5
+RBH No. 15238
+1 Pension and Retirement System as provided by Section
+2 50-115 of Title 11 of the Oklahoma Statutes,
+3 h. which provides a cost-of-living benefit increase
+4 pursuant to the provisions of:
+5 (1) Section 49-143.7 of Title 11 of the Oklahoma
+6 Statutes,
+7 (2) Section 50-136.9 of Title 11 of the Oklahoma
+8 Statutes,
+9 (3) Section 1104K of Title 20 of the Oklahoma
+10 Statutes,
+11 (4) Section 2-305.12 of Title 47 of the Oklahoma
+12 Statutes,
+13 (5) Section 17-116.22 of Title 70 of the Oklahoma
+14 Statutes,
+15 (6) Section 930.11 of Title 74 of the Oklahoma
+16 Statutes,
+17 i. which modifies the computation of the line-of-duty
+18 disability benefit pursuant to the provisions of this
+19 section and Sections 50-101 and 50-115 of Title 11 of
+20 the Oklahoma Statutes, or
+21 j. which authorizes membership in the Oklahoma Law
+22 Enforcement Retirement System for active commissioned
+23 or CLEET-certified agents of the Office of the
+24 Attorney General or the Military Department of the
+Req. No. 15238 Page 6
+RBH No. 15238
+1 State of Oklahoma pursuant to Sections 3 2-309.9 and 4
+2 2-309.10 of this act Title 47 of the Oklahoma
+3 Statutes; or
+4 k. which authorizes a retirement benefit increase
+5 pursuant to the provisions of Section 2 of this act.
+6 A nonfiscal retirement bill shall include any retirement bill that
+7 has as its sole purpose the appropriation or distribution or
+8 redistribution of monies in some manner to a retirement system for
+9 purposes of reducing the unfunded liability of such system or the
+10 earmarking of a portion of the revenue from a tax to a retirement
+11 system or increasing the percentage of the revenue earmarked from a
+12 tax to a retirement system;
+13 6. "Reduction-in-cost amendment" means an amendment to a
+14 retirement bill having a fiscal impact which reduces the cost of the
+15 bill as such cost is determined by the actuarial investigation for
+16 the bill prepared pursuant to Section 3109 of this title;
+17 7. "Retirement bill" means any bill or joint resolution
+18 introduced or any bill or joint resolution amended by a member of
+19 the Legislature which creates or amends any law directly affecting a
+20 retirement system. A retirement bill shall not mean a bill or
+21 resolution that impacts the revenue of any state tax in which a
+22 portion of the revenue generated from such tax is earmarked for the
+23 benefit of a retirement system;
+24
+Req. No. 15238 Page 7
+RBH No. 15238
+1 8. "Retirement bill having a fiscal impact" means any
+2 retirement bill creating or establishing a retirement system and any
+3 other retirement bill other than a nonfiscal retirement bill; and
+4 9. "Retirement system" means the Teachers' Retirement System of
+5 Oklahoma, the Oklahoma Public Employees Retirement System, the
+6 Uniform Retirement System for Justices and Judges, the Oklahoma
+7 Firefighters Pension and Retirement System, the Oklahoma Police
+8 Pension and Retirement System, the Oklahoma Law Enforcement
+9 Retirement System, or a retirement system established after January
+10 1, 2006.
+11 SECTION 2. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 17-116.23 of Title 70, unless
+13 there is created a duplication in numbering, reads as follows:
+14 A. As used in this section:
+15 1. "CPI-W" means the Consumer Price Index for urban wage
+16 earners and clerical workers, as published by the Bureau of Labor
+17 Statistics, U.S. Department of Labor. This is used as a measure of
+18 price inflation for the development of the retirement benefit
+19 increase described in subsection B of this section; and
+20 2. "Funded ratio" means the figure derived by dividing the
+21 actuarial value of retirement system assets by the actuarial accrued
+22 liability amount of the retirement system using the information
+23 reported to the retirement system by its actuary in the annual
+24 valuation and which is computed as of a day certain.
+Req. No. 15238 Page 8
+RBH No. 15238
+1 B. The Board of Trustees of the Teachers' Retirement System of
+2 Oklahoma shall grant a retirement benefit increase, adjusted due to
+3 price inflation, if any, as measured by the CPI-W, effective July 1
+4 each year to the retired members of the system or their
+5 beneficiaries if the funded ratio of the retirement system will be
+6 at least eighty percent (80%) after the benefit increase is provided
+7 to the eligible retirees or beneficiaries. Provided, however, that
+8 the retirement benefit increase shall be no more than two percent
+9 (2%).
+10 C. The System shall provide an annual report that contains an
+11 actuarial certification to the Speaker of the Oklahoma House of
+12 Representatives and the Pro Tempore of the Oklahoma Senate prior to
+13 the granting of a retirement benefit increase pursuant to this
+14 section.
+15 D. The Legislative Office of Fiscal Transparency shall conduct
+16 a review of the System every five (5) years to ensure compliance
+17 with the provisions of this section.
+18 SECTION 3. If the Emergency Clause is not approved pursuant to
+19 the requirements of the Oklahoma Constitution as part of this
+20 measure, the effective date of Section 1 of this act shall be
+21 October 1, 2026.
+22 SECTION 4. If the Emergency Clause is not approved pursuant to
+23 the requirements of the Oklahoma Constitution as part of this
+24
+Req. No. 15238 Page 9
+RBH No. 15238
+1 meas ure, the effective date of Section 2 of this act shall be
+2 November 1, 2026.
+3 SECTION 5. Except as otherwise provided by Section 3 of this
+4 act, Section 1 of this act shall become effective immediately upon
+5 signature by the Governor or as otherwise provided by Section 58 of
+6 Article V of the Oklahoma Constitution.
+7 SECTION 6. Except as otherwise provided by Section 4 of this
+8 act, Section 2 of this act shall become effective July 1, 2026.
+9 SECTION 7. It being immediately necessary for the preservation
+10 of the public peace, health or safety, an emergency is hereby
+11 declared to exist, by reason whereof this act shall take effect and
+12 be in full force from and after its passage and approval.
+13
+14 60-2-15238 CMA 01/01/26
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 15238 Page 10
+THOMAS E. CUMMINS CONSULTING ACTUARY, INC.
+2512 E. 71st Street , Suite D ∙ Tulsa, Oklahoma 74136
+(918) 492-9658 ∙ (918) 492- 9659
+January 6, 2026
+Representative Rosecrants
+Room 503
+Re: RBH No. 15238
+This bill would allow the Teachers Retirement System Board of
+Trustees to grant a cost of living adjustment each year based on
+changes in the CPI-W, provided the system is 80% funded after each
+increase. The annual increase may not exceed 2%.
+RBH No. 15238 is a non fiscal bill under OPLAAA as amended.
+I am a member of the American Academy of Actuaries and meet the
+Qualification Standards of the American Academy of Actuaries to
+render the actuarial opinion herein.
+Thomas E. Cummins
+Thomas E. Cummins, MAAA
+[DELETED:  P B]
+[DELETED:  P w w g]
+[DELETED:  P c i w w w]
+[DELETED:  P w t t]
+[DELETED:  P t t w]
+[DELETED:  P w S S S S S S w w]
+[DELETED:  P w]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 0]
+[DELETED: 1S]
+
+
+================================================================================
+
+Raw Text:
+RBH No. 15238
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 HOUSE BILL 3236 By: Rosecrants
+4
+5
+6 AS INTRODUCED
+7 An Act relating to retirement; amending 62 O.S. 2021,
+Section 3103, as last amended by Section 2, Chapter
+8 361, O.S.L. 2024 (62 O.S. Supp. 2025, Section 3103),
+which relates to the Oklahoma Pension Legislation
+9 Actuarial Analysis Act; modifying terms; defining
+terms; directing the Board of Trustees of the
+10 Oklahoma Teachers' Retirement System to grant
+retirement benefit increase under certain
+11 circumstances; providing condition; providing
+limitation on retirement benefit increase; directing
+12 the System to provide annual report; directing the
+Legislative Office of Fiscal Transparency to conduct
+13 review; providing for codification; providing
+effective dates; providing for contingent effective
+14 dates based on outcome of approval of the emergency
+clause; and declaring an emergency.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. AMENDATORY 62 O.S. 2021, Section 3103, as
+19 last amended by Section 2, Chapter 361, O.S.L. 2024 (62 O.S. Supp.
+20 2025, Section 3103), is amended to read as follows:
+21 Section 3103. As used in the Oklahoma Pension Legislation
+22 Actuarial Analysis Act:
+23 1. "Amendment" means any amendment, including a substitute
+24 bill, made to a retirement bill by any committee of the House of
+Req. No. 15238 Page 1
+
+RBH No. 15238
+1 Repr esentatives or Senate, any conference committee of the House or
+2 Senate or by the House or Senate;
+3 2. "RB number" means that number preceded by the letters "RB"
+4 assigned to a retirement bill by the respective staffs of the
+5 Oklahoma State Senate and the Oklahoma House of Representatives when
+6 the respective staff office prepares a retirement bill for a member
+7 of the Legislature;
+8 3. "Legislative Actuary" means the firm or entity that enters
+9 into a contract with the Legislative Service Bureau pursuant to
+10 Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+11 actuarial services and other duties provided for in the Oklahoma
+12 Pension Legislation Actuarial Analysis Act;
+13 4. "Nonfiscal amendment" means an amendment to a retirement
+14 bill having a fiscal impact, which amendment does not change any
+15 factor of an actuarial investigation specified in subsection A of
+16 Section 3109 of this title;
+17 5. "Nonfiscal retirement bill" means a retirement bill:
+18 a. which does not affect the cost or funding factors of a
+19 retirement system,
+20 b. which affects such factors only in a manner which does
+21 not:
+22 (1) grant a benefit increase under the retirement
+23 system affected by the bill,
+24
+Req. No. 15238 Page 2
+
+RBH No. 15238
+1 (2) create an actuarial accrued liability for or
+2 increase the actuarial accrued liability of the
+3 retirement system affected by the bill, or
+4 (3) increase the normal cost of the retirement system
+5 affected by the bill,
+6 c. which authorizes the purchase by an active member of
+7 the retirement system, at the actuarial cost for the
+8 purchase as computed pursuant to the statute in effect
+9 on the effective date of the measure allowing such
+10 purchase, of years of service for purposes of reaching
+11 a normal retirement date in the applicable retirement
+12 system, but which cannot be used in order to compute
+13 the number of years of service for purposes of
+14 computing the retirement benefit for the member,
+15 d. which provides for the computation of a service-
+16 connected disability retirement benefit for members of
+17 the Oklahoma Law Enforcement Retirement System
+18 pursuant to Section 2-305 of Title 47 of the Oklahoma
+19 Statutes if the members were unable to complete twenty
+20 (20) years of service as a result of the disability,
+21 e. which requires membership in the defined benefit plan
+22 authorized by Section 901 et seq. of Title 74 of the
+23 Oklahoma Statutes for persons whose first elected or
+24 appointed service occurs on or after November 1, 2018,
+Req. No. 15238 Page 3
+
+RBH No. 15238
+1 if such persons had any prior service in the Oklahoma
+2 Public Employees Retirement System prior to November
+3 1, 2015,
+4 f. which provides for a one-time increase in retirement
+5 benefits if the increase in retirement benefits is not
+6 a permanent increase in the gross annual retirement
+7 benefit payable to a member or beneficiary, occurs
+8 only once pursuant to a single statutory authorization
+9 and does not exceed:
+10 (1) the lesser of two percent (2%) of the gross
+11 annual retirement benefit of the member or One
+12 Thousand Dollars ($1,000.00) and requires that
+13 the benefit may only be provided if the funded
+14 ratio of the affected retirement system would not
+15 be less than sixty percent (60%) but not greater
+16 than eighty percent (80%) after the benefit
+17 increase is paid,
+18 (2) the lesser of two percent (2%) of the gross
+19 annual retirement benefit of the member or One
+20 Thousand Two Hundred Dollars ($1,200.00) and
+21 requires that the benefit may only be provided if
+22 the funded ratio of the affected retirement
+23 system would be greater than eighty percent (80%)
+24
+Req. No. 15238 Page 4
+
+RBH No. 15238
+1 but not greater than one hundred percent (100%)
+2 after the benefit increase is paid,
+3 (3) the lesser of two percent (2%) of the gross
+4 annual retirement benefit of the member or One
+5 Thousand Four Hundred Dollars ($1,400.00) and
+6 requires that the benefit may only be provided if
+7 the funded ratio of the affected retirement
+8 system would be greater than one hundred percent
+9 (100%) after the benefit increase is paid, or
+10 (4) the greater of two percent (2%) of the gross
+11 annual retirement benefit of the volunteer
+12 firefighter or One Hundred Dollars ($100.00) for
+13 persons who retired from the Oklahoma
+14 Firefighters Pension and Retirement System as
+15 volunteer firefighters and who did not retire
+16 from the Oklahoma Firefighters Pension and
+17 Retirement System as a paid firefighter.
+18 As used in this subparagraph, "funded ratio" means the
+19 figure derived by dividing the actuarial value of
+20 assets of the applicable retirement system by the
+21 actuarial accrued liability of the applicable
+22 retirement system,
+23 g. which modifies the disability pension standard for
+24 police officers who are members of the Oklahoma Police
+Req. No. 15238 Page 5
+
+RBH No. 15238
+1 Pension and Retirement System as provided by Section
+2 50-115 of Title 11 of the Oklahoma Statutes,
+3 h. which provides a cost-of-living benefit increase
+4 pursuant to the provisions of:
+5 (1) Section 49-143.7 of Title 11 of the Oklahoma
+6 Statutes,
+7 (2) Section 50-136.9 of Title 11 of the Oklahoma
+8 Statutes,
+9 (3) Section 1104K of Title 20 of the Oklahoma
+10 Statutes,
+11 (4) Section 2-305.12 of Title 47 of the Oklahoma
+12 Statutes,
+13 (5) Section 17-116.22 of Title 70 of the Oklahoma
+14 Statutes,
+15 (6) Section 930.11 of Title 74 of the Oklahoma
+16 Statutes,
+17 i. which modifies the computation of the line-of-duty
+18 disability benefit pursuant to the provisions of this
+19 section and Sections 50-101 and 50-115 of Title 11 of
+20 the Oklahoma Statutes, or
+21 j. which authorizes membership in the Oklahoma Law
+22 Enforcement Retirement System for active commissioned
+23 or CLEET-certified agents of the Office of the
+24 Attorney General or the Military Department of the
+Req. No. 15238 Page 6
+
+RBH No. 15238
+1 State of Oklahoma pursuant to Sections 3 2-309.9 and 4
+2 2-309.10 of this act Title 47 of the Oklahoma
+3 Statutes; or
+4 k. which authorizes a retirement benefit increase
+5 pursuant to the provisions of Section 2 of this act.
+6 A nonfiscal retirement bill shall include any retirement bill that
+7 has as its sole purpose the appropriation or distribution or
+8 redistribution of monies in some manner to a retirement system for
+9 purposes of reducing the unfunded liability of such system or the
+10 earmarking of a portion of the revenue from a tax to a retirement
+11 system or increasing the percentage of the revenue earmarked from a
+12 tax to a retirement system;
+13 6. "Reduction-in-cost amendment" means an amendment to a
+14 retirement bill having a fiscal impact which reduces the cost of the
+15 bill as such cost is determined by the actuarial investigation for
+16 the bill prepared pursuant to Section 3109 of this title;
+17 7. "Retirement bill" means any bill or joint resolution
+18 introduced or any bill or joint resolution amended by a member of
+19 the Legislature which creates or amends any law directly affecting a
+20 retirement system. A retirement bill shall not mean a bill or
+21 resolution that impacts the revenue of any state tax in which a
+22 portion of the revenue generated from such tax is earmarked for the
+23 benefit of a retirement system;
+24
+Req. No. 15238 Page 7
+
+RBH No. 15238
+1 8. "Retirement bill having a fiscal impact" means any
+2 retirement bill creating or establishing a retirement system and any
+3 other retirement bill other than a nonfiscal retirement bill; and
+4 9. "Retirement system" means the Teachers' Retirement System of
+5 Oklahoma, the Oklahoma Public Employees Retirement System, the
+6 Uniform Retirement System for Justices and Judges, the Oklahoma
+7 Firefighters Pension and Retirement System, the Oklahoma Police
+8 Pension and Retirement System, the Oklahoma Law Enforcement
+9 Retirement System, or a retirement system established after January
+10 1, 2006.
+11 SECTION 2. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 17-116.23 of Title 70, unless
+13 there is created a duplication in numbering, reads as follows:
+14 A. As used in this section:
+15 1. "CPI-W" means the Consumer Price Index for urban wage
+16 earners and clerical workers, as published by the Bureau of Labor
+17 Statistics, U.S. Department of Labor. This is used as a measure of
+18 price inflation for the development of the retirement benefit
+19 increase described in subsection B of this section; and
+20 2. "Funded ratio" means the figure derived by dividing the
+21 actuarial value of retirement system assets by the actuarial accrued
+22 liability amount of the retirement system using the information
+23 reported to the retirement system by its actuary in the annual
+24 valuation and which is computed as of a day certain.
+Req. No. 15238 Page 8
+
+RBH No. 15238
+1 B. The Board of Trustees of the Teachers' Retirement System of
+2 Oklahoma shall grant a retirement benefit increase, adjusted due to
+3 price inflation, if any, as measured by the CPI-W, effective July 1
+4 each year to the retired members of the system or their
+5 beneficiaries if the funded ratio of the retirement system will be
+6 at least eighty percent (80%) after the benefit increase is provided
+7 to the eligible retirees or beneficiaries. Provided, however, that
+8 the retirement benefit increase shall be no more than two percent
+9 (2%).
+10 C. The System shall provide an annual report that contains an
+11 actuarial certification to the Speaker of the Oklahoma House of
+12 Representatives and the Pro Tempore of the Oklahoma Senate prior to
+13 the granting of a retirement benefit increase pursuant to this
+14 section.
+15 D. The Legislative Office of Fiscal Transparency shall conduct
+16 a review of the System every five (5) years to ensure compliance
+17 with the provisions of this section.
+18 SECTION 3. If the Emergency Clause is not approved pursuant to
+19 the requirements of the Oklahoma Constitution as part of this
+20 measure, the effective date of Section 1 of this act shall be
+21 October 1, 2026.
+22 SECTION 4. If the Emergency Clause is not approved pursuant to
+23 the requirements of the Oklahoma Constitution as part of this
+24
+Req. No. 15238 Page 9
+
+RBH No. 15238
+1 meas ure, the effective date of Section 2 of this act shall be
+2 November 1, 2026.
+3 SECTION 5. Except as otherwise provided by Section 3 of this
+4 act, Section 1 of this act shall become effective immediately upon
+5 signature by the Governor or as otherwise provided by Section 58 of
+6 Article V of the Oklahoma Constitution.
+7 SECTION 6. Except as otherwise provided by Section 4 of this
+8 act, Section 2 of this act shall become effective July 1, 2026.
+9 SECTION 7. It being immediately necessary for the preservation
+10 of the public peace, health or safety, an emergency is hereby
+11 declared to exist, by reason whereof this act shall take effect and
+12 be in full force from and after its passage and approval.
+13
+14 60-2-15238 CMA 01/01/26
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 15238 Page 10
+
+THOMAS E. CUMMINS CONSULTING ACTUARY, INC.
+2512 E. 71st Street , Suite D ∙ Tulsa, Oklahoma 74136
+(918) 492-9658 ∙ (918) 492- 9659
+January 6, 2026
+Representative Rosecrants
+Room 503
+Re: RBH No. 15238
+This bill would allow the Teachers Retirement System Board of
+Trustees to grant a cost of living adjustment each year based on
+changes in the CPI-W, provided the system is 80% funded after each
+increase. The annual increase may not exceed 2%.
+RBH No. 15238 is a non fiscal bill under OPLAAA as amended.
+I am a member of the American Academy of Actuaries and meet the
+Qualification Standards of the American Academy of Actuaries to
+render the actuarial opinion herein.
+Thomas E. Cummins
+Thomas E. Cummins, MAAA
+
+[DELETED:  P B]
+[DELETED:  P w w g]
+[DELETED:  P c i w w w]
+[DELETED:  P w t t]
+[DELETED:  P t t w]
+[DELETED:  P w S S S S S S w w]
+[DELETED:  P w]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 0]
+[DELETED: 1S]

@@ -1,0 +1,3976 @@
+Title: SENATE BILL 1610 By: Frix
+Official Title: SENATE BILL 1610 By: Frix
+Number of Sections: 64
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+AS INTRODUCED
+7
+8
+An Act relating to transportation; creating the
+8
+Oklahoma Work Zone Safety and Contractor Protection
+9
+Act; providing short title; providing legislative
+9
+findings; amending 51 O.S. 2021, Section 152, as last
+10
+amended by Section 1, Chapter 314, O.S.L. 2025 (51
+10
+O.S. Supp. 2025, Section 152), which relates to
+11
+definitions; defining certain persons as employees
+11
+for certain purpose; updating statutory language;
+12
+defining terms; directing the Department of
+12
+Transportation to establish certain program;
+13
+establishing penalties for certain violations;
+13
+providing for the distribution of certain monies;
+14
+allowing for certain written warning in certain time
+14
+period; allowing certain persons to utilize certain
+15
+lamps; allowing for certain detour of traffic onto
+15
+certain roads; granting certain persons certain
+16
+immunity from liability; providing for ineligibility
+16
+of certain persons to recover certain damages;
+17
+construing certain provision; granting certain
+17
+immunity for certain persons who comply with certain
+18
+plan; designating certain persons as certain
+18
+employees; providing for certain liability
+19
+limitations for certain persons; construing
+19
+provisions; creating the Work Zone Safety Revolving
+20
+Fund; providing for noncodification; providing for
+20
+codification; providing an effective date; and
+21
+declaring an emergency.
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3221 Page 1
+1
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+1
+2
+
+Section 2:
+SECTION 1. NEW LAW A new section of law not to be
+2
+3
+codified in the Oklahoma Statutes reads as follows:
+3
+4
+
+Section 3:
+Sections 3 through 12 of this act shall be known and may be
+4
+5
+cited as the “Oklahoma Work Zone Safety and Contractor Protection
+5
+6
+Act”.
+6
+7
+
+Section 4:
+SECTION 2. NEW LAW A new section of law not to be
+7
+8
+codified in the Oklahoma Statutes reads as follows:
+8
+9
+The Legislature finds that:
+9
+10
+
+Section 5:
+1. Oklahoma workers face increasing risks in roadway work zones
+10
+11
+due to distracted and speeding motorists;
+11
+12
+
+Section 6:
+2. Automated enforcement technology is a proven method to
+12
+13
+reduce work zone crashes and fatalities;
+13
+14
+
+Section 7:
+3. Contractors and subcontractors who establish work zones in
+14
+15
+compliance with the Manual on Uniform Traffic Control Devices and
+15
+16
+United States Department of Transportation standards should not be
+16
+17
+subjected to excessive liability for crashes caused by third-party
+17
+18
+motorists; and
+18
+19
+
+Section 8:
+4. The interests of public safety and economic fairness require
+19
+20
+a balance of strong worker protections, effective automated
+20
+21
+enforcement, and reasonable liability standards.
+21
+22
+
+Section 9:
+SECTION 3. AMENDATORY 51 O.S. 2021, Section 152, as last
+22
+23
+amended by Section 1, Chapter 314, O.S.L. 2025 (51 O.S. Supp. 2025,
+23
+24
+
+Section 10:
+Section 152), is amended to read as follows:
+24
+Req. No. 3221 Page 2
+1
+
+Section 11:
+Section 152. As used in The Governmental Tort Claims Act:
+1
+2
+
+Section 12:
+1. “Action” means a proceeding in a court of competent
+2
+3
+jurisdiction by which one party brings a suit against another;
+3
+4
+
+Section 13:
+2. “Agency” means any board, commission, committee, department
+4
+5
+or other instrumentality or entity designated to act in behalf of
+5
+6
+the state or a political subdivision;
+6
+7
+
+Section 14:
+3. “Charitable health care provider” means a person who is
+7
+8
+licensed, certified, or otherwise authorized by the laws of this
+8
+9
+state to administer health care in the ordinary course of business
+9
+10
+or the practice of a profession and who provides care to a medically
+10
+11
+indigent person, as defined in paragraph 9 of this section, with no
+11
+12
+expectation of or acceptance of compensation of any kind;
+12
+13
+
+Section 15:
+4. “Claim” means any written demand presented by a claimant or
+13
+14
+the claimant’s authorized representative in accordance with The
+14
+15
+Governmental Tort Claims Act to recover money from the state or
+15
+16
+political subdivision as compensation for an act or omission of a
+16
+17
+political subdivision or the state or an employee;
+17
+18
+
+Section 16:
+5. “Claimant” means the person or the person’s authorized
+18
+19
+representative who files notice of a claim in accordance with The
+19
+20
+Governmental Tort Claims Act. Only the following persons and no
+20
+21
+others may be claimants:
+21
+22
+a. any person holding an interest in real or personal
+22
+23
+property which suffers a loss, provided that the claim
+23
+24
+of the person shall be aggregated with claims of all
+24
+Req. No. 3221 Page 3
+1
+other persons holding an interest in the property and
+1
+2
+the claims of all other persons which are derivative
+2
+3
+of the loss, and that multiple claimants shall be
+3
+4
+considered a single claimant,
+4
+5
+b. the individual actually involved in the accident or
+5
+6
+occurrence who suffers a loss, provided that the
+6
+7
+individual shall aggregate in the claim the losses of
+7
+8
+all other persons which are derivative of the loss, or
+8
+9
+c. in the case of death, an administrator, special
+9
+10
+administrator or a personal representative who shall
+10
+11
+aggregate in the claim all losses of all persons which
+11
+12
+are derivative of the death;
+12
+13
+
+Section 17:
+6. “Community health care provider” means:
+13
+14
+a. a health care provider who volunteers services at a
+14
+15
+community health center that has been deemed by the
+15
+16
+U.S. United States Department of Health and Human
+16
+17
+Services as a federally qualified health center
+17
+18
+Federally Qualified Health Center as defined by 42
+18
+19
+U.S.C., Section 1396d(l)(2)(B),
+19
+20
+b. a health provider who provides services to an
+20
+21
+organization that has been deemed a federally
+21
+22
+qualified look-alike community health center, and
+22
+23
+c. a health care provider who provides services to a
+23
+24
+community health center that has made application to
+24
+Req. No. 3221 Page 4
+1
+the U.S. United States Department of Health and Human
+1
+2
+Services for approval and deeming as a federally
+2
+3
+qualified look-alike community health center in
+3
+4
+compliance with federal application guidance, and has
+4
+5
+received comments from the U.S. United States
+5
+6
+Department of Health and Human Services as to the
+6
+7
+status of such application with the established intent
+7
+8
+of resubmitting a modified application, or, if denied,
+8
+9
+a new application, no later than six (6) months from
+9
+10
+the date of the official notification from the U.S.
+10
+11
+United States Department of Health and Human Services
+11
+12
+requiring resubmission of a new application;
+12
+13
+
+Section 18:
+7. “Employee” means any person who is authorized to act in
+13
+14
+behalf of a political subdivision or the state whether that person
+14
+15
+is acting on a permanent or temporary basis, with or without being
+15
+16
+compensated or on a full-time or part-time basis.
+16
+17
+a. Employee also includes:
+17
+18
+(1) all elected or appointed officers, members of
+18
+19
+governing bodies and other persons designated to
+19
+20
+act for an agency or political subdivision, but
+20
+21
+the term does not mean a person or other legal
+21
+22
+entity while acting in the capacity of an
+22
+23
+independent contractor or an employee of an
+23
+24
+independent contractor,
+24
+Req. No. 3221 Page 5
+1
+(2) from September 1, 1991, through June 30, 1996,
+1
+2
+licensed physicians, licensed osteopathic
+2
+3
+physicians and Certified Nurse-Midwives providing
+3
+4
+prenatal, delivery or infant care services to
+4
+5
+State Department of Health clients pursuant to a
+5
+6
+contract entered into with the State Department
+6
+7
+of Health in accordance with paragraph 3 of
+7
+8
+subsection C of Section 1-106 of Title 63 of the
+8
+9
+Oklahoma Statutes but only insofar as services
+9
+10
+authorized by and in conformity with the terms of
+10
+11
+the contract and the requirements of Section 1-
+11
+12
+233 of Title 63 of the Oklahoma Statutes, and
+12
+13
+(3) any volunteer, full-time or part-time firefighter
+13
+14
+firefighters when performing duties for a fire
+14
+15
+department provided for in subparagraph j of
+15
+16
+paragraph 12 of this section.
+16
+17
+b. For the purposes of The Governmental Tort Claims Act,
+17
+18
+the following are employees of this state, regardless
+18
+19
+of the place in this state where duties as employees
+19
+20
+are performed:
+20
+21
+(1) physicians acting in an administrative capacity,
+21
+22
+(2) resident physicians and resident interns
+22
+23
+participating in a graduate medical education
+23
+24
+program of the University of Oklahoma Health
+24
+Req. No. 3221 Page 6
+1
+Sciences Center, the Oklahoma State University
+1
+2
+College of Osteopathic Medicine, a public trust
+2
+3
+created pursuant to Section 3224 of Title 63 of
+3
+4
+the Oklahoma Statutes and any sole member not-
+4
+5
+for-profit corporation of the public trust and
+5
+6
+any sole member not-for-profit subsidiary of such
+6
+7
+corporation, or the Department of Mental Health
+7
+8
+and Substance Abuse Services,
+8
+9
+(3) faculty members and staff of the University of
+9
+10
+Oklahoma Health Sciences Center, the Oklahoma
+10
+11
+State University College of Osteopathic Medicine,
+11
+12
+or a public trust created pursuant to Section
+12
+13
+3224 of Title 63 of the Oklahoma Statutes and any
+13
+14
+sole member not-for-profit corporation of the
+14
+15
+public trust and any sole member not-for-profit
+15
+16
+subsidiary of such corporation, while engaged in
+16
+17
+teaching duties,
+17
+18
+(4) physicians who practice medicine or act in an
+18
+19
+administrative capacity as an employee of an
+19
+20
+agency of this state,
+20
+21
+(5) physicians who provide medical care to inmates
+21
+22
+pursuant to a contract with the Department of
+22
+23
+Corrections,
+23
+24
+24
+Req. No. 3221 Page 7
+1
+(6) any person who is licensed to practice medicine
+1
+2
+pursuant to Title 59 of the Oklahoma Statutes,
+2
+3
+who is under an administrative professional
+3
+4
+services contract with the Oklahoma Health Care
+4
+5
+Authority under the auspices of the Oklahoma
+5
+6
+Health Care Authority Chief Medical Officer, and
+6
+7
+who is limited to performing administrative
+7
+8
+duties such as professional guidance for medical
+8
+9
+reviews, reimbursement rates, service
+9
+10
+utilization, health care delivery and benefit
+10
+11
+design for the Oklahoma Health Care Authority,
+11
+12
+only while acting within the scope of such
+12
+13
+contract,
+13
+14
+(7) licensed medical professionals under contract
+14
+15
+with city, county, or state entities who provide
+15
+16
+medical care to inmates or detainees in the
+16
+17
+custody or control of law enforcement agencies,
+17
+18
+(8) licensed mental health professionals as defined
+18
+19
+in Sections 1-103 and 5-502 of Title 43A of the
+19
+20
+Oklahoma Statutes, who are conducting initial
+20
+21
+examinations of individuals for the purpose of
+21
+22
+determining whether an individual meets the
+22
+23
+criteria for emergency detention as part of a
+23
+24
+24
+Req. No. 3221 Page 8
+1
+contract with the Department of Mental Health and
+1
+2
+Substance Abuse Services, and
+2
+3
+(9) licensed mental health professionals as defined
+3
+4
+in Sections 1-103 and 5-502 of Title 43A of the
+4
+5
+Oklahoma Statutes, who are providing mental
+5
+6
+health or substance abuse treatment services
+6
+7
+under a professional services contract with the
+7
+8
+Department of Mental Health and Substance Abuse
+8
+9
+Services and are providing such treatment
+9
+10
+services at a state-operated facility.
+10
+11
+Physician faculty members and physician staff of the
+11
+12
+University of Oklahoma Health Sciences Center, the
+12
+13
+Oklahoma State University College of Osteopathic
+13
+14
+Medicine, or a public trust created pursuant to
+14
+15
+
+Section 19:
+Section 3224 of Title 63 of the Oklahoma Statutes and
+15
+16
+any sole member not-for-profit corporation of the
+16
+17
+public trust and any sole member not-for-profit
+17
+18
+subsidiary of such corporation not acting in an
+18
+19
+administrative capacity or engaged in teaching duties
+19
+20
+are not employees or agents of the state.
+20
+21
+c. For the purposes of The Governmental Tort Claims Act,
+21
+22
+employee shall include independent contractors and
+22
+23
+employees of independent contractors while actively
+23
+24
+engaged in the transport of individuals in need of
+24
+Req. No. 3221 Page 9
+1
+initial assessment, emergency detention, or protective
+1
+2
+custody as authorized by Section 1-110 of Title 43A of
+2
+3
+the Oklahoma Statutes.
+3
+4
+d. Except as provided in subparagraph b of this
+4
+5
+paragraph, in no event shall the state be held liable
+5
+6
+for the tortious conduct of any physician, resident
+6
+7
+physician or intern while practicing medicine or
+7
+8
+providing medical treatment to patients.
+8
+9
+e. For purposes of The Governmental Tort Claims Act,
+9
+10
+members of the state military forces on state active
+10
+11
+duty orders or on Title 32 active duty orders are
+11
+12
+employees of this state, regardless of the place,
+12
+13
+within or outside this state, where their duties as
+13
+14
+employees are performed;.
+14
+15
+f. For the purposes of The Governmental Tort Claims Act,
+15
+16
+employee shall include contractors, subcontractors,
+16
+17
+and employees of such for the purposes of civil
+17
+18
+actions arising out of roadway work zone operations
+18
+19
+performed under contract with the Department of
+19
+20
+Transportation or a political subdivision of this
+20
+21
+state, as provided in Section 10 of this act;
+21
+22
+
+Section 20:
+8. “Loss” means death or injury to the body or rights of a
+22
+23
+person or damage to real or personal property or rights therein;
+23
+24
+24
+Req. No. 3221 Page 10
+1
+
+Section 21:
+9. “Medically indigent” means a person requiring medically
+1
+2
+necessary hospital or other health care services for the person or
+2
+3
+the dependents of the person who has no public or private third-
+3
+4
+party coverage, and whose personal resources are insufficient to
+4
+5
+provide for needed health care;
+5
+6
+
+Section 22:
+10. “Municipality” means any incorporated city or town, and all
+6
+7
+institutions, agencies, or instrumentalities of a municipality;
+7
+8
+
+Section 23:
+11. “Occurrence” means a loss arising out of an accident or
+8
+9
+event or a continuous or repeated exposure to substantially the same
+9
+10
+general harmful conditions. All losses arising out of an accident
+10
+11
+or event or a continuous or repeated exposure to substantially the
+11
+12
+same general harmful conditions shall be deemed to have arisen out
+12
+13
+of one occurrence;
+13
+14
+
+Section 24:
+12. “Political subdivision” means:
+14
+15
+a. a municipality,
+15
+16
+b. a school district, including, but not limited to, a
+16
+17
+technology center school district established pursuant
+17
+18
+to Section 4410, 4411, 4420 or 4420.1 of Title 70 of
+18
+19
+the Oklahoma Statutes, or a public library as defined
+19
+20
+pursuant to Section 1-104 of Title 65 of the Oklahoma
+20
+21
+Statutes,
+21
+22
+c. a county,
+22
+23
+d. a public trust where the sole beneficiary or
+23
+24
+beneficiaries are a city, town, school district or
+24
+Req. No. 3221 Page 11
+1
+county. For purposes of The Governmental Tort Claims
+1
+2
+Act, a public trust shall include:
+2
+3
+(1) a municipal hospital created pursuant to Sections
+3
+4
+30-101 through 30-109 of Title 11 of the Oklahoma
+4
+5
+Statutes, a county hospital created pursuant to
+5
+6
+
+Section 25:
+Sections 781 through 796 of Title 19 of the
+6
+7
+Oklahoma Statutes, or is created pursuant to a
+7
+8
+joint agreement between such governing
+8
+9
+authorities, that is operated for the public
+9
+10
+benefit by a public trust created pursuant to
+10
+11
+
+Section 26:
+Sections 176 through 180.4 of Title 60 of the
+11
+12
+Oklahoma Statutes and managed by a governing
+12
+13
+board appointed or elected by the municipality,
+13
+14
+county, or both, who exercises control of the
+14
+15
+hospital, subject to the approval of the
+15
+16
+governing body of the municipality, county, or
+16
+17
+both,
+17
+18
+(2) a public trust created pursuant to Sections 176
+18
+19
+through 180.4 of Title 60 of the Oklahoma
+19
+20
+Statutes after January 1, 2009, the primary
+20
+21
+purpose of which is to own, manage, or operate a
+21
+22
+public acute care hospital in this state that
+22
+23
+serves as a teaching hospital for a medical
+23
+24
+residency program provided by a college of
+24
+Req. No. 3221 Page 12
+1
+osteopathic medicine and provides care to
+1
+2
+indigent persons, and
+2
+3
+(3) a corporation in which all of the capital stock
+3
+4
+is owned, or a limited liability company in which
+4
+5
+all of the member interest is owned, by a public
+5
+6
+trust,
+6
+7
+e. for the purposes of The Governmental Tort Claims Act
+7
+8
+only, a housing authority created pursuant to the
+8
+9
+provisions of the Oklahoma Housing Authorities Act,
+9
+10
+f. for the purposes of The Governmental Tort Claims Act
+10
+11
+only, corporations organized not for profit pursuant
+11
+12
+to the provisions of the Oklahoma General Corporation
+12
+13
+Act for the primary purpose of developing and
+13
+14
+providing rural water supply and sewage disposal
+14
+15
+facilities to serve rural residents,
+15
+16
+g. for the purposes of The Governmental Tort Claims Act
+16
+17
+only, districts formed pursuant to the Rural Water,
+17
+18
+Sewer, Gas and Solid Waste Management Districts Act,
+18
+19
+h. for the purposes of The Governmental Tort Claims Act
+19
+20
+only, master conservancy districts formed pursuant to
+20
+21
+the Conservancy Act of Oklahoma,
+21
+22
+i. for the purposes of The Governmental Tort Claims Act
+22
+23
+only, a fire protection district created pursuant to
+23
+24
+24
+Req. No. 3221 Page 13
+1
+the provisions of Section 901.1 et seq. of Title 19 of
+1
+2
+the Oklahoma Statutes,
+2
+3
+j. for the purposes of The Governmental Tort Claims Act
+3
+4
+only, a benevolent or charitable corporate volunteer
+4
+5
+or full-time fire department for an unincorporated
+5
+6
+area created pursuant to the provisions of Section 592
+6
+7
+et seq. of Title 18 of the Oklahoma Statutes,
+7
+8
+k. for purposes of The Governmental Tort Claims Act only,
+8
+9
+an emergency services provider rendering services
+9
+10
+pursuant to an existing contract between the emergency
+10
+11
+services provider and the State Department of Health.
+11
+12
+Provided, however, that the acquisition of commercial
+12
+13
+liability insurance covering the activities of such
+13
+14
+emergency services provider performed within this
+14
+15
+state shall not operate as a waiver of any of the
+15
+16
+limitations, immunities or defenses provided for
+16
+17
+political subdivisions pursuant to the terms of The
+17
+18
+Governmental Tort Claims Act,
+18
+19
+l. for purposes of The Governmental Tort Claims Act only,
+19
+20
+a conservation district created pursuant to the
+20
+21
+provisions of the Conservation District Act,
+21
+22
+m. for purposes of The Governmental Tort Claims Act,
+22
+23
+districts formed pursuant to the Oklahoma Irrigation
+23
+24
+District Act,
+24
+Req. No. 3221 Page 14
+1
+n. for purposes of The Governmental Tort Claims Act only,
+1
+2
+any community action agency established pursuant to
+2
+3
+
+Section 27:
+Sections 5035 through 5040.1 of Title 74 of the
+3
+4
+Oklahoma Statutes,
+4
+5
+o. for purposes of The Governmental Tort Claims Act only,
+5
+6
+any organization that is designated as a youth
+6
+7
+services agency, pursuant to Section 2-7-306 of Title
+7
+8
+10A of the Oklahoma Statutes,
+8
+9
+p. for purposes of The Governmental Tort Claims Act only,
+9
+10
+any judge presiding over a drug court, as defined by
+10
+11
+
+Section 28:
+Section 471.1 of Title 22 of the Oklahoma Statutes,
+11
+12
+q. for purposes of The Governmental Tort Claims Act only,
+12
+13
+any child-placing agency licensed by this state to
+13
+14
+place children in foster family homes,
+14
+15
+r. for purposes of The Governmental Tort Claims Act only,
+15
+16
+a circuit engineering district created pursuant to
+16
+17
+
+Section 29:
+Section 687.1 of Title 69 of the Oklahoma Statutes,
+17
+18
+s. for purposes of The Governmental Tort Claims Act only,
+18
+19
+a substate planning district, regional council of
+19
+20
+government or other entity created pursuant to Section
+20
+21
+1001 et seq. of Title 74 of the Oklahoma Statutes, and
+21
+22
+t. for purposes of The Governmental Tort Claims Act only,
+22
+23
+a regional transportation authority created pursuant
+23
+24
+to Section 1370.7 of Title 68 of the Oklahoma Statutes
+24
+Req. No. 3221 Page 15
+1
+including its contract operator and any railroad
+1
+2
+operating in interstate commerce that sells a property
+2
+3
+interest or provides services to a regional
+3
+4
+transportation authority or allows the authority to
+4
+5
+use the property or tracks of the railroad for the
+5
+6
+provision of public passenger rail service to the
+6
+7
+extent claims against the contract operator or
+7
+8
+railroad arise out of or are related to or in
+8
+9
+connection with such property interest, services or
+9
+10
+operation of the public passenger rail service.
+10
+11
+Provided, the acquisition of commercial liability
+11
+12
+insurance to cover the activities of the regional
+12
+13
+transportation authority, contract operator or
+13
+14
+railroad shall not operate as a waiver of any
+14
+15
+liabilities, immunities or defenses provided pursuant
+15
+16
+to the provisions of The Governmental Tort Claims Act,
+16
+17
+and all their institutions, instrumentalities or agencies;
+17
+18
+
+Section 30:
+13. “Scope of employment” means performance by an employee
+18
+19
+acting in good faith within the duties of the employee’s office or
+19
+20
+employment or of tasks lawfully assigned by a competent authority
+20
+21
+including the operation or use of an agency vehicle or equipment
+21
+22
+with actual or implied consent of the supervisor of the employee,
+22
+23
+but shall not include corruption or fraud;
+23
+24
+24
+Req. No. 3221 Page 16
+1
+
+Section 31:
+14. “State” means the State of Oklahoma or any office,
+1
+2
+department, agency, authority, commission, board, institution,
+2
+3
+hospital, college, university, public trust created pursuant to
+3
+4
+Title 60 of the Oklahoma Statutes of which the State of Oklahoma is
+4
+5
+the beneficiary, or other instrumentality thereof;
+5
+6
+
+Section 32:
+15. “State active duty” shall be defined in accordance with
+6
+7
+
+Section 33:
+Section 801 of Title 44 of the Oklahoma Statutes;
+7
+8
+
+Section 34:
+16. “State military forces” shall be defined in accordance with
+8
+9
+
+Section 35:
+Section 801 of Title 44 of the Oklahoma Statutes;
+9
+10
+
+Section 36:
+17. “Title 32 active duty” shall be defined in accordance with
+10
+11
+
+Section 37:
+Section 801 of Title 44 of the Oklahoma Statutes; and
+11
+12
+
+Section 38:
+18. “Tort” means a legal wrong, independent of contract,
+12
+13
+involving violation of a duty imposed by general law, statute, the
+13
+14
+Oklahoma Constitution, or otherwise, resulting in a loss to any
+14
+15
+person, association or corporation as the proximate result of an act
+15
+16
+or omission of a political subdivision or the state or an employee
+16
+17
+acting within the scope of employment; provided, however, a tort
+17
+18
+shall not include a claim for inverse condemnation.
+18
+19
+
+Section 39:
+SECTION 4. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 1240 of Title 69, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+As used in this act:
+22
+23
+
+Section 40:
+1. “Automated work zone speed enforcement system” means a
+23
+24
+system using radar, lidar, or similar technology to detect vehicle
+24
+Req. No. 3221 Page 17
+1
+speed and capture an image of the vehicle’s license plate for civil
+1
+2
+enforcement purposes;
+2
+3
+
+Section 41:
+2. “Contract documents” means all plans, specifications, and
+3
+4
+traffic-control plans issued or approved by the Department of
+4
+5
+Transportation or the contracting entity;
+5
+6
+
+Section 42:
+3. “Contracting entity” means any political subdivision of this
+6
+7
+state that contracts with a contractor to provide traffic control or
+7
+8
+roadway services;
+8
+9
+
+Section 43:
+4. “Contractor” means any prime contractor, subcontractor, or
+9
+10
+their employees engaged in providing traffic control or roadway
+10
+11
+services under contract with the Department of Transportation or any
+11
+12
+political subdivision of this state;
+12
+13
+
+Section 44:
+5. “Gross negligence” means conduct that demonstrates reckless
+13
+14
+disregard for the safety of others, beyond ordinary negligence;
+14
+15
+
+Section 45:
+6. “MUTCD” means the Manual on Uniform Traffic Control Devices;
+15
+16
+and
+16
+17
+
+Section 46:
+7. “Work zone” means any segment of roadway where construction,
+17
+18
+maintenance, or utility work is being performed and is marked by
+18
+19
+traffic control devices in accordance with MUTCD and Department of
+19
+20
+Transportation specifications.
+20
+21
+
+Section 47:
+SECTION 5. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 1241 of Title 69, unless there
+22
+23
+is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 3221 Page 18
+1
+A. 1. The Department of Transportation, in consultation with
+1
+2
+the Oklahoma Highway Patrol, shall, beginning on the effective date
+2
+3
+of this act until July 1, 2031, unless extended by an act of the
+3
+4
+Legislature, establish a demonstration program utilizing automated
+4
+5
+work zone speed enforcement systems in active roadway work zones.
+5
+6
+
+Section 48:
+2. Automated work zone speed enforcement systems shall:
+6
+7
+a. operate only during active roadway work zone
+7
+8
+operations,
+8
+9
+b. be deployed on no fewer than five and no more than
+9
+10
+twenty active roadway projects at any given time, with
+10
+11
+priority for deployment given to high-speed or high-
+11
+12
+risk work zones, as determined by the Department,
+12
+13
+c. be accompanied by the installation of advance signage
+13
+14
+which shall clearly inform motorists of the presence
+14
+15
+of automated work zone speed enforcement systems, and
+15
+16
+d. not be installed or operated on highway exit ramps.
+16
+17
+B. 1. Each such system installed shall undergo daily self-
+17
+18
+tests and an annual calibration by an independent laboratory
+18
+19
+designated by the Department.
+19
+20
+
+Section 49:
+2. Images taken by such systems shall be limited to the rear
+20
+21
+and license plate of a vehicle and shall be destroyed within one (1)
+21
+22
+year of case resolution.
+22
+23
+C. 1. Motorists who violate the speed limits of a roadway work
+23
+24
+zone monitored by an automated work zone speed enforcement system
+24
+Req. No. 3221 Page 19
+1
+shall receive a citation and shall be subject to the following
+1
+2
+penalties:
+2
+3
+a. for a first violation, the motorist may complete a
+3
+4
+course on work zone safety, designated by the
+4
+5
+Department, in lieu of a fine. Any cited motorist who
+5
+6
+fails to complete such course within thirty (30) days
+6
+7
+of the issuance of the initial citation shall be
+7
+8
+subject to a fine not to exceed Seventy-five Dollars
+8
+9
+($75.00),
+9
+10
+b. for a second violation within eighteen (18) months, a
+10
+11
+fine not to exceed One Hundred Dollars ($100.00), and
+11
+12
+c. for third or subsequent violations within eighteen
+12
+13
+(18) months, a fine not to exceed One Hundred Twenty-
+13
+14
+five Dollars ($125.00).
+14
+15
+
+Section 50:
+2. An additional twenty-five-dollar late fee may be applied by
+15
+16
+the Department if a cited motorist does not pay an assessed fine
+16
+17
+within thirty (30) days after the receipt of a citation.
+17
+18
+
+Section 51:
+3. Violations assessed under the provisions of this subsection
+18
+19
+shall not constitute criminal convictions, shall not result in the
+19
+20
+assessment of points to the driving record of a motorist, and shall
+20
+21
+not be used by insurers for rating purposes.
+21
+22
+D. Eighty percent (80%) of the collected fines, pursuant to
+22
+23
+subsection C of this section, shall be deposited into the Work Zone
+23
+24
+Safety Revolving Fund, as created in Section 12 of this act. The
+24
+Req. No. 3221 Page 20
+1
+remaining twenty percent (20%) of the collected fines shall be
+1
+2
+distributed to the municipality or county where the violation
+2
+3
+occurred.
+3
+4
+E. For the first thirty (30) days following the deployment of
+4
+5
+an automated work zone speed enforcement system at a work zone,
+5
+6
+motorists who violate the speed limits of such work zone shall
+6
+7
+receive a written warning in lieu of the citations provided for in
+7
+8
+subsection C of this section.
+8
+9
+
+Section 52:
+SECTION 6. NEW LAW A new section of law to be codified
+9
+10
+in the Oklahoma Statutes as Section 1242 of Title 69, unless there
+10
+11
+is created a duplication in numbering, reads as follows:
+11
+12
+A. Contractors and subcontractors performing active roadway
+12
+13
+construction, maintenance, or traffic control operations may equip
+13
+14
+and operate flashing red and blue lamps on the rear of work vehicles
+14
+15
+for the purpose of warning approaching motorists. Such lamps shall:
+15
+16
+
+Section 53:
+1. Be used only during active work zone operations;
+16
+17
+
+Section 54:
+2. Face rearward for visibility;
+17
+18
+
+Section 55:
+3. Not be used for traffic stops, pursuits, or law enforcement
+18
+19
+functions; and
+19
+20
+
+Section 56:
+4. Be configured in accordance with Department of Public Safety
+20
+21
+specifications for brightness and uniformity.
+21
+22
+B. Nothing in this section shall be construed as granting work
+22
+23
+vehicles equipped with such lamps emergency vehicle status.
+23
+24
+24
+Req. No. 3221 Page 21
+1
+
+Section 57:
+SECTION 7. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 1243 of Title 69, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+The Department of Transportation and contractors may, when
+4
+5
+necessary to protect workers and facilitate safe traffic movement,
+5
+6
+temporarily detour traffic onto municipal or county roads.
+6
+7
+
+Section 58:
+SECTION 8. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 1244 of Title 69, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. A contractor performing traffic control services for the
+10
+11
+Department of Transportation or a political subdivision of this
+11
+12
+state shall not be liable for any claim of personal injury, property
+12
+13
+damage, or death arising out of a roadway condition if, at the time
+13
+14
+of the incident, the contractor was in compliance with approved
+14
+15
+contract documents and applicable standards.
+15
+16
+B. No person, including the driver or any occupant of a motor
+16
+17
+vehicle, shall be eligible to recover monetary damages,
+17
+18
+compensation, or awards of any kind from a contractor or
+18
+19
+subcontractor for injuries, death, or property damage sustained in a
+19
+20
+crash occurring within a designated work zone if the driver of such
+20
+21
+vehicle was, at the time of the crash, under the influence of
+21
+22
+alcohol, a controlled dangerous substance, or other intoxicating
+22
+23
+substance, as defined in Section 1-140.1 of Title 47 of the Oklahoma
+23
+24
+Statutes. The prohibition in this subsection applies regardless of
+24
+Req. No. 3221 Page 22
+1
+whether the intoxicated driver was cited, arrested, or convicted,
+1
+2
+provided that competent evidence establishes impairment at the time
+2
+3
+of the crash. Nothing in this subsection shall be construed to
+3
+4
+prevent any person from pursuing civil or criminal remedies against
+4
+5
+the intoxicated driver or the driver’s estate.
+5
+6
+C. The provisions of this subsection shall be construed
+6
+7
+liberally in favor of protecting contractors and subcontractors who
+7
+8
+comply with Manual on Uniform Traffic Control Devices (MUTCD) and
+8
+9
+Department standards from liability arising from the misconduct of
+9
+10
+third-party motorists.
+10
+11
+
+Section 59:
+SECTION 9. NEW LAW A new section of law to be codified
+11
+12
+in the Oklahoma Statutes as Section 1245 of Title 69, unless there
+12
+13
+is created a duplication in numbering, reads as follows:
+13
+14
+A. If the Department of Transportation or a contracting entity
+14
+15
+requests that a contractor prepare a traffic-control plan or design
+15
+16
+documents, and such plan is reviewed and approved in writing, the
+16
+17
+contractor shall not be liable for injury or damage arising out of
+17
+18
+that plan’s design or layout, provided that the contractor complies
+18
+19
+with the approved version. Such immunity shall apply whether the
+19
+20
+contractor acts as a prime contractor or subcontractor.
+20
+21
+B. Nothing in this act shall impose upon any contractor a duty
+21
+22
+to investigate or identify defects in plans prepared or approved by
+22
+23
+the Department or a contracting entity.
+23
+24
+24
+Req. No. 3221 Page 23
+1
+C. A contractor may install additional warning devices,
+1
+2
+barriers, or safety measures beyond those required by contract
+2
+3
+documents if, in the reasonable judgment of the contractor, such
+3
+4
+additions enhance public safety. Such installation shall not affect
+4
+5
+the immunity provided for in subsection A of this section unless
+5
+6
+such installation is the proximate cause of injury or damage.
+6
+7
+
+Section 60:
+SECTION 10. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 1246 of Title 69, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. For the purposes of civil actions arising out of roadway
+10
+11
+work zone operations performed under contract with the Department of
+11
+12
+Transportation or a political subdivision, a contractor or
+12
+13
+subcontractor acting within the scope of such contract and in
+13
+14
+compliance with approved contract documents and applicable standards
+14
+15
+shall be deemed an employee of this state or the contracting
+15
+16
+political subdivision within the meaning of The Governmental Tort
+16
+17
+Claims Act, as provided in Section 152 of Title 51 of the Oklahoma
+17
+18
+Statutes.
+18
+19
+B. When acting as such employee, as provided for in subsection
+19
+20
+A of this section, the contractor or subcontractor shall be entitled
+20
+21
+to the same immunities, defenses, and liability limitations as the
+21
+22
+governmental entity for which the work is performed, including the
+22
+23
+monetary limits for damages provided for in Section 154 of Title 51
+23
+24
+of the Oklahoma Statutes.
+24
+Req. No. 3221 Page 24
+1
+C. Nothing in this section shall be construed to grant immunity
+1
+2
+for acts or omissions constituting gross negligence, willful
+2
+3
+misconduct, or reckless disregard for the safety of others.
+3
+4
+
+Section 61:
+SECTION 11. NEW LAW A new section of law to be codified
+4
+5
+in the Oklahoma Statutes as Section 1247 of Title 69, unless there
+5
+6
+is created a duplication in numbering, reads as follows:
+6
+7
+Any contract provision requiring a contractor or subcontractor
+7
+8
+to waive the protections of this act shall be void and
+8
+9
+unenforceable.
+9
+10
+
+Section 62:
+SECTION 12. NEW LAW A new section of law to be codified
+10
+11
+in the Oklahoma Statutes as Section 1248 of Title 69, unless there
+11
+12
+is created a duplication in numbering, reads as follows:
+12
+13
+There is hereby created in the State Treasury a revolving fund
+13
+14
+for the Department of Transportation to be designated the “Work Zone
+14
+15
+Safety Revolving Fund”. The fund shall be a continuing fund, not
+15
+16
+subject to fiscal year limitations, and shall consist of all monies
+16
+17
+directed for deposit by the Department from the fines provided for
+17
+18
+in Section 5 of this act. All monies accruing to the credit of the
+18
+19
+fund are hereby appropriated and may be budgeted and expended by the
+19
+20
+Department for the purpose of improving work zone safety in this
+20
+21
+state. Expenditures from the fund shall be made upon warrants
+21
+22
+issued by the State Treasurer against claims filed as prescribed by
+22
+23
+law with the Director of the Office of Management and Enterprise
+23
+24
+Services for approval and payment.
+24
+Req. No. 3221 Page 25
+1
+
+Section 63:
+SECTION 13. This act shall become effective July 1, 2026.
+1
+2
+
+Section 64:
+SECTION 14. It being immediately necessary for the preservation
+2
+3
+of the public peace, health or safety, an emergency is hereby
+3
+4
+declared to exist, by reason whereof this act shall take effect and
+4
+5
+be in full force from and after its passage and approval.
+5
+6
+6
+7
+60-2-3221 MSBB 1/13/2026 1:21:40 PM
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3221 Page 26
+[DELETED:  P B F]
+[DELETED:  P]
+[DELETED:  P a]
+[DELETED:  P t i a a a]
+[DELETED:  P E a]
+[DELETED:  P f a F p r]
+[DELETED:  P f p p]
+[DELETED:  P a l l]
+[DELETED:  P l F]
+[DELETED:  P E F F]
+[DELETED:  P a a a a]
+[DELETED:  P a a]
+[DELETED:  P a f f f f f]
+[DELETED:  P f f f f]
+[DELETED:  P f f f f f f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P o b b n]
+[DELETED:  P f f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 1]
+
+
+================================================================================
+
+Raw Text:
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1610 By: Frix
+3
+4
+4
+5
+5
+6
+6
+7
+AS INTRODUCED
+7
+8
+An Act relating to transportation; creating the
+8
+Oklahoma Work Zone Safety and Contractor Protection
+9
+Act; providing short title; providing legislative
+9
+findings; amending 51 O.S. 2021, Section 152, as last
+10
+amended by Section 1, Chapter 314, O.S.L. 2025 (51
+10
+O.S. Supp. 2025, Section 152), which relates to
+11
+definitions; defining certain persons as employees
+11
+for certain purpose; updating statutory language;
+12
+defining terms; directing the Department of
+12
+Transportation to establish certain program;
+13
+establishing penalties for certain violations;
+13
+providing for the distribution of certain monies;
+14
+allowing for certain written warning in certain time
+14
+period; allowing certain persons to utilize certain
+15
+lamps; allowing for certain detour of traffic onto
+15
+certain roads; granting certain persons certain
+16
+immunity from liability; providing for ineligibility
+16
+of certain persons to recover certain damages;
+17
+construing certain provision; granting certain
+17
+immunity for certain persons who comply with certain
+18
+plan; designating certain persons as certain
+18
+employees; providing for certain liability
+19
+limitations for certain persons; construing
+19
+provisions; creating the Work Zone Safety Revolving
+20
+Fund; providing for noncodification; providing for
+20
+codification; providing an effective date; and
+21
+declaring an emergency.
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3221 Page 1
+
+1
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+1
+2
+SECTION 1. NEW LAW A new section of law not to be
+2
+3
+codified in the Oklahoma Statutes reads as follows:
+3
+4
+Sections 3 through 12 of this act shall be known and may be
+4
+5
+cited as the “Oklahoma Work Zone Safety and Contractor Protection
+5
+6
+Act”.
+6
+7
+SECTION 2. NEW LAW A new section of law not to be
+7
+8
+codified in the Oklahoma Statutes reads as follows:
+8
+9
+The Legislature finds that:
+9
+10
+1. Oklahoma workers face increasing risks in roadway work zones
+10
+11
+due to distracted and speeding motorists;
+11
+12
+2. Automated enforcement technology is a proven method to
+12
+13
+reduce work zone crashes and fatalities;
+13
+14
+3. Contractors and subcontractors who establish work zones in
+14
+15
+compliance with the Manual on Uniform Traffic Control Devices and
+15
+16
+United States Department of Transportation standards should not be
+16
+17
+subjected to excessive liability for crashes caused by third-party
+17
+18
+motorists; and
+18
+19
+4. The interests of public safety and economic fairness require
+19
+20
+a balance of strong worker protections, effective automated
+20
+21
+enforcement, and reasonable liability standards.
+21
+22
+SECTION 3. AMENDATORY 51 O.S. 2021, Section 152, as last
+22
+23
+amended by Section 1, Chapter 314, O.S.L. 2025 (51 O.S. Supp. 2025,
+23
+24
+Section 152), is amended to read as follows:
+24
+Req. No. 3221 Page 2
+
+1
+Section 152. As used in The Governmental Tort Claims Act:
+1
+2
+1. “Action” means a proceeding in a court of competent
+2
+3
+jurisdiction by which one party brings a suit against another;
+3
+4
+2. “Agency” means any board, commission, committee, department
+4
+5
+or other instrumentality or entity designated to act in behalf of
+5
+6
+the state or a political subdivision;
+6
+7
+3. “Charitable health care provider” means a person who is
+7
+8
+licensed, certified, or otherwise authorized by the laws of this
+8
+9
+state to administer health care in the ordinary course of business
+9
+10
+or the practice of a profession and who provides care to a medically
+10
+11
+indigent person, as defined in paragraph 9 of this section, with no
+11
+12
+expectation of or acceptance of compensation of any kind;
+12
+13
+4. “Claim” means any written demand presented by a claimant or
+13
+14
+the claimant’s authorized representative in accordance with The
+14
+15
+Governmental Tort Claims Act to recover money from the state or
+15
+16
+political subdivision as compensation for an act or omission of a
+16
+17
+political subdivision or the state or an employee;
+17
+18
+5. “Claimant” means the person or the person’s authorized
+18
+19
+representative who files notice of a claim in accordance with The
+19
+20
+Governmental Tort Claims Act. Only the following persons and no
+20
+21
+others may be claimants:
+21
+22
+a. any person holding an interest in real or personal
+22
+23
+property which suffers a loss, provided that the claim
+23
+24
+of the person shall be aggregated with claims of all
+24
+Req. No. 3221 Page 3
+
+1
+other persons holding an interest in the property and
+1
+2
+the claims of all other persons which are derivative
+2
+3
+of the loss, and that multiple claimants shall be
+3
+4
+considered a single claimant,
+4
+5
+b. the individual actually involved in the accident or
+5
+6
+occurrence who suffers a loss, provided that the
+6
+7
+individual shall aggregate in the claim the losses of
+7
+8
+all other persons which are derivative of the loss, or
+8
+9
+c. in the case of death, an administrator, special
+9
+10
+administrator or a personal representative who shall
+10
+11
+aggregate in the claim all losses of all persons which
+11
+12
+are derivative of the death;
+12
+13
+6. “Community health care provider” means:
+13
+14
+a. a health care provider who volunteers services at a
+14
+15
+community health center that has been deemed by the
+15
+16
+U.S. United States Department of Health and Human
+16
+17
+Services as a federally qualified health center
+17
+18
+Federally Qualified Health Center as defined by 42
+18
+19
+U.S.C., Section 1396d(l)(2)(B),
+19
+20
+b. a health provider who provides services to an
+20
+21
+organization that has been deemed a federally
+21
+22
+qualified look-alike community health center, and
+22
+23
+c. a health care provider who provides services to a
+23
+24
+community health center that has made application to
+24
+Req. No. 3221 Page 4
+
+1
+the U.S. United States Department of Health and Human
+1
+2
+Services for approval and deeming as a federally
+2
+3
+qualified look-alike community health center in
+3
+4
+compliance with federal application guidance, and has
+4
+5
+received comments from the U.S. United States
+5
+6
+Department of Health and Human Services as to the
+6
+7
+status of such application with the established intent
+7
+8
+of resubmitting a modified application, or, if denied,
+8
+9
+a new application, no later than six (6) months from
+9
+10
+the date of the official notification from the U.S.
+10
+11
+United States Department of Health and Human Services
+11
+12
+requiring resubmission of a new application;
+12
+13
+7. “Employee” means any person who is authorized to act in
+13
+14
+behalf of a political subdivision or the state whether that person
+14
+15
+is acting on a permanent or temporary basis, with or without being
+15
+16
+compensated or on a full-time or part-time basis.
+16
+17
+a. Employee also includes:
+17
+18
+(1) all elected or appointed officers, members of
+18
+19
+governing bodies and other persons designated to
+19
+20
+act for an agency or political subdivision, but
+20
+21
+the term does not mean a person or other legal
+21
+22
+entity while acting in the capacity of an
+22
+23
+independent contractor or an employee of an
+23
+24
+independent contractor,
+24
+Req. No. 3221 Page 5
+
+1
+(2) from September 1, 1991, through June 30, 1996,
+1
+2
+licensed physicians, licensed osteopathic
+2
+3
+physicians and Certified Nurse-Midwives providing
+3
+4
+prenatal, delivery or infant care services to
+4
+5
+State Department of Health clients pursuant to a
+5
+6
+contract entered into with the State Department
+6
+7
+of Health in accordance with paragraph 3 of
+7
+8
+subsection C of Section 1-106 of Title 63 of the
+8
+9
+Oklahoma Statutes but only insofar as services
+9
+10
+authorized by and in conformity with the terms of
+10
+11
+the contract and the requirements of Section 1-
+11
+12
+233 of Title 63 of the Oklahoma Statutes, and
+12
+13
+(3) any volunteer, full-time or part-time firefighter
+13
+14
+firefighters when performing duties for a fire
+14
+15
+department provided for in subparagraph j of
+15
+16
+paragraph 12 of this section.
+16
+17
+b. For the purposes of The Governmental Tort Claims Act,
+17
+18
+the following are employees of this state, regardless
+18
+19
+of the place in this state where duties as employees
+19
+20
+are performed:
+20
+21
+(1) physicians acting in an administrative capacity,
+21
+22
+(2) resident physicians and resident interns
+22
+23
+participating in a graduate medical education
+23
+24
+program of the University of Oklahoma Health
+24
+Req. No. 3221 Page 6
+
+1
+Sciences Center, the Oklahoma State University
+1
+2
+College of Osteopathic Medicine, a public trust
+2
+3
+created pursuant to Section 3224 of Title 63 of
+3
+4
+the Oklahoma Statutes and any sole member not-
+4
+5
+for-profit corporation of the public trust and
+5
+6
+any sole member not-for-profit subsidiary of such
+6
+7
+corporation, or the Department of Mental Health
+7
+8
+and Substance Abuse Services,
+8
+9
+(3) faculty members and staff of the University of
+9
+10
+Oklahoma Health Sciences Center, the Oklahoma
+10
+11
+State University College of Osteopathic Medicine,
+11
+12
+or a public trust created pursuant to Section
+12
+13
+3224 of Title 63 of the Oklahoma Statutes and any
+13
+14
+sole member not-for-profit corporation of the
+14
+15
+public trust and any sole member not-for-profit
+15
+16
+subsidiary of such corporation, while engaged in
+16
+17
+teaching duties,
+17
+18
+(4) physicians who practice medicine or act in an
+18
+19
+administrative capacity as an employee of an
+19
+20
+agency of this state,
+20
+21
+(5) physicians who provide medical care to inmates
+21
+22
+pursuant to a contract with the Department of
+22
+23
+Corrections,
+23
+24
+24
+Req. No. 3221 Page 7
+
+1
+(6) any person who is licensed to practice medicine
+1
+2
+pursuant to Title 59 of the Oklahoma Statutes,
+2
+3
+who is under an administrative professional
+3
+4
+services contract with the Oklahoma Health Care
+4
+5
+Authority under the auspices of the Oklahoma
+5
+6
+Health Care Authority Chief Medical Officer, and
+6
+7
+who is limited to performing administrative
+7
+8
+duties such as professional guidance for medical
+8
+9
+reviews, reimbursement rates, service
+9
+10
+utilization, health care delivery and benefit
+10
+11
+design for the Oklahoma Health Care Authority,
+11
+12
+only while acting within the scope of such
+12
+13
+contract,
+13
+14
+(7) licensed medical professionals under contract
+14
+15
+with city, county, or state entities who provide
+15
+16
+medical care to inmates or detainees in the
+16
+17
+custody or control of law enforcement agencies,
+17
+18
+(8) licensed mental health professionals as defined
+18
+19
+in Sections 1-103 and 5-502 of Title 43A of the
+19
+20
+Oklahoma Statutes, who are conducting initial
+20
+21
+examinations of individuals for the purpose of
+21
+22
+determining whether an individual meets the
+22
+23
+criteria for emergency detention as part of a
+23
+24
+24
+Req. No. 3221 Page 8
+
+1
+contract with the Department of Mental Health and
+1
+2
+Substance Abuse Services, and
+2
+3
+(9) licensed mental health professionals as defined
+3
+4
+in Sections 1-103 and 5-502 of Title 43A of the
+4
+5
+Oklahoma Statutes, who are providing mental
+5
+6
+health or substance abuse treatment services
+6
+7
+under a professional services contract with the
+7
+8
+Department of Mental Health and Substance Abuse
+8
+9
+Services and are providing such treatment
+9
+10
+services at a state-operated facility.
+10
+11
+Physician faculty members and physician staff of the
+11
+12
+University of Oklahoma Health Sciences Center, the
+12
+13
+Oklahoma State University College of Osteopathic
+13
+14
+Medicine, or a public trust created pursuant to
+14
+15
+Section 3224 of Title 63 of the Oklahoma Statutes and
+15
+16
+any sole member not-for-profit corporation of the
+16
+17
+public trust and any sole member not-for-profit
+17
+18
+subsidiary of such corporation not acting in an
+18
+19
+administrative capacity or engaged in teaching duties
+19
+20
+are not employees or agents of the state.
+20
+21
+c. For the purposes of The Governmental Tort Claims Act,
+21
+22
+employee shall include independent contractors and
+22
+23
+employees of independent contractors while actively
+23
+24
+engaged in the transport of individuals in need of
+24
+Req. No. 3221 Page 9
+
+1
+initial assessment, emergency detention, or protective
+1
+2
+custody as authorized by Section 1-110 of Title 43A of
+2
+3
+the Oklahoma Statutes.
+3
+4
+d. Except as provided in subparagraph b of this
+4
+5
+paragraph, in no event shall the state be held liable
+5
+6
+for the tortious conduct of any physician, resident
+6
+7
+physician or intern while practicing medicine or
+7
+8
+providing medical treatment to patients.
+8
+9
+e. For purposes of The Governmental Tort Claims Act,
+9
+10
+members of the state military forces on state active
+10
+11
+duty orders or on Title 32 active duty orders are
+11
+12
+employees of this state, regardless of the place,
+12
+13
+within or outside this state, where their duties as
+13
+14
+employees are performed;.
+14
+15
+f. For the purposes of The Governmental Tort Claims Act,
+15
+16
+employee shall include contractors, subcontractors,
+16
+17
+and employees of such for the purposes of civil
+17
+18
+actions arising out of roadway work zone operations
+18
+19
+performed under contract with the Department of
+19
+20
+Transportation or a political subdivision of this
+20
+21
+state, as provided in Section 10 of this act;
+21
+22
+8. “Loss” means death or injury to the body or rights of a
+22
+23
+person or damage to real or personal property or rights therein;
+23
+24
+24
+Req. No. 3221 Page 10
+
+1
+9. “Medically indigent” means a person requiring medically
+1
+2
+necessary hospital or other health care services for the person or
+2
+3
+the dependents of the person who has no public or private third-
+3
+4
+party coverage, and whose personal resources are insufficient to
+4
+5
+provide for needed health care;
+5
+6
+10. “Municipality” means any incorporated city or town, and all
+6
+7
+institutions, agencies, or instrumentalities of a municipality;
+7
+8
+11. “Occurrence” means a loss arising out of an accident or
+8
+9
+event or a continuous or repeated exposure to substantially the same
+9
+10
+general harmful conditions. All losses arising out of an accident
+10
+11
+or event or a continuous or repeated exposure to substantially the
+11
+12
+same general harmful conditions shall be deemed to have arisen out
+12
+13
+of one occurrence;
+13
+14
+12. “Political subdivision” means:
+14
+15
+a. a municipality,
+15
+16
+b. a school district, including, but not limited to, a
+16
+17
+technology center school district established pursuant
+17
+18
+to Section 4410, 4411, 4420 or 4420.1 of Title 70 of
+18
+19
+the Oklahoma Statutes, or a public library as defined
+19
+20
+pursuant to Section 1-104 of Title 65 of the Oklahoma
+20
+21
+Statutes,
+21
+22
+c. a county,
+22
+23
+d. a public trust where the sole beneficiary or
+23
+24
+beneficiaries are a city, town, school district or
+24
+Req. No. 3221 Page 11
+
+1
+county. For purposes of The Governmental Tort Claims
+1
+2
+Act, a public trust shall include:
+2
+3
+(1) a municipal hospital created pursuant to Sections
+3
+4
+30-101 through 30-109 of Title 11 of the Oklahoma
+4
+5
+Statutes, a county hospital created pursuant to
+5
+6
+Sections 781 through 796 of Title 19 of the
+6
+7
+Oklahoma Statutes, or is created pursuant to a
+7
+8
+joint agreement between such governing
+8
+9
+authorities, that is operated for the public
+9
+10
+benefit by a public trust created pursuant to
+10
+11
+Sections 176 through 180.4 of Title 60 of the
+11
+12
+Oklahoma Statutes and managed by a governing
+12
+13
+board appointed or elected by the municipality,
+13
+14
+county, or both, who exercises control of the
+14
+15
+hospital, subject to the approval of the
+15
+16
+governing body of the municipality, county, or
+16
+17
+both,
+17
+18
+(2) a public trust created pursuant to Sections 176
+18
+19
+through 180.4 of Title 60 of the Oklahoma
+19
+20
+Statutes after January 1, 2009, the primary
+20
+21
+purpose of which is to own, manage, or operate a
+21
+22
+public acute care hospital in this state that
+22
+23
+serves as a teaching hospital for a medical
+23
+24
+residency program provided by a college of
+24
+Req. No. 3221 Page 12
+
+1
+osteopathic medicine and provides care to
+1
+2
+indigent persons, and
+2
+3
+(3) a corporation in which all of the capital stock
+3
+4
+is owned, or a limited liability company in which
+4
+5
+all of the member interest is owned, by a public
+5
+6
+trust,
+6
+7
+e. for the purposes of The Governmental Tort Claims Act
+7
+8
+only, a housing authority created pursuant to the
+8
+9
+provisions of the Oklahoma Housing Authorities Act,
+9
+10
+f. for the purposes of The Governmental Tort Claims Act
+10
+11
+only, corporations organized not for profit pursuant
+11
+12
+to the provisions of the Oklahoma General Corporation
+12
+13
+Act for the primary purpose of developing and
+13
+14
+providing rural water supply and sewage disposal
+14
+15
+facilities to serve rural residents,
+15
+16
+g. for the purposes of The Governmental Tort Claims Act
+16
+17
+only, districts formed pursuant to the Rural Water,
+17
+18
+Sewer, Gas and Solid Waste Management Districts Act,
+18
+19
+h. for the purposes of The Governmental Tort Claims Act
+19
+20
+only, master conservancy districts formed pursuant to
+20
+21
+the Conservancy Act of Oklahoma,
+21
+22
+i. for the purposes of The Governmental Tort Claims Act
+22
+23
+only, a fire protection district created pursuant to
+23
+24
+24
+Req. No. 3221 Page 13
+
+1
+the provisions of Section 901.1 et seq. of Title 19 of
+1
+2
+the Oklahoma Statutes,
+2
+3
+j. for the purposes of The Governmental Tort Claims Act
+3
+4
+only, a benevolent or charitable corporate volunteer
+4
+5
+or full-time fire department for an unincorporated
+5
+6
+area created pursuant to the provisions of Section 592
+6
+7
+et seq. of Title 18 of the Oklahoma Statutes,
+7
+8
+k. for purposes of The Governmental Tort Claims Act only,
+8
+9
+an emergency services provider rendering services
+9
+10
+pursuant to an existing contract between the emergency
+10
+11
+services provider and the State Department of Health.
+11
+12
+Provided, however, that the acquisition of commercial
+12
+13
+liability insurance covering the activities of such
+13
+14
+emergency services provider performed within this
+14
+15
+state shall not operate as a waiver of any of the
+15
+16
+limitations, immunities or defenses provided for
+16
+17
+political subdivisions pursuant to the terms of The
+17
+18
+Governmental Tort Claims Act,
+18
+19
+l. for purposes of The Governmental Tort Claims Act only,
+19
+20
+a conservation district created pursuant to the
+20
+21
+provisions of the Conservation District Act,
+21
+22
+m. for purposes of The Governmental Tort Claims Act,
+22
+23
+districts formed pursuant to the Oklahoma Irrigation
+23
+24
+District Act,
+24
+Req. No. 3221 Page 14
+
+1
+n. for purposes of The Governmental Tort Claims Act only,
+1
+2
+any community action agency established pursuant to
+2
+3
+Sections 5035 through 5040.1 of Title 74 of the
+3
+4
+Oklahoma Statutes,
+4
+5
+o. for purposes of The Governmental Tort Claims Act only,
+5
+6
+any organization that is designated as a youth
+6
+7
+services agency, pursuant to Section 2-7-306 of Title
+7
+8
+10A of the Oklahoma Statutes,
+8
+9
+p. for purposes of The Governmental Tort Claims Act only,
+9
+10
+any judge presiding over a drug court, as defined by
+10
+11
+Section 471.1 of Title 22 of the Oklahoma Statutes,
+11
+12
+q. for purposes of The Governmental Tort Claims Act only,
+12
+13
+any child-placing agency licensed by this state to
+13
+14
+place children in foster family homes,
+14
+15
+r. for purposes of The Governmental Tort Claims Act only,
+15
+16
+a circuit engineering district created pursuant to
+16
+17
+Section 687.1 of Title 69 of the Oklahoma Statutes,
+17
+18
+s. for purposes of The Governmental Tort Claims Act only,
+18
+19
+a substate planning district, regional council of
+19
+20
+government or other entity created pursuant to Section
+20
+21
+1001 et seq. of Title 74 of the Oklahoma Statutes, and
+21
+22
+t. for purposes of The Governmental Tort Claims Act only,
+22
+23
+a regional transportation authority created pursuant
+23
+24
+to Section 1370.7 of Title 68 of the Oklahoma Statutes
+24
+Req. No. 3221 Page 15
+
+1
+including its contract operator and any railroad
+1
+2
+operating in interstate commerce that sells a property
+2
+3
+interest or provides services to a regional
+3
+4
+transportation authority or allows the authority to
+4
+5
+use the property or tracks of the railroad for the
+5
+6
+provision of public passenger rail service to the
+6
+7
+extent claims against the contract operator or
+7
+8
+railroad arise out of or are related to or in
+8
+9
+connection with such property interest, services or
+9
+10
+operation of the public passenger rail service.
+10
+11
+Provided, the acquisition of commercial liability
+11
+12
+insurance to cover the activities of the regional
+12
+13
+transportation authority, contract operator or
+13
+14
+railroad shall not operate as a waiver of any
+14
+15
+liabilities, immunities or defenses provided pursuant
+15
+16
+to the provisions of The Governmental Tort Claims Act,
+16
+17
+and all their institutions, instrumentalities or agencies;
+17
+18
+13. “Scope of employment” means performance by an employee
+18
+19
+acting in good faith within the duties of the employee’s office or
+19
+20
+employment or of tasks lawfully assigned by a competent authority
+20
+21
+including the operation or use of an agency vehicle or equipment
+21
+22
+with actual or implied consent of the supervisor of the employee,
+22
+23
+but shall not include corruption or fraud;
+23
+24
+24
+Req. No. 3221 Page 16
+
+1
+14. “State” means the State of Oklahoma or any office,
+1
+2
+department, agency, authority, commission, board, institution,
+2
+3
+hospital, college, university, public trust created pursuant to
+3
+4
+Title 60 of the Oklahoma Statutes of which the State of Oklahoma is
+4
+5
+the beneficiary, or other instrumentality thereof;
+5
+6
+15. “State active duty” shall be defined in accordance with
+6
+7
+Section 801 of Title 44 of the Oklahoma Statutes;
+7
+8
+16. “State military forces” shall be defined in accordance with
+8
+9
+Section 801 of Title 44 of the Oklahoma Statutes;
+9
+10
+17. “Title 32 active duty” shall be defined in accordance with
+10
+11
+Section 801 of Title 44 of the Oklahoma Statutes; and
+11
+12
+18. “Tort” means a legal wrong, independent of contract,
+12
+13
+involving violation of a duty imposed by general law, statute, the
+13
+14
+Oklahoma Constitution, or otherwise, resulting in a loss to any
+14
+15
+person, association or corporation as the proximate result of an act
+15
+16
+or omission of a political subdivision or the state or an employee
+16
+17
+acting within the scope of employment; provided, however, a tort
+17
+18
+shall not include a claim for inverse condemnation.
+18
+19
+SECTION 4. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 1240 of Title 69, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+As used in this act:
+22
+23
+1. “Automated work zone speed enforcement system” means a
+23
+24
+system using radar, lidar, or similar technology to detect vehicle
+24
+Req. No. 3221 Page 17
+
+1
+speed and capture an image of the vehicle’s license plate for civil
+1
+2
+enforcement purposes;
+2
+3
+2. “Contract documents” means all plans, specifications, and
+3
+4
+traffic-control plans issued or approved by the Department of
+4
+5
+Transportation or the contracting entity;
+5
+6
+3. “Contracting entity” means any political subdivision of this
+6
+7
+state that contracts with a contractor to provide traffic control or
+7
+8
+roadway services;
+8
+9
+4. “Contractor” means any prime contractor, subcontractor, or
+9
+10
+their employees engaged in providing traffic control or roadway
+10
+11
+services under contract with the Department of Transportation or any
+11
+12
+political subdivision of this state;
+12
+13
+5. “Gross negligence” means conduct that demonstrates reckless
+13
+14
+disregard for the safety of others, beyond ordinary negligence;
+14
+15
+6. “MUTCD” means the Manual on Uniform Traffic Control Devices;
+15
+16
+and
+16
+17
+7. “Work zone” means any segment of roadway where construction,
+17
+18
+maintenance, or utility work is being performed and is marked by
+18
+19
+traffic control devices in accordance with MUTCD and Department of
+19
+20
+Transportation specifications.
+20
+21
+SECTION 5. NEW LAW A new section of law to be codified
+21
+22
+in the Oklahoma Statutes as Section 1241 of Title 69, unless there
+22
+23
+is created a duplication in numbering, reads as follows:
+23
+24
+24
+Req. No. 3221 Page 18
+
+1
+A. 1. The Department of Transportation, in consultation with
+1
+2
+the Oklahoma Highway Patrol, shall, beginning on the effective date
+2
+3
+of this act until July 1, 2031, unless extended by an act of the
+3
+4
+Legislature, establish a demonstration program utilizing automated
+4
+5
+work zone speed enforcement systems in active roadway work zones.
+5
+6
+2. Automated work zone speed enforcement systems shall:
+6
+7
+a. operate only during active roadway work zone
+7
+8
+operations,
+8
+9
+b. be deployed on no fewer than five and no more than
+9
+10
+twenty active roadway projects at any given time, with
+10
+11
+priority for deployment given to high-speed or high-
+11
+12
+risk work zones, as determined by the Department,
+12
+13
+c. be accompanied by the installation of advance signage
+13
+14
+which shall clearly inform motorists of the presence
+14
+15
+of automated work zone speed enforcement systems, and
+15
+16
+d. not be installed or operated on highway exit ramps.
+16
+17
+B. 1. Each such system installed shall undergo daily self-
+17
+18
+tests and an annual calibration by an independent laboratory
+18
+19
+designated by the Department.
+19
+20
+2. Images taken by such systems shall be limited to the rear
+20
+21
+and license plate of a vehicle and shall be destroyed within one (1)
+21
+22
+year of case resolution.
+22
+23
+C. 1. Motorists who violate the speed limits of a roadway work
+23
+24
+zone monitored by an automated work zone speed enforcement system
+24
+Req. No. 3221 Page 19
+
+1
+shall receive a citation and shall be subject to the following
+1
+2
+penalties:
+2
+3
+a. for a first violation, the motorist may complete a
+3
+4
+course on work zone safety, designated by the
+4
+5
+Department, in lieu of a fine. Any cited motorist who
+5
+6
+fails to complete such course within thirty (30) days
+6
+7
+of the issuance of the initial citation shall be
+7
+8
+subject to a fine not to exceed Seventy-five Dollars
+8
+9
+($75.00),
+9
+10
+b. for a second violation within eighteen (18) months, a
+10
+11
+fine not to exceed One Hundred Dollars ($100.00), and
+11
+12
+c. for third or subsequent violations within eighteen
+12
+13
+(18) months, a fine not to exceed One Hundred Twenty-
+13
+14
+five Dollars ($125.00).
+14
+15
+2. An additional twenty-five-dollar late fee may be applied by
+15
+16
+the Department if a cited motorist does not pay an assessed fine
+16
+17
+within thirty (30) days after the receipt of a citation.
+17
+18
+3. Violations assessed under the provisions of this subsection
+18
+19
+shall not constitute criminal convictions, shall not result in the
+19
+20
+assessment of points to the driving record of a motorist, and shall
+20
+21
+not be used by insurers for rating purposes.
+21
+22
+D. Eighty percent (80%) of the collected fines, pursuant to
+22
+23
+subsection C of this section, shall be deposited into the Work Zone
+23
+24
+Safety Revolving Fund, as created in Section 12 of this act. The
+24
+Req. No. 3221 Page 20
+
+1
+remaining twenty percent (20%) of the collected fines shall be
+1
+2
+distributed to the municipality or county where the violation
+2
+3
+occurred.
+3
+4
+E. For the first thirty (30) days following the deployment of
+4
+5
+an automated work zone speed enforcement system at a work zone,
+5
+6
+motorists who violate the speed limits of such work zone shall
+6
+7
+receive a written warning in lieu of the citations provided for in
+7
+8
+subsection C of this section.
+8
+9
+SECTION 6. NEW LAW A new section of law to be codified
+9
+10
+in the Oklahoma Statutes as Section 1242 of Title 69, unless there
+10
+11
+is created a duplication in numbering, reads as follows:
+11
+12
+A. Contractors and subcontractors performing active roadway
+12
+13
+construction, maintenance, or traffic control operations may equip
+13
+14
+and operate flashing red and blue lamps on the rear of work vehicles
+14
+15
+for the purpose of warning approaching motorists. Such lamps shall:
+15
+16
+1. Be used only during active work zone operations;
+16
+17
+2. Face rearward for visibility;
+17
+18
+3. Not be used for traffic stops, pursuits, or law enforcement
+18
+19
+functions; and
+19
+20
+4. Be configured in accordance with Department of Public Safety
+20
+21
+specifications for brightness and uniformity.
+21
+22
+B. Nothing in this section shall be construed as granting work
+22
+23
+vehicles equipped with such lamps emergency vehicle status.
+23
+24
+24
+Req. No. 3221 Page 21
+
+1
+SECTION 7. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 1243 of Title 69, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+The Department of Transportation and contractors may, when
+4
+5
+necessary to protect workers and facilitate safe traffic movement,
+5
+6
+temporarily detour traffic onto municipal or county roads.
+6
+7
+SECTION 8. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 1244 of Title 69, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. A contractor performing traffic control services for the
+10
+11
+Department of Transportation or a political subdivision of this
+11
+12
+state shall not be liable for any claim of personal injury, property
+12
+13
+damage, or death arising out of a roadway condition if, at the time
+13
+14
+of the incident, the contractor was in compliance with approved
+14
+15
+contract documents and applicable standards.
+15
+16
+B. No person, including the driver or any occupant of a motor
+16
+17
+vehicle, shall be eligible to recover monetary damages,
+17
+18
+compensation, or awards of any kind from a contractor or
+18
+19
+subcontractor for injuries, death, or property damage sustained in a
+19
+20
+crash occurring within a designated work zone if the driver of such
+20
+21
+vehicle was, at the time of the crash, under the influence of
+21
+22
+alcohol, a controlled dangerous substance, or other intoxicating
+22
+23
+substance, as defined in Section 1-140.1 of Title 47 of the Oklahoma
+23
+24
+Statutes. The prohibition in this subsection applies regardless of
+24
+Req. No. 3221 Page 22
+
+1
+whether the intoxicated driver was cited, arrested, or convicted,
+1
+2
+provided that competent evidence establishes impairment at the time
+2
+3
+of the crash. Nothing in this subsection shall be construed to
+3
+4
+prevent any person from pursuing civil or criminal remedies against
+4
+5
+the intoxicated driver or the driver’s estate.
+5
+6
+C. The provisions of this subsection shall be construed
+6
+7
+liberally in favor of protecting contractors and subcontractors who
+7
+8
+comply with Manual on Uniform Traffic Control Devices (MUTCD) and
+8
+9
+Department standards from liability arising from the misconduct of
+9
+10
+third-party motorists.
+10
+11
+SECTION 9. NEW LAW A new section of law to be codified
+11
+12
+in the Oklahoma Statutes as Section 1245 of Title 69, unless there
+12
+13
+is created a duplication in numbering, reads as follows:
+13
+14
+A. If the Department of Transportation or a contracting entity
+14
+15
+requests that a contractor prepare a traffic-control plan or design
+15
+16
+documents, and such plan is reviewed and approved in writing, the
+16
+17
+contractor shall not be liable for injury or damage arising out of
+17
+18
+that plan’s design or layout, provided that the contractor complies
+18
+19
+with the approved version. Such immunity shall apply whether the
+19
+20
+contractor acts as a prime contractor or subcontractor.
+20
+21
+B. Nothing in this act shall impose upon any contractor a duty
+21
+22
+to investigate or identify defects in plans prepared or approved by
+22
+23
+the Department or a contracting entity.
+23
+24
+24
+Req. No. 3221 Page 23
+
+1
+C. A contractor may install additional warning devices,
+1
+2
+barriers, or safety measures beyond those required by contract
+2
+3
+documents if, in the reasonable judgment of the contractor, such
+3
+4
+additions enhance public safety. Such installation shall not affect
+4
+5
+the immunity provided for in subsection A of this section unless
+5
+6
+such installation is the proximate cause of injury or damage.
+6
+7
+SECTION 10. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 1246 of Title 69, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+A. For the purposes of civil actions arising out of roadway
+10
+11
+work zone operations performed under contract with the Department of
+11
+12
+Transportation or a political subdivision, a contractor or
+12
+13
+subcontractor acting within the scope of such contract and in
+13
+14
+compliance with approved contract documents and applicable standards
+14
+15
+shall be deemed an employee of this state or the contracting
+15
+16
+political subdivision within the meaning of The Governmental Tort
+16
+17
+Claims Act, as provided in Section 152 of Title 51 of the Oklahoma
+17
+18
+Statutes.
+18
+19
+B. When acting as such employee, as provided for in subsection
+19
+20
+A of this section, the contractor or subcontractor shall be entitled
+20
+21
+to the same immunities, defenses, and liability limitations as the
+21
+22
+governmental entity for which the work is performed, including the
+22
+23
+monetary limits for damages provided for in Section 154 of Title 51
+23
+24
+of the Oklahoma Statutes.
+24
+Req. No. 3221 Page 24
+
+1
+C. Nothing in this section shall be construed to grant immunity
+1
+2
+for acts or omissions constituting gross negligence, willful
+2
+3
+misconduct, or reckless disregard for the safety of others.
+3
+4
+SECTION 11. NEW LAW A new section of law to be codified
+4
+5
+in the Oklahoma Statutes as Section 1247 of Title 69, unless there
+5
+6
+is created a duplication in numbering, reads as follows:
+6
+7
+Any contract provision requiring a contractor or subcontractor
+7
+8
+to waive the protections of this act shall be void and
+8
+9
+unenforceable.
+9
+10
+SECTION 12. NEW LAW A new section of law to be codified
+10
+11
+in the Oklahoma Statutes as Section 1248 of Title 69, unless there
+11
+12
+is created a duplication in numbering, reads as follows:
+12
+13
+There is hereby created in the State Treasury a revolving fund
+13
+14
+for the Department of Transportation to be designated the “Work Zone
+14
+15
+Safety Revolving Fund”. The fund shall be a continuing fund, not
+15
+16
+subject to fiscal year limitations, and shall consist of all monies
+16
+17
+directed for deposit by the Department from the fines provided for
+17
+18
+in Section 5 of this act. All monies accruing to the credit of the
+18
+19
+fund are hereby appropriated and may be budgeted and expended by the
+19
+20
+Department for the purpose of improving work zone safety in this
+20
+21
+state. Expenditures from the fund shall be made upon warrants
+21
+22
+issued by the State Treasurer against claims filed as prescribed by
+22
+23
+law with the Director of the Office of Management and Enterprise
+23
+24
+Services for approval and payment.
+24
+Req. No. 3221 Page 25
+
+1
+SECTION 13. This act shall become effective July 1, 2026.
+1
+2
+SECTION 14. It being immediately necessary for the preservation
+2
+3
+of the public peace, health or safety, an emergency is hereby
+3
+4
+declared to exist, by reason whereof this act shall take effect and
+4
+5
+be in full force from and after its passage and approval.
+5
+6
+6
+7
+60-2-3221 MSBB 1/13/2026 1:21:40 PM
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3221 Page 26
+
+[DELETED:  P B F]
+[DELETED:  P]
+[DELETED:  P a]
+[DELETED:  P t i a a a]
+[DELETED:  P E a]
+[DELETED:  P f a F p r]
+[DELETED:  P f p p]
+[DELETED:  P a l l]
+[DELETED:  P l F]
+[DELETED:  P E F F]
+[DELETED:  P a a a a]
+[DELETED:  P a a]
+[DELETED:  P a f f f f f]
+[DELETED:  P f f f f]
+[DELETED:  P f f f f f f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P o b b n]
+[DELETED:  P f f f]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P M 1]
