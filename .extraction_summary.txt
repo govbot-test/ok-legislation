@@ -1,0 +1,8 @@
+📊 Text Extraction Summary for ok
+========================================
+
+Total bills:                 6000
+Processed:                   6000
+Successful:                  3644
+Errors:                      0
+Skipped (already processed): 2356
