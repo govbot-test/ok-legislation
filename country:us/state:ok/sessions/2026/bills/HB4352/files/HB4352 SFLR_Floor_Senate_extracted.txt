@@ -1,0 +1,474 @@
+Title: BILL NO. 4352 By: Wilk, Moore, and Schreiber
+Official Title: BILL NO. 4352 By: Wilk, Moore, and Schreiber
+Number of Sections: 1
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+1 SENATE FLOOR VERSION
+April 14, 2026
+2
+3 ENGROSSED HOUSE
+4 of the House
+5 and
+6 Howard of the Senate
+7
+8
+9 An Act relating to mortgages; enacting the Oklahoma
+Uniform Mortgage Modification Act; defining terms;
+10 providing scope of act; providing list of laws and
+statutes not affected by the act; exempting certain
+11 mortgage modifications from the act; stating the
+effect of mortgage modifications; directing courts to
+12 make certain considerations when applying and
+construing the act; describing manner by which the
+13 act affects the Electronic Signatures in Global and
+National Commerce Act; declaring that the act does
+14 not affect electronic deliveries of certain notices;
+providing when provisions of the act are applicable;
+15 providing severability clause; providing for
+codification; and providing an effective date.
+16
+17
+18 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19 SECTION 1. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 401 of Title 46, unless there is
+21 created a duplication in numbering, reads as follows:
+22 This act shall be known and may be cited as the "Oklahoma
+23 Uniform Mortgage Modification Act".
+24
+SENATE FLOOR VERSION - HB4352 SFLR Page 1
+(Bold face denotes Committee Amendments)
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 402 of Title 46, unless there is
+3 created a duplication in numbering, reads as follows:
+4 As used in this act:
+5 1. "Electronic" means technology having electrical, digital,
+6 magnetic, wireless, optical, electromagnetic, or similar
+7 capabilities;
+8 2. "Financial covenant" means an undertaking to demonstrate an
+9 obligor's creditworthiness or the adequacy of security provided by
+10 an obligor;
+11 3. "Modification" means a change, amendment, revision,
+12 correction, addition, supplementation, elimination, waiver, or
+13 restatement;
+14 4. "Mortgage":
+15 a. means an agreement that creates a consensual interest
+16 in real property to secure payment or performance of
+17 an obligation, regardless of:
+18 (1) how the agreement is denominated, including a
+19 mortgage, deed of trust, trust deed, security
+20 deed, indenture, and deed to secure debt, and
+21 (2) whether the agreement also creates a security
+22 interest in personal property, and
+23 b. does not include an agreement that creates a
+24 consensual interest to secure a liability owed by a
+SENATE FLOOR VERSION - HB4352 SFLR Page 2
+(Bold face denotes Committee Amendments)
+1 unit owner to a condominium association, owners'
+2 association, or cooperative housing association for
+3 association dues, fees, or assessments;
+4 5. "Mortgage modification" means modification of:
+5 a. a mortgage,
+6 b. an agreement that creates an obligation, including a
+7 promissory note, loan agreement, or credit agreement,
+8 or
+9 c. an agreement that creates other security or credit
+10 enhancement for an obligation, including an assignment
+11 of leases or rents or a guaranty;
+12 6. "Obligation" means a debt, duty, or other liability secured
+13 by a mortgage;
+14 7. "Obligor" means a person that:
+15 a. owes payment or performance of an obligation,
+16 b. signs a mortgage, or
+17 c. is otherwise accountable, or whose property serves as
+18 collateral, for payment or performance of an
+19 obligation;
+20 8. "Person" means an individual, estate, business or nonprofit
+21 entity, government or governmental subdivision, agency, or
+22 instrumentality, or other legal entity;
+23 9. "Recognized index" means an index to which changes in the
+24 interest rate may be linked that is:
+SENATE FLOOR VERSION - HB4352 SFLR Page 3
+(Bold face denotes Committee Amendments)
+1 a. readily available to, and verifiable by, the obligor,
+2 and
+3 b. beyond the control of the person to whom the
+4 obligation is owed;
+5 10. "Record", used as a noun, means information:
+6 a. inscribed on a tangible medium, or
+7 b. stored in an electronic or other medium and
+8 retrievable in perceivable form; and
+9 11. "Sign" means, with present intent to authenticate or adopt
+10 a record, to:
+11 a. execute or adopt a tangible symbol, or
+12 b. attach to or logically associate with the record an
+13 electronic symbol, sound, or process.
+14 SECTION 3. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 403 of Title 46, unless there is
+16 created a duplication in numbering, reads as follows:
+17 A. Except as provided in subsection C of this section, this act
+18 applies to a mortgage modification.
+19 B. This act does not affect:
+20 1. Laws governing the required content of a mortgage;
+21 2. A statute of limitations or other law governing the
+22 expiration or termination of a right to enforce an obligation or a
+23 mortgage;
+24 3. A recording statute;
+SENATE FLOOR VERSION - HB4352 SFLR Page 4
+(Bold face denotes Committee Amendments)
+1 4. A statute governing the priority of a tax lien or other
+2 governmental lien;
+3 5. A statute of frauds; or
+4 6. Except as provided in paragraph 8 of subsection B of Section
+5 4 of this act, laws governing the priority of a future advance.
+6 C. This act does not apply to any of the following
+7 modifications:
+8 1. A release of, or addition to, property encumbered by a
+9 mortgage;
+10 2. A release of, addition of, or other change in an obligor; or
+11 3. An assignment or other transfer of a mortgage or an
+12 obligation.
+13 SECTION 4. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 404 of Title 46, unless there is
+15 created a duplication in numbering, reads as follows:
+16 A. For a mortgage modification described in subsection B of
+17 this section:
+18 1. The mortgage continues to secure the obligation as modified;
+19 2. The priority of the mortgage is not affected by the
+20 modification;
+21 3. The mortgage retains its priority regardless of whether a
+22 record of the mortgage modification is recorded in the county
+23 records office in the county where the property is located; and
+24 4. The modification is not a novation.
+SENATE FLOOR VERSION - HB4352 SFLR Page 5
+(Bold face denotes Committee Amendments)
+1 B. Subsection A of this section applies to one or more of the
+2 following mortgage modifications:
+3 1. An extension of the maturity date of an obligation;
+4 2. A decrease in the interest rate of an obligation;
+5 3. If the change does not result in an increase in the interest
+6 rate of an obligation as calculated on the date the modification
+7 becomes effective:
+8 a. a change to a different index that is a recognized
+9 index if the previous index to which changes in the
+10 interest rate were linked is no longer available,
+11 b. a change in the differential between the index and the
+12 interest rate,
+13 c. a change from a floating or adjustable rate to a fixed
+14 rate, or
+15 d. a change from a fixed rate to a floating or adjustable
+16 rate based on a recognized index;
+17 4. A capitalization of unpaid interest or other unpaid monetary
+18 obligation;
+19 5. A forgiveness, forbearance, or other reduction of principal,
+20 accrued interest, or other monetary obligation;
+21 6. A modification of a requirement for maintaining an escrow or
+22 reserve account for payment of an obligation, including taxes and
+23 insurance premiums;
+24
+SENATE FLOOR VERSION - HB4352 SFLR Page 6
+(Bold face denotes Committee Amendments)
+1 7. A modification of a requirement for acquiring or maintaining
+2 insurance;
+3 8. A modification of an existing condition to advance funds;
+4 9. A modification of a financial covenant; and
+5 10. A modification of the payment amount or schedule resulting
+6 from another modification described in this subsection.
+7 C. The effect of a mortgage modification not described in
+8 subsection B of this section is governed by other law.
+9 SECTION 5. NEW LAW A new section of law to be codified
+10 in the Oklahoma Statutes as Section 405 of Title 46, unless there is
+11 created a duplication in numbering, reads as follows:
+12 In applying and construing this uniform act, a court shall
+13 consider the promotion of uniformity of the law among jurisdictions
+14 that enact it.
+15 SECTION 6. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 406 of Title 46, unless there is
+17 created a duplication in numbering, reads as follows:
+18 This act modifies, limits, or supersedes the Electronic
+19 Signatures in Global and National Commerce Act, 15 U.S.C., Section
+20 7001 et seq., but does not modify, limit, or supersede 15 U.S.C.,
+21 Section 7001(c), or authorize electronic delivery of any of the
+22 notices described in 15 U.S.C., Section 7003(b).
+23
+24
+SENATE FLOOR VERSION - HB4352 SFLR Page 7
+(Bold face denotes Committee Amendments)
+1 SECTION 7. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 407 of Title 46, unless there is
+3 created a duplication in numbering, reads as follows:
+4 This act applies to a mortgage modification made on or after the
+5 effective date of this act regardless of when the mortgage or the
+6 obligation was created.
+7 SECTION 8. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 408 of Title 46, unless there is
+9 created a duplication in numbering, reads as follows:
+10 If a provision of this act or its application to a person or
+11 circumstance is held invalid, the invalidity does not affect another
+12 provision or application that can be given effect without the
+13 invalid provision.
+14 SECTION 9. This act shall become effective November 1, 2026.
+15 COMMITTEE REPORT BY: COMMITTEE ON JUDICIARY
+April 14, 2026 - DO PASS
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - HB4352 SFLR Page 8
+(Bold face denotes Committee Amendments)
+[DELETED: P B W  a H]
+[DELETED: P m h w d]
+[DELETED: P a a a o s i]
+[DELETED: P r b i s e a]
+[DELETED: P]
+[DELETED: P a a a a]
+[DELETED: P]
+[DELETED: P]
+
+
+================================================================================
+
+Raw Text:
+1 SENATE FLOOR VERSION
+April 14, 2026
+2
+3 ENGROSSED HOUSE
+BILL NO. 4352 By: Wilk, Moore, and Schreiber
+4 of the House
+5 and
+6 Howard of the Senate
+7
+8
+9 An Act relating to mortgages; enacting the Oklahoma
+Uniform Mortgage Modification Act; defining terms;
+10 providing scope of act; providing list of laws and
+statutes not affected by the act; exempting certain
+11 mortgage modifications from the act; stating the
+effect of mortgage modifications; directing courts to
+12 make certain considerations when applying and
+construing the act; describing manner by which the
+13 act affects the Electronic Signatures in Global and
+National Commerce Act; declaring that the act does
+14 not affect electronic deliveries of certain notices;
+providing when provisions of the act are applicable;
+15 providing severability clause; providing for
+codification; and providing an effective date.
+16
+17
+18 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19 SECTION 1. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 401 of Title 46, unless there is
+21 created a duplication in numbering, reads as follows:
+22 This act shall be known and may be cited as the "Oklahoma
+23 Uniform Mortgage Modification Act".
+24
+SENATE FLOOR VERSION - HB4352 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 402 of Title 46, unless there is
+3 created a duplication in numbering, reads as follows:
+4 As used in this act:
+5 1. "Electronic" means technology having electrical, digital,
+6 magnetic, wireless, optical, electromagnetic, or similar
+7 capabilities;
+8 2. "Financial covenant" means an undertaking to demonstrate an
+9 obligor's creditworthiness or the adequacy of security provided by
+10 an obligor;
+11 3. "Modification" means a change, amendment, revision,
+12 correction, addition, supplementation, elimination, waiver, or
+13 restatement;
+14 4. "Mortgage":
+15 a. means an agreement that creates a consensual interest
+16 in real property to secure payment or performance of
+17 an obligation, regardless of:
+18 (1) how the agreement is denominated, including a
+19 mortgage, deed of trust, trust deed, security
+20 deed, indenture, and deed to secure debt, and
+21 (2) whether the agreement also creates a security
+22 interest in personal property, and
+23 b. does not include an agreement that creates a
+24 consensual interest to secure a liability owed by a
+SENATE FLOOR VERSION - HB4352 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 unit owner to a condominium association, owners'
+2 association, or cooperative housing association for
+3 association dues, fees, or assessments;
+4 5. "Mortgage modification" means modification of:
+5 a. a mortgage,
+6 b. an agreement that creates an obligation, including a
+7 promissory note, loan agreement, or credit agreement,
+8 or
+9 c. an agreement that creates other security or credit
+10 enhancement for an obligation, including an assignment
+11 of leases or rents or a guaranty;
+12 6. "Obligation" means a debt, duty, or other liability secured
+13 by a mortgage;
+14 7. "Obligor" means a person that:
+15 a. owes payment or performance of an obligation,
+16 b. signs a mortgage, or
+17 c. is otherwise accountable, or whose property serves as
+18 collateral, for payment or performance of an
+19 obligation;
+20 8. "Person" means an individual, estate, business or nonprofit
+21 entity, government or governmental subdivision, agency, or
+22 instrumentality, or other legal entity;
+23 9. "Recognized index" means an index to which changes in the
+24 interest rate may be linked that is:
+SENATE FLOOR VERSION - HB4352 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 a. readily available to, and verifiable by, the obligor,
+2 and
+3 b. beyond the control of the person to whom the
+4 obligation is owed;
+5 10. "Record", used as a noun, means information:
+6 a. inscribed on a tangible medium, or
+7 b. stored in an electronic or other medium and
+8 retrievable in perceivable form; and
+9 11. "Sign" means, with present intent to authenticate or adopt
+10 a record, to:
+11 a. execute or adopt a tangible symbol, or
+12 b. attach to or logically associate with the record an
+13 electronic symbol, sound, or process.
+14 SECTION 3. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 403 of Title 46, unless there is
+16 created a duplication in numbering, reads as follows:
+17 A. Except as provided in subsection C of this section, this act
+18 applies to a mortgage modification.
+19 B. This act does not affect:
+20 1. Laws governing the required content of a mortgage;
+21 2. A statute of limitations or other law governing the
+22 expiration or termination of a right to enforce an obligation or a
+23 mortgage;
+24 3. A recording statute;
+SENATE FLOOR VERSION - HB4352 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 4. A statute governing the priority of a tax lien or other
+2 governmental lien;
+3 5. A statute of frauds; or
+4 6. Except as provided in paragraph 8 of subsection B of Section
+5 4 of this act, laws governing the priority of a future advance.
+6 C. This act does not apply to any of the following
+7 modifications:
+8 1. A release of, or addition to, property encumbered by a
+9 mortgage;
+10 2. A release of, addition of, or other change in an obligor; or
+11 3. An assignment or other transfer of a mortgage or an
+12 obligation.
+13 SECTION 4. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 404 of Title 46, unless there is
+15 created a duplication in numbering, reads as follows:
+16 A. For a mortgage modification described in subsection B of
+17 this section:
+18 1. The mortgage continues to secure the obligation as modified;
+19 2. The priority of the mortgage is not affected by the
+20 modification;
+21 3. The mortgage retains its priority regardless of whether a
+22 record of the mortgage modification is recorded in the county
+23 records office in the county where the property is located; and
+24 4. The modification is not a novation.
+SENATE FLOOR VERSION - HB4352 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 B. Subsection A of this section applies to one or more of the
+2 following mortgage modifications:
+3 1. An extension of the maturity date of an obligation;
+4 2. A decrease in the interest rate of an obligation;
+5 3. If the change does not result in an increase in the interest
+6 rate of an obligation as calculated on the date the modification
+7 becomes effective:
+8 a. a change to a different index that is a recognized
+9 index if the previous index to which changes in the
+10 interest rate were linked is no longer available,
+11 b. a change in the differential between the index and the
+12 interest rate,
+13 c. a change from a floating or adjustable rate to a fixed
+14 rate, or
+15 d. a change from a fixed rate to a floating or adjustable
+16 rate based on a recognized index;
+17 4. A capitalization of unpaid interest or other unpaid monetary
+18 obligation;
+19 5. A forgiveness, forbearance, or other reduction of principal,
+20 accrued interest, or other monetary obligation;
+21 6. A modification of a requirement for maintaining an escrow or
+22 reserve account for payment of an obligation, including taxes and
+23 insurance premiums;
+24
+SENATE FLOOR VERSION - HB4352 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 7. A modification of a requirement for acquiring or maintaining
+2 insurance;
+3 8. A modification of an existing condition to advance funds;
+4 9. A modification of a financial covenant; and
+5 10. A modification of the payment amount or schedule resulting
+6 from another modification described in this subsection.
+7 C. The effect of a mortgage modification not described in
+8 subsection B of this section is governed by other law.
+9 SECTION 5. NEW LAW A new section of law to be codified
+10 in the Oklahoma Statutes as Section 405 of Title 46, unless there is
+11 created a duplication in numbering, reads as follows:
+12 In applying and construing this uniform act, a court shall
+13 consider the promotion of uniformity of the law among jurisdictions
+14 that enact it.
+15 SECTION 6. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 406 of Title 46, unless there is
+17 created a duplication in numbering, reads as follows:
+18 This act modifies, limits, or supersedes the Electronic
+19 Signatures in Global and National Commerce Act, 15 U.S.C., Section
+20 7001 et seq., but does not modify, limit, or supersede 15 U.S.C.,
+21 Section 7001(c), or authorize electronic delivery of any of the
+22 notices described in 15 U.S.C., Section 7003(b).
+23
+24
+SENATE FLOOR VERSION - HB4352 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 SECTION 7. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 407 of Title 46, unless there is
+3 created a duplication in numbering, reads as follows:
+4 This act applies to a mortgage modification made on or after the
+5 effective date of this act regardless of when the mortgage or the
+6 obligation was created.
+7 SECTION 8. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 408 of Title 46, unless there is
+9 created a duplication in numbering, reads as follows:
+10 If a provision of this act or its application to a person or
+11 circumstance is held invalid, the invalidity does not affect another
+12 provision or application that can be given effect without the
+13 invalid provision.
+14 SECTION 9. This act shall become effective November 1, 2026.
+15 COMMITTEE REPORT BY: COMMITTEE ON JUDICIARY
+April 14, 2026 - DO PASS
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - HB4352 SFLR Page 8
+(Bold face denotes Committee Amendments)
+
+[DELETED: P B W  a H]
+[DELETED: P m h w d]
+[DELETED: P a a a o s i]
+[DELETED: P r b i s e a]
+[DELETED: P]
+[DELETED: P a a a a]
+[DELETED: P]
+[DELETED: P]
