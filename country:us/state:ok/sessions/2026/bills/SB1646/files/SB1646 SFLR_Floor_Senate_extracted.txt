@@ -1,0 +1,572 @@
+Title: 3 SENATE BILL NO. 1646 By: Gollihare of the Senate
+Official Title: 3 SENATE BILL NO. 1646 By: Gollihare of the Senate
+Number of Sections: 1
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+1 SENATE FLOOR VERSION
+February 26, 2026
+2 AS AMENDED
+4 and
+5 Lawson of the House
+6
+7
+8 [ health insurance - mental health and substance use
+disorders - benefits or coverage - utilization review
+9 - criteria - authorizations - policy - rules -
+codification - effective date ]
+10
+11
+12 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13 SECTION 1. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 6060.11c of Title 36, unless
+15 there is created a duplication in numbering, reads as follows:
+16 A. As used in this section:
+17 1. A “core treatment” for a condition or disorder is a standard
+18 treatment or course of treatment, therapy, service, or intervention
+19 indicated by generally accepted standards of mental health and
+20 substance use disorder care;
+21 2. “Generally accepted standards of mental health and substance
+22 use disorder care” means standards of care and clinical practice
+23 that are generally recognized by health care providers practicing in
+24 relevant clinical specialties such as psychiatry, psychology,
+SENATE FLOOR VERSION - SB1646 SFLR Page 1
+(Bold face denotes Committee Amendments)
+1 addi ction medicine and counseling, and behavioral health treatment.
+2 Valid, evidence-based sources reflecting generally accepted
+3 standards of mental health and substance use disorder care include
+4 published peer-reviewed scientific studies and medical literature
+5 and recommendations of nonprofit health care provider professional
+6 associations including, but not limited to, patient placement
+7 criteria and clinical practice guidelines;
+8 3. “Health benefit plan” has the same meaning as provided in
+9 Section 6060.4 of Title 36 of the Oklahoma Statutes;
+10 4. “Medically necessary treatment of a mental health or
+11 substance use disorder” means a service or product addressing the
+12 specific needs of that patient, for the purpose of screening,
+13 preventing, diagnosing, managing, or treating an illness, injury,
+14 condition, or its symptoms, including minimizing the progression of
+15 an illness, injury, condition, or its symptoms, in a manner that is
+16 all of the following:
+17 a. in accordance with the generally accepted standards of
+18 mental health and substance use disorder care,
+19 b. clinically appropriate in terms of type, frequency,
+20 extent, site, and duration, and
+21 c. not primarily for the economic benefit of the health
+22 benefit plan or purchaser or for the convenience of
+23 the patient, treating physician, or other health care
+24 provider;
+SENATE FLOOR VERSION - SB1646 SFLR Page 2
+(Bold face denotes Committee Amendments)
+1 5. “Mental health and substance use disorder” means a mental
+2 health condition or substance use disorder that falls under any of
+3 the diagnostic categories listed in the mental and behavioral
+4 disorders chapter of the most recent edition of the International
+5 Statistical Classification of Diseases and Related Health Problems,
+6 or that is listed in the most recent version of the American
+7 Psychiatric Association’s Diagnostic and Statistical Manual of
+8 Mental Disorders or the Diagnostic Classification of Mental Health
+9 and Developmental Disorders of Infancy and Early Childhood. Changes
+10 in terminology, organization, or classification of mental health and
+11 substance use disorders in future versions of the American
+12 Psychiatric Association’s Diagnostic and Statistical Manual of
+13 Mental Disorders or the International Statistical Classification of
+14 Diseases and Related Health Problems shall not affect the conditions
+15 covered by this section as long as a condition is commonly
+16 understood to be a mental health or substance use disorder by health
+17 care providers practicing in relevant clinical specialties;
+18 6. “Nonprofit health care provider professional association”
+19 means a not-for-profit health care provider professional association
+20 or specialty society that is generally recognized by clinicians
+21 practicing in the relevant clinical specialty and that issues peer-
+22 reviewed guidelines, criteria, or other clinical recommendations
+23 developed through a transparent process;
+24
+SENATE FLOOR VERSION - SB1646 SFLR Page 3
+(Bold face denotes Committee Amendments)
+1 7. “Utilization review” means prospectively, retrospectively,
+2 or concurrently reviewing and approving, modifying, delaying, or
+3 denying, based in whole or in part on medical necessity, requests by
+4 health care providers, insureds, or their authorized representatives
+5 for coverage of health care services prior to, retrospectively, or
+6 concurrent with the provision of health care services to insureds,
+7 or for out-of-network services required pursuant to 6060.11a of
+8 Title 36 of the Oklahoma Statutes; and
+9 8. “Utilization review criteria” means any criteria, standards,
+10 protocols, or guidelines used by a health benefit plan, or any
+11 entity acting on the health benefit plan’s behalf, to conduct
+12 utilization review.
+13 B. 1. Every health benefit plan issued, amended, or renewed in
+14 this state that provides hospital, medical, or surgical coverage
+15 shall provide coverage for medically necessary treatment of mental
+16 health and substance use disorders including services that are
+17 consistent with criteria, guidelines, or consensus recommendations
+18 from nationally recognized not-for-profit clinical specialty
+19 associations of the relevant behavioral, mental health, or substance
+20 use disorder specialty.
+21 2. A health benefit plan shall not limit benefits or coverage
+22 for chronic or pervasive mental health and substance use disorders
+23 to short-term or acute treatment at any level of care placement.
+24
+SENATE FLOOR VERSION - SB1646 SFLR Page 4
+(Bold face denotes Committee Amendments)
+1 3. All utilization review concerning service intensity, level
+2 of care placement, continued stay, and transfer or discharge of
+3 insureds diagnosed with mental health and substance use disorders
+4 shall be conducted in accordance with the requirements of subsection
+5 C of this section.
+6 4. A health benefit plan that authorizes a specific type of
+7 treatment by a provider pursuant to this section shall not rescind
+8 or modify the authorization or payment after the provider renders
+9 the health care service in good faith and pursuant to the
+10 authorization for any reason, including, but not limited to, the
+11 health benefit plan’s subsequent rescission, cancellation, or
+12 modification of the insured’s or policyholder’s contract, or the
+13 health benefit plan’s subsequent determination that it did not make
+14 an accurate determination of the insured’s or policyholder’s
+15 eligibility.
+16 5. If services for the medically necessary treatment of a
+17 mental health or substance use disorder are not available in-
+18 network, the health benefit plan shall comply with the out-of-
+19 network care requirements provided by Section 6060.11a of Title 36
+20 of the Oklahoma Statutes.
+21 6. If a health benefit plan provides any benefits for a mental
+22 health or substance use disorder in any classification of benefits,
+23 it shall provide meaningful benefits for that mental health or
+24 substance use disorder in every classification in which medical or
+SENATE FLOOR VERSION - SB1646 SFLR Page 5
+(Bold face denotes Committee Amendments)
+1 surg ical benefits are provided in accordance with 45 C.F.R., Section
+2 146.136. For purposes of this paragraph, whether the benefits
+3 provided are meaningful benefits shall be determined in comparison
+4 to the benefits provided for medical conditions and surgical
+5 procedures in the classification. At a minimum, the health benefit
+6 plan shall provide coverage of benefits for that condition or
+7 disorder in each classification in which the health benefit plan
+8 provides benefits for one or more medical conditions or surgical
+9 procedures. The health benefit plan shall not be deemed to provide
+10 meaningful benefits unless it provides benefits for a core treatment
+11 for that condition or disorder in each classification in which the
+12 health benefit plan provides benefits for a core treatment for one
+13 or more medical conditions or surgical procedures. If there is no
+14 core treatment for a covered mental health condition or substance
+15 use disorder with respect to a classification, the health benefit
+16 plan is not required to provide benefits for a core treatment for
+17 such condition or disorder in that classification, but shall provide
+18 benefits for such condition or disorder in every classification in
+19 which medical or surgical benefits are provided.
+20 C. 1. In conducting utilization review, a health benefit plan
+21 that provides hospital, medical, or surgical coverage, or an entity
+22 acting on the health benefit plan’s behalf, shall not deviate from,
+23 or apply criteria that deviates from, current generally accepted
+24 standards of mental health and substance use disorder care as
+SENATE FLOOR VERSION - SB1646 SFLR Page 6
+(Bold face denotes Committee Amendments)
+1 defi ned in subsection A of this section. All denials and appeals
+2 shall be reviewed by a professional with the same level of education
+3 and experience as the provider requesting coverage.
+4 2. In conducting utilization review of all covered health care
+5 services and benefits for the screening, diagnosis, prevention, and
+6 treatment of mental health and substance use disorders in children,
+7 adolescents, and adults, a health benefit plan shall apply the
+8 relevant level of care placement criteria and practice guidelines
+9 set forth in the most recent versions of such criteria and practice
+10 guidelines, developed by the nonprofit health care provider
+11 professional association for the relevant clinical specialty.
+12 3. In conducting utilization review relating to service
+13 intensity or level of care placement, continued stay, transfer or
+14 discharge, or any other patient care decisions that are within the
+15 scope of the sources specified in subsection B of this section, a
+16 health benefit plan shall not apply different, additional,
+17 conflicting, or more restrictive utilization review criteria than
+18 the criteria and guidelines set forth in those sources. For all
+19 service intensity or level of care placement, continued stay, or
+20 transfer or discharge decisions, the health benefit plan shall
+21 authorize placement at the level of care consistent with the
+22 insured’s score using the relevant level of care placement criteria
+23 and guidelines as specified in subsection B of this section. If
+24 that level of placement is not available, the health benefit plan
+SENATE FLOOR VERSION - SB1646 SFLR Page 7
+(Bold face denotes Committee Amendments)
+1 shal l authorize the next highest level of care. If the health
+2 benefit plan’s application of the relevant age-appropriate criteria
+3 is not consistent with the service intensity or level of care
+4 placement requested by the covered person or his or her provider,
+5 any adverse benefit determination notice shall include full details
+6 of the health benefit plan’s assessment under the relevant criteria
+7 to the provider and the covered person.
+8 D. A health benefit plan shall not adopt, impose, or enforce
+9 terms in its policies or provider agreements, in writing or in
+10 operation, that undermine, alter, or conflict with the requirements
+11 of this section.
+12 E. 1. The Insurance Commissioner may promulgate rules to
+13 implement and enforce the provisions of this section including, but
+14 not limited to, rules to:
+15 a. address health benefit plan utilization review
+16 compliance in accordance with subsection C of this
+17 section,
+18 b. specify data testing requirements to determine plan
+19 design and application of parity compliance for
+20 nonquantitative treatment limitations using outcomes
+21 data, and
+22 c. set standard definitions for coverage requirements,
+23 including processes, strategies, evidentiary
+24 standards, and other factors.
+SENATE FLOOR VERSION - SB1646 SFLR Page 8
+(Bold face denotes Committee Amendments)
+1 2. If the Commissioner determines that a health benefit plan
+2 has violated this section, the Commissioner may, after appropriate
+3 notice and opportunity for hearing by order, assess a civil penalty
+4 not to exceed Five Thousand Dollars ($5,000.00) for each violation
+5 or, if a violation was willful, a civil penalty not to exceed Ten
+6 Thousand Dollars ($10,000.00) for each violation. The civil
+7 penalties authorized under this paragraph are not exclusive and may
+8 be sought and employed in combination with any other remedies
+9 available to the Commissioner under the Oklahoma Insurance Code.
+10 F. 1. This section applies to:
+11 a. all health care services and benefits for the
+12 screening, diagnosis, prevention, and treatment of
+13 mental health and substance use disorders covered by
+14 an insurance policy, and
+15 b. a health benefit plan that covers hospital, medical,
+16 or surgical expenses and conducts utilization review
+17 as defined in this section, and any entity or
+18 contracting provider that performs utilization review
+19 or utilization management functions on a health
+20 benefit plan’s behalf.
+21 2. This section applies only to covered benefits. Nothing in
+22 this section shall be construed to expand or alter the benefits
+23 available to the insured or policyholder under an insurance policy.
+24
+SENATE FLOOR VERSION - SB1646 SFLR Page 9
+(Bold face denotes Committee Amendments)
+1 3. Nothing in this section shall be construed to supersede,
+2 limit, or otherwise affect the provisions of Section 2607.1 of Title
+3 63 of the Oklahoma Statutes.
+4 SECTION 2. This act shall become effective January 1, 2027.
+5 COMMITTEE REPORT BY: COMMITTEE ON BUSINESS AND INSURANCE
+February 26, 2026 - DO PASS AS AMENDED
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB1646 SFLR Page 10
+(Bold face denotes Committee Amendments)
+[DELETED: P B G  a L]
+[DELETED: P i c n]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P a s s]
+[DELETED: P a a]
+[DELETED: P]
+
+
+================================================================================
+
+Raw Text:
+1 SENATE FLOOR VERSION
+February 26, 2026
+2 AS AMENDED
+3 SENATE BILL NO. 1646 By: Gollihare of the Senate
+4 and
+5 Lawson of the House
+6
+7
+8 [ health insurance - mental health and substance use
+disorders - benefits or coverage - utilization review
+9 - criteria - authorizations - policy - rules -
+codification - effective date ]
+10
+11
+12 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13 SECTION 1. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 6060.11c of Title 36, unless
+15 there is created a duplication in numbering, reads as follows:
+16 A. As used in this section:
+17 1. A “core treatment” for a condition or disorder is a standard
+18 treatment or course of treatment, therapy, service, or intervention
+19 indicated by generally accepted standards of mental health and
+20 substance use disorder care;
+21 2. “Generally accepted standards of mental health and substance
+22 use disorder care” means standards of care and clinical practice
+23 that are generally recognized by health care providers practicing in
+24 relevant clinical specialties such as psychiatry, psychology,
+SENATE FLOOR VERSION - SB1646 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 addi ction medicine and counseling, and behavioral health treatment.
+2 Valid, evidence-based sources reflecting generally accepted
+3 standards of mental health and substance use disorder care include
+4 published peer-reviewed scientific studies and medical literature
+5 and recommendations of nonprofit health care provider professional
+6 associations including, but not limited to, patient placement
+7 criteria and clinical practice guidelines;
+8 3. “Health benefit plan” has the same meaning as provided in
+9 Section 6060.4 of Title 36 of the Oklahoma Statutes;
+10 4. “Medically necessary treatment of a mental health or
+11 substance use disorder” means a service or product addressing the
+12 specific needs of that patient, for the purpose of screening,
+13 preventing, diagnosing, managing, or treating an illness, injury,
+14 condition, or its symptoms, including minimizing the progression of
+15 an illness, injury, condition, or its symptoms, in a manner that is
+16 all of the following:
+17 a. in accordance with the generally accepted standards of
+18 mental health and substance use disorder care,
+19 b. clinically appropriate in terms of type, frequency,
+20 extent, site, and duration, and
+21 c. not primarily for the economic benefit of the health
+22 benefit plan or purchaser or for the convenience of
+23 the patient, treating physician, or other health care
+24 provider;
+SENATE FLOOR VERSION - SB1646 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 5. “Mental health and substance use disorder” means a mental
+2 health condition or substance use disorder that falls under any of
+3 the diagnostic categories listed in the mental and behavioral
+4 disorders chapter of the most recent edition of the International
+5 Statistical Classification of Diseases and Related Health Problems,
+6 or that is listed in the most recent version of the American
+7 Psychiatric Association’s Diagnostic and Statistical Manual of
+8 Mental Disorders or the Diagnostic Classification of Mental Health
+9 and Developmental Disorders of Infancy and Early Childhood. Changes
+10 in terminology, organization, or classification of mental health and
+11 substance use disorders in future versions of the American
+12 Psychiatric Association’s Diagnostic and Statistical Manual of
+13 Mental Disorders or the International Statistical Classification of
+14 Diseases and Related Health Problems shall not affect the conditions
+15 covered by this section as long as a condition is commonly
+16 understood to be a mental health or substance use disorder by health
+17 care providers practicing in relevant clinical specialties;
+18 6. “Nonprofit health care provider professional association”
+19 means a not-for-profit health care provider professional association
+20 or specialty society that is generally recognized by clinicians
+21 practicing in the relevant clinical specialty and that issues peer-
+22 reviewed guidelines, criteria, or other clinical recommendations
+23 developed through a transparent process;
+24
+SENATE FLOOR VERSION - SB1646 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 7. “Utilization review” means prospectively, retrospectively,
+2 or concurrently reviewing and approving, modifying, delaying, or
+3 denying, based in whole or in part on medical necessity, requests by
+4 health care providers, insureds, or their authorized representatives
+5 for coverage of health care services prior to, retrospectively, or
+6 concurrent with the provision of health care services to insureds,
+7 or for out-of-network services required pursuant to 6060.11a of
+8 Title 36 of the Oklahoma Statutes; and
+9 8. “Utilization review criteria” means any criteria, standards,
+10 protocols, or guidelines used by a health benefit plan, or any
+11 entity acting on the health benefit plan’s behalf, to conduct
+12 utilization review.
+13 B. 1. Every health benefit plan issued, amended, or renewed in
+14 this state that provides hospital, medical, or surgical coverage
+15 shall provide coverage for medically necessary treatment of mental
+16 health and substance use disorders including services that are
+17 consistent with criteria, guidelines, or consensus recommendations
+18 from nationally recognized not-for-profit clinical specialty
+19 associations of the relevant behavioral, mental health, or substance
+20 use disorder specialty.
+21 2. A health benefit plan shall not limit benefits or coverage
+22 for chronic or pervasive mental health and substance use disorders
+23 to short-term or acute treatment at any level of care placement.
+24
+SENATE FLOOR VERSION - SB1646 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 3. All utilization review concerning service intensity, level
+2 of care placement, continued stay, and transfer or discharge of
+3 insureds diagnosed with mental health and substance use disorders
+4 shall be conducted in accordance with the requirements of subsection
+5 C of this section.
+6 4. A health benefit plan that authorizes a specific type of
+7 treatment by a provider pursuant to this section shall not rescind
+8 or modify the authorization or payment after the provider renders
+9 the health care service in good faith and pursuant to the
+10 authorization for any reason, including, but not limited to, the
+11 health benefit plan’s subsequent rescission, cancellation, or
+12 modification of the insured’s or policyholder’s contract, or the
+13 health benefit plan’s subsequent determination that it did not make
+14 an accurate determination of the insured’s or policyholder’s
+15 eligibility.
+16 5. If services for the medically necessary treatment of a
+17 mental health or substance use disorder are not available in-
+18 network, the health benefit plan shall comply with the out-of-
+19 network care requirements provided by Section 6060.11a of Title 36
+20 of the Oklahoma Statutes.
+21 6. If a health benefit plan provides any benefits for a mental
+22 health or substance use disorder in any classification of benefits,
+23 it shall provide meaningful benefits for that mental health or
+24 substance use disorder in every classification in which medical or
+SENATE FLOOR VERSION - SB1646 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 surg ical benefits are provided in accordance with 45 C.F.R., Section
+2 146.136. For purposes of this paragraph, whether the benefits
+3 provided are meaningful benefits shall be determined in comparison
+4 to the benefits provided for medical conditions and surgical
+5 procedures in the classification. At a minimum, the health benefit
+6 plan shall provide coverage of benefits for that condition or
+7 disorder in each classification in which the health benefit plan
+8 provides benefits for one or more medical conditions or surgical
+9 procedures. The health benefit plan shall not be deemed to provide
+10 meaningful benefits unless it provides benefits for a core treatment
+11 for that condition or disorder in each classification in which the
+12 health benefit plan provides benefits for a core treatment for one
+13 or more medical conditions or surgical procedures. If there is no
+14 core treatment for a covered mental health condition or substance
+15 use disorder with respect to a classification, the health benefit
+16 plan is not required to provide benefits for a core treatment for
+17 such condition or disorder in that classification, but shall provide
+18 benefits for such condition or disorder in every classification in
+19 which medical or surgical benefits are provided.
+20 C. 1. In conducting utilization review, a health benefit plan
+21 that provides hospital, medical, or surgical coverage, or an entity
+22 acting on the health benefit plan’s behalf, shall not deviate from,
+23 or apply criteria that deviates from, current generally accepted
+24 standards of mental health and substance use disorder care as
+SENATE FLOOR VERSION - SB1646 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 defi ned in subsection A of this section. All denials and appeals
+2 shall be reviewed by a professional with the same level of education
+3 and experience as the provider requesting coverage.
+4 2. In conducting utilization review of all covered health care
+5 services and benefits for the screening, diagnosis, prevention, and
+6 treatment of mental health and substance use disorders in children,
+7 adolescents, and adults, a health benefit plan shall apply the
+8 relevant level of care placement criteria and practice guidelines
+9 set forth in the most recent versions of such criteria and practice
+10 guidelines, developed by the nonprofit health care provider
+11 professional association for the relevant clinical specialty.
+12 3. In conducting utilization review relating to service
+13 intensity or level of care placement, continued stay, transfer or
+14 discharge, or any other patient care decisions that are within the
+15 scope of the sources specified in subsection B of this section, a
+16 health benefit plan shall not apply different, additional,
+17 conflicting, or more restrictive utilization review criteria than
+18 the criteria and guidelines set forth in those sources. For all
+19 service intensity or level of care placement, continued stay, or
+20 transfer or discharge decisions, the health benefit plan shall
+21 authorize placement at the level of care consistent with the
+22 insured’s score using the relevant level of care placement criteria
+23 and guidelines as specified in subsection B of this section. If
+24 that level of placement is not available, the health benefit plan
+SENATE FLOOR VERSION - SB1646 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 shal l authorize the next highest level of care. If the health
+2 benefit plan’s application of the relevant age-appropriate criteria
+3 is not consistent with the service intensity or level of care
+4 placement requested by the covered person or his or her provider,
+5 any adverse benefit determination notice shall include full details
+6 of the health benefit plan’s assessment under the relevant criteria
+7 to the provider and the covered person.
+8 D. A health benefit plan shall not adopt, impose, or enforce
+9 terms in its policies or provider agreements, in writing or in
+10 operation, that undermine, alter, or conflict with the requirements
+11 of this section.
+12 E. 1. The Insurance Commissioner may promulgate rules to
+13 implement and enforce the provisions of this section including, but
+14 not limited to, rules to:
+15 a. address health benefit plan utilization review
+16 compliance in accordance with subsection C of this
+17 section,
+18 b. specify data testing requirements to determine plan
+19 design and application of parity compliance for
+20 nonquantitative treatment limitations using outcomes
+21 data, and
+22 c. set standard definitions for coverage requirements,
+23 including processes, strategies, evidentiary
+24 standards, and other factors.
+SENATE FLOOR VERSION - SB1646 SFLR Page 8
+(Bold face denotes Committee Amendments)
+
+1 2. If the Commissioner determines that a health benefit plan
+2 has violated this section, the Commissioner may, after appropriate
+3 notice and opportunity for hearing by order, assess a civil penalty
+4 not to exceed Five Thousand Dollars ($5,000.00) for each violation
+5 or, if a violation was willful, a civil penalty not to exceed Ten
+6 Thousand Dollars ($10,000.00) for each violation. The civil
+7 penalties authorized under this paragraph are not exclusive and may
+8 be sought and employed in combination with any other remedies
+9 available to the Commissioner under the Oklahoma Insurance Code.
+10 F. 1. This section applies to:
+11 a. all health care services and benefits for the
+12 screening, diagnosis, prevention, and treatment of
+13 mental health and substance use disorders covered by
+14 an insurance policy, and
+15 b. a health benefit plan that covers hospital, medical,
+16 or surgical expenses and conducts utilization review
+17 as defined in this section, and any entity or
+18 contracting provider that performs utilization review
+19 or utilization management functions on a health
+20 benefit plan’s behalf.
+21 2. This section applies only to covered benefits. Nothing in
+22 this section shall be construed to expand or alter the benefits
+23 available to the insured or policyholder under an insurance policy.
+24
+SENATE FLOOR VERSION - SB1646 SFLR Page 9
+(Bold face denotes Committee Amendments)
+
+1 3. Nothing in this section shall be construed to supersede,
+2 limit, or otherwise affect the provisions of Section 2607.1 of Title
+3 63 of the Oklahoma Statutes.
+4 SECTION 2. This act shall become effective January 1, 2027.
+5 COMMITTEE REPORT BY: COMMITTEE ON BUSINESS AND INSURANCE
+February 26, 2026 - DO PASS AS AMENDED
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB1646 SFLR Page 10
+(Bold face denotes Committee Amendments)
+
+[DELETED: P B G  a L]
+[DELETED: P i c n]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P a s s]
+[DELETED: P a a]
+[DELETED: P]

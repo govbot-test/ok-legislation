@@ -1,0 +1,779 @@
+Title: 5 HOUSE BILL NO. 1889 By: May, Ford, Deck, and Kelley
+Official Title: 5 HOUSE BILL NO. 1889 By: May, Ford, Deck, and Kelley
+Number of Sections: 1
+Source: versions - Floor (House)
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+RBH No. 17083
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 COMMITTEE SUBSTITUTE
+FOR
+of the House
+6
+and
+7
+Frix and Weaver of the
+8 Senate
+9
+10
+11 COMMITTEE SUBSTITUTE
+12 An Act relating to public retirement systems;
+amending 62 O.S. 2021, Section 3103, as last amended
+13 by Section 2, Chapter 361, O.S.L. 2024 (62 O.S. Supp.
+2025, Section 3103), which relates to the Oklahoma
+14 Pension Legislation Actuarial Analysis Act; modifying
+terms; defining terms; directing the Oklahoma
+15 Firefighters Pension and Retirement Board to
+implement a benefit adjustment; directing the
+16 Oklahoma Police Pension and Retirement Board to
+implement a benefit adjustment; providing for
+17 codification; providing effective dates; providing
+for contingent effective dates based on outcome of
+18 approval of the emergency clause; and declaring an
+emergency.
+19
+20
+21
+22 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23
+24
+HB1889 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 SECTION 1. AMENDATORY 62 O.S. 2021, Section 3103, as
+2 last amended by Section 2, Chapter 361, O.S.L. 2024 (62 O.S. Supp.
+3 2025, Section 3103), is amended to read as follows:
+4 Section 3103. As used in the Oklahoma Pension Legislation
+5 Actuarial Analysis Act:
+6 1. “Amendment” means any amendment, including a substitute
+7 bill, made to a retirement bill by any committee of the House of
+8 Representatives or Senate, any conference committee of the House or
+9 Senate or by the House or Senate;
+10 2. “RB number” means that number preceded by the letters “RB”
+11 assigned to a retirement bill by the respective staffs of the
+12 Oklahoma State Senate and the Oklahoma House of Representatives when
+13 the respective staff office prepares a retirement bill for a member
+14 of the Legislature;
+15 3. “Legislative Actuary” means the firm or entity that enters
+16 into a contract with the Legislative Service Bureau pursuant to
+17 Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+18 actuarial services and other duties provided for in the Oklahoma
+19 Pension Legislation Actuarial Analysis Act;
+20 4. “Nonfiscal amendment” means an amendment to a retirement
+21 bill having a fiscal impact, which amendment does not change any
+22 factor of an actuarial investigation specified in subsection A of
+23 Section 3109 of this title;
+24 5. “Nonfiscal retirement bill” means a retirement bill:
+HB1889 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 a. which does not affect the cost or funding factors of a
+2 retirement system,
+3 b. which affects such factors only in a manner which does
+4 not:
+5 (1) grant a benefit increase under the retirement
+6 system affected by the bill,
+7 (2) create an actuarial accrued liability for or
+8 increase the actuarial accrued liability of the
+9 retirement system affected by the bill, or
+10 (3) increase the normal cost of the retirement system
+11 affected by the bill,
+12 c. which authorizes the purchase by an active member of
+13 the retirement system, at the actuarial cost for the
+14 purchase as computed pursuant to the statute in effect
+15 on the effective date of the measure allowing such
+16 purchase, of years of service for purposes of reaching
+17 a normal retirement date in the applicable retirement
+18 system, but which cannot be used in order to compute
+19 the number of years of service for purposes of
+20 computing the retirement benefit for the member,
+21 d. which provides for the computation of a service-
+22 connected disability retirement benefit for members of
+23 the Oklahoma Law Enforcement Retirement System
+24 pursuant to Section 2-305 of Title 47 of the Oklahoma
+HB1889 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 Statutes if the members were unable to complete twenty
+2 (20) years of service as a result of the disability,
+3 e. which requires membership in the defined benefit plan
+4 authorized by Section 901 et seq. of Title 74 of the
+5 Oklahoma Statutes for persons whose first elected or
+6 appointed service occurs on or after November 1, 2018,
+7 if such persons had any prior service in the Oklahoma
+8 Public Employees Retirement System prior to November
+9 1, 2015,
+10 f. which provides for a one-time increase in retirement
+11 benefits if the increase in retirement benefits is not
+12 a permanent increase in the gross annual retirement
+13 benefit payable to a member or beneficiary, occurs
+14 only once pursuant to a single statutory authorization
+15 and does not exceed:
+16 (1) the lesser of two percent (2%) of the gross
+17 annual retirement benefit of the member or One
+18 Thousand Dollars ($1,000.00) and requires that
+19 the benefit may only be provided if the funded
+20 ratio of the affected retirement system would not
+21 be less than sixty percent (60%) but not greater
+22 than eighty percent (80%) after the benefit
+23 increase is paid,
+24
+HB1889 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 (2) the lesser of two percent (2%) of the gross
+2 annual retirement benefit of the member or One
+3 Thousand Two Hundred Dollars ($1,200.00) and
+4 requires that the benefit may only be provided if
+5 the funded ratio of the affected retirement
+6 system would be greater than eighty percent (80%)
+7 but not greater than one hundred percent (100%)
+8 after the benefit increase is paid,
+9 (3) the lesser of two percent (2%) of the gross
+10 annual retirement benefit of the member or One
+11 Thousand Four Hundred Dollars ($1,400.00) and
+12 requires that the benefit may only be provided if
+13 the funded ratio of the affected retirement
+14 system would be greater than one hundred percent
+15 (100%) after the benefit increase is paid, or
+16 (4) the greater of two percent (2%) of the gross
+17 annual retirement benefit of the volunteer
+18 firefighter or One Hundred Dollars ($100.00) for
+19 persons who retired from the Oklahoma
+20 Firefighters Pension and Retirement System as
+21 volunteer firefighters and who did not retire
+22 from the Oklahoma Firefighters Pension and
+23 Retirement System as a paid firefighter.
+24
+HB1889 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 As used in this subparagraph, “funded ratio” means the
+2 figure derived by dividing the actuarial value of
+3 assets of the applicable retirement system by the
+4 actuarial accrued liability of the applicable
+5 retirement system,
+6 g. which modifies the disability pension standard for
+7 police officers who are members of the Oklahoma Police
+8 Pension and Retirement System as provided by Section
+9 50-115 of Title 11 of the Oklahoma Statutes,
+10 h. which provides a cost-of-living benefit increase
+11 pursuant to the provisions of:
+12 (1) Section 49-143.7 of Title 11 of the Oklahoma
+13 Statutes,
+14 (2) Section 50-136.9 of Title 11 of the Oklahoma
+15 Statutes,
+16 (3) Section 1104K of Title 20 of the Oklahoma
+17 Statutes,
+18 (4) Section 2-305.12 of Title 47 of the Oklahoma
+19 Statutes,
+20 (5) Section 17-116.22 of Title 70 of the Oklahoma
+21 Statutes,
+22 (6) Section 930.11 of Title 74 of the Oklahoma
+23 Statutes,
+24
+HB1889 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 i. which modifies the computation of the line-of-duty
+2 disability benefit pursuant to the provisions of this
+3 section and Sections 50-101 and 50-115 of Title 11 of
+4 the Oklahoma Statutes, or
+5 j. which authorizes membership in the Oklahoma Law
+6 Enforcement Retirement System for active commissioned
+7 or CLEET-certified agents of the Office of the
+8 Attorney General or the Military Department of the
+9 State of Oklahoma pursuant to Sections 3 2-309.9 and 4
+10 2-309.10 of this act Title 47 of the Oklahoma
+11 statutes, or
+12 k. which authorizes the Oklahoma Firefighters Pension and
+13 Retirement Board and the Oklahoma Police Pension and
+14 Retirement Board to implement a benefit adjustment
+15 pursuant to Sections 2 and 3 of this act.
+16 A nonfiscal retirement bill shall include any retirement bill that
+17 has as its sole purpose the appropriation or distribution or
+18 redistribution of monies in some manner to a retirement system for
+19 purposes of reducing the unfunded liability of such system or the
+20 earmarking of a portion of the revenue from a tax to a retirement
+21 system or increasing the percentage of the revenue earmarked from a
+22 tax to a retirement system;
+23 6. “Reduction-in-cost amendment” means an amendment to a
+24 retirement bill having a fiscal impact which reduces the cost of the
+HB1889 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 bill as such cost is determined by the actuarial investigation for
+2 the bill prepared pursuant to Section 3109 of this title;
+3 7. “Retirement bill” means any bill or joint resolution
+4 introduced or any bill or joint resolution amended by a member of
+5 the Legislature which creates or amends any law directly affecting a
+6 retirement system. A retirement bill shall not mean a bill or
+7 resolution that impacts the revenue of any state tax in which a
+8 portion of the revenue generated from such tax is earmarked for the
+9 benefit of a retirement system;
+10 8. “Retirement bill having a fiscal impact” means any
+11 retirement bill creating or establishing a retirement system and any
+12 other retirement bill other than a nonfiscal retirement bill; and
+13 9. “Retirement system” means the Teachers’ Retirement System of
+14 Oklahoma, the Oklahoma Public Employees Retirement System, the
+15 Uniform Retirement System for Justices and Judges, the Oklahoma
+16 Firefighters Pension and Retirement System, the Oklahoma Police
+17 Pension and Retirement System, the Oklahoma Law Enforcement
+18 Retirement System, or a retirement system established after January
+19 1, 2006.
+20 SECTION 2. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 49-143.8 of Title 11, unless
+22 there is created a duplication in numbering, reads as follows:
+23 A. For purposes of this section the following definitions shall
+24 apply:
+HB1889 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 1. "Initial COLA Benefit" means the accrued retirement benefit
+2 which will be used as the base benefit for determining the Target
+3 COLA Benefit. The Initial COLA Benefit equals the benefit in
+4 payment status as of the Initial COLA Benefit Date. Furthermore,
+5 this benefit will reflect adjustment for military service credits,
+6 if any, granted after the Initial COLA Benefit Date;
+7 2. "Initial COLA Benefit Date" means the latter of the member's
+8 date of benefit commencement or May 27, 1983. This date is used in
+9 the definition of Initial COLA Benefit and Target COLA Benefit;
+10 3. "CPI-U" means the Consumer Price Index for all urban
+11 consumers for all goods and services, as published by the Bureau of
+12 Labor Statistics, U.S. Department of Labor. This is used as a
+13 measure of price inflation for the development of the Target COLA
+14 Benefit defined below; and
+15 4. "Target COLA Benefit" is the Initial COLA Benefit adjusted
+16 to reflect price inflation as measured by CPI-U. The Target COLA
+17 Benefit is calculated for each eligible member to equal the member's
+18 Initial COLA Benefit multiplied by a ratio of (A) divided by (B) as
+19 follows:
+20 (A) is the CPI-U as of July 1, 2026.
+21 (B) is the CPI-U as of July 1 of the calendar year of the
+22 Initial COLA Benefit Date; and
+23 5. “Tweener” means a member, or his or her beneficiary, who was
+24 not retired and did not have twenty (20) years of credited service
+HB1889 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 as o f May 26, 1983, and who retired before November 1, 1989.
+2 Tweeners are not eligible for an increase in benefits pursuant to
+3 repealed Section 49-136 of this title and were not eligible to
+4 participate in the Oklahoma Firefighters Deferred Option Plan
+5 pursuant to Section 49-106.1 of this title.
+6 B. The Board shall, effective July 1, 2026, implement a benefit
+7 adjustment, to increase, if necessary, the retirement benefit for a
+8 Tweener receiving benefits from the System as of June 30, 2026.
+9 This benefit adjustment is intended to restore one hundred percent
+10 (100%) of the loss of the Initial COLA Benefit, if any, due to price
+11 inflation, as measured by CPI-U. The benefit adjustment shall be
+12 one hundred percent (100%) of the amount by which the Target COLA
+13 Benefit is in excess, if any, of the June 30, 2026, retirement
+14 benefit.
+15 SECTION 3. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 50-136.10 of Title 11, unless
+17 there is created a duplication in numbering, reads as follows:
+18 A. For purposes of this section the following definitions shall
+19 apply:
+20 1. "Initial COLA Benefit" means the accrued retirement benefit
+21 which will be used as the base benefit for determining the Target
+22 COLA Benefit. The Initial COLA Benefit equals the benefit in
+23 payment status as of the Initial COLA Benefit Date. Furthermore,
+24
+HB1889 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 this benefit will reflect adjustment for military service credits,
+2 if any, granted after the Initial COLA Benefit Date;
+3 2. "Initial COLA Benefit Date" means the latter of the member's
+4 date of benefit commencement or May 26, 1983. This date is used in
+5 the definition of Initial COLA Benefit and Target COLA Benefit;
+6 3. "CPI-U" means the Consumer Price Index for all urban
+7 consumers for all goods and services, as published by the Bureau of
+8 Labor Statistics, U.S. Department of Labor. This is used as a
+9 measure of price inflation for the development of the Target COLA
+10 Benefit defined below; and
+11 4. "Target COLA Benefit" is the Initial COLA Benefit adjusted
+12 to reflect price inflation as measured by CPI-U. The Target COLA
+13 Benefit is calculated for each eligible member to equal the member's
+14 Initial COLA Benefit multiplied by a ratio of (A) divided by (B) as
+15 follows:
+16 (A) is the CPI-U as of July 1, 2026.
+17 (B) is the CPI-U as of July 1 of the calendar year of the
+18 Initial COLA Benefit Date; and
+19 5. “Tweener” means a member, or their beneficiary, who was not
+20 retired and did not have twenty (20) years of credited service as of
+21 May 25, 1983, and who retired before June 30, 1990. Tweeners are
+22 not eligible for an increase in benefits pursuant to repealed
+23 Section 50-120 of this title and were not eligible to participate in
+24
+HB1889 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 the Oklahoma Police Deferred Option Plan pursuant to Section 50-
+2 111.3 of this title.
+3 B. The Board shall, effective July 1, 2026, implement a benefit
+4 adjustment, to increase, if necessary, the retirement benefit for a
+5 Tweener receiving benefits from the System as of June 30, 2026.
+6 This benefit adjustment is intended to restore one hundred percent
+7 (100%) of the loss of the Initial COLA Benefit, if any, due to price
+8 inflation, as measured by CPI-U. The benefit adjustment shall be
+9 one hundred percent (100%) of the amount by which the Target COLA
+10 Benefit is in excess, if any, of the June 30, 2026, retirement
+11 benefit.
+12 SECTION 4. If the Emergency Clause is not approved pursuant to
+13 the requirements of the Oklahoma Constitution as part of this
+14 measure, the effective date of Section 1 of this act shall be
+15 October 1, 2026.
+16 SECTION 5. If the Emergency Clause is not approved pursuant to
+17 the requirements of the Oklahoma Constitution as part of this
+18 measure, the effective date of Sections 2 and 3 of this act shall be
+19 November 1, 2026.
+20 SECTION 6. Except as otherwise provided by Section 4 of this
+21 act, Section 1 of this act shall become effective immediately upon
+22 signature by the Governor or as otherwise provided by Section 58 of
+23 Article V of the Oklahoma Constitution.
+24
+HB1889 HFLR Page 12
+BOLD FACE denotes Committee Amendments.
+RBH No. 17083
+1 SECTION 7. Except as otherwise provided by Section 5 of this
+2 act, Sections 2 and 3 of this act shall become effective July 1,
+3 2026.
+4 SECTION 8. It being immediately necessary for the preservation
+5 of the public peace, health or safety, an emergency is hereby
+6 declared to exist, by reason whereof this act shall take effect and
+7 be in full force from and after its passage and approval.
+8
+9 COMMITTEE REPORT BY: COMMITTEE ON GOVERNMENT OVERSIGHT, dated
+03/09/2026 - DO PASS, As Amended and Coauthored.
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+HB1889 HFLR Page 13
+BOLD FACE denotes Committee Amendments.
+[DELETED:  P B    a    xW]
+[DELETED:  P]
+[DELETED:  P w w g c i w w]
+[DELETED:  P w w t]
+[DELETED:  P t t t]
+[DELETED:  P w w S S S S S S]
+[DELETED:  P w w w]
+[DELETED:  P]
+[DELETED:  P i i]
+[DELETED:  P]
+[DELETED:  P i i]
+[DELETED:  P]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+RBH No. 17083
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 COMMITTEE SUBSTITUTE
+FOR
+5 HOUSE BILL NO. 1889 By: May, Ford, Deck, and Kelley
+of the House
+6
+and
+7
+Frix and Weaver of the
+8 Senate
+9
+10
+11 COMMITTEE SUBSTITUTE
+12 An Act relating to public retirement systems;
+amending 62 O.S. 2021, Section 3103, as last amended
+13 by Section 2, Chapter 361, O.S.L. 2024 (62 O.S. Supp.
+2025, Section 3103), which relates to the Oklahoma
+14 Pension Legislation Actuarial Analysis Act; modifying
+terms; defining terms; directing the Oklahoma
+15 Firefighters Pension and Retirement Board to
+implement a benefit adjustment; directing the
+16 Oklahoma Police Pension and Retirement Board to
+implement a benefit adjustment; providing for
+17 codification; providing effective dates; providing
+for contingent effective dates based on outcome of
+18 approval of the emergency clause; and declaring an
+emergency.
+19
+20
+21
+22 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23
+24
+HB1889 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 SECTION 1. AMENDATORY 62 O.S. 2021, Section 3103, as
+2 last amended by Section 2, Chapter 361, O.S.L. 2024 (62 O.S. Supp.
+3 2025, Section 3103), is amended to read as follows:
+4 Section 3103. As used in the Oklahoma Pension Legislation
+5 Actuarial Analysis Act:
+6 1. “Amendment” means any amendment, including a substitute
+7 bill, made to a retirement bill by any committee of the House of
+8 Representatives or Senate, any conference committee of the House or
+9 Senate or by the House or Senate;
+10 2. “RB number” means that number preceded by the letters “RB”
+11 assigned to a retirement bill by the respective staffs of the
+12 Oklahoma State Senate and the Oklahoma House of Representatives when
+13 the respective staff office prepares a retirement bill for a member
+14 of the Legislature;
+15 3. “Legislative Actuary” means the firm or entity that enters
+16 into a contract with the Legislative Service Bureau pursuant to
+17 Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+18 actuarial services and other duties provided for in the Oklahoma
+19 Pension Legislation Actuarial Analysis Act;
+20 4. “Nonfiscal amendment” means an amendment to a retirement
+21 bill having a fiscal impact, which amendment does not change any
+22 factor of an actuarial investigation specified in subsection A of
+23 Section 3109 of this title;
+24 5. “Nonfiscal retirement bill” means a retirement bill:
+HB1889 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 a. which does not affect the cost or funding factors of a
+2 retirement system,
+3 b. which affects such factors only in a manner which does
+4 not:
+5 (1) grant a benefit increase under the retirement
+6 system affected by the bill,
+7 (2) create an actuarial accrued liability for or
+8 increase the actuarial accrued liability of the
+9 retirement system affected by the bill, or
+10 (3) increase the normal cost of the retirement system
+11 affected by the bill,
+12 c. which authorizes the purchase by an active member of
+13 the retirement system, at the actuarial cost for the
+14 purchase as computed pursuant to the statute in effect
+15 on the effective date of the measure allowing such
+16 purchase, of years of service for purposes of reaching
+17 a normal retirement date in the applicable retirement
+18 system, but which cannot be used in order to compute
+19 the number of years of service for purposes of
+20 computing the retirement benefit for the member,
+21 d. which provides for the computation of a service-
+22 connected disability retirement benefit for members of
+23 the Oklahoma Law Enforcement Retirement System
+24 pursuant to Section 2-305 of Title 47 of the Oklahoma
+HB1889 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 Statutes if the members were unable to complete twenty
+2 (20) years of service as a result of the disability,
+3 e. which requires membership in the defined benefit plan
+4 authorized by Section 901 et seq. of Title 74 of the
+5 Oklahoma Statutes for persons whose first elected or
+6 appointed service occurs on or after November 1, 2018,
+7 if such persons had any prior service in the Oklahoma
+8 Public Employees Retirement System prior to November
+9 1, 2015,
+10 f. which provides for a one-time increase in retirement
+11 benefits if the increase in retirement benefits is not
+12 a permanent increase in the gross annual retirement
+13 benefit payable to a member or beneficiary, occurs
+14 only once pursuant to a single statutory authorization
+15 and does not exceed:
+16 (1) the lesser of two percent (2%) of the gross
+17 annual retirement benefit of the member or One
+18 Thousand Dollars ($1,000.00) and requires that
+19 the benefit may only be provided if the funded
+20 ratio of the affected retirement system would not
+21 be less than sixty percent (60%) but not greater
+22 than eighty percent (80%) after the benefit
+23 increase is paid,
+24
+HB1889 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 (2) the lesser of two percent (2%) of the gross
+2 annual retirement benefit of the member or One
+3 Thousand Two Hundred Dollars ($1,200.00) and
+4 requires that the benefit may only be provided if
+5 the funded ratio of the affected retirement
+6 system would be greater than eighty percent (80%)
+7 but not greater than one hundred percent (100%)
+8 after the benefit increase is paid,
+9 (3) the lesser of two percent (2%) of the gross
+10 annual retirement benefit of the member or One
+11 Thousand Four Hundred Dollars ($1,400.00) and
+12 requires that the benefit may only be provided if
+13 the funded ratio of the affected retirement
+14 system would be greater than one hundred percent
+15 (100%) after the benefit increase is paid, or
+16 (4) the greater of two percent (2%) of the gross
+17 annual retirement benefit of the volunteer
+18 firefighter or One Hundred Dollars ($100.00) for
+19 persons who retired from the Oklahoma
+20 Firefighters Pension and Retirement System as
+21 volunteer firefighters and who did not retire
+22 from the Oklahoma Firefighters Pension and
+23 Retirement System as a paid firefighter.
+24
+HB1889 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 As used in this subparagraph, “funded ratio” means the
+2 figure derived by dividing the actuarial value of
+3 assets of the applicable retirement system by the
+4 actuarial accrued liability of the applicable
+5 retirement system,
+6 g. which modifies the disability pension standard for
+7 police officers who are members of the Oklahoma Police
+8 Pension and Retirement System as provided by Section
+9 50-115 of Title 11 of the Oklahoma Statutes,
+10 h. which provides a cost-of-living benefit increase
+11 pursuant to the provisions of:
+12 (1) Section 49-143.7 of Title 11 of the Oklahoma
+13 Statutes,
+14 (2) Section 50-136.9 of Title 11 of the Oklahoma
+15 Statutes,
+16 (3) Section 1104K of Title 20 of the Oklahoma
+17 Statutes,
+18 (4) Section 2-305.12 of Title 47 of the Oklahoma
+19 Statutes,
+20 (5) Section 17-116.22 of Title 70 of the Oklahoma
+21 Statutes,
+22 (6) Section 930.11 of Title 74 of the Oklahoma
+23 Statutes,
+24
+HB1889 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 i. which modifies the computation of the line-of-duty
+2 disability benefit pursuant to the provisions of this
+3 section and Sections 50-101 and 50-115 of Title 11 of
+4 the Oklahoma Statutes, or
+5 j. which authorizes membership in the Oklahoma Law
+6 Enforcement Retirement System for active commissioned
+7 or CLEET-certified agents of the Office of the
+8 Attorney General or the Military Department of the
+9 State of Oklahoma pursuant to Sections 3 2-309.9 and 4
+10 2-309.10 of this act Title 47 of the Oklahoma
+11 statutes, or
+12 k. which authorizes the Oklahoma Firefighters Pension and
+13 Retirement Board and the Oklahoma Police Pension and
+14 Retirement Board to implement a benefit adjustment
+15 pursuant to Sections 2 and 3 of this act.
+16 A nonfiscal retirement bill shall include any retirement bill that
+17 has as its sole purpose the appropriation or distribution or
+18 redistribution of monies in some manner to a retirement system for
+19 purposes of reducing the unfunded liability of such system or the
+20 earmarking of a portion of the revenue from a tax to a retirement
+21 system or increasing the percentage of the revenue earmarked from a
+22 tax to a retirement system;
+23 6. “Reduction-in-cost amendment” means an amendment to a
+24 retirement bill having a fiscal impact which reduces the cost of the
+HB1889 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 bill as such cost is determined by the actuarial investigation for
+2 the bill prepared pursuant to Section 3109 of this title;
+3 7. “Retirement bill” means any bill or joint resolution
+4 introduced or any bill or joint resolution amended by a member of
+5 the Legislature which creates or amends any law directly affecting a
+6 retirement system. A retirement bill shall not mean a bill or
+7 resolution that impacts the revenue of any state tax in which a
+8 portion of the revenue generated from such tax is earmarked for the
+9 benefit of a retirement system;
+10 8. “Retirement bill having a fiscal impact” means any
+11 retirement bill creating or establishing a retirement system and any
+12 other retirement bill other than a nonfiscal retirement bill; and
+13 9. “Retirement system” means the Teachers’ Retirement System of
+14 Oklahoma, the Oklahoma Public Employees Retirement System, the
+15 Uniform Retirement System for Justices and Judges, the Oklahoma
+16 Firefighters Pension and Retirement System, the Oklahoma Police
+17 Pension and Retirement System, the Oklahoma Law Enforcement
+18 Retirement System, or a retirement system established after January
+19 1, 2006.
+20 SECTION 2. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 49-143.8 of Title 11, unless
+22 there is created a duplication in numbering, reads as follows:
+23 A. For purposes of this section the following definitions shall
+24 apply:
+HB1889 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 1. "Initial COLA Benefit" means the accrued retirement benefit
+2 which will be used as the base benefit for determining the Target
+3 COLA Benefit. The Initial COLA Benefit equals the benefit in
+4 payment status as of the Initial COLA Benefit Date. Furthermore,
+5 this benefit will reflect adjustment for military service credits,
+6 if any, granted after the Initial COLA Benefit Date;
+7 2. "Initial COLA Benefit Date" means the latter of the member's
+8 date of benefit commencement or May 27, 1983. This date is used in
+9 the definition of Initial COLA Benefit and Target COLA Benefit;
+10 3. "CPI-U" means the Consumer Price Index for all urban
+11 consumers for all goods and services, as published by the Bureau of
+12 Labor Statistics, U.S. Department of Labor. This is used as a
+13 measure of price inflation for the development of the Target COLA
+14 Benefit defined below; and
+15 4. "Target COLA Benefit" is the Initial COLA Benefit adjusted
+16 to reflect price inflation as measured by CPI-U. The Target COLA
+17 Benefit is calculated for each eligible member to equal the member's
+18 Initial COLA Benefit multiplied by a ratio of (A) divided by (B) as
+19 follows:
+20 (A) is the CPI-U as of July 1, 2026.
+21 (B) is the CPI-U as of July 1 of the calendar year of the
+22 Initial COLA Benefit Date; and
+23 5. “Tweener” means a member, or his or her beneficiary, who was
+24 not retired and did not have twenty (20) years of credited service
+HB1889 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 as o f May 26, 1983, and who retired before November 1, 1989.
+2 Tweeners are not eligible for an increase in benefits pursuant to
+3 repealed Section 49-136 of this title and were not eligible to
+4 participate in the Oklahoma Firefighters Deferred Option Plan
+5 pursuant to Section 49-106.1 of this title.
+6 B. The Board shall, effective July 1, 2026, implement a benefit
+7 adjustment, to increase, if necessary, the retirement benefit for a
+8 Tweener receiving benefits from the System as of June 30, 2026.
+9 This benefit adjustment is intended to restore one hundred percent
+10 (100%) of the loss of the Initial COLA Benefit, if any, due to price
+11 inflation, as measured by CPI-U. The benefit adjustment shall be
+12 one hundred percent (100%) of the amount by which the Target COLA
+13 Benefit is in excess, if any, of the June 30, 2026, retirement
+14 benefit.
+15 SECTION 3. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 50-136.10 of Title 11, unless
+17 there is created a duplication in numbering, reads as follows:
+18 A. For purposes of this section the following definitions shall
+19 apply:
+20 1. "Initial COLA Benefit" means the accrued retirement benefit
+21 which will be used as the base benefit for determining the Target
+22 COLA Benefit. The Initial COLA Benefit equals the benefit in
+23 payment status as of the Initial COLA Benefit Date. Furthermore,
+24
+HB1889 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 this benefit will reflect adjustment for military service credits,
+2 if any, granted after the Initial COLA Benefit Date;
+3 2. "Initial COLA Benefit Date" means the latter of the member's
+4 date of benefit commencement or May 26, 1983. This date is used in
+5 the definition of Initial COLA Benefit and Target COLA Benefit;
+6 3. "CPI-U" means the Consumer Price Index for all urban
+7 consumers for all goods and services, as published by the Bureau of
+8 Labor Statistics, U.S. Department of Labor. This is used as a
+9 measure of price inflation for the development of the Target COLA
+10 Benefit defined below; and
+11 4. "Target COLA Benefit" is the Initial COLA Benefit adjusted
+12 to reflect price inflation as measured by CPI-U. The Target COLA
+13 Benefit is calculated for each eligible member to equal the member's
+14 Initial COLA Benefit multiplied by a ratio of (A) divided by (B) as
+15 follows:
+16 (A) is the CPI-U as of July 1, 2026.
+17 (B) is the CPI-U as of July 1 of the calendar year of the
+18 Initial COLA Benefit Date; and
+19 5. “Tweener” means a member, or their beneficiary, who was not
+20 retired and did not have twenty (20) years of credited service as of
+21 May 25, 1983, and who retired before June 30, 1990. Tweeners are
+22 not eligible for an increase in benefits pursuant to repealed
+23 Section 50-120 of this title and were not eligible to participate in
+24
+HB1889 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 the Oklahoma Police Deferred Option Plan pursuant to Section 50-
+2 111.3 of this title.
+3 B. The Board shall, effective July 1, 2026, implement a benefit
+4 adjustment, to increase, if necessary, the retirement benefit for a
+5 Tweener receiving benefits from the System as of June 30, 2026.
+6 This benefit adjustment is intended to restore one hundred percent
+7 (100%) of the loss of the Initial COLA Benefit, if any, due to price
+8 inflation, as measured by CPI-U. The benefit adjustment shall be
+9 one hundred percent (100%) of the amount by which the Target COLA
+10 Benefit is in excess, if any, of the June 30, 2026, retirement
+11 benefit.
+12 SECTION 4. If the Emergency Clause is not approved pursuant to
+13 the requirements of the Oklahoma Constitution as part of this
+14 measure, the effective date of Section 1 of this act shall be
+15 October 1, 2026.
+16 SECTION 5. If the Emergency Clause is not approved pursuant to
+17 the requirements of the Oklahoma Constitution as part of this
+18 measure, the effective date of Sections 2 and 3 of this act shall be
+19 November 1, 2026.
+20 SECTION 6. Except as otherwise provided by Section 4 of this
+21 act, Section 1 of this act shall become effective immediately upon
+22 signature by the Governor or as otherwise provided by Section 58 of
+23 Article V of the Oklahoma Constitution.
+24
+HB1889 HFLR Page 12
+BOLD FACE denotes Committee Amendments.
+
+RBH No. 17083
+1 SECTION 7. Except as otherwise provided by Section 5 of this
+2 act, Sections 2 and 3 of this act shall become effective July 1,
+3 2026.
+4 SECTION 8. It being immediately necessary for the preservation
+5 of the public peace, health or safety, an emergency is hereby
+6 declared to exist, by reason whereof this act shall take effect and
+7 be in full force from and after its passage and approval.
+8
+9 COMMITTEE REPORT BY: COMMITTEE ON GOVERNMENT OVERSIGHT, dated
+03/09/2026 - DO PASS, As Amended and Coauthored.
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+HB1889 HFLR Page 13
+BOLD FACE denotes Committee Amendments.
+
+[DELETED:  P B    a    xW]
+[DELETED:  P]
+[DELETED:  P w w g c i w w]
+[DELETED:  P w w t]
+[DELETED:  P t t t]
+[DELETED:  P w w S S S S S S]
+[DELETED:  P w w w]
+[DELETED:  P]
+[DELETED:  P i i]
+[DELETED:  P]
+[DELETED:  P i i]
+[DELETED:  P]
+[DELETED:  P]

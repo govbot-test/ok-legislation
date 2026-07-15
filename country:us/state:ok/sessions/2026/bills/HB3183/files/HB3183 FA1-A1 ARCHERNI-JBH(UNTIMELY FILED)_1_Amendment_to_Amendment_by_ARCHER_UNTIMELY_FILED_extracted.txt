@@ -1,0 +1,73 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 1
+Source: versions - 1  Amendment to Amendment by ARCHER (UNTIMELY FILED)
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB3183 FA1-A1 ArcherNi-JBH(Untimely Filed)
+3/12/2026 11:34:51 am
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend amendment number 1 to HB3183
+Page 3 Section 2 Lines 3-6
+Of the Engrossed Bill
+by deleting the language beginning with the first "quotation mark" on line
+3 through the word "criteria" on line 6 and by inserting in lieu thereof
+the following language "High-performance conductor" means a conductor used
+in an electric transmission system, including advanced steel core
+conductors, carbon-fiber conductors, composite core conductors, and
+superconductors, and where"
+On page 3, Section 2, line 9 by inserting the word "or" after the ","
+comma;
+On page 3, Section 2, line 11 by deleting ", or" and inserting in lieu
+thereof a ";" semicolon;
+On page 3, Section 2, lines 12-13 by deleting subparagraph c in its
+entirety.
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Nick Archer
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+[DELETED: 3 AS C           O S L           ]
+
+
+================================================================================
+
+Raw Text:
+HB3183 FA1-A1 ArcherNi-JBH(Untimely Filed)
+3/12/2026 11:34:51 am
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend amendment number 1 to HB3183
+Of the printed Bill
+Page 3 Section 2 Lines 3-6
+Of the Engrossed Bill
+by deleting the language beginning with the first "quotation mark" on line
+3 through the word "criteria" on line 6 and by inserting in lieu thereof
+the following language "High-performance conductor" means a conductor used
+in an electric transmission system, including advanced steel core
+conductors, carbon-fiber conductors, composite core conductors, and
+superconductors, and where"
+On page 3, Section 2, line 9 by inserting the word "or" after the ","
+comma;
+On page 3, Section 2, line 11 by deleting ", or" and inserting in lieu
+thereof a ";" semicolon;
+On page 3, Section 2, lines 12-13 by deleting subparagraph c in its
+entirety.
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Nick Archer
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+[DELETED: 3 AS C           O S L           ]
