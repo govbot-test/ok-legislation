@@ -1,0 +1,1953 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 1
+Source: versions - Proposed Committee Substitute (full committee) 1
+Media Type: application/pdf
+Strikethrough Detection: 35 sections found
+
+================================================================================
+
+Section 1:
+HB3464 FULLPCS1 Brad Boles-JBH
+3/3/2026 10:04:51 am
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB3464
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Brad Boles
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED OVERSIGHT
+COMMITTEE SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 3464 By: Boles of the House
+5
+and
+6
+Paxton of the Senate
+7
+8
+9
+10
+11 PROPOSED OVERSIGHT COMMITTEE SUBSTITUTE
+12 An Act relating to energy; creating the Oklahoma
+Energy Storage Resource Safety Act; stating
+13 legislative intent; defining terms; requiring energy
+storage resources comply with certain safety codes
+14 and standards; providing for resolution if conflict
+exists; authorizing requirement for certain written
+15 report; listing required contents of written report;
+requiring certain cooperation; requiring certain
+16 information be provided; requiring the curing of
+noncompliance before commencement of operations;
+17 requiring certain energy storage resource to have
+emergency operations plan; listing requirements of
+18 emergency operations plan; requiring submission of
+emergency operations plan; requiring the offering of
+19 certain training to local first responders; listing
+requirements of training; prohibiting certain actions
+20 by political subdivisions; requiring certain
+agreements contain decommissioning provisions;
+21 requiring landowner make certain timely requests for
+grantee compliance; stating certain applicability;
+22 requiring certain financial assurance be delivered;
+stating acceptable forms of financial assurance;
+23 requiring certain amount of financial assurance;
+providing agreement contain certain provisions;
+24 detailing agreement provision requirements; assigning
+Req. No. 16847 Page 1
+1 certain costs to grantee; prohibiting certain
+cancellation of financial assurance; making certain
+2 agreement provisions void; providing for certain
+injunctive relief; establishing fees for review and
+3 permitting certain facilities by the Office of the
+Oklahoma State Fire Marshal; limiting the amount of
+4 collected fees; providing for distribution of
+collected fees; requiring completion of certain
+5 report as soon as practicable; requiring the State
+Fire Marshal Commission to adopt certain rules;
+6 creating the Oklahoma Solar Energy Development Act;
+stating legislative findings; requiring owners of
+7 solar energy facilities to provide certain statement
+to landowners; listing minimum requirements of
+8 statements; authorizing certain landowners the right
+to inspect records to verify payments; requiring
+9 certain records be made available; detailing the
+procedure for providing records; requiring the annual
+10 reporting of generation, nameplate capacity, and
+facility location to the Oklahoma Corporation
+11 Commission; requiring the keeping of liability
+insurance policy prior to commencement of
+12 construction; requiring landowner be added as
+additional insured to policy; requiring certain
+13 evidence of policy be submitted to landowner;
+requiring certain notice; requiring submission of a
+14 notification of intent to build; requiring
+Corporation Commission prescribe form and submission
+15 requirements; listing certain required information;
+requiring certain notification to board of county
+16 commissioners or municipality; requiring publication
+of certain notice by certain date; requiring copies
+17 of notice be sent to certain specified parties;
+requiring an affidavit in certain situations;
+18 requiring the holding of a public meeting; requiring
+notice of public meeting be published and submitted;
+19 listing requirements of public meeting notice;
+requiring certain notice to surface estate owner;
+20 requiring certain provided information be
+confidential and proprietary; requiring parties take
+21 certain actions; stating confidentiality provisions
+shall not be limited by certain agreements; providing
+22 for certain penalties; listing requirements of notice
+to surface estate; prohibiting commencement of
+23 construction until all notification requirements are
+satisfied; requiring notification to Corporation
+24 Commission that certain requirements have been met;
+Req. No. 16847 Page 2
+1 providing for certain penalty; stating requirements
+shall only apply to certain facilities; requiring
+2 submission of certain site plans to the Office of the
+Oklahoma State Fire Marshal at certain time; listing
+3 requirements to be included in site plan; limiting
+review of the Office of the Oklahoma State Fire
+4 Marshal; requiring review be completed as soon as
+practicable; allowing certain on-site actions to
+5 proceed during review period; authorizing assessment
+of certain fee; limiting the amount of collected fee;
+6 providing for fee distribution; providing for
+application to certain facilities; requiring
+7 compliance with certain act; requiring submission of
+certain evidence of financial assurance; providing
+8 for certain calculations of financial assurance;
+requiring financial assurance be certain percentage
+9 of decommissioning estimate; authorizing Corporation
+Commission to promulgate certain rules; granting
+10 certain exclusive jurisdiction; providing for
+codification; and providing an effective date.
+11
+12
+13
+14 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15 SECTION 1. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 180.14 of Title 17, unless there
+17 is created a duplication in numbering, reads as follows:
+18 Sections 1 through 8 of this act shall be known and may be cited as
+19 the "Oklahoma Energy Storage Resource Safety Act".
+20 SECTION 2. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 180.15 of Title 17, unless there
+22 is created a duplication in numbering, reads as follows:
+23 The Legislature finds that:
+24
+Req. No. 16847 Page 3
+1 1. To protect the citizens of Oklahoma, energy storage
+2 resources shall satisfy safety codes and standards; and
+3 2. This act is intended to help Oklahoma secure the benefits of
+4 energy storage resources to provide electric grid reliability.
+5 SECTION 3. NEW LAW A new section of law to be codified
+6 in the Oklahoma Statutes as Section 180.16 of Title 17, unless there
+7 is created a duplication in numbering, reads as follows:
+8 As used in the Oklahoma Energy Storage Resource Safety Act:
+9 1. "Commencement of operations" means the date on which an
+10 energy storage resource first delivers electricity to the grid in an
+11 amount sufficient for commercial sale or use off-site from the
+12 energy storage resource, but shall not include amounts of electrical
+13 energy used only for the maintenance or testing of the energy
+14 storage resource or related equipment;
+15 2. "Energy storage resource" means a resource capable of
+16 receiving electric energy from the electrical grid, or from a
+17 generation source with which it is associated, and storing such
+18 electric energy for later injection into the electrical grid;
+19 3. "Energy storage resource agreement" means a lease agreement
+20 between a grantee and a landowner that authorizes the grantee to
+21 operate an energy storage resource on the leased property;
+22 4. "Grantee" means a person, other than an electric utility
+23 who:
+24 a. leases property from a landowner, and
+Req. No. 16847 Page 4
+1 b. operates an energy storage resource on the property;
+2 and
+3 5. "Resource owner" means the entity having a majority equity
+4 interest in the energy storage resource, including its respective
+5 successors and assigns.
+6 SECTION 4. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 180.17 of Title 17, unless there
+8 is created a duplication in numbering, reads as follows:
+9 A. An energy storage resource shall comply with the following
+10 minimum safety codes and standards for energy storage resource
+11 equipment or facilities:
+12 1. The International Fire Code (IFC), as adopted and amended by
+13 the Oklahoma Uniform Building Code Commission, in effect at the time
+14 a construction permit is applied for; and
+15 2. Criteria described in the National Fire Protection
+16 Association (NFPA) 855 2026 Standard for the Installation of
+17 Stationary Energy Storage Systems.
+18 Where a conflict exists between the requirements of the IFC, as
+19 adopted and amended by the Oklahoma Uniform Building Code
+20 Commission, and the NFPA 855 2026 edition, the provisions of the
+21 NFPA 855 2026 edition shall take precedence.
+22 B. Before a construction permit is issued for an energy storage
+23 resource, the entity responsible for fire inspection and primary
+24 emergency response may require the resource owner to pay for an
+Req. No. 16847 Page 5
+1 inde pendent, third-party engineer licensed in this state or other
+2 consultant with appropriate expertise, to provide a written report
+3 to the entity responsible for fire inspection and primary emergency
+4 response and the resource owner determining:
+5 1. Whether the energy storage resource, as proposed, complies
+6 with subsection A of this section; and
+7 2. To the extent the energy storage resource does not comply
+8 with subsection A of this section, any appropriate actions to cure
+9 such noncompliance in accordance with the NFPA 855 2026 edition.
+10 C. Any resource owner that receives a lawful request pursuant
+11 to subsection B of this section shall cooperate with the request.
+12 Such cooperation shall include providing the engineer or consultant
+13 with all necessary documents relating to the energy storage
+14 resource's site layout, emergency operations plan, hazard mitigation
+15 analysis, manufacturer specifications, product listings, including,
+16 but not limited to, UL 9540 and UL 9540A reports, compliance with
+17 the NFPA 855 2026 edition and other applicable referenced standards,
+18 electrical drawings, monitoring procedures, and fire protection
+19 system, as applicable to the proposed energy storage resource. If
+20 the engineer or consultant identifies appropriate actions to cure
+21 noncompliance under paragraph 2 of subsection B of this section, the
+22 resource owner shall implement said appropriate actions before
+23 commencement of operations.
+24
+Req. No. 16847 Page 6
+1 D. Energy storage resources, other than energy storage systems
+2 installed in one- and two-family dwellings as defined in the NFPA
+3 855 2026 edition, in this state shall have and maintain, at an on-
+4 site location accessible to local first responders, a site-specific
+5 emergency operations plan. In accordance with the NFPA 855 2026
+6 edition, the site-specific emergency operations plan shall identify:
+7 1. Potential risks and hazards specific to the site;
+8 2. Hazard mitigation measures;
+9 3. Procedures for the safe shutdown, de-energizing, or
+10 isolation of equipment and systems under emergency conditions,
+11 including emergency procedures to be followed in case of fire;
+12 4. Procedures for handling equipment damaged in a fire or other
+13 emergency event;
+14 5. Procedures and schedules for conducting drills using the
+15 procedures listed under this subsection and documentation related to
+16 the performance of the drills;
+17 6. Procedures for communication between the operator of the
+18 energy storage resource and first responders, including procedures
+19 that facilitate communication between first responders and emergency
+20 contacts for the resource operator; and
+21 7. Emergency operations protocols to ensure safety during
+22 critical events, including protocols that provide for the safety of
+23 nearby residents, neighboring properties, and first responders.
+24
+Req. No. 16847 Page 7
+1 E. Before commencement of operations, the resource owner shall
+2 provide the site-specific emergency operations plan to the entity
+3 responsible for fire inspection and primary emergency response.
+4 F. Energy storage resource owners in this state shall offer to
+5 local first responders, at no cost to the responders, education and
+6 training regarding responding to an equipment failure incident at
+7 the energy storage resource site. The training shall include:
+8 1. Training on specific characteristics of the energy storage
+9 resource technology;
+10 2. Training on protecting first responders during incident
+11 response;
+12 3. Training on hazards commonly associated with incident
+13 response;
+14 4. Training on incident response protocols, including an
+15 overview of the site-specific emergency operations plan developed
+16 under subsection D of this section; and
+17 5. An on-site review of the perimeter, major equipment, and
+18 ingress and egress to the energy storage resource site.
+19 G. Unless expressly authorized by law, political subdivisions
+20 in this state shall not adopt, enforce, or maintain any rules,
+21 regulations, codes, or standards that uniquely apply to energy
+22 storage resources other than those set forth in the Oklahoma Energy
+23 Storage Resource Safety Act.
+24
+Req. No. 16847 Page 8
+1 SECTION 5. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 180.18 of Title 17, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. An energy storage resource agreement executed after the
+5 effective date of this act shall provide that the grantee is
+6 responsible for removing the grantee’s components of an energy
+7 storage resource facility from the landowner's property and that the
+8 grantee shall, in accordance with any other applicable laws or
+9 regulations, safely perform the following:
+10 1. Clear, clean, and remove from the property each energy
+11 storage resource and associated transformers and substations;
+12 2. For each foundation of an energy storage resource,
+13 transformer, or substation installed in the ground:
+14 a. clear, clean, and remove the foundation from the
+15 ground to a depth of at least three (3) feet below the
+16 surface grade of the land in which the foundation is
+17 installed, and
+18 b. ensure that each hole or cavity created in the ground
+19 by the removal is filled with soil of the same type or
+20 a similar type as the predominant soil found on the
+21 property;
+22 3. For each buried cable, including power, fiber-optic, and
+23 communications cables, installed in the ground:
+24
+Req. No. 16847 Page 9
+1 a. clear, clean, and remove the cable from the ground to
+2 a depth of at least three (3) feet below the surface
+3 grade of the land in which the cable is installed, and
+4 b. ensure that each hole or cavity created in the ground
+5 by the removal is filled with soil of the same type or
+6 a similar type as the predominant soil found on the
+7 property; and
+8 4. Clear, clean, and remove from the property each overhead
+9 power or communications line installed by the grantee on the
+10 property at the request of the landowner.
+11 B. The agreement shall provide that, at the request of the
+12 landowner, the grantee shall:
+13 1. Clear, clean, and remove each road constructed by the
+14 grantee on the property; and
+15 2. Ensure that each hole or cavity created in the ground by the
+16 removal is filled with soil of the same type or a similar type as
+17 the predominant soil found on the property.
+18 C. The agreement shall provide that, at the request of the
+19 landowner, if reasonable, the grantee shall:
+20 1. Remove from the property all rocks over twelve (12) inches
+21 in diameter excavated during the decommissioning or removal process;
+22 2. Return the property to a tillable state using scarification,
+23 V-rip, or disc methods, as appropriate; and
+24 3. Ensure that:
+Req. No. 16847 Page 10
+1 a. each hole or cavity created in the ground by the
+2 removal is filled with soil of the same type or a
+3 similar type as the predominant soil found on the
+4 property, and
+5 b. the surface is returned as near as reasonably possible
+6 to the same condition as before the grantee dug holes
+7 or cavities, including by reseeding pastureland with
+8 native grasses prescribed by an appropriate
+9 governmental agency, if any. Noninvasive grasses
+10 shall be allowed when reseeding native grasses is not
+11 economically feasible.
+12 D. The landowner shall make a request under subsection B or C
+13 of this section not later than the one hundred eightieth day after
+14 the later of:
+15 1. The date on which the landowner receives from the grantee
+16 via certified mail a copy of a notification of intent to suspend
+17 operations filed with a grid operator indicating an intent to
+18 permanently cease operations; or
+19 2. The date the landowner receives written notice of intent to
+20 decommission the energy storage resource from the grantee.
+21 E. The provisions of this section shall only apply to energy
+22 storage resource agreements executed after the effective date of
+23 this act and shall have no effect on existing agreements.
+24
+Req. No. 16847 Page 11
+1 SECTION 6. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 180.19 of Title 17, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. An energy storage resource agreement executed after
+5 effective date of this act shall provide that the grantee obtain and
+6 deliver to the landowner evidence of financial assurance that
+7 conforms to the requirements of this section to secure the
+8 performance of the grantee's obligation to remove the grantee's
+9 energy storage resource facilities located on the landowner's
+10 property as described by Section 5 of this act. Acceptable forms of
+11 financial assurance include a parent company guaranty with a minimum
+12 investment grade credit rating for the parent company issued by a
+13 major domestic credit rating agency, a letter of credit, a bond, or
+14 another form of financial assurance reasonably acceptable to the
+15 landowner.
+16 B. The amount of the financial assurance shall be at least
+17 equal to the estimated amount by which the cost of removing the
+18 energy storage resource facilities from the landowner's property and
+19 restoring the property to as near as reasonably possible the
+20 condition of the property as of the date the agreement begins
+21 exceeds the salvage value of the facilities, less any portion of the
+22 value of the facilities pledged to secure outstanding debt.
+23 C. The agreement shall provide that:
+24
+Req. No. 16847 Page 12
+1 1. The estimated cost of removing the energy storage resource
+2 facilities from the landowner's property and restoring the property
+3 to as near as reasonably possible the condition of the property as
+4 of the date the agreement begins, and the estimated salvage value of
+5 the energy storage resource facilities, shall be determined by an
+6 independent, third-party professional engineer licensed in this
+7 state;
+8 2. The grantee shall deliver to the landowner an updated
+9 estimate, prepared by an independent, third-party professional
+10 engineer licensed in this state, of the cost of removal and the
+11 salvage value:
+12 a. on or before the tenth anniversary of commencement of
+13 operations of the energy storage resource facility,
+14 and
+15 b. at least once every five (5) years thereafter for the
+16 remainder of the term of the agreement; and
+17 3. The grantee is responsible for ensuring that the amount of
+18 the financial assurance remains sufficient to cover the amount
+19 required by subsection B of this section, consistent with the
+20 estimates required by this subsection.
+21 D. The grantee is responsible for the costs of obtaining
+22 financial assurance described by this section and costs of
+23 determining the estimated removal costs and salvage value.
+24
+Req. No. 16847 Page 13
+1 E. The agreement shall provide that, if the grantee fails to
+2 fulfill the scope of decommissioning and removal work specified in
+3 the agreement, the grantee shall deliver the financial assurance not
+4 later than the earlier of:
+5 1. The date the energy storage resource agreement is
+6 terminated; or
+7 2. The twentieth anniversary of the commencement of operations
+8 of the energy storage resources located on the landowner's property,
+9 unless the term of the agreement is extended.
+10 F. The grantee may not cancel financial assurance before the
+11 date the grantee has completed the grantee's obligation to remove
+12 the grantee's energy storage resource facilities located on the
+13 landowner's property in the manner provided by this act, unless the
+14 grantee provides the landowner with replacement financial assurance
+15 at the time of or before the cancellation. In the event of a
+16 transfer of ownership of the grantee's energy storage resource
+17 facilities, the financial security provided by the grantee shall
+18 remain in place until the date evidence of replacement financial
+19 security meeting the requirements of this act is provided to the
+20 landowner by the transferee.
+21 G. The provisions of this section shall only apply to energy
+22 storage resource agreements executed after the effective date of
+23 this act and shall have no effect on existing agreements.
+24
+Req. No. 16847 Page 14
+1 SECTION 7. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 180.20 of Title 17, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. A provision of an energy storage resource agreement executed
+5 after the effective date of the Oklahoma Energy Storage Resource
+6 Safety Act that purports to waive a right or exempt a grantee from a
+7 liability or duty established under the Oklahoma Energy Storage
+8 Resource Safety Act is void and unenforceable, but the remainder of
+9 the agreement shall remain enforceable.
+10 B. A resource owner shall comply with the decommissioning
+11 obligations set forth in the Oklahoma Energy Storage Resource Safety
+12 Act. A landowner subject to an energy storage resource agreement is
+13 expressly authorized to bring an action in district court for
+14 injunctive relief to enforce compliance with this act.
+15 C. The provisions of this section are not exclusive. The
+16 remedies provided in this section are in addition to any other
+17 procedures or remedies provided by other law. Failure to comply
+18 with the Oklahoma Energy Storage Resource Safety Act does not impair
+19 the validity or enforceability of any lease, easement, mortgage,
+20 deed of trust, or other interest in real property.
+21 SECTION 8. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 180.21 of Title 17, unless there
+23 is created a duplication in numbering, reads as follows:
+24
+Req. No. 16847 Page 15
+1 A. For energy storage resource facilities located in areas
+2 where no recognized local authority having jurisdiction exists, and
+3 where, as a result, any component of an energy storage resource
+4 facility or the energy storage resource facility itself is subject
+5 to inspections, plan reviews, or permits from the Office of the
+6 Oklahoma State Fire Marshal, as provided in the codes adopted by the
+7 Oklahoma Uniform Building Code Commission, the State Fire Marshal
+8 Commission may establish a fee rate of no more than six cents
+9 ($0.06) per square foot of surface physically occupied aboveground
+10 by energy storage resource facility infrastructure. Such fee shall
+11 be inclusive of all inspections, plan reviews, permit issuance, and
+12 other review actions undertaken by the Office of the Oklahoma State
+13 Fire Marshal in connection with the project, and the total fee shall
+14 not exceed Five Hundred Thousand Dollars ($500,000.00) for any
+15 individual energy storage resource facility. Nothing in this
+16 section shall be construed to authorize the collection of fees
+17 beyond said amount, except as otherwise provided by law. Where a
+18 recognized local authority having jurisdiction exists, such local
+19 authority is subject to the same fee limitations as the Office of
+20 the Oklahoma State Fire Marshal established in this subsection.
+21 B. Any fees collected pursuant to subsection A of this section
+22 shall be distributed as follows:
+23 1. Seventy-five percent (75%) of such fees shall be
+24 distributed to the local fire department providing primary fire
+Req. No. 16847 Page 16
+1 prot ection services to the jurisdiction where the facility is
+2 located, within sixty (60) days of receipt. Funds distributed under
+3 this paragraph shall be used solely for fire protection, fire
+4 prevention, inspections, training, or emergency response activities
+5 related to the facility; and
+6 2. Twenty-five percent (25%) of such fees shall remain with
+7 the Office of the Oklahoma State Fire Marshal for regulatory
+8 purposes.
+9 C. For purposes of this section, "recognized local authority
+10 having jurisdiction" means a city, town, college, county, or fire
+11 protection district that has been recognized by the Office of the
+12 Oklahoma State Fire Marshal as the authority having jurisdiction for
+13 permits, inspections, and enforcement under the adopted codes.
+14 D. The Office of the Oklahoma State Fire Marshal or a local
+15 authority having jurisdiction, where applicable, shall complete any
+16 review subject to subsection A of this section as soon as
+17 practicable, and in no event later than thirty (30) calendar days
+18 following receipt of complete site plans.
+19 E. The State Fire Marshal Commission shall adopt rules as
+20 necessary to implement the provisions of this section, pursuant to
+21 Section 324.9 of Title 74 of the Oklahoma Statutes, including, but
+22 not limited to, fee collection and distributions.
+23
+24
+Req. No. 16847 Page 17
+1 SECTION 9. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 160.24 of Title 17, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. For wind energy facilities located in areas where no
+5 recognized local authority having jurisdiction exists, and where, as
+6 a result, any component of a wind energy facility or the wind energy
+7 facility itself is subject to inspections, plan reviews, or permits
+8 from the Office of the Oklahoma State Fire Marshal, as provided in
+9 the codes adopted by the Oklahoma Uniform Building Code Commission,
+10 the State Fire Marshal Commission may establish a fee rate of no
+11 more than six cents ($0.06) per square foot of surface physically
+12 occupied aboveground by wind energy facility infrastructure. Such
+13 fee shall be inclusive of all inspections, plan reviews, permit
+14 issuance, and other review actions undertaken by the Office of the
+15 Oklahoma State Fire Marshal in connection with the project, and the
+16 total fee shall not exceed Five Hundred Thousand Dollars
+17 ($500,000.00) for any individual wind energy facility. Nothing in
+18 this section shall be construed to authorize the collection of fees
+19 beyond said amount, except as otherwise provided by law. Where a
+20 recognized local authority having jurisdiction exists, such local
+21 authority is subject to the same fee limitations as the Office of
+22 the Oklahoma State Fire Marshal established in this subsection.
+23 B. Any fees collected pursuant to subsection A of this section
+24 shall be distributed as follows:
+Req. No. 16847 Page 18
+1 1. Seventy-five percent (75%) of such fees shall be distributed
+2 to the local fire department providing primary fire protection
+3 services to the jurisdiction where the facility is located, within
+4 sixty (60) days of receipt. Funds distributed under this paragraph
+5 shall be used solely for fire protection, fire prevention,
+6 inspections, training, or emergency response activities related to
+7 the facility; and
+8 2. Twenty-five percent (25%) of such fees shall remain with the
+9 Office of the Oklahoma State Fire Marshal for regulatory purposes.
+10 C. For purposes of this section, "recognized local authority
+11 having jurisdiction" means a city, town, college, county, or fire
+12 protection district that has been recognized by the Office of the
+13 Oklahoma State Fire Marshal as the authority having jurisdiction for
+14 permits, inspections, and enforcement under the adopted codes.
+15 D. The Office of the Oklahoma State Fire Marshal or a local
+16 authority having jurisdiction, where applicable, shall complete any
+17 review subject to subsection A of this section as soon as
+18 practicable, and in no event later than thirty (30) calendar days
+19 following receipt of complete site plans.
+20 E. The State Fire Marshal Commission shall adopt rules as
+21 necessary to implement the provisions of this section, pursuant to
+22 Section 324.9 of Title 74 of the Oklahoma Statutes, including, but
+23 not limited to, fee collection and distributions.
+24
+Req. No. 16847 Page 19
+1 SECTION 10. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 809 of Title 17, unless there is
+3 created a duplication in numbering, reads as follows:
+4 Sections 10 through 20 of this act shall be known and may be
+5 cited as the "Oklahoma Solar Energy Development Act".
+6 SECTION 11. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 809.1 of Title 17, unless there
+8 is created a duplication in numbering, reads as follows:
+9 The Legislature finds that the prudent development of solar
+10 energy resources requires assurances that the rights of private
+11 landowners should be protected, that such landowners have access to
+12 adequate information to verify the accuracy of their payments, among
+13 other protections, and that public and mineral interest operators
+14 receive sufficient notice of planned developments.
+15 SECTION 12. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 809.2 of Title 17, unless there
+17 is created a duplication in numbering, reads as follows:
+18 As used in the Oklahoma Solar Energy Development Act:
+19 1. "Commencement of construction" means the date on which the
+20 owner or developer of a solar energy facility installs a post or
+21 posts into the ground for panel foundations. The term shall not
+22 include environmental assessments, surveys, preliminary engineering,
+23 site preparation, or other activities associated with assessment of
+24 development of the solar resources on a given parcel of property;
+Req. No. 16847 Page 20
+1 2. "Facility" means a solar energy facility;
+2 3. "Owner" means the entity having a majority equity interest
+3 in a solar energy facility, including its respective successors and
+4 assigns;
+5 4. "Racking system" means the permanent structural framework,
+6 including foundations, piles, mounts, or tracking equipment that is
+7 designed to support, anchor, and orient photovoltaic modules or
+8 related solar-energy-producing equipment at a solar energy facility
+9 and that is integral to the facility's ability to generate
+10 electricity; and
+11 5. "Solar energy facility" means an electric-generating
+12 facility using photovoltaic or solar-thermal technologies with a
+13 nameplate capacity greater than one (1) megawatt alternating current
+14 (AC), designed to deliver energy to the electric grid and not
+15 primarily to on-site load, unless otherwise specified by state law.
+16 SECTION 13. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 809.3 of Title 17, unless there
+18 is created a duplication in numbering, reads as follows:
+19 For landowners who are paid based on the amount of electrical
+20 energy produced from the conversion of solar energy, the owner of
+21 any solar energy facility shall provide a statement within ten (10)
+22 business days of the payment to the landowner in consideration for
+23 the use of the property of the landowner to generate electrical
+24 energy. The statement shall provide, at a minimum, information
+Req. No. 16847 Page 21
+1 reas onably necessary to assist the landowner an understanding of the
+2 basis for the payment to the landowner and a means of confirming its
+3 accuracy.
+4 SECTION 14. NEW LAW A new section of law to be codified
+5 in the Oklahoma Statutes as Section 809.4 of Title 17, unless there
+6 is created a duplication in numbering, reads as follows:
+7 A. Any landowner who has, through a lease, easement, or other
+8 arrangement, allowed a solar energy facility foundation or racking
+9 system to be placed on the property of the landowner and who is paid
+10 based on the amount of electrical energy produced from the
+11 conversion of solar energy shall have the right to inspect the
+12 records of the owner of the solar energy facility for the purpose of
+13 confirming the accuracy of any payments made to the landowner within
+14 the past twenty-four (24) months.
+15 B. The owner of any solar energy facility, any portion of which
+16 is located in this state, upon request of a landowner with the right
+17 to inspect records as set forth in subsection A of this section,
+18 shall make available, within a reasonable time, all records,
+19 documents, data, and other information, or copies thereof, as are
+20 necessary for a landowner to conduct the inspection specified in
+21 subsection A of this section. The records shall be made available
+22 within the confines of this state and in a location and manner that
+23 affords a landowner reasonable access to the records during normal
+24 business hours. The landowner shall be permitted one request per
+Req. No. 16847 Page 22
+1 cale ndar year and be afforded a reasonable length of time to
+2 complete the inspection but shall not cause undue disruption to the
+3 operations of the owner during the inspection. The records shall be
+4 subject to the confidentiality requirements contained in the
+5 respective landowner lease agreement.
+6 SECTION 15. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 809.5 of Title 17, unless there
+8 is created a duplication in numbering, reads as follows:
+9 A. The owner of any solar energy facility shall report to the
+10 Oklahoma Corporation Commission the electrical energy generated by
+11 the solar energy facility, the nameplate capacity of the solar
+12 energy facility, and the location of the solar energy facility.
+13 B. If a solar energy facility contains generating units with
+14 different nameplate capacities, the information required in
+15 subsection A of this section shall be reported separately for each
+16 nameplate capacity.
+17 C. The information required by this section shall be reported
+18 on an annual basis, with the information due not later than March 1
+19 of each calendar year.
+20 SECTION 16. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 809.6 of Title 17, unless there
+22 is created a duplication in numbering, reads as follows:
+23
+24
+Req. No. 16847 Page 23
+1 A. Prior to commencing construction of a solar energy facility,
+2 the owner of the solar energy facility shall obtain and keep in
+3 effect either:
+4 1. A commercial general liability insurance policy with
+5 coverage limits consistent with prevailing industry standards; or
+6 2. A combination of self-insurance and excess liability
+7 insurance.
+8 B. The owner shall cause the owner of the land on which the
+9 solar energy facility is located to be named as an additional
+10 insured under the policy.
+11 C. The owner shall deliver to the landowner a certificate of
+12 insurance evidencing the policy. The landowner shall be given not
+13 less than thirty (30) days prior written notice of any material
+14 modification, cancellation, or termination of the insurance policy.
+15 SECTION 17. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 809.7 of Title 17, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. The owner of a solar energy facility shall submit a
+19 notification of intent to build a facility to the Oklahoma
+20 Corporation Commission at least six (6) months before the
+21 commencement of construction, as defined in Section 12 of this act.
+22 The Corporation Commission shall prescribe the form and submittal
+23 requirements of the notification; provided, the information required
+24 on the notification form shall include a description of the
+Req. No. 16847 Page 24
+1 faci lity, the nameplate capacity, the general location of the
+2 facility, and a map of the project boundary.
+3 The owner of the solar energy facility shall send copies of the
+4 notification to the board of county commissioners of every county in
+5 which all or a portion of the solar energy facility is to be located
+6 within twenty-four (24) hours of filing said notification with the
+7 Corporation Commission. If all or a portion of the solar energy
+8 facility is to be located within the incorporated area of a
+9 municipality, a copy of the notification shall also be sent to the
+10 governing body of the municipality within twenty-four (24) hours of
+11 filing said notification with the Corporation Commission.
+12 B. Within six (6) months of submitting the notification to the
+13 Corporation Commission as provided for in subsection A of this
+14 section, the owner of the solar energy facility shall cause a copy
+15 of the notification to be published in a newspaper of general
+16 circulation in the county or counties in which all or a portion of
+17 the solar energy facility is to be located. Proof of publication
+18 shall be submitted to the Corporation Commission.
+19 C. Within six (6) months of submitting the notification to the
+20 Corporation Commission as provided in subsection A of this section,
+21 the owner of the solar energy facility shall cause a copy of the
+22 notification to be sent, by certified mail, to:
+23 1. Any operator, as reflected in the records of the Corporation
+24 Commission, conducting oil and gas operations upon all or any part
+Req. No. 16847 Page 25
+1 of t he surface estate on which the solar energy developer intends to
+2 construct the solar energy facility;
+3 2. Any operator, as reflected in the records of the Corporation
+4 Commission, of an unspaced unit or a unit created by order of the
+5 Corporation Commission, conducting oil and gas operations for a unit
+6 where all or any part of the unit area is within the geographical
+7 boundaries of the surface estate on which the solar energy developer
+8 intends to construct the solar energy facility; and
+9 3. All lessees of oil and gas leases covering the mineral
+10 estate underlying any part of the tracts of land that are filed of
+11 record with the county clerk in the county where the tracts are
+12 located and whose primary term has not expired. This paragraph
+13 shall apply to tracts of land not described in paragraphs 1 and 2 of
+14 this subsection on which the solar energy developer intends to
+15 construct a solar energy facility;
+16 4. Any working interest owner of a unit created by order of the
+17 Corporation Commission, as identified and provided by the operator
+18 of the unit, to the owner of the solar energy facility, within
+19 thirty (30) days of request, where all or any part of the unit area
+20 is within the geographical boundaries of the surface estate on which
+21 the solar energy developer intends to construct the solar energy
+22 facility; and
+23 5. Any operator of a well permitted by the Corporation
+24 Commission for injection or disposal purposes, as reflected in the
+Req. No. 16847 Page 26
+1 reco rds of the Corporation Commission, where such well is located
+2 within the geographical boundaries of the surface estate on which
+3 the solar energy developer intends to construct the solar energy
+4 facility.
+5 If the solar energy developer makes a search with reasonable
+6 diligence and the whereabouts of a party entitled to notice cannot
+7 be ascertained or the notice cannot be delivered, an affidavit
+8 attesting to such diligent search shall be submitted to the
+9 Corporation Commission.
+10 D. Within sixty (60) days of publication of the notification in
+11 a newspaper of general circulation as provided for in subsection B
+12 of this section, the owner of the solar energy facility shall hold a
+13 public meeting. Notice of the public meeting shall be published in
+14 a newspaper of general circulation and submitted to the board of
+15 county commissioners in the county or counties in which all or a
+16 portion of the solar energy facility is to be located. The notice
+17 shall contain the place, date, and time of the public meeting.
+18 Proof of publication of the notice shall be submitted to the
+19 Corporation Commission. The public meeting shall be held in the
+20 county or in one of the counties in which all or a portion of the
+21 solar energy facility is to be located.
+22 E. With regard to the surface estate upon which the owner of a
+23 solar energy facility intends to construct the facility, at least
+24 sixty (60) days before entering upon the surface estate for the
+Req. No. 16847 Page 27
+1 purp ose of commencement of construction, the owner shall provide
+2 written notice, by certified mail, of its intent to construct the
+3 solar energy facility to the parties described in subsection C of
+4 this section.
+5 The notice shall contain a map or plat of the proposed location,
+6 with sufficient specificity to identify the elements of the solar
+7 energy facility to be located on the governmental section and the
+8 approximate date construction is proposed to commence. If the solar
+9 energy developer makes a search with reasonable diligence and the
+10 whereabouts of a party entitled to notice cannot be ascertained or
+11 the notice cannot be delivered, an affidavit attesting to such
+12 diligent search shall be submitted to the Corporation Commission.
+13 Within thirty (30) days of receiving such notice, any party
+14 described in subsection C of this section shall reciprocate, in
+15 writing by certified mail, the relevant site, operational, and
+16 infrastructure information sufficient to assist with the safe
+17 construction and operation of the solar energy facility. This
+18 information shall include American Land Title Association surveys,
+19 if available, and technical specifications for existing subsurface
+20 or surface improvements.
+21 Any information provided by an oil and gas operator or solar
+22 energy developer pursuant to this subsection shall be confidential
+23 and proprietary. The parties shall:
+24
+Req. No. 16847 Page 28
+1 1. Use such information solely for the purposes of this
+2 section;
+3 2. Not disclose such information to any third party without the
+4 prior written consent of the disclosing party, except as required by
+5 law or order of a court of competent jurisdiction or the Corporation
+6 Commission; and
+7 3. Upon written request of the disclosing party, return or
+8 destroy all such information and certify the same in writing.
+9 The confidentiality obligations of this subsection shall not be
+10 limited by or contingent upon the terms of any landowner lease
+11 agreement or surface use agreement. Violation of this provision
+12 shall constitute grounds for the Corporation Commission to suspend
+13 or revoke a permit issued under this act, in addition to any other
+14 remedies available at law or in equity.
+15 F. The owner of a solar energy facility shall not commence
+16 construction on the facility until the notification and public
+17 meeting requirements of this section have been satisfied. Upon the
+18 commencement of the sixty-day notice required under subsection E of
+19 this section, the owner shall notify the Corporation Commission that
+20 such notice has commenced and shall include an affirmation that all
+21 other notices and notifications required by this section have been
+22 properly provided.
+23 If an owner of a solar energy facility fails to submit any
+24 information required by this section, the owner shall be subject to
+Req. No. 16847 Page 29
+1 an a dministrative penalty not to exceed One Thousand Five Hundred
+2 Dollars ($1,500.00) per day, per violation, as provided by law.
+3 G. The provisions of this section shall only apply to
+4 facilities that commence construction after May 1, 2027, and shall
+5 not apply to any facilities that commenced construction before that
+6 date, including any subsequent maintenance, repairs, modifications,
+7 or other work on existing facilities.
+8 SECTION 18. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 809.8 of Title 17, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. When applicable, a solar energy developer shall submit site
+12 plans and fees for any new solar energy facility to the Office of
+13 the Oklahoma State Fire Marshal for review. Such site plans shall
+14 be submitted when the solar energy facility is sixty percent (60%)
+15 complete in design development. The site plans shall include an
+16 accurate representation of:
+17 1. Photovoltaic modules;
+18 2. Inverters;
+19 3. Monitoring and control equipment;
+20 4. Substations;
+21 5. Collection lines;
+22 6. Access roads;
+23 7. Temporary construction areas;
+24 8. Operation and maintenance facilities; and
+Req. No. 16847 Page 30
+1 9. Other relevant supporting infrastructure.
+2 B. Review by the Office of the Oklahoma State Fire Marshal
+3 shall be limited to compliance with applicable fire and building
+4 safety codes, including:
+5 1. The Oklahoma-adopted International Building Code, as
+6 codified at OAC 748:20-2-1; and
+7 2. The 2018 Edition of the International Fire Code, as codified
+8 at OAC 748:20-4-1.
+9 C. The Office of the Oklahoma State Fire Marshal shall complete
+10 its review as soon as practicable, but in no event not later than
+11 thirty (30) calendar days following receipt of complete site plans
+12 and fees. In the event the Office of the Oklahoma State Fire
+13 Marshal does not complete its review within thirty (30) calendar
+14 days, any applicable permits and certificates shall be deemed
+15 issued.
+16 D. During the pendency of the review by the Office of the
+17 Oklahoma State Fire Marshal, the following on-site activities may
+18 proceed:
+19 1. Timbering, clearing, and grubbing vegetation;
+20 2. Civil grading and earthwork;
+21 3. Installation of stormwater pollution prevention measures and
+22 best management practices;
+23 4. Installation of laydown areas and substation concrete
+24 foundation pads, including rough grading and gravel;
+Req. No. 16847 Page 31
+1 5. Installation of racking systems, inverters, photovoltaic
+2 modules, low-voltage collection systems, and above-ground
+3 transmission poles;
+4 6. Public road improvements, entrance installations, and
+5 service road construction;
+6 7. Placement of construction trailers with temporary power,
+7 fiber connections, and portable sanitation facilities;
+8 8. Sub-grade open trenching;
+9 9. Installation of on-grade concrete foundations; and
+10 10. Installation of structural columns and beams.
+11 E. The Office of the Oklahoma State Fire Marshal may assess a
+12 plan review fee at a rate of six cents ($0.06) per square foot of
+13 actual erected solar facilities, provided that the total fee shall
+14 not exceed Five Hundred Thousand Dollars ($500,000.00) for any
+15 single solar energy facility. The amount of such fee shall have a
+16 reasonable connection to the work actually performed by the Office
+17 of the Oklahoma State Fire Marshal.
+18 F. Of the fees collected pursuant to this section:
+19 1. Seventy-five percent (75%) shall be distributed to the local
+20 fire department providing primary fire protection services to the
+21 jurisdiction where the facility is located, within sixty (60) days
+22 of receipt. Funds distributed pursuant to this paragraph shall be
+23 used solely for fire protection, fire prevention, inspections,
+24
+Req. No. 16847 Page 32
+1 trai ning, or emergency response activities related to the facility;
+2 and
+3 2. Twenty-five percent (25%) may be retained by the Office of
+4 the Oklahoma State Fire Marshal for regulatory purposes.
+5 G. If the Office of the Oklahoma State Fire Marshal delegates
+6 any site plan review, permitting, or similar authority over a solar
+7 energy facility to a recognized local authority having jurisdiction,
+8 fees and timing shall continue to conform to subsections C and E of
+9 this section.
+10 H. The provisions of this section shall apply to solar energy
+11 facilities designed to provide electricity to the grid, as well as
+12 any utility-scale solar energy facility designed to deliver
+13 electricity directly from a generating facility to a single end-use
+14 customer.
+15 SECTION 19. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 809.9 of Title 17, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. In addition to complying with the provisions of this act, the
+19 owner of a solar energy facility shall comply with the provisions of
+20 the Commercial Solar Facility Decommissioning Act in accordance with
+21 Section 820 et seq. of Title 17 of the Oklahoma Statutes.
+22 B. An owner shall submit evidence of financial assurance
+23 sufficient to secure the performance of its decommissioning
+24 obligations in accordance with the Commercial Solar Facility
+Req. No. 16847 Page 33
+1 Deco mmissioning Act on or before the tenth year of operation of the
+2 facility and thereafter upon request by the Commission, but at least
+3 once every five (5) years for the life of the solar energy facility.
+4 The amount of such financial assurance shall be calculated in
+5 accordance with the Commercial Solar Facility Decommissioning Act,
+6 but shall not be less than one hundred twenty-five percent (125%) of
+7 the estimate of the total cost of decommissioning, less the salvage
+8 value of facility equipment and any portion of the value of such
+9 equipment pledged to secure outstanding debt.
+10 SECTION 20. NEW LAW A new section of law to be codified
+11 in the Oklahoma Statutes as Section 809.10 of Title 17, unless there
+12 is created a duplication in numbering, reads as follows:
+13 The Oklahoma Corporation Commission shall have authority to
+14 promulgate rules as necessary to implement the provisions of the
+15 Oklahoma Solar Energy Development Act and to set fees necessary to
+16 perform the duties and responsibilities of the Commission pursuant
+17 to the act. The Oklahoma Corporation Commission shall have
+18 exclusive jurisdiction to enforce the provisions of this act that
+19 are within its authority.
+20 SECTION 21. This act shall become effective November 1, 2026.
+21
+22 60-2-16847 JBH 03/03/26
+23
+24
+Req. No. 16847 Page 34
+[DELETED: 3 AS C           O S L           ]
+[DELETED:  P B   a P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P l]
+[DELETED:  P o]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P c e]
+[DELETED:  P c e]
+[DELETED:  P e t]
+[DELETED:  P]
+[DELETED:  P o a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P J 0]
+
+
+================================================================================
+
+Raw Text:
+HB3464 FULLPCS1 Brad Boles-JBH
+3/3/2026 10:04:51 am
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB3464
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Brad Boles
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED OVERSIGHT
+COMMITTEE SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 3464 By: Boles of the House
+5
+and
+6
+Paxton of the Senate
+7
+8
+9
+10
+11 PROPOSED OVERSIGHT COMMITTEE SUBSTITUTE
+12 An Act relating to energy; creating the Oklahoma
+Energy Storage Resource Safety Act; stating
+13 legislative intent; defining terms; requiring energy
+storage resources comply with certain safety codes
+14 and standards; providing for resolution if conflict
+exists; authorizing requirement for certain written
+15 report; listing required contents of written report;
+requiring certain cooperation; requiring certain
+16 information be provided; requiring the curing of
+noncompliance before commencement of operations;
+17 requiring certain energy storage resource to have
+emergency operations plan; listing requirements of
+18 emergency operations plan; requiring submission of
+emergency operations plan; requiring the offering of
+19 certain training to local first responders; listing
+requirements of training; prohibiting certain actions
+20 by political subdivisions; requiring certain
+agreements contain decommissioning provisions;
+21 requiring landowner make certain timely requests for
+grantee compliance; stating certain applicability;
+22 requiring certain financial assurance be delivered;
+stating acceptable forms of financial assurance;
+23 requiring certain amount of financial assurance;
+providing agreement contain certain provisions;
+24 detailing agreement provision requirements; assigning
+Req. No. 16847 Page 1
+
+1 certain costs to grantee; prohibiting certain
+cancellation of financial assurance; making certain
+2 agreement provisions void; providing for certain
+injunctive relief; establishing fees for review and
+3 permitting certain facilities by the Office of the
+Oklahoma State Fire Marshal; limiting the amount of
+4 collected fees; providing for distribution of
+collected fees; requiring completion of certain
+5 report as soon as practicable; requiring the State
+Fire Marshal Commission to adopt certain rules;
+6 creating the Oklahoma Solar Energy Development Act;
+stating legislative findings; requiring owners of
+7 solar energy facilities to provide certain statement
+to landowners; listing minimum requirements of
+8 statements; authorizing certain landowners the right
+to inspect records to verify payments; requiring
+9 certain records be made available; detailing the
+procedure for providing records; requiring the annual
+10 reporting of generation, nameplate capacity, and
+facility location to the Oklahoma Corporation
+11 Commission; requiring the keeping of liability
+insurance policy prior to commencement of
+12 construction; requiring landowner be added as
+additional insured to policy; requiring certain
+13 evidence of policy be submitted to landowner;
+requiring certain notice; requiring submission of a
+14 notification of intent to build; requiring
+Corporation Commission prescribe form and submission
+15 requirements; listing certain required information;
+requiring certain notification to board of county
+16 commissioners or municipality; requiring publication
+of certain notice by certain date; requiring copies
+17 of notice be sent to certain specified parties;
+requiring an affidavit in certain situations;
+18 requiring the holding of a public meeting; requiring
+notice of public meeting be published and submitted;
+19 listing requirements of public meeting notice;
+requiring certain notice to surface estate owner;
+20 requiring certain provided information be
+confidential and proprietary; requiring parties take
+21 certain actions; stating confidentiality provisions
+shall not be limited by certain agreements; providing
+22 for certain penalties; listing requirements of notice
+to surface estate; prohibiting commencement of
+23 construction until all notification requirements are
+satisfied; requiring notification to Corporation
+24 Commission that certain requirements have been met;
+Req. No. 16847 Page 2
+
+1 providing for certain penalty; stating requirements
+shall only apply to certain facilities; requiring
+2 submission of certain site plans to the Office of the
+Oklahoma State Fire Marshal at certain time; listing
+3 requirements to be included in site plan; limiting
+review of the Office of the Oklahoma State Fire
+4 Marshal; requiring review be completed as soon as
+practicable; allowing certain on-site actions to
+5 proceed during review period; authorizing assessment
+of certain fee; limiting the amount of collected fee;
+6 providing for fee distribution; providing for
+application to certain facilities; requiring
+7 compliance with certain act; requiring submission of
+certain evidence of financial assurance; providing
+8 for certain calculations of financial assurance;
+requiring financial assurance be certain percentage
+9 of decommissioning estimate; authorizing Corporation
+Commission to promulgate certain rules; granting
+10 certain exclusive jurisdiction; providing for
+codification; and providing an effective date.
+11
+12
+13
+14 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15 SECTION 1. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 180.14 of Title 17, unless there
+17 is created a duplication in numbering, reads as follows:
+18 Sections 1 through 8 of this act shall be known and may be cited as
+19 the "Oklahoma Energy Storage Resource Safety Act".
+20 SECTION 2. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 180.15 of Title 17, unless there
+22 is created a duplication in numbering, reads as follows:
+23 The Legislature finds that:
+24
+Req. No. 16847 Page 3
+
+1 1. To protect the citizens of Oklahoma, energy storage
+2 resources shall satisfy safety codes and standards; and
+3 2. This act is intended to help Oklahoma secure the benefits of
+4 energy storage resources to provide electric grid reliability.
+5 SECTION 3. NEW LAW A new section of law to be codified
+6 in the Oklahoma Statutes as Section 180.16 of Title 17, unless there
+7 is created a duplication in numbering, reads as follows:
+8 As used in the Oklahoma Energy Storage Resource Safety Act:
+9 1. "Commencement of operations" means the date on which an
+10 energy storage resource first delivers electricity to the grid in an
+11 amount sufficient for commercial sale or use off-site from the
+12 energy storage resource, but shall not include amounts of electrical
+13 energy used only for the maintenance or testing of the energy
+14 storage resource or related equipment;
+15 2. "Energy storage resource" means a resource capable of
+16 receiving electric energy from the electrical grid, or from a
+17 generation source with which it is associated, and storing such
+18 electric energy for later injection into the electrical grid;
+19 3. "Energy storage resource agreement" means a lease agreement
+20 between a grantee and a landowner that authorizes the grantee to
+21 operate an energy storage resource on the leased property;
+22 4. "Grantee" means a person, other than an electric utility
+23 who:
+24 a. leases property from a landowner, and
+Req. No. 16847 Page 4
+
+1 b. operates an energy storage resource on the property;
+2 and
+3 5. "Resource owner" means the entity having a majority equity
+4 interest in the energy storage resource, including its respective
+5 successors and assigns.
+6 SECTION 4. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 180.17 of Title 17, unless there
+8 is created a duplication in numbering, reads as follows:
+9 A. An energy storage resource shall comply with the following
+10 minimum safety codes and standards for energy storage resource
+11 equipment or facilities:
+12 1. The International Fire Code (IFC), as adopted and amended by
+13 the Oklahoma Uniform Building Code Commission, in effect at the time
+14 a construction permit is applied for; and
+15 2. Criteria described in the National Fire Protection
+16 Association (NFPA) 855 2026 Standard for the Installation of
+17 Stationary Energy Storage Systems.
+18 Where a conflict exists between the requirements of the IFC, as
+19 adopted and amended by the Oklahoma Uniform Building Code
+20 Commission, and the NFPA 855 2026 edition, the provisions of the
+21 NFPA 855 2026 edition shall take precedence.
+22 B. Before a construction permit is issued for an energy storage
+23 resource, the entity responsible for fire inspection and primary
+24 emergency response may require the resource owner to pay for an
+Req. No. 16847 Page 5
+
+1 inde pendent, third-party engineer licensed in this state or other
+2 consultant with appropriate expertise, to provide a written report
+3 to the entity responsible for fire inspection and primary emergency
+4 response and the resource owner determining:
+5 1. Whether the energy storage resource, as proposed, complies
+6 with subsection A of this section; and
+7 2. To the extent the energy storage resource does not comply
+8 with subsection A of this section, any appropriate actions to cure
+9 such noncompliance in accordance with the NFPA 855 2026 edition.
+10 C. Any resource owner that receives a lawful request pursuant
+11 to subsection B of this section shall cooperate with the request.
+12 Such cooperation shall include providing the engineer or consultant
+13 with all necessary documents relating to the energy storage
+14 resource's site layout, emergency operations plan, hazard mitigation
+15 analysis, manufacturer specifications, product listings, including,
+16 but not limited to, UL 9540 and UL 9540A reports, compliance with
+17 the NFPA 855 2026 edition and other applicable referenced standards,
+18 electrical drawings, monitoring procedures, and fire protection
+19 system, as applicable to the proposed energy storage resource. If
+20 the engineer or consultant identifies appropriate actions to cure
+21 noncompliance under paragraph 2 of subsection B of this section, the
+22 resource owner shall implement said appropriate actions before
+23 commencement of operations.
+24
+Req. No. 16847 Page 6
+
+1 D. Energy storage resources, other than energy storage systems
+2 installed in one- and two-family dwellings as defined in the NFPA
+3 855 2026 edition, in this state shall have and maintain, at an on-
+4 site location accessible to local first responders, a site-specific
+5 emergency operations plan. In accordance with the NFPA 855 2026
+6 edition, the site-specific emergency operations plan shall identify:
+7 1. Potential risks and hazards specific to the site;
+8 2. Hazard mitigation measures;
+9 3. Procedures for the safe shutdown, de-energizing, or
+10 isolation of equipment and systems under emergency conditions,
+11 including emergency procedures to be followed in case of fire;
+12 4. Procedures for handling equipment damaged in a fire or other
+13 emergency event;
+14 5. Procedures and schedules for conducting drills using the
+15 procedures listed under this subsection and documentation related to
+16 the performance of the drills;
+17 6. Procedures for communication between the operator of the
+18 energy storage resource and first responders, including procedures
+19 that facilitate communication between first responders and emergency
+20 contacts for the resource operator; and
+21 7. Emergency operations protocols to ensure safety during
+22 critical events, including protocols that provide for the safety of
+23 nearby residents, neighboring properties, and first responders.
+24
+Req. No. 16847 Page 7
+
+1 E. Before commencement of operations, the resource owner shall
+2 provide the site-specific emergency operations plan to the entity
+3 responsible for fire inspection and primary emergency response.
+4 F. Energy storage resource owners in this state shall offer to
+5 local first responders, at no cost to the responders, education and
+6 training regarding responding to an equipment failure incident at
+7 the energy storage resource site. The training shall include:
+8 1. Training on specific characteristics of the energy storage
+9 resource technology;
+10 2. Training on protecting first responders during incident
+11 response;
+12 3. Training on hazards commonly associated with incident
+13 response;
+14 4. Training on incident response protocols, including an
+15 overview of the site-specific emergency operations plan developed
+16 under subsection D of this section; and
+17 5. An on-site review of the perimeter, major equipment, and
+18 ingress and egress to the energy storage resource site.
+19 G. Unless expressly authorized by law, political subdivisions
+20 in this state shall not adopt, enforce, or maintain any rules,
+21 regulations, codes, or standards that uniquely apply to energy
+22 storage resources other than those set forth in the Oklahoma Energy
+23 Storage Resource Safety Act.
+24
+Req. No. 16847 Page 8
+
+1 SECTION 5. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 180.18 of Title 17, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. An energy storage resource agreement executed after the
+5 effective date of this act shall provide that the grantee is
+6 responsible for removing the grantee’s components of an energy
+7 storage resource facility from the landowner's property and that the
+8 grantee shall, in accordance with any other applicable laws or
+9 regulations, safely perform the following:
+10 1. Clear, clean, and remove from the property each energy
+11 storage resource and associated transformers and substations;
+12 2. For each foundation of an energy storage resource,
+13 transformer, or substation installed in the ground:
+14 a. clear, clean, and remove the foundation from the
+15 ground to a depth of at least three (3) feet below the
+16 surface grade of the land in which the foundation is
+17 installed, and
+18 b. ensure that each hole or cavity created in the ground
+19 by the removal is filled with soil of the same type or
+20 a similar type as the predominant soil found on the
+21 property;
+22 3. For each buried cable, including power, fiber-optic, and
+23 communications cables, installed in the ground:
+24
+Req. No. 16847 Page 9
+
+1 a. clear, clean, and remove the cable from the ground to
+2 a depth of at least three (3) feet below the surface
+3 grade of the land in which the cable is installed, and
+4 b. ensure that each hole or cavity created in the ground
+5 by the removal is filled with soil of the same type or
+6 a similar type as the predominant soil found on the
+7 property; and
+8 4. Clear, clean, and remove from the property each overhead
+9 power or communications line installed by the grantee on the
+10 property at the request of the landowner.
+11 B. The agreement shall provide that, at the request of the
+12 landowner, the grantee shall:
+13 1. Clear, clean, and remove each road constructed by the
+14 grantee on the property; and
+15 2. Ensure that each hole or cavity created in the ground by the
+16 removal is filled with soil of the same type or a similar type as
+17 the predominant soil found on the property.
+18 C. The agreement shall provide that, at the request of the
+19 landowner, if reasonable, the grantee shall:
+20 1. Remove from the property all rocks over twelve (12) inches
+21 in diameter excavated during the decommissioning or removal process;
+22 2. Return the property to a tillable state using scarification,
+23 V-rip, or disc methods, as appropriate; and
+24 3. Ensure that:
+Req. No. 16847 Page 10
+
+1 a. each hole or cavity created in the ground by the
+2 removal is filled with soil of the same type or a
+3 similar type as the predominant soil found on the
+4 property, and
+5 b. the surface is returned as near as reasonably possible
+6 to the same condition as before the grantee dug holes
+7 or cavities, including by reseeding pastureland with
+8 native grasses prescribed by an appropriate
+9 governmental agency, if any. Noninvasive grasses
+10 shall be allowed when reseeding native grasses is not
+11 economically feasible.
+12 D. The landowner shall make a request under subsection B or C
+13 of this section not later than the one hundred eightieth day after
+14 the later of:
+15 1. The date on which the landowner receives from the grantee
+16 via certified mail a copy of a notification of intent to suspend
+17 operations filed with a grid operator indicating an intent to
+18 permanently cease operations; or
+19 2. The date the landowner receives written notice of intent to
+20 decommission the energy storage resource from the grantee.
+21 E. The provisions of this section shall only apply to energy
+22 storage resource agreements executed after the effective date of
+23 this act and shall have no effect on existing agreements.
+24
+Req. No. 16847 Page 11
+
+1 SECTION 6. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 180.19 of Title 17, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. An energy storage resource agreement executed after
+5 effective date of this act shall provide that the grantee obtain and
+6 deliver to the landowner evidence of financial assurance that
+7 conforms to the requirements of this section to secure the
+8 performance of the grantee's obligation to remove the grantee's
+9 energy storage resource facilities located on the landowner's
+10 property as described by Section 5 of this act. Acceptable forms of
+11 financial assurance include a parent company guaranty with a minimum
+12 investment grade credit rating for the parent company issued by a
+13 major domestic credit rating agency, a letter of credit, a bond, or
+14 another form of financial assurance reasonably acceptable to the
+15 landowner.
+16 B. The amount of the financial assurance shall be at least
+17 equal to the estimated amount by which the cost of removing the
+18 energy storage resource facilities from the landowner's property and
+19 restoring the property to as near as reasonably possible the
+20 condition of the property as of the date the agreement begins
+21 exceeds the salvage value of the facilities, less any portion of the
+22 value of the facilities pledged to secure outstanding debt.
+23 C. The agreement shall provide that:
+24
+Req. No. 16847 Page 12
+
+1 1. The estimated cost of removing the energy storage resource
+2 facilities from the landowner's property and restoring the property
+3 to as near as reasonably possible the condition of the property as
+4 of the date the agreement begins, and the estimated salvage value of
+5 the energy storage resource facilities, shall be determined by an
+6 independent, third-party professional engineer licensed in this
+7 state;
+8 2. The grantee shall deliver to the landowner an updated
+9 estimate, prepared by an independent, third-party professional
+10 engineer licensed in this state, of the cost of removal and the
+11 salvage value:
+12 a. on or before the tenth anniversary of commencement of
+13 operations of the energy storage resource facility,
+14 and
+15 b. at least once every five (5) years thereafter for the
+16 remainder of the term of the agreement; and
+17 3. The grantee is responsible for ensuring that the amount of
+18 the financial assurance remains sufficient to cover the amount
+19 required by subsection B of this section, consistent with the
+20 estimates required by this subsection.
+21 D. The grantee is responsible for the costs of obtaining
+22 financial assurance described by this section and costs of
+23 determining the estimated removal costs and salvage value.
+24
+Req. No. 16847 Page 13
+
+1 E. The agreement shall provide that, if the grantee fails to
+2 fulfill the scope of decommissioning and removal work specified in
+3 the agreement, the grantee shall deliver the financial assurance not
+4 later than the earlier of:
+5 1. The date the energy storage resource agreement is
+6 terminated; or
+7 2. The twentieth anniversary of the commencement of operations
+8 of the energy storage resources located on the landowner's property,
+9 unless the term of the agreement is extended.
+10 F. The grantee may not cancel financial assurance before the
+11 date the grantee has completed the grantee's obligation to remove
+12 the grantee's energy storage resource facilities located on the
+13 landowner's property in the manner provided by this act, unless the
+14 grantee provides the landowner with replacement financial assurance
+15 at the time of or before the cancellation. In the event of a
+16 transfer of ownership of the grantee's energy storage resource
+17 facilities, the financial security provided by the grantee shall
+18 remain in place until the date evidence of replacement financial
+19 security meeting the requirements of this act is provided to the
+20 landowner by the transferee.
+21 G. The provisions of this section shall only apply to energy
+22 storage resource agreements executed after the effective date of
+23 this act and shall have no effect on existing agreements.
+24
+Req. No. 16847 Page 14
+
+1 SECTION 7. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 180.20 of Title 17, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. A provision of an energy storage resource agreement executed
+5 after the effective date of the Oklahoma Energy Storage Resource
+6 Safety Act that purports to waive a right or exempt a grantee from a
+7 liability or duty established under the Oklahoma Energy Storage
+8 Resource Safety Act is void and unenforceable, but the remainder of
+9 the agreement shall remain enforceable.
+10 B. A resource owner shall comply with the decommissioning
+11 obligations set forth in the Oklahoma Energy Storage Resource Safety
+12 Act. A landowner subject to an energy storage resource agreement is
+13 expressly authorized to bring an action in district court for
+14 injunctive relief to enforce compliance with this act.
+15 C. The provisions of this section are not exclusive. The
+16 remedies provided in this section are in addition to any other
+17 procedures or remedies provided by other law. Failure to comply
+18 with the Oklahoma Energy Storage Resource Safety Act does not impair
+19 the validity or enforceability of any lease, easement, mortgage,
+20 deed of trust, or other interest in real property.
+21 SECTION 8. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 180.21 of Title 17, unless there
+23 is created a duplication in numbering, reads as follows:
+24
+Req. No. 16847 Page 15
+
+1 A. For energy storage resource facilities located in areas
+2 where no recognized local authority having jurisdiction exists, and
+3 where, as a result, any component of an energy storage resource
+4 facility or the energy storage resource facility itself is subject
+5 to inspections, plan reviews, or permits from the Office of the
+6 Oklahoma State Fire Marshal, as provided in the codes adopted by the
+7 Oklahoma Uniform Building Code Commission, the State Fire Marshal
+8 Commission may establish a fee rate of no more than six cents
+9 ($0.06) per square foot of surface physically occupied aboveground
+10 by energy storage resource facility infrastructure. Such fee shall
+11 be inclusive of all inspections, plan reviews, permit issuance, and
+12 other review actions undertaken by the Office of the Oklahoma State
+13 Fire Marshal in connection with the project, and the total fee shall
+14 not exceed Five Hundred Thousand Dollars ($500,000.00) for any
+15 individual energy storage resource facility. Nothing in this
+16 section shall be construed to authorize the collection of fees
+17 beyond said amount, except as otherwise provided by law. Where a
+18 recognized local authority having jurisdiction exists, such local
+19 authority is subject to the same fee limitations as the Office of
+20 the Oklahoma State Fire Marshal established in this subsection.
+21 B. Any fees collected pursuant to subsection A of this section
+22 shall be distributed as follows:
+23 1. Seventy-five percent (75%) of such fees shall be
+24 distributed to the local fire department providing primary fire
+Req. No. 16847 Page 16
+
+1 prot ection services to the jurisdiction where the facility is
+2 located, within sixty (60) days of receipt. Funds distributed under
+3 this paragraph shall be used solely for fire protection, fire
+4 prevention, inspections, training, or emergency response activities
+5 related to the facility; and
+6 2. Twenty-five percent (25%) of such fees shall remain with
+7 the Office of the Oklahoma State Fire Marshal for regulatory
+8 purposes.
+9 C. For purposes of this section, "recognized local authority
+10 having jurisdiction" means a city, town, college, county, or fire
+11 protection district that has been recognized by the Office of the
+12 Oklahoma State Fire Marshal as the authority having jurisdiction for
+13 permits, inspections, and enforcement under the adopted codes.
+14 D. The Office of the Oklahoma State Fire Marshal or a local
+15 authority having jurisdiction, where applicable, shall complete any
+16 review subject to subsection A of this section as soon as
+17 practicable, and in no event later than thirty (30) calendar days
+18 following receipt of complete site plans.
+19 E. The State Fire Marshal Commission shall adopt rules as
+20 necessary to implement the provisions of this section, pursuant to
+21 Section 324.9 of Title 74 of the Oklahoma Statutes, including, but
+22 not limited to, fee collection and distributions.
+23
+24
+Req. No. 16847 Page 17
+
+1 SECTION 9. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 160.24 of Title 17, unless there
+3 is created a duplication in numbering, reads as follows:
+4 A. For wind energy facilities located in areas where no
+5 recognized local authority having jurisdiction exists, and where, as
+6 a result, any component of a wind energy facility or the wind energy
+7 facility itself is subject to inspections, plan reviews, or permits
+8 from the Office of the Oklahoma State Fire Marshal, as provided in
+9 the codes adopted by the Oklahoma Uniform Building Code Commission,
+10 the State Fire Marshal Commission may establish a fee rate of no
+11 more than six cents ($0.06) per square foot of surface physically
+12 occupied aboveground by wind energy facility infrastructure. Such
+13 fee shall be inclusive of all inspections, plan reviews, permit
+14 issuance, and other review actions undertaken by the Office of the
+15 Oklahoma State Fire Marshal in connection with the project, and the
+16 total fee shall not exceed Five Hundred Thousand Dollars
+17 ($500,000.00) for any individual wind energy facility. Nothing in
+18 this section shall be construed to authorize the collection of fees
+19 beyond said amount, except as otherwise provided by law. Where a
+20 recognized local authority having jurisdiction exists, such local
+21 authority is subject to the same fee limitations as the Office of
+22 the Oklahoma State Fire Marshal established in this subsection.
+23 B. Any fees collected pursuant to subsection A of this section
+24 shall be distributed as follows:
+Req. No. 16847 Page 18
+
+1 1. Seventy-five percent (75%) of such fees shall be distributed
+2 to the local fire department providing primary fire protection
+3 services to the jurisdiction where the facility is located, within
+4 sixty (60) days of receipt. Funds distributed under this paragraph
+5 shall be used solely for fire protection, fire prevention,
+6 inspections, training, or emergency response activities related to
+7 the facility; and
+8 2. Twenty-five percent (25%) of such fees shall remain with the
+9 Office of the Oklahoma State Fire Marshal for regulatory purposes.
+10 C. For purposes of this section, "recognized local authority
+11 having jurisdiction" means a city, town, college, county, or fire
+12 protection district that has been recognized by the Office of the
+13 Oklahoma State Fire Marshal as the authority having jurisdiction for
+14 permits, inspections, and enforcement under the adopted codes.
+15 D. The Office of the Oklahoma State Fire Marshal or a local
+16 authority having jurisdiction, where applicable, shall complete any
+17 review subject to subsection A of this section as soon as
+18 practicable, and in no event later than thirty (30) calendar days
+19 following receipt of complete site plans.
+20 E. The State Fire Marshal Commission shall adopt rules as
+21 necessary to implement the provisions of this section, pursuant to
+22 Section 324.9 of Title 74 of the Oklahoma Statutes, including, but
+23 not limited to, fee collection and distributions.
+24
+Req. No. 16847 Page 19
+
+1 SECTION 10. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 809 of Title 17, unless there is
+3 created a duplication in numbering, reads as follows:
+4 Sections 10 through 20 of this act shall be known and may be
+5 cited as the "Oklahoma Solar Energy Development Act".
+6 SECTION 11. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 809.1 of Title 17, unless there
+8 is created a duplication in numbering, reads as follows:
+9 The Legislature finds that the prudent development of solar
+10 energy resources requires assurances that the rights of private
+11 landowners should be protected, that such landowners have access to
+12 adequate information to verify the accuracy of their payments, among
+13 other protections, and that public and mineral interest operators
+14 receive sufficient notice of planned developments.
+15 SECTION 12. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 809.2 of Title 17, unless there
+17 is created a duplication in numbering, reads as follows:
+18 As used in the Oklahoma Solar Energy Development Act:
+19 1. "Commencement of construction" means the date on which the
+20 owner or developer of a solar energy facility installs a post or
+21 posts into the ground for panel foundations. The term shall not
+22 include environmental assessments, surveys, preliminary engineering,
+23 site preparation, or other activities associated with assessment of
+24 development of the solar resources on a given parcel of property;
+Req. No. 16847 Page 20
+
+1 2. "Facility" means a solar energy facility;
+2 3. "Owner" means the entity having a majority equity interest
+3 in a solar energy facility, including its respective successors and
+4 assigns;
+5 4. "Racking system" means the permanent structural framework,
+6 including foundations, piles, mounts, or tracking equipment that is
+7 designed to support, anchor, and orient photovoltaic modules or
+8 related solar-energy-producing equipment at a solar energy facility
+9 and that is integral to the facility's ability to generate
+10 electricity; and
+11 5. "Solar energy facility" means an electric-generating
+12 facility using photovoltaic or solar-thermal technologies with a
+13 nameplate capacity greater than one (1) megawatt alternating current
+14 (AC), designed to deliver energy to the electric grid and not
+15 primarily to on-site load, unless otherwise specified by state law.
+16 SECTION 13. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 809.3 of Title 17, unless there
+18 is created a duplication in numbering, reads as follows:
+19 For landowners who are paid based on the amount of electrical
+20 energy produced from the conversion of solar energy, the owner of
+21 any solar energy facility shall provide a statement within ten (10)
+22 business days of the payment to the landowner in consideration for
+23 the use of the property of the landowner to generate electrical
+24 energy. The statement shall provide, at a minimum, information
+Req. No. 16847 Page 21
+
+1 reas onably necessary to assist the landowner an understanding of the
+2 basis for the payment to the landowner and a means of confirming its
+3 accuracy.
+4 SECTION 14. NEW LAW A new section of law to be codified
+5 in the Oklahoma Statutes as Section 809.4 of Title 17, unless there
+6 is created a duplication in numbering, reads as follows:
+7 A. Any landowner who has, through a lease, easement, or other
+8 arrangement, allowed a solar energy facility foundation or racking
+9 system to be placed on the property of the landowner and who is paid
+10 based on the amount of electrical energy produced from the
+11 conversion of solar energy shall have the right to inspect the
+12 records of the owner of the solar energy facility for the purpose of
+13 confirming the accuracy of any payments made to the landowner within
+14 the past twenty-four (24) months.
+15 B. The owner of any solar energy facility, any portion of which
+16 is located in this state, upon request of a landowner with the right
+17 to inspect records as set forth in subsection A of this section,
+18 shall make available, within a reasonable time, all records,
+19 documents, data, and other information, or copies thereof, as are
+20 necessary for a landowner to conduct the inspection specified in
+21 subsection A of this section. The records shall be made available
+22 within the confines of this state and in a location and manner that
+23 affords a landowner reasonable access to the records during normal
+24 business hours. The landowner shall be permitted one request per
+Req. No. 16847 Page 22
+
+1 cale ndar year and be afforded a reasonable length of time to
+2 complete the inspection but shall not cause undue disruption to the
+3 operations of the owner during the inspection. The records shall be
+4 subject to the confidentiality requirements contained in the
+5 respective landowner lease agreement.
+6 SECTION 15. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 809.5 of Title 17, unless there
+8 is created a duplication in numbering, reads as follows:
+9 A. The owner of any solar energy facility shall report to the
+10 Oklahoma Corporation Commission the electrical energy generated by
+11 the solar energy facility, the nameplate capacity of the solar
+12 energy facility, and the location of the solar energy facility.
+13 B. If a solar energy facility contains generating units with
+14 different nameplate capacities, the information required in
+15 subsection A of this section shall be reported separately for each
+16 nameplate capacity.
+17 C. The information required by this section shall be reported
+18 on an annual basis, with the information due not later than March 1
+19 of each calendar year.
+20 SECTION 16. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 809.6 of Title 17, unless there
+22 is created a duplication in numbering, reads as follows:
+23
+24
+Req. No. 16847 Page 23
+
+1 A. Prior to commencing construction of a solar energy facility,
+2 the owner of the solar energy facility shall obtain and keep in
+3 effect either:
+4 1. A commercial general liability insurance policy with
+5 coverage limits consistent with prevailing industry standards; or
+6 2. A combination of self-insurance and excess liability
+7 insurance.
+8 B. The owner shall cause the owner of the land on which the
+9 solar energy facility is located to be named as an additional
+10 insured under the policy.
+11 C. The owner shall deliver to the landowner a certificate of
+12 insurance evidencing the policy. The landowner shall be given not
+13 less than thirty (30) days prior written notice of any material
+14 modification, cancellation, or termination of the insurance policy.
+15 SECTION 17. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 809.7 of Title 17, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. The owner of a solar energy facility shall submit a
+19 notification of intent to build a facility to the Oklahoma
+20 Corporation Commission at least six (6) months before the
+21 commencement of construction, as defined in Section 12 of this act.
+22 The Corporation Commission shall prescribe the form and submittal
+23 requirements of the notification; provided, the information required
+24 on the notification form shall include a description of the
+Req. No. 16847 Page 24
+
+1 faci lity, the nameplate capacity, the general location of the
+2 facility, and a map of the project boundary.
+3 The owner of the solar energy facility shall send copies of the
+4 notification to the board of county commissioners of every county in
+5 which all or a portion of the solar energy facility is to be located
+6 within twenty-four (24) hours of filing said notification with the
+7 Corporation Commission. If all or a portion of the solar energy
+8 facility is to be located within the incorporated area of a
+9 municipality, a copy of the notification shall also be sent to the
+10 governing body of the municipality within twenty-four (24) hours of
+11 filing said notification with the Corporation Commission.
+12 B. Within six (6) months of submitting the notification to the
+13 Corporation Commission as provided for in subsection A of this
+14 section, the owner of the solar energy facility shall cause a copy
+15 of the notification to be published in a newspaper of general
+16 circulation in the county or counties in which all or a portion of
+17 the solar energy facility is to be located. Proof of publication
+18 shall be submitted to the Corporation Commission.
+19 C. Within six (6) months of submitting the notification to the
+20 Corporation Commission as provided in subsection A of this section,
+21 the owner of the solar energy facility shall cause a copy of the
+22 notification to be sent, by certified mail, to:
+23 1. Any operator, as reflected in the records of the Corporation
+24 Commission, conducting oil and gas operations upon all or any part
+Req. No. 16847 Page 25
+
+1 of t he surface estate on which the solar energy developer intends to
+2 construct the solar energy facility;
+3 2. Any operator, as reflected in the records of the Corporation
+4 Commission, of an unspaced unit or a unit created by order of the
+5 Corporation Commission, conducting oil and gas operations for a unit
+6 where all or any part of the unit area is within the geographical
+7 boundaries of the surface estate on which the solar energy developer
+8 intends to construct the solar energy facility; and
+9 3. All lessees of oil and gas leases covering the mineral
+10 estate underlying any part of the tracts of land that are filed of
+11 record with the county clerk in the county where the tracts are
+12 located and whose primary term has not expired. This paragraph
+13 shall apply to tracts of land not described in paragraphs 1 and 2 of
+14 this subsection on which the solar energy developer intends to
+15 construct a solar energy facility;
+16 4. Any working interest owner of a unit created by order of the
+17 Corporation Commission, as identified and provided by the operator
+18 of the unit, to the owner of the solar energy facility, within
+19 thirty (30) days of request, where all or any part of the unit area
+20 is within the geographical boundaries of the surface estate on which
+21 the solar energy developer intends to construct the solar energy
+22 facility; and
+23 5. Any operator of a well permitted by the Corporation
+24 Commission for injection or disposal purposes, as reflected in the
+Req. No. 16847 Page 26
+
+1 reco rds of the Corporation Commission, where such well is located
+2 within the geographical boundaries of the surface estate on which
+3 the solar energy developer intends to construct the solar energy
+4 facility.
+5 If the solar energy developer makes a search with reasonable
+6 diligence and the whereabouts of a party entitled to notice cannot
+7 be ascertained or the notice cannot be delivered, an affidavit
+8 attesting to such diligent search shall be submitted to the
+9 Corporation Commission.
+10 D. Within sixty (60) days of publication of the notification in
+11 a newspaper of general circulation as provided for in subsection B
+12 of this section, the owner of the solar energy facility shall hold a
+13 public meeting. Notice of the public meeting shall be published in
+14 a newspaper of general circulation and submitted to the board of
+15 county commissioners in the county or counties in which all or a
+16 portion of the solar energy facility is to be located. The notice
+17 shall contain the place, date, and time of the public meeting.
+18 Proof of publication of the notice shall be submitted to the
+19 Corporation Commission. The public meeting shall be held in the
+20 county or in one of the counties in which all or a portion of the
+21 solar energy facility is to be located.
+22 E. With regard to the surface estate upon which the owner of a
+23 solar energy facility intends to construct the facility, at least
+24 sixty (60) days before entering upon the surface estate for the
+Req. No. 16847 Page 27
+
+1 purp ose of commencement of construction, the owner shall provide
+2 written notice, by certified mail, of its intent to construct the
+3 solar energy facility to the parties described in subsection C of
+4 this section.
+5 The notice shall contain a map or plat of the proposed location,
+6 with sufficient specificity to identify the elements of the solar
+7 energy facility to be located on the governmental section and the
+8 approximate date construction is proposed to commence. If the solar
+9 energy developer makes a search with reasonable diligence and the
+10 whereabouts of a party entitled to notice cannot be ascertained or
+11 the notice cannot be delivered, an affidavit attesting to such
+12 diligent search shall be submitted to the Corporation Commission.
+13 Within thirty (30) days of receiving such notice, any party
+14 described in subsection C of this section shall reciprocate, in
+15 writing by certified mail, the relevant site, operational, and
+16 infrastructure information sufficient to assist with the safe
+17 construction and operation of the solar energy facility. This
+18 information shall include American Land Title Association surveys,
+19 if available, and technical specifications for existing subsurface
+20 or surface improvements.
+21 Any information provided by an oil and gas operator or solar
+22 energy developer pursuant to this subsection shall be confidential
+23 and proprietary. The parties shall:
+24
+Req. No. 16847 Page 28
+
+1 1. Use such information solely for the purposes of this
+2 section;
+3 2. Not disclose such information to any third party without the
+4 prior written consent of the disclosing party, except as required by
+5 law or order of a court of competent jurisdiction or the Corporation
+6 Commission; and
+7 3. Upon written request of the disclosing party, return or
+8 destroy all such information and certify the same in writing.
+9 The confidentiality obligations of this subsection shall not be
+10 limited by or contingent upon the terms of any landowner lease
+11 agreement or surface use agreement. Violation of this provision
+12 shall constitute grounds for the Corporation Commission to suspend
+13 or revoke a permit issued under this act, in addition to any other
+14 remedies available at law or in equity.
+15 F. The owner of a solar energy facility shall not commence
+16 construction on the facility until the notification and public
+17 meeting requirements of this section have been satisfied. Upon the
+18 commencement of the sixty-day notice required under subsection E of
+19 this section, the owner shall notify the Corporation Commission that
+20 such notice has commenced and shall include an affirmation that all
+21 other notices and notifications required by this section have been
+22 properly provided.
+23 If an owner of a solar energy facility fails to submit any
+24 information required by this section, the owner shall be subject to
+Req. No. 16847 Page 29
+
+1 an a dministrative penalty not to exceed One Thousand Five Hundred
+2 Dollars ($1,500.00) per day, per violation, as provided by law.
+3 G. The provisions of this section shall only apply to
+4 facilities that commence construction after May 1, 2027, and shall
+5 not apply to any facilities that commenced construction before that
+6 date, including any subsequent maintenance, repairs, modifications,
+7 or other work on existing facilities.
+8 SECTION 18. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 809.8 of Title 17, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. When applicable, a solar energy developer shall submit site
+12 plans and fees for any new solar energy facility to the Office of
+13 the Oklahoma State Fire Marshal for review. Such site plans shall
+14 be submitted when the solar energy facility is sixty percent (60%)
+15 complete in design development. The site plans shall include an
+16 accurate representation of:
+17 1. Photovoltaic modules;
+18 2. Inverters;
+19 3. Monitoring and control equipment;
+20 4. Substations;
+21 5. Collection lines;
+22 6. Access roads;
+23 7. Temporary construction areas;
+24 8. Operation and maintenance facilities; and
+Req. No. 16847 Page 30
+
+1 9. Other relevant supporting infrastructure.
+2 B. Review by the Office of the Oklahoma State Fire Marshal
+3 shall be limited to compliance with applicable fire and building
+4 safety codes, including:
+5 1. The Oklahoma-adopted International Building Code, as
+6 codified at OAC 748:20-2-1; and
+7 2. The 2018 Edition of the International Fire Code, as codified
+8 at OAC 748:20-4-1.
+9 C. The Office of the Oklahoma State Fire Marshal shall complete
+10 its review as soon as practicable, but in no event not later than
+11 thirty (30) calendar days following receipt of complete site plans
+12 and fees. In the event the Office of the Oklahoma State Fire
+13 Marshal does not complete its review within thirty (30) calendar
+14 days, any applicable permits and certificates shall be deemed
+15 issued.
+16 D. During the pendency of the review by the Office of the
+17 Oklahoma State Fire Marshal, the following on-site activities may
+18 proceed:
+19 1. Timbering, clearing, and grubbing vegetation;
+20 2. Civil grading and earthwork;
+21 3. Installation of stormwater pollution prevention measures and
+22 best management practices;
+23 4. Installation of laydown areas and substation concrete
+24 foundation pads, including rough grading and gravel;
+Req. No. 16847 Page 31
+
+1 5. Installation of racking systems, inverters, photovoltaic
+2 modules, low-voltage collection systems, and above-ground
+3 transmission poles;
+4 6. Public road improvements, entrance installations, and
+5 service road construction;
+6 7. Placement of construction trailers with temporary power,
+7 fiber connections, and portable sanitation facilities;
+8 8. Sub-grade open trenching;
+9 9. Installation of on-grade concrete foundations; and
+10 10. Installation of structural columns and beams.
+11 E. The Office of the Oklahoma State Fire Marshal may assess a
+12 plan review fee at a rate of six cents ($0.06) per square foot of
+13 actual erected solar facilities, provided that the total fee shall
+14 not exceed Five Hundred Thousand Dollars ($500,000.00) for any
+15 single solar energy facility. The amount of such fee shall have a
+16 reasonable connection to the work actually performed by the Office
+17 of the Oklahoma State Fire Marshal.
+18 F. Of the fees collected pursuant to this section:
+19 1. Seventy-five percent (75%) shall be distributed to the local
+20 fire department providing primary fire protection services to the
+21 jurisdiction where the facility is located, within sixty (60) days
+22 of receipt. Funds distributed pursuant to this paragraph shall be
+23 used solely for fire protection, fire prevention, inspections,
+24
+Req. No. 16847 Page 32
+
+1 trai ning, or emergency response activities related to the facility;
+2 and
+3 2. Twenty-five percent (25%) may be retained by the Office of
+4 the Oklahoma State Fire Marshal for regulatory purposes.
+5 G. If the Office of the Oklahoma State Fire Marshal delegates
+6 any site plan review, permitting, or similar authority over a solar
+7 energy facility to a recognized local authority having jurisdiction,
+8 fees and timing shall continue to conform to subsections C and E of
+9 this section.
+10 H. The provisions of this section shall apply to solar energy
+11 facilities designed to provide electricity to the grid, as well as
+12 any utility-scale solar energy facility designed to deliver
+13 electricity directly from a generating facility to a single end-use
+14 customer.
+15 SECTION 19. NEW LAW A new section of law to be codified
+16 in the Oklahoma Statutes as Section 809.9 of Title 17, unless there
+17 is created a duplication in numbering, reads as follows:
+18 A. In addition to complying with the provisions of this act, the
+19 owner of a solar energy facility shall comply with the provisions of
+20 the Commercial Solar Facility Decommissioning Act in accordance with
+21 Section 820 et seq. of Title 17 of the Oklahoma Statutes.
+22 B. An owner shall submit evidence of financial assurance
+23 sufficient to secure the performance of its decommissioning
+24 obligations in accordance with the Commercial Solar Facility
+Req. No. 16847 Page 33
+
+1 Deco mmissioning Act on or before the tenth year of operation of the
+2 facility and thereafter upon request by the Commission, but at least
+3 once every five (5) years for the life of the solar energy facility.
+4 The amount of such financial assurance shall be calculated in
+5 accordance with the Commercial Solar Facility Decommissioning Act,
+6 but shall not be less than one hundred twenty-five percent (125%) of
+7 the estimate of the total cost of decommissioning, less the salvage
+8 value of facility equipment and any portion of the value of such
+9 equipment pledged to secure outstanding debt.
+10 SECTION 20. NEW LAW A new section of law to be codified
+11 in the Oklahoma Statutes as Section 809.10 of Title 17, unless there
+12 is created a duplication in numbering, reads as follows:
+13 The Oklahoma Corporation Commission shall have authority to
+14 promulgate rules as necessary to implement the provisions of the
+15 Oklahoma Solar Energy Development Act and to set fees necessary to
+16 perform the duties and responsibilities of the Commission pursuant
+17 to the act. The Oklahoma Corporation Commission shall have
+18 exclusive jurisdiction to enforce the provisions of this act that
+19 are within its authority.
+20 SECTION 21. This act shall become effective November 1, 2026.
+21
+22 60-2-16847 JBH 03/03/26
+23
+24
+Req. No. 16847 Page 34
+
+[DELETED: 3 AS C           O S L           ]
+[DELETED:  P B   a P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P l]
+[DELETED:  P o]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P c e]
+[DELETED:  P c e]
+[DELETED:  P e t]
+[DELETED:  P]
+[DELETED:  P o a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P J 0]
