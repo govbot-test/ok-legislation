@@ -1,0 +1,818 @@
+Title: 3 SENATE BILL NO. 1433 By: Bergstrom and Jett of the
+Official Title: 3 SENATE BILL NO. 1433 By: Bergstrom and Jett of the
+Number of Sections: 1
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+1 SENATE FLOOR VERSION
+February 19, 2026
+2
+Senate
+4
+and
+5
+Hall of the House
+6
+7
+8 An Act relating to the Administrative Procedures Act;
+creating the Guidance Transparency Act; providing
+9 short title; amending 75 O.S. 2021, Section 250.3, as
+last amended by Section 5, Chapter 258, O.S.L. 2025
+10 (75 O.S. Supp. 2025, Section 250.3), which relates to
+defined terms under the Administrative Procedures
+11 Act; defining term; conforming language; amending 75
+O.S. 2021, Section 250.4a, which relates to certain
+12 exemption under the Administrative Procedures Act;
+requiring certain agencies to make guidance documents
+13 available for public inspection; amending 75 O.S.
+2021, Section 250.9, as amended by Section 1, Chapter
+14 7, O.S.L. 2024 (75 O.S. Supp. 2025, Section 250.9),
+which relates to creation of the Office of
+15 Administrative Rules; requiring certain agencies to
+electronically submit certain guidance documents on
+16 certain basis; requiring publication of documents in
+certain form; requiring documents to include certain
+17 information; amending 75 O.S. 2021, Section 302,
+which relates to duties of rulemaking agencies;
+18 requiring agencies to make all guidance documents
+available for public inspection; updating statutory
+19 language; providing for noncodification; and
+providing an effective date.
+20
+21
+22 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23 SECTION 1. NEW LAW A new section of law not to be
+24 codified in the Oklahoma Statutes reads as follows:
+SENATE FLOOR VERSION - SB1433 SFLR Page 1
+(Bold face denotes Committee Amendments)
+1 This act shall be known and may be cited as the “Guidance
+2 Transparency Act”.
+3 SECTION 2. AMENDATORY 75 O.S. 2021, Section 250.3, as
+4 last amended by Section 5, Chapter 258, O.S.L. 2025 (75 O.S. Supp.
+5 2025, Section 250.3), is amended to read as follows:
+6 Section 250.3. As used in the Administrative Procedures Act:
+7 1. “Administrative head” means an official or agency body
+8 responsible pursuant to law for issuing final agency orders;
+9 2. “Adopted” means a proposed emergency rule which has been
+10 approved by the agency but has not been approved or disapproved by
+11 the Governor as an emergency rule as provided by Section 253 of this
+12 title, or a proposed permanent rule which has been approved by the
+13 agency and not disapproved by the Governor pursuant to paragraph 6
+14 of subsection A of Section 303 of this title, but has not been
+15 finally approved or disapproved by the Legislature or the Governor;
+16 3. “Agency” includes, but is not limited to, any
+17 constitutionally or statutorily created state agency, board, bureau,
+18 commission, office, authority, institution, public trust in which
+19 the state is a beneficiary, interstate commission, or any
+20 instrumentality thereof, except:
+21 a. the Legislature or any branch, committee, or officer
+22 thereof, and
+23 b. the courts;
+24
+SENATE FLOOR VERSION - SB1433 SFLR Page 2
+(Bold face denotes Committee Amendments)
+1 4. “Emergency rule” means a rule that is made pursuant to
+2 Section 253 of this title;
+3 5. “Final rule” or “finally adopted rule” means a rule other
+4 than an emergency rule, which has not been published pursuant to
+5 Section 255 of this title but is otherwise in compliance with the
+6 requirements of the Administrative Procedures Act, and is:
+7 a. approved by the Legislature pursuant to Section 308.3
+8 of this title, provided that any such joint resolution
+9 becomes law in accordance with Section 11 of Article
+10 VI of the Oklahoma Constitution,
+11 b. approved by the Governor pursuant to subsection C of
+12 Section 308.3 of this title,
+13 c. approved by a joint resolution pursuant to subsection
+14 B of Section 308 of this title, provided that any such
+15 resolution becomes law in accordance with Section 11
+16 of Article VI of the Oklahoma Constitution, or
+17 d. b. disapproved by a joint resolution pursuant to
+18 subsection B of Section 308 of this title or Section
+19 308.3 of this title, which has been vetoed by the
+20 Governor in accordance with Section 11 of Article VI
+21 of the Oklahoma Constitution and the veto has not been
+22 overridden;
+23 6. “Final agency order” means an order that includes findings
+24 of fact and conclusions of law pursuant to Section 312 of this
+SENATE FLOOR VERSION - SB1433 SFLR Page 3
+(Bold face denotes Committee Amendments)
+1 titl e, is dispositive of an individual proceeding unless there is a
+2 request for rehearing, reopening, or reconsideration pursuant to
+3 Section 317 of this title, and which is subject to judicial review;
+4 7. “Guidance document” means:
+5 a. (1) an agency statement of general applicability that
+6 is not a major rule or a nonmajor rule and is
+7 designated by an agency official or employee as
+8 setting forth an authoritative or official policy
+9 or interpretation on a statutory, regulatory, or
+10 technical issue. A guidance document may
+11 include, but not be limited to, a memorandum,
+12 notice, bulletin, directive, letter, or no-action
+13 letter, or
+14 (2) a federal agency statement of general
+15 applicability that is designated by an agency
+16 official or employee as setting forth an
+17 authoritative or official policy or
+18 interpretation on a statutory, regulatory, or
+19 technical issue. A guidance document may
+20 include, but is not limited to, a memorandum,
+21 notice, bulletin, directive, letter, or no-action
+22 letter.
+23 b. The term guidance document shall be construed broadly
+24 to effectuate the purpose and intent of the
+SENATE FLOOR VERSION - SB1433 SFLR Page 4
+(Bold face denotes Committee Amendments)
+1 Administrative Procedures Act and includes any
+2 authoritative or official statement or position
+3 whether designated by the agency as binding or
+4 nonbinding but shall not include:
+5 (1) correspondence related to agency organization,
+6 procedure, or practice,
+7 (2) agency adjudications decided under state or
+8 federal law,
+9 (3) internal agency correspondence not intended to
+10 have a substantial future effect on the behavior
+11 of regulated parties, or
+12 (4) internal executive branch legal advice or legal
+13 opinions addressed to executive branch officials;
+14 8. “Hearing examiner” means a person meeting the qualifications
+15 specified by Article II of the Administrative Procedures Act and who
+16 has been duly appointed by an agency to hold hearings and, as
+17 required, render orders or proposed orders;
+18 8. 9. “Implementation and compliance costs” means direct costs
+19 that are readily ascertainable based upon standard business
+20 practices, including, but not limited to, fees, the cost to obtain a
+21 license or registration, the cost of equipment required to be
+22 installed or used, additional operating costs incurred, the cost of
+23 monitoring and reporting, and any other costs to comply with the
+24 requirements of the proposed rule;
+SENATE FLOOR VERSION - SB1433 SFLR Page 5
+(Bold face denotes Committee Amendments)
+1 9. 10. “Individual proceeding” means the formal process
+2 employed by an agency having jurisdiction by law to resolve issues
+3 of law or fact between parties and which results in the exercise of
+4 discretion of a judicial nature;
+5 10. 11. “License” includes the whole or part of any agency
+6 permit, certificate, approval, registration, charter, or similar
+7 form of permission required by law;
+8 11. 12. “Major rule” means any administrative rule, whether
+9 emergency or permanent in nature, that will result in or is likely
+10 to result in One Million Dollars ($1,000,000.00) or more over the
+11 initial five-year period in implementation and compliance costs that
+12 are reasonably expected to be incurred by or passed along to
+13 businesses, state or local government units, and individuals as a
+14 result of the proposed rule following the promulgation of such rule;
+15 12. 13. “Nonmajor rule” means any rule that is not a major
+16 rule;
+17 13. 14. “Office” means the Office of the Secretary of State;
+18 14. 15. “Order” means all or part of a formal or official
+19 decision made by an agency including, but not limited to, final
+20 agency orders;
+21 15. 16. “Party” means a person or agency named and
+22 participating, or properly seeking and entitled by law to
+23 participate, in an individual proceeding;
+24
+SENATE FLOOR VERSION - SB1433 SFLR Page 6
+(Bold face denotes Committee Amendments)
+1 16. 17. “Permanent rule” means a rule that is made pursuant to
+2 Section 303 of this title;
+3 17. 18. “Person” means any individual, partnership,
+4 corporation, association, governmental subdivision, or public or
+5 private organization of any character other than an agency;
+6 18. 19. “Political subdivision” means a county, city,
+7 incorporated town, or school district within this state;
+8 19. 20. “Promulgated” means a finally adopted rule which has
+9 been filed and published in accordance with the provisions of the
+10 Administrative Procedures Act, or an emergency rule or preemptive
+11 rule which has been approved by the Governor;
+12 20. 21. “Rule” means any agency statement or group of related
+13 statements of general applicability and future effect that
+14 implements, interprets, or prescribes law or policy, or describes
+15 the procedure or practice requirements of the agency. The term rule
+16 includes the amendment or revocation of an effective rule but does
+17 not include:
+18 a. the issuance, renewal, denial, suspension or
+19 revocation or other sanction of an individual specific
+20 license,
+21 b. the approval, disapproval, or prescription of rates.
+22 For purposes of this subparagraph, the term “rates”
+23 shall not include fees or charges fixed by an agency
+24 for services provided by that agency including, but
+SENATE FLOOR VERSION - SB1433 SFLR Page 7
+(Bold face denotes Committee Amendments)
+1 not limited to, fees charged for licensing,
+2 permitting, inspections, or publications,
+3 c. statements and memoranda concerning only the internal
+4 management of an agency and not affecting private
+5 rights or procedures available to the public,
+6 d. declaratory rulings issued pursuant to Section 307 of
+7 this title,
+8 e. orders by an agency, or
+9 f. press releases or “agency news releases”, provided
+10 such releases are not for the purpose of interpreting,
+11 implementing, or prescribing law or agency policy;
+12 21. 22. “Rulemaking” means the process employed by an agency
+13 for the formulation of a rule;
+14 22. 23. “Secretary” means the Secretary of State; and
+15 23. 24. “Small business” means a for-profit enterprise
+16 consisting of fifty or fewer full-time or part-time employees; and
+17 24. “Technical legal defect” means an error that would
+18 otherwise invalidate an action by a court of law.
+19 SECTION 3. AMENDATORY 75 O.S. 2021, Section 250.4a, is
+20 amended to read as follows:
+21 Section 250.4a. Any agency exempt from all or part of the
+22 Administrative Procedures Act pursuant to subsection A of Section
+23 250.4 of this title shall maintain and make available for public
+24 inspection its exempt rules and all guidance documents at its
+SENATE FLOOR VERSION - SB1433 SFLR Page 8
+(Bold face denotes Committee Amendments)
+1 prin cipal place of business and on any website associated with the
+2 agency.
+3 SECTION 4. AMENDATORY 75 O.S. 2021, Section 250.9, as
+4 amended by Section 1, Chapter 7, O.S.L. 2024 (75 O.S. Supp. 2025,
+5 Section 250.9), is amended to read as follows:
+6 Section 250.9. A. There is hereby established an Office of
+7 Administrative Rules within the Office of the Secretary of State.
+8 The Office of Administrative Rules shall have the primary
+9 responsibility for publishing “The Oklahoma Register” and the
+10 “Oklahoma Administrative Code” and otherwise implementing the
+11 provisions of Article I of the Administrative Procedures Act. The
+12 Secretary of State shall provide for the adequate staffing of the
+13 Office to implement the provisions of this section including but not
+14 limited to an editor in chief.
+15 B. The Secretary shall cause to be published in electronic
+16 form, and may cause to be published in printed form, at the least
+17 cost possible to the state, the “Oklahoma Administrative Code” and
+18 “The Oklahoma Register”. In the event of any discrepancy between
+19 the electronic and printed form of the Code or “The Oklahoma
+20 Register”, the electronic form shall prevail unless it is
+21 conclusively shown, by reference to the rulemaking filings made with
+22 the Secretary, that the electronic form contains an error in
+23 publication.
+24
+SENATE FLOOR VERSION - SB1433 SFLR Page 9
+(Bold face denotes Committee Amendments)
+1 C. Each agency subject to the provisions of Article I and
+2 Article II of the Administrative Procedures Act shall electronically
+3 submit all guidance documents to the Secretary on a quarterly basis.
+4 The Secretary shall publish the guidance documents in an electronic,
+5 indexed, searchable form. The published guidance documents shall
+6 include the following:
+7 1. A notification that the guidance documents lack the full
+8 force and effect of law, except as authorized by law or as
+9 incorporated into a contract or binding legal decision; and
+10 2. Information regarding amendments to or rescission of
+11 guidance documents by an agency or federal agency. An original
+12 guidance document shall remain on the website for the Office of
+13 Administrative Rules, and within fifteen days of an amendment or
+14 rescission, the agency shall submit to the Secretary a notice that
+15 the document has been amended or rescinded, the date of such action,
+16 the reason for the amendment or rescission, and any amended guidance
+17 document. The notice shall be published within fifteen (15) days of
+18 receipt by the Secretary.
+19 SECTION 5. AMENDATORY 75 O.S. 2021, Section 302, is
+20 amended to read as follows:
+21 Section 302. A. In addition to other rulemaking requirements
+22 imposed by law, each agency which has rulemaking authority, shall:
+23 1. Promulgate as a rule a description of the organization of
+24 the agency, stating the general course and method of the operations
+SENATE FLOOR VERSION - SB1433 SFLR Page 10
+(Bold face denotes Committee Amendments)
+1 of t he agency and the methods whereby the public may obtain
+2 information or make submissions or requests;
+3 2. Promulgate rules of practice setting forth the nature and
+4 requirements of all formal and informal procedures available,
+5 including a description of all forms and instructions issued by the
+6 agency for use by the public;
+7 3. Make available for public inspection all rules, all guidance
+8 documents, and all other written statements of policy or
+9 interpretations formulated, adopted, promulgated, or used by the
+10 agency in the discharge of its functions; and
+11 4. Make available for public inspection pursuant to the
+12 provisions of the Oklahoma Open Records Act all final orders,
+13 decisions, and opinions.
+14 B. 1. An agency shall maintain an official rulemaking record
+15 for each proposed rule or promulgated rule. The record and
+16 materials incorporated by reference shall be available for public
+17 inspection.
+18 2. The agency rulemaking record shall contain:
+19 a. copies of all publications in “The Oklahoma Register”
+20 with respect to the rule or the proceeding upon which
+21 the rule is based,
+22 b. copies of any portions of the agency’s public
+23 rulemaking docket containing entries relating to the
+24 rule or the proceeding upon which the rule is based,
+SENATE FLOOR VERSION - SB1433 SFLR Page 11
+(Bold face denotes Committee Amendments)
+1 c. all written petitions, requests, submissions, and
+2 comments received by the agency and all other written
+3 materials considered by the agency in connection with
+4 the formulation, proposal, or adoption of the rule or
+5 the proceeding upon which the rule is based,
+6 d. any official transcript of oral presentations made in
+7 the proceeding upon which the rule is based or, if not
+8 transcribed, any tape recording or stenographic record
+9 of those presentations, and any memorandum prepared by
+10 a presiding official summarizing the contents of those
+11 presentations,
+12 e. a copy of any regulatory analysis prepared for the
+13 proceeding upon which the rule is based,
+14 f. a copy of the rule and analysis of each such rule
+15 filed with the Office pursuant to Section 251 of this
+16 title,
+17 g. all petitions for exceptions to, amendments of, or
+18 repeal or suspension of, the rule,
+19 h. a copy of the rule impact statement, if made, and
+20 i. such other information concerning such rules as may be
+21 determined necessary by the agency.
+22 3. Upon judicial review, the record required by this section
+23 constitutes the official agency rulemaking record with respect to a
+24 rule. Except as otherwise required by a provision of law, the
+SENATE FLOOR VERSION - SB1433 SFLR Page 12
+(Bold face denotes Committee Amendments)
+1 agen cy rulemaking record need not constitute the exclusive basis for
+2 agency action on that rule or for judicial review thereof.
+3 C. 1. By December 31, 2002, each agency that issues precedent-
+4 setting orders shall maintain and index all such orders that the
+5 agency intends to rely upon as precedent. The index and the orders
+6 shall be available for public inspection and copying in the main
+7 office and each regional or district office of the agency. The
+8 orders shall be indexed by subject.
+9 2. After December 31, 2002, an order shall not be relied upon
+10 as precedent by an agency to the detriment of any person until it
+11 has been made available for public inspection and indexed in the
+12 manner described in this subsection.
+13 3. An agency shall consistently apply rules to each person
+14 subject to the jurisdiction of the agency regarding issuance of
+15 orders.
+16 D. An agency shall not by internal policy, memorandum, or other
+17 form of action not otherwise authorized by the Administrative
+18 Procedures Act:
+19 1. Amend, interpret, implement, or repeal a statute or a rule;
+20 2. Expand upon or limit a statute or a rule; and
+21 3. Except as authorized by the United States Constitution of
+22 the United States, the Oklahoma Constitution, or a statute, expand
+23 or limit a right guaranteed by the United States Constitution of the
+24 United States, the Oklahoma Constitution, a statute, or a rule.
+SENATE FLOOR VERSION - SB1433 SFLR Page 13
+(Bold face denotes Committee Amendments)
+1 E. Any agency memorandum, internal policy, or other form of
+2 action violative of this section or the spirit thereof is null,
+3 void, and unenforceable.
+4 F. This section shall not be construed to prohibit an agency
+5 issuing an opinion or administrative decision which is authorized by
+6 statute provided that, unless such opinion or administrative
+7 decision is issued pursuant to the procedures required pursuant to
+8 the Administrative Procedures Act, such decision or opinion shall
+9 not have the force and effect of law.
+10 SECTION 6. This act shall become effective November 1, 2026.
+11 COMMITTEE REPORT BY: COMMITTEE ON ADMINISTRATIVE RULES
+February 19, 2026 - DO PASS
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB1433 SFLR Page 14
+(Bold face denotes Committee Amendments)
+[DELETED: P B B  a H]
+[DELETED: P t t]
+[DELETED: P a a a]
+[DELETED: P ( a a T]
+[DELETED: P c a i i]
+[DELETED: P]
+[DELETED: P t t]
+[DELETED: P s d o p]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P c c]
+[DELETED: P a a a a a a s]
+[DELETED: P]
+[DELETED: P]
+
+
+================================================================================
+
+Raw Text:
+1 SENATE FLOOR VERSION
+February 19, 2026
+2
+3 SENATE BILL NO. 1433 By: Bergstrom and Jett of the
+Senate
+4
+and
+5
+Hall of the House
+6
+7
+8 An Act relating to the Administrative Procedures Act;
+creating the Guidance Transparency Act; providing
+9 short title; amending 75 O.S. 2021, Section 250.3, as
+last amended by Section 5, Chapter 258, O.S.L. 2025
+10 (75 O.S. Supp. 2025, Section 250.3), which relates to
+defined terms under the Administrative Procedures
+11 Act; defining term; conforming language; amending 75
+O.S. 2021, Section 250.4a, which relates to certain
+12 exemption under the Administrative Procedures Act;
+requiring certain agencies to make guidance documents
+13 available for public inspection; amending 75 O.S.
+2021, Section 250.9, as amended by Section 1, Chapter
+14 7, O.S.L. 2024 (75 O.S. Supp. 2025, Section 250.9),
+which relates to creation of the Office of
+15 Administrative Rules; requiring certain agencies to
+electronically submit certain guidance documents on
+16 certain basis; requiring publication of documents in
+certain form; requiring documents to include certain
+17 information; amending 75 O.S. 2021, Section 302,
+which relates to duties of rulemaking agencies;
+18 requiring agencies to make all guidance documents
+available for public inspection; updating statutory
+19 language; providing for noncodification; and
+providing an effective date.
+20
+21
+22 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23 SECTION 1. NEW LAW A new section of law not to be
+24 codified in the Oklahoma Statutes reads as follows:
+SENATE FLOOR VERSION - SB1433 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 This act shall be known and may be cited as the “Guidance
+2 Transparency Act”.
+3 SECTION 2. AMENDATORY 75 O.S. 2021, Section 250.3, as
+4 last amended by Section 5, Chapter 258, O.S.L. 2025 (75 O.S. Supp.
+5 2025, Section 250.3), is amended to read as follows:
+6 Section 250.3. As used in the Administrative Procedures Act:
+7 1. “Administrative head” means an official or agency body
+8 responsible pursuant to law for issuing final agency orders;
+9 2. “Adopted” means a proposed emergency rule which has been
+10 approved by the agency but has not been approved or disapproved by
+11 the Governor as an emergency rule as provided by Section 253 of this
+12 title, or a proposed permanent rule which has been approved by the
+13 agency and not disapproved by the Governor pursuant to paragraph 6
+14 of subsection A of Section 303 of this title, but has not been
+15 finally approved or disapproved by the Legislature or the Governor;
+16 3. “Agency” includes, but is not limited to, any
+17 constitutionally or statutorily created state agency, board, bureau,
+18 commission, office, authority, institution, public trust in which
+19 the state is a beneficiary, interstate commission, or any
+20 instrumentality thereof, except:
+21 a. the Legislature or any branch, committee, or officer
+22 thereof, and
+23 b. the courts;
+24
+SENATE FLOOR VERSION - SB1433 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 4. “Emergency rule” means a rule that is made pursuant to
+2 Section 253 of this title;
+3 5. “Final rule” or “finally adopted rule” means a rule other
+4 than an emergency rule, which has not been published pursuant to
+5 Section 255 of this title but is otherwise in compliance with the
+6 requirements of the Administrative Procedures Act, and is:
+7 a. approved by the Legislature pursuant to Section 308.3
+8 of this title, provided that any such joint resolution
+9 becomes law in accordance with Section 11 of Article
+10 VI of the Oklahoma Constitution,
+11 b. approved by the Governor pursuant to subsection C of
+12 Section 308.3 of this title,
+13 c. approved by a joint resolution pursuant to subsection
+14 B of Section 308 of this title, provided that any such
+15 resolution becomes law in accordance with Section 11
+16 of Article VI of the Oklahoma Constitution, or
+17 d. b. disapproved by a joint resolution pursuant to
+18 subsection B of Section 308 of this title or Section
+19 308.3 of this title, which has been vetoed by the
+20 Governor in accordance with Section 11 of Article VI
+21 of the Oklahoma Constitution and the veto has not been
+22 overridden;
+23 6. “Final agency order” means an order that includes findings
+24 of fact and conclusions of law pursuant to Section 312 of this
+SENATE FLOOR VERSION - SB1433 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 titl e, is dispositive of an individual proceeding unless there is a
+2 request for rehearing, reopening, or reconsideration pursuant to
+3 Section 317 of this title, and which is subject to judicial review;
+4 7. “Guidance document” means:
+5 a. (1) an agency statement of general applicability that
+6 is not a major rule or a nonmajor rule and is
+7 designated by an agency official or employee as
+8 setting forth an authoritative or official policy
+9 or interpretation on a statutory, regulatory, or
+10 technical issue. A guidance document may
+11 include, but not be limited to, a memorandum,
+12 notice, bulletin, directive, letter, or no-action
+13 letter, or
+14 (2) a federal agency statement of general
+15 applicability that is designated by an agency
+16 official or employee as setting forth an
+17 authoritative or official policy or
+18 interpretation on a statutory, regulatory, or
+19 technical issue. A guidance document may
+20 include, but is not limited to, a memorandum,
+21 notice, bulletin, directive, letter, or no-action
+22 letter.
+23 b. The term guidance document shall be construed broadly
+24 to effectuate the purpose and intent of the
+SENATE FLOOR VERSION - SB1433 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 Administrative Procedures Act and includes any
+2 authoritative or official statement or position
+3 whether designated by the agency as binding or
+4 nonbinding but shall not include:
+5 (1) correspondence related to agency organization,
+6 procedure, or practice,
+7 (2) agency adjudications decided under state or
+8 federal law,
+9 (3) internal agency correspondence not intended to
+10 have a substantial future effect on the behavior
+11 of regulated parties, or
+12 (4) internal executive branch legal advice or legal
+13 opinions addressed to executive branch officials;
+14 8. “Hearing examiner” means a person meeting the qualifications
+15 specified by Article II of the Administrative Procedures Act and who
+16 has been duly appointed by an agency to hold hearings and, as
+17 required, render orders or proposed orders;
+18 8. 9. “Implementation and compliance costs” means direct costs
+19 that are readily ascertainable based upon standard business
+20 practices, including, but not limited to, fees, the cost to obtain a
+21 license or registration, the cost of equipment required to be
+22 installed or used, additional operating costs incurred, the cost of
+23 monitoring and reporting, and any other costs to comply with the
+24 requirements of the proposed rule;
+SENATE FLOOR VERSION - SB1433 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 9. 10. “Individual proceeding” means the formal process
+2 employed by an agency having jurisdiction by law to resolve issues
+3 of law or fact between parties and which results in the exercise of
+4 discretion of a judicial nature;
+5 10. 11. “License” includes the whole or part of any agency
+6 permit, certificate, approval, registration, charter, or similar
+7 form of permission required by law;
+8 11. 12. “Major rule” means any administrative rule, whether
+9 emergency or permanent in nature, that will result in or is likely
+10 to result in One Million Dollars ($1,000,000.00) or more over the
+11 initial five-year period in implementation and compliance costs that
+12 are reasonably expected to be incurred by or passed along to
+13 businesses, state or local government units, and individuals as a
+14 result of the proposed rule following the promulgation of such rule;
+15 12. 13. “Nonmajor rule” means any rule that is not a major
+16 rule;
+17 13. 14. “Office” means the Office of the Secretary of State;
+18 14. 15. “Order” means all or part of a formal or official
+19 decision made by an agency including, but not limited to, final
+20 agency orders;
+21 15. 16. “Party” means a person or agency named and
+22 participating, or properly seeking and entitled by law to
+23 participate, in an individual proceeding;
+24
+SENATE FLOOR VERSION - SB1433 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 16. 17. “Permanent rule” means a rule that is made pursuant to
+2 Section 303 of this title;
+3 17. 18. “Person” means any individual, partnership,
+4 corporation, association, governmental subdivision, or public or
+5 private organization of any character other than an agency;
+6 18. 19. “Political subdivision” means a county, city,
+7 incorporated town, or school district within this state;
+8 19. 20. “Promulgated” means a finally adopted rule which has
+9 been filed and published in accordance with the provisions of the
+10 Administrative Procedures Act, or an emergency rule or preemptive
+11 rule which has been approved by the Governor;
+12 20. 21. “Rule” means any agency statement or group of related
+13 statements of general applicability and future effect that
+14 implements, interprets, or prescribes law or policy, or describes
+15 the procedure or practice requirements of the agency. The term rule
+16 includes the amendment or revocation of an effective rule but does
+17 not include:
+18 a. the issuance, renewal, denial, suspension or
+19 revocation or other sanction of an individual specific
+20 license,
+21 b. the approval, disapproval, or prescription of rates.
+22 For purposes of this subparagraph, the term “rates”
+23 shall not include fees or charges fixed by an agency
+24 for services provided by that agency including, but
+SENATE FLOOR VERSION - SB1433 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 not limited to, fees charged for licensing,
+2 permitting, inspections, or publications,
+3 c. statements and memoranda concerning only the internal
+4 management of an agency and not affecting private
+5 rights or procedures available to the public,
+6 d. declaratory rulings issued pursuant to Section 307 of
+7 this title,
+8 e. orders by an agency, or
+9 f. press releases or “agency news releases”, provided
+10 such releases are not for the purpose of interpreting,
+11 implementing, or prescribing law or agency policy;
+12 21. 22. “Rulemaking” means the process employed by an agency
+13 for the formulation of a rule;
+14 22. 23. “Secretary” means the Secretary of State; and
+15 23. 24. “Small business” means a for-profit enterprise
+16 consisting of fifty or fewer full-time or part-time employees; and
+17 24. “Technical legal defect” means an error that would
+18 otherwise invalidate an action by a court of law.
+19 SECTION 3. AMENDATORY 75 O.S. 2021, Section 250.4a, is
+20 amended to read as follows:
+21 Section 250.4a. Any agency exempt from all or part of the
+22 Administrative Procedures Act pursuant to subsection A of Section
+23 250.4 of this title shall maintain and make available for public
+24 inspection its exempt rules and all guidance documents at its
+SENATE FLOOR VERSION - SB1433 SFLR Page 8
+(Bold face denotes Committee Amendments)
+
+1 prin cipal place of business and on any website associated with the
+2 agency.
+3 SECTION 4. AMENDATORY 75 O.S. 2021, Section 250.9, as
+4 amended by Section 1, Chapter 7, O.S.L. 2024 (75 O.S. Supp. 2025,
+5 Section 250.9), is amended to read as follows:
+6 Section 250.9. A. There is hereby established an Office of
+7 Administrative Rules within the Office of the Secretary of State.
+8 The Office of Administrative Rules shall have the primary
+9 responsibility for publishing “The Oklahoma Register” and the
+10 “Oklahoma Administrative Code” and otherwise implementing the
+11 provisions of Article I of the Administrative Procedures Act. The
+12 Secretary of State shall provide for the adequate staffing of the
+13 Office to implement the provisions of this section including but not
+14 limited to an editor in chief.
+15 B. The Secretary shall cause to be published in electronic
+16 form, and may cause to be published in printed form, at the least
+17 cost possible to the state, the “Oklahoma Administrative Code” and
+18 “The Oklahoma Register”. In the event of any discrepancy between
+19 the electronic and printed form of the Code or “The Oklahoma
+20 Register”, the electronic form shall prevail unless it is
+21 conclusively shown, by reference to the rulemaking filings made with
+22 the Secretary, that the electronic form contains an error in
+23 publication.
+24
+SENATE FLOOR VERSION - SB1433 SFLR Page 9
+(Bold face denotes Committee Amendments)
+
+1 C. Each agency subject to the provisions of Article I and
+2 Article II of the Administrative Procedures Act shall electronically
+3 submit all guidance documents to the Secretary on a quarterly basis.
+4 The Secretary shall publish the guidance documents in an electronic,
+5 indexed, searchable form. The published guidance documents shall
+6 include the following:
+7 1. A notification that the guidance documents lack the full
+8 force and effect of law, except as authorized by law or as
+9 incorporated into a contract or binding legal decision; and
+10 2. Information regarding amendments to or rescission of
+11 guidance documents by an agency or federal agency. An original
+12 guidance document shall remain on the website for the Office of
+13 Administrative Rules, and within fifteen days of an amendment or
+14 rescission, the agency shall submit to the Secretary a notice that
+15 the document has been amended or rescinded, the date of such action,
+16 the reason for the amendment or rescission, and any amended guidance
+17 document. The notice shall be published within fifteen (15) days of
+18 receipt by the Secretary.
+19 SECTION 5. AMENDATORY 75 O.S. 2021, Section 302, is
+20 amended to read as follows:
+21 Section 302. A. In addition to other rulemaking requirements
+22 imposed by law, each agency which has rulemaking authority, shall:
+23 1. Promulgate as a rule a description of the organization of
+24 the agency, stating the general course and method of the operations
+SENATE FLOOR VERSION - SB1433 SFLR Page 10
+(Bold face denotes Committee Amendments)
+
+1 of t he agency and the methods whereby the public may obtain
+2 information or make submissions or requests;
+3 2. Promulgate rules of practice setting forth the nature and
+4 requirements of all formal and informal procedures available,
+5 including a description of all forms and instructions issued by the
+6 agency for use by the public;
+7 3. Make available for public inspection all rules, all guidance
+8 documents, and all other written statements of policy or
+9 interpretations formulated, adopted, promulgated, or used by the
+10 agency in the discharge of its functions; and
+11 4. Make available for public inspection pursuant to the
+12 provisions of the Oklahoma Open Records Act all final orders,
+13 decisions, and opinions.
+14 B. 1. An agency shall maintain an official rulemaking record
+15 for each proposed rule or promulgated rule. The record and
+16 materials incorporated by reference shall be available for public
+17 inspection.
+18 2. The agency rulemaking record shall contain:
+19 a. copies of all publications in “The Oklahoma Register”
+20 with respect to the rule or the proceeding upon which
+21 the rule is based,
+22 b. copies of any portions of the agency’s public
+23 rulemaking docket containing entries relating to the
+24 rule or the proceeding upon which the rule is based,
+SENATE FLOOR VERSION - SB1433 SFLR Page 11
+(Bold face denotes Committee Amendments)
+
+1 c. all written petitions, requests, submissions, and
+2 comments received by the agency and all other written
+3 materials considered by the agency in connection with
+4 the formulation, proposal, or adoption of the rule or
+5 the proceeding upon which the rule is based,
+6 d. any official transcript of oral presentations made in
+7 the proceeding upon which the rule is based or, if not
+8 transcribed, any tape recording or stenographic record
+9 of those presentations, and any memorandum prepared by
+10 a presiding official summarizing the contents of those
+11 presentations,
+12 e. a copy of any regulatory analysis prepared for the
+13 proceeding upon which the rule is based,
+14 f. a copy of the rule and analysis of each such rule
+15 filed with the Office pursuant to Section 251 of this
+16 title,
+17 g. all petitions for exceptions to, amendments of, or
+18 repeal or suspension of, the rule,
+19 h. a copy of the rule impact statement, if made, and
+20 i. such other information concerning such rules as may be
+21 determined necessary by the agency.
+22 3. Upon judicial review, the record required by this section
+23 constitutes the official agency rulemaking record with respect to a
+24 rule. Except as otherwise required by a provision of law, the
+SENATE FLOOR VERSION - SB1433 SFLR Page 12
+(Bold face denotes Committee Amendments)
+
+1 agen cy rulemaking record need not constitute the exclusive basis for
+2 agency action on that rule or for judicial review thereof.
+3 C. 1. By December 31, 2002, each agency that issues precedent-
+4 setting orders shall maintain and index all such orders that the
+5 agency intends to rely upon as precedent. The index and the orders
+6 shall be available for public inspection and copying in the main
+7 office and each regional or district office of the agency. The
+8 orders shall be indexed by subject.
+9 2. After December 31, 2002, an order shall not be relied upon
+10 as precedent by an agency to the detriment of any person until it
+11 has been made available for public inspection and indexed in the
+12 manner described in this subsection.
+13 3. An agency shall consistently apply rules to each person
+14 subject to the jurisdiction of the agency regarding issuance of
+15 orders.
+16 D. An agency shall not by internal policy, memorandum, or other
+17 form of action not otherwise authorized by the Administrative
+18 Procedures Act:
+19 1. Amend, interpret, implement, or repeal a statute or a rule;
+20 2. Expand upon or limit a statute or a rule; and
+21 3. Except as authorized by the United States Constitution of
+22 the United States, the Oklahoma Constitution, or a statute, expand
+23 or limit a right guaranteed by the United States Constitution of the
+24 United States, the Oklahoma Constitution, a statute, or a rule.
+SENATE FLOOR VERSION - SB1433 SFLR Page 13
+(Bold face denotes Committee Amendments)
+
+1 E. Any agency memorandum, internal policy, or other form of
+2 action violative of this section or the spirit thereof is null,
+3 void, and unenforceable.
+4 F. This section shall not be construed to prohibit an agency
+5 issuing an opinion or administrative decision which is authorized by
+6 statute provided that, unless such opinion or administrative
+7 decision is issued pursuant to the procedures required pursuant to
+8 the Administrative Procedures Act, such decision or opinion shall
+9 not have the force and effect of law.
+10 SECTION 6. This act shall become effective November 1, 2026.
+11 COMMITTEE REPORT BY: COMMITTEE ON ADMINISTRATIVE RULES
+February 19, 2026 - DO PASS
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB1433 SFLR Page 14
+(Bold face denotes Committee Amendments)
+
+[DELETED: P B B  a H]
+[DELETED: P t t]
+[DELETED: P a a a]
+[DELETED: P ( a a T]
+[DELETED: P c a i i]
+[DELETED: P]
+[DELETED: P t t]
+[DELETED: P s d o p]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P c c]
+[DELETED: P a a a a a a s]
+[DELETED: P]
+[DELETED: P]

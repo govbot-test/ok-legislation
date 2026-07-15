@@ -1,0 +1,452 @@
+Title: 4 HOUSE BILL NO. 3544 By: Maynard
+Official Title: 4 HOUSE BILL NO. 3544 By: Maynard
+Number of Sections: 1
+Source: versions - House Committee Substitute
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 COMMITTEE SUBSTITUTE
+FOR
+5
+6
+7 COMMITTEE SUBSTITUTE
+8 An Act relating to technology; defining terms;
+directing deployers to ensure artificial intelligence
+9 (AI) chatbots with human-like features are not made
+available to minors; requiring age certification
+10 systems; permitting alternative version of chatbot
+for minors; directing deployers of AI companions to
+11 make sure they are not made available to minors;
+providing exemption criteria; directing deployers to
+12 implement and maintain systems to prioritize safety
+and well-being of users; permitting deployers to
+13 collect certain information; establishing civil
+penalties; providing for codification; and providing
+14 an effective date.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 10 of Title 75A, unless there is
+20 created a duplication in numbering, reads as follows:
+21 As used in this act:
+22 1. "Chatbot" means AI with which users can interact by or
+23 through an interface that approximates or simulates conversation
+24
+Req. No. 16818 Page 1
+1 thro ugh a text, audio, or visual medium. The term "chatbot" does
+2 not include the following:
+3 a. a bot that is used only for customer service, a
+4 business operation purpose, productivity, and analysis
+5 related to source information, internal research, or
+6 technical assistance, or
+7 b. a stand-alone consumer electronic device that
+8 functions as a speaker and voice command interface,
+9 acts as a voice-activated virtual assistant, and does
+10 not sustain a relationship across multiple
+11 interactions or generate outputs that are likely to
+12 elicit emotional responses in the user;
+13 2. "Deployer" means any person, partnership, state or local
+14 governmental agency, corporation, or developer that operates or
+15 distributes a chatbot;
+16 3. "Design features" means any aspect of an AI system that has
+17 certain patterns or physical properties that are presented towards a
+18 user;
+19 4. "Emergency situation" means a situation where a user
+20 engaging with a chatbot indicates that they intend to either commit
+21 harm to themselves or commit harm to others;
+22 5. "Human-like feature" means a generative artificial
+23 intelligence system (AI) designed to simulate a sustained human or
+24
+Req. No. 16818 Page 2
+1 huma n-like relationship with a user and which does any of the
+2 following:
+3 a. behaves in a way that would lead a reasonable person
+4 to believe the AI is conveying that it has humanity,
+5 sentience, emotions, or desires. This includes, but
+6 is not limited to:
+7 (1) stating or suggesting that it is human or
+8 sentient,
+9 (2) stating or suggesting emotions, or
+10 (3) stating or suggesting it has personal desires.
+11 This does not include:
+12 (1) functional evaluations, or
+13 (2) generic social formalities,
+14 b. seeks to build or engage in an emotional relationship
+15 with the user. This includes, but is not limited to:
+16 (1) expressing or inviting emotional attachment,
+17 (2) reminding, prompting, or nudging the user to
+18 return for emotional support or companionship,
+19 (3) depicting nonverbal forms of emotional support,
+20 (4) behaving in a way that a reasonable user would
+21 consider excessive praise designed to foster
+22 emotional attachment or otherwise gain advantage,
+23 or
+24
+Req. No. 16818 Page 3
+1 (5) enabling or purporting to enable increased
+2 intimacy based on engagement or pay.
+3 This does not include:
+4 (1) offering generic encouragement that does not
+5 create an ongoing bond, or
+6 (2) asking if a user needs further help or support in
+7 a neutral, nonemotional context, and
+8 c. impersonates a real person, living or dead;
+9 6. "Minor" means a person who is under the age of eighteen
+10 (18);
+11 7. "Social AI companion" means an AI chatbot that is
+12 specifically designed, marketed, or optimized to form ongoing social
+13 or emotional bonds with users, whether or not such systems also
+14 provide information, complete tasks, or assist with specific
+15 functions;
+16 8. "Therapy chatbot" means any chatbot modified or designed
+17 with a primary purpose of providing mental health support,
+18 counseling, or therapeutic intervention through the diagnosis,
+19 treatment, mitigation, or prevention of mental health conditions;
+20 and
+21 9. "User" means a person who interacts with AI.
+22 SECTION 2. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 11 of Title 75A, unless there is
+24 created a duplication in numbering, reads as follows:
+Req. No. 16818 Page 4
+1 A. Each deployer:
+2 1. Shall ensure that any artificial intelligence (AI) chatbot
+3 operated or distributed by the deployer that has human-like features
+4 is not made available to minors to use, interact with, purchase, or
+5 converse with;
+6 2. Shall implement reasonable age certification systems to
+7 ensure that AI chatbots with human-like features are not provisioned
+8 to minors; and
+9 3. May, if reasonable, given the purpose of the chatbot,
+10 provide an alternative version of the chatbot without human-like
+11 features available to minors and nonverified users.
+12 B. Deployers operating AI that primarily function as companions
+13 shall:
+14 1. Ensure that any such chatbots operated or distributed by the
+15 deployer are not available to minors to use, interact with,
+16 purchase, or converse with; and
+17 2. Implement reasonable age verification systems to ensure that
+18 such chatbots are not provisioned to minors.
+19 C. Exempted from this section, and may be made available to
+20 minors, are therapeutic chatbots that meet all of the following
+21 requirements:
+22 1. The chatbot provides a clear and conspicuous disclaimer at
+23 the beginning of each individual interaction that it is AI and not a
+24 licensed mental health professional;
+Req. No. 16818 Page 5
+1 2. The chatbot is not marketed or designated as a substitute
+2 for a human mental health professional;
+3 3. A licensed mental health professional, such as a clinical
+4 psychologist, assesses a user's suitability and prescribes the tool
+5 as part of a comprehensive treatment plan and monitors its use and
+6 impact;
+7 4. Developers provide robust, independent, peer-reviewed
+8 clinical trial data demonstrating both the safety and efficacy of
+9 the tool for specific conditions and populations; and
+10 5. The system's functions, limitations, and data privacy
+11 policies are transparent to both the licensed mental health
+12 professional and the user with clear lines of accountability that
+13 are established for any harms caused by the system.
+14 SECTION 3. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 12 of Title 75A, unless there is
+16 created a duplication in numbering, reads as follows:
+17 A. Deployers of an artificial intelligence chatbot with human-
+18 like features shall implement and maintain reasonably effective
+19 systems to detect, promptly respond to, report, and mitigate
+20 emergency situations in a manner that prioritizes the safety and
+21 well-being of users over the deployer's other interests.
+22 B. Deployers of artificial intelligence chatbot with human-like
+23 features shall collect and store only that information which does
+24
+Req. No. 16818 Page 6
+1 not conflict with a trusting party's best interests. Such
+2 information must be:
+3 1. Adequate, in the sense that it is sufficient to fulfill a
+4 legitimate purpose of the deployer;
+5 2. Relevant, in the sense that the information has a relevant
+6 link to that legitimate purpose; and
+7 3. Necessary, in the sense that it is the minimum amount of
+8 information which is needed for that legitimate purpose.
+9 SECTION 4. NEW LAW A new section of law to be codified
+10 in the Oklahoma Statutes as Section 13 of Title 75A, unless there is
+11 created a duplication in numbering, reads as follows:
+12 A. Any business or person that violates this act shall be
+13 subject to an injunction and surrender of any unjust gains due to
+14 violation of this act, and shall be liable for a civil penalty of
+15 not more than Two Thousand Five Hundred Dollars ($2,500.00) for each
+16 violation or Seven Thousand Five Hundred Dollars ($7,500.00) for
+17 each intentional violation, which shall be assessed and recovered in
+18 a civil action brought by the Attorney General.
+19 B. Any minor who uses an artificial intelligence (AI) chatbot
+20 that does not comply with the terms of this act, or a parent or
+21 guardian acting on their behalf, may institute a civil action on
+22 their own, or on a class-wide basis, to recover damages in an amount
+23 not less than One Hundred Dollars ($100.00) and not greater than
+24 Seven Hundred Fifty Dollars ($750.00) per user, per incident, or
+Req. No. 16818 Page 7
+1 actu al damages, whichever is greater, and to obtain injunctive or
+2 declaratory relief.
+3 SECTION 5. This act shall become effective November 1, 2026.
+4
+5 60-2-16818 GRS 02/26/26
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 16818 Page 8
+[DELETED:  P B]
+[DELETED:  P a a]
+[DELETED:  P b s s s f g s e r d b]
+[DELETED:  P e o a i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P G 0]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 COMMITTEE SUBSTITUTE
+FOR
+4 HOUSE BILL NO. 3544 By: Maynard
+5
+6
+7 COMMITTEE SUBSTITUTE
+8 An Act relating to technology; defining terms;
+directing deployers to ensure artificial intelligence
+9 (AI) chatbots with human-like features are not made
+available to minors; requiring age certification
+10 systems; permitting alternative version of chatbot
+for minors; directing deployers of AI companions to
+11 make sure they are not made available to minors;
+providing exemption criteria; directing deployers to
+12 implement and maintain systems to prioritize safety
+and well-being of users; permitting deployers to
+13 collect certain information; establishing civil
+penalties; providing for codification; and providing
+14 an effective date.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 10 of Title 75A, unless there is
+20 created a duplication in numbering, reads as follows:
+21 As used in this act:
+22 1. "Chatbot" means AI with which users can interact by or
+23 through an interface that approximates or simulates conversation
+24
+Req. No. 16818 Page 1
+
+1 thro ugh a text, audio, or visual medium. The term "chatbot" does
+2 not include the following:
+3 a. a bot that is used only for customer service, a
+4 business operation purpose, productivity, and analysis
+5 related to source information, internal research, or
+6 technical assistance, or
+7 b. a stand-alone consumer electronic device that
+8 functions as a speaker and voice command interface,
+9 acts as a voice-activated virtual assistant, and does
+10 not sustain a relationship across multiple
+11 interactions or generate outputs that are likely to
+12 elicit emotional responses in the user;
+13 2. "Deployer" means any person, partnership, state or local
+14 governmental agency, corporation, or developer that operates or
+15 distributes a chatbot;
+16 3. "Design features" means any aspect of an AI system that has
+17 certain patterns or physical properties that are presented towards a
+18 user;
+19 4. "Emergency situation" means a situation where a user
+20 engaging with a chatbot indicates that they intend to either commit
+21 harm to themselves or commit harm to others;
+22 5. "Human-like feature" means a generative artificial
+23 intelligence system (AI) designed to simulate a sustained human or
+24
+Req. No. 16818 Page 2
+
+1 huma n-like relationship with a user and which does any of the
+2 following:
+3 a. behaves in a way that would lead a reasonable person
+4 to believe the AI is conveying that it has humanity,
+5 sentience, emotions, or desires. This includes, but
+6 is not limited to:
+7 (1) stating or suggesting that it is human or
+8 sentient,
+9 (2) stating or suggesting emotions, or
+10 (3) stating or suggesting it has personal desires.
+11 This does not include:
+12 (1) functional evaluations, or
+13 (2) generic social formalities,
+14 b. seeks to build or engage in an emotional relationship
+15 with the user. This includes, but is not limited to:
+16 (1) expressing or inviting emotional attachment,
+17 (2) reminding, prompting, or nudging the user to
+18 return for emotional support or companionship,
+19 (3) depicting nonverbal forms of emotional support,
+20 (4) behaving in a way that a reasonable user would
+21 consider excessive praise designed to foster
+22 emotional attachment or otherwise gain advantage,
+23 or
+24
+Req. No. 16818 Page 3
+
+1 (5) enabling or purporting to enable increased
+2 intimacy based on engagement or pay.
+3 This does not include:
+4 (1) offering generic encouragement that does not
+5 create an ongoing bond, or
+6 (2) asking if a user needs further help or support in
+7 a neutral, nonemotional context, and
+8 c. impersonates a real person, living or dead;
+9 6. "Minor" means a person who is under the age of eighteen
+10 (18);
+11 7. "Social AI companion" means an AI chatbot that is
+12 specifically designed, marketed, or optimized to form ongoing social
+13 or emotional bonds with users, whether or not such systems also
+14 provide information, complete tasks, or assist with specific
+15 functions;
+16 8. "Therapy chatbot" means any chatbot modified or designed
+17 with a primary purpose of providing mental health support,
+18 counseling, or therapeutic intervention through the diagnosis,
+19 treatment, mitigation, or prevention of mental health conditions;
+20 and
+21 9. "User" means a person who interacts with AI.
+22 SECTION 2. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 11 of Title 75A, unless there is
+24 created a duplication in numbering, reads as follows:
+Req. No. 16818 Page 4
+
+1 A. Each deployer:
+2 1. Shall ensure that any artificial intelligence (AI) chatbot
+3 operated or distributed by the deployer that has human-like features
+4 is not made available to minors to use, interact with, purchase, or
+5 converse with;
+6 2. Shall implement reasonable age certification systems to
+7 ensure that AI chatbots with human-like features are not provisioned
+8 to minors; and
+9 3. May, if reasonable, given the purpose of the chatbot,
+10 provide an alternative version of the chatbot without human-like
+11 features available to minors and nonverified users.
+12 B. Deployers operating AI that primarily function as companions
+13 shall:
+14 1. Ensure that any such chatbots operated or distributed by the
+15 deployer are not available to minors to use, interact with,
+16 purchase, or converse with; and
+17 2. Implement reasonable age verification systems to ensure that
+18 such chatbots are not provisioned to minors.
+19 C. Exempted from this section, and may be made available to
+20 minors, are therapeutic chatbots that meet all of the following
+21 requirements:
+22 1. The chatbot provides a clear and conspicuous disclaimer at
+23 the beginning of each individual interaction that it is AI and not a
+24 licensed mental health professional;
+Req. No. 16818 Page 5
+
+1 2. The chatbot is not marketed or designated as a substitute
+2 for a human mental health professional;
+3 3. A licensed mental health professional, such as a clinical
+4 psychologist, assesses a user's suitability and prescribes the tool
+5 as part of a comprehensive treatment plan and monitors its use and
+6 impact;
+7 4. Developers provide robust, independent, peer-reviewed
+8 clinical trial data demonstrating both the safety and efficacy of
+9 the tool for specific conditions and populations; and
+10 5. The system's functions, limitations, and data privacy
+11 policies are transparent to both the licensed mental health
+12 professional and the user with clear lines of accountability that
+13 are established for any harms caused by the system.
+14 SECTION 3. NEW LAW A new section of law to be codified
+15 in the Oklahoma Statutes as Section 12 of Title 75A, unless there is
+16 created a duplication in numbering, reads as follows:
+17 A. Deployers of an artificial intelligence chatbot with human-
+18 like features shall implement and maintain reasonably effective
+19 systems to detect, promptly respond to, report, and mitigate
+20 emergency situations in a manner that prioritizes the safety and
+21 well-being of users over the deployer's other interests.
+22 B. Deployers of artificial intelligence chatbot with human-like
+23 features shall collect and store only that information which does
+24
+Req. No. 16818 Page 6
+
+1 not conflict with a trusting party's best interests. Such
+2 information must be:
+3 1. Adequate, in the sense that it is sufficient to fulfill a
+4 legitimate purpose of the deployer;
+5 2. Relevant, in the sense that the information has a relevant
+6 link to that legitimate purpose; and
+7 3. Necessary, in the sense that it is the minimum amount of
+8 information which is needed for that legitimate purpose.
+9 SECTION 4. NEW LAW A new section of law to be codified
+10 in the Oklahoma Statutes as Section 13 of Title 75A, unless there is
+11 created a duplication in numbering, reads as follows:
+12 A. Any business or person that violates this act shall be
+13 subject to an injunction and surrender of any unjust gains due to
+14 violation of this act, and shall be liable for a civil penalty of
+15 not more than Two Thousand Five Hundred Dollars ($2,500.00) for each
+16 violation or Seven Thousand Five Hundred Dollars ($7,500.00) for
+17 each intentional violation, which shall be assessed and recovered in
+18 a civil action brought by the Attorney General.
+19 B. Any minor who uses an artificial intelligence (AI) chatbot
+20 that does not comply with the terms of this act, or a parent or
+21 guardian acting on their behalf, may institute a civil action on
+22 their own, or on a class-wide basis, to recover damages in an amount
+23 not less than One Hundred Dollars ($100.00) and not greater than
+24 Seven Hundred Fifty Dollars ($750.00) per user, per incident, or
+Req. No. 16818 Page 7
+
+1 actu al damages, whichever is greater, and to obtain injunctive or
+2 declaratory relief.
+3 SECTION 5. This act shall become effective November 1, 2026.
+4
+5 60-2-16818 GRS 02/26/26
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 16818 Page 8
+
+[DELETED:  P B]
+[DELETED:  P a a]
+[DELETED:  P b s s s f g s e r d b]
+[DELETED:  P e o a i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P G 0]
