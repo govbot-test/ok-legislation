@@ -1,0 +1,633 @@
+Title: 5 HOUSE BILL NO. 3617 By: Lawson of the House
+Official Title: 5 HOUSE BILL NO. 3617 By: Lawson of the House
+Number of Sections: 1
+Source: versions - Floor (House)
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 COMMITTEE SUBSTITUTE
+FOR
+6 and
+7 Murdock of the Senate
+8
+9 COMMITTEE SUBSTITUTE
+10 An Act relating to agriculture right to repair;
+creating the Oklahoma Agriculture Right to Repair
+11 Act; defining terms; requiring original equipment
+manufacturers who sell agricultural equipment and
+12 parts to follow certain requirements; prohibiting
+certain acts by original equipment manufacturer;
+13 requiring original equipment manufacturer to make
+available certain items; directing the Attorney
+14 General to enforce this act; providing clarification
+on exemptions; providing applicability; providing for
+15 codification; and providing an effective date.
+16
+17
+18 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19 SECTION 1. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 4101 of Title 2, unless there is
+21 created a duplication in numbering, reads as follows:
+22 This act shall be known and may cited as the "Oklahoma
+23 Agricultural Right to Repair Act".
+24
+HB3617 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 4102 of Title 2, unless there is
+3 created a duplication in numbering, reads as follows:
+4 As used in this act:
+5 1. "Agricultural equipment" or "equipment" means products used
+6 in agricultural, horticultural, viticultural, dairy products,
+7 livestock, and the products thereof, the products of poultry and bee
+8 raising, products of forestry, products used in property
+9 maintenance, and any and all products raised or produced on farms
+10 and processed or manufactured products thereof, transported or
+11 intended to be transported in interstate or foreign commerce.
+12 Agricultural equipment does not include a motor vehicle that is
+13 designed to transport individuals or property on a street or highway
+14 and is certified by a motor vehicle manufacturer under all
+15 requirements for the distribution and sale of motor vehicles in the
+16 United States, industrial, construction, compact construction,
+17 mining, or road-building equipment;
+18 2. "Authorized repair provider" means an individual or business
+19 who has an arrangement with the original equipment manufacturer
+20 under which the original equipment manufacturer grants to the
+21 individual or business a license to use a trade name, service mark,
+22 or other proprietary identifiers for the purposes of offering the
+23 services of diagnosis, maintenance, or repair of agricultural
+24 equipment under the name of the original equipment manufacturer, or
+HB3617 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+1 othe r arrangement with the original equipment manufacturer to offer
+2 such services on behalf of, or under contract to, the original
+3 equipment manufacturer. An original equipment manufacturer who
+4 offers the services of diagnosis, maintenance, or repair of its own
+5 agricultural equipment shall be considered an authorized repair
+6 provider with respect to such equipment;
+7 3. "Documentation" means any manual, maintenance procedures,
+8 functional and wiring diagrams, reporting output, service code
+9 description, board view file or complete PCB layout, PCB schematic,
+10 security code, password, training material, troubleshooting
+11 information, full list of required tools, full parts list, and other
+12 guidance or information used in effecting the services of diagnosis,
+13 maintenance, or repair of agricultural equipment;
+14 4. "Embedded software" means any programmable instructions
+15 provided on firmware (a software program or set of instructions
+16 programmed on agricultural equipment, or on a part of such
+17 agricultural equipment, to allow the agricultural equipment or part
+18 to communicate within itself or with other computer hardware)
+19 delivered with or loaded to the agricultural equipment, with respect
+20 to agricultural equipment operation, including all relevant patches
+21 and fixes made by the manufacturer, including items described as
+22 "basic internal operating system", "internal operating system",
+23 "machine code", "assembly code", "root code", and "microcode";
+24 5. "Fair and reasonable terms" means all of the following:
+HB3617 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+1 a. with respect to parts, made available by the original
+2 equipment manufacturer, either directly or through an
+3 authorized repair provider, in a manner that:
+4 (1) is not conditioned on or imposing a substantial
+5 obligation or restriction that is not reasonably
+6 necessary for enabling the owner or independent
+7 repair provider to engage in the diagnosis,
+8 maintenance, or repair of agricultural equipment
+9 made by or on behalf of the original equipment
+10 manufacturer,
+11 (2) does not require a minimum or maximum quantity of
+12 parts that owners and independent repair
+13 providers can purchase, and
+14 (3) does not condition access to parts on any
+15 additional contract other than a purchase order,
+16 b. with respect to documentation, made available by the
+17 original equipment manufacturer without requiring any
+18 contract agreement or account creation and at no
+19 charge except that, when the documentation is
+20 requested in physical printed form, a charge may be
+21 included for the reasonable actual costs of preparing
+22 and sending the copy,
+23 c. with respect to tools, made available by the original
+24 equipment manufacturer at no charge, except that, when
+HB3617 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+1 a tool is requested in physical form, a charge may be
+2 included for the reasonable, actual costs of preparing
+3 and sending such tool,
+4 d. without requiring authorization or Internet access for
+5 the use or operation of such tools, or imposing
+6 impediments to access or use of the tools to diagnose,
+7 maintain, or repair and enable full functionality of
+8 agricultural equipment, and
+9 e. in a manner that does not impair the efficient and
+10 cost-effective performance of any such diagnosis,
+11 maintenance, or repair;
+12 6. "Independent repair provider" means an individual or
+13 business operating in this state that does not have an arrangement
+14 described in paragraph 2 of this section with an original equipment
+15 manufacturer, and who is engaged in the services of diagnosis,
+16 maintenance, or repair of agricultural equipment;
+17 7. "Original equipment manufacturer (OEM)" or "manufacturer"
+18 means a business engaged in the business of selling, leasing, or
+19 otherwise supplying new agricultural equipment manufactured by or on
+20 behalf of itself, to any individual or business;
+21 8. "Owner" means an individual or business who owns or leases
+22 agricultural equipment purchased or used in this state;
+23 9. "Part" means any replacement part, either new or used, made
+24 available or used by an original equipment manufacturer or its
+HB3617 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+1 auth orized repair providers for purposes of effecting the services
+2 of maintenance or repair of agricultural equipment manufactured by,
+3 or on behalf of, sold or otherwise supplied by the original
+4 equipment manufacturer;
+5 10. "Parts pairing" refers to the practice by manufacturers of
+6 using software to identify component parts through a unique
+7 identifier;
+8 11. "Tool" means any software program, hardware implement, or
+9 other apparatus used for diagnosis, maintenance, or repair of
+10 agricultural equipment, including software or other mechanisms that
+11 provide, program, or pair a new part, calibrate functionality, or
+12 performs any other function required to bring the product back to
+13 fully functional condition, including any updates;
+14 12. "Trade secret" means information, including a formula,
+15 pattern, compilation, program, device, method, technique, or
+16 process, that:
+17 a. derives independent economic value, actual or
+18 potential, from not being generally known to, and not
+19 being readily ascertainable by proper means by other
+20 persons who can obtain economic value from its
+21 disclosure or use, and
+22 b. is the subject of efforts that are reasonable under
+23 the circumstances to maintain its secrecy;
+24
+HB3617 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+1 13. "Updates" means recommended corrections or adjustments to
+2 parts, tools, or information that are created and distributed by the
+3 OEM and used in offering the services of diagnosis, maintenance, or
+4 repair of agricultural equipment.
+5 SECTION 3. NEW LAW A new section of law to be codified
+6 in the Oklahoma Statutes as Section 4103 of Title 2, unless there is
+7 created a duplication in numbering, reads as follows:
+8 A. For agricultural equipment and parts for such equipment that
+9 are sold or used in Oklahoma, an original equipment manufacturer
+10 shall make available to any independent repair provider or owner of
+11 agricultural equipment manufactured by, on behalf of, or sold by
+12 such original equipment manufacturer, on fair and reasonable terms,
+13 any documentation, parts, and tools, required for the diagnosis,
+14 maintenance, or repair of such agricultural equipment and parts for
+15 such equipment, inclusive of any updates. Such documentation, parts
+16 and tools shall be made available either directly by such original
+17 equipment manufacturer or via an authorized repair provider or
+18 distributor.
+19 B. An original equipment manufacturer shall not use parts
+20 pairing or any other mechanism to:
+21 1. Prevent the installation or functioning of any otherwise-
+22 functional part, including a nonmanufacturer-approved replacement
+23 part or component;
+24
+HB3617 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+1 2. Inhibit or reduce the functioning of any part or board-level
+2 component, such that replacement by an independent repair provider
+3 or the device owner would cause the device to operate with reduced
+4 functionality or performance;
+5 3. Create false, misleading, deceptive, or nondismissible
+6 alerts or warnings about parts;
+7 4. Charge additional fees or increased prices for future
+8 repairs; or
+9 5. Limit who can purchase documentation, parts, and tools or
+10 perform repair services.
+11 C. For equipment that requires deactivating an electronic lock
+12 for purposes of repair, the original equipment manufacturer shall
+13 make available to any owner, or independent repair provider, with
+14 the express permission of the owner, on fair and reasonable terms,
+15 any special documentation, tools, and parts needed to access and
+16 reset the lock or function when disabled in the course of diagnosis,
+17 maintenance, or repair of such equipment. Such documentation,
+18 tools, and parts may be made available through an appropriate secure
+19 release system.
+20 SECTION 4. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 4104 of Title 2, unless there is
+22 created a duplication in numbering, reads as follows:
+23 If the Attorney General determines that a failure to provide
+24 documentation, parts, or tools as described in Section 3 of this act
+HB3617 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+1 cons titutes an unfair method of competition, false advertising, or
+2 unfair or deceptive trade practices, all remedies, penalties, and
+3 authority granted to the Attorney General by the Oklahoma Statutes
+4 shall be available to the Attorney General for the enforcement of
+5 this act.
+6 SECTION 5. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 4105 of Title 2, unless there is
+8 created a duplication in numbering, reads as follows:
+9 A. Nothing in this act shall be construed to require an
+10 original equipment manufacturer to divulge any trade secret to any
+11 owner or independent service provider, except as necessary to
+12 perform diagnosis, maintenance, or repair on fair and reasonable
+13 terms.
+14 B. Nothing in this act shall be construed to alter the terms of
+15 any arrangement described in subsection A of Section 3 of this act
+16 in force between an authorized repair provider and an original
+17 equipment manufacturer, including, but not limited to, the
+18 performance or provision of warranty or recall repair work by an
+19 authorized repair provider on behalf of an original equipment
+20 manufacturer and pursuant to such arrangement, except that any
+21 provision in such terms that purports to waive, avoid, restrict or
+22 limit the original equipment manufacturer's obligations to comply
+23 with this act shall be void and unenforceable.
+24
+HB3617 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+1 C. No original equipment manufacturer or authorized repair
+2 provider shall be liable for any damage or injury to any
+3 agricultural equipment caused by an independent repair provider or
+4 owner which occurs during the course of repair, diagnosis, or
+5 maintenance and is not attributable to the original equipment
+6 manufacturer or authorized repair provider other than if the failure
+7 is attributable to design or manufacturing defects.
+8 D. Nothing in this act shall be construed to require a
+9 manufacturer to make available special documentation, tools, and
+10 parts that would disable or override anti-theft security measures
+11 set by the owner of the product without the owner's authorization.
+12 E. Nothing in this act shall be construed to require a
+13 manufacturer to sell a part if the part is no longer available to
+14 the manufacturer.
+15 F. Nothing in this act shall be construed to require a
+16 manufacturer to sell any service materials that would be illegal to
+17 use under federal or state law.
+18 G. Nothing in this act shall be construed to prevent a parts
+19 dealer from marking up goods over the wholesale price.
+20 SECTION 6. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 4106 of Title 2, unless there is
+22 created a duplication in numbering, reads as follows:
+23 This act applies to equipment first manufactured and sold on or
+24 after the effective date of this act.
+HB3617 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+1 SECTION 7. This act shall become effective November 1, 2026.
+2
+3 COMMITTEE REPORT BY: COMMITTEE ON ENERGY AND NATURAL RESOURCES
+OVERSIGHT, dated 03/04/2026 - DO PASS, As Amended.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+HB3617 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+[DELETED:  P B   a M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P w i d d w w]
+[DELETED:  P w i]
+[DELETED:  P d i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 COMMITTEE SUBSTITUTE
+FOR
+5 HOUSE BILL NO. 3617 By: Lawson of the House
+6 and
+7 Murdock of the Senate
+8
+9 COMMITTEE SUBSTITUTE
+10 An Act relating to agriculture right to repair;
+creating the Oklahoma Agriculture Right to Repair
+11 Act; defining terms; requiring original equipment
+manufacturers who sell agricultural equipment and
+12 parts to follow certain requirements; prohibiting
+certain acts by original equipment manufacturer;
+13 requiring original equipment manufacturer to make
+available certain items; directing the Attorney
+14 General to enforce this act; providing clarification
+on exemptions; providing applicability; providing for
+15 codification; and providing an effective date.
+16
+17
+18 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19 SECTION 1. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 4101 of Title 2, unless there is
+21 created a duplication in numbering, reads as follows:
+22 This act shall be known and may cited as the "Oklahoma
+23 Agricultural Right to Repair Act".
+24
+HB3617 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 4102 of Title 2, unless there is
+3 created a duplication in numbering, reads as follows:
+4 As used in this act:
+5 1. "Agricultural equipment" or "equipment" means products used
+6 in agricultural, horticultural, viticultural, dairy products,
+7 livestock, and the products thereof, the products of poultry and bee
+8 raising, products of forestry, products used in property
+9 maintenance, and any and all products raised or produced on farms
+10 and processed or manufactured products thereof, transported or
+11 intended to be transported in interstate or foreign commerce.
+12 Agricultural equipment does not include a motor vehicle that is
+13 designed to transport individuals or property on a street or highway
+14 and is certified by a motor vehicle manufacturer under all
+15 requirements for the distribution and sale of motor vehicles in the
+16 United States, industrial, construction, compact construction,
+17 mining, or road-building equipment;
+18 2. "Authorized repair provider" means an individual or business
+19 who has an arrangement with the original equipment manufacturer
+20 under which the original equipment manufacturer grants to the
+21 individual or business a license to use a trade name, service mark,
+22 or other proprietary identifiers for the purposes of offering the
+23 services of diagnosis, maintenance, or repair of agricultural
+24 equipment under the name of the original equipment manufacturer, or
+HB3617 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+1 othe r arrangement with the original equipment manufacturer to offer
+2 such services on behalf of, or under contract to, the original
+3 equipment manufacturer. An original equipment manufacturer who
+4 offers the services of diagnosis, maintenance, or repair of its own
+5 agricultural equipment shall be considered an authorized repair
+6 provider with respect to such equipment;
+7 3. "Documentation" means any manual, maintenance procedures,
+8 functional and wiring diagrams, reporting output, service code
+9 description, board view file or complete PCB layout, PCB schematic,
+10 security code, password, training material, troubleshooting
+11 information, full list of required tools, full parts list, and other
+12 guidance or information used in effecting the services of diagnosis,
+13 maintenance, or repair of agricultural equipment;
+14 4. "Embedded software" means any programmable instructions
+15 provided on firmware (a software program or set of instructions
+16 programmed on agricultural equipment, or on a part of such
+17 agricultural equipment, to allow the agricultural equipment or part
+18 to communicate within itself or with other computer hardware)
+19 delivered with or loaded to the agricultural equipment, with respect
+20 to agricultural equipment operation, including all relevant patches
+21 and fixes made by the manufacturer, including items described as
+22 "basic internal operating system", "internal operating system",
+23 "machine code", "assembly code", "root code", and "microcode";
+24 5. "Fair and reasonable terms" means all of the following:
+HB3617 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+1 a. with respect to parts, made available by the original
+2 equipment manufacturer, either directly or through an
+3 authorized repair provider, in a manner that:
+4 (1) is not conditioned on or imposing a substantial
+5 obligation or restriction that is not reasonably
+6 necessary for enabling the owner or independent
+7 repair provider to engage in the diagnosis,
+8 maintenance, or repair of agricultural equipment
+9 made by or on behalf of the original equipment
+10 manufacturer,
+11 (2) does not require a minimum or maximum quantity of
+12 parts that owners and independent repair
+13 providers can purchase, and
+14 (3) does not condition access to parts on any
+15 additional contract other than a purchase order,
+16 b. with respect to documentation, made available by the
+17 original equipment manufacturer without requiring any
+18 contract agreement or account creation and at no
+19 charge except that, when the documentation is
+20 requested in physical printed form, a charge may be
+21 included for the reasonable actual costs of preparing
+22 and sending the copy,
+23 c. with respect to tools, made available by the original
+24 equipment manufacturer at no charge, except that, when
+HB3617 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+1 a tool is requested in physical form, a charge may be
+2 included for the reasonable, actual costs of preparing
+3 and sending such tool,
+4 d. without requiring authorization or Internet access for
+5 the use or operation of such tools, or imposing
+6 impediments to access or use of the tools to diagnose,
+7 maintain, or repair and enable full functionality of
+8 agricultural equipment, and
+9 e. in a manner that does not impair the efficient and
+10 cost-effective performance of any such diagnosis,
+11 maintenance, or repair;
+12 6. "Independent repair provider" means an individual or
+13 business operating in this state that does not have an arrangement
+14 described in paragraph 2 of this section with an original equipment
+15 manufacturer, and who is engaged in the services of diagnosis,
+16 maintenance, or repair of agricultural equipment;
+17 7. "Original equipment manufacturer (OEM)" or "manufacturer"
+18 means a business engaged in the business of selling, leasing, or
+19 otherwise supplying new agricultural equipment manufactured by or on
+20 behalf of itself, to any individual or business;
+21 8. "Owner" means an individual or business who owns or leases
+22 agricultural equipment purchased or used in this state;
+23 9. "Part" means any replacement part, either new or used, made
+24 available or used by an original equipment manufacturer or its
+HB3617 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+1 auth orized repair providers for purposes of effecting the services
+2 of maintenance or repair of agricultural equipment manufactured by,
+3 or on behalf of, sold or otherwise supplied by the original
+4 equipment manufacturer;
+5 10. "Parts pairing" refers to the practice by manufacturers of
+6 using software to identify component parts through a unique
+7 identifier;
+8 11. "Tool" means any software program, hardware implement, or
+9 other apparatus used for diagnosis, maintenance, or repair of
+10 agricultural equipment, including software or other mechanisms that
+11 provide, program, or pair a new part, calibrate functionality, or
+12 performs any other function required to bring the product back to
+13 fully functional condition, including any updates;
+14 12. "Trade secret" means information, including a formula,
+15 pattern, compilation, program, device, method, technique, or
+16 process, that:
+17 a. derives independent economic value, actual or
+18 potential, from not being generally known to, and not
+19 being readily ascertainable by proper means by other
+20 persons who can obtain economic value from its
+21 disclosure or use, and
+22 b. is the subject of efforts that are reasonable under
+23 the circumstances to maintain its secrecy;
+24
+HB3617 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+1 13. "Updates" means recommended corrections or adjustments to
+2 parts, tools, or information that are created and distributed by the
+3 OEM and used in offering the services of diagnosis, maintenance, or
+4 repair of agricultural equipment.
+5 SECTION 3. NEW LAW A new section of law to be codified
+6 in the Oklahoma Statutes as Section 4103 of Title 2, unless there is
+7 created a duplication in numbering, reads as follows:
+8 A. For agricultural equipment and parts for such equipment that
+9 are sold or used in Oklahoma, an original equipment manufacturer
+10 shall make available to any independent repair provider or owner of
+11 agricultural equipment manufactured by, on behalf of, or sold by
+12 such original equipment manufacturer, on fair and reasonable terms,
+13 any documentation, parts, and tools, required for the diagnosis,
+14 maintenance, or repair of such agricultural equipment and parts for
+15 such equipment, inclusive of any updates. Such documentation, parts
+16 and tools shall be made available either directly by such original
+17 equipment manufacturer or via an authorized repair provider or
+18 distributor.
+19 B. An original equipment manufacturer shall not use parts
+20 pairing or any other mechanism to:
+21 1. Prevent the installation or functioning of any otherwise-
+22 functional part, including a nonmanufacturer-approved replacement
+23 part or component;
+24
+HB3617 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+
+1 2. Inhibit or reduce the functioning of any part or board-level
+2 component, such that replacement by an independent repair provider
+3 or the device owner would cause the device to operate with reduced
+4 functionality or performance;
+5 3. Create false, misleading, deceptive, or nondismissible
+6 alerts or warnings about parts;
+7 4. Charge additional fees or increased prices for future
+8 repairs; or
+9 5. Limit who can purchase documentation, parts, and tools or
+10 perform repair services.
+11 C. For equipment that requires deactivating an electronic lock
+12 for purposes of repair, the original equipment manufacturer shall
+13 make available to any owner, or independent repair provider, with
+14 the express permission of the owner, on fair and reasonable terms,
+15 any special documentation, tools, and parts needed to access and
+16 reset the lock or function when disabled in the course of diagnosis,
+17 maintenance, or repair of such equipment. Such documentation,
+18 tools, and parts may be made available through an appropriate secure
+19 release system.
+20 SECTION 4. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 4104 of Title 2, unless there is
+22 created a duplication in numbering, reads as follows:
+23 If the Attorney General determines that a failure to provide
+24 documentation, parts, or tools as described in Section 3 of this act
+HB3617 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+
+1 cons titutes an unfair method of competition, false advertising, or
+2 unfair or deceptive trade practices, all remedies, penalties, and
+3 authority granted to the Attorney General by the Oklahoma Statutes
+4 shall be available to the Attorney General for the enforcement of
+5 this act.
+6 SECTION 5. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 4105 of Title 2, unless there is
+8 created a duplication in numbering, reads as follows:
+9 A. Nothing in this act shall be construed to require an
+10 original equipment manufacturer to divulge any trade secret to any
+11 owner or independent service provider, except as necessary to
+12 perform diagnosis, maintenance, or repair on fair and reasonable
+13 terms.
+14 B. Nothing in this act shall be construed to alter the terms of
+15 any arrangement described in subsection A of Section 3 of this act
+16 in force between an authorized repair provider and an original
+17 equipment manufacturer, including, but not limited to, the
+18 performance or provision of warranty or recall repair work by an
+19 authorized repair provider on behalf of an original equipment
+20 manufacturer and pursuant to such arrangement, except that any
+21 provision in such terms that purports to waive, avoid, restrict or
+22 limit the original equipment manufacturer's obligations to comply
+23 with this act shall be void and unenforceable.
+24
+HB3617 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+
+1 C. No original equipment manufacturer or authorized repair
+2 provider shall be liable for any damage or injury to any
+3 agricultural equipment caused by an independent repair provider or
+4 owner which occurs during the course of repair, diagnosis, or
+5 maintenance and is not attributable to the original equipment
+6 manufacturer or authorized repair provider other than if the failure
+7 is attributable to design or manufacturing defects.
+8 D. Nothing in this act shall be construed to require a
+9 manufacturer to make available special documentation, tools, and
+10 parts that would disable or override anti-theft security measures
+11 set by the owner of the product without the owner's authorization.
+12 E. Nothing in this act shall be construed to require a
+13 manufacturer to sell a part if the part is no longer available to
+14 the manufacturer.
+15 F. Nothing in this act shall be construed to require a
+16 manufacturer to sell any service materials that would be illegal to
+17 use under federal or state law.
+18 G. Nothing in this act shall be construed to prevent a parts
+19 dealer from marking up goods over the wholesale price.
+20 SECTION 6. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 4106 of Title 2, unless there is
+22 created a duplication in numbering, reads as follows:
+23 This act applies to equipment first manufactured and sold on or
+24 after the effective date of this act.
+HB3617 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+
+1 SECTION 7. This act shall become effective November 1, 2026.
+2
+3 COMMITTEE REPORT BY: COMMITTEE ON ENERGY AND NATURAL RESOURCES
+OVERSIGHT, dated 03/04/2026 - DO PASS, As Amended.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+HB3617 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+
+[DELETED:  P B   a M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P w i d d w w]
+[DELETED:  P w i]
+[DELETED:  P d i]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]

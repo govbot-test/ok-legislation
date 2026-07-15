@@ -1,0 +1,1659 @@
+Title: BILL NO. 2710 By: Ford of the House
+Official Title: BILL NO. 2710 By: Ford of the House
+Number of Sections: 3
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Strikethrough Detection: 29 sections found
+
+================================================================================
+
+Section 1:
+1 SENATE FLOOR VERSION
+April 7, 2026
+2
+3 ENGROSSED HOUSE
+4
+and
+5
+Gollihare of the Senate
+6
+7
+8 An Act relating to statewide radio systems; creating
+the Oklahoma Emergency Communications Act; defining
+9 terms; creating the Oklahoma Emergency Communications
+Authority; providing for membership; providing for
+10 the filling of vacancies and reaffirmation;
+prohibiting compensation; requiring employment of
+11 certain Executive Director; providing for funding of
+the Executive Director; stating Authority shall be
+12 subject to the Oklahoma Open Records Act and the
+Oklahoma Open Meeting Act; stating powers and duties
+13 of the Authority; creating the Oklahoma Emergency
+Communications Authority Revolving Fund; stating type
+14 of fund; stating purpose; authorizing expenditures;
+amending 62 O.S. 2021, Section 34.11.1, as amended by
+15 Section 1, Chapter 193, O.S.L. 2024 (62 O.S. Supp.
+2024, Section 34.11.1), which relates to Chief
+16 Information Officer; requiring Chief Information
+Officer seek certain guidance and recommendations for
+17 purchases; amending 62 O.S. 2021, Section 34.20,
+which relates to the Information Services Division;
+18 modifying responsible agency; amending 63 O.S. 2021,
+
+Section 2:
+Section 2862, as last amended by Section 146, Chapter
+19 452, O.S.L. 2024 (63 O.S. Supp. 2024, Section 2862),
+which relates to definitions; defining terms;
+20 amending 63 O.S. 2021, Section 2864, as last amended
+by Section 7, Chapter 258, O.S.L. 2023 (63 O.S. Supp.
+21 2024, Section 2864), which relates to powers and
+duties; modifying powers and duties of the Oklahoma
+22 9-1-1 Management Authority; amending 74 O.S. 2021,
+
+Section 3:
+Section 51.1a, as last amended by Section 2, Chapter
+23 257, O.S.L. 2024 (74 O.S. Supp. 2024, Section 51.1a),
+which relates to interoperable public safety
+24 communications planning; modifying responsible agency
+SENATE FLOOR VERSION - HB2710 SFLR Page 1
+(Bold face denotes Committee Amendments)
+1 requiring transfer of certain funds; repealing 62
+O.S. 2021, Section 35.6.2, which relates to the Land
+2 Mobile Radio Public Safety Interoperability
+Cooperative; providing for codification; and
+3 providing an effective date.
+4
+5 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+6 SECTION 1. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 2890 of Title 63, unless there
+8 is created a duplication in numbering, reads as follows:
+9 This act shall be known and may be cited as the "Oklahoma
+10 Emergency Communications Act".
+11 SECTION 2. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 2891 of Title 63, unless there
+13 is created a duplication in numbering, reads as follows:
+14 As used in the Oklahoma Emergency Communications Act:
+15 1. "Authority" means the Oklahoma Emergency Communications
+16 Authority created in Section 3 of this act;
+17 2. "FCC" means the Federal Communications Commission; and
+18 3. "Revolving fund" means the Oklahoma Emergency Communications
+19 Authority Revolving Fund created in Section 6 of this act.
+20 SECTION 3. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 2892 of Title 63, unless there
+22 is created a duplication in numbering, reads as follows:
+23 A. There is hereby created within the Department of Public
+24 Safety the Oklahoma Emergency Communications Authority which shall
+SENATE FLOOR VERSION - HB2710 SFLR Page 2
+(Bold face denotes Committee Amendments)
+1 be t he governing board providing oversight, development, and
+2 regulation of state emergency communications systems.
+3 B. The Authority shall be composed of the following fifteen
+4 (15) members:
+5 1. One member representing the Oklahoma Department of Public
+6 Safety, to be appointed by the Commissioner of Public Safety;
+7 2. One member representing the Oklahoma Department of
+8 Transportation, to be appointed by the Secretary of Transportation;
+9 3. One member representing forestry and state fire response, to
+10 be appointed by the Commissioner of Agriculture;
+11 4. One member representing the Office of Management and
+12 Enterprise Services, to be appointed by the Chief Information
+13 Officer;
+14 5. One member representing the State Department of Health, to
+15 be appointed by the State Commissioner of Health;
+16 6. One member representing a statewide organization dedicated
+17 to representing municipal law enforcement, to be appointed by the
+18 President Pro Tempore of the Oklahoma State Senate;
+19 7. One member representing a statewide organization dedicated
+20 to representing county law enforcement, to be appointed by the
+21 Oklahoma Sheriffs' Association;
+22 8. One member representing a statewide organization dedicated
+23 to representing fire service, to be appointed by the Governor;
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 3
+(Bold face denotes Committee Amendments)
+1 9. One member representing a statewide organization dedicated
+2 to representing Oklahoma municipalities, to be appointed by the
+3 Speaker of the Oklahoma House of Representatives;
+4 10. One member representing a statewide organization
+5 representing Oklahoma county commissioners, to be appointed by the
+6 Governor;
+7 11. One member representing a statewide organization
+8 representing radio communications, to be appointed by the President
+9 Pro Tempore of the Oklahoma State Senate;
+10 12. One member representing a statewide organization
+11 representing emergency medical services, to be appointed by the
+12 Governor;
+13 13. One member representing a city or county that owns radio
+14 infrastructure and allows state users to utilize the system for day-
+15 to-day operations, to be appointed by the Speaker of the Oklahoma
+16 House of Representatives;
+17 14. The Oklahoma 9-1-1 Coordinator or his or her designee; and
+18 15. One member representing the Inter-Tribal Council of the
+19 Five Civilized Tribes, to be appointed by Governor.
+20 C. Members may be removed for cause. Members shall serve at
+21 the pleasure of their appointing authority and vacancies shall be
+22 filled by the original appointing authority. Each Authority member
+23 shall be reaffirmed every two (2) years from the date of
+24 appointment.
+SENATE FLOOR VERSION - HB2710 SFLR Page 4
+(Bold face denotes Committee Amendments)
+1 D. Members shall receive no compensation for serving on the
+2 Authority.
+3 E. Eight members of the Authority shall constitute a quorum,
+4 and the vote of the majority of the Authority member seats shall be
+5 necessary for any action to be taken by the Authority.
+6 F. The Department of Public Safety shall provide a dedicated
+7 resource to the Emergency Communications Authority to carry out the
+8 goals of the Authority and help coordinate between state and local
+9 public safety agencies. The Authority and the Department of Public
+10 Safety shall agree on the resource provided to the Authority.
+11 G. The Authority shall elect a chair from its membership. The
+12 Authority shall meet at least quarterly. However, the chair may
+13 call a meeting of the Board as often as necessary to transact
+14 business.
+15 H. The Department of Public Safety shall provide staffing, a
+16 proper meeting space, and any other such assistance as the Authority
+17 may require.
+18 I. The Authority shall be subject to the Oklahoma Open Records
+19 Act and the Oklahoma Open Meeting Act.
+20 SECTION 4. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 2893 of Title 63, unless there
+22 is created a duplication in numbering, reads as follows:
+23 The powers and duties of the Oklahoma Emergency Communications
+24 Authority created in Section 3 of this act shall be to:
+SENATE FLOOR VERSION - HB2710 SFLR Page 5
+(Bold face denotes Committee Amendments)
+1 1. Approve or disapprove the dedicated resource provided by the
+2 Department of Public Safety pursuant to subsection F of Section 3 of
+3 this act by majority vote of the members;
+4 2. Promulgate rules, through the authority of the Department of
+5 Public Safety, as necessary to implement the provisions of the
+6 Oklahoma Emergency Communications Act and for the governance and
+7 operation of the Oklahoma Emergency Communications Authority;
+8 3. Prepare grant solicitations for funding for the purposes of
+9 assisting public agencies in joining a state-owned shared radio
+10 system. This includes both infrastructure and radio subscribers;
+11 4. Oversee state allocated funding and funding allocations
+12 within the state and local public safety agencies for any radio
+13 infrastructure;
+14 5. Final approval of contracts necessary to administer and
+15 maintain emergency radio systems owned by the State of Oklahoma;
+16 6. Work in conjunction with all state and local public safety
+17 agencies and the Oklahoma Department of Transportation to move all
+18 funding, contracts, and personnel related to the state-owned radio
+19 infrastructure, including communication tower infrastructure, to the
+20 Department of Public Safety within two (2) years of the effective
+21 date of this act;
+22 7. Establish comprehensive user training for the state-owned
+23 emergency radio systems;
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 6
+(Bold face denotes Committee Amendments)
+1 8. Establish a strategic plan for the state emergency radio
+2 systems to ensure optimal operability and interoperability for all
+3 public safety responders in the state. The plan shall include, but
+4 may not be limited to secondary public safety responders such as
+5 employees of the Oklahoma Department of Transportation and schools;
+6 9. Provide guidance to public agencies regarding emergency
+7 radio communications;
+8 10. Facilitate information-sharing among public agencies;
+9 11. Create and maintain best practices databases for emergency
+10 radio operations;
+11 12. Facilitate the creation of policies and procedures between
+12 state and local public agencies related to emergency radio
+13 communications;
+14 13. Encourage equipment and technology sharing among all
+15 jurisdictions;
+16 14. Facilitate data operability and interoperability between
+17 public safety systems;
+18 15. Provide oversight of the programming of the systems and
+19 radios, including any software or keys necessary to operate on the
+20 state radio systems;
+21 16. Recommend standards to become compliant with Project 25 and
+22 other common radio interoperability standards;
+23
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 7
+(Bold face denotes Committee Amendments)
+1 17. Enable cost savings to the State of Oklahoma through
+2 unification and enhancement of current land mobile radio public
+3 safety systems;
+4 18. Seek public and private partnerships that enhance the
+5 public safety radio network;
+6 19. Manage, maintain, and seek funding for expansion of all
+7 radio communications systems owned by the State of Oklahoma;
+8 20. Create and maintain strategic plans for radio
+9 communications for both state and local emergency services. The
+10 strategic plan shall be updated annually and provided to the
+11 President Pro Tempore of the Oklahoma State Senate, the Speaker of
+12 the Oklahoma House of Representatives, and the Governor on or before
+13 November 1 of each calendar year. The plan shall be publicly
+14 available on the Oklahoma Department of Public Safety website and
+15 shall be made available to anyone upon request. The plans shall
+16 include details pertaining to the state-owned radio systems,
+17 integration between state systems, and efficiencies implemented.
+18 The plan shall also include both state and local public safety
+19 agencies that are served, underserved, and unserved by state-owned
+20 infrastructure;
+21 21. Implement policies as needed to provide communications
+22 operability and interoperability for local and state users;
+23 22. Seek, apply for, and administer funding through grant
+24 opportunities. The Authority shall approve all emergency
+SENATE FLOOR VERSION - HB2710 SFLR Page 8
+(Bold face denotes Committee Amendments)
+1 comm unications grants that are issued by any source within the
+2 Oklahoma Department of Public Safety to recipients or subrecipients,
+3 including internal grant funding provided to state and local public
+4 safety departments or agencies;
+5 23. Ensure that all communications and radio technology,
+6 programming, and maintenance meet Federal Communications Commission
+7 (FCC) rules and regulations;
+8 24. Maintain Geographic Information System (GIS) data:
+9 a. required for the various radio systems used by local
+10 agencies,
+11 b. that is a secured GIS dataset that is for official use
+12 only, that, at a minimum, includes frequencies, if
+13 encryption is in use, and the type of system in use,
+14 and
+15 c. necessary to carry out the mission of the Oklahoma
+16 Emergency Communications Authority;
+17 25. Provide resources to assist local municipal or county
+18 emergency services in the procurement of radio infrastructure to
+19 ensure FCC regulations are maintained. This includes providing
+20 assistance to such emergency services for increasing or adding to
+21 state-owned infrastructure to allow for operability needs;
+22 26. Provide strategic planning and seek funding to ensure radio
+23 tower infrastructure meets FCC rules; and
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 9
+(Bold face denotes Committee Amendments)
+1 27. Provide training necessary to ensure local and state users
+2 of public safety systems can provide emergency assistance
+3 efficiently in order to mitigate the loss of life and property.
+4 SECTION 5. NEW LAW A new section of law to be codified
+5 in the Oklahoma Statutes as Section 2895 of Title 63, unless there
+6 is created a duplication in numbering, reads as follows:
+7 There is hereby created in the State Treasury a revolving fund
+8 for the Oklahoma Emergency Communications Authority to be designated
+9 the "Oklahoma Emergency Communications Authority Revolving Fund".
+10 The fund shall be a continuing fund, not subject to fiscal year
+11 limitations, and shall consist of all monies received from state
+12 appropriations. All monies accruing to the credit of the fund are
+13 hereby appropriated and may be budgeted and expended by the Oklahoma
+14 Emergency Communications Authority, for the purpose of supporting
+15 the administration of the Oklahoma Emergency Communications Act.
+16 Expenditures from the fund shall be made upon warrants issued by the
+17 State Treasurer against claims filed as prescribed by law with the
+18 Director of the Office of Management and Enterprise Services for
+19 approval and payment.
+20 SECTION 6. AMENDATORY 62 O.S. 2021, Section 34.11.1, as
+21 amended by Section 1, Chapter 193, O.S.L. 2024 (62 O.S. Supp. 2025,
+22 Section 34.11.1), is amended to read as follows:
+23 Section 34.11.1. A. There is hereby created the position of
+24 Chief Information Officer who shall be appointed by the Governor.
+SENATE FLOOR VERSION - HB2710 SFLR Page 10
+(Bold face denotes Committee Amendments)
+1 The Chief Information Officer, in addition to having authority over
+2 the Information Services Division of the Office of Management and
+3 Enterprise Services, shall also serve as Secretary of Information
+4 Technology and Telecommunications or successor cabinet position and
+5 shall have jurisdictional areas of responsibility related to
+6 information technology and telecommunications systems of all state
+7 agencies as provided for in state law. The salary of the Chief
+8 Information Officer shall not be less than One Hundred Thirty
+9 Thousand Dollars ($130,000.00) or more than One Hundred Sixty
+10 Thousand Dollars ($160,000.00).
+11 B. Any person appointed to the position of Chief Information
+12 Officer shall meet the following eligibility requirements:
+13 1. A baccalaureate degree in Computer Information Systems,
+14 Information Systems or Technology Management, Business
+15 Administration, Finance, or other similar degree;
+16 2. A minimum of ten (10) years of professional experience with
+17 responsibilities for management and support of information systems
+18 and information technology, including seven (7) years of direct
+19 management of a major information technology operation;
+20 3. Familiarity with local and wide-area wide area network
+21 design, implementation, and operation;
+22 4. Experience with data and voice convergence service
+23 offerings;
+24 5. Experience in developing technology budgets;
+SENATE FLOOR VERSION - HB2710 SFLR Page 11
+(Bold face denotes Committee Amendments)
+1 6. Experience in developing requests for proposal and
+2 administering the bid process;
+3 7. Experience managing professional staff, teams, and
+4 consultants;
+5 8. Knowledge of telecommunications operations;
+6 9. Ability to develop and set strategic direction for
+7 information technology and telecommunications and to manage daily
+8 development and operations functions;
+9 10. An effective communicator who is able to build consensus;
+10 11. Ability to analyze and resolve complex issues, both logical
+11 and interpersonal;
+12 12. Effective verbal and written communications skills and
+13 effective presentation skills, geared toward coordination and
+14 education;
+15 13. Ability to negotiate and defuse conflict; and
+16 14. A self-motivator, independent, cooperative, flexible and
+17 creative.
+18 C. The salary and any other expenses for the Chief Information
+19 Officer shall be budgeted as a separate line item through the Office
+20 of Management and Enterprise Services. The operating expenses of
+21 the Information Services Division shall be set by the Chief
+22 Information Officer and shall be budgeted as a separate line item
+23 through the Office of Management and Enterprise Services. The
+24 Office of Management and Enterprise Services shall provide adequate
+SENATE FLOOR VERSION - HB2710 SFLR Page 12
+(Bold face denotes Committee Amendments)
+1 offi ce space, equipment and support necessary to enable the Chief
+2 Information Officer to carry out the information technology and
+3 telecommunications duties and responsibilities of the Chief
+4 Information Officer and the Information Services Division.
+5 D. 1. Within twelve (12) months of appointment, the first
+6 Chief Information Officer shall complete an assessment, which shall
+7 be modified annually pursuant to Section 35.5 of this title, of the
+8 implementation of the transfer, coordination, and modernization of
+9 all information technology and telecommunication systems of all
+10 state agencies in the state as provided for in the Oklahoma
+11 Information Services Act. The assessment shall include the
+12 information technology and telecommunications systems of all
+13 institutions within The Oklahoma State System of Higher Education,
+14 the Oklahoma State Regents for Higher Education and the
+15 telecommunications network known as OneNet as assembled and
+16 submitted by the Oklahoma Higher Education Chief Information
+17 Officer, as designated by the Oklahoma State Regents for Higher
+18 Education.
+19 2. Within twelve (12) months of appointment, the first Chief
+20 Information Officer shall issue a report setting out a plan of
+21 action which will include the following:
+22 a. define the shared service model organization structure
+23 and the reporting relationship of the recommended
+24 organization,
+SENATE FLOOR VERSION - HB2710 SFLR Page 13
+(Bold face denotes Committee Amendments)
+1 b. the implementation of an information technology and
+2 telecommunications shared services model that defines
+3 the statewide infrastructure environment needed by
+4 most state agencies that is not specific to individual
+5 agencies and the shared applications that are utilized
+6 across multiple agencies,
+7 c. define the services that shall be in the shared
+8 services model under the control of the Information
+9 Services Division of the Office of Management and
+10 Enterprise Services,
+11 d. define the roadmap to implement the proposed shared
+12 services model. The roadmap shall include
+13 recommendations on the transfer, coordination, and
+14 modernization of all information technology and
+15 telecommunication systems of all the state agencies in
+16 the state,
+17 e. recommendations on the reallocation of information
+18 technology and telecommunication resources and
+19 personnel,
+20 f. a cost-benefit analysis to support the recommendations
+21 on the reallocation of information technology and
+22 telecommunication resources and personnel,
+23 g. a calculation of the net savings realized through the
+24 reallocation and consolidation of information
+SENATE FLOOR VERSION - HB2710 SFLR Page 14
+(Bold face denotes Committee Amendments)
+1 technology and telecommunication resources and
+2 personnel after compensating for the cost of
+3 contracting with a private consultant as authorized in
+4 paragraph 4 of this subsection, implementing the plan
+5 of action, and ongoing costs of the Information
+6 Services Division of the Office of Management and
+7 Enterprise Services, and
+8 h. the information required in subsection B of Section
+9 35.5 of this title.
+10 3. The plan of action report shall be presented to the
+11 Governor, Speaker of the Oklahoma House of Representatives, and the
+12 President Pro Tempore of the Oklahoma State Senate.
+13 4. The Chief Information Officer may contract with a private
+14 consultant or consultants to assist in the assessment and
+15 development of the plan of action report as required in this
+16 subsection.
+17 E. The Chief Information Officer shall be authorized to employ
+18 personnel, fix the duties and compensation of the personnel, not
+19 otherwise prescribed by law, and otherwise direct the work of the
+20 personnel in performing the function functions and accomplishing the
+21 purposes of the Information Services Division of the Office of
+22 Management and Enterprise Services.
+23
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 15
+(Bold face denotes Committee Amendments)
+1 F. The Information Services Division of the Office of
+2 Management and Enterprise Services shall be responsible for the
+3 following duties:
+4 1. Formulate and implement the information technology strategy
+5 for all state agencies;
+6 2. Define, design, and implement a shared services statewide
+7 infrastructure and application environment for information
+8 technology and telecommunications for all state agencies;
+9 3. Direct the development and operation of a scalable
+10 telecommunications infrastructure that supports data and voice
+11 communications reliability, integrity, and security;
+12 4. Supervise the applications development process for those
+13 applications that are utilized across multiple agencies;
+14 5. Provide direction for the professional development of
+15 information technology staff of state agencies and oversee the
+16 professional development of the staff of the Information Services
+17 Division of the Office of Management and Enterprise Services;
+18 6. Evaluate all technology and telecommunication investment
+19 choices for all state agencies;
+20 7. Create a plan to ensure alignment of current systems, tools,
+21 and processes with the strategic information technology plan for all
+22 state agencies;
+23 8. Set direction and provide oversight for the support and
+24 continuous upgrading of the current information technology and
+SENATE FLOOR VERSION - HB2710 SFLR Page 16
+(Bold face denotes Committee Amendments)
+1 tele communication infrastructure in the state in support of enhanced
+2 reliability, user service levels, and security;
+3 9. Direct the development, implementation, and management of
+4 appropriate standards, policies and procedures to ensure the success
+5 of state information technology and telecommunication initiatives;
+6 10. Recruit, hire and transfer the required technical staff in
+7 the Information Services Division of the Office of Management and
+8 Enterprise Services to support the services provided by the Division
+9 and the execution of the strategic information technology plan;
+10 11. Establish, maintain, and enforce information technology and
+11 telecommunication standards;
+12 12. Delegate, coordinate, and review all work to ensure quality
+13 and efficient operation of the Information Services Division of the
+14 Office of Management and Enterprise Services;
+15 13. Create and implement a communication plan that disseminates
+16 pertinent information to state agencies on standards, policies,
+17 procedures, service levels, project status, and other important
+18 information to customers of the Information Services Division of the
+19 Office of Management and Enterprise Services and provide for agency
+20 feedback and performance evaluation by customers of the Division;
+21 14. Develop and implement training programs for state agencies
+22 using the shared services of the Information Services Division of
+23 the Office of Management and Enterprise Services and recommend
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 17
+(Bold face denotes Committee Amendments)
+1 trai ning programs to state agencies on information technology and
+2 telecommunication systems, products and procedures;
+3 15. Provide counseling, performance evaluation, training,
+4 motivation, discipline, and assign duties for employees of the
+5 Information Services Division of the Office of Management and
+6 Enterprise Services;
+7 16. For all state agencies, approve the purchasing of all
+8 information technology and telecommunication services and approve
+9 the purchase of any information technology and telecommunication
+10 product except the following:
+11 a. a purchase less than or equal to Five Thousand Dollars
+12 ($5,000.00) if such product is purchased using a state
+13 purchase card and the product is listed on either the
+14 Approved Hardware or Approved Software list located on
+15 the Office of Management and Enterprise Services
+16 website, or
+17 b. a purchase over Five Thousand Dollars ($5,000.00) and
+18 less than or equal to Twenty-five Thousand Dollars
+19 ($25,000.00) if such product is purchased using a
+20 state purchase card, the product is listed on an
+21 information technology or telecommunications statewide
+22 contract, and the product is listed on either the
+23 Approved Hardware or Approved Software list located on
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 18
+(Bold face denotes Committee Amendments)
+1 the Office of Management and Enterprise Services
+2 website;
+3 17. Develop and enforce an overall infrastructure architecture
+4 strategy and associated roadmaps for desktop, network, server,
+5 storage, and statewide management systems for state agencies;
+6 18. Effectively manage the design, implementation and support
+7 of complex, highly available infrastructure to ensure optimal
+8 performance, on-time delivery of features, and new products, and
+9 scalable growth;
+10 19. Define and implement a governance model for requesting
+11 services and monitoring service level metrics for all shared
+12 services; and
+13 20. Create the budget for the Information Services Division of
+14 the Office of Management and Enterprise Services to be submitted to
+15 the Legislature each year.
+16 G. The State Governmental Technology Applications Review Board
+17 shall provide ongoing oversight of the implementation of the plan of
+18 action required in subsection D of this section. Any proposed
+19 amendments to the plan of action shall be approved by the Board
+20 prior to adoption.
+21 H. 1. The Chief Information Officer shall act as the
+22 Information Technology and Telecommunications Purchasing Director
+23 for all state agencies and shall be responsible for the procurement
+24 of all information technology and telecommunication software,
+SENATE FLOOR VERSION - HB2710 SFLR Page 19
+(Bold face denotes Committee Amendments)
+1 hard ware, equipment, peripheral devices, maintenance, consulting
+2 services, high technology systems, and other related information
+3 technology, data processing, telecommunication and related
+4 peripherals and services for all state agencies. The Chief
+5 Information Officer shall establish, implement, and enforce policies
+6 and procedures for the procurement of information technology and
+7 telecommunication software, hardware, equipment, peripheral devices,
+8 maintenance, consulting services, high technology systems, and other
+9 related information technology, data processing, telecommunication
+10 and related peripherals and services by purchase, lease-purchase,
+11 lease with option to purchase, lease and rental for all state
+12 agencies. The procurement policies and procedures established by
+13 the Chief Information Officer shall be consistent with The the
+14 Oklahoma Central Purchasing Act.
+15 2. The Chief Information Officer, or any employee or agent of
+16 the Chief Information Officer acting within the scope of delegated
+17 authority, shall have the same power and authority regarding the
+18 procurement of all information technology and telecommunication
+19 products and services as outlined in paragraph 1 of this subsection
+20 for all state agencies as the State Purchasing Director has for all
+21 acquisitions used or consumed by state agencies as established in
+22 The the Oklahoma Central Purchasing Act. Such authority shall,
+23 consistent with the authority granted to the State Purchasing
+24 Director pursuant to Section 85.10 of Title 74 of the Oklahoma
+SENATE FLOOR VERSION - HB2710 SFLR Page 20
+(Bold face denotes Committee Amendments)
+1 Stat utes, include the power to designate financial or proprietary
+2 information submitted by a bidder confidential and reject all
+3 requests to disclose the information so designated, if the Chief
+4 Information Officer requires the bidder to submit the financial or
+5 proprietary information with a bid, proposal, or quotation.
+6 3. The Chief Information Officer or any employee or agent,
+7 pursuant to paragraph 2 of this subsection, shall seek guidance and
+8 recommendations from the Oklahoma Emergency Communications Authority
+9 for all purchases related to public safety communications.
+10 4. When available, state-owned fiber shall be used to support
+11 the Oklahoma Emergency Communications Authority duties and
+12 responsibilities.
+13 I. The Information Services Division of the Office of
+14 Management and Enterprise Services and the Chief Information Officer
+15 shall be subject to the Oklahoma Central Purchasing Act for the
+16 approval and purchase of all equipment, products, and services and
+17 shall also be subject to the requirements of the Public Competitive
+18 Bidding Act of 1974, the Oklahoma Lighting Energy Conservation Act
+19 and the Public Building Construction and Planning Act. The Chief
+20 Information Officer shall be authorized to delegate all or some of
+21 the procurement of information technology and telecommunication
+22 products and services and construction of facilities and
+23 telecommunication networks to another state entity if the Chief
+24 Information Officer determines it to be cost-effective and in the
+SENATE FLOOR VERSION - HB2710 SFLR Page 21
+(Bold face denotes Committee Amendments)
+1 best interest of the state. The Chief Information Officer shall
+2 have authority to designate information technology and
+3 telecommunication contracts as statewide contracts and mandatory
+4 statewide contracts pursuant to Section 85.5 of Title 74 of the
+5 Oklahoma Statutes and to negotiate consolidation contracts,
+6 enterprise agreements and high technology systems contracts. Any
+7 contract entered into by a state agency for which the Chief
+8 Information Officer has not acted as the Information Technology and
+9 Telecommunications Purchasing Director, as required in this
+10 subsection or subsection H of this section, shall be deemed to be
+11 unenforceable and the Office of Management and Enterprise Services
+12 shall not process any claim associated with the provisions thereof.
+13 J. The Chief Information Officer shall establish, implement,
+14 and enforce policies and procedure procedures for the development
+15 and procurement of an interoperable radio communications system for
+16 state agencies. The Chief Information Officer shall work with local
+17 governmental entities in developing the interoperable radio
+18 communications system.
+19 K. The Chief Information Officer shall develop and implement a
+20 plan to utilize open source technology and products for the
+21 information technology and telecommunication systems of all state
+22 agencies.
+23 L. All state agencies and authorities of this state and all
+24 officers and employees of those entities shall work and cooperate
+SENATE FLOOR VERSION - HB2710 SFLR Page 22
+(Bold face denotes Committee Amendments)
+1 with and lend assistance to the Chief Information Officer and the
+2 Information Services Division of the Office of Management and
+3 Enterprise Services and provide any and all information requested by
+4 the Chief Information Officer.
+5 M. The Chief Information Officer shall prepare an annual report
+6 detailing the ongoing net saving savings attributable to the
+7 reallocation and consolidation of information technology and
+8 telecommunication resources and personnel and shall submit the
+9 report to the Governor, the Speaker of the Oklahoma House of
+10 Representatives, and the President Pro Tempore of the Oklahoma State
+11 Senate.
+12 N. For purposes of the Oklahoma Information Services Act,
+13 unless otherwise provided for, "state agencies" shall include any
+14 office, officer, bureau, board, commission, counsel, unit, division,
+15 body, authority or institution of the executive branch of state
+16 government, whether elected or appointed; provided, except with
+17 respect to the provisions of subsection D of this section, the term
+18 "state agencies" shall not include institutions within The Oklahoma
+19 State System of Higher Education, the Oklahoma State Regents for
+20 Higher Education and the telecommunications network known as OneNet.
+21 O. As used in this section:
+22 1. "High technology system" means advanced technological
+23 equipment, software, communication lines, and services for the
+24 processing, storing, and retrieval of information by a state agency;
+SENATE FLOOR VERSION - HB2710 SFLR Page 23
+(Bold face denotes Committee Amendments)
+1 2. "Consolidation contract" means a contract for several state
+2 or public agencies for the purpose of purchasing information
+3 technology and telecommunication goods and services; and
+4 3. "Enterprise agreement" means an agreement for information
+5 technology or telecommunication goods and services with a supplier
+6 who manufactures, develops and designs products and provides
+7 services that are used by one or more state agencies.
+8 SECTION 7. AMENDATORY 62 O.S. 2021, Section 34.20, is
+9 amended to read as follows:
+10 Section 34.20. In addition to the powers and duties as defined
+11 elsewhere in this title, the Information Services Division of the
+12 Office of Management and Enterprise Services shall:
+13 1. Coordinate statewide planning and approve statewide
+14 contracts for communication and telecommunications needs of state
+15 agencies, including, but not limited to, voice, data, radio
+16 including the interoperable radio communications system for state
+17 agencies, video, broadband, Wi-Fi or wireless networking, Global
+18 Positioning Systems (GPS), Internet, eGovernment, as referenced in
+19 Sections 34.24 and 34.25 of this title, and facsimile transmissions
+20 through analysis of the telecommunications and information
+21 technology plan of each agency;
+22 2. In coordination with the Oklahoma Office of Homeland
+23 Security Emergency Communications Authority, establish minimum
+24 mandatory standards and protocols for:
+SENATE FLOOR VERSION - HB2710 SFLR Page 24
+(Bold face denotes Committee Amendments)
+1 a. communication networks and equipment,
+2 b. wide area and local area systems,
+3 c. integration of equipment, systems and joint usage,
+4 d. Internet and eGovernment,
+5 e. operating systems or methods to be used to meet
+6 communications requirements efficiently, effectively,
+7 and securely,
+8 f. rendering of aid between state government and its
+9 political subdivisions with respect to organizing of
+10 communications systems, and
+11 g. an economical and cost-effective utilization of
+12 communication services.
+13 The standards and protocols shall be compatible with the
+14 standards and protocols established for the Oklahoma Government
+15 Telecommunications Network;
+16 3. Serve as a focal point for all statewide projects and
+17 approve all statewide contracts for state agencies involving current
+18 communications vendors where the focus of such authority can
+19 substantially enhance the state communications plan or the savings
+20 which can be achieved thereunder;
+21 4. Provide, when requested by political subdivisions of the
+22 state, for the organizing of communications or telecommunications
+23 systems and service between the state and its political subdivisions
+24 and enter into agreements to effect the purposes of this section;
+SENATE FLOOR VERSION - HB2710 SFLR Page 25
+(Bold face denotes Committee Amendments)
+1 5. Cooperate with any federal, state or local emergency
+2 management agency in providing for emergency communications and
+3 telecommunication services;
+4 6. Apply for, receive, and hold, or assist agencies in applying
+5 for, receiving or holding, such authorizations, licenses and
+6 allocations of channels and frequencies to carry out the purposes of
+7 this section;
+8 7. Accomplish such other purposes as may be necessary or
+9 incidental to the administration of its authority or functions
+10 pursuant to law; and
+11 8. Provide support for telecommunication networks of state
+12 agencies through analysis of the telecommunications needs and
+13 requirements of each agency and promotion of the use of the Oklahoma
+14 Government Telecommunications Network.
+15 SECTION 8. AMENDATORY 74 O.S. 2021, Section 51.1a, as
+16 last amended by Section 2, Chapter 257, O.S.L. 2024 (74 O.S. Supp.
+17 2025, Section 51.1a), is amended to read as follows:
+18 Section 51.1a. A. In addition to the powers and duties as
+19 defined elsewhere in statute, the Office of Homeland Security has
+20 the duty and responsibility for interoperable public safety
+21 communications planning within this state. As part of this duty,
+22 the Office of Homeland Security shall:
+23 1. Annually develop and electronically report to the Governor,
+24 President Pro Tempore of the Oklahoma State Senate, and Speaker of
+SENATE FLOOR VERSION - HB2710 SFLR Page 26
+(Bold face denotes Committee Amendments)
+1 the Oklahoma House of Representatives, the Statewide Communications
+2 Interoperability Plan as part of the strategic plan required
+3 pursuant to Section 4 of this act;
+4 2. Coordinate statewide planning for public safety
+5 communication needs of state government and state emergency
+6 responders, including a migration plan for state agency use of
+7 public safety communications technologies and rendering of aid
+8 between state government and its political subdivisions for
+9 organizing and use of disparate public safety communications
+10 systems;
+11 3. Serve as a focal point for all state-level projects
+12 involving public safety communications vendors where the focus of
+13 such authority can substantially enhance the state communications
+14 plan or savings;
+15 4. Apply for, receive and hold, or assist state agencies in
+16 applying for, receiving or holding, such authorizations, licenses,
+17 and allocations of channels and frequencies to carry out the
+18 purposes of this section;
+19 5. Establish minimum standards and protocols for the
+20 acquisition, development, or enhancement of public safety
+21 communications technologies. These standards shall be utilized by
+22 the Information Services Division of the Office of Management and
+23 Enterprise Services pursuant to the provisions of Section 34.20 of
+24 Title 62 of the Oklahoma Statutes; and
+SENATE FLOOR VERSION - HB2710 SFLR Page 27
+(Bold face denotes Committee Amendments)
+1 6. Accomplish such other purposes as may be necessary or
+2 incidental to the administration of its authority or functions
+3 pursuant to law.
+4 B. It is the intent of the Legislature that all state public
+5 entities comply with the provisions of the Statewide Communications
+6 Interoperability Plan issued by the Office of Homeland Security.
+7 All state agencies are required to review the provisions of the
+8 Statewide Communications Interoperability Plan and the public safety
+9 communications standards issued by the Office of Homeland Security
+10 prior to the purchase, acquisition, development, or enhancement of
+11 any public safety communications system. Local public safety
+12 agencies and political subdivisions of the state are encouraged, but
+13 not required, to review the provisions of the Statewide
+14 Communications Interoperability Plan and the public safety
+15 communications standards issued by the Office of Homeland Security
+16 prior to the purchase, acquisition, development, or enhancement of
+17 any public safety communications system to assist the local public
+18 safety agency or political subdivision in purchasing decisions.
+19 C. No The Office of Homeland Security shall ensure that all
+20 federal and state grant funding for radio and data communications
+21 meets the State Strategic Communications Plan that is approved by
+22 the Oklahoma Emergency Communications Authority.
+23 D. Unless approved by the Oklahoma Emergency Communications
+24 Authority, no state agency shall use state funds or enter into any
+SENATE FLOOR VERSION - HB2710 SFLR Page 28
+(Bold face denotes Committee Amendments)
+1 agre ement for the acquisition, development, or enhancement of a
+2 public safety communication system and unless the request is
+3 consistent with the Statewide Communications Interoperability Plan
+4 and the public safety communications standards issued by the Office
+5 of Homeland Security.
+6 SECTION 9. REPEALER 62 O.S. 2021, Section 35.6.2, is
+7 hereby repealed.
+8 SECTION 10. This act shall become effective November 1, 2026.
+9 COMMITTEE REPORT BY: COMMITTEE ON PUBLIC SAFETY
+April 7, 2026 - DO PASS
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 29
+(Bold face denotes Committee Amendments)
+[DELETED: P B F  a G]
+[DELETED: Pr]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P r t n]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P d]
+[DELETED: P t d d r a a]
+[DELETED: P t]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P a a]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P c w i I o r a]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+
+
+================================================================================
+
+Raw Text:
+1 SENATE FLOOR VERSION
+April 7, 2026
+2
+3 ENGROSSED HOUSE
+BILL NO. 2710 By: Ford of the House
+4
+and
+5
+Gollihare of the Senate
+6
+7
+8 An Act relating to statewide radio systems; creating
+the Oklahoma Emergency Communications Act; defining
+9 terms; creating the Oklahoma Emergency Communications
+Authority; providing for membership; providing for
+10 the filling of vacancies and reaffirmation;
+prohibiting compensation; requiring employment of
+11 certain Executive Director; providing for funding of
+the Executive Director; stating Authority shall be
+12 subject to the Oklahoma Open Records Act and the
+Oklahoma Open Meeting Act; stating powers and duties
+13 of the Authority; creating the Oklahoma Emergency
+Communications Authority Revolving Fund; stating type
+14 of fund; stating purpose; authorizing expenditures;
+amending 62 O.S. 2021, Section 34.11.1, as amended by
+15 Section 1, Chapter 193, O.S.L. 2024 (62 O.S. Supp.
+2024, Section 34.11.1), which relates to Chief
+16 Information Officer; requiring Chief Information
+Officer seek certain guidance and recommendations for
+17 purchases; amending 62 O.S. 2021, Section 34.20,
+which relates to the Information Services Division;
+18 modifying responsible agency; amending 63 O.S. 2021,
+Section 2862, as last amended by Section 146, Chapter
+19 452, O.S.L. 2024 (63 O.S. Supp. 2024, Section 2862),
+which relates to definitions; defining terms;
+20 amending 63 O.S. 2021, Section 2864, as last amended
+by Section 7, Chapter 258, O.S.L. 2023 (63 O.S. Supp.
+21 2024, Section 2864), which relates to powers and
+duties; modifying powers and duties of the Oklahoma
+22 9-1-1 Management Authority; amending 74 O.S. 2021,
+Section 51.1a, as last amended by Section 2, Chapter
+23 257, O.S.L. 2024 (74 O.S. Supp. 2024, Section 51.1a),
+which relates to interoperable public safety
+24 communications planning; modifying responsible agency
+SENATE FLOOR VERSION - HB2710 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 requiring transfer of certain funds; repealing 62
+O.S. 2021, Section 35.6.2, which relates to the Land
+2 Mobile Radio Public Safety Interoperability
+Cooperative; providing for codification; and
+3 providing an effective date.
+4
+5 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+6 SECTION 1. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 2890 of Title 63, unless there
+8 is created a duplication in numbering, reads as follows:
+9 This act shall be known and may be cited as the "Oklahoma
+10 Emergency Communications Act".
+11 SECTION 2. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 2891 of Title 63, unless there
+13 is created a duplication in numbering, reads as follows:
+14 As used in the Oklahoma Emergency Communications Act:
+15 1. "Authority" means the Oklahoma Emergency Communications
+16 Authority created in Section 3 of this act;
+17 2. "FCC" means the Federal Communications Commission; and
+18 3. "Revolving fund" means the Oklahoma Emergency Communications
+19 Authority Revolving Fund created in Section 6 of this act.
+20 SECTION 3. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 2892 of Title 63, unless there
+22 is created a duplication in numbering, reads as follows:
+23 A. There is hereby created within the Department of Public
+24 Safety the Oklahoma Emergency Communications Authority which shall
+SENATE FLOOR VERSION - HB2710 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 be t he governing board providing oversight, development, and
+2 regulation of state emergency communications systems.
+3 B. The Authority shall be composed of the following fifteen
+4 (15) members:
+5 1. One member representing the Oklahoma Department of Public
+6 Safety, to be appointed by the Commissioner of Public Safety;
+7 2. One member representing the Oklahoma Department of
+8 Transportation, to be appointed by the Secretary of Transportation;
+9 3. One member representing forestry and state fire response, to
+10 be appointed by the Commissioner of Agriculture;
+11 4. One member representing the Office of Management and
+12 Enterprise Services, to be appointed by the Chief Information
+13 Officer;
+14 5. One member representing the State Department of Health, to
+15 be appointed by the State Commissioner of Health;
+16 6. One member representing a statewide organization dedicated
+17 to representing municipal law enforcement, to be appointed by the
+18 President Pro Tempore of the Oklahoma State Senate;
+19 7. One member representing a statewide organization dedicated
+20 to representing county law enforcement, to be appointed by the
+21 Oklahoma Sheriffs' Association;
+22 8. One member representing a statewide organization dedicated
+23 to representing fire service, to be appointed by the Governor;
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 9. One member representing a statewide organization dedicated
+2 to representing Oklahoma municipalities, to be appointed by the
+3 Speaker of the Oklahoma House of Representatives;
+4 10. One member representing a statewide organization
+5 representing Oklahoma county commissioners, to be appointed by the
+6 Governor;
+7 11. One member representing a statewide organization
+8 representing radio communications, to be appointed by the President
+9 Pro Tempore of the Oklahoma State Senate;
+10 12. One member representing a statewide organization
+11 representing emergency medical services, to be appointed by the
+12 Governor;
+13 13. One member representing a city or county that owns radio
+14 infrastructure and allows state users to utilize the system for day-
+15 to-day operations, to be appointed by the Speaker of the Oklahoma
+16 House of Representatives;
+17 14. The Oklahoma 9-1-1 Coordinator or his or her designee; and
+18 15. One member representing the Inter-Tribal Council of the
+19 Five Civilized Tribes, to be appointed by Governor.
+20 C. Members may be removed for cause. Members shall serve at
+21 the pleasure of their appointing authority and vacancies shall be
+22 filled by the original appointing authority. Each Authority member
+23 shall be reaffirmed every two (2) years from the date of
+24 appointment.
+SENATE FLOOR VERSION - HB2710 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 D. Members shall receive no compensation for serving on the
+2 Authority.
+3 E. Eight members of the Authority shall constitute a quorum,
+4 and the vote of the majority of the Authority member seats shall be
+5 necessary for any action to be taken by the Authority.
+6 F. The Department of Public Safety shall provide a dedicated
+7 resource to the Emergency Communications Authority to carry out the
+8 goals of the Authority and help coordinate between state and local
+9 public safety agencies. The Authority and the Department of Public
+10 Safety shall agree on the resource provided to the Authority.
+11 G. The Authority shall elect a chair from its membership. The
+12 Authority shall meet at least quarterly. However, the chair may
+13 call a meeting of the Board as often as necessary to transact
+14 business.
+15 H. The Department of Public Safety shall provide staffing, a
+16 proper meeting space, and any other such assistance as the Authority
+17 may require.
+18 I. The Authority shall be subject to the Oklahoma Open Records
+19 Act and the Oklahoma Open Meeting Act.
+20 SECTION 4. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 2893 of Title 63, unless there
+22 is created a duplication in numbering, reads as follows:
+23 The powers and duties of the Oklahoma Emergency Communications
+24 Authority created in Section 3 of this act shall be to:
+SENATE FLOOR VERSION - HB2710 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 1. Approve or disapprove the dedicated resource provided by the
+2 Department of Public Safety pursuant to subsection F of Section 3 of
+3 this act by majority vote of the members;
+4 2. Promulgate rules, through the authority of the Department of
+5 Public Safety, as necessary to implement the provisions of the
+6 Oklahoma Emergency Communications Act and for the governance and
+7 operation of the Oklahoma Emergency Communications Authority;
+8 3. Prepare grant solicitations for funding for the purposes of
+9 assisting public agencies in joining a state-owned shared radio
+10 system. This includes both infrastructure and radio subscribers;
+11 4. Oversee state allocated funding and funding allocations
+12 within the state and local public safety agencies for any radio
+13 infrastructure;
+14 5. Final approval of contracts necessary to administer and
+15 maintain emergency radio systems owned by the State of Oklahoma;
+16 6. Work in conjunction with all state and local public safety
+17 agencies and the Oklahoma Department of Transportation to move all
+18 funding, contracts, and personnel related to the state-owned radio
+19 infrastructure, including communication tower infrastructure, to the
+20 Department of Public Safety within two (2) years of the effective
+21 date of this act;
+22 7. Establish comprehensive user training for the state-owned
+23 emergency radio systems;
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 8. Establish a strategic plan for the state emergency radio
+2 systems to ensure optimal operability and interoperability for all
+3 public safety responders in the state. The plan shall include, but
+4 may not be limited to secondary public safety responders such as
+5 employees of the Oklahoma Department of Transportation and schools;
+6 9. Provide guidance to public agencies regarding emergency
+7 radio communications;
+8 10. Facilitate information-sharing among public agencies;
+9 11. Create and maintain best practices databases for emergency
+10 radio operations;
+11 12. Facilitate the creation of policies and procedures between
+12 state and local public agencies related to emergency radio
+13 communications;
+14 13. Encourage equipment and technology sharing among all
+15 jurisdictions;
+16 14. Facilitate data operability and interoperability between
+17 public safety systems;
+18 15. Provide oversight of the programming of the systems and
+19 radios, including any software or keys necessary to operate on the
+20 state radio systems;
+21 16. Recommend standards to become compliant with Project 25 and
+22 other common radio interoperability standards;
+23
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 17. Enable cost savings to the State of Oklahoma through
+2 unification and enhancement of current land mobile radio public
+3 safety systems;
+4 18. Seek public and private partnerships that enhance the
+5 public safety radio network;
+6 19. Manage, maintain, and seek funding for expansion of all
+7 radio communications systems owned by the State of Oklahoma;
+8 20. Create and maintain strategic plans for radio
+9 communications for both state and local emergency services. The
+10 strategic plan shall be updated annually and provided to the
+11 President Pro Tempore of the Oklahoma State Senate, the Speaker of
+12 the Oklahoma House of Representatives, and the Governor on or before
+13 November 1 of each calendar year. The plan shall be publicly
+14 available on the Oklahoma Department of Public Safety website and
+15 shall be made available to anyone upon request. The plans shall
+16 include details pertaining to the state-owned radio systems,
+17 integration between state systems, and efficiencies implemented.
+18 The plan shall also include both state and local public safety
+19 agencies that are served, underserved, and unserved by state-owned
+20 infrastructure;
+21 21. Implement policies as needed to provide communications
+22 operability and interoperability for local and state users;
+23 22. Seek, apply for, and administer funding through grant
+24 opportunities. The Authority shall approve all emergency
+SENATE FLOOR VERSION - HB2710 SFLR Page 8
+(Bold face denotes Committee Amendments)
+
+1 comm unications grants that are issued by any source within the
+2 Oklahoma Department of Public Safety to recipients or subrecipients,
+3 including internal grant funding provided to state and local public
+4 safety departments or agencies;
+5 23. Ensure that all communications and radio technology,
+6 programming, and maintenance meet Federal Communications Commission
+7 (FCC) rules and regulations;
+8 24. Maintain Geographic Information System (GIS) data:
+9 a. required for the various radio systems used by local
+10 agencies,
+11 b. that is a secured GIS dataset that is for official use
+12 only, that, at a minimum, includes frequencies, if
+13 encryption is in use, and the type of system in use,
+14 and
+15 c. necessary to carry out the mission of the Oklahoma
+16 Emergency Communications Authority;
+17 25. Provide resources to assist local municipal or county
+18 emergency services in the procurement of radio infrastructure to
+19 ensure FCC regulations are maintained. This includes providing
+20 assistance to such emergency services for increasing or adding to
+21 state-owned infrastructure to allow for operability needs;
+22 26. Provide strategic planning and seek funding to ensure radio
+23 tower infrastructure meets FCC rules; and
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 9
+(Bold face denotes Committee Amendments)
+
+1 27. Provide training necessary to ensure local and state users
+2 of public safety systems can provide emergency assistance
+3 efficiently in order to mitigate the loss of life and property.
+4 SECTION 5. NEW LAW A new section of law to be codified
+5 in the Oklahoma Statutes as Section 2895 of Title 63, unless there
+6 is created a duplication in numbering, reads as follows:
+7 There is hereby created in the State Treasury a revolving fund
+8 for the Oklahoma Emergency Communications Authority to be designated
+9 the "Oklahoma Emergency Communications Authority Revolving Fund".
+10 The fund shall be a continuing fund, not subject to fiscal year
+11 limitations, and shall consist of all monies received from state
+12 appropriations. All monies accruing to the credit of the fund are
+13 hereby appropriated and may be budgeted and expended by the Oklahoma
+14 Emergency Communications Authority, for the purpose of supporting
+15 the administration of the Oklahoma Emergency Communications Act.
+16 Expenditures from the fund shall be made upon warrants issued by the
+17 State Treasurer against claims filed as prescribed by law with the
+18 Director of the Office of Management and Enterprise Services for
+19 approval and payment.
+20 SECTION 6. AMENDATORY 62 O.S. 2021, Section 34.11.1, as
+21 amended by Section 1, Chapter 193, O.S.L. 2024 (62 O.S. Supp. 2025,
+22 Section 34.11.1), is amended to read as follows:
+23 Section 34.11.1. A. There is hereby created the position of
+24 Chief Information Officer who shall be appointed by the Governor.
+SENATE FLOOR VERSION - HB2710 SFLR Page 10
+(Bold face denotes Committee Amendments)
+
+1 The Chief Information Officer, in addition to having authority over
+2 the Information Services Division of the Office of Management and
+3 Enterprise Services, shall also serve as Secretary of Information
+4 Technology and Telecommunications or successor cabinet position and
+5 shall have jurisdictional areas of responsibility related to
+6 information technology and telecommunications systems of all state
+7 agencies as provided for in state law. The salary of the Chief
+8 Information Officer shall not be less than One Hundred Thirty
+9 Thousand Dollars ($130,000.00) or more than One Hundred Sixty
+10 Thousand Dollars ($160,000.00).
+11 B. Any person appointed to the position of Chief Information
+12 Officer shall meet the following eligibility requirements:
+13 1. A baccalaureate degree in Computer Information Systems,
+14 Information Systems or Technology Management, Business
+15 Administration, Finance, or other similar degree;
+16 2. A minimum of ten (10) years of professional experience with
+17 responsibilities for management and support of information systems
+18 and information technology, including seven (7) years of direct
+19 management of a major information technology operation;
+20 3. Familiarity with local and wide-area wide area network
+21 design, implementation, and operation;
+22 4. Experience with data and voice convergence service
+23 offerings;
+24 5. Experience in developing technology budgets;
+SENATE FLOOR VERSION - HB2710 SFLR Page 11
+(Bold face denotes Committee Amendments)
+
+1 6. Experience in developing requests for proposal and
+2 administering the bid process;
+3 7. Experience managing professional staff, teams, and
+4 consultants;
+5 8. Knowledge of telecommunications operations;
+6 9. Ability to develop and set strategic direction for
+7 information technology and telecommunications and to manage daily
+8 development and operations functions;
+9 10. An effective communicator who is able to build consensus;
+10 11. Ability to analyze and resolve complex issues, both logical
+11 and interpersonal;
+12 12. Effective verbal and written communications skills and
+13 effective presentation skills, geared toward coordination and
+14 education;
+15 13. Ability to negotiate and defuse conflict; and
+16 14. A self-motivator, independent, cooperative, flexible and
+17 creative.
+18 C. The salary and any other expenses for the Chief Information
+19 Officer shall be budgeted as a separate line item through the Office
+20 of Management and Enterprise Services. The operating expenses of
+21 the Information Services Division shall be set by the Chief
+22 Information Officer and shall be budgeted as a separate line item
+23 through the Office of Management and Enterprise Services. The
+24 Office of Management and Enterprise Services shall provide adequate
+SENATE FLOOR VERSION - HB2710 SFLR Page 12
+(Bold face denotes Committee Amendments)
+
+1 offi ce space, equipment and support necessary to enable the Chief
+2 Information Officer to carry out the information technology and
+3 telecommunications duties and responsibilities of the Chief
+4 Information Officer and the Information Services Division.
+5 D. 1. Within twelve (12) months of appointment, the first
+6 Chief Information Officer shall complete an assessment, which shall
+7 be modified annually pursuant to Section 35.5 of this title, of the
+8 implementation of the transfer, coordination, and modernization of
+9 all information technology and telecommunication systems of all
+10 state agencies in the state as provided for in the Oklahoma
+11 Information Services Act. The assessment shall include the
+12 information technology and telecommunications systems of all
+13 institutions within The Oklahoma State System of Higher Education,
+14 the Oklahoma State Regents for Higher Education and the
+15 telecommunications network known as OneNet as assembled and
+16 submitted by the Oklahoma Higher Education Chief Information
+17 Officer, as designated by the Oklahoma State Regents for Higher
+18 Education.
+19 2. Within twelve (12) months of appointment, the first Chief
+20 Information Officer shall issue a report setting out a plan of
+21 action which will include the following:
+22 a. define the shared service model organization structure
+23 and the reporting relationship of the recommended
+24 organization,
+SENATE FLOOR VERSION - HB2710 SFLR Page 13
+(Bold face denotes Committee Amendments)
+
+1 b. the implementation of an information technology and
+2 telecommunications shared services model that defines
+3 the statewide infrastructure environment needed by
+4 most state agencies that is not specific to individual
+5 agencies and the shared applications that are utilized
+6 across multiple agencies,
+7 c. define the services that shall be in the shared
+8 services model under the control of the Information
+9 Services Division of the Office of Management and
+10 Enterprise Services,
+11 d. define the roadmap to implement the proposed shared
+12 services model. The roadmap shall include
+13 recommendations on the transfer, coordination, and
+14 modernization of all information technology and
+15 telecommunication systems of all the state agencies in
+16 the state,
+17 e. recommendations on the reallocation of information
+18 technology and telecommunication resources and
+19 personnel,
+20 f. a cost-benefit analysis to support the recommendations
+21 on the reallocation of information technology and
+22 telecommunication resources and personnel,
+23 g. a calculation of the net savings realized through the
+24 reallocation and consolidation of information
+SENATE FLOOR VERSION - HB2710 SFLR Page 14
+(Bold face denotes Committee Amendments)
+
+1 technology and telecommunication resources and
+2 personnel after compensating for the cost of
+3 contracting with a private consultant as authorized in
+4 paragraph 4 of this subsection, implementing the plan
+5 of action, and ongoing costs of the Information
+6 Services Division of the Office of Management and
+7 Enterprise Services, and
+8 h. the information required in subsection B of Section
+9 35.5 of this title.
+10 3. The plan of action report shall be presented to the
+11 Governor, Speaker of the Oklahoma House of Representatives, and the
+12 President Pro Tempore of the Oklahoma State Senate.
+13 4. The Chief Information Officer may contract with a private
+14 consultant or consultants to assist in the assessment and
+15 development of the plan of action report as required in this
+16 subsection.
+17 E. The Chief Information Officer shall be authorized to employ
+18 personnel, fix the duties and compensation of the personnel, not
+19 otherwise prescribed by law, and otherwise direct the work of the
+20 personnel in performing the function functions and accomplishing the
+21 purposes of the Information Services Division of the Office of
+22 Management and Enterprise Services.
+23
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 15
+(Bold face denotes Committee Amendments)
+
+1 F. The Information Services Division of the Office of
+2 Management and Enterprise Services shall be responsible for the
+3 following duties:
+4 1. Formulate and implement the information technology strategy
+5 for all state agencies;
+6 2. Define, design, and implement a shared services statewide
+7 infrastructure and application environment for information
+8 technology and telecommunications for all state agencies;
+9 3. Direct the development and operation of a scalable
+10 telecommunications infrastructure that supports data and voice
+11 communications reliability, integrity, and security;
+12 4. Supervise the applications development process for those
+13 applications that are utilized across multiple agencies;
+14 5. Provide direction for the professional development of
+15 information technology staff of state agencies and oversee the
+16 professional development of the staff of the Information Services
+17 Division of the Office of Management and Enterprise Services;
+18 6. Evaluate all technology and telecommunication investment
+19 choices for all state agencies;
+20 7. Create a plan to ensure alignment of current systems, tools,
+21 and processes with the strategic information technology plan for all
+22 state agencies;
+23 8. Set direction and provide oversight for the support and
+24 continuous upgrading of the current information technology and
+SENATE FLOOR VERSION - HB2710 SFLR Page 16
+(Bold face denotes Committee Amendments)
+
+1 tele communication infrastructure in the state in support of enhanced
+2 reliability, user service levels, and security;
+3 9. Direct the development, implementation, and management of
+4 appropriate standards, policies and procedures to ensure the success
+5 of state information technology and telecommunication initiatives;
+6 10. Recruit, hire and transfer the required technical staff in
+7 the Information Services Division of the Office of Management and
+8 Enterprise Services to support the services provided by the Division
+9 and the execution of the strategic information technology plan;
+10 11. Establish, maintain, and enforce information technology and
+11 telecommunication standards;
+12 12. Delegate, coordinate, and review all work to ensure quality
+13 and efficient operation of the Information Services Division of the
+14 Office of Management and Enterprise Services;
+15 13. Create and implement a communication plan that disseminates
+16 pertinent information to state agencies on standards, policies,
+17 procedures, service levels, project status, and other important
+18 information to customers of the Information Services Division of the
+19 Office of Management and Enterprise Services and provide for agency
+20 feedback and performance evaluation by customers of the Division;
+21 14. Develop and implement training programs for state agencies
+22 using the shared services of the Information Services Division of
+23 the Office of Management and Enterprise Services and recommend
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 17
+(Bold face denotes Committee Amendments)
+
+1 trai ning programs to state agencies on information technology and
+2 telecommunication systems, products and procedures;
+3 15. Provide counseling, performance evaluation, training,
+4 motivation, discipline, and assign duties for employees of the
+5 Information Services Division of the Office of Management and
+6 Enterprise Services;
+7 16. For all state agencies, approve the purchasing of all
+8 information technology and telecommunication services and approve
+9 the purchase of any information technology and telecommunication
+10 product except the following:
+11 a. a purchase less than or equal to Five Thousand Dollars
+12 ($5,000.00) if such product is purchased using a state
+13 purchase card and the product is listed on either the
+14 Approved Hardware or Approved Software list located on
+15 the Office of Management and Enterprise Services
+16 website, or
+17 b. a purchase over Five Thousand Dollars ($5,000.00) and
+18 less than or equal to Twenty-five Thousand Dollars
+19 ($25,000.00) if such product is purchased using a
+20 state purchase card, the product is listed on an
+21 information technology or telecommunications statewide
+22 contract, and the product is listed on either the
+23 Approved Hardware or Approved Software list located on
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 18
+(Bold face denotes Committee Amendments)
+
+1 the Office of Management and Enterprise Services
+2 website;
+3 17. Develop and enforce an overall infrastructure architecture
+4 strategy and associated roadmaps for desktop, network, server,
+5 storage, and statewide management systems for state agencies;
+6 18. Effectively manage the design, implementation and support
+7 of complex, highly available infrastructure to ensure optimal
+8 performance, on-time delivery of features, and new products, and
+9 scalable growth;
+10 19. Define and implement a governance model for requesting
+11 services and monitoring service level metrics for all shared
+12 services; and
+13 20. Create the budget for the Information Services Division of
+14 the Office of Management and Enterprise Services to be submitted to
+15 the Legislature each year.
+16 G. The State Governmental Technology Applications Review Board
+17 shall provide ongoing oversight of the implementation of the plan of
+18 action required in subsection D of this section. Any proposed
+19 amendments to the plan of action shall be approved by the Board
+20 prior to adoption.
+21 H. 1. The Chief Information Officer shall act as the
+22 Information Technology and Telecommunications Purchasing Director
+23 for all state agencies and shall be responsible for the procurement
+24 of all information technology and telecommunication software,
+SENATE FLOOR VERSION - HB2710 SFLR Page 19
+(Bold face denotes Committee Amendments)
+
+1 hard ware, equipment, peripheral devices, maintenance, consulting
+2 services, high technology systems, and other related information
+3 technology, data processing, telecommunication and related
+4 peripherals and services for all state agencies. The Chief
+5 Information Officer shall establish, implement, and enforce policies
+6 and procedures for the procurement of information technology and
+7 telecommunication software, hardware, equipment, peripheral devices,
+8 maintenance, consulting services, high technology systems, and other
+9 related information technology, data processing, telecommunication
+10 and related peripherals and services by purchase, lease-purchase,
+11 lease with option to purchase, lease and rental for all state
+12 agencies. The procurement policies and procedures established by
+13 the Chief Information Officer shall be consistent with The the
+14 Oklahoma Central Purchasing Act.
+15 2. The Chief Information Officer, or any employee or agent of
+16 the Chief Information Officer acting within the scope of delegated
+17 authority, shall have the same power and authority regarding the
+18 procurement of all information technology and telecommunication
+19 products and services as outlined in paragraph 1 of this subsection
+20 for all state agencies as the State Purchasing Director has for all
+21 acquisitions used or consumed by state agencies as established in
+22 The the Oklahoma Central Purchasing Act. Such authority shall,
+23 consistent with the authority granted to the State Purchasing
+24 Director pursuant to Section 85.10 of Title 74 of the Oklahoma
+SENATE FLOOR VERSION - HB2710 SFLR Page 20
+(Bold face denotes Committee Amendments)
+
+1 Stat utes, include the power to designate financial or proprietary
+2 information submitted by a bidder confidential and reject all
+3 requests to disclose the information so designated, if the Chief
+4 Information Officer requires the bidder to submit the financial or
+5 proprietary information with a bid, proposal, or quotation.
+6 3. The Chief Information Officer or any employee or agent,
+7 pursuant to paragraph 2 of this subsection, shall seek guidance and
+8 recommendations from the Oklahoma Emergency Communications Authority
+9 for all purchases related to public safety communications.
+10 4. When available, state-owned fiber shall be used to support
+11 the Oklahoma Emergency Communications Authority duties and
+12 responsibilities.
+13 I. The Information Services Division of the Office of
+14 Management and Enterprise Services and the Chief Information Officer
+15 shall be subject to the Oklahoma Central Purchasing Act for the
+16 approval and purchase of all equipment, products, and services and
+17 shall also be subject to the requirements of the Public Competitive
+18 Bidding Act of 1974, the Oklahoma Lighting Energy Conservation Act
+19 and the Public Building Construction and Planning Act. The Chief
+20 Information Officer shall be authorized to delegate all or some of
+21 the procurement of information technology and telecommunication
+22 products and services and construction of facilities and
+23 telecommunication networks to another state entity if the Chief
+24 Information Officer determines it to be cost-effective and in the
+SENATE FLOOR VERSION - HB2710 SFLR Page 21
+(Bold face denotes Committee Amendments)
+
+1 best interest of the state. The Chief Information Officer shall
+2 have authority to designate information technology and
+3 telecommunication contracts as statewide contracts and mandatory
+4 statewide contracts pursuant to Section 85.5 of Title 74 of the
+5 Oklahoma Statutes and to negotiate consolidation contracts,
+6 enterprise agreements and high technology systems contracts. Any
+7 contract entered into by a state agency for which the Chief
+8 Information Officer has not acted as the Information Technology and
+9 Telecommunications Purchasing Director, as required in this
+10 subsection or subsection H of this section, shall be deemed to be
+11 unenforceable and the Office of Management and Enterprise Services
+12 shall not process any claim associated with the provisions thereof.
+13 J. The Chief Information Officer shall establish, implement,
+14 and enforce policies and procedure procedures for the development
+15 and procurement of an interoperable radio communications system for
+16 state agencies. The Chief Information Officer shall work with local
+17 governmental entities in developing the interoperable radio
+18 communications system.
+19 K. The Chief Information Officer shall develop and implement a
+20 plan to utilize open source technology and products for the
+21 information technology and telecommunication systems of all state
+22 agencies.
+23 L. All state agencies and authorities of this state and all
+24 officers and employees of those entities shall work and cooperate
+SENATE FLOOR VERSION - HB2710 SFLR Page 22
+(Bold face denotes Committee Amendments)
+
+1 with and lend assistance to the Chief Information Officer and the
+2 Information Services Division of the Office of Management and
+3 Enterprise Services and provide any and all information requested by
+4 the Chief Information Officer.
+5 M. The Chief Information Officer shall prepare an annual report
+6 detailing the ongoing net saving savings attributable to the
+7 reallocation and consolidation of information technology and
+8 telecommunication resources and personnel and shall submit the
+9 report to the Governor, the Speaker of the Oklahoma House of
+10 Representatives, and the President Pro Tempore of the Oklahoma State
+11 Senate.
+12 N. For purposes of the Oklahoma Information Services Act,
+13 unless otherwise provided for, "state agencies" shall include any
+14 office, officer, bureau, board, commission, counsel, unit, division,
+15 body, authority or institution of the executive branch of state
+16 government, whether elected or appointed; provided, except with
+17 respect to the provisions of subsection D of this section, the term
+18 "state agencies" shall not include institutions within The Oklahoma
+19 State System of Higher Education, the Oklahoma State Regents for
+20 Higher Education and the telecommunications network known as OneNet.
+21 O. As used in this section:
+22 1. "High technology system" means advanced technological
+23 equipment, software, communication lines, and services for the
+24 processing, storing, and retrieval of information by a state agency;
+SENATE FLOOR VERSION - HB2710 SFLR Page 23
+(Bold face denotes Committee Amendments)
+
+1 2. "Consolidation contract" means a contract for several state
+2 or public agencies for the purpose of purchasing information
+3 technology and telecommunication goods and services; and
+4 3. "Enterprise agreement" means an agreement for information
+5 technology or telecommunication goods and services with a supplier
+6 who manufactures, develops and designs products and provides
+7 services that are used by one or more state agencies.
+8 SECTION 7. AMENDATORY 62 O.S. 2021, Section 34.20, is
+9 amended to read as follows:
+10 Section 34.20. In addition to the powers and duties as defined
+11 elsewhere in this title, the Information Services Division of the
+12 Office of Management and Enterprise Services shall:
+13 1. Coordinate statewide planning and approve statewide
+14 contracts for communication and telecommunications needs of state
+15 agencies, including, but not limited to, voice, data, radio
+16 including the interoperable radio communications system for state
+17 agencies, video, broadband, Wi-Fi or wireless networking, Global
+18 Positioning Systems (GPS), Internet, eGovernment, as referenced in
+19 Sections 34.24 and 34.25 of this title, and facsimile transmissions
+20 through analysis of the telecommunications and information
+21 technology plan of each agency;
+22 2. In coordination with the Oklahoma Office of Homeland
+23 Security Emergency Communications Authority, establish minimum
+24 mandatory standards and protocols for:
+SENATE FLOOR VERSION - HB2710 SFLR Page 24
+(Bold face denotes Committee Amendments)
+
+1 a. communication networks and equipment,
+2 b. wide area and local area systems,
+3 c. integration of equipment, systems and joint usage,
+4 d. Internet and eGovernment,
+5 e. operating systems or methods to be used to meet
+6 communications requirements efficiently, effectively,
+7 and securely,
+8 f. rendering of aid between state government and its
+9 political subdivisions with respect to organizing of
+10 communications systems, and
+11 g. an economical and cost-effective utilization of
+12 communication services.
+13 The standards and protocols shall be compatible with the
+14 standards and protocols established for the Oklahoma Government
+15 Telecommunications Network;
+16 3. Serve as a focal point for all statewide projects and
+17 approve all statewide contracts for state agencies involving current
+18 communications vendors where the focus of such authority can
+19 substantially enhance the state communications plan or the savings
+20 which can be achieved thereunder;
+21 4. Provide, when requested by political subdivisions of the
+22 state, for the organizing of communications or telecommunications
+23 systems and service between the state and its political subdivisions
+24 and enter into agreements to effect the purposes of this section;
+SENATE FLOOR VERSION - HB2710 SFLR Page 25
+(Bold face denotes Committee Amendments)
+
+1 5. Cooperate with any federal, state or local emergency
+2 management agency in providing for emergency communications and
+3 telecommunication services;
+4 6. Apply for, receive, and hold, or assist agencies in applying
+5 for, receiving or holding, such authorizations, licenses and
+6 allocations of channels and frequencies to carry out the purposes of
+7 this section;
+8 7. Accomplish such other purposes as may be necessary or
+9 incidental to the administration of its authority or functions
+10 pursuant to law; and
+11 8. Provide support for telecommunication networks of state
+12 agencies through analysis of the telecommunications needs and
+13 requirements of each agency and promotion of the use of the Oklahoma
+14 Government Telecommunications Network.
+15 SECTION 8. AMENDATORY 74 O.S. 2021, Section 51.1a, as
+16 last amended by Section 2, Chapter 257, O.S.L. 2024 (74 O.S. Supp.
+17 2025, Section 51.1a), is amended to read as follows:
+18 Section 51.1a. A. In addition to the powers and duties as
+19 defined elsewhere in statute, the Office of Homeland Security has
+20 the duty and responsibility for interoperable public safety
+21 communications planning within this state. As part of this duty,
+22 the Office of Homeland Security shall:
+23 1. Annually develop and electronically report to the Governor,
+24 President Pro Tempore of the Oklahoma State Senate, and Speaker of
+SENATE FLOOR VERSION - HB2710 SFLR Page 26
+(Bold face denotes Committee Amendments)
+
+1 the Oklahoma House of Representatives, the Statewide Communications
+2 Interoperability Plan as part of the strategic plan required
+3 pursuant to Section 4 of this act;
+4 2. Coordinate statewide planning for public safety
+5 communication needs of state government and state emergency
+6 responders, including a migration plan for state agency use of
+7 public safety communications technologies and rendering of aid
+8 between state government and its political subdivisions for
+9 organizing and use of disparate public safety communications
+10 systems;
+11 3. Serve as a focal point for all state-level projects
+12 involving public safety communications vendors where the focus of
+13 such authority can substantially enhance the state communications
+14 plan or savings;
+15 4. Apply for, receive and hold, or assist state agencies in
+16 applying for, receiving or holding, such authorizations, licenses,
+17 and allocations of channels and frequencies to carry out the
+18 purposes of this section;
+19 5. Establish minimum standards and protocols for the
+20 acquisition, development, or enhancement of public safety
+21 communications technologies. These standards shall be utilized by
+22 the Information Services Division of the Office of Management and
+23 Enterprise Services pursuant to the provisions of Section 34.20 of
+24 Title 62 of the Oklahoma Statutes; and
+SENATE FLOOR VERSION - HB2710 SFLR Page 27
+(Bold face denotes Committee Amendments)
+
+1 6. Accomplish such other purposes as may be necessary or
+2 incidental to the administration of its authority or functions
+3 pursuant to law.
+4 B. It is the intent of the Legislature that all state public
+5 entities comply with the provisions of the Statewide Communications
+6 Interoperability Plan issued by the Office of Homeland Security.
+7 All state agencies are required to review the provisions of the
+8 Statewide Communications Interoperability Plan and the public safety
+9 communications standards issued by the Office of Homeland Security
+10 prior to the purchase, acquisition, development, or enhancement of
+11 any public safety communications system. Local public safety
+12 agencies and political subdivisions of the state are encouraged, but
+13 not required, to review the provisions of the Statewide
+14 Communications Interoperability Plan and the public safety
+15 communications standards issued by the Office of Homeland Security
+16 prior to the purchase, acquisition, development, or enhancement of
+17 any public safety communications system to assist the local public
+18 safety agency or political subdivision in purchasing decisions.
+19 C. No The Office of Homeland Security shall ensure that all
+20 federal and state grant funding for radio and data communications
+21 meets the State Strategic Communications Plan that is approved by
+22 the Oklahoma Emergency Communications Authority.
+23 D. Unless approved by the Oklahoma Emergency Communications
+24 Authority, no state agency shall use state funds or enter into any
+SENATE FLOOR VERSION - HB2710 SFLR Page 28
+(Bold face denotes Committee Amendments)
+
+1 agre ement for the acquisition, development, or enhancement of a
+2 public safety communication system and unless the request is
+3 consistent with the Statewide Communications Interoperability Plan
+4 and the public safety communications standards issued by the Office
+5 of Homeland Security.
+6 SECTION 9. REPEALER 62 O.S. 2021, Section 35.6.2, is
+7 hereby repealed.
+8 SECTION 10. This act shall become effective November 1, 2026.
+9 COMMITTEE REPORT BY: COMMITTEE ON PUBLIC SAFETY
+April 7, 2026 - DO PASS
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - HB2710 SFLR Page 29
+(Bold face denotes Committee Amendments)
+
+[DELETED: P B F  a G]
+[DELETED: Pr]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P r t n]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P d]
+[DELETED: P t d d r a a]
+[DELETED: P t]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P a a]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P c w i I o r a]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]

@@ -1,0 +1,959 @@
+Title: 5 HOUSE BILL NO. 3175 By: Archer, Luttrell, and Moore
+Official Title: 5 HOUSE BILL NO. 3175 By: Archer, Luttrell, and Moore
+Number of Sections: 1
+Source: versions - Floor (House)
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 COMMITTEE SUBSTITUTE
+FOR
+of the House
+6
+and
+7
+Dossett of the Senate
+8
+9 COMMITTEE SUBSTITUTE
+10 [ nuclear energy - Office – duties – gifts - project
+11 – rules - Oklahoma Corporation Commission –
+12 language – authority – Governor – director – staff
+13 – strategic plan - Nuclear Permitting Coordinator –
+14 processes – duties – assistance – documentation -
+15 Oklahoma Advanced Nuclear Development Revolving
+16 Fund – type – content – purpose – expenditures –
+17 grant program – actions – appropriation – details –
+18 information – applicants – notice – individuals –
+19 review – agreement – amount – reimbursement – rules
+20 – permit - rolling basis – distribution –
+21 interconnection – procedures – evaluations –
+22 criteria – confidential – codification - effective
+23 date ]
+24
+HB3175 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 10.10 of Title 74, unless there
+4 is created a duplication in numbering, reads as follows:
+5 As used in this act:
+6 1. "Advanced nuclear project" means an electric generation
+7 facility that relies on an advanced nuclear reactor to generate
+8 power, steam, or heat, a nuclear fuel cycle facility that supplies
+9 advanced nuclear reactors, or associated technologies supporting the
+10 advanced nuclear energy industry;
+11 2. "Advanced nuclear reactor" means a range of nuclear reactor
+12 technologies determined by the United States Regulatory Commission
+13 to be either of generation III+ or generation IV, including large
+14 light water reactors, small modular reactors, microreactors, and
+15 nuclear cogeneration;
+16 3. "Construction permit" means a permit issued by the
+17 Regulatory Commission for the construction of:
+18 a. a nuclear production or utilization facility, or
+19 b. a research or test reactor that contributes to the
+20 future commercialization of that research or test
+21 reactor technology;
+22 4. "Director" means the Director of the Advanced Nuclear Energy
+23 Office;
+24
+HB3175 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+1 5. "License" means a license issued by the Regulatory
+2 Commission that authorizes the license holder to construct and
+3 operate a nuclear power facility, such as a nuclear plant at a
+4 specific site, with specified conditions;
+5 6. "Office" means the Oklahoma Advanced Nuclear Energy Office
+6 established under Section 2 of this act;
+7 7. "Regulatory Commission" means the United States Nuclear
+8 Regulatory Commission; and
+9 8. "Utility Commission" means the Oklahoma Corporation
+10 Commission.
+11 SECTION 2. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 10.11 of Title 74, unless there
+13 is created a duplication in numbering, reads as follows:
+14 A. There is hereby created the Oklahoma Advanced Nuclear Energy
+15 Office. The Office shall be an office administratively housed
+16 within the Governor's office and shall be assigned to the Oklahoma
+17 Secretary of Energy and Environment.
+18 B. The purposes of the Office are to provide statutory and
+19 regulatory readiness for advanced nuclear energy and to:
+20 1. Provide strategic leadership for the advanced nuclear
+21 reactor system in this state;
+22 2. Promote the development of advanced nuclear reactors for
+23 dispatchable electric generation while creating high-wage advanced
+24 manufacturing jobs in this state;
+HB3175 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+1 3. Advance innovative nuclear energy generation technologies
+2 while delivering safe, reliable, and clean energy solutions that
+3 address the state's growing demand;
+4 4. Enhance the state's energy security, foster economic growth,
+5 and ensure the safety of future nuclear energy generation
+6 development;
+7 5. Identify barriers to the financial viability of nuclear
+8 energy generation and regulatory and licensing complexities that
+9 increase risk to developers of nuclear energy;
+10 6. Leverage the expertise and capacity of institutions of
+11 higher education, the nuclear energy industry, the industrial
+12 manufacturing sector, and regulatory stakeholders to develop a
+13 comprehensive strategic plan to ensure the development of advanced
+14 nuclear energy and associated technologies in this state; and
+15 7. Support the development of an advanced nuclear energy supply
+16 chain and associated technologies in this state.
+17 C. The Office shall:
+18 1. Develop and propose a comprehensive statutory and regulatory
+19 framework for advanced nuclear energy. The statutory and regulatory
+20 framework developed by the Office shall be substantive and ready for
+21 implementation;
+22 2. Draft and recommend rules addressing areas of state
+23 jurisdiction not preempted by the United States Nuclear Regulatory
+24 Commission;
+HB3175 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+1 3. Coordinate with the Oklahoma Corporation Commission;
+2 4. Identify any statutory gaps requiring legislative action;
+3 5. Submit completed statutory and regulatory framework and
+4 recommendations for advanced nuclear energy to the Governor, Speaker
+5 Pro Tempore of the Oklahoma State Senate, the Speaker of the
+6 Oklahoma House of Representatives, and the Oklahoma Corporation
+7 Commission, by December 1, 2027.
+8 D. The Office may not accept a gift, grant, or loan from or
+9 contract with an applicant for or a beneficiary of a grant provided
+10 pursuant to this act.
+11 E. The Office may not require an advanced nuclear project to be
+12 located in a specific location.
+13 F. The Office may promulgate rules as necessary to carry out
+14 the provisions of this act.
+15 G. The Oklahoma Corporation Commission shall promulgate rules
+16 within its constitutional and statutory jurisdiction to implement
+17 the regulatory framework provided by the Office. The Corporation
+18 Commission shall not be compelled to adopt specific draft language
+19 provided by the Office, but shall initiate rulemaking following
+20 submission of completed regulatory framework. Nothing in this act
+21 shall be construed to limit, impair, supersede, or otherwise affect
+22 the constitutional or statutory authority of the Oklahoma
+23 Corporation Commission over public utilities, electric generation
+24
+HB3175 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+1 faci lities, transmission providers, natural gas utilities, or any
+2 other entity subject to its jurisdiction.
+3 SECTION 3. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 10.12 of Title 74, unless there
+5 is created a duplication in numbering, reads as follows:
+6 A. The Governor shall appoint a Director of the Oklahoma
+7 Advanced Nuclear Energy Office or may assign the duties of the
+8 Director to the Oklahoma Secretary of Energy and Environment. The
+9 Director shall serve at the pleasure of the Governor.
+10 B. The Director shall have demonstrated:
+11 1. Experience in the field of advanced nuclear energy; and
+12 2. Executive and organizational ability.
+13 C. The Director shall not have any direct or indirect interests
+14 that substantially conflict with the Director's duties.
+15 D. The Director shall:
+16 1. Manage the affairs of the Office;
+17 2. Administer programs established by this act; and
+18 3. Establish appropriate milestones and standards to ensure
+19 proper use of money pursuant to this act.
+20 E. The Director may hire staff as necessary to implement the
+21 duties of the Office pursuant to this act.
+22 SECTION 4. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 10.13 of Title 74, unless there
+24 is created a duplication in numbering, reads as follows:
+HB3175 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+1 Not later than December 1 of each even-numbered year, the
+2 Director of the Oklahoma Advanced Nuclear Energy Office shall submit
+3 to the Governor, the President Pro Tempore of the Oklahoma State
+4 Senate, and the Speaker of the Oklahoma House of Representatives a
+5 strategic plan for furthering the goals, purposes, and objectives
+6 established by this act.
+7 SECTION 5. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 10.14 of Title 74, unless there
+9 is created a duplication in numbering, reads as follows:
+10 A. The Director of the Oklahoma Advanced Nuclear Energy Office
+11 may employ a Nuclear Permitting Coordinator to assist businesses
+12 throughout the nuclear energy permitting and regulatory process.
+13 B. A Nuclear Permitting Coordinator shall have a demonstrated
+14 familiarity with the permitting and regulatory process in this
+15 state.
+16 C. The Nuclear Permitting Coordinator shall:
+17 1. Act as a single point of contact for stakeholders during the
+18 nuclear energy permitting and regulatory process;
+19 2. Identify active or likely siting opportunities and required
+20 permits and approvals for nuclear energy generation sites and key
+21 personnel; and
+22 3. Provide guidance for regulated persons navigating local,
+23 state, and federal regulations for nuclear energy generation
+24 facilities.
+HB3175 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+1 D. The Nuclear Permitting Coordinator shall make any assistance
+2 provided under this section equally available to all businesses
+3 engaged in the nuclear energy permitting and regulatory process.
+4 E. The Nuclear Permitting Coordinator shall document all
+5 activities carried out in the provision of assistance under this
+6 section and make that information available to the public on
+7 request.
+8 SECTION 6. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 10.15 of Title 74, unless there
+10 is created a duplication in numbering, reads as follows:
+11 There is hereby created in the State Treasury a revolving fund
+12 for the Oklahoma Advanced Nuclear Energy Office, established under
+13 Section 2 of this act, to be designated the "Oklahoma Advanced
+14 Nuclear Development Revolving Fund". The fund shall be a continuing
+15 fund, not subject to fiscal year limitations and shall consist of
+16 such sources as may be provided by law and any available federal
+17 funding. All monies accruing to the credit of the fund shall be
+18 budgeted and expended by the Oklahoma Advanced Nuclear Energy Office
+19 for the purposes provided by this section. No monies may be
+20 expended absent a specific legislative authorization. Subject to
+21 the availability of funding, the Oklahoma Advanced Nuclear Energy
+22 Office shall utilize the fund for the restricted purposes of
+23 providing reimbursement-based grants to eligible businesses,
+24 nonprofit organizations, and governmental entities, including
+HB3175 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+1 inst itutions of higher education, through the programs established
+2 in this act and to pay for reasonable and necessary costs for staff
+3 support necessary to facilitate the work of the Oklahoma Advanced
+4 Nuclear Energy Office. Expenditures from the fund shall be made
+5 upon warrants issued by the State Treasurer against claims filed as
+6 prescribed by law with the Director of the Office of Management and
+7 Enterprise Services for approval and payment.
+8 SECTION 7. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 10.16 of Title 74, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. The Oklahoma Advanced Nuclear Energy Office shall establish
+12 grant programs under this act and the Director shall administer
+13 those programs. However, grants may not be awarded until the
+14 regulatory framework required by Section 2 of this act has been
+15 completed and submitted and the Oklahoma Corporation Commission has
+16 promulgated necessary rules within its jurisdiction.
+17 B. The Office may provide a grant, subject to the availability
+18 of funds specifically appropriated by the Legislature, pursuant to
+19 this act only to reimburse expenses paid by a recipient using the
+20 recipient's own funds. No grant shall be awarded absent a specific
+21 legislative appropriation for that fiscal year. An applicant for a
+22 grant under the provisions of this act may have received financial
+23 assistance or incentives from a local, state, or federal source, but
+24 the Office may not provide a grant pursuant to this act to reimburse
+HB3175 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+1 expe nses paid by a recipient or the recipient's project partner
+2 using financial assistance or incentives from the local, state, or
+3 federal source. An applicant shall provide the Office with detailed
+4 information regarding any financial assistance or incentives
+5 requested or received for the project for which it is requesting
+6 grant funds.
+7 C. An applicant that has received state-appropriated money for
+8 an advanced nuclear reactor is not eligible to receive a grant under
+9 Section 9 of this act.
+10 D. The Office shall submit to the President Pro Tempore of the
+11 Oklahoma State Senate and the Speaker of the Oklahoma House of
+12 Representatives a notice of each grant the Office proposes to
+13 approve. The Office may not approve the grant if either of those
+14 officers submit a written communication to the Office disapproving
+15 the grant on or before the thirtieth day after the date the Office
+16 submits the notice of the proposed grant to those officers. The
+17 President Pro Tempore of the Oklahoma State Senate or Speaker of the
+18 Oklahoma House of Representatives may extend the review deadline for
+19 an additional fourteen (14) days by submitting a written notice to
+20 that effect to the Office before the expiration of the initial
+21 review period.
+22 E. Before awarding a grant pursuant to this act, the Office
+23 shall enter into a written agreement with the grant applicant. A
+24 written agreement under this subsection shall:
+HB3175 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+1 1. Specify benchmarks and milestones for the completion of the
+2 project for which the grant is provided; and
+3 2. Require the grant recipient to repay to the state any money
+4 received from the grant if the recipient fails to reach the
+5 specified benchmarks.
+6 F. The Office may not during a state fiscal year award out of
+7 money appropriated for grants pursuant to this act a total amount
+8 greater than:
+9 1. Twenty percent (20%) of the appropriated money for grants
+10 provided under Section 8 of this act; and
+11 2. Eighty percent (80%) of the appropriated money for grants
+12 provided under Section 9 of this act.
+13 SECTION 8. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 10.17 of Title 74, unless there
+15 is created a duplication in numbering, reads as follows:
+16 A. The Oklahoma Advanced Nuclear Energy Office may, subject to
+17 the availability of funds specifically appropriated by the
+18 Legislature, provide a reimbursement grant from the Oklahoma
+19 Advanced Nuclear Development Revolving Fund, created in Section 6 of
+20 this act, pursuant to this section for the expenses associated with
+21 or required for initial development of an advanced nuclear project
+22 in this state. However, grants may not be awarded until the
+23 regulatory framework required by Section 2 of this act has been
+24 completed and submitted and the Oklahoma Corporation Commission has
+HB3175 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+1 prom ulgated necessary rules within its jurisdiction. No grant shall
+2 be awarded absent a specific legislative appropriation for that
+3 fiscal year.
+4 B. Expenses that qualify for reimbursement under this section
+5 are limited to expenses attributable or allocable to:
+6 1. Technology development, including university technology
+7 development;
+8 2. Feasibility studies;
+9 3. Site planning, including conceptual site-specific
+10 engineering studies;
+11 4. Front-end engineering design;
+12 5. Site and environmental characterization;
+13 6. Regulatory commission early site permit work;
+14 7. Preparation of the construction permit or license
+15 application to the Regulatory Commission;
+16 8. Developing manufacturing capacity and readiness;
+17 9. Fuel processing, manufacturing, and fabrication activities
+18 essential to the fuel cycle supply;
+19 10. Preparation of local, state, and nonregulatory commission
+20 federal permits; and
+21 11. Regulatory Commission licensing fees.
+22 C. To be eligible for a reimbursement grant under this section,
+23 an applicant shall provide with an application proof of incurred
+24 expenses described by subsection B of this section.
+HB3175 HFLR Page 12
+BOLD FACE denotes Committee Amendments.
+1 D. A grant provided under this section may not exceed the
+2 lesser of:
+3 1. Fifty percent (50%) of the amount of qualifying expenses
+4 associated with the project; or
+5 2. Twelve Million Five Hundred Thousand Dollars
+6 ($12,500,000.00).
+7 E. The Office by rule shall establish procedures for the
+8 application for and provision of a grant pursuant to this section.
+9 SECTION 9. NEW LAW A new section of law to be codified
+10 in the Oklahoma Statutes as Section 10.18 of Title 74, unless there
+11 is created a duplication in numbering, reads as follows:
+12 A. The Oklahoma Advanced Nuclear Energy Office may provide a
+13 reimbursement grant, subject to the availability of funds
+14 specifically appropriated by the Legislature, from the Oklahoma
+15 Advanced Nuclear Development Revolving Fund, created in Section 6 of
+16 this act, pursuant to this section for expenses associated with the
+17 construction of an advanced nuclear project in this state. However,
+18 grants may not be awarded until the regulatory framework required by
+19 Section 2 of this act has been completed and submitted and the
+20 Oklahoma Corporation Commission has promulgated necessary rules
+21 within its jurisdiction. No grant shall be awarded absent a
+22 specific legislative appropriation for that fiscal year.
+23 B. Expenses that qualify for reimbursement under this section
+24 are limited to expenses associated with:
+HB3175 HFLR Page 13
+BOLD FACE denotes Committee Amendments.
+1 1. The United States Nuclear Regulatory Commission's review of
+2 the construction permit or license application;
+3 2. Procurement and development of long-lead components; or
+4 3. Construction activities, including the manufacture,
+5 fabrication, quality assurance, placement, erection, installation,
+6 modification, inspection, or testing of an advanced nuclear project.
+7 C. To be eligible for a reimbursement grant under this section,
+8 an applicant must provide with an application proof of incurred
+9 expenses described by subsection B of this section.
+10 D. A grant provided under this section may not exceed the
+11 lesser of:
+12 1. Fifty percent (50%) of the amount of qualifying expenses
+13 associated with the project; or
+14 2. One Hundred Twenty Million Dollars ($120,000,000.00).
+15 E. The Office by rule shall establish procedures for the
+16 application for and provision of a grant under this section.
+17 F. The Office may not provide a reimbursement grant for a
+18 project under this section until the Regulatory Commission has
+19 docketed a construction permit or license application for the
+20 project.
+21 G. The Office by rule shall establish a process to distribute
+22 the proceeds of each grant awarded under this section to the grant
+23 recipient on a rolling basis for qualifying expenses. The process
+24 shall include milestones associated with:
+HB3175 HFLR Page 14
+BOLD FACE denotes Committee Amendments.
+1 1. The Regulatory Commission's permitting process; and
+2 2. The recipient's financial investment decisions relating to
+3 the project.
+4 SECTION 10. NEW LAW A new section of law to be codified
+5 in the Oklahoma Statutes as Section 10.19 of Title 74, unless there
+6 is created a duplication in numbering, reads as follows:
+7 A. The Oklahoma Advanced Nuclear Energy Office may provide a
+8 grant, subject to the availability of funds specifically
+9 appropriated by the Legislature, pursuant to this act for the costs
+10 associated with the completion of an operational advanced nuclear
+11 reactor in this state that is interconnected with the regional
+12 transmission operator power grid. However, grants may not be
+13 awarded until the regulatory framework required by Section 2 of this
+14 act has been completed and submitted and the Oklahoma Corporation
+15 Commission has promulgated necessary rules within its jurisdiction.
+16 No grant shall be awarded absent a specific legislative
+17 appropriation for that fiscal year.
+18 B. The Office, in consultation with the Oklahoma Corporation
+19 Commission, by rule shall establish the amount of a grant the Office
+20 shall provide under this section on a per megawatt basis according
+21 to the generation capacity of the advanced nuclear reactor.
+22 C. The Office, in consultation with the Oklahoma Corporation
+23 Commission, by rule shall establish procedures for:
+24 1. The application for and award of a grant under this section;
+HB3175 HFLR Page 15
+BOLD FACE denotes Committee Amendments.
+1 2. The administration of the grant program; and
+2 3. Providing grants according to a tiered system based on the
+3 amount of electricity in megawatts provided to the regional
+4 transmission operator grid by an advanced nuclear reactor.
+5 SECTION 11. NEW LAW A new section of law to be codified
+6 in the Oklahoma Statutes as Section 10.20 of Title 74, unless there
+7 is created a duplication in numbering, reads as follows:
+8 The Oklahoma Advanced Nuclear Energy Office shall evaluate each
+9 application for a grant pursuant to this act based upon the
+10 project's potential benefit to this state and the grant applicant's:
+11 1. Quality of services and management;
+12 2. Efficiency of operations;
+13 3. Access to resources essential for operating the project for
+14 which the grant is requested, such as land, water, and reliable
+15 infrastructure, as applicable;
+16 4. Application for or docketing of a permit or license with the
+17 United States Nuclear Regulatory Commission; and
+18 5. Ability to repay the grant if project benchmarks are not
+19 met.
+20 SECTION 12. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 10.21 of Title 74, unless there
+22 is created a duplication in numbering, reads as follows:
+23
+24
+HB3175 HFLR Page 16
+BOLD FACE denotes Committee Amendments.
+1 Information submitted to the Oklahoma Advanced Nuclear Energy
+2 Office in an application for a grant pursuant to this act is
+3 confidential and not subject to disclosure.
+4 SECTION 13. This act shall become effective November 1, 2026.
+5
+6 COMMITTEE REPORT BY: COMMITTEE ON APPROPRIATIONS AND BUDGET, dated
+03/05/2026 - DO PASS, As Amended and Coauthored.
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+HB3175 HFLR Page 17
+BOLD FACE denotes Committee Amendments.
+[DELETED:  P B , lM   a  ]
+[DELETED:  P a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 COMMITTEE SUBSTITUTE
+FOR
+5 HOUSE BILL NO. 3175 By: Archer, Luttrell, and Moore
+of the House
+6
+and
+7
+Dossett of the Senate
+8
+9 COMMITTEE SUBSTITUTE
+10 [ nuclear energy - Office – duties – gifts - project
+11 – rules - Oklahoma Corporation Commission –
+12 language – authority – Governor – director – staff
+13 – strategic plan - Nuclear Permitting Coordinator –
+14 processes – duties – assistance – documentation -
+15 Oklahoma Advanced Nuclear Development Revolving
+16 Fund – type – content – purpose – expenditures –
+17 grant program – actions – appropriation – details –
+18 information – applicants – notice – individuals –
+19 review – agreement – amount – reimbursement – rules
+20 – permit - rolling basis – distribution –
+21 interconnection – procedures – evaluations –
+22 criteria – confidential – codification - effective
+23 date ]
+24
+HB3175 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 10.10 of Title 74, unless there
+4 is created a duplication in numbering, reads as follows:
+5 As used in this act:
+6 1. "Advanced nuclear project" means an electric generation
+7 facility that relies on an advanced nuclear reactor to generate
+8 power, steam, or heat, a nuclear fuel cycle facility that supplies
+9 advanced nuclear reactors, or associated technologies supporting the
+10 advanced nuclear energy industry;
+11 2. "Advanced nuclear reactor" means a range of nuclear reactor
+12 technologies determined by the United States Regulatory Commission
+13 to be either of generation III+ or generation IV, including large
+14 light water reactors, small modular reactors, microreactors, and
+15 nuclear cogeneration;
+16 3. "Construction permit" means a permit issued by the
+17 Regulatory Commission for the construction of:
+18 a. a nuclear production or utilization facility, or
+19 b. a research or test reactor that contributes to the
+20 future commercialization of that research or test
+21 reactor technology;
+22 4. "Director" means the Director of the Advanced Nuclear Energy
+23 Office;
+24
+HB3175 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+1 5. "License" means a license issued by the Regulatory
+2 Commission that authorizes the license holder to construct and
+3 operate a nuclear power facility, such as a nuclear plant at a
+4 specific site, with specified conditions;
+5 6. "Office" means the Oklahoma Advanced Nuclear Energy Office
+6 established under Section 2 of this act;
+7 7. "Regulatory Commission" means the United States Nuclear
+8 Regulatory Commission; and
+9 8. "Utility Commission" means the Oklahoma Corporation
+10 Commission.
+11 SECTION 2. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 10.11 of Title 74, unless there
+13 is created a duplication in numbering, reads as follows:
+14 A. There is hereby created the Oklahoma Advanced Nuclear Energy
+15 Office. The Office shall be an office administratively housed
+16 within the Governor's office and shall be assigned to the Oklahoma
+17 Secretary of Energy and Environment.
+18 B. The purposes of the Office are to provide statutory and
+19 regulatory readiness for advanced nuclear energy and to:
+20 1. Provide strategic leadership for the advanced nuclear
+21 reactor system in this state;
+22 2. Promote the development of advanced nuclear reactors for
+23 dispatchable electric generation while creating high-wage advanced
+24 manufacturing jobs in this state;
+HB3175 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+1 3. Advance innovative nuclear energy generation technologies
+2 while delivering safe, reliable, and clean energy solutions that
+3 address the state's growing demand;
+4 4. Enhance the state's energy security, foster economic growth,
+5 and ensure the safety of future nuclear energy generation
+6 development;
+7 5. Identify barriers to the financial viability of nuclear
+8 energy generation and regulatory and licensing complexities that
+9 increase risk to developers of nuclear energy;
+10 6. Leverage the expertise and capacity of institutions of
+11 higher education, the nuclear energy industry, the industrial
+12 manufacturing sector, and regulatory stakeholders to develop a
+13 comprehensive strategic plan to ensure the development of advanced
+14 nuclear energy and associated technologies in this state; and
+15 7. Support the development of an advanced nuclear energy supply
+16 chain and associated technologies in this state.
+17 C. The Office shall:
+18 1. Develop and propose a comprehensive statutory and regulatory
+19 framework for advanced nuclear energy. The statutory and regulatory
+20 framework developed by the Office shall be substantive and ready for
+21 implementation;
+22 2. Draft and recommend rules addressing areas of state
+23 jurisdiction not preempted by the United States Nuclear Regulatory
+24 Commission;
+HB3175 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+1 3. Coordinate with the Oklahoma Corporation Commission;
+2 4. Identify any statutory gaps requiring legislative action;
+3 5. Submit completed statutory and regulatory framework and
+4 recommendations for advanced nuclear energy to the Governor, Speaker
+5 Pro Tempore of the Oklahoma State Senate, the Speaker of the
+6 Oklahoma House of Representatives, and the Oklahoma Corporation
+7 Commission, by December 1, 2027.
+8 D. The Office may not accept a gift, grant, or loan from or
+9 contract with an applicant for or a beneficiary of a grant provided
+10 pursuant to this act.
+11 E. The Office may not require an advanced nuclear project to be
+12 located in a specific location.
+13 F. The Office may promulgate rules as necessary to carry out
+14 the provisions of this act.
+15 G. The Oklahoma Corporation Commission shall promulgate rules
+16 within its constitutional and statutory jurisdiction to implement
+17 the regulatory framework provided by the Office. The Corporation
+18 Commission shall not be compelled to adopt specific draft language
+19 provided by the Office, but shall initiate rulemaking following
+20 submission of completed regulatory framework. Nothing in this act
+21 shall be construed to limit, impair, supersede, or otherwise affect
+22 the constitutional or statutory authority of the Oklahoma
+23 Corporation Commission over public utilities, electric generation
+24
+HB3175 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+1 faci lities, transmission providers, natural gas utilities, or any
+2 other entity subject to its jurisdiction.
+3 SECTION 3. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 10.12 of Title 74, unless there
+5 is created a duplication in numbering, reads as follows:
+6 A. The Governor shall appoint a Director of the Oklahoma
+7 Advanced Nuclear Energy Office or may assign the duties of the
+8 Director to the Oklahoma Secretary of Energy and Environment. The
+9 Director shall serve at the pleasure of the Governor.
+10 B. The Director shall have demonstrated:
+11 1. Experience in the field of advanced nuclear energy; and
+12 2. Executive and organizational ability.
+13 C. The Director shall not have any direct or indirect interests
+14 that substantially conflict with the Director's duties.
+15 D. The Director shall:
+16 1. Manage the affairs of the Office;
+17 2. Administer programs established by this act; and
+18 3. Establish appropriate milestones and standards to ensure
+19 proper use of money pursuant to this act.
+20 E. The Director may hire staff as necessary to implement the
+21 duties of the Office pursuant to this act.
+22 SECTION 4. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 10.13 of Title 74, unless there
+24 is created a duplication in numbering, reads as follows:
+HB3175 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+1 Not later than December 1 of each even-numbered year, the
+2 Director of the Oklahoma Advanced Nuclear Energy Office shall submit
+3 to the Governor, the President Pro Tempore of the Oklahoma State
+4 Senate, and the Speaker of the Oklahoma House of Representatives a
+5 strategic plan for furthering the goals, purposes, and objectives
+6 established by this act.
+7 SECTION 5. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 10.14 of Title 74, unless there
+9 is created a duplication in numbering, reads as follows:
+10 A. The Director of the Oklahoma Advanced Nuclear Energy Office
+11 may employ a Nuclear Permitting Coordinator to assist businesses
+12 throughout the nuclear energy permitting and regulatory process.
+13 B. A Nuclear Permitting Coordinator shall have a demonstrated
+14 familiarity with the permitting and regulatory process in this
+15 state.
+16 C. The Nuclear Permitting Coordinator shall:
+17 1. Act as a single point of contact for stakeholders during the
+18 nuclear energy permitting and regulatory process;
+19 2. Identify active or likely siting opportunities and required
+20 permits and approvals for nuclear energy generation sites and key
+21 personnel; and
+22 3. Provide guidance for regulated persons navigating local,
+23 state, and federal regulations for nuclear energy generation
+24 facilities.
+HB3175 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+
+1 D. The Nuclear Permitting Coordinator shall make any assistance
+2 provided under this section equally available to all businesses
+3 engaged in the nuclear energy permitting and regulatory process.
+4 E. The Nuclear Permitting Coordinator shall document all
+5 activities carried out in the provision of assistance under this
+6 section and make that information available to the public on
+7 request.
+8 SECTION 6. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 10.15 of Title 74, unless there
+10 is created a duplication in numbering, reads as follows:
+11 There is hereby created in the State Treasury a revolving fund
+12 for the Oklahoma Advanced Nuclear Energy Office, established under
+13 Section 2 of this act, to be designated the "Oklahoma Advanced
+14 Nuclear Development Revolving Fund". The fund shall be a continuing
+15 fund, not subject to fiscal year limitations and shall consist of
+16 such sources as may be provided by law and any available federal
+17 funding. All monies accruing to the credit of the fund shall be
+18 budgeted and expended by the Oklahoma Advanced Nuclear Energy Office
+19 for the purposes provided by this section. No monies may be
+20 expended absent a specific legislative authorization. Subject to
+21 the availability of funding, the Oklahoma Advanced Nuclear Energy
+22 Office shall utilize the fund for the restricted purposes of
+23 providing reimbursement-based grants to eligible businesses,
+24 nonprofit organizations, and governmental entities, including
+HB3175 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+
+1 inst itutions of higher education, through the programs established
+2 in this act and to pay for reasonable and necessary costs for staff
+3 support necessary to facilitate the work of the Oklahoma Advanced
+4 Nuclear Energy Office. Expenditures from the fund shall be made
+5 upon warrants issued by the State Treasurer against claims filed as
+6 prescribed by law with the Director of the Office of Management and
+7 Enterprise Services for approval and payment.
+8 SECTION 7. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 10.16 of Title 74, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. The Oklahoma Advanced Nuclear Energy Office shall establish
+12 grant programs under this act and the Director shall administer
+13 those programs. However, grants may not be awarded until the
+14 regulatory framework required by Section 2 of this act has been
+15 completed and submitted and the Oklahoma Corporation Commission has
+16 promulgated necessary rules within its jurisdiction.
+17 B. The Office may provide a grant, subject to the availability
+18 of funds specifically appropriated by the Legislature, pursuant to
+19 this act only to reimburse expenses paid by a recipient using the
+20 recipient's own funds. No grant shall be awarded absent a specific
+21 legislative appropriation for that fiscal year. An applicant for a
+22 grant under the provisions of this act may have received financial
+23 assistance or incentives from a local, state, or federal source, but
+24 the Office may not provide a grant pursuant to this act to reimburse
+HB3175 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+
+1 expe nses paid by a recipient or the recipient's project partner
+2 using financial assistance or incentives from the local, state, or
+3 federal source. An applicant shall provide the Office with detailed
+4 information regarding any financial assistance or incentives
+5 requested or received for the project for which it is requesting
+6 grant funds.
+7 C. An applicant that has received state-appropriated money for
+8 an advanced nuclear reactor is not eligible to receive a grant under
+9 Section 9 of this act.
+10 D. The Office shall submit to the President Pro Tempore of the
+11 Oklahoma State Senate and the Speaker of the Oklahoma House of
+12 Representatives a notice of each grant the Office proposes to
+13 approve. The Office may not approve the grant if either of those
+14 officers submit a written communication to the Office disapproving
+15 the grant on or before the thirtieth day after the date the Office
+16 submits the notice of the proposed grant to those officers. The
+17 President Pro Tempore of the Oklahoma State Senate or Speaker of the
+18 Oklahoma House of Representatives may extend the review deadline for
+19 an additional fourteen (14) days by submitting a written notice to
+20 that effect to the Office before the expiration of the initial
+21 review period.
+22 E. Before awarding a grant pursuant to this act, the Office
+23 shall enter into a written agreement with the grant applicant. A
+24 written agreement under this subsection shall:
+HB3175 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+
+1 1. Specify benchmarks and milestones for the completion of the
+2 project for which the grant is provided; and
+3 2. Require the grant recipient to repay to the state any money
+4 received from the grant if the recipient fails to reach the
+5 specified benchmarks.
+6 F. The Office may not during a state fiscal year award out of
+7 money appropriated for grants pursuant to this act a total amount
+8 greater than:
+9 1. Twenty percent (20%) of the appropriated money for grants
+10 provided under Section 8 of this act; and
+11 2. Eighty percent (80%) of the appropriated money for grants
+12 provided under Section 9 of this act.
+13 SECTION 8. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 10.17 of Title 74, unless there
+15 is created a duplication in numbering, reads as follows:
+16 A. The Oklahoma Advanced Nuclear Energy Office may, subject to
+17 the availability of funds specifically appropriated by the
+18 Legislature, provide a reimbursement grant from the Oklahoma
+19 Advanced Nuclear Development Revolving Fund, created in Section 6 of
+20 this act, pursuant to this section for the expenses associated with
+21 or required for initial development of an advanced nuclear project
+22 in this state. However, grants may not be awarded until the
+23 regulatory framework required by Section 2 of this act has been
+24 completed and submitted and the Oklahoma Corporation Commission has
+HB3175 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+
+1 prom ulgated necessary rules within its jurisdiction. No grant shall
+2 be awarded absent a specific legislative appropriation for that
+3 fiscal year.
+4 B. Expenses that qualify for reimbursement under this section
+5 are limited to expenses attributable or allocable to:
+6 1. Technology development, including university technology
+7 development;
+8 2. Feasibility studies;
+9 3. Site planning, including conceptual site-specific
+10 engineering studies;
+11 4. Front-end engineering design;
+12 5. Site and environmental characterization;
+13 6. Regulatory commission early site permit work;
+14 7. Preparation of the construction permit or license
+15 application to the Regulatory Commission;
+16 8. Developing manufacturing capacity and readiness;
+17 9. Fuel processing, manufacturing, and fabrication activities
+18 essential to the fuel cycle supply;
+19 10. Preparation of local, state, and nonregulatory commission
+20 federal permits; and
+21 11. Regulatory Commission licensing fees.
+22 C. To be eligible for a reimbursement grant under this section,
+23 an applicant shall provide with an application proof of incurred
+24 expenses described by subsection B of this section.
+HB3175 HFLR Page 12
+BOLD FACE denotes Committee Amendments.
+
+1 D. A grant provided under this section may not exceed the
+2 lesser of:
+3 1. Fifty percent (50%) of the amount of qualifying expenses
+4 associated with the project; or
+5 2. Twelve Million Five Hundred Thousand Dollars
+6 ($12,500,000.00).
+7 E. The Office by rule shall establish procedures for the
+8 application for and provision of a grant pursuant to this section.
+9 SECTION 9. NEW LAW A new section of law to be codified
+10 in the Oklahoma Statutes as Section 10.18 of Title 74, unless there
+11 is created a duplication in numbering, reads as follows:
+12 A. The Oklahoma Advanced Nuclear Energy Office may provide a
+13 reimbursement grant, subject to the availability of funds
+14 specifically appropriated by the Legislature, from the Oklahoma
+15 Advanced Nuclear Development Revolving Fund, created in Section 6 of
+16 this act, pursuant to this section for expenses associated with the
+17 construction of an advanced nuclear project in this state. However,
+18 grants may not be awarded until the regulatory framework required by
+19 Section 2 of this act has been completed and submitted and the
+20 Oklahoma Corporation Commission has promulgated necessary rules
+21 within its jurisdiction. No grant shall be awarded absent a
+22 specific legislative appropriation for that fiscal year.
+23 B. Expenses that qualify for reimbursement under this section
+24 are limited to expenses associated with:
+HB3175 HFLR Page 13
+BOLD FACE denotes Committee Amendments.
+
+1 1. The United States Nuclear Regulatory Commission's review of
+2 the construction permit or license application;
+3 2. Procurement and development of long-lead components; or
+4 3. Construction activities, including the manufacture,
+5 fabrication, quality assurance, placement, erection, installation,
+6 modification, inspection, or testing of an advanced nuclear project.
+7 C. To be eligible for a reimbursement grant under this section,
+8 an applicant must provide with an application proof of incurred
+9 expenses described by subsection B of this section.
+10 D. A grant provided under this section may not exceed the
+11 lesser of:
+12 1. Fifty percent (50%) of the amount of qualifying expenses
+13 associated with the project; or
+14 2. One Hundred Twenty Million Dollars ($120,000,000.00).
+15 E. The Office by rule shall establish procedures for the
+16 application for and provision of a grant under this section.
+17 F. The Office may not provide a reimbursement grant for a
+18 project under this section until the Regulatory Commission has
+19 docketed a construction permit or license application for the
+20 project.
+21 G. The Office by rule shall establish a process to distribute
+22 the proceeds of each grant awarded under this section to the grant
+23 recipient on a rolling basis for qualifying expenses. The process
+24 shall include milestones associated with:
+HB3175 HFLR Page 14
+BOLD FACE denotes Committee Amendments.
+
+1 1. The Regulatory Commission's permitting process; and
+2 2. The recipient's financial investment decisions relating to
+3 the project.
+4 SECTION 10. NEW LAW A new section of law to be codified
+5 in the Oklahoma Statutes as Section 10.19 of Title 74, unless there
+6 is created a duplication in numbering, reads as follows:
+7 A. The Oklahoma Advanced Nuclear Energy Office may provide a
+8 grant, subject to the availability of funds specifically
+9 appropriated by the Legislature, pursuant to this act for the costs
+10 associated with the completion of an operational advanced nuclear
+11 reactor in this state that is interconnected with the regional
+12 transmission operator power grid. However, grants may not be
+13 awarded until the regulatory framework required by Section 2 of this
+14 act has been completed and submitted and the Oklahoma Corporation
+15 Commission has promulgated necessary rules within its jurisdiction.
+16 No grant shall be awarded absent a specific legislative
+17 appropriation for that fiscal year.
+18 B. The Office, in consultation with the Oklahoma Corporation
+19 Commission, by rule shall establish the amount of a grant the Office
+20 shall provide under this section on a per megawatt basis according
+21 to the generation capacity of the advanced nuclear reactor.
+22 C. The Office, in consultation with the Oklahoma Corporation
+23 Commission, by rule shall establish procedures for:
+24 1. The application for and award of a grant under this section;
+HB3175 HFLR Page 15
+BOLD FACE denotes Committee Amendments.
+
+1 2. The administration of the grant program; and
+2 3. Providing grants according to a tiered system based on the
+3 amount of electricity in megawatts provided to the regional
+4 transmission operator grid by an advanced nuclear reactor.
+5 SECTION 11. NEW LAW A new section of law to be codified
+6 in the Oklahoma Statutes as Section 10.20 of Title 74, unless there
+7 is created a duplication in numbering, reads as follows:
+8 The Oklahoma Advanced Nuclear Energy Office shall evaluate each
+9 application for a grant pursuant to this act based upon the
+10 project's potential benefit to this state and the grant applicant's:
+11 1. Quality of services and management;
+12 2. Efficiency of operations;
+13 3. Access to resources essential for operating the project for
+14 which the grant is requested, such as land, water, and reliable
+15 infrastructure, as applicable;
+16 4. Application for or docketing of a permit or license with the
+17 United States Nuclear Regulatory Commission; and
+18 5. Ability to repay the grant if project benchmarks are not
+19 met.
+20 SECTION 12. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 10.21 of Title 74, unless there
+22 is created a duplication in numbering, reads as follows:
+23
+24
+HB3175 HFLR Page 16
+BOLD FACE denotes Committee Amendments.
+
+1 Information submitted to the Oklahoma Advanced Nuclear Energy
+2 Office in an application for a grant pursuant to this act is
+3 confidential and not subject to disclosure.
+4 SECTION 13. This act shall become effective November 1, 2026.
+5
+6 COMMITTEE REPORT BY: COMMITTEE ON APPROPRIATIONS AND BUDGET, dated
+03/05/2026 - DO PASS, As Amended and Coauthored.
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+HB3175 HFLR Page 17
+BOLD FACE denotes Committee Amendments.
+
+[DELETED:  P B , lM   a  ]
+[DELETED:  P a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]

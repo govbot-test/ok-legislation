@@ -1,0 +1,984 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 1
+Source: versions - Proposed Policy Committee Substitute 1
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+HB3742 POLPCS1 Erick Harris-GRS
+2/16/2026 3:45:59 pm
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB3742
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Erick Harris
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED POLICY
+COMMITTEE SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 3742 By: Harris
+5
+6
+7 PROPOSED POLICY COMMITTEE SUBSTITUTE
+8 An Act relating to criminal procedure; amending 22
+O.S. 2021, Section 2002, as amended by Section 2,
+9 Chapter 327, O.S.L. 2025 (22 O.S. Supp. 2025, Section
+2002), which relates to the Oklahoma Criminal
+10 Discovery Code; directing the state to disclose
+certain evidence prior to the initial appearance of
+11 defendants; requiring the disclosure of evidence
+favorable to the defendant; requiring disclosure
+12 despite its form; declaring the ongoing duty to
+disclose information; increasing time limitation for
+13 introducing testimony from informants and
+codefendants; updating informant references;
+14 modifying scope of certain defined term; clarifying
+disclosure duties of defendants; providing for the
+15 filing of discovery motions any time following
+initial appearances; establishing time limitation for
+16 completing discovery issues; providing an exception
+to certain witnesses; authorizing courts to compel
+17 discovery or order sanctions; directing courts to
+order disclosure of evidence and sanctions upon
+18 certain finding; providing exceptions; directing
+courts to make certain considerations when ordering
+19 sanctions; specifying types of available sanctions;
+requiring the disclosure of certain documents
+20 favorable to defendants; and providing an effective
+date.
+21
+22
+23
+24 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+Req. No. 16407 Page 1
+1 SECTION 1. AMENDATORY 22 O.S. 2021, Section 2002, as
+2 amended by Section 2, Chapter 327, O.S.L. 2025 (22 O.S. Supp. 2025,
+3 Section 2002), is amended to read as follows:
+4 Section 2002. A. Disclosure of Evidence by the State.
+5 1. Upon request Within thirty (30) days of the defense initial
+6 appearance, the state shall disclose the following:
+7 a. unless otherwise prohibited by law, the names and
+8 addresses full contact information, as available to
+9 the state, of witnesses which the state intends to
+10 call at trial interviewed, identified, or known by any
+11 member of law enforcement or any member of the office
+12 of the prosecutor during the course of the
+13 prosecution, together with their relevant, written or
+14 recorded statement, if any, or if none, significant
+15 summaries of any oral statement,
+16 b. all law enforcement reports made in connection with
+17 the particular case, including initial and
+18 supplemental reports by any person or agency involved
+19 in the investigation of the case, photographs,
+20 diagrams, vehicle dashboard camera and body camera
+21 video, audio and video recordings, and any other
+22 tangible means of memorializing information,
+23 c. any all written or recorded statements and the
+24 substance of any all oral statements made by the
+Req. No. 16407 Page 2
+1 accused or made by a codefendant to any member of law
+2 enforcement, any member of the office of the
+3 prosecutor, or any other person or agency involved in
+4 the investigation of the case,
+5 d. names and full contact information, as available to
+6 the state, of all eyewitnesses interviewed by law
+7 enforcement, whether the witness made a positive
+8 identification or not. All initial and subsequent
+9 suspect descriptions obtained from eyewitnesses. All
+10 photographs and line up materials taken or used during
+11 a line up procedure, and any notes or reports made
+12 resulting from the line up procedure. The duty to
+13 disclose evidence also requires all pre-line up and
+14 post-line up instructions given to the witness to be
+15 produced as well as recordings made prior to, during,
+16 or following the line up procedure,
+17 e. any all reports or statements of examinations or tests
+18 made by experts in connection with the particular
+19 case, including results of physical or mental
+20 examinations and of, preliminary or presumptive tests
+21 and screening results, scientific tests, experiments,
+22 or comparisons, polygraph testing, including all raw
+23 data, worksheets, laboratory notes, diagrams, and peer
+24 review notes or reports and any such records stored
+Req. No. 16407 Page 3
+1 electronically, and all records of proficiency testing
+2 relating to any testing or analysis,
+3 e. any
+4 f. all books, papers, documents, photographs, tangible
+5 objects, buildings or places which the prosecuting
+6 attorney intends to use in the hearing or trial or
+7 which were obtained from or belong to during the
+8 accused course of the investigation,
+9 f. any record
+10 g. all records of prior criminal convictions of the
+11 defendant, or of any codefendant codefendants, and
+12 witnesses that law enforcement or the prosecutor has
+13 interviewed in the course of the investigation of the
+14 case,
+15 g. Oklahoma State Bureau of Investigation (OSBI) rap
+16 sheet/records
+17 h. full background check, including criminal history, on
+18 any witness listed by the state or the defense as a
+19 witness who will testify at trial, as well as any
+20 convictions of any witness revealed through additional
+21 record checks if the defense has furnished Social
+22 Security numbers or date of birth for their witnesses,
+23 except OSBI rap sheet/record checks shall not provide
+24
+Req. No. 16407 Page 4
+1 date of birth, Social Security number, home phone
+2 number or address,
+3 i. dispatch records, 9-1-1 calls, or other emergency
+4 service calls related to the crime or to anyone
+5 charged with the crime resulting from calls related to
+6 the investigation into the case. The prosecution may
+7 withhold the names and identifying information of any
+8 victim who contacted 9-1-1 or other emergency services
+9 provided; however, an application for a protective
+10 order pursuant to the provisions of paragraph 1 of
+11 subsection E of this section may be made. If the
+12 prosecution intends to call such person as a witness
+13 at a trial or hearing, the prosecution shall disclose
+14 the name and contact information, as available to the
+15 state, of such witness no later than thirty (30) days
+16 before such trial or hearing or as soon as
+17 practicable, and
+18 j. the name and work affiliation of all law enforcement
+19 personnel who have evidence or information relevant to
+20 any offense charged or to any potential defense
+21 thereto, including a designation by the prosecutor as
+22 to which of those persons may be called as a witness.
+23 Unless the court rules otherwise for good cause shown,
+24 information pursuant to the provisions of this
+Req. No. 16407 Page 5
+1 subparagraph relating to undercover personnel may be
+2 withheld and redacted from discovery materials without
+3 the need to file a motion and upon written
+4 notification by the prosecution that such information
+5 has not been disclosed.
+6 2. The state shall provide the defendant any all evidence which
+7 may be favorable to the defendant if such including, but not limited
+8 to, evidence is material to either that:
+9 a. negates the guilt or punishment of the defendant as to
+10 a charged offense,
+11 b. reduces the degree of or mitigates the culpability of
+12 the defendant as to a charged offense,
+13 c. supports a potential defense to a charged offense,
+14 d. impeaches the credibility of a testifying prosecution
+15 witness,
+16 e. undermines evidence of the identity of the defendant
+17 as a perpetrator of a charged offense,
+18 f. provides a basis for a motion to suppress evidence, or
+19 g. mitigates punishment.
+20 Information under the provisions of this paragraph shall be
+21 disclosed whether or not such information is recorded in tangible
+22 form and irrespective of whether the prosecutor credits the
+23 information.
+24
+Req. No. 16407 Page 6
+1 The prosecutor shall have an ongoing duty to disclose such
+2 information expeditiously upon its receipt.
+3 3. The prosecuting attorney's obligations under this standard
+4 extend to:
+5 a. material and information in the possession or control
+6 of members of the prosecutor's staff,
+7 b. any information in the possession of law enforcement
+8 agencies that regularly report to the prosecutor of
+9 which the prosecutor should reasonably know, and
+10 c. any information in the possession of law enforcement
+11 agencies who have reported to the prosecutor with
+12 reference to the particular case of which the
+13 prosecutor should reasonably know.
+14 4. a. If the state intends to introduce testimony of a
+15 jailhouse an informant, including a codefendant, the
+16 state shall disclose at least ten (10) thirty (30)
+17 days prior to trial:
+18 (1) the complete criminal history of such informant,
+19 including any dismissed charges,
+20 (2) any deal, promise, inducement or benefit that the
+21 state or law enforcement agency has made or may
+22 make in the future to the jailhouse informant in
+23 connection with the testimony of such informant,
+24
+Req. No. 16407 Page 7
+1 (3) the specific statements or recordings made by the
+2 suspect or defendant and the time, place and
+3 manner of the disclosure to the jailhouse
+4 informant,
+5 (4) all other filed cases in which the state intended
+6 to introduce the testimony of the jailhouse
+7 informant in connection with a deal, promise,
+8 inducement or benefit, the nature of the deal,
+9 promise, inducement or benefit, and whether the
+10 testimony was admitted in the case,
+11 (5) whether at any time the jailhouse informant
+12 recanted the testimony or statement, and if so, a
+13 transcript or copy of such recantation, if any,
+14 and
+15 (6) any other information relevant to the credibility
+16 of the informant.
+17 b. Each district attorney's office shall maintain a
+18 central record that tracks each case in which the
+19 state intended to introduce the testimony of the
+20 jailhouse informant against a suspect or defendant in
+21 connection with a deal, promise, inducement or
+22 benefit, the nature of the deal, promise, inducement
+23 or benefit and whether such testimony or statements
+24 were admitted in the case. Such record shall be sent
+Req. No. 16407 Page 8
+1 to the District Attorneys Council which shall maintain
+2 a statewide record of such information. Records
+3 maintained pursuant to this paragraph shall only be
+4 accessible to prosecutors and shall not be subject to
+5 the Oklahoma Open Records Act. By September 15 of
+6 each year, the District Attorneys Council shall
+7 publish an annual report of aggregate, de-identified
+8 data regarding the total number of cases tracked
+9 pursuant to this section, and the number of cases
+10 added during the previous fiscal year pursuant to this
+11 section by each district attorney's office. A copy of
+12 the report shall be distributed to the Governor, the
+13 President Pro Tempore of the Senate, the Speaker of
+14 the House of Representatives and the chairs of the
+15 Senate and House Judiciary Committees.
+16 c. For purposes of this paragraph, "jailhouse informant"
+17 "informant" means a person who provides, or who the
+18 prosecutor intends to provide, testimony about
+19 admissions or other relevant information made to him
+20 or her by the suspect or defendant while both persons
+21 were detained or incarcerated in a penal institution.
+22 B. Disclosure of Evidence by the Defendant.
+23 1. Upon request of the state, the defense shall be required to
+24 disclose the following:
+Req. No. 16407 Page 9
+1 a. the names and addresses full contact information, as
+2 available to defense counsel, of witnesses which the
+3 defense intends to call at trial, together with their
+4 relevant, written or recorded statement, if any, or if
+5 none, significant summaries of any oral statement,
+6 b. the name and address full contact information, as
+7 available to defense counsel, of any witness, other
+8 than the defendant, who will be called to show that
+9 the defendant was not present at the time and place
+10 specified in the information or indictment, together
+11 with the witness' statement to that fact,
+12 c. the names and addresses full contact information, as
+13 available to defense counsel, of any witness the
+14 defendant will call, other than himself or herself,
+15 for testimony relating to any mental disease, mental
+16 defect, or other condition bearing upon his mental
+17 state at the time the offense was allegedly committed,
+18 together with the witness' statement of that fact, if
+19 the statement is redacted by the court to preclude
+20 disclosure of privileged communication.
+21 2. A statement filed under subparagraph a, b or c of paragraph
+22 1 of subsection A or B of this section is not admissible in evidence
+23 at trial. Information obtained as a result of a statement filed
+24 under subsection A or B of this section is not admissible in
+Req. No. 16407 Page 10
+1 evid ence at trial except to refute the testimony of a witness whose
+2 identity subsection A of this section requires to be disclosed.
+3 3. Upon the prosecuting attorney's request after the time set
+4 by the court, the defendant shall allow him or her access at any
+5 reasonable times and in any reasonable manner to inspect,
+6 photograph, copy, or have reasonable tests made upon any book,
+7 paper, document, photograph, or tangible object which is within the
+8 defendant's possession or control and which:
+9 a. the defendant intends to offer in evidence, except to
+10 the extent that it contains any communication of the
+11 defendant, or
+12 b. is a report or statement as to a physical or mental
+13 examination or scientific test or experiment made in
+14 connection with the particular case prepared by and
+15 relating to the anticipated testimony of a person whom
+16 the defendant intends to call as a witness, provided
+17 the report or statement is redacted by the court to
+18 preclude disclosure of privileged communication.
+19 C. Continuing Duty to Disclose.
+20 If, prior to or during trial, a party discovers additional
+21 evidence or material previously requested or ordered, which is
+22 subject to discovery or inspection under the Oklahoma Criminal
+23 Discovery Code, such party shall promptly notify the other party,
+24
+Req. No. 16407 Page 11
+1 the attorney of the other party, or the court of the existence of
+2 the additional evidence or material.
+3 D. Time of Discovery.
+4 1. Motions for discovery may be made at the any time of the
+5 district court arraignment or thereafter; provided that requests for
+6 police reports may be made subject to the provisions of Section 258
+7 of this title. However, a request pursuant to Section 258 of this
+8 title shall be subject to the discretion of the district attorney.
+9 All issues relating to discovery, except as otherwise provided, will
+10 be completed at least ten (10) not less than thirty (30) days prior
+11 to trial. The court may specify the time, place and manner of
+12 making the discovery and may prescribe such terms and conditions as
+13 are just and consistent with the provisions of this section;
+14 provided, that, in the instance of conflict between any provision of
+15 this section, the earlier timeframe shall be the governing
+16 timeframe.
+17 2. Within thirty (30) days of the filing of an endorsed
+18 complaint, indictment, or information in a court of record, law
+19 enforcement shall provide to the prosecuting agency the following
+20 records, if such records exist:
+21 a. body camera videos at the time of arrest,
+22 b. vehicle-mounted camera videos at the time of arrest,
+23 and
+24 c. a recording of the administration of a sobriety test.
+Req. No. 16407 Page 12
+1 3. Within ninety (90) days of the filing of an endorsed
+2 complaint, indictment, or information, the prosecuting agency shall
+3 make available the records described in paragraph 2 of this
+4 subsection to the defendant or his or her representative.
+5 4. Failure of a law enforcement agency to comply with the
+6 provisions of paragraph 2 of this subsection may be punished by
+7 contempt.
+8 5. The following information may be redacted by the prosecuting
+9 agency from the records provided to a defendant or his or her
+10 representative as required by the provisions of paragraph 3 of this
+11 subsection; provided that, notice of such redactions are given to
+12 the defendant or to his or her representative:
+13 a. information that would violate any requirement to keep
+14 certain juvenile records confidential as provided for
+15 in Title 10A of the Oklahoma Statutes,
+16 b. information that would materially compromise an
+17 ongoing criminal investigation or ongoing criminal
+18 prosecution other than the case involving the
+19 defendant,
+20 c. information that would undermine the assertion of a
+21 privilege to keep the identity of an informant
+22 confidential as provided for in Section 2510 of Title
+23 12 of the Oklahoma Statutes,
+24
+Req. No. 16407 Page 13
+1 d. information that would identify any person who
+2 provides information to law enforcement or the
+3 information provided by that person when that person
+4 requests anonymity or where disclosure of the identity
+5 of the person or the information provided could
+6 reasonably be expected to threaten or endanger the
+7 physical safety or property of the person or the
+8 physical safety or property of others, unless said
+9 person is called to testify as a witness at any
+10 hearing or trial, or
+11 e. require production of records or videos that fall
+12 outside the scope permitted under the provisions of
+13 paragraph 2 of this subsection.
+14 E. Regulation of Discovery.
+15 1. Protective and Modifying Orders. Upon motion of the state
+16 or defendant, the court may at any time order that specified
+17 disclosures be restricted, or make any other protective order. If
+18 the court enters an order restricting specified disclosures, the
+19 entire text of the material restricted shall be sealed and preserved
+20 in the records of the court to be made available to the appellate
+21 court in the event of an appeal.
+22 2. Failure to Comply with a Request.
+23 a. If at any time during the course of the proceedings it
+24 is brought to the attention of the court that a party
+Req. No. 16407 Page 14
+1 has failed to comply with this rule, the court may
+2 compel discovery or order such party to permit the
+3 discovery or inspection, grant continuance, or
+4 prohibit the party from introducing evidence not
+5 disclosed, or it may enter such other order as it
+6 deems just under the circumstances sanctions.
+7 b. If the court finds that a party violated a disclosure
+8 obligation under the provisions of this section, the
+9 court shall order disclosure as necessary and shall
+10 impose an appropriate sanction, unless the court finds
+11 that:
+12 (1) the failure to comply was harmless, or
+13 (2) the party could not have disclosed the
+14 information earlier with due diligence and the
+15 party disclosed the information immediately upon
+16 its discovery.
+17 c. In considering an appropriate sanction for
+18 nondisclosure or untimely disclosure, a court shall
+19 determine the significance of the information not
+20 timely disclosed, the impact of the violation on the
+21 overall administration of the case, the impact of the
+22 sanction on the party and the victim, and the stage of
+23 the proceedings when the party ultimately made the
+24
+Req. No. 16407 Page 15
+1 disclosure. Available sanctions shall include, but
+2 not be limited to:
+3 (1) precluding or limiting a witness, the use of
+4 evidence, or an argument supporting or opposing a
+5 charge or defense,
+6 (2) dismissing the case with or without prejudice,
+7 (3) granting a continuance or declaring a mistrial,
+8 if necessary, in the interests of justice,
+9 (4) holding in contempt a witness, a party, or a
+10 person acting under the direction or control of a
+11 party,
+12 (5) imposing costs of continuing the proceeding, or
+13 (6) any other appropriate sanction, including
+14 monetary penalties.
+15 3. The discovery order shall not include discovery of legal
+16 work product of either attorney which is deemed to include legal
+17 research or those portions of records, correspondence, reports, or
+18 memoranda which are only the opinions, theories, or conclusions of
+19 the attorney or the attorney's legal staff. Any such records,
+20 correspondence, reports, or memoranda that contain evidence
+21 favorable to the defendant as provided for in paragraph 2 of
+22 subsection A of this section shall be disclosed.
+23 F. Reasonable cost of copying, duplicating, videotaping,
+24 developing or any other cost associated with this Code for items
+Req. No. 16407 Page 16
+1 requ ested shall be paid by the party so requesting; however, any
+2 item which was obtained from the defendant by the state of which
+3 copies are requested by the defendant shall be paid by the state.
+4 Provided, if the court determines the defendant is indigent and
+5 without funds to pay the cost of reproduction of the required items,
+6 the cost shall be paid by the Indigent Defender System, unless
+7 otherwise provided by law.
+8 SECTION 2. This act shall become effective November 1, 2026.
+9
+10 60-2-16407 GRS 02/16/26
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 16407 Page 17
+[DELETED: 2 AS C           O S L           ]
+[DELETED:  P B]
+[DELETED:  P u a a]
+[DELETED:  P n a]
+[DELETED:  P a a a a O f]
+[DELETED:  P d t]
+[DELETED:  P n r s i u p m]
+[DELETED:  P m a a a I t a]
+[DELETED:  P t a w a E]
+[DELETED:  P F]
+[DELETED:  P t t t]
+[DELETED:  P t i]
+[DELETED:  P b v a]
+[DELETED:  P i i i]
+[DELETED:  P i r I]
+[DELETED:  P I t t I]
+[DELETED:  P p d g h i a]
+[DELETED:  P G 0]
+
+
+================================================================================
+
+Raw Text:
+HB3742 POLPCS1 Erick Harris-GRS
+2/16/2026 3:45:59 pm
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB3742
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Erick Harris
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED POLICY
+COMMITTEE SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 3742 By: Harris
+5
+6
+7 PROPOSED POLICY COMMITTEE SUBSTITUTE
+8 An Act relating to criminal procedure; amending 22
+O.S. 2021, Section 2002, as amended by Section 2,
+9 Chapter 327, O.S.L. 2025 (22 O.S. Supp. 2025, Section
+2002), which relates to the Oklahoma Criminal
+10 Discovery Code; directing the state to disclose
+certain evidence prior to the initial appearance of
+11 defendants; requiring the disclosure of evidence
+favorable to the defendant; requiring disclosure
+12 despite its form; declaring the ongoing duty to
+disclose information; increasing time limitation for
+13 introducing testimony from informants and
+codefendants; updating informant references;
+14 modifying scope of certain defined term; clarifying
+disclosure duties of defendants; providing for the
+15 filing of discovery motions any time following
+initial appearances; establishing time limitation for
+16 completing discovery issues; providing an exception
+to certain witnesses; authorizing courts to compel
+17 discovery or order sanctions; directing courts to
+order disclosure of evidence and sanctions upon
+18 certain finding; providing exceptions; directing
+courts to make certain considerations when ordering
+19 sanctions; specifying types of available sanctions;
+requiring the disclosure of certain documents
+20 favorable to defendants; and providing an effective
+date.
+21
+22
+23
+24 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+Req. No. 16407 Page 1
+
+1 SECTION 1. AMENDATORY 22 O.S. 2021, Section 2002, as
+2 amended by Section 2, Chapter 327, O.S.L. 2025 (22 O.S. Supp. 2025,
+3 Section 2002), is amended to read as follows:
+4 Section 2002. A. Disclosure of Evidence by the State.
+5 1. Upon request Within thirty (30) days of the defense initial
+6 appearance, the state shall disclose the following:
+7 a. unless otherwise prohibited by law, the names and
+8 addresses full contact information, as available to
+9 the state, of witnesses which the state intends to
+10 call at trial interviewed, identified, or known by any
+11 member of law enforcement or any member of the office
+12 of the prosecutor during the course of the
+13 prosecution, together with their relevant, written or
+14 recorded statement, if any, or if none, significant
+15 summaries of any oral statement,
+16 b. all law enforcement reports made in connection with
+17 the particular case, including initial and
+18 supplemental reports by any person or agency involved
+19 in the investigation of the case, photographs,
+20 diagrams, vehicle dashboard camera and body camera
+21 video, audio and video recordings, and any other
+22 tangible means of memorializing information,
+23 c. any all written or recorded statements and the
+24 substance of any all oral statements made by the
+Req. No. 16407 Page 2
+
+1 accused or made by a codefendant to any member of law
+2 enforcement, any member of the office of the
+3 prosecutor, or any other person or agency involved in
+4 the investigation of the case,
+5 d. names and full contact information, as available to
+6 the state, of all eyewitnesses interviewed by law
+7 enforcement, whether the witness made a positive
+8 identification or not. All initial and subsequent
+9 suspect descriptions obtained from eyewitnesses. All
+10 photographs and line up materials taken or used during
+11 a line up procedure, and any notes or reports made
+12 resulting from the line up procedure. The duty to
+13 disclose evidence also requires all pre-line up and
+14 post-line up instructions given to the witness to be
+15 produced as well as recordings made prior to, during,
+16 or following the line up procedure,
+17 e. any all reports or statements of examinations or tests
+18 made by experts in connection with the particular
+19 case, including results of physical or mental
+20 examinations and of, preliminary or presumptive tests
+21 and screening results, scientific tests, experiments,
+22 or comparisons, polygraph testing, including all raw
+23 data, worksheets, laboratory notes, diagrams, and peer
+24 review notes or reports and any such records stored
+Req. No. 16407 Page 3
+
+1 electronically, and all records of proficiency testing
+2 relating to any testing or analysis,
+3 e. any
+4 f. all books, papers, documents, photographs, tangible
+5 objects, buildings or places which the prosecuting
+6 attorney intends to use in the hearing or trial or
+7 which were obtained from or belong to during the
+8 accused course of the investigation,
+9 f. any record
+10 g. all records of prior criminal convictions of the
+11 defendant, or of any codefendant codefendants, and
+12 witnesses that law enforcement or the prosecutor has
+13 interviewed in the course of the investigation of the
+14 case,
+15 g. Oklahoma State Bureau of Investigation (OSBI) rap
+16 sheet/records
+17 h. full background check, including criminal history, on
+18 any witness listed by the state or the defense as a
+19 witness who will testify at trial, as well as any
+20 convictions of any witness revealed through additional
+21 record checks if the defense has furnished Social
+22 Security numbers or date of birth for their witnesses,
+23 except OSBI rap sheet/record checks shall not provide
+24
+Req. No. 16407 Page 4
+
+1 date of birth, Social Security number, home phone
+2 number or address,
+3 i. dispatch records, 9-1-1 calls, or other emergency
+4 service calls related to the crime or to anyone
+5 charged with the crime resulting from calls related to
+6 the investigation into the case. The prosecution may
+7 withhold the names and identifying information of any
+8 victim who contacted 9-1-1 or other emergency services
+9 provided; however, an application for a protective
+10 order pursuant to the provisions of paragraph 1 of
+11 subsection E of this section may be made. If the
+12 prosecution intends to call such person as a witness
+13 at a trial or hearing, the prosecution shall disclose
+14 the name and contact information, as available to the
+15 state, of such witness no later than thirty (30) days
+16 before such trial or hearing or as soon as
+17 practicable, and
+18 j. the name and work affiliation of all law enforcement
+19 personnel who have evidence or information relevant to
+20 any offense charged or to any potential defense
+21 thereto, including a designation by the prosecutor as
+22 to which of those persons may be called as a witness.
+23 Unless the court rules otherwise for good cause shown,
+24 information pursuant to the provisions of this
+Req. No. 16407 Page 5
+
+1 subparagraph relating to undercover personnel may be
+2 withheld and redacted from discovery materials without
+3 the need to file a motion and upon written
+4 notification by the prosecution that such information
+5 has not been disclosed.
+6 2. The state shall provide the defendant any all evidence which
+7 may be favorable to the defendant if such including, but not limited
+8 to, evidence is material to either that:
+9 a. negates the guilt or punishment of the defendant as to
+10 a charged offense,
+11 b. reduces the degree of or mitigates the culpability of
+12 the defendant as to a charged offense,
+13 c. supports a potential defense to a charged offense,
+14 d. impeaches the credibility of a testifying prosecution
+15 witness,
+16 e. undermines evidence of the identity of the defendant
+17 as a perpetrator of a charged offense,
+18 f. provides a basis for a motion to suppress evidence, or
+19 g. mitigates punishment.
+20 Information under the provisions of this paragraph shall be
+21 disclosed whether or not such information is recorded in tangible
+22 form and irrespective of whether the prosecutor credits the
+23 information.
+24
+Req. No. 16407 Page 6
+
+1 The prosecutor shall have an ongoing duty to disclose such
+2 information expeditiously upon its receipt.
+3 3. The prosecuting attorney's obligations under this standard
+4 extend to:
+5 a. material and information in the possession or control
+6 of members of the prosecutor's staff,
+7 b. any information in the possession of law enforcement
+8 agencies that regularly report to the prosecutor of
+9 which the prosecutor should reasonably know, and
+10 c. any information in the possession of law enforcement
+11 agencies who have reported to the prosecutor with
+12 reference to the particular case of which the
+13 prosecutor should reasonably know.
+14 4. a. If the state intends to introduce testimony of a
+15 jailhouse an informant, including a codefendant, the
+16 state shall disclose at least ten (10) thirty (30)
+17 days prior to trial:
+18 (1) the complete criminal history of such informant,
+19 including any dismissed charges,
+20 (2) any deal, promise, inducement or benefit that the
+21 state or law enforcement agency has made or may
+22 make in the future to the jailhouse informant in
+23 connection with the testimony of such informant,
+24
+Req. No. 16407 Page 7
+
+1 (3) the specific statements or recordings made by the
+2 suspect or defendant and the time, place and
+3 manner of the disclosure to the jailhouse
+4 informant,
+5 (4) all other filed cases in which the state intended
+6 to introduce the testimony of the jailhouse
+7 informant in connection with a deal, promise,
+8 inducement or benefit, the nature of the deal,
+9 promise, inducement or benefit, and whether the
+10 testimony was admitted in the case,
+11 (5) whether at any time the jailhouse informant
+12 recanted the testimony or statement, and if so, a
+13 transcript or copy of such recantation, if any,
+14 and
+15 (6) any other information relevant to the credibility
+16 of the informant.
+17 b. Each district attorney's office shall maintain a
+18 central record that tracks each case in which the
+19 state intended to introduce the testimony of the
+20 jailhouse informant against a suspect or defendant in
+21 connection with a deal, promise, inducement or
+22 benefit, the nature of the deal, promise, inducement
+23 or benefit and whether such testimony or statements
+24 were admitted in the case. Such record shall be sent
+Req. No. 16407 Page 8
+
+1 to the District Attorneys Council which shall maintain
+2 a statewide record of such information. Records
+3 maintained pursuant to this paragraph shall only be
+4 accessible to prosecutors and shall not be subject to
+5 the Oklahoma Open Records Act. By September 15 of
+6 each year, the District Attorneys Council shall
+7 publish an annual report of aggregate, de-identified
+8 data regarding the total number of cases tracked
+9 pursuant to this section, and the number of cases
+10 added during the previous fiscal year pursuant to this
+11 section by each district attorney's office. A copy of
+12 the report shall be distributed to the Governor, the
+13 President Pro Tempore of the Senate, the Speaker of
+14 the House of Representatives and the chairs of the
+15 Senate and House Judiciary Committees.
+16 c. For purposes of this paragraph, "jailhouse informant"
+17 "informant" means a person who provides, or who the
+18 prosecutor intends to provide, testimony about
+19 admissions or other relevant information made to him
+20 or her by the suspect or defendant while both persons
+21 were detained or incarcerated in a penal institution.
+22 B. Disclosure of Evidence by the Defendant.
+23 1. Upon request of the state, the defense shall be required to
+24 disclose the following:
+Req. No. 16407 Page 9
+
+1 a. the names and addresses full contact information, as
+2 available to defense counsel, of witnesses which the
+3 defense intends to call at trial, together with their
+4 relevant, written or recorded statement, if any, or if
+5 none, significant summaries of any oral statement,
+6 b. the name and address full contact information, as
+7 available to defense counsel, of any witness, other
+8 than the defendant, who will be called to show that
+9 the defendant was not present at the time and place
+10 specified in the information or indictment, together
+11 with the witness' statement to that fact,
+12 c. the names and addresses full contact information, as
+13 available to defense counsel, of any witness the
+14 defendant will call, other than himself or herself,
+15 for testimony relating to any mental disease, mental
+16 defect, or other condition bearing upon his mental
+17 state at the time the offense was allegedly committed,
+18 together with the witness' statement of that fact, if
+19 the statement is redacted by the court to preclude
+20 disclosure of privileged communication.
+21 2. A statement filed under subparagraph a, b or c of paragraph
+22 1 of subsection A or B of this section is not admissible in evidence
+23 at trial. Information obtained as a result of a statement filed
+24 under subsection A or B of this section is not admissible in
+Req. No. 16407 Page 10
+
+1 evid ence at trial except to refute the testimony of a witness whose
+2 identity subsection A of this section requires to be disclosed.
+3 3. Upon the prosecuting attorney's request after the time set
+4 by the court, the defendant shall allow him or her access at any
+5 reasonable times and in any reasonable manner to inspect,
+6 photograph, copy, or have reasonable tests made upon any book,
+7 paper, document, photograph, or tangible object which is within the
+8 defendant's possession or control and which:
+9 a. the defendant intends to offer in evidence, except to
+10 the extent that it contains any communication of the
+11 defendant, or
+12 b. is a report or statement as to a physical or mental
+13 examination or scientific test or experiment made in
+14 connection with the particular case prepared by and
+15 relating to the anticipated testimony of a person whom
+16 the defendant intends to call as a witness, provided
+17 the report or statement is redacted by the court to
+18 preclude disclosure of privileged communication.
+19 C. Continuing Duty to Disclose.
+20 If, prior to or during trial, a party discovers additional
+21 evidence or material previously requested or ordered, which is
+22 subject to discovery or inspection under the Oklahoma Criminal
+23 Discovery Code, such party shall promptly notify the other party,
+24
+Req. No. 16407 Page 11
+
+1 the attorney of the other party, or the court of the existence of
+2 the additional evidence or material.
+3 D. Time of Discovery.
+4 1. Motions for discovery may be made at the any time of the
+5 district court arraignment or thereafter; provided that requests for
+6 police reports may be made subject to the provisions of Section 258
+7 of this title. However, a request pursuant to Section 258 of this
+8 title shall be subject to the discretion of the district attorney.
+9 All issues relating to discovery, except as otherwise provided, will
+10 be completed at least ten (10) not less than thirty (30) days prior
+11 to trial. The court may specify the time, place and manner of
+12 making the discovery and may prescribe such terms and conditions as
+13 are just and consistent with the provisions of this section;
+14 provided, that, in the instance of conflict between any provision of
+15 this section, the earlier timeframe shall be the governing
+16 timeframe.
+17 2. Within thirty (30) days of the filing of an endorsed
+18 complaint, indictment, or information in a court of record, law
+19 enforcement shall provide to the prosecuting agency the following
+20 records, if such records exist:
+21 a. body camera videos at the time of arrest,
+22 b. vehicle-mounted camera videos at the time of arrest,
+23 and
+24 c. a recording of the administration of a sobriety test.
+Req. No. 16407 Page 12
+
+1 3. Within ninety (90) days of the filing of an endorsed
+2 complaint, indictment, or information, the prosecuting agency shall
+3 make available the records described in paragraph 2 of this
+4 subsection to the defendant or his or her representative.
+5 4. Failure of a law enforcement agency to comply with the
+6 provisions of paragraph 2 of this subsection may be punished by
+7 contempt.
+8 5. The following information may be redacted by the prosecuting
+9 agency from the records provided to a defendant or his or her
+10 representative as required by the provisions of paragraph 3 of this
+11 subsection; provided that, notice of such redactions are given to
+12 the defendant or to his or her representative:
+13 a. information that would violate any requirement to keep
+14 certain juvenile records confidential as provided for
+15 in Title 10A of the Oklahoma Statutes,
+16 b. information that would materially compromise an
+17 ongoing criminal investigation or ongoing criminal
+18 prosecution other than the case involving the
+19 defendant,
+20 c. information that would undermine the assertion of a
+21 privilege to keep the identity of an informant
+22 confidential as provided for in Section 2510 of Title
+23 12 of the Oklahoma Statutes,
+24
+Req. No. 16407 Page 13
+
+1 d. information that would identify any person who
+2 provides information to law enforcement or the
+3 information provided by that person when that person
+4 requests anonymity or where disclosure of the identity
+5 of the person or the information provided could
+6 reasonably be expected to threaten or endanger the
+7 physical safety or property of the person or the
+8 physical safety or property of others, unless said
+9 person is called to testify as a witness at any
+10 hearing or trial, or
+11 e. require production of records or videos that fall
+12 outside the scope permitted under the provisions of
+13 paragraph 2 of this subsection.
+14 E. Regulation of Discovery.
+15 1. Protective and Modifying Orders. Upon motion of the state
+16 or defendant, the court may at any time order that specified
+17 disclosures be restricted, or make any other protective order. If
+18 the court enters an order restricting specified disclosures, the
+19 entire text of the material restricted shall be sealed and preserved
+20 in the records of the court to be made available to the appellate
+21 court in the event of an appeal.
+22 2. Failure to Comply with a Request.
+23 a. If at any time during the course of the proceedings it
+24 is brought to the attention of the court that a party
+Req. No. 16407 Page 14
+
+1 has failed to comply with this rule, the court may
+2 compel discovery or order such party to permit the
+3 discovery or inspection, grant continuance, or
+4 prohibit the party from introducing evidence not
+5 disclosed, or it may enter such other order as it
+6 deems just under the circumstances sanctions.
+7 b. If the court finds that a party violated a disclosure
+8 obligation under the provisions of this section, the
+9 court shall order disclosure as necessary and shall
+10 impose an appropriate sanction, unless the court finds
+11 that:
+12 (1) the failure to comply was harmless, or
+13 (2) the party could not have disclosed the
+14 information earlier with due diligence and the
+15 party disclosed the information immediately upon
+16 its discovery.
+17 c. In considering an appropriate sanction for
+18 nondisclosure or untimely disclosure, a court shall
+19 determine the significance of the information not
+20 timely disclosed, the impact of the violation on the
+21 overall administration of the case, the impact of the
+22 sanction on the party and the victim, and the stage of
+23 the proceedings when the party ultimately made the
+24
+Req. No. 16407 Page 15
+
+1 disclosure. Available sanctions shall include, but
+2 not be limited to:
+3 (1) precluding or limiting a witness, the use of
+4 evidence, or an argument supporting or opposing a
+5 charge or defense,
+6 (2) dismissing the case with or without prejudice,
+7 (3) granting a continuance or declaring a mistrial,
+8 if necessary, in the interests of justice,
+9 (4) holding in contempt a witness, a party, or a
+10 person acting under the direction or control of a
+11 party,
+12 (5) imposing costs of continuing the proceeding, or
+13 (6) any other appropriate sanction, including
+14 monetary penalties.
+15 3. The discovery order shall not include discovery of legal
+16 work product of either attorney which is deemed to include legal
+17 research or those portions of records, correspondence, reports, or
+18 memoranda which are only the opinions, theories, or conclusions of
+19 the attorney or the attorney's legal staff. Any such records,
+20 correspondence, reports, or memoranda that contain evidence
+21 favorable to the defendant as provided for in paragraph 2 of
+22 subsection A of this section shall be disclosed.
+23 F. Reasonable cost of copying, duplicating, videotaping,
+24 developing or any other cost associated with this Code for items
+Req. No. 16407 Page 16
+
+1 requ ested shall be paid by the party so requesting; however, any
+2 item which was obtained from the defendant by the state of which
+3 copies are requested by the defendant shall be paid by the state.
+4 Provided, if the court determines the defendant is indigent and
+5 without funds to pay the cost of reproduction of the required items,
+6 the cost shall be paid by the Indigent Defender System, unless
+7 otherwise provided by law.
+8 SECTION 2. This act shall become effective November 1, 2026.
+9
+10 60-2-16407 GRS 02/16/26
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 16407 Page 17
+
+[DELETED: 2 AS C           O S L           ]
+[DELETED:  P B]
+[DELETED:  P u a a]
+[DELETED:  P n a]
+[DELETED:  P a a a a O f]
+[DELETED:  P d t]
+[DELETED:  P n r s i u p m]
+[DELETED:  P m a a a I t a]
+[DELETED:  P t a w a E]
+[DELETED:  P F]
+[DELETED:  P t t t]
+[DELETED:  P t i]
+[DELETED:  P b v a]
+[DELETED:  P i i i]
+[DELETED:  P i r I]
+[DELETED:  P I t t I]
+[DELETED:  P p d g h i a]
+[DELETED:  P G 0]
