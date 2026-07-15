@@ -1,0 +1,570 @@
+Title: An Act
+Official Title: An Act
+Number of Sections: 27
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED SENATE
+BILL NO. 1645 By: Gollihare of the Senate
+and
+Lawson and Williams of the
+House
+An Act relating to the state Medicaid program;
+defining terms; establishing certain requirements and
+procedures for audits of Medicaid providers;
+directing establishment of certain appeals process;
+providing for review by administrative law judge;
+authorizing certain judicial review; prohibiting
+certain adverse action by the Oklahoma Health Care
+Authority or a contracted entity; stipulating certain
+requirements for recoupment of funds; limiting
+applicability of certain provisions; directing
+promulgation of rules; providing for codification;
+and providing an effective date.
+SUBJECT: Audits of Medicaid providers
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 5051.11 of Title 63, unless
+there is created a duplication in numbering, reads as follows:
+A. As used in this section:
+
+Section 3:
+1. “Audit” means any review, analysis, or investigation
+conducted by the Oklahoma Health Care Authority, a contracted
+entity, or an entity on behalf of the Authority or the contracted
+entity, of a Medicaid claim submitted by a provider if the review,
+analysis, or investigation:
+a. may result in recoupment, withholding, denial, or
+adjustment of Medicaid payments, and
+b. involves records, documents, or information other than
+the filed claim;
+
+Section 4:
+2. “Capitated contract” and “contracted entity” have the same
+meanings as provided by the Ensuring Access to Medicaid Act, Section
+
+Section 5:
+4002.2 of Title 56 of the Oklahoma Statutes;
+
+Section 6:
+3. “Clerical or recordkeeping error” means a mistake or an
+omission in the filed claim regarding a required document or record.
+A clerical or recordkeeping error includes, but is not limited to,
+a:
+a. typographical error,
+b. scrivener’s error, or
+c. computer error;
+
+Section 7:
+4. “Long-term care provider” means a provider as defined in
+this subsection that is a:
+a. nursing facility,
+b. intermediate care facility for individuals with
+intellectual disabilities (ICF/IID),
+c. Medicaid home- and community-based services provider,
+or
+d. program of all-inclusive care for the elderly (PACE)
+organization; and
+
+Section 8:
+5. “Provider” means any health care provider or behavioral
+health provider that is contracted with the Authority or a
+contracted entity to provide services to members of the state
+Medicaid program.
+ENR. S. B. NO. 1645 Page 2
+B. Subject to applicable federal law, when the Oklahoma Health
+Care Authority or a contracted entity conducts an audit of a
+Medicaid provider, the audit shall be conducted according to the
+following requirements and procedures:
+
+Section 9:
+1. The Authority or the contracted entity shall give the
+provider notice of the audit at least one (1) week before conducting
+the initial audit for each audit cycle;
+
+Section 10:
+2. a. An audit that involves the application of clinical or
+professional judgment shall be conducted in
+consultation with any state agency that licenses,
+contracts with, or has oversight of a provider through
+a memorandum of understanding or similar agreement.
+b. The Authority or the contracted entity shall not cite
+a provider that is contracted with a state agency
+other than the Authority for delivery of Medicaid
+services for an error based on an act or omission that
+complied with applicable rules, policies, or guidance
+of such state agency;
+
+Section 11:
+3. a. A clerical or recordkeeping error shall not:
+(1) constitute fraud, or
+(2) be subject to criminal penalties without proof of
+intent to commit fraud.
+b. A claim arising under subparagraph a of this paragraph
+may be subject to recoupment;
+
+Section 12:
+4. Submission of a corrected claim by a provider shall not
+constitute an admission of liability, fault, or wrongdoing;
+
+Section 13:
+5. a. When an audit is for a specifically identified problem
+that has been disclosed to the provider, the audit
+shall be limited to a claim that is identified by a
+claim number.
+b. For an audit other than that described in subparagraph
+a of this paragraph, the audit shall be limited,
+ENR. S. B. NO. 1645 Page 3
+except where a credible allegation of fraud may exist,
+to the following:
+(1) if the provider is a long-term care provider, the
+greater of:
+(a) fifty claims, or
+(b) twenty-five one-hundredths percent (0.25%)
+of the number of claims billed by the
+provider in the previous calendar year, or
+(2) for all other providers, the greater of:
+(a) fifty claims, or
+(b) five percent (5%) of the number of claims
+billed by the provider in the previous
+calendar year.
+c. (1) If an audit reveals the necessity for a review of
+additional claims, the audit shall be conducted
+by one of the following methods:
+(a) on-site,
+(b) electronically, or
+(c) by the same method as the initial audit.
+(2) The method of the audit shall be at the
+discretion of the provider, except that an on-
+site audit may only be conducted on a long-term
+care provider.
+d. Except for an audit initiated under subparagraph a of
+this paragraph, the Authority or the contracted entity
+shall not initiate an audit of a provider more than
+two (2) times in a calendar year;
+
+Section 14:
+6. A recoupment shall not be based on:
+ENR. S. B. NO. 1645 Page 4
+a. documentation requirements in addition to the
+requirements for creating or maintaining documentation
+prescribed by state law or rule or federal law or
+regulation, or
+b. a requirement that a provider perform professional
+duties prescribed by state law or rule or federal law
+or regulation;
+
+Section 15:
+7. a. Recoupment shall only occur following the correction
+of a claim and shall be limited to amounts paid in
+excess of amounts payable under the corrected claim.
+b. The Authority or the contracted entity may recoup the
+entire overpaid claim if payment is issued for the
+corrected claim on the same date.
+c. Following a notice of overpayment, a provider shall
+have at least sixty (60) days to file a corrected
+claim;
+
+Section 16:
+8. Approval of a service, provider, or patient eligibility upon
+adjudication of a claim shall not be reversed unless the provider
+obtained the adjudication by fraud or misrepresentation of claim
+elements, unless the reversal is necessary under state or federal
+law;
+
+Section 17:
+9. Each provider shall be audited by the Authority or the
+contracted entity under the same standards and parameters;
+
+Section 18:
+10. The Authority or the contracted entity shall disclose to
+providers all policies, manuals, billing guidelines, and audit
+criteria and any changes to such policies, manuals, guidelines, and
+criteria. No recoupment may be based on undisclosed or
+retroactively applied criteria, unless required by state or federal
+law;
+
+Section 19:
+11. A provider shall be allowed at least sixty (60) days
+following receipt of the preliminary audit report in which to
+produce documentation to address any discrepancy found during the
+audit;
+ENR. S. B. NO. 1645 Page 5
+
+Section 20:
+12. The period covered by an audit shall not exceed twenty-four
+(24) months from the date the claim was submitted to the Authority
+or the contracted entity;
+
+Section 21:
+13. a. The preliminary audit report under paragraph 11 of
+this subsection shall be delivered to a provider
+within one hundred twenty (120) days after the
+conclusion of the audit.
+b. A final audit report shall be delivered to a provider
+within six (6) months after receipt of the preliminary
+audit report or receipt of the final appeal as
+provided for in this subsection, whichever is later;
+and
+
+Section 22:
+14. Notwithstanding any other provision in this section, the
+Authority or the contracted entity shall not use the accounting
+practices of statistical sampling, projection, or extrapolation
+methodologies to calculate alleged overpayments, recoupments, or
+penalties for audits.
+C. 1. The Authority shall establish an appeals process under
+which a provider may appeal a final audit report to the Authority,
+and each contracted entity shall adopt the same appeals process. A
+decision of the Authority or the contracted entity after the appeal
+shall be final and binding unless a review is requested under
+paragraph 2 of this subsection.
+
+Section 23:
+2. Any decision of the Authority or the contracted entity after
+the appeal shall be subject to review by an administrative law judge
+designated by the Administrator of the Oklahoma Health Care
+Authority upon a timely request for review by the applicant or
+recipient. The Administrator may only designate an administrative
+law judge at another state agency, as established in the State
+Medicaid Plan and approved by the Centers for Medicare and Medicaid
+Services. The designated administrative law judge shall issue a
+decision after review.
+
+Section 24:
+3. Any applicant or recipient under this title who is aggrieved
+by a decision of the designated administrative law judge rendered
+under paragraph 2 of this subsection may petition the district court
+in which the provider is located within thirty (30) days of the date
+ENR. S. B. NO. 1645 Page 6
+of the decision for a judicial review of the decision pursuant to
+the provisions of Sections 318 through 323 of Title 75 of the
+Oklahoma Statutes. A copy of the petition shall be served by mail
+upon the general counsel of the Authority.
+D. The Authority or the contracted entity shall not take
+adverse action against a provider for exercising rights conferred by
+this section including, but not limited to, retaliation through
+selection for additional audits.
+E. A recoupment of any disputed funds shall only occur after
+final disposition of the audit, including the appeals processes
+described in subsection C of this section.
+F. The total amount of any recoupment on an audit shall be
+refunded to:
+
+Section 25:
+1. The contracted entity if the audited services were provided
+under a capitated contract. The contracted entity shall report such
+recoupment to the Authority and shall retain, use, or transfer the
+funds in accordance with rules promulgated by the Oklahoma Health
+Care Authority Board; or
+
+Section 26:
+2. If the audited services were provided through the fee-for-
+service portion of the state Medicaid program:
+a. the state agency responsible for paying the state
+share of the Medicaid services provided by the
+provider, if an agency other than the Authority, or
+b. in the absence of the conditions described in
+subparagraph a of this paragraph, the Authority.
+G. This section does not apply to any audit, review, or
+investigation that involves alleged fraud, willful
+misrepresentation, or abuse.
+H. The Oklahoma Health Care Authority Board shall promulgate
+rules to implement the provisions of this section.
+
+Section 27:
+SECTION 2. This act shall become effective January 1, 2027.
+ENR. S. B. NO. 1645 Page 7
+Passed the Senate the 25th day of March, 2026.
+Presiding Officer of the Senate
+Passed the House of Representatives the 29th day of April, 2026.
+Presiding Officer of the House
+of Representatives
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of __________________, 20 _______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. S. B. NO. 1645 Page 8
+[DELETED:  B G  a L]
+[DELETED:  P m i t s c n i M p]
+[DELETED:  P a A T a A c b A a W F]
+[DELETED:  P i f t f f f ( I o e b T E]
+[DELETED:  P d a a R T F]
+[DELETED:  P a T A]
+[DELETED:  P t i]
+[DELETED:  PPPo_G]
+
+
+================================================================================
+
+Raw Text:
+An Act
+ENROLLED SENATE
+BILL NO. 1645 By: Gollihare of the Senate
+and
+Lawson and Williams of the
+House
+An Act relating to the state Medicaid program;
+defining terms; establishing certain requirements and
+procedures for audits of Medicaid providers;
+directing establishment of certain appeals process;
+providing for review by administrative law judge;
+authorizing certain judicial review; prohibiting
+certain adverse action by the Oklahoma Health Care
+Authority or a contracted entity; stipulating certain
+requirements for recoupment of funds; limiting
+applicability of certain provisions; directing
+promulgation of rules; providing for codification;
+and providing an effective date.
+SUBJECT: Audits of Medicaid providers
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 5051.11 of Title 63, unless
+there is created a duplication in numbering, reads as follows:
+A. As used in this section:
+1. “Audit” means any review, analysis, or investigation
+conducted by the Oklahoma Health Care Authority, a contracted
+entity, or an entity on behalf of the Authority or the contracted
+entity, of a Medicaid claim submitted by a provider if the review,
+analysis, or investigation:
+
+a. may result in recoupment, withholding, denial, or
+adjustment of Medicaid payments, and
+b. involves records, documents, or information other than
+the filed claim;
+2. “Capitated contract” and “contracted entity” have the same
+meanings as provided by the Ensuring Access to Medicaid Act, Section
+4002.2 of Title 56 of the Oklahoma Statutes;
+3. “Clerical or recordkeeping error” means a mistake or an
+omission in the filed claim regarding a required document or record.
+A clerical or recordkeeping error includes, but is not limited to,
+a:
+a. typographical error,
+b. scrivener’s error, or
+c. computer error;
+4. “Long-term care provider” means a provider as defined in
+this subsection that is a:
+a. nursing facility,
+b. intermediate care facility for individuals with
+intellectual disabilities (ICF/IID),
+c. Medicaid home- and community-based services provider,
+or
+d. program of all-inclusive care for the elderly (PACE)
+organization; and
+5. “Provider” means any health care provider or behavioral
+health provider that is contracted with the Authority or a
+contracted entity to provide services to members of the state
+Medicaid program.
+ENR. S. B. NO. 1645 Page 2
+
+B. Subject to applicable federal law, when the Oklahoma Health
+Care Authority or a contracted entity conducts an audit of a
+Medicaid provider, the audit shall be conducted according to the
+following requirements and procedures:
+1. The Authority or the contracted entity shall give the
+provider notice of the audit at least one (1) week before conducting
+the initial audit for each audit cycle;
+2. a. An audit that involves the application of clinical or
+professional judgment shall be conducted in
+consultation with any state agency that licenses,
+contracts with, or has oversight of a provider through
+a memorandum of understanding or similar agreement.
+b. The Authority or the contracted entity shall not cite
+a provider that is contracted with a state agency
+other than the Authority for delivery of Medicaid
+services for an error based on an act or omission that
+complied with applicable rules, policies, or guidance
+of such state agency;
+3. a. A clerical or recordkeeping error shall not:
+(1) constitute fraud, or
+(2) be subject to criminal penalties without proof of
+intent to commit fraud.
+b. A claim arising under subparagraph a of this paragraph
+may be subject to recoupment;
+4. Submission of a corrected claim by a provider shall not
+constitute an admission of liability, fault, or wrongdoing;
+5. a. When an audit is for a specifically identified problem
+that has been disclosed to the provider, the audit
+shall be limited to a claim that is identified by a
+claim number.
+b. For an audit other than that described in subparagraph
+a of this paragraph, the audit shall be limited,
+ENR. S. B. NO. 1645 Page 3
+
+except where a credible allegation of fraud may exist,
+to the following:
+(1) if the provider is a long-term care provider, the
+greater of:
+(a) fifty claims, or
+(b) twenty-five one-hundredths percent (0.25%)
+of the number of claims billed by the
+provider in the previous calendar year, or
+(2) for all other providers, the greater of:
+(a) fifty claims, or
+(b) five percent (5%) of the number of claims
+billed by the provider in the previous
+calendar year.
+c. (1) If an audit reveals the necessity for a review of
+additional claims, the audit shall be conducted
+by one of the following methods:
+(a) on-site,
+(b) electronically, or
+(c) by the same method as the initial audit.
+(2) The method of the audit shall be at the
+discretion of the provider, except that an on-
+site audit may only be conducted on a long-term
+care provider.
+d. Except for an audit initiated under subparagraph a of
+this paragraph, the Authority or the contracted entity
+shall not initiate an audit of a provider more than
+two (2) times in a calendar year;
+6. A recoupment shall not be based on:
+ENR. S. B. NO. 1645 Page 4
+
+a. documentation requirements in addition to the
+requirements for creating or maintaining documentation
+prescribed by state law or rule or federal law or
+regulation, or
+b. a requirement that a provider perform professional
+duties prescribed by state law or rule or federal law
+or regulation;
+7. a. Recoupment shall only occur following the correction
+of a claim and shall be limited to amounts paid in
+excess of amounts payable under the corrected claim.
+b. The Authority or the contracted entity may recoup the
+entire overpaid claim if payment is issued for the
+corrected claim on the same date.
+c. Following a notice of overpayment, a provider shall
+have at least sixty (60) days to file a corrected
+claim;
+8. Approval of a service, provider, or patient eligibility upon
+adjudication of a claim shall not be reversed unless the provider
+obtained the adjudication by fraud or misrepresentation of claim
+elements, unless the reversal is necessary under state or federal
+law;
+9. Each provider shall be audited by the Authority or the
+contracted entity under the same standards and parameters;
+10. The Authority or the contracted entity shall disclose to
+providers all policies, manuals, billing guidelines, and audit
+criteria and any changes to such policies, manuals, guidelines, and
+criteria. No recoupment may be based on undisclosed or
+retroactively applied criteria, unless required by state or federal
+law;
+11. A provider shall be allowed at least sixty (60) days
+following receipt of the preliminary audit report in which to
+produce documentation to address any discrepancy found during the
+audit;
+ENR. S. B. NO. 1645 Page 5
+
+12. The period covered by an audit shall not exceed twenty-four
+(24) months from the date the claim was submitted to the Authority
+or the contracted entity;
+13. a. The preliminary audit report under paragraph 11 of
+this subsection shall be delivered to a provider
+within one hundred twenty (120) days after the
+conclusion of the audit.
+b. A final audit report shall be delivered to a provider
+within six (6) months after receipt of the preliminary
+audit report or receipt of the final appeal as
+provided for in this subsection, whichever is later;
+and
+14. Notwithstanding any other provision in this section, the
+Authority or the contracted entity shall not use the accounting
+practices of statistical sampling, projection, or extrapolation
+methodologies to calculate alleged overpayments, recoupments, or
+penalties for audits.
+C. 1. The Authority shall establish an appeals process under
+which a provider may appeal a final audit report to the Authority,
+and each contracted entity shall adopt the same appeals process. A
+decision of the Authority or the contracted entity after the appeal
+shall be final and binding unless a review is requested under
+paragraph 2 of this subsection.
+2. Any decision of the Authority or the contracted entity after
+the appeal shall be subject to review by an administrative law judge
+designated by the Administrator of the Oklahoma Health Care
+Authority upon a timely request for review by the applicant or
+recipient. The Administrator may only designate an administrative
+law judge at another state agency, as established in the State
+Medicaid Plan and approved by the Centers for Medicare and Medicaid
+Services. The designated administrative law judge shall issue a
+decision after review.
+3. Any applicant or recipient under this title who is aggrieved
+by a decision of the designated administrative law judge rendered
+under paragraph 2 of this subsection may petition the district court
+in which the provider is located within thirty (30) days of the date
+ENR. S. B. NO. 1645 Page 6
+
+of the decision for a judicial review of the decision pursuant to
+the provisions of Sections 318 through 323 of Title 75 of the
+Oklahoma Statutes. A copy of the petition shall be served by mail
+upon the general counsel of the Authority.
+D. The Authority or the contracted entity shall not take
+adverse action against a provider for exercising rights conferred by
+this section including, but not limited to, retaliation through
+selection for additional audits.
+E. A recoupment of any disputed funds shall only occur after
+final disposition of the audit, including the appeals processes
+described in subsection C of this section.
+F. The total amount of any recoupment on an audit shall be
+refunded to:
+1. The contracted entity if the audited services were provided
+under a capitated contract. The contracted entity shall report such
+recoupment to the Authority and shall retain, use, or transfer the
+funds in accordance with rules promulgated by the Oklahoma Health
+Care Authority Board; or
+2. If the audited services were provided through the fee-for-
+service portion of the state Medicaid program:
+a. the state agency responsible for paying the state
+share of the Medicaid services provided by the
+provider, if an agency other than the Authority, or
+b. in the absence of the conditions described in
+subparagraph a of this paragraph, the Authority.
+G. This section does not apply to any audit, review, or
+investigation that involves alleged fraud, willful
+misrepresentation, or abuse.
+H. The Oklahoma Health Care Authority Board shall promulgate
+rules to implement the provisions of this section.
+SECTION 2. This act shall become effective January 1, 2027.
+ENR. S. B. NO. 1645 Page 7
+
+Passed the Senate the 25th day of March, 2026.
+Presiding Officer of the Senate
+Passed the House of Representatives the 29th day of April, 2026.
+Presiding Officer of the House
+of Representatives
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of __________________, 20 _______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. S. B. NO. 1645 Page 8
+
+[DELETED:  B G  a L]
+[DELETED:  P m i t s c n i M p]
+[DELETED:  P a A T a A c b A a W F]
+[DELETED:  P i f t f f f ( I o e b T E]
+[DELETED:  P d a a R T F]
+[DELETED:  P a T A]
+[DELETED:  P t i]
+[DELETED:  PPPo_G]

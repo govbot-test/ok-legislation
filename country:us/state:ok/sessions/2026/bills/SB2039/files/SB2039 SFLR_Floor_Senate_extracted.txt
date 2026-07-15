@@ -1,0 +1,2131 @@
+Title: 3 SENATE BILL NO. 2039 By: Goodwin
+Official Title: 3 SENATE BILL NO. 2039 By: Goodwin
+Number of Sections: 1
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Strikethrough Detection: 37 sections found
+
+================================================================================
+
+Section 1:
+RBS No. 3031
+1 SENATE FLOOR VERSION
+February 17, 2026
+2 AS AMENDED
+4
+5
+6 [ Teachers’ Retirement System of Oklahoma -
+retirement allowance – service credits - effective
+7 dates -
+emergency ]
+8
+9
+10 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+11 SECTION 1. AMENDATORY 62 O.S. 2021, Section 3103, as
+12 last amended by Section 1, Chapter 357, O.S.L. 2024 (62 O.S. Supp.
+13 2025, Section 3103), is amended to read as follows:
+14 Section 3103. As used in the Oklahoma Pension Legislation
+15 Actuarial Analysis Act:
+16 1. “Amendment” means any amendment, including a substitute
+17 bill, made to a retirement bill by any committee of the Oklahoma
+18 House of Representatives or Oklahoma State Senate, any conference
+19 committee of the House of Representatives or Senate, or by the House
+20 of Representatives or Senate;
+21 2. “RB number” means that number preceded by the letters “RB”
+22 assigned to a retirement bill by the respective staffs of the
+23 Oklahoma State Senate and the Oklahoma House of Representatives when
+24
+SENATE FLOOR VERSION - SB2039 SFLR Page 1
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 the respective staff office prepares a retirement bill for a member
+2 of the Legislature;
+3 3. “Legislative Actuary” means the firm or entity that enters
+4 into a contract with the Legislative Service Bureau pursuant to
+5 Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+6 actuarial services and other duties provided for in the Oklahoma
+7 Pension Legislation Actuarial Analysis Act;
+8 4. “Nonfiscal amendment” means an amendment to a retirement
+9 bill having a fiscal impact, which amendment does not change any
+10 factor of an actuarial investigation specified in subsection A of
+11 Section 3109 of this title;
+12 5. “Nonfiscal retirement bill” means a retirement bill:
+13 a. which does not affect the cost or funding factors of a
+14 retirement system,
+15 b. which affects such factors only in a manner which does
+16 not:
+17 (1) grant a benefit increase under the retirement
+18 system affected by the bill,
+19 (2) create an actuarial accrued liability for or
+20 increase the actuarial accrued liability of the
+21 retirement system affected by the bill, or
+22 (3) increase the normal cost of the retirement system
+23 affected by the bill,
+24
+SENATE FLOOR VERSION - SB2039 SFLR Page 2
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 c. which authorizes the purchase by an active member of
+2 the retirement system, at the actuarial cost for the
+3 purchase as computed pursuant to the statute in effect
+4 on the effective date of the measure allowing such
+5 purchase, of years of service for purposes of reaching
+6 a normal retirement date in the applicable retirement
+7 system, but which cannot be used in order to compute
+8 the number of years of service for purposes of
+9 computing the retirement benefit for the member,
+10 d. which provides for the computation of a service-
+11 connected disability retirement benefit for members of
+12 the Oklahoma Law Enforcement Retirement System
+13 pursuant to Section 2-305 of Title 47 of the Oklahoma
+14 Statutes if the members were unable to complete twenty
+15 (20) years of service as a result of the disability,
+16 e. which requires membership in the defined benefit plan
+17 authorized by Section 901 et seq. of Title 74 of the
+18 Oklahoma Statutes for persons whose first elected or
+19 appointed service occurs on or after November 1, 2018,
+20 if such persons had any prior service in the Oklahoma
+21 Public Employees Retirement System prior to November
+22 1, 2015,
+23 f. which provides for a one-time increase in retirement
+24 benefits if the increase in retirement benefits is not
+SENATE FLOOR VERSION - SB2039 SFLR Page 3
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 a permanent increase in the gross annual retirement
+2 benefit payable to a member or beneficiary, occurs
+3 only once pursuant to a single statutory
+4 authorization, and does not exceed:
+5 (1) the lesser of two percent (2%) of the gross
+6 annual retirement benefit of the member or One
+7 Thousand Dollars ($1,000.00) and requires that
+8 the benefit may only be provided if the funded
+9 ratio of the affected retirement system would not
+10 be less than sixty percent (60%) but not greater
+11 than eighty percent (80%) after the benefit
+12 increase is paid,
+13 (2) the lesser of two percent (2%) of the gross
+14 annual retirement benefit of the member or One
+15 Thousand Two Hundred Dollars ($1,200.00) and
+16 requires that the benefit may only be provided if
+17 the funded ratio of the affected retirement
+18 system would be greater than eighty percent (80%)
+19 but not greater than one hundred percent (100%)
+20 after the benefit increase is paid,
+21 (3) the lesser of two percent (2%) of the gross
+22 annual retirement benefit of the member or One
+23 Thousand Four Hundred Dollars ($1,400.00) and
+24 requires that the benefit may only be provided if
+SENATE FLOOR VERSION - SB2039 SFLR Page 4
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 the funded ratio of the affected retirement
+2 system would be greater than one hundred percent
+3 (100%) after the benefit increase is paid, or
+4 (4) the greater of two percent (2%) of the gross
+5 annual retirement benefit of the volunteer
+6 firefighter or One Hundred Dollars ($100.00) for
+7 persons who retired from the Oklahoma
+8 Firefighters Pension and Retirement System as
+9 volunteer firefighters and who did not retire
+10 from the Oklahoma Firefighters Pension and
+11 Retirement System as a paid firefighter.
+12 As used in this subparagraph, “funded ratio” means the
+13 figure derived by dividing the actuarial value of
+14 assets of the applicable retirement system by the
+15 actuarial accrued liability of the applicable
+16 retirement system,
+17 g. which modifies the disability pension standard for
+18 police officers who are members of the Oklahoma Police
+19 Pension and Retirement System as provided by Section
+20 50-115 of Title 11 of the Oklahoma Statutes,
+21 h. which provides a cost-of-living benefit increase
+22 pursuant to the provisions of:
+23 (1) Section 49-143.7 of Title 11 of the Oklahoma
+24 Statutes,
+SENATE FLOOR VERSION - SB2039 SFLR Page 5
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 (2) Section 50-136.9 of Title 11 of the Oklahoma
+2 Statutes,
+3 (3) Section 1104K of Title 20 of the Oklahoma
+4 Statutes,
+5 (4) Section 2-305.12 of Title 47 of the Oklahoma
+6 Statutes,
+7 (5) Section 17-116.22 of Title 70 of the Oklahoma
+8 Statutes, or
+9 (6) Section 930.11 of Title 74 of the Oklahoma
+10 Statutes,
+11 i. which modifies the computation of the line-of-duty
+12 disability benefit pursuant to Sections 50-101 and 50-
+13 115 of Title 11 of the Oklahoma Statutes,
+14 j. which allows the purchase of military prior service
+15 credit pursuant to the provisions of this act section
+16 and Section 49-138 of Title 11 of the Oklahoma
+17 Statutes,
+18 k. which increases the computation factor used to
+19 calculate the accrued retirement benefit and normal
+20 disability benefit pursuant to Section 50-101 of Title
+21 11 of the Oklahoma Statutes,
+22 l. which increases the municipal contribution, employee
+23 contribution, or both for members of the Oklahoma
+24 Police Pension and Retirement System pursuant to
+SENATE FLOOR VERSION - SB2039 SFLR Page 6
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 Sections 50-109 and 50-110 of Title 11 of the Oklahoma
+2 Statutes, or
+3 m. which modifies the computation of a retirement annuity
+4 pursuant to Section 50-111.1 of Title 11 of the
+5 Oklahoma Statutes, or
+6 n. which relates to the purchase of service credits, as
+7 provided for in Section 17-116.2 of Title 70 of the
+8 Oklahoma Statutes.
+9 A nonfiscal retirement bill shall include any retirement bill that
+10 has as its sole purpose the appropriation or distribution or
+11 redistribution of monies in some manner to a retirement system for
+12 purposes of reducing the unfunded liability of such system or the
+13 earmarking of a portion of the revenue from a tax to a retirement
+14 system or increasing the percentage of the revenue earmarked from a
+15 tax to a retirement system;
+16 6. “Reduction-in-cost amendment” means an amendment to a
+17 retirement bill having a fiscal impact which reduces the cost of the
+18 bill as such cost is determined by the actuarial investigation for
+19 the bill prepared pursuant to Section 3109 of this title;
+20 7. “Retirement bill” means any bill or joint resolution
+21 introduced or any bill or joint resolution amended by a member of
+22 the Legislature which creates or amends any law directly affecting a
+23 retirement system. A retirement bill shall not mean a bill or
+24 resolution that impacts the revenue of any state tax in which a
+SENATE FLOOR VERSION - SB2039 SFLR Page 7
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 port ion of the revenue generated from such tax is earmarked for the
+2 benefit of a retirement system;
+3 8. “Retirement bill having a fiscal impact” means any
+4 retirement bill creating or establishing a retirement system and any
+5 other retirement bill other than a nonfiscal retirement bill; and
+6 9. “Retirement system” means the Teachers’ Retirement System of
+7 Oklahoma, the Oklahoma Public Employees Retirement System, the
+8 Uniform Retirement System for Justices and Judges, the Oklahoma
+9 Firefighters Pension and Retirement System, the Oklahoma Police
+10 Pension and Retirement System, the Oklahoma Law Enforcement
+11 Retirement System, or a retirement system established after January
+12 1, 2006.
+13 SECTION 2. AMENDATORY 70 O.S. 2021, Section 17-116.2, is
+14 amended to read as follows:
+15 Section 17-116.2. A. 1. Beginning July 1, 1987, and prior to
+16 July 1, 1995, a member who retires on or after the member’s normal
+17 retirement age or whose retirement is because of disability shall
+18 receive an annual allowance for life, payable monthly, in an amount
+19 equal to two percent (2%) of the member’s highest three-year average
+20 salary upon which member contributions were made, multiplied by the
+21 number of the member’s years of creditable service.
+22 A classified member who retired prior to July 1, 1986, shall
+23 have the member’s retirement allowance calculated on a minimum
+24 average salary of Eleven Thousand Five Hundred Dollars ($11,500.00)
+SENATE FLOOR VERSION - SB2039 SFLR Page 8
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 or o n the member’s current minimum average salary plus Two Thousand
+2 Dollars ($2,000.00), whichever is greater. Beginning July 1, 1994,
+3 a classified member who retired prior to July 1, 1993, shall have
+4 the member’s retirement allowance calculated on the member’s current
+5 minimum average salary plus Five Hundred Fifty Dollars ($550.00).
+6 An unclassified member who retired prior to July 1, 1986, shall have
+7 the member’s retirement allowance calculated on a minimum average
+8 salary of Nine Thousand Five Hundred Dollars ($9,500.00) or on the
+9 member’s current minimum average salary plus One Thousand Dollars
+10 ($1,000.00), whichever is greater. Beginning July 1, 1994, an
+11 unclassified member who retired prior to July 1, 1993, shall have
+12 the member’s retirement allowance calculated on the member’s current
+13 minimum average salary plus Two Hundred Seventy-five Dollars
+14 ($275.00). Those individuals receiving benefits pursuant to
+15 subsection (3) of Section 17-105 of this title whose benefits
+16 commenced prior to July 1, 1993, shall receive an increase in
+17 benefits of two and one-half percent (2 1/2%). No retirement
+18 benefit payments shall be made retroactively.
+19 For those members retiring before normal retirement age, except
+20 for those members retiring because of a disability, the retirement
+21 allowance shall be subject to adjustment in accordance with the
+22 actuarial equivalent factors adopted by the Board of Trustees.
+23 2. Beginning July 1, 1995, a member, who has no service
+24 performed on or after July 1, 1995, for an entity or institution
+SENATE FLOOR VERSION - SB2039 SFLR Page 9
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 with in The Oklahoma State System of Higher Education, who retires on
+2 or after the member’s normal retirement age or whose retirement is
+3 because of disability shall receive an annual allowance for life,
+4 payable monthly as follows:
+5 a. if the member becomes a member after June 30, 1995,
+6 and was not eligible to become a member prior to July
+7 1, 1995, in an amount equal to two percent (2%) of the
+8 member’s average salary upon which member
+9 contributions were made, multiplied by the number of
+10 the member’s years of creditable service, or
+11 b. if the member became a member or is eligible to become
+12 a member prior to July 1, 1995, and elected to have a
+13 maximum compensation level in excess of Twenty-five
+14 Thousand Dollars ($25,000.00) pursuant to paragraph 1
+15 of subsection C of this section or pursuant to
+16 subsection E of this section, or if the member’s
+17 salary has never exceeded Twenty-five Thousand Dollars
+18 ($25,000.00) prior to July 1, 1995, in an amount equal
+19 to:
+20 (1) two percent (2%) of the member’s average salary
+21 upon which member contributions were made not to
+22 exceed Forty Thousand Dollars ($40,000.00),
+23 multiplied by the number of the member’s years of
+24 credited service authorized and performed prior
+SENATE FLOOR VERSION - SB2039 SFLR Page 10
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 to July 1, 1995, plus any years of prior service
+2 authorized under this title, plus
+3 (2) two percent (2%) of the member’s average salary
+4 upon which member contributions were made,
+5 multiplied by the number of the member’s years of
+6 credited service authorized and performed after
+7 June 30, 1995, or
+8 c. if the member became a member or is eligible to become
+9 a member prior to July 1, 1995, and was eligible to
+10 elect to have a maximum compensation level in excess
+11 of Twenty-five Thousand Dollars ($25,000.00) and did
+12 not elect or elected not to have a maximum
+13 compensation level of Forty Thousand Dollars
+14 ($40,000.00) pursuant to paragraph 1 of subsection C
+15 of this section or pursuant to subsection E of this
+16 section, in an amount equal to:
+17 (1) two percent (2%) of the member’s average salary
+18 upon which member contributions were made not to
+19 exceed Twenty-five Thousand Dollars ($25,000.00),
+20 multiplied by the number of the member’s years of
+21 credited service authorized and performed prior
+22 to July 1, 1995, plus any years of prior service
+23 authorized under this title, plus
+24
+SENATE FLOOR VERSION - SB2039 SFLR Page 11
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 (2) two percent (2%) of the member’s average salary
+2 upon which member contributions were made,
+3 multiplied by the number of the member’s years of
+4 credited service authorized and performed after
+5 June 30, 1995.
+6 B. Except as otherwise provided for in this section, the amount
+7 contributed by each member to the retirement system shall be:
+8 1. Beginning July 1, 1992, through June 30, 1996, six percent
+9 (6%) of the regular annual compensation of such member not in excess
+10 of Twenty-five Thousand Dollars ($25,000.00) and beginning July 1,
+11 1995, through June 30, 1996, six percent (6%) of the maximum
+12 compensation level;
+13 2. Beginning July 1, 1996, through June 30, 1997, six and one-
+14 half percent (6 1/2%) of the regular annual compensation of members,
+15 who are not employed by an entity or institution within The Oklahoma
+16 State System of Higher Education not in excess of Twenty-five
+17 Thousand Dollars ($25,000.00) and beginning July 1, 1996, through
+18 June 30, 1997, six and one-half percent (6 1/2%) of the regular
+19 annual compensation of members, who are employed by an entity or
+20 institution within The Oklahoma State System of Higher Education,
+21 not in excess of Twenty-five Thousand Dollars ($25,000.00);
+22 3. Beginning July 1, 1997, seven percent (7%) of the regular
+23 annual compensation of the member not in excess of any applicable
+24 maximum compensation level of the member; and
+SENATE FLOOR VERSION - SB2039 SFLR Page 12
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 4. All public schools in this state shall treat the employee
+2 contributions as being picked up under the provisions of Section 414
+3 (h)(2) of the Internal Revenue Code of 1986 in determining tax
+4 treatment.
+5 Subject to Internal Revenue Service approval, paragraph 4 of this
+6 subsection shall not apply to a comprehensive university group
+7 established on or before July 1, 1998, whose employee contributions
+8 were consistently treated as not picked up as of July 1, 1998, and
+9 at all times thereafter.
+10 C. 1. Prior to July 1, 1995, an active member of the System
+11 may elect to have a maximum compensation level of Forty Thousand
+12 Dollars ($40,000.00). Such an election shall be made in writing and
+13 filed with the System. Members whose salaries are in excess of
+14 Twenty-five Thousand Dollars ($25,000.00) on July 20, 1987, shall
+15 file the election with the System prior to January 1, 1988. Members
+16 whose salaries exceed Twenty-five Thousand Dollars ($25,000.00)
+17 after July 20, 1987, shall file the election when the salary exceeds
+18 Twenty-five Thousand Dollars ($25,000.00). If a member makes such
+19 an election, the member shall contribute the following amounts:
+20 a. beginning July 1, 1992, through June 30, 1993, eleven
+21 percent (11%) of the regular annual compensation of
+22 such member that is in excess of Twenty-five Thousand
+23 Dollars ($25,000.00) and is not in excess of Forty
+24 Thousand Dollars ($40,000.00),
+SENATE FLOOR VERSION - SB2039 SFLR Page 13
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 b. beginning July 1, 1993, through June 30, 1994, nine
+2 percent (9%) of the regular annual compensation of
+3 such member that is in excess of Twenty-five Thousand
+4 Dollars ($25,000.00) and is not in excess of Forty
+5 Thousand Dollars ($40,000.00), and
+6 c. beginning July 1, 1994, through June 30, 1995, eight
+7 percent (8%) of the regular annual compensation of
+8 such member that is in excess of Twenty-five Thousand
+9 Dollars ($25,000.00) and is not in excess of Forty
+10 Thousand Dollars ($40,000.00). Except as provided in
+11 subsection E of this section, any such election shall
+12 be irrevocable.
+13 2. After June 30, 1995, in addition to the amount contributed
+14 by each member to the retirement system pursuant to subsection B of
+15 this section, the total amount contributed by each member to the
+16 retirement system shall include, beginning July 1, 1995, through
+17 June 30, 1997, seven percent (7%) of the regular annual compensation
+18 of each member, who is not employed by an entity or institution
+19 within The Oklahoma State System of Higher Education, that is in
+20 excess of Twenty-five Thousand Dollars ($25,000.00) and beginning
+21 July 1, 1996, through June 30, 1997, seven percent (7%) of the
+22 regular annual compensation of each member who is employed by an
+23 entity or institution within The Oklahoma State System of Higher
+24 Education in excess of Twenty-five Thousand Dollars ($25,000.00),
+SENATE FLOOR VERSION - SB2039 SFLR Page 14
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 but not in excess of any applicable maximum compensation level of
+2 the member.
+3 D. 1. Any member who was a contributing member of the
+4 Retirement System between July 1, 1987, and June 30, 1995, who at
+5 the time the member was eligible to make an election to increase the
+6 maximum compensation level of the member, failed to make an election
+7 or chose not to increase the maximum compensation level of the
+8 member to Forty Thousand Dollars ($40,000.00), may elect to make
+9 back contributions to the Retirement System. The member shall
+10 complete a new election form and file with the Board of Trustees,
+11 the form and a payment equaling the difference between the amount
+12 contributed at the twenty-five-thousand-dollar level and the
+13 appropriate contribution on compensation in excess of Twenty-five
+14 Thousand Dollars ($25,000.00) up to a maximum of Forty Thousand
+15 Dollars ($40,000.00) shall be made prior to the official retirement
+16 date of the member. The required payment shall include any
+17 contribution required by the employing school district, and shall
+18 include interest compounded annually at ten percent (10%) per annum
+19 of both employer and employee contributions.
+20 2. Any changes made pursuant to this subsection shall be
+21 irrevocable.
+22 E. 1. An individual who withdrew from the Teachers’ Retirement
+23 System and whose salary was in excess of Seven Thousand Eight
+24 Hundred Dollars ($7,800.00) and had elected to contribute only on
+SENATE FLOOR VERSION - SB2039 SFLR Page 15
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 Seve n Thousand Eight Hundred Dollars ($7,800.00) before his or her
+2 withdrawal shall contribute on the earning ceiling as provided for
+3 in this section on his or her reentry into membership in the
+4 Teachers’ Retirement System.
+5 2. An individual who elected to contribute on a maximum of
+6 Seven Thousand Eight Hundred Dollars ($7,800.00) per annum shall,
+7 beginning July 1, 1979, contribute on his or her earning ceiling as
+8 provided for in this section.
+9 3. Any member who elected to contribute on Seven Thousand Eight
+10 Hundred Dollars ($7,800.00) prior to January 1, 1978, and whose
+11 salary was more than Seven Thousand Eight Hundred Dollars
+12 ($7,800.00) during the school years 1974-75 through 1978-79 may
+13 elect to make back contributions to the retirement system by paying
+14 the five percent (5%) contributions on the difference between Seven
+15 Thousand Eight Hundred Dollars ($7,800.00) and the actual salary of
+16 the member, not to exceed Ten Thousand Dollars ($10,000.00) for each
+17 applicable school year, plus interest compounded annually at ten
+18 percent (10%) per annum. Such payment shall be made prior to the
+19 official retirement date of the member.
+20 F. Each employer shall cause to be deducted from the salary of
+21 each member on each and every payroll of such employer for each and
+22 every payroll period, the proper percentage of his or her earnable
+23 compensation as provided for in subsection B or subsection C of this
+24 section.
+SENATE FLOOR VERSION - SB2039 SFLR Page 16
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 1. Deductions shall begin with the first payroll period of the
+2 school year. In determining the amount earnable by a member in a
+3 payroll period, the Board of Trustees shall consider the rate of
+4 annual compensation payable to such member on the first day of the
+5 payroll period as continuing throughout such payroll period, and it
+6 may omit deductions from compensation for any period less than a
+7 full period, and to facilitate the making of deductions, it may
+8 modify the deduction required of any member by such an amount as
+9 shall not exceed one-tenth of one percent (1/10 of 1%) of the annual
+10 compensation upon the basis of which such deduction is to be made.
+11 Prior to January 1, 1991, any active contributing member who joined
+12 the System subsequent to July 1, 1943, may pay the normal cost,
+13 which shall mean the single sum which would have been paid under
+14 existing statutes at the time the service was performed, plus
+15 interest, for years of teaching service in Oklahoma from the date of
+16 establishment of the System in 1943 to date of membership, in a lump
+17 sum, or in installments equal to establishing one (1) year of
+18 creditable service. Effective January 1, 1991, any active
+19 contributing member who joined the System subsequent to July 1,
+20 1943, may pay the amount determined by the Board of Trustees
+21 pursuant to Section 17-116.8 of this title for years of teaching
+22 service in Oklahoma from the date of establishment of the System in
+23 1943 to date of membership, in a lump sum, or in installments equal
+24 to establishing one (1) year of creditable service. For purposes of
+SENATE FLOOR VERSION - SB2039 SFLR Page 17
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 this option, teaching service in Oklahoma shall include the teaching
+2 of vocational agricultural courses within Oklahoma for the federal
+3 government. Years for which contributions are paid shall count as
+4 membership service under this plan. A member may receive credit for
+5 not more than five (5) years of teaching service rendered while in
+6 the Peace Corps or in the public schools of a territory of the
+7 United States or the public schools, American Military Dependent
+8 Schools or state colleges or state universities outside this state
+9 by paying his or her contributions, plus interest, and membership
+10 fees to the retirement system, subject to the regulations of the
+11 Board of Trustees, providing he or she is not receiving and is not
+12 eligible to receive retirement credit or benefits from said service
+13 in any other public retirement system of this state, or any other
+14 state or territory of the United States subject to the following
+15 provisions:
+16 a. the The member is required to have two (2) years of
+17 employed service teaching earned in Oklahoma for each
+18 year of Peace Corps, territorial, out-of-state,
+19 noncovered in-state or military membership credit
+20 granted.
+21 b. prior Prior to January 1, 1991, the out-of-state or
+22 noncovered in-state payment shall be the normal cost,
+23 which means the single sum which would have been paid
+24 under existing law at the time the service was
+SENATE FLOOR VERSION - SB2039 SFLR Page 18
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 performed, plus interest, on the basis of what his or
+2 her annual salary would have been in Oklahoma or out
+3 of state, whichever is greater, had he or she been
+4 employed as a teacher. Effective January 1, 1991, the
+5 Peace Corps, territorial, out-of-state or noncovered
+6 in-state payment shall be the amount determined by the
+7 Board of Trustees pursuant to Section 17-116.8 of this
+8 title.
+9 2. In addition to the deductions hereinabove provided for, any
+10 member who becomes a member of the Armed Forces of the United States
+11 of America during any period of national emergency, including World
+12 War II, the Korean conflict, the Vietnam conflict or others as may
+13 be determined by the Board of Trustees, or whose entrance into or
+14 training for the teaching profession was interrupted by his or her
+15 entrance into the Armed Forces, and who was or shall have become a
+16 member of the Teachers’ Retirement System shall be granted the
+17 privilege of making up his or her five percent (5%) contributions as
+18 provided for in this section until January 1, 1991, for not to
+19 exceed five (5) years of service in the Armed Forces by electing to
+20 pay said contributions on the basis of the rate of pay in his or her
+21 contract as a teacher at the time his or her service in the Armed
+22 Forces commenced or in the case of a teacher who was not teaching
+23 prior to entering the Armed Forces, on the basis of the salary of
+24 the first year of teaching after being honorably discharged from the
+SENATE FLOOR VERSION - SB2039 SFLR Page 19
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 Arme d Forces. Effective January 1, 1991, the member will receive
+2 such service upon payment of the amount determined by the Board of
+3 Trustees pursuant to Section 17-116.8 of this title. Such
+4 contributions shall be credited in the regular manner, and the
+5 period for which said contributions were paid shall be counted as
+6 creditable years of service and allocated to the period during which
+7 the military service was rendered, except that the period for which
+8 contributions were paid must have been continuous and shall be
+9 credited in the aggregate, regardless of fiscal year limitations.
+10 Notwithstanding any provision herein to the contrary, contributions,
+11 benefits, and service credit with respect to qualified military
+12 service as defined by Section 414(u) of the Internal Revenue Code of
+13 1986 shall be provided in accordance with Section 414(u) of the
+14 Internal Revenue Code.
+15 3. Retirement benefits for all service credits purchased
+16 pursuant to this subsection shall be determined in accordance with
+17 the provisions of paragraph 2 of this subsection. For the purposes
+18 of purchasing service credits for prior military service, the term
+19 “salary” shall solely mean the member’s verified compensation during
+20 the period of active military service, as provided in paragraph 2 of
+21 this subsection.
+22 G. Effective July 1, 2004, the total creditable service of a
+23 member who retires or terminates employment and elects a vested
+24 benefit shall include not to exceed one hundred twenty (120) days of
+SENATE FLOOR VERSION - SB2039 SFLR Page 20
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 unus ed sick leave accumulated subsequent to August 1, 1959. Twenty
+2 (20) days of unused sick leave shall equal one (1) month for
+3 purposes of creditable service credit. If the member becomes a
+4 member or was eligible to become a member prior to July 1, 1995, the
+5 year of credit received in this section shall be treated as service
+6 earned prior to July 1, 1995. This subsection shall apply to
+7 members retiring or vesting on or after the effective date of this
+8 act and shall not be retroactive.
+9 H. Any member who:
+10 1. Shall be absent from the teaching service because of
+11 election to the State Legislature or appointment to the executive
+12 branch in an education-related capacity shall be allowed thirty (30)
+13 days from the date as of which the person is officially elected or
+14 appointed to file an election with the Teachers’ Retirement System
+15 to retain his or her membership in the Teachers’ Retirement System
+16 upon payment of the contribution required of other members and
+17 employers of said members as provided for in this section and his or
+18 her service credits shall continue to be accumulated during such
+19 absence, provided he or she is not receiving retirement credits or
+20 benefits from said service beginning after July 1, 1992, in other
+21 public retirement systems; or
+22 2. Became an employee of the Oklahoma Commission for Teacher
+23 Preparation on or subsequent to June 1, 2001, but prior to July 1,
+24 2002, who was previously employed by a participating employer within
+SENATE FLOOR VERSION - SB2039 SFLR Page 21
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 the Teachers’ Retirement System of Oklahoma, may elect to cancel any
+2 accumulated service credit accrued within the Oklahoma Public
+3 Employees Retirement System on or after June 1, 2001, but prior to
+4 July 1, 2002, by filing an election with the Oklahoma Public
+5 Employees Retirement System for the cancellation of such service
+6 credit. The election shall be irrevocable and shall require the
+7 Oklahoma Public Employees Retirement System to transfer all
+8 accumulated employer and employee contributions made on behalf of or
+9 by the person making such election to the Teachers’ Retirement
+10 System for such period of time. The Teachers’ Retirement System
+11 shall compute the employee contributions that would have been made
+12 to the System by such employee if the contributions had been
+13 computed pursuant to this section. In order to receive the full
+14 amount of creditable service for the period of time on or after June
+15 1, 2001, but not later than June 30, 2002, the employee shall be
+16 required to pay any difference between the transferred employee
+17 contributions and the amount computed by the Teachers’ Retirement
+18 System. The employee may make payment of any required amount in the
+19 manner provided by and subject to the requirements of Section 17-
+20 116.8 of this title. After payment of all required employee
+21 contributions, the Teachers’ Retirement System shall credit the
+22 period of time represented by the transferred employee contributions
+23 as creditable service within the meaning of Section 17-101 of this
+24 title. After the transfer of the employee contributions, the
+SENATE FLOOR VERSION - SB2039 SFLR Page 22
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 Okla homa Public Employees Retirement System shall cancel any service
+2 credit previously accumulated for the period of time represented by
+3 such transferred employee contributions. Any person who makes the
+4 election provided for by this paragraph, and who continues
+5 employment with the Oklahoma Commission for Teacher Preparation on
+6 or after July 1, 2002, shall continue to accrue service credit in
+7 the Teachers’ Retirement System of Oklahoma. The employer shall
+8 make employer contributions according to the requirements of Section
+9 17-108.1 of this title and shall provide for the deduction of
+10 employee contributions as required by this section.
+11 I. Any member who shall be absent from the teaching service
+12 because of election or appointment as a local, state or national
+13 education association officer, prior to January 1, 2011, shall be
+14 allowed to retain his or her membership in the Teachers’ Retirement
+15 System upon payment of the contribution required of other members
+16 and employers of said members as provided for in this section and
+17 his or her service credits shall continue to be accumulated during
+18 such absence. Provided, however, any one such absence shall not
+19 exceed twelve (12) continuous years. No member who has less than
+20 ten (10) years of contributory service on July 1, 1994, may make
+21 this election after June 30, 1994. Members contributing to the
+22 System on July 1, 1994, may continue to contribute under this
+23 subsection until they have completed eight (8) years allowed by this
+24
+SENATE FLOOR VERSION - SB2039 SFLR Page 23
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 subs ection. The member may file for retirement when otherwise
+2 eligible for retirement as provided by Section 17-105 of this title.
+3 J. A member may receive credit for those years of service
+4 accumulated by the member while employed by an entity which is a
+5 participating employer in the Oklahoma Firefighters Pension and
+6 Retirement System, the Oklahoma Police Pension and Retirement
+7 System, the Uniform Retirement System for Justices and Judges, the
+8 Oklahoma Law Enforcement Retirement System, or the Oklahoma Public
+9 Employees Retirement System, if the member is not receiving or
+10 eligible to receive retirement credit or benefits from said service
+11 in any other public retirement system. A member also may receive
+12 credit for those years of service with the Department of Wildlife
+13 Conservation or with an employer that is a participating employer
+14 within one of the state retirement systems specifically referred to
+15 in this section when at the time of such service by the member the
+16 employer was not such a participating employer, if the member is not
+17 receiving or eligible to receive retirement credit or benefits from
+18 said service in any other public retirement system. To receive the
+19 service credit provided in this subsection, the member shall pay the
+20 amount determined by the Board of Trustees pursuant to Section 17-
+21 116.8 of this title. For purposes of this subsection, creditable
+22 service transferred from the Oklahoma Public Employees Retirement
+23 System shall include service authorized under paragraph (f) of
+24 subsection (2) of Section 913 of Title 74 of the Oklahoma Statutes
+SENATE FLOOR VERSION - SB2039 SFLR Page 24
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 as a mended from time to time. Members who retire prior to July 1,
+2 1993, shall have their monthly benefit adjusted to include all
+3 services accrued under paragraph (f) of subsection (2) of Section
+4 913 of Title 74 of the Oklahoma Statutes. Provided however, any
+5 adjustment of existing retirement benefits caused by reason of
+6 inclusion of such service authorized under paragraph (f) of
+7 subsection (2) of Section 913 of Title 74 of the Oklahoma Statutes
+8 shall not affect any retirement benefit paid prior to July 1, 1993.
+9 K. 1. An active member of the Teachers’ Retirement System of
+10 Oklahoma may receive credit for those years of service accumulated
+11 by the member while a member of the Oklahoma Public Employees
+12 Retirement System if:
+13 a. the member is an active member of the Teachers’
+14 Retirement System of Oklahoma, and
+15 b. the member provides notice to the Oklahoma Public
+16 Employees Retirement System and the Teachers’
+17 Retirement System of Oklahoma of the member’s election
+18 to transfer said service credit. The notice shall
+19 include a list of the years to be transferred, and
+20 c. the member is not receiving or eligible to receive
+21 retirement credit or benefits from said service in any
+22 other public retirement system, notwithstanding the
+23 years of service sought to be transferred under this
+24 subsection.
+SENATE FLOOR VERSION - SB2039 SFLR Page 25
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 Members electing to take advantage of the transfer authorized by
+2 this subsection who are receiving or eligible to receive retirement
+3 credit or benefits from said service in any other public retirement
+4 system shall have all service credit with the Oklahoma Public
+5 Employees Retirement System canceled which is not transferred to the
+6 Teachers’ Retirement System of Oklahoma or used as a cash offset in
+7 such a transfer pursuant to subparagraph d of paragraph 2 of this
+8 subsection. Service credit transferred to the Teachers’ Retirement
+9 System of Oklahoma under this subsection shall also be canceled with
+10 the Oklahoma Public Employees Retirement System.
+11 2. For purposes of this subsection, the “sending system” shall
+12 mean the Oklahoma Public Employees Retirement System. The
+13 “receiving system” shall mean the Teachers’ Retirement System of
+14 Oklahoma.
+15 a. Within thirty (30) days notification of an intent to
+16 transfer is received by the sending system, the
+17 sending system shall, according to its own rules and
+18 regulations:
+19 (1) for members who have accrued at least eight (8)
+20 years of credited service with the sending
+21 system, determine the present value of the
+22 member’s earned benefits attributable to the
+23 years of service sought to be transferred,
+24 discounted according to the member’s age at the
+SENATE FLOOR VERSION - SB2039 SFLR Page 26
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 time of transfer and computed as of the earliest
+2 age at which the member would be able to retire.
+3 Said computation shall assume an unreduced
+4 benefit and be computed using interest and
+5 mortality assumptions consistent with the
+6 actuarial assumptions adopted by the Board of
+7 Trustees for purposes of preparing the annual
+8 actuarial evaluation, but shall not make any
+9 projections regarding future salary. For
+10 employees who have accrued at least eight (8)
+11 years of credited service, the sending system
+12 shall use the product of this calculation for
+13 purposes of determining the transfer fee to be
+14 paid by the employee under subparagraph c of this
+15 paragraph so long as it is greater than the
+16 product of the calculation in division (2) of
+17 this subparagraph, and
+18 (2) determine the sum of the employee and employer
+19 contributions applicable to the years of service
+20 sought to be transferred plus interest consistent
+21 with the actuarial assumptions adopted by the
+22 Board of Trustees for purposes of preparing the
+23 annual actuarial evaluation. For all nonvested
+24 members, and for members who have accrued at
+SENATE FLOOR VERSION - SB2039 SFLR Page 27
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 least eight (8) years of credited service, if the
+2 product of this calculation is greater than the
+3 product of the calculation in division (1) of
+4 this subparagraph, the sending system shall use
+5 the product of this calculation for purposes of
+6 determining the amount to be transferred by the
+7 sending system under subparagraph c of this
+8 paragraph and any transfer fee to be paid by the
+9 member under subparagraph d of this paragraph.
+10 b. Within thirty (30) days notification of an intent to
+11 transfer is received by the receiving system, the
+12 receiving system shall determine, according to the
+13 system’s own rules and regulations, the present value
+14 of the member’s incremental projected benefits
+15 discounted according to the member’s age at the time
+16 of the transfer. Incremental projected benefits shall
+17 be the difference between the projected benefit said
+18 member would receive without transferring the service
+19 credit and the projected benefit after transfer of
+20 service credit computed as of the earliest age at
+21 which the member would be able to retire. Said
+22 computation shall assume an unreduced benefit and be
+23 computed using interest, salary projections and
+24 mortality assumptions consistent with the actuarial
+SENATE FLOOR VERSION - SB2039 SFLR Page 28
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 assumptions adopted by the Board of Trustees for
+2 purposes of preparing the annual actuarial evaluation.
+3 c. The sending system shall, within sixty (60) days from
+4 the date notification of an intent to transfer is
+5 received by the sending system, transfer to the
+6 receiving system the amount determined in subparagraph
+7 a of this paragraph. Except if the cost as calculated
+8 under subparagraph a of this paragraph is greater than
+9 the actuarial value of the incremental benefit in the
+10 receiving system, as established in subparagraph b of
+11 this paragraph, the sending system shall send the
+12 receiving system an amount equal to the actuarial
+13 value of the incremental projected benefit in the
+14 receiving system.
+15 d. In order to receive the credit provided for in
+16 paragraph 1 of this subsection, if the cost of the
+17 actuarial value of the incremental benefit to the
+18 receiving system is greater than the cost as
+19 calculated under subparagraph a of this paragraph for
+20 the same years of service to the sending system as
+21 established in subparagraphs a and b of this
+22 paragraph, the employee shall elect to:
+23 (1) pay any difference to receive full credit for the
+24 years sought to be transferred, or
+SENATE FLOOR VERSION - SB2039 SFLR Page 29
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 (2) receive prorated service credit for only the
+2 amount received from the Oklahoma Public
+3 Employees Retirement System pursuant to this
+4 subsection.
+5 Such an election shall be made in writing, filed with
+6 the System prior to receiving the credit provided for
+7 in paragraph 1 of this subsection, and shall be
+8 irrevocable.
+9 3. Within sixty (60) days of successfully completing all of the
+10 requirements for transfer under this subsection, the sending system
+11 shall pay the receiving system any amount due under this subsection.
+12 Within sixty (60) days of successfully completing all of the
+13 requirements for transfer under this subsection, the member shall
+14 pay the receiving system any amount due under this subsection. In
+15 the event that the member is unable to pay the transfer fee provided
+16 for in this subsection by the due date, the Board of Trustees of the
+17 receiving system shall permit the member to amortize the transfer
+18 fee over a period not to exceed sixty (60) months. Said payments
+19 shall be made by payroll deductions unless the Board of Trustees
+20 permits an alternate payment source. The amortization shall include
+21 interest in an amount not to exceed the actuarially assumed interest
+22 rate adopted by the Board of Trustees for investment earnings each
+23 year. Any member who ceases to make payment, terminates, retires or
+24 dies before completing the payments provided for in this section
+SENATE FLOOR VERSION - SB2039 SFLR Page 30
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 shal l receive prorated service credit for only those payments made,
+2 unless the unpaid balance is paid by said member, his or her estate
+3 or successor in interest within six (6) months after said member’s
+4 death, termination of employment or retirement, provided no
+5 retirement benefits shall be payable until the unpaid balance is
+6 paid, unless said member or beneficiary affirmatively waives the
+7 additional six-month period in which to pay the unpaid balance.
+8 4. Years of service transferred pursuant to this subsection
+9 shall be used both in determining the member’s retirement benefit
+10 and in determining the years of service for retirement and/or
+11 vesting purposes. Years of service rendered as a member of the
+12 Oklahoma Public Employees Retirement System prior to July 1, 1992,
+13 if any, shall be deemed to be years of service rendered as a member
+14 of the Teachers’ Retirement System of Oklahoma prior to July 1,
+15 1992, and shall qualify such person as a member of the Teachers’
+16 Retirement System of Oklahoma before July 1, 1992.
+17 5. Notwithstanding the requirements of subsection (5) of
+18 Section 917 of Title 74 of the Oklahoma Statutes, members electing
+19 to take advantage of the transfer authorized by this subsection who
+20 have withdrawn their contributions from the sending system shall
+21 remit to the sending system the amount of the accumulated
+22 contributions the member has withdrawn plus simple interest of ten
+23 percent (10%) per annum prior to making said election or the
+24 election shall be deemed invalid and the transfer shall be canceled.
+SENATE FLOOR VERSION - SB2039 SFLR Page 31
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 If s uch an election is deemed invalid and the transfer is canceled,
+2 the accumulated contribution remitted to the sending system by the
+3 member who originally withdrew their contributions shall be returned
+4 to the member. The member’s rights and obligations regarding any
+5 service credit reestablished in the sending system due to a failure
+6 to satisfy the requirements of this subsection shall be determined
+7 by the sending system in accordance with Section 901 et seq. of
+8 Title 74 of the Oklahoma Statutes.
+9 6. If any member fails for any reason to satisfy the
+10 requirements of this subsection, the election to transfer service
+11 credit shall be void and of no effect, and any service credited as a
+12 result of this transfer shall be canceled. If such service is
+13 canceled, the years of canceled service credit which were
+14 unsuccessfully transferred to the receiving system from the sending
+15 system shall be reestablished in the sending system. The member’s
+16 rights and obligations regarding any service credit reestablished in
+17 the sending system due to a failure to satisfy the requirements of
+18 this subsection shall be determined by the sending system in
+19 accordance with Section 901 et seq. of Title 74 of the Oklahoma
+20 Statutes.
+21 7. The Board of Trustees shall promulgate such rules as are
+22 necessary to implement the provisions of this subsection.
+23 L. Any member whose regular annual compensation was not
+24 determined as provided for by law may pay the member contribution
+SENATE FLOOR VERSION - SB2039 SFLR Page 32
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 requ ired pursuant to subsection B of this section on such amount not
+2 included in the member’s regular annual compensation and receive
+3 credit for such amount in the calculation of the member’s benefit.
+4 The employees must pay the employer contributions required pursuant
+5 to Section 17-108.1 of this title. Interest at the rate of ten
+6 percent (10%) per annum shall be charged to both employee and
+7 employer contributions. Provided that the employing district may
+8 pay all or any portion of the contributions and interest the member
+9 is required to pay. Any payment by the employing district for a
+10 prior year obligation shall be considered a current obligation of
+11 the employer.
+12 M. Any active member who elected during the 1978-79 school year
+13 to pay the difference between five percent (5%) on actual salary not
+14 exceeding Ten Thousand Dollars ($10,000.00) and six percent (6%) on
+15 actual salary not exceeding Fifteen Thousand Dollars ($15,000.00)
+16 shall receive credit for one (1) year of credited service upon
+17 receipt and approval of a proper request by the Board of Trustees.
+18 N. Effective July 1, 1988, any member who is employed by the
+19 Governor, the State Senate, the House of Representatives or the
+20 Legislative Service Bureau shall be allowed to elect to retain
+21 membership in the Retirement System upon payment of the accrued and
+22 current member contributions and employer contributions as provided
+23 in subsection B of this section and Section 17-108.1 of this title.
+24 Such contributions may be paid on behalf of the member by the
+SENATE FLOOR VERSION - SB2039 SFLR Page 33
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 empl oying entity. Upon payment of such contributions, service
+2 credits shall continue to be accumulated during such employment.
+3 Accrued contributions shall be paid to the Retirement System by
+4 August 1, 1989. Current contributions shall be paid to the
+5 Retirement System by the tenth of the following month beginning with
+6 the month of July 1989.
+7 O. Notwithstanding any requirements of this title to restrict
+8 the payment of service purchases, the Board of Trustees shall
+9 promulgate such rules as necessary to allow active members of the
+10 System to make installment payments for the redeposit of withdrawn
+11 accounts or other payments due under the provisions of this title.
+12 The rules shall permit the member to amortize the balance due over a
+13 period not to exceed sixty (60) months, and shall include interest
+14 consistent with the actuarial assumptions adopted by the Board of
+15 Trustees for purposes of preparing the annual actuarial evaluation.
+16 Further, the rules shall provide that all payments must be completed
+17 prior to the effective retirement date of the member.
+18 P. 1. A member of the Oklahoma Public Employees Retirement
+19 System who becomes a member of the Teachers’ Retirement System of
+20 Oklahoma because the member has become employed by an entity or
+21 institution within The Oklahoma State System of Higher Education,
+22 State Board of Education, State Board of Career and Technology
+23 Education, Oklahoma Department of Career and Technology Education,
+24 Oklahoma School of Science and Mathematics, Oklahoma Center for the
+SENATE FLOOR VERSION - SB2039 SFLR Page 34
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 Adva ncement of Science and Technology, State Department of
+2 Rehabilitation Services, Oklahoma State Regents for Higher
+3 Education, Department of Corrections, State Department of Education,
+4 Oklahoma Board of Private Vocational Schools, Board of Regents of
+5 Oklahoma Colleges, Oklahoma Student Loan Authority, or the Teachers’
+6 Retirement System of Oklahoma, may elect to receive credit in the
+7 Teachers’ Retirement System of Oklahoma for those years of service
+8 accumulated by the member in the Oklahoma Public Employees
+9 Retirement System pursuant to this subsection. A member shall be
+10 eligible to elect to receive credit for such years of service if:
+11 a. the member is an active member of the Teachers’
+12 Retirement System of Oklahoma,
+13 b. the member provides notice to the Teachers’ Retirement
+14 System of Oklahoma and the Oklahoma Public Employees
+15 Retirement System of the member’s election to transfer
+16 such retirement credit. The notice shall include a
+17 list of the years to be transferred, and
+18 c. the member is not receiving or eligible to receive
+19 retirement credit or benefits from such service in any
+20 other public retirement system, notwithstanding the
+21 years of service sought to be transferred under this
+22 subsection.
+23 Members electing to take advantage of the transfer authorized by
+24 this subsection shall have all service credit with the Oklahoma
+SENATE FLOOR VERSION - SB2039 SFLR Page 35
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 Publ ic Employees Retirement System canceled which is transferred to
+2 the Teachers’ Retirement System of Oklahoma.
+3 2. For purposes of this subsection, the “sending system” shall
+4 mean the Oklahoma Public Employees Retirement System. The
+5 “receiving system” shall mean the Teachers’ Retirement System of
+6 Oklahoma. Within thirty (30) days after notification of an intent
+7 to transfer is received by the sending system, the sending system
+8 shall, according to its own rules, send to the receiving system all
+9 employer and employee contributions made on behalf of the member
+10 which were made to the sending system plus an additional amount of
+11 earnings based on the actuarial assumed rate of the sending system.
+12 Upon receipt of these contributions by the receiving system, the
+13 receiving system shall give credit to the transferring member in an
+14 amount equal to the years of service accrued in the sending system.
+15 3. If the transferring member’s normal retirement date
+16 calculation is based upon the sum of the member’s age and number of
+17 years of credited service totaling eighty (80) in the sending
+18 system, then the member shall retain such calculation in the
+19 receiving system.
+20 4. The Board of Trustees shall promulgate such rules as are
+21 necessary to implement the provisions of this subsection.
+22 Q. A former member of the Teachers’ Retirement System of
+23 Oklahoma who withdrew his or her contributions from the System prior
+24 to January 1, 1983, and who had at least ten (10) years of service
+SENATE FLOOR VERSION - SB2039 SFLR Page 36
+(Bold face denotes Committee Amendments)
+RBS No. 3031
+1 in t he System and purchased that service in the Oklahoma Public
+2 Employees Retirement System, may elect to revoke that purchase from
+3 the Oklahoma Public Employees Retirement System and to repay the
+4 withdrawn contributions to the System in order to be eligible, once
+5 such member reaches the normal retirement age, to receive a
+6 retirement benefit that is based upon years of service and
+7 compensation at the time such member terminated employment. In
+8 addition, such former member may elect to transfer service credit
+9 accrued in the Oklahoma Public Employees Retirement System to the
+10 Teachers’ Retirement System of Oklahoma pursuant to subsection K of
+11 this section. The election, pursuant to this subsection, shall be
+12 made prior to September 1, 2000. The election and the repayment
+13 shall be made according to rules promulgated by the Board.
+14 SECTION 3. Section 1 of this act shall become effective June 1,
+15 2026.
+16 SECTION 4. Section 2 of this act shall become effective July 1,
+17 2026.
+18 SECTION 5. It being immediately necessary for the preservation
+19 of the public peace, health or safety, an emergency is hereby
+20 declared to exist, by reason whereof this act shall take effect and
+21 be in full force from and after its passage and approval.
+22 COMMITTEE REPORT BY: COMMITTEE ON RETIREMENT AND GOVERNMENT
+RESOURCES
+23 February 17, 2026 - DO PASS AS AMENDED
+24
+SENATE FLOOR VERSION - SB2039 SFLR Page 37
+(Bold face denotes Committee Amendments)
+[DELETED: P B Ge]
+[DELETED: P w w g c i]
+[DELETED: P w w w w]
+[DELETED: P t t t]
+[DELETED: P t w w S]
+[DELETED: P S S S S S w w w w]
+[DELETED: P w w]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P i i t]
+[DELETED: P t i t]
+[DELETED: P t]
+[DELETED: P b]
+[DELETED: P b b]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P t p]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P t t t]
+[DELETED: P W f]
+[DELETED: P d]
+[DELETED: P W]
+[DELETED: P T I p]
+[DELETED: P r]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P t t t]
+[DELETED: P]
+[DELETED: P]
+
+
+================================================================================
+
+Raw Text:
+RBS No. 3031
+1 SENATE FLOOR VERSION
+February 17, 2026
+2 AS AMENDED
+3 SENATE BILL NO. 2039 By: Goodwin
+4
+5
+6 [ Teachers’ Retirement System of Oklahoma -
+retirement allowance – service credits - effective
+7 dates -
+emergency ]
+8
+9
+10 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+11 SECTION 1. AMENDATORY 62 O.S. 2021, Section 3103, as
+12 last amended by Section 1, Chapter 357, O.S.L. 2024 (62 O.S. Supp.
+13 2025, Section 3103), is amended to read as follows:
+14 Section 3103. As used in the Oklahoma Pension Legislation
+15 Actuarial Analysis Act:
+16 1. “Amendment” means any amendment, including a substitute
+17 bill, made to a retirement bill by any committee of the Oklahoma
+18 House of Representatives or Oklahoma State Senate, any conference
+19 committee of the House of Representatives or Senate, or by the House
+20 of Representatives or Senate;
+21 2. “RB number” means that number preceded by the letters “RB”
+22 assigned to a retirement bill by the respective staffs of the
+23 Oklahoma State Senate and the Oklahoma House of Representatives when
+24
+SENATE FLOOR VERSION - SB2039 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 the respective staff office prepares a retirement bill for a member
+2 of the Legislature;
+3 3. “Legislative Actuary” means the firm or entity that enters
+4 into a contract with the Legislative Service Bureau pursuant to
+5 Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+6 actuarial services and other duties provided for in the Oklahoma
+7 Pension Legislation Actuarial Analysis Act;
+8 4. “Nonfiscal amendment” means an amendment to a retirement
+9 bill having a fiscal impact, which amendment does not change any
+10 factor of an actuarial investigation specified in subsection A of
+11 Section 3109 of this title;
+12 5. “Nonfiscal retirement bill” means a retirement bill:
+13 a. which does not affect the cost or funding factors of a
+14 retirement system,
+15 b. which affects such factors only in a manner which does
+16 not:
+17 (1) grant a benefit increase under the retirement
+18 system affected by the bill,
+19 (2) create an actuarial accrued liability for or
+20 increase the actuarial accrued liability of the
+21 retirement system affected by the bill, or
+22 (3) increase the normal cost of the retirement system
+23 affected by the bill,
+24
+SENATE FLOOR VERSION - SB2039 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 c. which authorizes the purchase by an active member of
+2 the retirement system, at the actuarial cost for the
+3 purchase as computed pursuant to the statute in effect
+4 on the effective date of the measure allowing such
+5 purchase, of years of service for purposes of reaching
+6 a normal retirement date in the applicable retirement
+7 system, but which cannot be used in order to compute
+8 the number of years of service for purposes of
+9 computing the retirement benefit for the member,
+10 d. which provides for the computation of a service-
+11 connected disability retirement benefit for members of
+12 the Oklahoma Law Enforcement Retirement System
+13 pursuant to Section 2-305 of Title 47 of the Oklahoma
+14 Statutes if the members were unable to complete twenty
+15 (20) years of service as a result of the disability,
+16 e. which requires membership in the defined benefit plan
+17 authorized by Section 901 et seq. of Title 74 of the
+18 Oklahoma Statutes for persons whose first elected or
+19 appointed service occurs on or after November 1, 2018,
+20 if such persons had any prior service in the Oklahoma
+21 Public Employees Retirement System prior to November
+22 1, 2015,
+23 f. which provides for a one-time increase in retirement
+24 benefits if the increase in retirement benefits is not
+SENATE FLOOR VERSION - SB2039 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 a permanent increase in the gross annual retirement
+2 benefit payable to a member or beneficiary, occurs
+3 only once pursuant to a single statutory
+4 authorization, and does not exceed:
+5 (1) the lesser of two percent (2%) of the gross
+6 annual retirement benefit of the member or One
+7 Thousand Dollars ($1,000.00) and requires that
+8 the benefit may only be provided if the funded
+9 ratio of the affected retirement system would not
+10 be less than sixty percent (60%) but not greater
+11 than eighty percent (80%) after the benefit
+12 increase is paid,
+13 (2) the lesser of two percent (2%) of the gross
+14 annual retirement benefit of the member or One
+15 Thousand Two Hundred Dollars ($1,200.00) and
+16 requires that the benefit may only be provided if
+17 the funded ratio of the affected retirement
+18 system would be greater than eighty percent (80%)
+19 but not greater than one hundred percent (100%)
+20 after the benefit increase is paid,
+21 (3) the lesser of two percent (2%) of the gross
+22 annual retirement benefit of the member or One
+23 Thousand Four Hundred Dollars ($1,400.00) and
+24 requires that the benefit may only be provided if
+SENATE FLOOR VERSION - SB2039 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 the funded ratio of the affected retirement
+2 system would be greater than one hundred percent
+3 (100%) after the benefit increase is paid, or
+4 (4) the greater of two percent (2%) of the gross
+5 annual retirement benefit of the volunteer
+6 firefighter or One Hundred Dollars ($100.00) for
+7 persons who retired from the Oklahoma
+8 Firefighters Pension and Retirement System as
+9 volunteer firefighters and who did not retire
+10 from the Oklahoma Firefighters Pension and
+11 Retirement System as a paid firefighter.
+12 As used in this subparagraph, “funded ratio” means the
+13 figure derived by dividing the actuarial value of
+14 assets of the applicable retirement system by the
+15 actuarial accrued liability of the applicable
+16 retirement system,
+17 g. which modifies the disability pension standard for
+18 police officers who are members of the Oklahoma Police
+19 Pension and Retirement System as provided by Section
+20 50-115 of Title 11 of the Oklahoma Statutes,
+21 h. which provides a cost-of-living benefit increase
+22 pursuant to the provisions of:
+23 (1) Section 49-143.7 of Title 11 of the Oklahoma
+24 Statutes,
+SENATE FLOOR VERSION - SB2039 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 (2) Section 50-136.9 of Title 11 of the Oklahoma
+2 Statutes,
+3 (3) Section 1104K of Title 20 of the Oklahoma
+4 Statutes,
+5 (4) Section 2-305.12 of Title 47 of the Oklahoma
+6 Statutes,
+7 (5) Section 17-116.22 of Title 70 of the Oklahoma
+8 Statutes, or
+9 (6) Section 930.11 of Title 74 of the Oklahoma
+10 Statutes,
+11 i. which modifies the computation of the line-of-duty
+12 disability benefit pursuant to Sections 50-101 and 50-
+13 115 of Title 11 of the Oklahoma Statutes,
+14 j. which allows the purchase of military prior service
+15 credit pursuant to the provisions of this act section
+16 and Section 49-138 of Title 11 of the Oklahoma
+17 Statutes,
+18 k. which increases the computation factor used to
+19 calculate the accrued retirement benefit and normal
+20 disability benefit pursuant to Section 50-101 of Title
+21 11 of the Oklahoma Statutes,
+22 l. which increases the municipal contribution, employee
+23 contribution, or both for members of the Oklahoma
+24 Police Pension and Retirement System pursuant to
+SENATE FLOOR VERSION - SB2039 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 Sections 50-109 and 50-110 of Title 11 of the Oklahoma
+2 Statutes, or
+3 m. which modifies the computation of a retirement annuity
+4 pursuant to Section 50-111.1 of Title 11 of the
+5 Oklahoma Statutes, or
+6 n. which relates to the purchase of service credits, as
+7 provided for in Section 17-116.2 of Title 70 of the
+8 Oklahoma Statutes.
+9 A nonfiscal retirement bill shall include any retirement bill that
+10 has as its sole purpose the appropriation or distribution or
+11 redistribution of monies in some manner to a retirement system for
+12 purposes of reducing the unfunded liability of such system or the
+13 earmarking of a portion of the revenue from a tax to a retirement
+14 system or increasing the percentage of the revenue earmarked from a
+15 tax to a retirement system;
+16 6. “Reduction-in-cost amendment” means an amendment to a
+17 retirement bill having a fiscal impact which reduces the cost of the
+18 bill as such cost is determined by the actuarial investigation for
+19 the bill prepared pursuant to Section 3109 of this title;
+20 7. “Retirement bill” means any bill or joint resolution
+21 introduced or any bill or joint resolution amended by a member of
+22 the Legislature which creates or amends any law directly affecting a
+23 retirement system. A retirement bill shall not mean a bill or
+24 resolution that impacts the revenue of any state tax in which a
+SENATE FLOOR VERSION - SB2039 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 port ion of the revenue generated from such tax is earmarked for the
+2 benefit of a retirement system;
+3 8. “Retirement bill having a fiscal impact” means any
+4 retirement bill creating or establishing a retirement system and any
+5 other retirement bill other than a nonfiscal retirement bill; and
+6 9. “Retirement system” means the Teachers’ Retirement System of
+7 Oklahoma, the Oklahoma Public Employees Retirement System, the
+8 Uniform Retirement System for Justices and Judges, the Oklahoma
+9 Firefighters Pension and Retirement System, the Oklahoma Police
+10 Pension and Retirement System, the Oklahoma Law Enforcement
+11 Retirement System, or a retirement system established after January
+12 1, 2006.
+13 SECTION 2. AMENDATORY 70 O.S. 2021, Section 17-116.2, is
+14 amended to read as follows:
+15 Section 17-116.2. A. 1. Beginning July 1, 1987, and prior to
+16 July 1, 1995, a member who retires on or after the member’s normal
+17 retirement age or whose retirement is because of disability shall
+18 receive an annual allowance for life, payable monthly, in an amount
+19 equal to two percent (2%) of the member’s highest three-year average
+20 salary upon which member contributions were made, multiplied by the
+21 number of the member’s years of creditable service.
+22 A classified member who retired prior to July 1, 1986, shall
+23 have the member’s retirement allowance calculated on a minimum
+24 average salary of Eleven Thousand Five Hundred Dollars ($11,500.00)
+SENATE FLOOR VERSION - SB2039 SFLR Page 8
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 or o n the member’s current minimum average salary plus Two Thousand
+2 Dollars ($2,000.00), whichever is greater. Beginning July 1, 1994,
+3 a classified member who retired prior to July 1, 1993, shall have
+4 the member’s retirement allowance calculated on the member’s current
+5 minimum average salary plus Five Hundred Fifty Dollars ($550.00).
+6 An unclassified member who retired prior to July 1, 1986, shall have
+7 the member’s retirement allowance calculated on a minimum average
+8 salary of Nine Thousand Five Hundred Dollars ($9,500.00) or on the
+9 member’s current minimum average salary plus One Thousand Dollars
+10 ($1,000.00), whichever is greater. Beginning July 1, 1994, an
+11 unclassified member who retired prior to July 1, 1993, shall have
+12 the member’s retirement allowance calculated on the member’s current
+13 minimum average salary plus Two Hundred Seventy-five Dollars
+14 ($275.00). Those individuals receiving benefits pursuant to
+15 subsection (3) of Section 17-105 of this title whose benefits
+16 commenced prior to July 1, 1993, shall receive an increase in
+17 benefits of two and one-half percent (2 1/2%). No retirement
+18 benefit payments shall be made retroactively.
+19 For those members retiring before normal retirement age, except
+20 for those members retiring because of a disability, the retirement
+21 allowance shall be subject to adjustment in accordance with the
+22 actuarial equivalent factors adopted by the Board of Trustees.
+23 2. Beginning July 1, 1995, a member, who has no service
+24 performed on or after July 1, 1995, for an entity or institution
+SENATE FLOOR VERSION - SB2039 SFLR Page 9
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 with in The Oklahoma State System of Higher Education, who retires on
+2 or after the member’s normal retirement age or whose retirement is
+3 because of disability shall receive an annual allowance for life,
+4 payable monthly as follows:
+5 a. if the member becomes a member after June 30, 1995,
+6 and was not eligible to become a member prior to July
+7 1, 1995, in an amount equal to two percent (2%) of the
+8 member’s average salary upon which member
+9 contributions were made, multiplied by the number of
+10 the member’s years of creditable service, or
+11 b. if the member became a member or is eligible to become
+12 a member prior to July 1, 1995, and elected to have a
+13 maximum compensation level in excess of Twenty-five
+14 Thousand Dollars ($25,000.00) pursuant to paragraph 1
+15 of subsection C of this section or pursuant to
+16 subsection E of this section, or if the member’s
+17 salary has never exceeded Twenty-five Thousand Dollars
+18 ($25,000.00) prior to July 1, 1995, in an amount equal
+19 to:
+20 (1) two percent (2%) of the member’s average salary
+21 upon which member contributions were made not to
+22 exceed Forty Thousand Dollars ($40,000.00),
+23 multiplied by the number of the member’s years of
+24 credited service authorized and performed prior
+SENATE FLOOR VERSION - SB2039 SFLR Page 10
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 to July 1, 1995, plus any years of prior service
+2 authorized under this title, plus
+3 (2) two percent (2%) of the member’s average salary
+4 upon which member contributions were made,
+5 multiplied by the number of the member’s years of
+6 credited service authorized and performed after
+7 June 30, 1995, or
+8 c. if the member became a member or is eligible to become
+9 a member prior to July 1, 1995, and was eligible to
+10 elect to have a maximum compensation level in excess
+11 of Twenty-five Thousand Dollars ($25,000.00) and did
+12 not elect or elected not to have a maximum
+13 compensation level of Forty Thousand Dollars
+14 ($40,000.00) pursuant to paragraph 1 of subsection C
+15 of this section or pursuant to subsection E of this
+16 section, in an amount equal to:
+17 (1) two percent (2%) of the member’s average salary
+18 upon which member contributions were made not to
+19 exceed Twenty-five Thousand Dollars ($25,000.00),
+20 multiplied by the number of the member’s years of
+21 credited service authorized and performed prior
+22 to July 1, 1995, plus any years of prior service
+23 authorized under this title, plus
+24
+SENATE FLOOR VERSION - SB2039 SFLR Page 11
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 (2) two percent (2%) of the member’s average salary
+2 upon which member contributions were made,
+3 multiplied by the number of the member’s years of
+4 credited service authorized and performed after
+5 June 30, 1995.
+6 B. Except as otherwise provided for in this section, the amount
+7 contributed by each member to the retirement system shall be:
+8 1. Beginning July 1, 1992, through June 30, 1996, six percent
+9 (6%) of the regular annual compensation of such member not in excess
+10 of Twenty-five Thousand Dollars ($25,000.00) and beginning July 1,
+11 1995, through June 30, 1996, six percent (6%) of the maximum
+12 compensation level;
+13 2. Beginning July 1, 1996, through June 30, 1997, six and one-
+14 half percent (6 1/2%) of the regular annual compensation of members,
+15 who are not employed by an entity or institution within The Oklahoma
+16 State System of Higher Education not in excess of Twenty-five
+17 Thousand Dollars ($25,000.00) and beginning July 1, 1996, through
+18 June 30, 1997, six and one-half percent (6 1/2%) of the regular
+19 annual compensation of members, who are employed by an entity or
+20 institution within The Oklahoma State System of Higher Education,
+21 not in excess of Twenty-five Thousand Dollars ($25,000.00);
+22 3. Beginning July 1, 1997, seven percent (7%) of the regular
+23 annual compensation of the member not in excess of any applicable
+24 maximum compensation level of the member; and
+SENATE FLOOR VERSION - SB2039 SFLR Page 12
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 4. All public schools in this state shall treat the employee
+2 contributions as being picked up under the provisions of Section 414
+3 (h)(2) of the Internal Revenue Code of 1986 in determining tax
+4 treatment.
+5 Subject to Internal Revenue Service approval, paragraph 4 of this
+6 subsection shall not apply to a comprehensive university group
+7 established on or before July 1, 1998, whose employee contributions
+8 were consistently treated as not picked up as of July 1, 1998, and
+9 at all times thereafter.
+10 C. 1. Prior to July 1, 1995, an active member of the System
+11 may elect to have a maximum compensation level of Forty Thousand
+12 Dollars ($40,000.00). Such an election shall be made in writing and
+13 filed with the System. Members whose salaries are in excess of
+14 Twenty-five Thousand Dollars ($25,000.00) on July 20, 1987, shall
+15 file the election with the System prior to January 1, 1988. Members
+16 whose salaries exceed Twenty-five Thousand Dollars ($25,000.00)
+17 after July 20, 1987, shall file the election when the salary exceeds
+18 Twenty-five Thousand Dollars ($25,000.00). If a member makes such
+19 an election, the member shall contribute the following amounts:
+20 a. beginning July 1, 1992, through June 30, 1993, eleven
+21 percent (11%) of the regular annual compensation of
+22 such member that is in excess of Twenty-five Thousand
+23 Dollars ($25,000.00) and is not in excess of Forty
+24 Thousand Dollars ($40,000.00),
+SENATE FLOOR VERSION - SB2039 SFLR Page 13
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 b. beginning July 1, 1993, through June 30, 1994, nine
+2 percent (9%) of the regular annual compensation of
+3 such member that is in excess of Twenty-five Thousand
+4 Dollars ($25,000.00) and is not in excess of Forty
+5 Thousand Dollars ($40,000.00), and
+6 c. beginning July 1, 1994, through June 30, 1995, eight
+7 percent (8%) of the regular annual compensation of
+8 such member that is in excess of Twenty-five Thousand
+9 Dollars ($25,000.00) and is not in excess of Forty
+10 Thousand Dollars ($40,000.00). Except as provided in
+11 subsection E of this section, any such election shall
+12 be irrevocable.
+13 2. After June 30, 1995, in addition to the amount contributed
+14 by each member to the retirement system pursuant to subsection B of
+15 this section, the total amount contributed by each member to the
+16 retirement system shall include, beginning July 1, 1995, through
+17 June 30, 1997, seven percent (7%) of the regular annual compensation
+18 of each member, who is not employed by an entity or institution
+19 within The Oklahoma State System of Higher Education, that is in
+20 excess of Twenty-five Thousand Dollars ($25,000.00) and beginning
+21 July 1, 1996, through June 30, 1997, seven percent (7%) of the
+22 regular annual compensation of each member who is employed by an
+23 entity or institution within The Oklahoma State System of Higher
+24 Education in excess of Twenty-five Thousand Dollars ($25,000.00),
+SENATE FLOOR VERSION - SB2039 SFLR Page 14
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 but not in excess of any applicable maximum compensation level of
+2 the member.
+3 D. 1. Any member who was a contributing member of the
+4 Retirement System between July 1, 1987, and June 30, 1995, who at
+5 the time the member was eligible to make an election to increase the
+6 maximum compensation level of the member, failed to make an election
+7 or chose not to increase the maximum compensation level of the
+8 member to Forty Thousand Dollars ($40,000.00), may elect to make
+9 back contributions to the Retirement System. The member shall
+10 complete a new election form and file with the Board of Trustees,
+11 the form and a payment equaling the difference between the amount
+12 contributed at the twenty-five-thousand-dollar level and the
+13 appropriate contribution on compensation in excess of Twenty-five
+14 Thousand Dollars ($25,000.00) up to a maximum of Forty Thousand
+15 Dollars ($40,000.00) shall be made prior to the official retirement
+16 date of the member. The required payment shall include any
+17 contribution required by the employing school district, and shall
+18 include interest compounded annually at ten percent (10%) per annum
+19 of both employer and employee contributions.
+20 2. Any changes made pursuant to this subsection shall be
+21 irrevocable.
+22 E. 1. An individual who withdrew from the Teachers’ Retirement
+23 System and whose salary was in excess of Seven Thousand Eight
+24 Hundred Dollars ($7,800.00) and had elected to contribute only on
+SENATE FLOOR VERSION - SB2039 SFLR Page 15
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 Seve n Thousand Eight Hundred Dollars ($7,800.00) before his or her
+2 withdrawal shall contribute on the earning ceiling as provided for
+3 in this section on his or her reentry into membership in the
+4 Teachers’ Retirement System.
+5 2. An individual who elected to contribute on a maximum of
+6 Seven Thousand Eight Hundred Dollars ($7,800.00) per annum shall,
+7 beginning July 1, 1979, contribute on his or her earning ceiling as
+8 provided for in this section.
+9 3. Any member who elected to contribute on Seven Thousand Eight
+10 Hundred Dollars ($7,800.00) prior to January 1, 1978, and whose
+11 salary was more than Seven Thousand Eight Hundred Dollars
+12 ($7,800.00) during the school years 1974-75 through 1978-79 may
+13 elect to make back contributions to the retirement system by paying
+14 the five percent (5%) contributions on the difference between Seven
+15 Thousand Eight Hundred Dollars ($7,800.00) and the actual salary of
+16 the member, not to exceed Ten Thousand Dollars ($10,000.00) for each
+17 applicable school year, plus interest compounded annually at ten
+18 percent (10%) per annum. Such payment shall be made prior to the
+19 official retirement date of the member.
+20 F. Each employer shall cause to be deducted from the salary of
+21 each member on each and every payroll of such employer for each and
+22 every payroll period, the proper percentage of his or her earnable
+23 compensation as provided for in subsection B or subsection C of this
+24 section.
+SENATE FLOOR VERSION - SB2039 SFLR Page 16
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 1. Deductions shall begin with the first payroll period of the
+2 school year. In determining the amount earnable by a member in a
+3 payroll period, the Board of Trustees shall consider the rate of
+4 annual compensation payable to such member on the first day of the
+5 payroll period as continuing throughout such payroll period, and it
+6 may omit deductions from compensation for any period less than a
+7 full period, and to facilitate the making of deductions, it may
+8 modify the deduction required of any member by such an amount as
+9 shall not exceed one-tenth of one percent (1/10 of 1%) of the annual
+10 compensation upon the basis of which such deduction is to be made.
+11 Prior to January 1, 1991, any active contributing member who joined
+12 the System subsequent to July 1, 1943, may pay the normal cost,
+13 which shall mean the single sum which would have been paid under
+14 existing statutes at the time the service was performed, plus
+15 interest, for years of teaching service in Oklahoma from the date of
+16 establishment of the System in 1943 to date of membership, in a lump
+17 sum, or in installments equal to establishing one (1) year of
+18 creditable service. Effective January 1, 1991, any active
+19 contributing member who joined the System subsequent to July 1,
+20 1943, may pay the amount determined by the Board of Trustees
+21 pursuant to Section 17-116.8 of this title for years of teaching
+22 service in Oklahoma from the date of establishment of the System in
+23 1943 to date of membership, in a lump sum, or in installments equal
+24 to establishing one (1) year of creditable service. For purposes of
+SENATE FLOOR VERSION - SB2039 SFLR Page 17
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 this option, teaching service in Oklahoma shall include the teaching
+2 of vocational agricultural courses within Oklahoma for the federal
+3 government. Years for which contributions are paid shall count as
+4 membership service under this plan. A member may receive credit for
+5 not more than five (5) years of teaching service rendered while in
+6 the Peace Corps or in the public schools of a territory of the
+7 United States or the public schools, American Military Dependent
+8 Schools or state colleges or state universities outside this state
+9 by paying his or her contributions, plus interest, and membership
+10 fees to the retirement system, subject to the regulations of the
+11 Board of Trustees, providing he or she is not receiving and is not
+12 eligible to receive retirement credit or benefits from said service
+13 in any other public retirement system of this state, or any other
+14 state or territory of the United States subject to the following
+15 provisions:
+16 a. the The member is required to have two (2) years of
+17 employed service teaching earned in Oklahoma for each
+18 year of Peace Corps, territorial, out-of-state,
+19 noncovered in-state or military membership credit
+20 granted.
+21 b. prior Prior to January 1, 1991, the out-of-state or
+22 noncovered in-state payment shall be the normal cost,
+23 which means the single sum which would have been paid
+24 under existing law at the time the service was
+SENATE FLOOR VERSION - SB2039 SFLR Page 18
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 performed, plus interest, on the basis of what his or
+2 her annual salary would have been in Oklahoma or out
+3 of state, whichever is greater, had he or she been
+4 employed as a teacher. Effective January 1, 1991, the
+5 Peace Corps, territorial, out-of-state or noncovered
+6 in-state payment shall be the amount determined by the
+7 Board of Trustees pursuant to Section 17-116.8 of this
+8 title.
+9 2. In addition to the deductions hereinabove provided for, any
+10 member who becomes a member of the Armed Forces of the United States
+11 of America during any period of national emergency, including World
+12 War II, the Korean conflict, the Vietnam conflict or others as may
+13 be determined by the Board of Trustees, or whose entrance into or
+14 training for the teaching profession was interrupted by his or her
+15 entrance into the Armed Forces, and who was or shall have become a
+16 member of the Teachers’ Retirement System shall be granted the
+17 privilege of making up his or her five percent (5%) contributions as
+18 provided for in this section until January 1, 1991, for not to
+19 exceed five (5) years of service in the Armed Forces by electing to
+20 pay said contributions on the basis of the rate of pay in his or her
+21 contract as a teacher at the time his or her service in the Armed
+22 Forces commenced or in the case of a teacher who was not teaching
+23 prior to entering the Armed Forces, on the basis of the salary of
+24 the first year of teaching after being honorably discharged from the
+SENATE FLOOR VERSION - SB2039 SFLR Page 19
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 Arme d Forces. Effective January 1, 1991, the member will receive
+2 such service upon payment of the amount determined by the Board of
+3 Trustees pursuant to Section 17-116.8 of this title. Such
+4 contributions shall be credited in the regular manner, and the
+5 period for which said contributions were paid shall be counted as
+6 creditable years of service and allocated to the period during which
+7 the military service was rendered, except that the period for which
+8 contributions were paid must have been continuous and shall be
+9 credited in the aggregate, regardless of fiscal year limitations.
+10 Notwithstanding any provision herein to the contrary, contributions,
+11 benefits, and service credit with respect to qualified military
+12 service as defined by Section 414(u) of the Internal Revenue Code of
+13 1986 shall be provided in accordance with Section 414(u) of the
+14 Internal Revenue Code.
+15 3. Retirement benefits for all service credits purchased
+16 pursuant to this subsection shall be determined in accordance with
+17 the provisions of paragraph 2 of this subsection. For the purposes
+18 of purchasing service credits for prior military service, the term
+19 “salary” shall solely mean the member’s verified compensation during
+20 the period of active military service, as provided in paragraph 2 of
+21 this subsection.
+22 G. Effective July 1, 2004, the total creditable service of a
+23 member who retires or terminates employment and elects a vested
+24 benefit shall include not to exceed one hundred twenty (120) days of
+SENATE FLOOR VERSION - SB2039 SFLR Page 20
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 unus ed sick leave accumulated subsequent to August 1, 1959. Twenty
+2 (20) days of unused sick leave shall equal one (1) month for
+3 purposes of creditable service credit. If the member becomes a
+4 member or was eligible to become a member prior to July 1, 1995, the
+5 year of credit received in this section shall be treated as service
+6 earned prior to July 1, 1995. This subsection shall apply to
+7 members retiring or vesting on or after the effective date of this
+8 act and shall not be retroactive.
+9 H. Any member who:
+10 1. Shall be absent from the teaching service because of
+11 election to the State Legislature or appointment to the executive
+12 branch in an education-related capacity shall be allowed thirty (30)
+13 days from the date as of which the person is officially elected or
+14 appointed to file an election with the Teachers’ Retirement System
+15 to retain his or her membership in the Teachers’ Retirement System
+16 upon payment of the contribution required of other members and
+17 employers of said members as provided for in this section and his or
+18 her service credits shall continue to be accumulated during such
+19 absence, provided he or she is not receiving retirement credits or
+20 benefits from said service beginning after July 1, 1992, in other
+21 public retirement systems; or
+22 2. Became an employee of the Oklahoma Commission for Teacher
+23 Preparation on or subsequent to June 1, 2001, but prior to July 1,
+24 2002, who was previously employed by a participating employer within
+SENATE FLOOR VERSION - SB2039 SFLR Page 21
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 the Teachers’ Retirement System of Oklahoma, may elect to cancel any
+2 accumulated service credit accrued within the Oklahoma Public
+3 Employees Retirement System on or after June 1, 2001, but prior to
+4 July 1, 2002, by filing an election with the Oklahoma Public
+5 Employees Retirement System for the cancellation of such service
+6 credit. The election shall be irrevocable and shall require the
+7 Oklahoma Public Employees Retirement System to transfer all
+8 accumulated employer and employee contributions made on behalf of or
+9 by the person making such election to the Teachers’ Retirement
+10 System for such period of time. The Teachers’ Retirement System
+11 shall compute the employee contributions that would have been made
+12 to the System by such employee if the contributions had been
+13 computed pursuant to this section. In order to receive the full
+14 amount of creditable service for the period of time on or after June
+15 1, 2001, but not later than June 30, 2002, the employee shall be
+16 required to pay any difference between the transferred employee
+17 contributions and the amount computed by the Teachers’ Retirement
+18 System. The employee may make payment of any required amount in the
+19 manner provided by and subject to the requirements of Section 17-
+20 116.8 of this title. After payment of all required employee
+21 contributions, the Teachers’ Retirement System shall credit the
+22 period of time represented by the transferred employee contributions
+23 as creditable service within the meaning of Section 17-101 of this
+24 title. After the transfer of the employee contributions, the
+SENATE FLOOR VERSION - SB2039 SFLR Page 22
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 Okla homa Public Employees Retirement System shall cancel any service
+2 credit previously accumulated for the period of time represented by
+3 such transferred employee contributions. Any person who makes the
+4 election provided for by this paragraph, and who continues
+5 employment with the Oklahoma Commission for Teacher Preparation on
+6 or after July 1, 2002, shall continue to accrue service credit in
+7 the Teachers’ Retirement System of Oklahoma. The employer shall
+8 make employer contributions according to the requirements of Section
+9 17-108.1 of this title and shall provide for the deduction of
+10 employee contributions as required by this section.
+11 I. Any member who shall be absent from the teaching service
+12 because of election or appointment as a local, state or national
+13 education association officer, prior to January 1, 2011, shall be
+14 allowed to retain his or her membership in the Teachers’ Retirement
+15 System upon payment of the contribution required of other members
+16 and employers of said members as provided for in this section and
+17 his or her service credits shall continue to be accumulated during
+18 such absence. Provided, however, any one such absence shall not
+19 exceed twelve (12) continuous years. No member who has less than
+20 ten (10) years of contributory service on July 1, 1994, may make
+21 this election after June 30, 1994. Members contributing to the
+22 System on July 1, 1994, may continue to contribute under this
+23 subsection until they have completed eight (8) years allowed by this
+24
+SENATE FLOOR VERSION - SB2039 SFLR Page 23
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 subs ection. The member may file for retirement when otherwise
+2 eligible for retirement as provided by Section 17-105 of this title.
+3 J. A member may receive credit for those years of service
+4 accumulated by the member while employed by an entity which is a
+5 participating employer in the Oklahoma Firefighters Pension and
+6 Retirement System, the Oklahoma Police Pension and Retirement
+7 System, the Uniform Retirement System for Justices and Judges, the
+8 Oklahoma Law Enforcement Retirement System, or the Oklahoma Public
+9 Employees Retirement System, if the member is not receiving or
+10 eligible to receive retirement credit or benefits from said service
+11 in any other public retirement system. A member also may receive
+12 credit for those years of service with the Department of Wildlife
+13 Conservation or with an employer that is a participating employer
+14 within one of the state retirement systems specifically referred to
+15 in this section when at the time of such service by the member the
+16 employer was not such a participating employer, if the member is not
+17 receiving or eligible to receive retirement credit or benefits from
+18 said service in any other public retirement system. To receive the
+19 service credit provided in this subsection, the member shall pay the
+20 amount determined by the Board of Trustees pursuant to Section 17-
+21 116.8 of this title. For purposes of this subsection, creditable
+22 service transferred from the Oklahoma Public Employees Retirement
+23 System shall include service authorized under paragraph (f) of
+24 subsection (2) of Section 913 of Title 74 of the Oklahoma Statutes
+SENATE FLOOR VERSION - SB2039 SFLR Page 24
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 as a mended from time to time. Members who retire prior to July 1,
+2 1993, shall have their monthly benefit adjusted to include all
+3 services accrued under paragraph (f) of subsection (2) of Section
+4 913 of Title 74 of the Oklahoma Statutes. Provided however, any
+5 adjustment of existing retirement benefits caused by reason of
+6 inclusion of such service authorized under paragraph (f) of
+7 subsection (2) of Section 913 of Title 74 of the Oklahoma Statutes
+8 shall not affect any retirement benefit paid prior to July 1, 1993.
+9 K. 1. An active member of the Teachers’ Retirement System of
+10 Oklahoma may receive credit for those years of service accumulated
+11 by the member while a member of the Oklahoma Public Employees
+12 Retirement System if:
+13 a. the member is an active member of the Teachers’
+14 Retirement System of Oklahoma, and
+15 b. the member provides notice to the Oklahoma Public
+16 Employees Retirement System and the Teachers’
+17 Retirement System of Oklahoma of the member’s election
+18 to transfer said service credit. The notice shall
+19 include a list of the years to be transferred, and
+20 c. the member is not receiving or eligible to receive
+21 retirement credit or benefits from said service in any
+22 other public retirement system, notwithstanding the
+23 years of service sought to be transferred under this
+24 subsection.
+SENATE FLOOR VERSION - SB2039 SFLR Page 25
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 Members electing to take advantage of the transfer authorized by
+2 this subsection who are receiving or eligible to receive retirement
+3 credit or benefits from said service in any other public retirement
+4 system shall have all service credit with the Oklahoma Public
+5 Employees Retirement System canceled which is not transferred to the
+6 Teachers’ Retirement System of Oklahoma or used as a cash offset in
+7 such a transfer pursuant to subparagraph d of paragraph 2 of this
+8 subsection. Service credit transferred to the Teachers’ Retirement
+9 System of Oklahoma under this subsection shall also be canceled with
+10 the Oklahoma Public Employees Retirement System.
+11 2. For purposes of this subsection, the “sending system” shall
+12 mean the Oklahoma Public Employees Retirement System. The
+13 “receiving system” shall mean the Teachers’ Retirement System of
+14 Oklahoma.
+15 a. Within thirty (30) days notification of an intent to
+16 transfer is received by the sending system, the
+17 sending system shall, according to its own rules and
+18 regulations:
+19 (1) for members who have accrued at least eight (8)
+20 years of credited service with the sending
+21 system, determine the present value of the
+22 member’s earned benefits attributable to the
+23 years of service sought to be transferred,
+24 discounted according to the member’s age at the
+SENATE FLOOR VERSION - SB2039 SFLR Page 26
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 time of transfer and computed as of the earliest
+2 age at which the member would be able to retire.
+3 Said computation shall assume an unreduced
+4 benefit and be computed using interest and
+5 mortality assumptions consistent with the
+6 actuarial assumptions adopted by the Board of
+7 Trustees for purposes of preparing the annual
+8 actuarial evaluation, but shall not make any
+9 projections regarding future salary. For
+10 employees who have accrued at least eight (8)
+11 years of credited service, the sending system
+12 shall use the product of this calculation for
+13 purposes of determining the transfer fee to be
+14 paid by the employee under subparagraph c of this
+15 paragraph so long as it is greater than the
+16 product of the calculation in division (2) of
+17 this subparagraph, and
+18 (2) determine the sum of the employee and employer
+19 contributions applicable to the years of service
+20 sought to be transferred plus interest consistent
+21 with the actuarial assumptions adopted by the
+22 Board of Trustees for purposes of preparing the
+23 annual actuarial evaluation. For all nonvested
+24 members, and for members who have accrued at
+SENATE FLOOR VERSION - SB2039 SFLR Page 27
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 least eight (8) years of credited service, if the
+2 product of this calculation is greater than the
+3 product of the calculation in division (1) of
+4 this subparagraph, the sending system shall use
+5 the product of this calculation for purposes of
+6 determining the amount to be transferred by the
+7 sending system under subparagraph c of this
+8 paragraph and any transfer fee to be paid by the
+9 member under subparagraph d of this paragraph.
+10 b. Within thirty (30) days notification of an intent to
+11 transfer is received by the receiving system, the
+12 receiving system shall determine, according to the
+13 system’s own rules and regulations, the present value
+14 of the member’s incremental projected benefits
+15 discounted according to the member’s age at the time
+16 of the transfer. Incremental projected benefits shall
+17 be the difference between the projected benefit said
+18 member would receive without transferring the service
+19 credit and the projected benefit after transfer of
+20 service credit computed as of the earliest age at
+21 which the member would be able to retire. Said
+22 computation shall assume an unreduced benefit and be
+23 computed using interest, salary projections and
+24 mortality assumptions consistent with the actuarial
+SENATE FLOOR VERSION - SB2039 SFLR Page 28
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 assumptions adopted by the Board of Trustees for
+2 purposes of preparing the annual actuarial evaluation.
+3 c. The sending system shall, within sixty (60) days from
+4 the date notification of an intent to transfer is
+5 received by the sending system, transfer to the
+6 receiving system the amount determined in subparagraph
+7 a of this paragraph. Except if the cost as calculated
+8 under subparagraph a of this paragraph is greater than
+9 the actuarial value of the incremental benefit in the
+10 receiving system, as established in subparagraph b of
+11 this paragraph, the sending system shall send the
+12 receiving system an amount equal to the actuarial
+13 value of the incremental projected benefit in the
+14 receiving system.
+15 d. In order to receive the credit provided for in
+16 paragraph 1 of this subsection, if the cost of the
+17 actuarial value of the incremental benefit to the
+18 receiving system is greater than the cost as
+19 calculated under subparagraph a of this paragraph for
+20 the same years of service to the sending system as
+21 established in subparagraphs a and b of this
+22 paragraph, the employee shall elect to:
+23 (1) pay any difference to receive full credit for the
+24 years sought to be transferred, or
+SENATE FLOOR VERSION - SB2039 SFLR Page 29
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 (2) receive prorated service credit for only the
+2 amount received from the Oklahoma Public
+3 Employees Retirement System pursuant to this
+4 subsection.
+5 Such an election shall be made in writing, filed with
+6 the System prior to receiving the credit provided for
+7 in paragraph 1 of this subsection, and shall be
+8 irrevocable.
+9 3. Within sixty (60) days of successfully completing all of the
+10 requirements for transfer under this subsection, the sending system
+11 shall pay the receiving system any amount due under this subsection.
+12 Within sixty (60) days of successfully completing all of the
+13 requirements for transfer under this subsection, the member shall
+14 pay the receiving system any amount due under this subsection. In
+15 the event that the member is unable to pay the transfer fee provided
+16 for in this subsection by the due date, the Board of Trustees of the
+17 receiving system shall permit the member to amortize the transfer
+18 fee over a period not to exceed sixty (60) months. Said payments
+19 shall be made by payroll deductions unless the Board of Trustees
+20 permits an alternate payment source. The amortization shall include
+21 interest in an amount not to exceed the actuarially assumed interest
+22 rate adopted by the Board of Trustees for investment earnings each
+23 year. Any member who ceases to make payment, terminates, retires or
+24 dies before completing the payments provided for in this section
+SENATE FLOOR VERSION - SB2039 SFLR Page 30
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 shal l receive prorated service credit for only those payments made,
+2 unless the unpaid balance is paid by said member, his or her estate
+3 or successor in interest within six (6) months after said member’s
+4 death, termination of employment or retirement, provided no
+5 retirement benefits shall be payable until the unpaid balance is
+6 paid, unless said member or beneficiary affirmatively waives the
+7 additional six-month period in which to pay the unpaid balance.
+8 4. Years of service transferred pursuant to this subsection
+9 shall be used both in determining the member’s retirement benefit
+10 and in determining the years of service for retirement and/or
+11 vesting purposes. Years of service rendered as a member of the
+12 Oklahoma Public Employees Retirement System prior to July 1, 1992,
+13 if any, shall be deemed to be years of service rendered as a member
+14 of the Teachers’ Retirement System of Oklahoma prior to July 1,
+15 1992, and shall qualify such person as a member of the Teachers’
+16 Retirement System of Oklahoma before July 1, 1992.
+17 5. Notwithstanding the requirements of subsection (5) of
+18 Section 917 of Title 74 of the Oklahoma Statutes, members electing
+19 to take advantage of the transfer authorized by this subsection who
+20 have withdrawn their contributions from the sending system shall
+21 remit to the sending system the amount of the accumulated
+22 contributions the member has withdrawn plus simple interest of ten
+23 percent (10%) per annum prior to making said election or the
+24 election shall be deemed invalid and the transfer shall be canceled.
+SENATE FLOOR VERSION - SB2039 SFLR Page 31
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 If s uch an election is deemed invalid and the transfer is canceled,
+2 the accumulated contribution remitted to the sending system by the
+3 member who originally withdrew their contributions shall be returned
+4 to the member. The member’s rights and obligations regarding any
+5 service credit reestablished in the sending system due to a failure
+6 to satisfy the requirements of this subsection shall be determined
+7 by the sending system in accordance with Section 901 et seq. of
+8 Title 74 of the Oklahoma Statutes.
+9 6. If any member fails for any reason to satisfy the
+10 requirements of this subsection, the election to transfer service
+11 credit shall be void and of no effect, and any service credited as a
+12 result of this transfer shall be canceled. If such service is
+13 canceled, the years of canceled service credit which were
+14 unsuccessfully transferred to the receiving system from the sending
+15 system shall be reestablished in the sending system. The member’s
+16 rights and obligations regarding any service credit reestablished in
+17 the sending system due to a failure to satisfy the requirements of
+18 this subsection shall be determined by the sending system in
+19 accordance with Section 901 et seq. of Title 74 of the Oklahoma
+20 Statutes.
+21 7. The Board of Trustees shall promulgate such rules as are
+22 necessary to implement the provisions of this subsection.
+23 L. Any member whose regular annual compensation was not
+24 determined as provided for by law may pay the member contribution
+SENATE FLOOR VERSION - SB2039 SFLR Page 32
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 requ ired pursuant to subsection B of this section on such amount not
+2 included in the member’s regular annual compensation and receive
+3 credit for such amount in the calculation of the member’s benefit.
+4 The employees must pay the employer contributions required pursuant
+5 to Section 17-108.1 of this title. Interest at the rate of ten
+6 percent (10%) per annum shall be charged to both employee and
+7 employer contributions. Provided that the employing district may
+8 pay all or any portion of the contributions and interest the member
+9 is required to pay. Any payment by the employing district for a
+10 prior year obligation shall be considered a current obligation of
+11 the employer.
+12 M. Any active member who elected during the 1978-79 school year
+13 to pay the difference between five percent (5%) on actual salary not
+14 exceeding Ten Thousand Dollars ($10,000.00) and six percent (6%) on
+15 actual salary not exceeding Fifteen Thousand Dollars ($15,000.00)
+16 shall receive credit for one (1) year of credited service upon
+17 receipt and approval of a proper request by the Board of Trustees.
+18 N. Effective July 1, 1988, any member who is employed by the
+19 Governor, the State Senate, the House of Representatives or the
+20 Legislative Service Bureau shall be allowed to elect to retain
+21 membership in the Retirement System upon payment of the accrued and
+22 current member contributions and employer contributions as provided
+23 in subsection B of this section and Section 17-108.1 of this title.
+24 Such contributions may be paid on behalf of the member by the
+SENATE FLOOR VERSION - SB2039 SFLR Page 33
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 empl oying entity. Upon payment of such contributions, service
+2 credits shall continue to be accumulated during such employment.
+3 Accrued contributions shall be paid to the Retirement System by
+4 August 1, 1989. Current contributions shall be paid to the
+5 Retirement System by the tenth of the following month beginning with
+6 the month of July 1989.
+7 O. Notwithstanding any requirements of this title to restrict
+8 the payment of service purchases, the Board of Trustees shall
+9 promulgate such rules as necessary to allow active members of the
+10 System to make installment payments for the redeposit of withdrawn
+11 accounts or other payments due under the provisions of this title.
+12 The rules shall permit the member to amortize the balance due over a
+13 period not to exceed sixty (60) months, and shall include interest
+14 consistent with the actuarial assumptions adopted by the Board of
+15 Trustees for purposes of preparing the annual actuarial evaluation.
+16 Further, the rules shall provide that all payments must be completed
+17 prior to the effective retirement date of the member.
+18 P. 1. A member of the Oklahoma Public Employees Retirement
+19 System who becomes a member of the Teachers’ Retirement System of
+20 Oklahoma because the member has become employed by an entity or
+21 institution within The Oklahoma State System of Higher Education,
+22 State Board of Education, State Board of Career and Technology
+23 Education, Oklahoma Department of Career and Technology Education,
+24 Oklahoma School of Science and Mathematics, Oklahoma Center for the
+SENATE FLOOR VERSION - SB2039 SFLR Page 34
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 Adva ncement of Science and Technology, State Department of
+2 Rehabilitation Services, Oklahoma State Regents for Higher
+3 Education, Department of Corrections, State Department of Education,
+4 Oklahoma Board of Private Vocational Schools, Board of Regents of
+5 Oklahoma Colleges, Oklahoma Student Loan Authority, or the Teachers’
+6 Retirement System of Oklahoma, may elect to receive credit in the
+7 Teachers’ Retirement System of Oklahoma for those years of service
+8 accumulated by the member in the Oklahoma Public Employees
+9 Retirement System pursuant to this subsection. A member shall be
+10 eligible to elect to receive credit for such years of service if:
+11 a. the member is an active member of the Teachers’
+12 Retirement System of Oklahoma,
+13 b. the member provides notice to the Teachers’ Retirement
+14 System of Oklahoma and the Oklahoma Public Employees
+15 Retirement System of the member’s election to transfer
+16 such retirement credit. The notice shall include a
+17 list of the years to be transferred, and
+18 c. the member is not receiving or eligible to receive
+19 retirement credit or benefits from such service in any
+20 other public retirement system, notwithstanding the
+21 years of service sought to be transferred under this
+22 subsection.
+23 Members electing to take advantage of the transfer authorized by
+24 this subsection shall have all service credit with the Oklahoma
+SENATE FLOOR VERSION - SB2039 SFLR Page 35
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 Publ ic Employees Retirement System canceled which is transferred to
+2 the Teachers’ Retirement System of Oklahoma.
+3 2. For purposes of this subsection, the “sending system” shall
+4 mean the Oklahoma Public Employees Retirement System. The
+5 “receiving system” shall mean the Teachers’ Retirement System of
+6 Oklahoma. Within thirty (30) days after notification of an intent
+7 to transfer is received by the sending system, the sending system
+8 shall, according to its own rules, send to the receiving system all
+9 employer and employee contributions made on behalf of the member
+10 which were made to the sending system plus an additional amount of
+11 earnings based on the actuarial assumed rate of the sending system.
+12 Upon receipt of these contributions by the receiving system, the
+13 receiving system shall give credit to the transferring member in an
+14 amount equal to the years of service accrued in the sending system.
+15 3. If the transferring member’s normal retirement date
+16 calculation is based upon the sum of the member’s age and number of
+17 years of credited service totaling eighty (80) in the sending
+18 system, then the member shall retain such calculation in the
+19 receiving system.
+20 4. The Board of Trustees shall promulgate such rules as are
+21 necessary to implement the provisions of this subsection.
+22 Q. A former member of the Teachers’ Retirement System of
+23 Oklahoma who withdrew his or her contributions from the System prior
+24 to January 1, 1983, and who had at least ten (10) years of service
+SENATE FLOOR VERSION - SB2039 SFLR Page 36
+(Bold face denotes Committee Amendments)
+
+RBS No. 3031
+1 in t he System and purchased that service in the Oklahoma Public
+2 Employees Retirement System, may elect to revoke that purchase from
+3 the Oklahoma Public Employees Retirement System and to repay the
+4 withdrawn contributions to the System in order to be eligible, once
+5 such member reaches the normal retirement age, to receive a
+6 retirement benefit that is based upon years of service and
+7 compensation at the time such member terminated employment. In
+8 addition, such former member may elect to transfer service credit
+9 accrued in the Oklahoma Public Employees Retirement System to the
+10 Teachers’ Retirement System of Oklahoma pursuant to subsection K of
+11 this section. The election, pursuant to this subsection, shall be
+12 made prior to September 1, 2000. The election and the repayment
+13 shall be made according to rules promulgated by the Board.
+14 SECTION 3. Section 1 of this act shall become effective June 1,
+15 2026.
+16 SECTION 4. Section 2 of this act shall become effective July 1,
+17 2026.
+18 SECTION 5. It being immediately necessary for the preservation
+19 of the public peace, health or safety, an emergency is hereby
+20 declared to exist, by reason whereof this act shall take effect and
+21 be in full force from and after its passage and approval.
+22 COMMITTEE REPORT BY: COMMITTEE ON RETIREMENT AND GOVERNMENT
+RESOURCES
+23 February 17, 2026 - DO PASS AS AMENDED
+24
+SENATE FLOOR VERSION - SB2039 SFLR Page 37
+(Bold face denotes Committee Amendments)
+
+[DELETED: P B Ge]
+[DELETED: P w w g c i]
+[DELETED: P w w w w]
+[DELETED: P t t t]
+[DELETED: P t w w S]
+[DELETED: P S S S S S w w w w]
+[DELETED: P w w]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P i i t]
+[DELETED: P t i t]
+[DELETED: P t]
+[DELETED: P b]
+[DELETED: P b b]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P t p]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P t t t]
+[DELETED: P W f]
+[DELETED: P d]
+[DELETED: P W]
+[DELETED: P T I p]
+[DELETED: P r]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P t t t]
+[DELETED: P]
+[DELETED: P]
