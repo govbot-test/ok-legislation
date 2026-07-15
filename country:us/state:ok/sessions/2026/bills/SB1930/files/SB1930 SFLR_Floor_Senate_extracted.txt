@@ -1,0 +1,1480 @@
+Title: 4 SENATE BILL NO. 1930 By: Green
+Official Title: 4 SENATE BILL NO. 1930 By: Green
+Number of Sections: 2
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+1 SENATE FLOOR VERSION
+February 26, 2026
+2
+3 COMMITTEE SUBSTITUTE
+FOR
+5
+6
+7 An Act relating to brine; amending 17 O.S. 2021,
+
+Section 2:
+Sections 501, 502, 503, 504, 506, 507, 508, 510, 516,
+8 517, and 519, which relate to the Oklahoma Brine
+Development Act; expanding purpose; modifying and
+9 adding definitions; clarifying certain exception;
+modifying provisions of certain application;
+10 modifying description of certain evidential findings;
+requiring certain orders remain applicable and serve
+11 as certain guidelines; removing certain single source
+of supply requirement; authorizing Corporation
+12 Commission to make units certain size and shape;
+requiring brine owners proportionally share produced
+13 water; requiring certain measurements of gross
+production; modifying certain plan requirements;
+14 modifying description of certain owners; authorizing
+proposed operator to seek certain emergency relief;
+15 requiring Commission grant relief upon certain
+showing; granting proposed operator right to collect
+16 certain proceeds; requiring set royalty be held in
+suspense until final order establishes unit;
+17 detailing requirements for certain royalty rate;
+modifying provisions related to changing size of
+18 certain unit; expanding applicability to include
+produced water; stating certain inapplicability;
+19 expanding applicability of act to certain units;
+making language gender neutral; updating statutory
+20 language and references; and providing an effective
+date.
+21
+22
+23 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 1
+(Bold face denotes Committee Amendments)
+1 SECTION 1. AMENDATORY 17 O.S. 2021, Section 501, is
+2 amended to read as follows:
+3 Section 501. The Legislature finds that it is desirable and
+4 necessary to authorize and provide for unitized management,
+5 operation, and further development of brine and associated solution
+6 gas, to the end that a greater ultimate recovery of brine and
+7 solution gas may be had, waste prevented, and the correlative rights
+8 of owners therein be protected. In addition, the Legislature finds
+9 that it is a desirable public policy and necessity to reduce
+10 disposal of brine water, also referred to as produced water, from
+11 oil and gas operations and encourage reuse, recycling, and
+12 reclaiming of such water and extraction of its constituent elements
+13 included therein. It is further found to be in the public interest
+14 to foster, encourage, and promote the development and production in
+15 the State of Oklahoma of brine, produced water, and solution gas in
+16 this state and to authorize and provide for the operation and
+17 development of unitized brine and solution gas properties, and to
+18 authorize the Corporation Commission to regulate brine, produced
+19 water, and solution gas production. Produced water subject to the
+20 jurisdiction of the Oil and Gas Produced Water and Waste Recycling
+21 and Reuse Act shall not be governed by the Oklahoma Brine
+22 Development Act unless the produced water is intended to be or is
+23 processed for the commercial extraction and sale of constituent
+24 elements, or any one of such elements.
+SENATE FLOOR VERSION - SB1930 SFLR Page 2
+(Bold face denotes Committee Amendments)
+1 SECTION 2. AMENDATORY 17 O.S. 2021, Section 502, is
+2 amended to read as follows:
+3 Section 502. As used in this act the Oklahoma Brine Development
+4 Act:
+5 1. “Commission” shall mean the Corporation Commission of
+6 Oklahoma;
+7 2. “Person” shall include any individual, partnership,
+8 corporation or association of whatever character;
+9 3. “Common source of supply” shall include that area which is
+10 underlain, or which from geological or other scientific data, or
+11 from drilling operations, or other evidence, appears to be underlain
+12 by a common accumulation of brine; provided, that, if any such area
+13 is underlain or appears from geologic or other scientific data, or
+14 from drilling operations, or from other evidence to be underlain by
+15 more than one common accumulation of brine separated from each other
+16 by a strata of earth and not connected with each other, then such
+17 area, as to each said common accumulation of brine, shall be deemed
+18 a separate common source of supply;
+19 4. “Associated oil or gas production” means the oil or gas
+20 produced from an oil or gas well from which produced water is
+21 extracted as an incident to the production of the oil or gas and the
+22 produced water is utilized for the purpose of extracting its
+23 constituent elements therefrom;
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 3
+(Bold face denotes Committee Amendments)
+1 2. “Brine” shall mean means subterranean saltwater salt water
+2 and all of its constituent parts and chemical substances therein
+3 contained, including, but not limited to, bromine, magnesium,
+4 potassium, lithium, boron, chlorine, iodine, calcium, strontium,
+5 sodium, sulphur sulfur, barium, or other chemical substances
+6 produced with or separated from such saltwater the salt water.
+7 Brine produced as an incident to the production of oil or gas,
+8 unless such brine is saved or sold for the purposes of removing
+9 chemical substances therefrom, shall not be considered brine for the
+10 purposes of this act. Gas, whether found in solution or otherwise,
+11 shall not be included within the meaning of the term “brine” brine;
+12 5. 3. “Brine owner” shall mean means any person entitled to
+13 share in the proceeds from the sale of brine production or produced
+14 water from which constituent elements are recovered from the brine
+15 production or produced water, or the effluent;
+16 6. “Solution gas” shall mean all gas produced from brine wells
+17 from the brine common source of supply within the unit area;
+18 7. “Solution gas owner” shall mean any person entitled to share
+19 in the proceeds from the sale of solution gas;
+20 8. “Owner” or “owners”, unless a more specific term is used,
+21 shall mean any person or entity who qualifies as either a brine
+22 owner or a solution gas owner;
+23 9. “Operator” shall mean a person who has the right to drill
+24 into and produce from any brine common source of supply and to
+SENATE FLOOR VERSION - SB1930 SFLR Page 4
+(Bold face denotes Committee Amendments)
+1 appr opriate that production, either for himself, or for himself and
+2 others, and is authorized by the Commission to drill;
+3 10. “Effluent” shall mean the liquid remaining after extraction
+4 of the chemical substances from brine;
+5 11. 4. “Brine production unit” or “unit” shall mean means each
+6 separate specific area of land so designated by order of the
+7 Commission for production of brine and associated solution gas and
+8 from brine wells, including the related injection of effluent;
+9 12. “Injection well” shall mean a well authorized by the
+10 Commission for the injection of effluent or other solutions; and
+11 13. “Manufacture” shall mean the complete process of drilling,
+12 completing, equipping and operating production and injection wells
+13 and of extracting and packaging brine
+14 5. “Brine well” means a well specifically drilled or operated
+15 for the primary purpose of extracting brine and shall not include a
+16 well drilled or operated for the primary purpose of producing oil or
+17 gas;
+18 6. “Commission” means the Corporation Commission;
+19 7. “Common source of supply” means the area that is underlain
+20 or which, from geological or other scientific data, from drilling
+21 operations, or from other evidence, appears to be underlain by a
+22 common accumulation of brine. If any area is underlain or appears,
+23 from geological or other scientific data, from drilling operations,
+24 or from other evidence, to be underlain by more than one common
+SENATE FLOOR VERSION - SB1930 SFLR Page 5
+(Bold face denotes Committee Amendments)
+1 accu mulation of brine separated from each other by a strata of earth
+2 and not connected with each other, then the area, as to each such
+3 common accumulation of brine, shall be deemed a separate common
+4 source of supply. In either circumstance of a brine production unit
+5 or produced water unit, brine may be produced from multiple common
+6 sources of supply from one or more oil or gas wells or one or more
+7 brine wells, which shall all be considered the common source of
+8 supply for purposes of the Oklahoma Brine Development Act;
+9 8. “Constituent elements” means salts, metals, elements, and
+10 other mineralized substances that are dissolved, entrained, or
+11 suspended in subterranean water. The term shall not include skim
+12 oil or hydraulic fracturing fluid;
+13 9. “Effluent” means the liquid remaining after extraction of
+14 the chemical substances from brine;
+15 10. “Extracted constituent element” means any constituent
+16 element extracted from the produced water through reconditioning or
+17 treating of the produced water by mechanical or chemical processes
+18 that is saved and commercially utilized or sold;
+19 11. “Injection well” means a well authorized by the Commission
+20 for the injection of effluent or other solutions;
+21 12. “Manufacture” means the complete process of drilling,
+22 completing, equipping, and operating production and injection wells
+23 and of extracting and packaging brine;
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 6
+(Bold face denotes Committee Amendments)
+1 13. “Oil or gas well” means a well drilled or operated for the
+2 primary purpose of extracting oil or gas as such terms are defined
+3 in Section 86.1 of Title 52 of the Oklahoma Statutes;
+4 14. “Operator” means a person who has the right to drill into
+5 and produce from any brine common source of supply and to
+6 appropriate that production, either for the operator or the operator
+7 and others, or to extract the constituent elements of brine produced
+8 as an incident to the production of oil and gas, and is authorized
+9 by the Commission to drill or extract the constituent elements of
+10 brine;
+11 15. “Owner” means, unless a more specific term is used, any
+12 person or entity who qualifies as either a brine owner or a solution
+13 gas owner;
+14 16. “Person” means any individual, partnership, corporation, or
+15 association of whatever character;
+16 17. “Produced water” means the subterranean salt water and the
+17 other liquid waste associated with, incidental to, or extracted
+18 during oil and gas drilling, completion, or production processes.
+19 Produced water subject to the jurisdiction of the Oil and Gas
+20 Produced Water and Waste Recycling and Reuse Act shall not be
+21 governed by the Oklahoma Brine Development Act, unless the produced
+22 water is intended to be or is processed for the commercial
+23 extraction and sale of the constituent elements, or any one of such
+24 elements;
+SENATE FLOOR VERSION - SB1930 SFLR Page 7
+(Bold face denotes Committee Amendments)
+1 18. “Produced water unit” means the specific area of land
+2 designated by order of the Commission for the commercial extraction
+3 and sale of constituent elements, or any one of such elements, from
+4 produced water. The Commission, based upon the facts and
+5 circumstances, shall determine the size and shape of any produced
+6 water unit. Unless a larger size unit is deemed appropriate under
+7 the facts and circumstances, the Commission shall not unitize an
+8 area that exceeds the size of the spacing or drilling unit of the
+9 associated oil or gas well from which the produced water is derived.
+10 Each such produced water unit shall be limited to the same common
+11 source or sources of supply as that of the associated oil or gas
+12 well from which produced water is being received for the extraction
+13 of constituent elements of such brine. Furthermore, an applicant
+14 may seek to create two or more produced water units by and through
+15 the filing of a single Commission case. If the Commission has not
+16 previously established a drilling or spacing unit for the oil or gas
+17 well or wells from which the produced water is derived, the
+18 Commission shall in its discretion determine the size and shape of
+19 the produced water unit, taking into consideration all facts and
+20 circumstances including, but not limited to, the economics of
+21 collection, transportation, and processing produced water to recover
+22 any extracted constituent element;
+23
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 8
+(Bold face denotes Committee Amendments)
+1 19. “Recycled water” means produced water that has been
+2 reconditioned or treated by mechanical or chemical processes into a
+3 reusable form;
+4 20. “Recycler” means a person approved and authorized by the
+5 Commission who receives produced water, for the purpose of saving,
+6 extracting, reconditioning, or treating the same by mechanical or
+7 chemical processes into a reusable form;
+8 21. “Recycling waste” means the noncommercial by-products or
+9 residual liquids or solid materials that remain after the recycling
+10 or extraction process;
+11 22. “Solution gas” means all gas produced from brine wells from
+12 the brine common source of supply within the brine production unit
+13 area; and
+14 23. “Solution gas owner” means any person entitled to share in
+15 the proceeds from the sale of solution gas.
+16 SECTION 3. AMENDATORY 17 O.S. 2021, Section 503, is
+17 amended to read as follows:
+18 Section 503. A. The Corporation Commission is hereby vested
+19 with jurisdiction over the following:
+20 1. The drilling for and or production of brine for commercial
+21 purposes;
+22 2. Class V injection wells used for the injection or disposal
+23 of mineral brines as defined in the federal Safe Drinking Water Act
+24 and 40 CFR C.F.R., Part 146; and
+SENATE FLOOR VERSION - SB1930 SFLR Page 9
+(Bold face denotes Committee Amendments)
+1 3. Class V wells used to inject spent brine into the same
+2 formation from which it was withdrawn after extraction of halogens
+3 or their salts as defined in 40 CFR C.F.R., Part 146.
+4 B. The Commission may promulgate such rules that:
+5 1. As are Are reasonably necessary to effectuate the purposes
+6 of this act the Oklahoma Brine Development Act, including rules
+7 governing the drilling of production, injection, or disposal wells
+8 and the injection of effluent into underground formations; and
+9 2. To ensure Ensure that the drilling, casing, and plugging of
+10 wells is done in such a manner as to prevent the escape of brine and
+11 effluent from one formation to another and to prevent the pollution
+12 of fresh water supplies throughout the state.
+13 C. The enforcement and adherence to the Oklahoma Brine
+14 Development Act shall not apply to nor shall the Corporation
+15 Commission have jurisdiction over Class I, III, IV, or V wells
+16 regulated by the Department of Environmental Quality pursuant to the
+17 federal Safe Drinking Water Act and 40 CFR C.F.R., Parts 144 through
+18 148, inclusive, and the Oklahoma Environmental Quality Act.
+19 SECTION 4. AMENDATORY 17 O.S. 2021, Section 504, is
+20 amended to read as follows:
+21 Section 504. A. A party desiring to unitize brine or produced
+22 water rights shall file with the Corporation Commission an
+23 application setting forth a description of the proposed brine
+24 production unit or produced water unit area with a map or plat
+SENATE FLOOR VERSION - SB1930 SFLR Page 10
+(Bold face denotes Committee Amendments)
+1 ther eof attached. The application shall allege the existence of the
+2 facts required to be found by the Commission as provided in Section
+3 7 506 of this act title. The application shall set forth the name
+4 and address of each brine owner within the area affected by the
+5 application. Each such person shall be a respondent to the
+6 application. In an application to enlarge the brine production unit
+7 or produced water unit area, brine owners within the existing unit
+8 and brine owners in the area to be added to the unit shall be
+9 respondents to the application.
+10 B. In the event the brine sought to be unitized in a proposed
+11 brine production unit is found in association with solution gas, the
+12 application shall set forth the name and address of each solution
+13 gas owner within the area affected by the application. Each such
+14 person shall be a respondent to the application. In an application
+15 to enlarge the brine production unit area, solution gas owners
+16 within the existing brine production unit and solution gas owners in
+17 the area to be added to the brine production unit shall be
+18 respondents to the application.
+19 C. Every application to establish a brine production unit or
+20 produced water unit shall have attached thereto a recommended plan
+21 of unitization applicable to the proposed unit area.
+22 SECTION 5. AMENDATORY 17 O.S. 2021, Section 506, is
+23 amended to read as follows:
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 11
+(Bold face denotes Committee Amendments)
+1 Section 506. A. If, after proper application and notice, the
+2 Commission in its hearing shall find by substantial evidence that:
+3 1. There exists a common source of supply or prospective common
+4 source of supply for brine or produced water;
+5 2. Unitized management, operation, and further development of
+6 the common source of supply for brine or produced water from oil or
+7 gas wells is reasonably necessary in order to effectively develop
+8 the brine common source of supply and allow for the extraction of
+9 its constituent elements;
+10 3. Unitized operation as applied to such common source of
+11 supply or produced water is feasible and will prevent waste and,
+12 with reasonable probability, will result in greater ultimate
+13 recovery of brine and its constituent parts;
+14 4. Such unitization is for the common good and will result in
+15 the general advantage of the owners of the brine rights within the
+16 proposed brine production unit or produced water unit and will
+17 protect the correlative rights of the owners within the common
+18 source of supply or produced water; and
+19 5. The creation of a brine production unit or produced water
+20 unit will accomplish one or more of the following:
+21 a. avoid the drilling of unnecessary wells,
+22 b. prevent waste,
+23 c. protect correlative rights, or
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 12
+(Bold face denotes Committee Amendments)
+1 d. increase the ultimate recovery of brine from the
+2 common source of supply and unit covered by the
+3 application, or
+4 e. allow recovery and extraction of constituent elements
+5 from produced water,
+6 the Commission shall make a finding to that effect and enter an
+7 order creating the unit, and requiring unitized operation of the
+8 prospective common source of supply or portion thereof described in
+9 the order.
+10 B. If the Commission in its hearing shall find by substantial
+11 evidence that:
+12 1. The proposed unit is a brine production unit and not a
+13 produced water unit;
+14 2. Solution gas exists within the common source of supply or
+15 prospective common source of supply;
+16 2. 3. The production of brine is impossible or impractical
+17 without also producing the solution gas; and
+18 3. 4. The unitization of the brine common source of supply is
+19 impractical or impossible without also unitizing the associated
+20 solution gas,
+21 the Commission shall make a finding to that effect and shall further
+22 provide in its order for the unitization of the solution gas within
+23 the brine production unit area.
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 13
+(Bold face denotes Committee Amendments)
+1 C. Orders of the Commission entered pursuant to Section 87.1 of
+2 Title 52 of the Oklahoma Statutes establishing drilling and spacing
+3 units for the production of oil, gas, or oil and gas shall not be
+4 applicable to the drilling of brine wells and or the production of
+5 solution gas from a brine production unit established by an order
+6 issued pursuant to this act the Oklahoma Brine Development Act.
+7 However, such drilling and spacing orders shall remain applicable to
+8 oil or gas wells and associated oil and gas production and shall
+9 serve as general nonmandatory guidelines for establishing the size,
+10 shape, and common source of supply of any produced water unit
+11 established under the Oklahoma Brine Development Act.
+12 SECTION 6. AMENDATORY 17 O.S. 2021, Section 507, is
+13 amended to read as follows:
+14 Section 507. A. The order of the Corporation Commission shall
+15 define the area of the common source or sources of supply or portion
+16 thereof to be included within the brine production unit or produced
+17 water unit area. Each unit and unit area shall be limited to all or
+18 a portion of a single common source of supply Except where a larger
+19 unit is shown to be reasonable under the facts and circumstances
+20 presented, the Commission may authorize the unit area to be of the
+21 same size and shape as the units authorized by the Commission for
+22 the associated oil and gas production.
+23 B. Brine owners within the brine production unit shall share in
+24 the production of brine in the proportion that their acreage bears
+SENATE FLOOR VERSION - SB1930 SFLR Page 14
+(Bold face denotes Committee Amendments)
+1 to t otal acreage within the unit, unless the Commission, after
+2 notice and hearing, shall provide for another method in the unit
+3 plan. Solution gas owners within the brine production unit shall
+4 share in production of solution gas in the proportion that their
+5 acreage bears to total acreage in the unit, unless the Commission,
+6 after notice and hearing, shall provide for another method in the
+7 unit plan.
+8 C. Brine owners within the produced water unit shall share in
+9 the production of produced water in the proportion that their
+10 acreage bears to total acreage within the unit. The gross
+11 production from each produced water unit shall be measured by the
+12 total volume of produced water derived from the associated oil or
+13 gas well or wells prior to the extraction of any constituent
+14 elements and not by any other metric.
+15 SECTION 7. AMENDATORY 17 O.S. 2021, Section 508, is
+16 amended to read as follows:
+17 Section 508. A. The plan of unitization for each such brine
+18 production unit or produced water unit and unit area shall be one
+19 suited to the needs and requirements of the particular unit
+20 dependent upon the facts and conditions found to exist with respect
+21 thereto. In addition to such other terms, provisions, conditions,
+22 and requirements found by the Corporation Commission to be
+23 reasonably necessary or proper to effectuate or accomplish the
+24 purpose of this act the Oklahoma Brine Development Act, and subject
+SENATE FLOOR VERSION - SB1930 SFLR Page 15
+(Bold face denotes Committee Amendments)
+1 to t he further requirements hereof, each such plan of unitization
+2 shall contain fair, reasonable, and equitable provisions for:
+3 1. The efficient unitized management or control of further
+4 development and operation of the brine production unit or produced
+5 water unit area. Under such the plan, the actual operations of the
+6 unit shall be carried on by one of the owners of the right to drill
+7 for and produce brine within the unit area as unit operator or in
+8 the case of produced water associated with oil and gas production,
+9 by the operator of the produced water unit approved by the
+10 Commission. The designation of unit operator shall be by majority
+11 vote of the owners of the right to drill for and produce brine in
+12 the unit in accordance with their acreage ownership in the unit or
+13 as designated by the Commission in the case of produced water
+14 associated with oil and gas production;
+15 2. The method and circumstances under which brine or effluent
+16 from the unit, or from any other source, may be injected into the
+17 common source of supply under the unit area or into other
+18 formations;
+19 3. The fair, just, and reasonable compensation to be awarded to
+20 any owner within the brine production unit or produced water unit
+21 who does not wish to participate in development of the unit by
+22 paying such owner’s share of unit costs;
+23 4. The fair, just, and reasonable manner of participation for
+24 any owner desiring to participate in the development of the brine
+SENATE FLOOR VERSION - SB1930 SFLR Page 16
+(Bold face denotes Committee Amendments)
+1 prod uction unit or produced water unit by paying such owners owner’s
+2 share of unit costs;
+3 5. The fair, just, and reasonable allocation and distribution
+4 to each owner and the value of such owner’s share of the brine,
+5 including the usable resources extracted from the brine, and
+6 solution gas, if any, produced from the unit;
+7 6. The procedure and basis upon which wells, equipment, and
+8 other properties of the owners within the brine production unit or
+9 produced water unit area are to be taken over and used for unit
+10 operations, including the method of arriving at the compensation
+11 therefor, or for otherwise proportionately equalizing the investment
+12 of the several owners in the unit;
+13 7. The method of apportioning costs of development and
+14 operation between owners of brine and owners of solution gas, if
+15 solution gas has also been unitized;
+16 8. The time when the plan of unitization shall become
+17 effective; and
+18 9. The time when and conditions under which the unit shall or
+19 may be dissolved and all affairs concluded.
+20 B. No order of the Commission creating a brine production unit
+21 and prescribing the plan of unitization applicable thereto to the
+22 brine production unit shall become effective unless and until the
+23 plan of unitization has been signed, or in writing ratified or
+24 approved by record owners of the right to drill of not less than
+SENATE FLOOR VERSION - SB1930 SFLR Page 17
+(Bold face denotes Committee Amendments)
+1 fift y-five percent (55%) of the brine production unit area affected
+2 thereby and by owners of record of not less than fifty-five percent
+3 (55%) (exclusive of royalty interest owned by lessees or
+4 subsidiaries of any lessee) of the royalty interest in and to the
+5 brine production unit area and the Commission has made a finding
+6 either in the order creating the unit or in a supplemental order
+7 that the plan of unitization has been so signed, ratified, or
+8 approved by lessees and royalty brine owners of record owning the
+9 required percentage interest in and to the brine production unit
+10 area. Provided, however, in any instance where a royalty brine
+11 owner has, through lease or other agreement, previously authorized
+12 pooling or unitization of a size equal to or larger than the size
+13 specified in the Commission order, said such lease or other
+14 agreement shall be deemed to be such royalty the brine owner’s
+15 authorization to unitize, and no additional signature, ratification,
+16 or approval shall be necessary from such owner, unless the lease
+17 provides for a different production sharing formula than set out in
+18 the plan of unitization. Further provided, however, in any instance
+19 where a royalty owner has the brine owners of record have, through
+20 lease or other agreement, previously consented to have the unit
+21 boundaries and the allocation formula established by the Commission,
+22 said such lease or other agreement shall be deemed to be such
+23 royalty owner’s the brine owners’ authorization to unitize, and no
+24 additional signature, ratification, or approval shall be necessary
+SENATE FLOOR VERSION - SB1930 SFLR Page 18
+(Bold face denotes Committee Amendments)
+1 from such owner owners. Where the plan of unitization has not been
+2 so signed, ratified, or approved by lessees and royalty brine owners
+3 of record owning the required percentage interest in and to the
+4 brine production unit area at the time the order creating the unit
+5 is made, the Commission shall hold such additional and supplemental
+6 hearings as may be requested or required to determine if and when
+7 the plan of unitization has been so signed, ratified, or approved by
+8 lessees and royalty brine owners of record owning the required
+9 percentage interest in and to the brine production unit area and
+10 shall, in respect to such hearings, make and enter a finding of its
+11 determination in such regard. In the event lessees or royalty brine
+12 owners, or either, of record owning the required percentage interest
+13 in and to the brine production unit area have not so signed,
+14 ratified, or approved the plan of unitization within a period of six
+15 (6) months from and after the date on which the order creating the
+16 brine production unit is made, the order creating the unit shall be
+17 deemed vacated and of no force and effect. The provisions of this
+18 subsection are hereby expressly made inapplicable to the formation
+19 of a produced water unit.
+20 C. A participating brine owner shall have a one-time election
+21 to sell, and any brine owner in the unit with brine refining
+22 equipment shall have the obligation to buy, the brine produced from
+23 the unit at the value determined by the Commission; provided,
+24 however, nothing herein shall require the purchasing brine owner to
+SENATE FLOOR VERSION - SB1930 SFLR Page 19
+(Bold face denotes Committee Amendments)
+1 purc hase brine when it is not producing brine from the unit for its
+2 own account.
+3 D. 1. Upon the filing of an application for the establishment
+4 of a produced water unit and prior to the Commission’s adjudication
+5 of such application, the proposed operator of the unit may seek
+6 emergency relief at the Commission for the immediate production,
+7 commercial extraction, and sale of constituent elements from
+8 produced water derived from the associated oil or gas well, and the
+9 Commission shall grant such relief upon a showing that such
+10 emergency relief is reasonable and necessary under the established
+11 facts and circumstances.
+12 2. The proposed operator shall have the right to collect all
+13 proceeds from the sale of brine or its constituent elements prior to
+14 the entry of a final order establishing the produced water unit,
+15 provided that a set royalty shall be held in suspense by the
+16 proposed operator for the benefit of any unleased brine owners
+17 within the proposed produced water unit until the Commission enters
+18 a final order establishing the produced water unit. Such royalty
+19 rate shall be set at the prevailing fair market value rate, which
+20 shall be determined by evidence of the highest royalty paid for
+21 arm’s length negotiated brine leases within the produced water unit
+22 and any other adjoining produced water unit.
+23 SECTION 8. AMENDATORY 17 O.S. 2021, Section 510, is
+24 amended to read as follows:
+SENATE FLOOR VERSION - SB1930 SFLR Page 20
+(Bold face denotes Committee Amendments)
+1 Section 510. A. The Corporation Commission shall have
+2 jurisdiction to increase the size of an existing brine production
+3 unit or produced water unit area where it is shown, upon proper
+4 application, notice, and hearing, that:
+5 1. Land adjacent to the existing unit is underlain by the same
+6 common source of supply as that found within the unit area; and
+7 2. Inclusion of the additional land will either:
+8 a. increase unit efficiency, or
+9 b. result in greater ultimate recovery of brine or
+10 produced water, or
+11 c. prevent waste; and
+12 3. Inclusion of the additional land is fair, just, and
+13 reasonable, both to parties owning brine or produced water interests
+14 in the additional land and to parties owning interests in the
+15 existing unit; and
+16 4. The requirements of Section 9 508 of this act title have
+17 been met.
+18 B. The Commission shall have jurisdiction to decrease the size
+19 of an existing brine production unit or produced water unit where it
+20 is shown, upon proper application, notice, and hearing, that the
+21 land to be excluded is of no value to the unit because:
+22 1. It is not underlain by the common source of supply; and
+23 2. Its presence does not contribute to more efficient unit
+24 operations, by providing the site for an injection well or wells, or
+SENATE FLOOR VERSION - SB1930 SFLR Page 21
+(Bold face denotes Committee Amendments)
+1 by a ssisting in the conduct of waterflood operations, or by
+2 otherwise increasing unit efficiency; and
+3 3. Exclusion of the land is fair, just, and reasonable.
+4 SECTION 9. AMENDATORY 17 O.S. 2021, Section 516, is
+5 amended to read as follows:
+6 Section 516. Sections 2 501 through 16 515 of this act title
+7 shall not have any effect on any existing brine, solution gas, or
+8 brine and solution gas units which have been created voluntarily or
+9 by a judicial decree to the extent such unit was established as of
+10 the date of this act September 1, 1990. Any existing brine or brine
+11 and solution gas unit may be expanded using the provisions of this
+12 act the Oklahoma Brine Development Act.
+13 SECTION 10. AMENDATORY 17 O.S. 2021, Section 517, is
+14 amended to read as follows:
+15 Section 517. A. The proceeds derived from the sale of brine,
+16 produced water, solution gas, or brine and solution gas production
+17 shall be paid to persons legally entitled thereto, commencing no
+18 later than six (6) months after the date of first sale, and
+19 thereafter no later than sixty (60) days after the end of the
+20 calendar month within which proceeds are received for subsequent
+21 production. In those instances where proceeds are not received for
+22 disposition of brine, produced water, solution gas, or brine and
+23 solution gas production due to venting, flaring, use for operations,
+24 nonpayment from purchasers, or any other cause, the time periods
+SENATE FLOOR VERSION - SB1930 SFLR Page 22
+(Bold face denotes Committee Amendments)
+1 prev iously specified within which any required payment shall be paid
+2 to the persons legally entitled thereto shall be measured from the
+3 date on which such venting, flaring, use for operations, nonpayment,
+4 or other event occurred. Provided, proceeds from the sale of brine,
+5 produced water, and solution gas from lands covered by a pending
+6 application for unitization pursuant to this act the Oklahoma Brine
+7 Development Act shall be paid to persons legally entitled thereto
+8 within six (6) months from the entry of a final order of
+9 unitization, together with interest thereon at the rate of six
+10 percent (6%) per annum to be compounded annually, calculated from
+11 the date of first sale after the filing of the application for
+12 unitization. Such payment is to be made to persons entitled thereto
+13 by the operator of such production. Provided, such operator may
+14 remit to the persons entitled to such proceeds from production
+15 semiannually for the aggregate of six (6) months’ accumulation of
+16 monthly proceeds of amounts less than Twenty-five Dollars ($25.00).
+17 Further provided, that any delay in determining the persons legally
+18 entitled to an interest in such proceeds from production caused by
+19 unmarketable title to such interest shall not affect payments to
+20 persons whose title is marketable. Provided, however, that in those
+21 instances where such proceeds cannot be paid because the title
+22 thereto is not marketable, the operator of such production shall
+23 cause all proceeds due such interest to earn interest at the rate of
+24 six percent (6%) per annum to be compounded annually, calculated
+SENATE FLOOR VERSION - SB1930 SFLR Page 23
+(Bold face denotes Committee Amendments)
+1 from the last day of the production month, until such time as the
+2 title to such interest has been perfected. Marketability of title
+3 shall be determined in accordance with the then current title
+4 examination standards of the Oklahoma Bar Association.
+5 B. The following information shall be included with each
+6 payment made to a brine owner from the sale of brine:
+7 1. Unit identification;
+8 2. Month and year of sales included in the payment;
+9 3. Total volume of production from the unit of brine, produced
+10 water, or solution gas and, in the case of a brine production unit,
+11 the concentration of chemical substances contained therein and
+12 volumes extracted therefrom;
+13 4. Owner’s interest, expressed as a decimal, in production from
+14 the unit;
+15 5. Total value of extracted chemical substances and solution
+16 gas, including the price per unit of measurement at which the
+17 products were sold;
+18 6. Owner’s share of the total value of sales prior to any
+19 deductions;
+20 7. Owner’s share of the total value of sales after any
+21 deductions; and
+22 8. A specific detailed listing of the amount and purpose of any
+23 deductions, including, but not limited to, BTU adjustments and
+24 taxes, from the gross proceeds due to the owner.
+SENATE FLOOR VERSION - SB1930 SFLR Page 24
+(Bold face denotes Committee Amendments)
+1 C. Any operator that violates this section shall be liable to
+2 the persons legally entitled to the proceeds from production for the
+3 unpaid amount of such proceeds with interest thereon at the rate of
+4 twelve percent (12%) per annum to be compounded annually, calculated
+5 from the last day of the production month.
+6 D. The district court for the county in which the unit is
+7 located shall have jurisdiction over all proceedings brought
+8 pursuant to this section. The prevailing party in any proceeding
+9 brought pursuant to this section shall be entitled to recover any
+10 court costs and reasonable expert witness and attorney’s attorney
+11 fees.
+12 SECTION 11. AMENDATORY 17 O.S. 2021, Section 519, is
+13 amended to read as follows:
+14 Section 519. Before entering upon a site for brine well
+15 drilling, except in instances where there are non-state resident
+16 surface owners, non-state resident surface tenants, unknown heirs,
+17 imperfect titles, surface owners, or surface tenants whose
+18 whereabouts cannot be ascertained with reasonable diligence, the
+19 operator shall give to the surface owner a written notice of his or
+20 her intent to drill containing a designation of the proposed
+21 location and the approximate date that the operator proposes to
+22 commence drilling.
+23 Such notice shall be given in writing by certified mail to the
+24 surface owner. If the operator makes an affidavit that he or she
+SENATE FLOOR VERSION - SB1930 SFLR Page 25
+(Bold face denotes Committee Amendments)
+1 has conducted a search with reasonable diligence and the whereabouts
+2 of the surface owner cannot be ascertained or such notice cannot be
+3 delivered, then constructive notice of the intent to drill may be
+4 given in the same manner as provided for the notice of proceedings
+5 to appoint appraisers set forth in Section 22 521 of this act title.
+6 Within five (5) days of the date of delivery or service of the
+7 notice of intent to drill, it shall be the duty of the operator and
+8 the surface owner to enter into good faith good-faith negotiations
+9 to determine the surface damages.
+10 The provisions of Sections 519 through 522 of this title are
+11 hereby expressly made inapplicable to the formation of a produced
+12 water unit.
+13 SECTION 12. This act shall become effective November 1, 2026.
+14 COMMITTEE REPORT BY: COMMITTEE ON ENERGY
+February 26, 2026 - DO PASS AS AMENDED BY CS
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 26
+(Bold face denotes Committee Amendments)
+[DELETED: P B G]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P a p p]
+[DELETED: P i a]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P i r p]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+
+
+================================================================================
+
+Raw Text:
+1 SENATE FLOOR VERSION
+February 26, 2026
+2
+3 COMMITTEE SUBSTITUTE
+FOR
+4 SENATE BILL NO. 1930 By: Green
+5
+6
+7 An Act relating to brine; amending 17 O.S. 2021,
+Sections 501, 502, 503, 504, 506, 507, 508, 510, 516,
+8 517, and 519, which relate to the Oklahoma Brine
+Development Act; expanding purpose; modifying and
+9 adding definitions; clarifying certain exception;
+modifying provisions of certain application;
+10 modifying description of certain evidential findings;
+requiring certain orders remain applicable and serve
+11 as certain guidelines; removing certain single source
+of supply requirement; authorizing Corporation
+12 Commission to make units certain size and shape;
+requiring brine owners proportionally share produced
+13 water; requiring certain measurements of gross
+production; modifying certain plan requirements;
+14 modifying description of certain owners; authorizing
+proposed operator to seek certain emergency relief;
+15 requiring Commission grant relief upon certain
+showing; granting proposed operator right to collect
+16 certain proceeds; requiring set royalty be held in
+suspense until final order establishes unit;
+17 detailing requirements for certain royalty rate;
+modifying provisions related to changing size of
+18 certain unit; expanding applicability to include
+produced water; stating certain inapplicability;
+19 expanding applicability of act to certain units;
+making language gender neutral; updating statutory
+20 language and references; and providing an effective
+date.
+21
+22
+23 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 SECTION 1. AMENDATORY 17 O.S. 2021, Section 501, is
+2 amended to read as follows:
+3 Section 501. The Legislature finds that it is desirable and
+4 necessary to authorize and provide for unitized management,
+5 operation, and further development of brine and associated solution
+6 gas, to the end that a greater ultimate recovery of brine and
+7 solution gas may be had, waste prevented, and the correlative rights
+8 of owners therein be protected. In addition, the Legislature finds
+9 that it is a desirable public policy and necessity to reduce
+10 disposal of brine water, also referred to as produced water, from
+11 oil and gas operations and encourage reuse, recycling, and
+12 reclaiming of such water and extraction of its constituent elements
+13 included therein. It is further found to be in the public interest
+14 to foster, encourage, and promote the development and production in
+15 the State of Oklahoma of brine, produced water, and solution gas in
+16 this state and to authorize and provide for the operation and
+17 development of unitized brine and solution gas properties, and to
+18 authorize the Corporation Commission to regulate brine, produced
+19 water, and solution gas production. Produced water subject to the
+20 jurisdiction of the Oil and Gas Produced Water and Waste Recycling
+21 and Reuse Act shall not be governed by the Oklahoma Brine
+22 Development Act unless the produced water is intended to be or is
+23 processed for the commercial extraction and sale of constituent
+24 elements, or any one of such elements.
+SENATE FLOOR VERSION - SB1930 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 SECTION 2. AMENDATORY 17 O.S. 2021, Section 502, is
+2 amended to read as follows:
+3 Section 502. As used in this act the Oklahoma Brine Development
+4 Act:
+5 1. “Commission” shall mean the Corporation Commission of
+6 Oklahoma;
+7 2. “Person” shall include any individual, partnership,
+8 corporation or association of whatever character;
+9 3. “Common source of supply” shall include that area which is
+10 underlain, or which from geological or other scientific data, or
+11 from drilling operations, or other evidence, appears to be underlain
+12 by a common accumulation of brine; provided, that, if any such area
+13 is underlain or appears from geologic or other scientific data, or
+14 from drilling operations, or from other evidence to be underlain by
+15 more than one common accumulation of brine separated from each other
+16 by a strata of earth and not connected with each other, then such
+17 area, as to each said common accumulation of brine, shall be deemed
+18 a separate common source of supply;
+19 4. “Associated oil or gas production” means the oil or gas
+20 produced from an oil or gas well from which produced water is
+21 extracted as an incident to the production of the oil or gas and the
+22 produced water is utilized for the purpose of extracting its
+23 constituent elements therefrom;
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 2. “Brine” shall mean means subterranean saltwater salt water
+2 and all of its constituent parts and chemical substances therein
+3 contained, including, but not limited to, bromine, magnesium,
+4 potassium, lithium, boron, chlorine, iodine, calcium, strontium,
+5 sodium, sulphur sulfur, barium, or other chemical substances
+6 produced with or separated from such saltwater the salt water.
+7 Brine produced as an incident to the production of oil or gas,
+8 unless such brine is saved or sold for the purposes of removing
+9 chemical substances therefrom, shall not be considered brine for the
+10 purposes of this act. Gas, whether found in solution or otherwise,
+11 shall not be included within the meaning of the term “brine” brine;
+12 5. 3. “Brine owner” shall mean means any person entitled to
+13 share in the proceeds from the sale of brine production or produced
+14 water from which constituent elements are recovered from the brine
+15 production or produced water, or the effluent;
+16 6. “Solution gas” shall mean all gas produced from brine wells
+17 from the brine common source of supply within the unit area;
+18 7. “Solution gas owner” shall mean any person entitled to share
+19 in the proceeds from the sale of solution gas;
+20 8. “Owner” or “owners”, unless a more specific term is used,
+21 shall mean any person or entity who qualifies as either a brine
+22 owner or a solution gas owner;
+23 9. “Operator” shall mean a person who has the right to drill
+24 into and produce from any brine common source of supply and to
+SENATE FLOOR VERSION - SB1930 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 appr opriate that production, either for himself, or for himself and
+2 others, and is authorized by the Commission to drill;
+3 10. “Effluent” shall mean the liquid remaining after extraction
+4 of the chemical substances from brine;
+5 11. 4. “Brine production unit” or “unit” shall mean means each
+6 separate specific area of land so designated by order of the
+7 Commission for production of brine and associated solution gas and
+8 from brine wells, including the related injection of effluent;
+9 12. “Injection well” shall mean a well authorized by the
+10 Commission for the injection of effluent or other solutions; and
+11 13. “Manufacture” shall mean the complete process of drilling,
+12 completing, equipping and operating production and injection wells
+13 and of extracting and packaging brine
+14 5. “Brine well” means a well specifically drilled or operated
+15 for the primary purpose of extracting brine and shall not include a
+16 well drilled or operated for the primary purpose of producing oil or
+17 gas;
+18 6. “Commission” means the Corporation Commission;
+19 7. “Common source of supply” means the area that is underlain
+20 or which, from geological or other scientific data, from drilling
+21 operations, or from other evidence, appears to be underlain by a
+22 common accumulation of brine. If any area is underlain or appears,
+23 from geological or other scientific data, from drilling operations,
+24 or from other evidence, to be underlain by more than one common
+SENATE FLOOR VERSION - SB1930 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 accu mulation of brine separated from each other by a strata of earth
+2 and not connected with each other, then the area, as to each such
+3 common accumulation of brine, shall be deemed a separate common
+4 source of supply. In either circumstance of a brine production unit
+5 or produced water unit, brine may be produced from multiple common
+6 sources of supply from one or more oil or gas wells or one or more
+7 brine wells, which shall all be considered the common source of
+8 supply for purposes of the Oklahoma Brine Development Act;
+9 8. “Constituent elements” means salts, metals, elements, and
+10 other mineralized substances that are dissolved, entrained, or
+11 suspended in subterranean water. The term shall not include skim
+12 oil or hydraulic fracturing fluid;
+13 9. “Effluent” means the liquid remaining after extraction of
+14 the chemical substances from brine;
+15 10. “Extracted constituent element” means any constituent
+16 element extracted from the produced water through reconditioning or
+17 treating of the produced water by mechanical or chemical processes
+18 that is saved and commercially utilized or sold;
+19 11. “Injection well” means a well authorized by the Commission
+20 for the injection of effluent or other solutions;
+21 12. “Manufacture” means the complete process of drilling,
+22 completing, equipping, and operating production and injection wells
+23 and of extracting and packaging brine;
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 13. “Oil or gas well” means a well drilled or operated for the
+2 primary purpose of extracting oil or gas as such terms are defined
+3 in Section 86.1 of Title 52 of the Oklahoma Statutes;
+4 14. “Operator” means a person who has the right to drill into
+5 and produce from any brine common source of supply and to
+6 appropriate that production, either for the operator or the operator
+7 and others, or to extract the constituent elements of brine produced
+8 as an incident to the production of oil and gas, and is authorized
+9 by the Commission to drill or extract the constituent elements of
+10 brine;
+11 15. “Owner” means, unless a more specific term is used, any
+12 person or entity who qualifies as either a brine owner or a solution
+13 gas owner;
+14 16. “Person” means any individual, partnership, corporation, or
+15 association of whatever character;
+16 17. “Produced water” means the subterranean salt water and the
+17 other liquid waste associated with, incidental to, or extracted
+18 during oil and gas drilling, completion, or production processes.
+19 Produced water subject to the jurisdiction of the Oil and Gas
+20 Produced Water and Waste Recycling and Reuse Act shall not be
+21 governed by the Oklahoma Brine Development Act, unless the produced
+22 water is intended to be or is processed for the commercial
+23 extraction and sale of the constituent elements, or any one of such
+24 elements;
+SENATE FLOOR VERSION - SB1930 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 18. “Produced water unit” means the specific area of land
+2 designated by order of the Commission for the commercial extraction
+3 and sale of constituent elements, or any one of such elements, from
+4 produced water. The Commission, based upon the facts and
+5 circumstances, shall determine the size and shape of any produced
+6 water unit. Unless a larger size unit is deemed appropriate under
+7 the facts and circumstances, the Commission shall not unitize an
+8 area that exceeds the size of the spacing or drilling unit of the
+9 associated oil or gas well from which the produced water is derived.
+10 Each such produced water unit shall be limited to the same common
+11 source or sources of supply as that of the associated oil or gas
+12 well from which produced water is being received for the extraction
+13 of constituent elements of such brine. Furthermore, an applicant
+14 may seek to create two or more produced water units by and through
+15 the filing of a single Commission case. If the Commission has not
+16 previously established a drilling or spacing unit for the oil or gas
+17 well or wells from which the produced water is derived, the
+18 Commission shall in its discretion determine the size and shape of
+19 the produced water unit, taking into consideration all facts and
+20 circumstances including, but not limited to, the economics of
+21 collection, transportation, and processing produced water to recover
+22 any extracted constituent element;
+23
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 8
+(Bold face denotes Committee Amendments)
+
+1 19. “Recycled water” means produced water that has been
+2 reconditioned or treated by mechanical or chemical processes into a
+3 reusable form;
+4 20. “Recycler” means a person approved and authorized by the
+5 Commission who receives produced water, for the purpose of saving,
+6 extracting, reconditioning, or treating the same by mechanical or
+7 chemical processes into a reusable form;
+8 21. “Recycling waste” means the noncommercial by-products or
+9 residual liquids or solid materials that remain after the recycling
+10 or extraction process;
+11 22. “Solution gas” means all gas produced from brine wells from
+12 the brine common source of supply within the brine production unit
+13 area; and
+14 23. “Solution gas owner” means any person entitled to share in
+15 the proceeds from the sale of solution gas.
+16 SECTION 3. AMENDATORY 17 O.S. 2021, Section 503, is
+17 amended to read as follows:
+18 Section 503. A. The Corporation Commission is hereby vested
+19 with jurisdiction over the following:
+20 1. The drilling for and or production of brine for commercial
+21 purposes;
+22 2. Class V injection wells used for the injection or disposal
+23 of mineral brines as defined in the federal Safe Drinking Water Act
+24 and 40 CFR C.F.R., Part 146; and
+SENATE FLOOR VERSION - SB1930 SFLR Page 9
+(Bold face denotes Committee Amendments)
+
+1 3. Class V wells used to inject spent brine into the same
+2 formation from which it was withdrawn after extraction of halogens
+3 or their salts as defined in 40 CFR C.F.R., Part 146.
+4 B. The Commission may promulgate such rules that:
+5 1. As are Are reasonably necessary to effectuate the purposes
+6 of this act the Oklahoma Brine Development Act, including rules
+7 governing the drilling of production, injection, or disposal wells
+8 and the injection of effluent into underground formations; and
+9 2. To ensure Ensure that the drilling, casing, and plugging of
+10 wells is done in such a manner as to prevent the escape of brine and
+11 effluent from one formation to another and to prevent the pollution
+12 of fresh water supplies throughout the state.
+13 C. The enforcement and adherence to the Oklahoma Brine
+14 Development Act shall not apply to nor shall the Corporation
+15 Commission have jurisdiction over Class I, III, IV, or V wells
+16 regulated by the Department of Environmental Quality pursuant to the
+17 federal Safe Drinking Water Act and 40 CFR C.F.R., Parts 144 through
+18 148, inclusive, and the Oklahoma Environmental Quality Act.
+19 SECTION 4. AMENDATORY 17 O.S. 2021, Section 504, is
+20 amended to read as follows:
+21 Section 504. A. A party desiring to unitize brine or produced
+22 water rights shall file with the Corporation Commission an
+23 application setting forth a description of the proposed brine
+24 production unit or produced water unit area with a map or plat
+SENATE FLOOR VERSION - SB1930 SFLR Page 10
+(Bold face denotes Committee Amendments)
+
+1 ther eof attached. The application shall allege the existence of the
+2 facts required to be found by the Commission as provided in Section
+3 7 506 of this act title. The application shall set forth the name
+4 and address of each brine owner within the area affected by the
+5 application. Each such person shall be a respondent to the
+6 application. In an application to enlarge the brine production unit
+7 or produced water unit area, brine owners within the existing unit
+8 and brine owners in the area to be added to the unit shall be
+9 respondents to the application.
+10 B. In the event the brine sought to be unitized in a proposed
+11 brine production unit is found in association with solution gas, the
+12 application shall set forth the name and address of each solution
+13 gas owner within the area affected by the application. Each such
+14 person shall be a respondent to the application. In an application
+15 to enlarge the brine production unit area, solution gas owners
+16 within the existing brine production unit and solution gas owners in
+17 the area to be added to the brine production unit shall be
+18 respondents to the application.
+19 C. Every application to establish a brine production unit or
+20 produced water unit shall have attached thereto a recommended plan
+21 of unitization applicable to the proposed unit area.
+22 SECTION 5. AMENDATORY 17 O.S. 2021, Section 506, is
+23 amended to read as follows:
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 11
+(Bold face denotes Committee Amendments)
+
+1 Section 506. A. If, after proper application and notice, the
+2 Commission in its hearing shall find by substantial evidence that:
+3 1. There exists a common source of supply or prospective common
+4 source of supply for brine or produced water;
+5 2. Unitized management, operation, and further development of
+6 the common source of supply for brine or produced water from oil or
+7 gas wells is reasonably necessary in order to effectively develop
+8 the brine common source of supply and allow for the extraction of
+9 its constituent elements;
+10 3. Unitized operation as applied to such common source of
+11 supply or produced water is feasible and will prevent waste and,
+12 with reasonable probability, will result in greater ultimate
+13 recovery of brine and its constituent parts;
+14 4. Such unitization is for the common good and will result in
+15 the general advantage of the owners of the brine rights within the
+16 proposed brine production unit or produced water unit and will
+17 protect the correlative rights of the owners within the common
+18 source of supply or produced water; and
+19 5. The creation of a brine production unit or produced water
+20 unit will accomplish one or more of the following:
+21 a. avoid the drilling of unnecessary wells,
+22 b. prevent waste,
+23 c. protect correlative rights, or
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 12
+(Bold face denotes Committee Amendments)
+
+1 d. increase the ultimate recovery of brine from the
+2 common source of supply and unit covered by the
+3 application, or
+4 e. allow recovery and extraction of constituent elements
+5 from produced water,
+6 the Commission shall make a finding to that effect and enter an
+7 order creating the unit, and requiring unitized operation of the
+8 prospective common source of supply or portion thereof described in
+9 the order.
+10 B. If the Commission in its hearing shall find by substantial
+11 evidence that:
+12 1. The proposed unit is a brine production unit and not a
+13 produced water unit;
+14 2. Solution gas exists within the common source of supply or
+15 prospective common source of supply;
+16 2. 3. The production of brine is impossible or impractical
+17 without also producing the solution gas; and
+18 3. 4. The unitization of the brine common source of supply is
+19 impractical or impossible without also unitizing the associated
+20 solution gas,
+21 the Commission shall make a finding to that effect and shall further
+22 provide in its order for the unitization of the solution gas within
+23 the brine production unit area.
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 13
+(Bold face denotes Committee Amendments)
+
+1 C. Orders of the Commission entered pursuant to Section 87.1 of
+2 Title 52 of the Oklahoma Statutes establishing drilling and spacing
+3 units for the production of oil, gas, or oil and gas shall not be
+4 applicable to the drilling of brine wells and or the production of
+5 solution gas from a brine production unit established by an order
+6 issued pursuant to this act the Oklahoma Brine Development Act.
+7 However, such drilling and spacing orders shall remain applicable to
+8 oil or gas wells and associated oil and gas production and shall
+9 serve as general nonmandatory guidelines for establishing the size,
+10 shape, and common source of supply of any produced water unit
+11 established under the Oklahoma Brine Development Act.
+12 SECTION 6. AMENDATORY 17 O.S. 2021, Section 507, is
+13 amended to read as follows:
+14 Section 507. A. The order of the Corporation Commission shall
+15 define the area of the common source or sources of supply or portion
+16 thereof to be included within the brine production unit or produced
+17 water unit area. Each unit and unit area shall be limited to all or
+18 a portion of a single common source of supply Except where a larger
+19 unit is shown to be reasonable under the facts and circumstances
+20 presented, the Commission may authorize the unit area to be of the
+21 same size and shape as the units authorized by the Commission for
+22 the associated oil and gas production.
+23 B. Brine owners within the brine production unit shall share in
+24 the production of brine in the proportion that their acreage bears
+SENATE FLOOR VERSION - SB1930 SFLR Page 14
+(Bold face denotes Committee Amendments)
+
+1 to t otal acreage within the unit, unless the Commission, after
+2 notice and hearing, shall provide for another method in the unit
+3 plan. Solution gas owners within the brine production unit shall
+4 share in production of solution gas in the proportion that their
+5 acreage bears to total acreage in the unit, unless the Commission,
+6 after notice and hearing, shall provide for another method in the
+7 unit plan.
+8 C. Brine owners within the produced water unit shall share in
+9 the production of produced water in the proportion that their
+10 acreage bears to total acreage within the unit. The gross
+11 production from each produced water unit shall be measured by the
+12 total volume of produced water derived from the associated oil or
+13 gas well or wells prior to the extraction of any constituent
+14 elements and not by any other metric.
+15 SECTION 7. AMENDATORY 17 O.S. 2021, Section 508, is
+16 amended to read as follows:
+17 Section 508. A. The plan of unitization for each such brine
+18 production unit or produced water unit and unit area shall be one
+19 suited to the needs and requirements of the particular unit
+20 dependent upon the facts and conditions found to exist with respect
+21 thereto. In addition to such other terms, provisions, conditions,
+22 and requirements found by the Corporation Commission to be
+23 reasonably necessary or proper to effectuate or accomplish the
+24 purpose of this act the Oklahoma Brine Development Act, and subject
+SENATE FLOOR VERSION - SB1930 SFLR Page 15
+(Bold face denotes Committee Amendments)
+
+1 to t he further requirements hereof, each such plan of unitization
+2 shall contain fair, reasonable, and equitable provisions for:
+3 1. The efficient unitized management or control of further
+4 development and operation of the brine production unit or produced
+5 water unit area. Under such the plan, the actual operations of the
+6 unit shall be carried on by one of the owners of the right to drill
+7 for and produce brine within the unit area as unit operator or in
+8 the case of produced water associated with oil and gas production,
+9 by the operator of the produced water unit approved by the
+10 Commission. The designation of unit operator shall be by majority
+11 vote of the owners of the right to drill for and produce brine in
+12 the unit in accordance with their acreage ownership in the unit or
+13 as designated by the Commission in the case of produced water
+14 associated with oil and gas production;
+15 2. The method and circumstances under which brine or effluent
+16 from the unit, or from any other source, may be injected into the
+17 common source of supply under the unit area or into other
+18 formations;
+19 3. The fair, just, and reasonable compensation to be awarded to
+20 any owner within the brine production unit or produced water unit
+21 who does not wish to participate in development of the unit by
+22 paying such owner’s share of unit costs;
+23 4. The fair, just, and reasonable manner of participation for
+24 any owner desiring to participate in the development of the brine
+SENATE FLOOR VERSION - SB1930 SFLR Page 16
+(Bold face denotes Committee Amendments)
+
+1 prod uction unit or produced water unit by paying such owners owner’s
+2 share of unit costs;
+3 5. The fair, just, and reasonable allocation and distribution
+4 to each owner and the value of such owner’s share of the brine,
+5 including the usable resources extracted from the brine, and
+6 solution gas, if any, produced from the unit;
+7 6. The procedure and basis upon which wells, equipment, and
+8 other properties of the owners within the brine production unit or
+9 produced water unit area are to be taken over and used for unit
+10 operations, including the method of arriving at the compensation
+11 therefor, or for otherwise proportionately equalizing the investment
+12 of the several owners in the unit;
+13 7. The method of apportioning costs of development and
+14 operation between owners of brine and owners of solution gas, if
+15 solution gas has also been unitized;
+16 8. The time when the plan of unitization shall become
+17 effective; and
+18 9. The time when and conditions under which the unit shall or
+19 may be dissolved and all affairs concluded.
+20 B. No order of the Commission creating a brine production unit
+21 and prescribing the plan of unitization applicable thereto to the
+22 brine production unit shall become effective unless and until the
+23 plan of unitization has been signed, or in writing ratified or
+24 approved by record owners of the right to drill of not less than
+SENATE FLOOR VERSION - SB1930 SFLR Page 17
+(Bold face denotes Committee Amendments)
+
+1 fift y-five percent (55%) of the brine production unit area affected
+2 thereby and by owners of record of not less than fifty-five percent
+3 (55%) (exclusive of royalty interest owned by lessees or
+4 subsidiaries of any lessee) of the royalty interest in and to the
+5 brine production unit area and the Commission has made a finding
+6 either in the order creating the unit or in a supplemental order
+7 that the plan of unitization has been so signed, ratified, or
+8 approved by lessees and royalty brine owners of record owning the
+9 required percentage interest in and to the brine production unit
+10 area. Provided, however, in any instance where a royalty brine
+11 owner has, through lease or other agreement, previously authorized
+12 pooling or unitization of a size equal to or larger than the size
+13 specified in the Commission order, said such lease or other
+14 agreement shall be deemed to be such royalty the brine owner’s
+15 authorization to unitize, and no additional signature, ratification,
+16 or approval shall be necessary from such owner, unless the lease
+17 provides for a different production sharing formula than set out in
+18 the plan of unitization. Further provided, however, in any instance
+19 where a royalty owner has the brine owners of record have, through
+20 lease or other agreement, previously consented to have the unit
+21 boundaries and the allocation formula established by the Commission,
+22 said such lease or other agreement shall be deemed to be such
+23 royalty owner’s the brine owners’ authorization to unitize, and no
+24 additional signature, ratification, or approval shall be necessary
+SENATE FLOOR VERSION - SB1930 SFLR Page 18
+(Bold face denotes Committee Amendments)
+
+1 from such owner owners. Where the plan of unitization has not been
+2 so signed, ratified, or approved by lessees and royalty brine owners
+3 of record owning the required percentage interest in and to the
+4 brine production unit area at the time the order creating the unit
+5 is made, the Commission shall hold such additional and supplemental
+6 hearings as may be requested or required to determine if and when
+7 the plan of unitization has been so signed, ratified, or approved by
+8 lessees and royalty brine owners of record owning the required
+9 percentage interest in and to the brine production unit area and
+10 shall, in respect to such hearings, make and enter a finding of its
+11 determination in such regard. In the event lessees or royalty brine
+12 owners, or either, of record owning the required percentage interest
+13 in and to the brine production unit area have not so signed,
+14 ratified, or approved the plan of unitization within a period of six
+15 (6) months from and after the date on which the order creating the
+16 brine production unit is made, the order creating the unit shall be
+17 deemed vacated and of no force and effect. The provisions of this
+18 subsection are hereby expressly made inapplicable to the formation
+19 of a produced water unit.
+20 C. A participating brine owner shall have a one-time election
+21 to sell, and any brine owner in the unit with brine refining
+22 equipment shall have the obligation to buy, the brine produced from
+23 the unit at the value determined by the Commission; provided,
+24 however, nothing herein shall require the purchasing brine owner to
+SENATE FLOOR VERSION - SB1930 SFLR Page 19
+(Bold face denotes Committee Amendments)
+
+1 purc hase brine when it is not producing brine from the unit for its
+2 own account.
+3 D. 1. Upon the filing of an application for the establishment
+4 of a produced water unit and prior to the Commission’s adjudication
+5 of such application, the proposed operator of the unit may seek
+6 emergency relief at the Commission for the immediate production,
+7 commercial extraction, and sale of constituent elements from
+8 produced water derived from the associated oil or gas well, and the
+9 Commission shall grant such relief upon a showing that such
+10 emergency relief is reasonable and necessary under the established
+11 facts and circumstances.
+12 2. The proposed operator shall have the right to collect all
+13 proceeds from the sale of brine or its constituent elements prior to
+14 the entry of a final order establishing the produced water unit,
+15 provided that a set royalty shall be held in suspense by the
+16 proposed operator for the benefit of any unleased brine owners
+17 within the proposed produced water unit until the Commission enters
+18 a final order establishing the produced water unit. Such royalty
+19 rate shall be set at the prevailing fair market value rate, which
+20 shall be determined by evidence of the highest royalty paid for
+21 arm’s length negotiated brine leases within the produced water unit
+22 and any other adjoining produced water unit.
+23 SECTION 8. AMENDATORY 17 O.S. 2021, Section 510, is
+24 amended to read as follows:
+SENATE FLOOR VERSION - SB1930 SFLR Page 20
+(Bold face denotes Committee Amendments)
+
+1 Section 510. A. The Corporation Commission shall have
+2 jurisdiction to increase the size of an existing brine production
+3 unit or produced water unit area where it is shown, upon proper
+4 application, notice, and hearing, that:
+5 1. Land adjacent to the existing unit is underlain by the same
+6 common source of supply as that found within the unit area; and
+7 2. Inclusion of the additional land will either:
+8 a. increase unit efficiency, or
+9 b. result in greater ultimate recovery of brine or
+10 produced water, or
+11 c. prevent waste; and
+12 3. Inclusion of the additional land is fair, just, and
+13 reasonable, both to parties owning brine or produced water interests
+14 in the additional land and to parties owning interests in the
+15 existing unit; and
+16 4. The requirements of Section 9 508 of this act title have
+17 been met.
+18 B. The Commission shall have jurisdiction to decrease the size
+19 of an existing brine production unit or produced water unit where it
+20 is shown, upon proper application, notice, and hearing, that the
+21 land to be excluded is of no value to the unit because:
+22 1. It is not underlain by the common source of supply; and
+23 2. Its presence does not contribute to more efficient unit
+24 operations, by providing the site for an injection well or wells, or
+SENATE FLOOR VERSION - SB1930 SFLR Page 21
+(Bold face denotes Committee Amendments)
+
+1 by a ssisting in the conduct of waterflood operations, or by
+2 otherwise increasing unit efficiency; and
+3 3. Exclusion of the land is fair, just, and reasonable.
+4 SECTION 9. AMENDATORY 17 O.S. 2021, Section 516, is
+5 amended to read as follows:
+6 Section 516. Sections 2 501 through 16 515 of this act title
+7 shall not have any effect on any existing brine, solution gas, or
+8 brine and solution gas units which have been created voluntarily or
+9 by a judicial decree to the extent such unit was established as of
+10 the date of this act September 1, 1990. Any existing brine or brine
+11 and solution gas unit may be expanded using the provisions of this
+12 act the Oklahoma Brine Development Act.
+13 SECTION 10. AMENDATORY 17 O.S. 2021, Section 517, is
+14 amended to read as follows:
+15 Section 517. A. The proceeds derived from the sale of brine,
+16 produced water, solution gas, or brine and solution gas production
+17 shall be paid to persons legally entitled thereto, commencing no
+18 later than six (6) months after the date of first sale, and
+19 thereafter no later than sixty (60) days after the end of the
+20 calendar month within which proceeds are received for subsequent
+21 production. In those instances where proceeds are not received for
+22 disposition of brine, produced water, solution gas, or brine and
+23 solution gas production due to venting, flaring, use for operations,
+24 nonpayment from purchasers, or any other cause, the time periods
+SENATE FLOOR VERSION - SB1930 SFLR Page 22
+(Bold face denotes Committee Amendments)
+
+1 prev iously specified within which any required payment shall be paid
+2 to the persons legally entitled thereto shall be measured from the
+3 date on which such venting, flaring, use for operations, nonpayment,
+4 or other event occurred. Provided, proceeds from the sale of brine,
+5 produced water, and solution gas from lands covered by a pending
+6 application for unitization pursuant to this act the Oklahoma Brine
+7 Development Act shall be paid to persons legally entitled thereto
+8 within six (6) months from the entry of a final order of
+9 unitization, together with interest thereon at the rate of six
+10 percent (6%) per annum to be compounded annually, calculated from
+11 the date of first sale after the filing of the application for
+12 unitization. Such payment is to be made to persons entitled thereto
+13 by the operator of such production. Provided, such operator may
+14 remit to the persons entitled to such proceeds from production
+15 semiannually for the aggregate of six (6) months’ accumulation of
+16 monthly proceeds of amounts less than Twenty-five Dollars ($25.00).
+17 Further provided, that any delay in determining the persons legally
+18 entitled to an interest in such proceeds from production caused by
+19 unmarketable title to such interest shall not affect payments to
+20 persons whose title is marketable. Provided, however, that in those
+21 instances where such proceeds cannot be paid because the title
+22 thereto is not marketable, the operator of such production shall
+23 cause all proceeds due such interest to earn interest at the rate of
+24 six percent (6%) per annum to be compounded annually, calculated
+SENATE FLOOR VERSION - SB1930 SFLR Page 23
+(Bold face denotes Committee Amendments)
+
+1 from the last day of the production month, until such time as the
+2 title to such interest has been perfected. Marketability of title
+3 shall be determined in accordance with the then current title
+4 examination standards of the Oklahoma Bar Association.
+5 B. The following information shall be included with each
+6 payment made to a brine owner from the sale of brine:
+7 1. Unit identification;
+8 2. Month and year of sales included in the payment;
+9 3. Total volume of production from the unit of brine, produced
+10 water, or solution gas and, in the case of a brine production unit,
+11 the concentration of chemical substances contained therein and
+12 volumes extracted therefrom;
+13 4. Owner’s interest, expressed as a decimal, in production from
+14 the unit;
+15 5. Total value of extracted chemical substances and solution
+16 gas, including the price per unit of measurement at which the
+17 products were sold;
+18 6. Owner’s share of the total value of sales prior to any
+19 deductions;
+20 7. Owner’s share of the total value of sales after any
+21 deductions; and
+22 8. A specific detailed listing of the amount and purpose of any
+23 deductions, including, but not limited to, BTU adjustments and
+24 taxes, from the gross proceeds due to the owner.
+SENATE FLOOR VERSION - SB1930 SFLR Page 24
+(Bold face denotes Committee Amendments)
+
+1 C. Any operator that violates this section shall be liable to
+2 the persons legally entitled to the proceeds from production for the
+3 unpaid amount of such proceeds with interest thereon at the rate of
+4 twelve percent (12%) per annum to be compounded annually, calculated
+5 from the last day of the production month.
+6 D. The district court for the county in which the unit is
+7 located shall have jurisdiction over all proceedings brought
+8 pursuant to this section. The prevailing party in any proceeding
+9 brought pursuant to this section shall be entitled to recover any
+10 court costs and reasonable expert witness and attorney’s attorney
+11 fees.
+12 SECTION 11. AMENDATORY 17 O.S. 2021, Section 519, is
+13 amended to read as follows:
+14 Section 519. Before entering upon a site for brine well
+15 drilling, except in instances where there are non-state resident
+16 surface owners, non-state resident surface tenants, unknown heirs,
+17 imperfect titles, surface owners, or surface tenants whose
+18 whereabouts cannot be ascertained with reasonable diligence, the
+19 operator shall give to the surface owner a written notice of his or
+20 her intent to drill containing a designation of the proposed
+21 location and the approximate date that the operator proposes to
+22 commence drilling.
+23 Such notice shall be given in writing by certified mail to the
+24 surface owner. If the operator makes an affidavit that he or she
+SENATE FLOOR VERSION - SB1930 SFLR Page 25
+(Bold face denotes Committee Amendments)
+
+1 has conducted a search with reasonable diligence and the whereabouts
+2 of the surface owner cannot be ascertained or such notice cannot be
+3 delivered, then constructive notice of the intent to drill may be
+4 given in the same manner as provided for the notice of proceedings
+5 to appoint appraisers set forth in Section 22 521 of this act title.
+6 Within five (5) days of the date of delivery or service of the
+7 notice of intent to drill, it shall be the duty of the operator and
+8 the surface owner to enter into good faith good-faith negotiations
+9 to determine the surface damages.
+10 The provisions of Sections 519 through 522 of this title are
+11 hereby expressly made inapplicable to the formation of a produced
+12 water unit.
+13 SECTION 12. This act shall become effective November 1, 2026.
+14 COMMITTEE REPORT BY: COMMITTEE ON ENERGY
+February 26, 2026 - DO PASS AS AMENDED BY CS
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB1930 SFLR Page 26
+(Bold face denotes Committee Amendments)
+
+[DELETED: P B G]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P a p p]
+[DELETED: P i a]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P i r p]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]

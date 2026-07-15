@@ -1,0 +1,949 @@
+Title: BILL NO. 2063 By: Murdock of the Senate
+Official Title: BILL NO. 2063 By: Murdock of the Senate
+Number of Sections: 1
+Source: versions - Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+1 ENGR OSSED SENATE
+2
+and
+3
+Archer of the House
+4
+5
+6 An Act relating to the Uniform Unclaimed Property
+Act; amending 60 O.S. 2021, Section 651, as amended
+7 by Section 1, Chapter 421, O.S.L. 2025 (60 O.S. Supp.
+2025, Section 651), which relates to definitions;
+8 modifying definition; amending 60 O.S. 2021, Section
+668, as last amended by Section 3, Chapter 421,
+9 O.S.L. 2025 (60 O.S. Supp. 2025, Section 668), which
+relates to the Unclaimed Property Fund; modifying
+10 required information to be filed with deposits;
+requiring certain information to be made available on
+11 a public website; permitting requests for certain
+information; requiring the State Treasurer make
+12 certain information available at the end of each
+fiscal year; amending 60 O.S. 2021, Section 674, as
+13 amended by Section 4, Chapter 421, O.S.L. 2025 (60
+O.S. Supp. 2025, Section 674), which relates to
+14 claims of abandoned property; authorizing the State
+Treasurer to request additional information in
+15 certain circumstances; authorizing claimants to
+request a hearing in certain circumstances; requiring
+16 the State Treasurer to respond to requests within
+certain time period; modifying permissible documents
+17 to be filed with a claim; updating statutory
+language; updating statutory references; and
+18 providing an effective date.
+19
+20
+21 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+22 SECTION 1. AMENDATORY 60 O.S. 2021, Section 651, as
+23 amended by Section 1, Chapter 421, O.S.L. 2025 (60 O.S. Supp. 2025,
+24 Section 651), is amended to read as follows:
+ENGR. S. B. NO. 2063 Page 1
+1 Section 651. As used in the Uniform Unclaimed Property Act,
+2 unless the context otherwise requires:
+3 1. “Apparent owner” means the person whose name appears on the
+4 records of the holder as the person entitled to property held,
+5 issued, or owing by the holder;
+6 2. “Attorney General” means the chief legal officer of this
+7 state;
+8 3. “Banking organization” means any bank, trust company,
+9 savings bank, safe deposit company, private banker, or any
+10 organization defined by other law as a bank or banking organization;
+11 4. “Business association” means a non-public nonpublic
+12 corporation, joint-stock company, investment company, business
+13 trust, partnership, or association for business purposes of two or
+14 more individuals whether or not for profit, including a banking
+15 organization, financial organization, insurance company, or utility;
+16 5. “Claimant” means a person who claims an interest in
+17 unclaimed property in the custody of the State Treasurer;
+18 6. “Claimant’s representative” means a person who has been
+19 hired by a claimant to file an unclaimed property claim on behalf of
+20 a claimant pursuant to a written agreement, including a duly
+21 executed power of attorney;
+22 7. “Domicile” means the state of incorporation of a corporation
+23 and the state of the principal place of business of an
+24 unincorporated person;
+ENGR. S. B. NO. 2063 Page 2
+1 8. “Financial organization” means a savings and loan
+2 association, building and loan association, or credit union;
+3 9. “Holder” means a person, wherever organized or domiciled,
+4 who is:
+5 a. in possession of property belonging to another,
+6 b. a trustee, or
+7 c. indebted to another on an obligation;
+8 10. “Insurance company” means an association, corporation,
+9 fraternal or mutual benefit organization, whether or not for profit,
+10 which is engaged in providing insurance coverage, including
+11 accidental, burial, casualty, credit life, contract performance,
+12 dental, fidelity, fire, health, hospitalization, illness, life
+13 (including including endowments and annuities) annuities,
+14 malpractice, marine, mortgage, surety, and wage protection
+15 insurance;
+16 11. “Intangible property” includes:
+17 a. money, checks, drafts, deposits, interest, dividends,
+18 and income,
+19 b. credit balances, customer overpayments, security
+20 deposits, refunds, credit memos, unpaid wages, unused
+21 airline tickets, and unidentified remittances,
+22 c. stocks and other intangible ownership interests in
+23 business associations,
+24
+ENGR. S. B. NO. 2063 Page 3
+1 d. monies deposited to redeem stocks, bonds, coupons, and
+2 other securities, or to make distributions,
+3 e. amounts due and payable under the terms of insurance
+4 policies, and
+5 f. amounts distributable from a trust or custodial fund
+6 established under a plan to provide health, welfare,
+7 pension, vacation, severance, retirement, death, stock
+8 purchase, profit sharing, employee savings,
+9 supplemental unemployment insurance, education or
+10 similar benefits;
+11 12. “Last-known address” means a description of the location of
+12 the apparent owner sufficient for the purpose of the delivery of
+13 mail;
+14 13. “Memorandum” shall include a mark, symbol or statement
+15 indicating knowledge of or interest in funds on deposit;
+16 14. “Mineral proceeds” includes:
+17 a. all obligations to pay mineral proceeds resulting from
+18 the production and sale of minerals, including net
+19 revenue interest, royalties, overriding royalties,
+20 production payments, and payments under joint
+21 operating agreements, and
+22 b. all obligations for the acquisition and retention of a
+23 mineral lease, including bonuses, delay rentals, shut-
+24 in royalties, and minimum royalties;
+ENGR. S. B. NO. 2063 Page 4
+1 15. “Museum” means an institution which is located in this
+2 state and operated by a nonprofit corporation or a public agency
+3 primarily for educational, scientific, historic preservation or
+4 aesthetic purposes, and which owns, borrows, cares for, exhibits,
+5 studies, archives, or catalogues property. “Museum” Museum
+6 includes, but is not limited to, historical societies, historical
+7 sites or landmarks, parks, monuments and libraries;
+8 16. “Owner” means a depositor in the case of a deposit, a
+9 beneficiary in case of a trust other than a deposit in trust, a
+10 creditor, claimant, or payee in the case of other intangible
+11 property, or a person having a legal or equitable interest in
+12 property or the person’s legal representative. Where more than one
+13 person is an owner, the property shall not be presumed abandoned
+14 unless it has remained unclaimed by all of its owners for the
+15 periods hereinafter prescribed;
+16 17. “Person” means an individual, business association, state
+17 or other government, governmental subdivision or agency, public
+18 corporation, public authority, estate, trust, two or more persons
+19 having a joint or common interest, or any other legal or commercial
+20 entity;
+21 18. “State” means any state, district, commonwealth, territory,
+22 insular possession, or other area subject to the legislative
+23 authority of the United States;
+24
+ENGR. S. B. NO. 2063 Page 5
+1 19. “State Treasurer” or “Treasurer” means the duly elected and
+2 acting State Treasurer of Oklahoma;
+3 20. “Tax Commission” or “Commission” means the Oklahoma Tax
+4 Commission;
+5 21. “Utility” means a person who owns or operates for public
+6 use any plant, equipment, property, franchise, or license for the
+7 transmission of communications, or the production, storage,
+8 transmission, sale, delivery, or furnishing of electricity, water,
+9 steam, or gas; and
+10 22. “Written agreement” means a legally binding document
+11 between a claimant and the claimant’s representative outlining the
+12 terms and conditions of the agreement. It provides a clear record
+13 of the agreement, specifying each party’s rights, responsibilities,
+14 and obligations, which authorizes the claimant’s representative to
+15 claim and recover unclaimed property in the custody of the State
+16 Treasurer on behalf of the claimant. The agreement may include an
+17 authorization that directs the State Treasurer to remit payment of
+18 fees due to the claimant’s representative subject to the provisions
+19 of this title.
+20 SECTION 2. AMENDATORY 60 O.S. 2021, Section 668, as last
+21 amended by Section 3, Chapter 421, O.S.L. 2025 (60 O.S. Supp. 2025,
+22 Section 668), is amended to read as follows:
+23 Section 668. A. There is hereby created in the State Treasury
+24 the “Unclaimed Property Fund”, the principal of which shall
+ENGR. S. B. NO. 2063 Page 6
+1 cons titute a trust fund for persons claiming any interest in any
+2 property delivered to the state under the Uniform Unclaimed Property
+3 Act and may be invested as provided in the Uniform Unclaimed
+4 Property Act and shall not be expended except as provided in the
+5 Uniform Unclaimed Property Act. All funds received under the
+6 Uniform Unclaimed Property Act, including the proceeds from the sale
+7 of abandoned property under Section 667 of this title, shall
+8 forthwith be deposited by the State Treasurer in the Unclaimed
+9 Property Fund, except that the State Treasurer may before making any
+10 deposit to the fund deduct:
+11 1. All costs in connection with the sale of abandoned property;
+12 2. All costs of mailing and publication in connection with any
+13 abandoned property including the cost of custody services for
+14 unclaimed securities;
+15 3. Reasonable service charges not to exceed four percent (4%)
+16 of the monies accruing to the state under the Uniform Unclaimed
+17 Property Act, which may be used to defray the administrative costs,
+18 including costs necessary to retain legal counsel to ensure
+19 compliance with the Uniform Unclaimed Property Act, or to acquire
+20 computer hardware and software to be used exclusively to help
+21 administer the unclaimed property program;
+22 4. An amount equal to fifteen percent (15%) of the funds
+23 accruing to the state pursuant to a contract with the State
+24 Treasurer providing information leading to the delivery of unclaimed
+ENGR. S. B. NO. 2063 Page 7
+1 prop erty held by a holder to the State Treasurer to be deposited in
+2 the Unclaimed Property Clearinghouse Fund; and
+3 5. An amount not to exceed twenty-five percent (25%) of the
+4 value of the funds in an action to enforce the Uniform Unclaimed
+5 Property Act, which is to be used solely to pay attorney fees to any
+6 person who was authorized by the State Treasurer to bring the
+7 action.
+8 B. Before making a deposit to the Unclaimed Property Fund, the
+9 State Treasurer shall record the for every deposit and for each
+10 person appearing on the holders’ reports to be entitled to the
+11 abandoned property:
+12 1. The name, last-known address of each person appearing from
+13 the holders’ reports, property type, unclaimed property
+14 identification code, relation code, date of last activity, reported
+15 year, holder name, and amount, due;
+16 2. For securities, the number of shares of securities, and name
+17 of the securities issuer or stock ticker symbol to be entitled to
+18 the abandoned property and of the name and last-known address of
+19 each; and
+20 3. For insurance and annuities, the information described in
+21 paragraph 1 of this subsection shall be recorded for the insured
+22 person or annuitant, and the beneficiary, if known, and include,
+23 with respect to each policy or contract listed in the report of a
+24 life insurance corporation, its number, the name of the corporation,
+ENGR. S. B. NO. 2063 Page 8
+1 and the amount due. After a period of twelve (12) months has
+2 elapsed, the record
+3 C. Records created pursuant to subsection B of this section
+4 shall be available for public inspection during normal business
+5 hours. All account information described in this section shall be
+6 made available on the website described in subsection D of this
+7 section immediately upon deposit.
+8 D. In addition to the report required by subsection B of this
+9 section, the following unclaimed property information shall be made
+10 available on a public website hosted by the State Treasurer for all
+11 reported accounts that have not yet been returned for each person on
+12 the holders’ reports appearing to have an interest in the abandoned
+13 property:
+14 1. The name of the apparent owner;
+15 2. The complete last-known address of the apparent owner as
+16 reported by the holder;
+17 3. The relationship code, if any;
+18 4. The type of property and the cash value of the property;
+19 5. If the property is securities or mutual fund shares, the
+20 number of shares and the stock ticker symbol or fund name, if
+21 reported;
+22 6. The year the property was reported to the State Treasurer;
+23 7. The name and contact information of the holder;
+24
+ENGR. S. B. NO. 2063 Page 9
+1 8. If applicable, a general description of the safe deposit box
+2 contents and the liquidation amount; and
+3 9. The last date of contact with the apparent owner.
+4 E. A copy of the information referenced in subsection D of this
+5 section may be obtained in a searchable digital format from the
+6 State Treasurer by written request or downloaded from the public
+7 website. Requests for information and downloads may be made at any
+8 time. The State Treasurer shall ensure that every searchable format
+9 and every download from the public website contains all required
+10 account information available at the time of the request. At no
+11 time shall the information provided by the State Treasurer be more
+12 than fourteen (14) days old.
+13 F. At the end of each fiscal year, the State Treasurer shall
+14 cause the total dollar amount of all property remitted to the State
+15 Treasurer and the total dollar amount of all property returned to
+16 owners to be posted to the public website described in subsection D
+17 of this section.
+18 G. Subsections B and F of this section shall apply on or after
+19 the effective date of this act and subsection D of this section
+20 shall apply retroactively.
+21 SECTION 3. AMENDATORY 60 O.S. 2021, Section 674, as
+22 amended by Section 4, Chapter 421, O.S.L. 2025 (60 O.S. Supp. 2025,
+23 Section 674), is amended to read as follows:
+24
+ENGR. S. B. NO. 2063 Page 10
+1 Section 674. A. A person, excluding another state, but
+2 including a claimant’s representative, claiming an interest in any
+3 property paid or delivered to the State Treasurer may file with the
+4 State Treasurer a claim on a form prescribed by the State Treasurer
+5 and verified by the claimant or the claimant’s representative. The
+6 date of filing of a claim shall be the date it is received by the
+7 State Treasurer with all supporting documentation from the claimant
+8 or the claimant’s representative. Any information submitted by a
+9 claimant which is required to be submitted to the State Treasurer to
+10 establish a claim may be kept confidential by the State Treasurer if
+11 it contains personal financial information of the claimant, personal
+12 identifying information such as the address, date of birth,
+13 telephone number or email electronic mail address of the claimant,
+14 Social Security numbers, birth certificates or similar documents
+15 related to the parentage of an individual, or any other document
+16 which is confidential by statute if in the custody of another public
+17 agency or person. Failure to use the claim form prescribed by the
+18 State Treasurer shall void the claim. The claim form shall require
+19 information the State Treasurer believes to be reasonably necessary
+20 to administer the requirements of this section, including, but not
+21 limited to:
+22 1. A legible copy of the claimant’s valid driver license;
+23 2. If the claimant has not been issued a valid driver license
+24 at the time the original claim form is filed, a legible copy of a
+ENGR. S. B. NO. 2063 Page 11
+1 phot ographic identification card of the claimant issued by the
+2 United States or a state or territory of the United States, a valid
+3 passport or national identification card issued by a foreign nation,
+4 or other evidence deemed acceptable by the State Treasurer; and
+5 3. For claims submitted by a claimant’s representative, a duly
+6 executed copy of the written agreement between the claimant and the
+7 claimant’s representative, including a duly executed power of
+8 attorney.
+9 B. The State Treasurer may waive the requirements in subsection
+10 A of this section and may pay or deliver property directly to a
+11 person if:
+12 1. The person receiving the payment or property is shown to be
+13 the apparent owner included on a report filed under this title; and
+14 2. The State Treasurer reasonably believes the person is
+15 entitled to receive the payment or property and has validated the
+16 identity and address of the person receiving the payment or
+17 property.
+18 C. The State Treasurer may request that the claimant or, if the
+19 person is utilizing the services of a claimant’s representative, the
+20 claimant’s representative provide additional information to support
+21 a claim within ninety (90) days of receipt of a claim, or a claimant
+22 or the claimant’s representative response to the State Treasurer’s
+23 request for additional information, whichever is later. The State
+24 Treasurer shall consider determine each claim within ninety (90)
+ENGR. S. B. NO. 2063 Page 12
+1 days after it is filed and give written notice of the claim
+2 determination to the claimant and, if the person is utilizing the
+3 service of a claimant’s representative, to the claimant’s
+4 representative if the claim is denied in whole or in part. The
+5 notice may be given by email electronic mail notification or by
+6 mailing it to the claimant’s representative, if any, and to the
+7 claimant’s last-known address, if any, as stated in the claim as the
+8 address to which notices are to be sent. If no address for notices
+9 is stated in the claim, the notice may be mailed to the last-known
+10 address, if any, of the claimant as stated in the claim. No notice
+11 of denial need be given if the claim fails to state either the last-
+12 known address to which notices are to be sent or the address of the
+13 claimant. A claimant or claimant’s representative may request a
+14 hearing under the Administrative Procedures Act after a claim is
+15 denied, ninety (90) days have passed after filing a claim if no
+16 determination has been rendered, or a request for additional
+17 information is received from the State Treasurer. The State
+18 Treasurer shall respond to any request for a hearing within thirty
+19 (30) days of receipt of the request with a notice of rights under
+20 the Administrative Procedures Act.
+21 D. If a claim submitted by the claimant is approved, the State
+22 Treasurer shall pay over or deliver to the claimant the property or
+23 the amount the State Treasurer actually received or the net proceeds
+24 if it has been sold by the State Treasurer, together with any
+ENGR. S. B. NO. 2063 Page 13
+1 addi tional amount required by Section 665 of this title, but no
+2 person shall have any claim under this section against the state,
+3 the holder, any transfer agent, registrar or other person acting for
+4 or on behalf of the state or a holder, for any appreciation or
+5 depreciation in the value of the property or any earnings that might
+6 otherwise accrue, after sale of the property by the State Treasurer.
+7 E. 1. If a claim submitted by a claimant’s representative is
+8 approved, the State Treasurer shall pay or deliver to the claimant
+9 the balance remaining after deduction and payment of the amount due
+10 to the claimant’s representative by the State Treasurer; provided,
+11 however, that any payments made directly to the claimant’s
+12 representative shall be made only pursuant to the terms of the
+13 written agreement between the claimant and the claimant’s
+14 representative that was submitted with the claim.
+15 2. The State Treasurer is authorized to make distribution of
+16 the property or money in accordance with the terms of the agreement.
+17 3. Payments of fees and costs to the claimant’s representative
+18 shall be made by paper check or other means approved by the State
+19 Treasurer on such periodic schedule as the State Treasurer may
+20 define; provided, however, payment for approved claims shall be made
+21 to both the claimant and the claimant’s representative within sixty
+22 (60) days of approval.
+23 F. The contents of safe deposit boxes shall be released
+24 directly to the claimant, claimant’s representative, or to a
+ENGR. S. B. NO. 2063 Page 14
+1 comm ercial carrier as provided in the written agreement if
+2 authorized in writing by the claimant. Any lien owed to the lessor
+3 of the safe deposit box shall be satisfied before the contents of
+4 the safe deposit box shall be released. At the claimant or
+5 claimant’s representative’s option, any lien owed to the lessor of
+6 the safe deposit box shall be deducted from the value of the
+7 contents of the safe deposit box obtained at the next scheduled
+8 auction with the remaining value to be distributed in accordance
+9 with this section.
+10 G. The State Treasurer shall maintain an electronic copy of all
+11 records related to the property received by the State Treasurer.
+12 Such records shall be retained pursuant to the State Treasurer’s
+13 retention schedules as provided by Title 67 of the Oklahoma
+14 Statutes.
+15 H. The State Treasurer shall consider any claim filed under
+16 this act section and Sections 651, 657.3, 668, 674.1, and 674.2 of
+17 this title and, in rendering a determination on the merits of any
+18 such claim, shall rely on the applicable statutes, regulations, and
+19 relevant court decisions and may hold a hearing and receive evidence
+20 concerning the claim. If a hearing is held, the State Treasurer
+21 shall prepare a finding and a decision in writing on each claim
+22 filed, stating the substance of any evidence heard and the reasons
+23 for the decision. The decision shall be a public record.
+24
+ENGR. S. B. NO. 2063 Page 15
+1 I. If the claim is approved, the State Treasurer shall make
+2 payment pursuant to this section. The claim shall be paid without
+3 deduction for costs of notice. If a claim is denied, the State
+4 Treasurer may hold a hearing and receive evidence concerning any
+5 unclaimed property claim filed under this act section and Sections
+6 651, 657.3, 668, 674.1, and 674.2 of this title. If a hearing is
+7 held, the State Treasurer, or his or her representative, shall
+8 consider evidence that would be admissible in contested cases under
+9 the Administrative Procedures Act. In any proceeding for
+10 determination of a claim to property, the burden shall be upon the
+11 claimant, or the claimant’s representative, including a claimant’s
+12 representative, to establish entitlement to the property by a
+13 preponderance of evidence.
+14 J. If a hearing is held, the State Treasurer, or his or her
+15 representative, shall prepare a finding and a decision in writing on
+16 each claim filed, stating the substance of any evidence heard by him
+17 or her and the reasons for his or her decision. The decision shall
+18 be a public record and deemed the final agency decision.
+19 K. If the claim is approved, the State Treasurer shall make
+20 payment pursuant to paragraph 2 of subsection E of this section.
+21 Claims shall be paid without deduction for costs of notice.
+22 SECTION 4. This act shall become effective November 1, 2026.
+23
+24
+ENGR. S. B. NO. 2063 Page 16
+1 Passed the Senate the 23rd day of March, 2026.
+2
+3
+Presiding Officer of the Senate
+4
+5 Passed the House of Representatives the ____ day of __________,
+6 2026.
+7
+8
+Presiding Officer of the House
+9 of Representatives
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+ENGR. S. B. NO. 2063 Page 17
+[DELETED:  P B M  a A]
+[DELETED:  P]
+[DELETED:  P i a i m c s]
+[DELETED:  P m a a a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPPo]
+
+
+================================================================================
+
+Raw Text:
+1 ENGR OSSED SENATE
+BILL NO. 2063 By: Murdock of the Senate
+2
+and
+3
+Archer of the House
+4
+5
+6 An Act relating to the Uniform Unclaimed Property
+Act; amending 60 O.S. 2021, Section 651, as amended
+7 by Section 1, Chapter 421, O.S.L. 2025 (60 O.S. Supp.
+2025, Section 651), which relates to definitions;
+8 modifying definition; amending 60 O.S. 2021, Section
+668, as last amended by Section 3, Chapter 421,
+9 O.S.L. 2025 (60 O.S. Supp. 2025, Section 668), which
+relates to the Unclaimed Property Fund; modifying
+10 required information to be filed with deposits;
+requiring certain information to be made available on
+11 a public website; permitting requests for certain
+information; requiring the State Treasurer make
+12 certain information available at the end of each
+fiscal year; amending 60 O.S. 2021, Section 674, as
+13 amended by Section 4, Chapter 421, O.S.L. 2025 (60
+O.S. Supp. 2025, Section 674), which relates to
+14 claims of abandoned property; authorizing the State
+Treasurer to request additional information in
+15 certain circumstances; authorizing claimants to
+request a hearing in certain circumstances; requiring
+16 the State Treasurer to respond to requests within
+certain time period; modifying permissible documents
+17 to be filed with a claim; updating statutory
+language; updating statutory references; and
+18 providing an effective date.
+19
+20
+21 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+22 SECTION 1. AMENDATORY 60 O.S. 2021, Section 651, as
+23 amended by Section 1, Chapter 421, O.S.L. 2025 (60 O.S. Supp. 2025,
+24 Section 651), is amended to read as follows:
+ENGR. S. B. NO. 2063 Page 1
+
+1 Section 651. As used in the Uniform Unclaimed Property Act,
+2 unless the context otherwise requires:
+3 1. “Apparent owner” means the person whose name appears on the
+4 records of the holder as the person entitled to property held,
+5 issued, or owing by the holder;
+6 2. “Attorney General” means the chief legal officer of this
+7 state;
+8 3. “Banking organization” means any bank, trust company,
+9 savings bank, safe deposit company, private banker, or any
+10 organization defined by other law as a bank or banking organization;
+11 4. “Business association” means a non-public nonpublic
+12 corporation, joint-stock company, investment company, business
+13 trust, partnership, or association for business purposes of two or
+14 more individuals whether or not for profit, including a banking
+15 organization, financial organization, insurance company, or utility;
+16 5. “Claimant” means a person who claims an interest in
+17 unclaimed property in the custody of the State Treasurer;
+18 6. “Claimant’s representative” means a person who has been
+19 hired by a claimant to file an unclaimed property claim on behalf of
+20 a claimant pursuant to a written agreement, including a duly
+21 executed power of attorney;
+22 7. “Domicile” means the state of incorporation of a corporation
+23 and the state of the principal place of business of an
+24 unincorporated person;
+ENGR. S. B. NO. 2063 Page 2
+
+1 8. “Financial organization” means a savings and loan
+2 association, building and loan association, or credit union;
+3 9. “Holder” means a person, wherever organized or domiciled,
+4 who is:
+5 a. in possession of property belonging to another,
+6 b. a trustee, or
+7 c. indebted to another on an obligation;
+8 10. “Insurance company” means an association, corporation,
+9 fraternal or mutual benefit organization, whether or not for profit,
+10 which is engaged in providing insurance coverage, including
+11 accidental, burial, casualty, credit life, contract performance,
+12 dental, fidelity, fire, health, hospitalization, illness, life
+13 (including including endowments and annuities) annuities,
+14 malpractice, marine, mortgage, surety, and wage protection
+15 insurance;
+16 11. “Intangible property” includes:
+17 a. money, checks, drafts, deposits, interest, dividends,
+18 and income,
+19 b. credit balances, customer overpayments, security
+20 deposits, refunds, credit memos, unpaid wages, unused
+21 airline tickets, and unidentified remittances,
+22 c. stocks and other intangible ownership interests in
+23 business associations,
+24
+ENGR. S. B. NO. 2063 Page 3
+
+1 d. monies deposited to redeem stocks, bonds, coupons, and
+2 other securities, or to make distributions,
+3 e. amounts due and payable under the terms of insurance
+4 policies, and
+5 f. amounts distributable from a trust or custodial fund
+6 established under a plan to provide health, welfare,
+7 pension, vacation, severance, retirement, death, stock
+8 purchase, profit sharing, employee savings,
+9 supplemental unemployment insurance, education or
+10 similar benefits;
+11 12. “Last-known address” means a description of the location of
+12 the apparent owner sufficient for the purpose of the delivery of
+13 mail;
+14 13. “Memorandum” shall include a mark, symbol or statement
+15 indicating knowledge of or interest in funds on deposit;
+16 14. “Mineral proceeds” includes:
+17 a. all obligations to pay mineral proceeds resulting from
+18 the production and sale of minerals, including net
+19 revenue interest, royalties, overriding royalties,
+20 production payments, and payments under joint
+21 operating agreements, and
+22 b. all obligations for the acquisition and retention of a
+23 mineral lease, including bonuses, delay rentals, shut-
+24 in royalties, and minimum royalties;
+ENGR. S. B. NO. 2063 Page 4
+
+1 15. “Museum” means an institution which is located in this
+2 state and operated by a nonprofit corporation or a public agency
+3 primarily for educational, scientific, historic preservation or
+4 aesthetic purposes, and which owns, borrows, cares for, exhibits,
+5 studies, archives, or catalogues property. “Museum” Museum
+6 includes, but is not limited to, historical societies, historical
+7 sites or landmarks, parks, monuments and libraries;
+8 16. “Owner” means a depositor in the case of a deposit, a
+9 beneficiary in case of a trust other than a deposit in trust, a
+10 creditor, claimant, or payee in the case of other intangible
+11 property, or a person having a legal or equitable interest in
+12 property or the person’s legal representative. Where more than one
+13 person is an owner, the property shall not be presumed abandoned
+14 unless it has remained unclaimed by all of its owners for the
+15 periods hereinafter prescribed;
+16 17. “Person” means an individual, business association, state
+17 or other government, governmental subdivision or agency, public
+18 corporation, public authority, estate, trust, two or more persons
+19 having a joint or common interest, or any other legal or commercial
+20 entity;
+21 18. “State” means any state, district, commonwealth, territory,
+22 insular possession, or other area subject to the legislative
+23 authority of the United States;
+24
+ENGR. S. B. NO. 2063 Page 5
+
+1 19. “State Treasurer” or “Treasurer” means the duly elected and
+2 acting State Treasurer of Oklahoma;
+3 20. “Tax Commission” or “Commission” means the Oklahoma Tax
+4 Commission;
+5 21. “Utility” means a person who owns or operates for public
+6 use any plant, equipment, property, franchise, or license for the
+7 transmission of communications, or the production, storage,
+8 transmission, sale, delivery, or furnishing of electricity, water,
+9 steam, or gas; and
+10 22. “Written agreement” means a legally binding document
+11 between a claimant and the claimant’s representative outlining the
+12 terms and conditions of the agreement. It provides a clear record
+13 of the agreement, specifying each party’s rights, responsibilities,
+14 and obligations, which authorizes the claimant’s representative to
+15 claim and recover unclaimed property in the custody of the State
+16 Treasurer on behalf of the claimant. The agreement may include an
+17 authorization that directs the State Treasurer to remit payment of
+18 fees due to the claimant’s representative subject to the provisions
+19 of this title.
+20 SECTION 2. AMENDATORY 60 O.S. 2021, Section 668, as last
+21 amended by Section 3, Chapter 421, O.S.L. 2025 (60 O.S. Supp. 2025,
+22 Section 668), is amended to read as follows:
+23 Section 668. A. There is hereby created in the State Treasury
+24 the “Unclaimed Property Fund”, the principal of which shall
+ENGR. S. B. NO. 2063 Page 6
+
+1 cons titute a trust fund for persons claiming any interest in any
+2 property delivered to the state under the Uniform Unclaimed Property
+3 Act and may be invested as provided in the Uniform Unclaimed
+4 Property Act and shall not be expended except as provided in the
+5 Uniform Unclaimed Property Act. All funds received under the
+6 Uniform Unclaimed Property Act, including the proceeds from the sale
+7 of abandoned property under Section 667 of this title, shall
+8 forthwith be deposited by the State Treasurer in the Unclaimed
+9 Property Fund, except that the State Treasurer may before making any
+10 deposit to the fund deduct:
+11 1. All costs in connection with the sale of abandoned property;
+12 2. All costs of mailing and publication in connection with any
+13 abandoned property including the cost of custody services for
+14 unclaimed securities;
+15 3. Reasonable service charges not to exceed four percent (4%)
+16 of the monies accruing to the state under the Uniform Unclaimed
+17 Property Act, which may be used to defray the administrative costs,
+18 including costs necessary to retain legal counsel to ensure
+19 compliance with the Uniform Unclaimed Property Act, or to acquire
+20 computer hardware and software to be used exclusively to help
+21 administer the unclaimed property program;
+22 4. An amount equal to fifteen percent (15%) of the funds
+23 accruing to the state pursuant to a contract with the State
+24 Treasurer providing information leading to the delivery of unclaimed
+ENGR. S. B. NO. 2063 Page 7
+
+1 prop erty held by a holder to the State Treasurer to be deposited in
+2 the Unclaimed Property Clearinghouse Fund; and
+3 5. An amount not to exceed twenty-five percent (25%) of the
+4 value of the funds in an action to enforce the Uniform Unclaimed
+5 Property Act, which is to be used solely to pay attorney fees to any
+6 person who was authorized by the State Treasurer to bring the
+7 action.
+8 B. Before making a deposit to the Unclaimed Property Fund, the
+9 State Treasurer shall record the for every deposit and for each
+10 person appearing on the holders’ reports to be entitled to the
+11 abandoned property:
+12 1. The name, last-known address of each person appearing from
+13 the holders’ reports, property type, unclaimed property
+14 identification code, relation code, date of last activity, reported
+15 year, holder name, and amount, due;
+16 2. For securities, the number of shares of securities, and name
+17 of the securities issuer or stock ticker symbol to be entitled to
+18 the abandoned property and of the name and last-known address of
+19 each; and
+20 3. For insurance and annuities, the information described in
+21 paragraph 1 of this subsection shall be recorded for the insured
+22 person or annuitant, and the beneficiary, if known, and include,
+23 with respect to each policy or contract listed in the report of a
+24 life insurance corporation, its number, the name of the corporation,
+ENGR. S. B. NO. 2063 Page 8
+
+1 and the amount due. After a period of twelve (12) months has
+2 elapsed, the record
+3 C. Records created pursuant to subsection B of this section
+4 shall be available for public inspection during normal business
+5 hours. All account information described in this section shall be
+6 made available on the website described in subsection D of this
+7 section immediately upon deposit.
+8 D. In addition to the report required by subsection B of this
+9 section, the following unclaimed property information shall be made
+10 available on a public website hosted by the State Treasurer for all
+11 reported accounts that have not yet been returned for each person on
+12 the holders’ reports appearing to have an interest in the abandoned
+13 property:
+14 1. The name of the apparent owner;
+15 2. The complete last-known address of the apparent owner as
+16 reported by the holder;
+17 3. The relationship code, if any;
+18 4. The type of property and the cash value of the property;
+19 5. If the property is securities or mutual fund shares, the
+20 number of shares and the stock ticker symbol or fund name, if
+21 reported;
+22 6. The year the property was reported to the State Treasurer;
+23 7. The name and contact information of the holder;
+24
+ENGR. S. B. NO. 2063 Page 9
+
+1 8. If applicable, a general description of the safe deposit box
+2 contents and the liquidation amount; and
+3 9. The last date of contact with the apparent owner.
+4 E. A copy of the information referenced in subsection D of this
+5 section may be obtained in a searchable digital format from the
+6 State Treasurer by written request or downloaded from the public
+7 website. Requests for information and downloads may be made at any
+8 time. The State Treasurer shall ensure that every searchable format
+9 and every download from the public website contains all required
+10 account information available at the time of the request. At no
+11 time shall the information provided by the State Treasurer be more
+12 than fourteen (14) days old.
+13 F. At the end of each fiscal year, the State Treasurer shall
+14 cause the total dollar amount of all property remitted to the State
+15 Treasurer and the total dollar amount of all property returned to
+16 owners to be posted to the public website described in subsection D
+17 of this section.
+18 G. Subsections B and F of this section shall apply on or after
+19 the effective date of this act and subsection D of this section
+20 shall apply retroactively.
+21 SECTION 3. AMENDATORY 60 O.S. 2021, Section 674, as
+22 amended by Section 4, Chapter 421, O.S.L. 2025 (60 O.S. Supp. 2025,
+23 Section 674), is amended to read as follows:
+24
+ENGR. S. B. NO. 2063 Page 10
+
+1 Section 674. A. A person, excluding another state, but
+2 including a claimant’s representative, claiming an interest in any
+3 property paid or delivered to the State Treasurer may file with the
+4 State Treasurer a claim on a form prescribed by the State Treasurer
+5 and verified by the claimant or the claimant’s representative. The
+6 date of filing of a claim shall be the date it is received by the
+7 State Treasurer with all supporting documentation from the claimant
+8 or the claimant’s representative. Any information submitted by a
+9 claimant which is required to be submitted to the State Treasurer to
+10 establish a claim may be kept confidential by the State Treasurer if
+11 it contains personal financial information of the claimant, personal
+12 identifying information such as the address, date of birth,
+13 telephone number or email electronic mail address of the claimant,
+14 Social Security numbers, birth certificates or similar documents
+15 related to the parentage of an individual, or any other document
+16 which is confidential by statute if in the custody of another public
+17 agency or person. Failure to use the claim form prescribed by the
+18 State Treasurer shall void the claim. The claim form shall require
+19 information the State Treasurer believes to be reasonably necessary
+20 to administer the requirements of this section, including, but not
+21 limited to:
+22 1. A legible copy of the claimant’s valid driver license;
+23 2. If the claimant has not been issued a valid driver license
+24 at the time the original claim form is filed, a legible copy of a
+ENGR. S. B. NO. 2063 Page 11
+
+1 phot ographic identification card of the claimant issued by the
+2 United States or a state or territory of the United States, a valid
+3 passport or national identification card issued by a foreign nation,
+4 or other evidence deemed acceptable by the State Treasurer; and
+5 3. For claims submitted by a claimant’s representative, a duly
+6 executed copy of the written agreement between the claimant and the
+7 claimant’s representative, including a duly executed power of
+8 attorney.
+9 B. The State Treasurer may waive the requirements in subsection
+10 A of this section and may pay or deliver property directly to a
+11 person if:
+12 1. The person receiving the payment or property is shown to be
+13 the apparent owner included on a report filed under this title; and
+14 2. The State Treasurer reasonably believes the person is
+15 entitled to receive the payment or property and has validated the
+16 identity and address of the person receiving the payment or
+17 property.
+18 C. The State Treasurer may request that the claimant or, if the
+19 person is utilizing the services of a claimant’s representative, the
+20 claimant’s representative provide additional information to support
+21 a claim within ninety (90) days of receipt of a claim, or a claimant
+22 or the claimant’s representative response to the State Treasurer’s
+23 request for additional information, whichever is later. The State
+24 Treasurer shall consider determine each claim within ninety (90)
+ENGR. S. B. NO. 2063 Page 12
+
+1 days after it is filed and give written notice of the claim
+2 determination to the claimant and, if the person is utilizing the
+3 service of a claimant’s representative, to the claimant’s
+4 representative if the claim is denied in whole or in part. The
+5 notice may be given by email electronic mail notification or by
+6 mailing it to the claimant’s representative, if any, and to the
+7 claimant’s last-known address, if any, as stated in the claim as the
+8 address to which notices are to be sent. If no address for notices
+9 is stated in the claim, the notice may be mailed to the last-known
+10 address, if any, of the claimant as stated in the claim. No notice
+11 of denial need be given if the claim fails to state either the last-
+12 known address to which notices are to be sent or the address of the
+13 claimant. A claimant or claimant’s representative may request a
+14 hearing under the Administrative Procedures Act after a claim is
+15 denied, ninety (90) days have passed after filing a claim if no
+16 determination has been rendered, or a request for additional
+17 information is received from the State Treasurer. The State
+18 Treasurer shall respond to any request for a hearing within thirty
+19 (30) days of receipt of the request with a notice of rights under
+20 the Administrative Procedures Act.
+21 D. If a claim submitted by the claimant is approved, the State
+22 Treasurer shall pay over or deliver to the claimant the property or
+23 the amount the State Treasurer actually received or the net proceeds
+24 if it has been sold by the State Treasurer, together with any
+ENGR. S. B. NO. 2063 Page 13
+
+1 addi tional amount required by Section 665 of this title, but no
+2 person shall have any claim under this section against the state,
+3 the holder, any transfer agent, registrar or other person acting for
+4 or on behalf of the state or a holder, for any appreciation or
+5 depreciation in the value of the property or any earnings that might
+6 otherwise accrue, after sale of the property by the State Treasurer.
+7 E. 1. If a claim submitted by a claimant’s representative is
+8 approved, the State Treasurer shall pay or deliver to the claimant
+9 the balance remaining after deduction and payment of the amount due
+10 to the claimant’s representative by the State Treasurer; provided,
+11 however, that any payments made directly to the claimant’s
+12 representative shall be made only pursuant to the terms of the
+13 written agreement between the claimant and the claimant’s
+14 representative that was submitted with the claim.
+15 2. The State Treasurer is authorized to make distribution of
+16 the property or money in accordance with the terms of the agreement.
+17 3. Payments of fees and costs to the claimant’s representative
+18 shall be made by paper check or other means approved by the State
+19 Treasurer on such periodic schedule as the State Treasurer may
+20 define; provided, however, payment for approved claims shall be made
+21 to both the claimant and the claimant’s representative within sixty
+22 (60) days of approval.
+23 F. The contents of safe deposit boxes shall be released
+24 directly to the claimant, claimant’s representative, or to a
+ENGR. S. B. NO. 2063 Page 14
+
+1 comm ercial carrier as provided in the written agreement if
+2 authorized in writing by the claimant. Any lien owed to the lessor
+3 of the safe deposit box shall be satisfied before the contents of
+4 the safe deposit box shall be released. At the claimant or
+5 claimant’s representative’s option, any lien owed to the lessor of
+6 the safe deposit box shall be deducted from the value of the
+7 contents of the safe deposit box obtained at the next scheduled
+8 auction with the remaining value to be distributed in accordance
+9 with this section.
+10 G. The State Treasurer shall maintain an electronic copy of all
+11 records related to the property received by the State Treasurer.
+12 Such records shall be retained pursuant to the State Treasurer’s
+13 retention schedules as provided by Title 67 of the Oklahoma
+14 Statutes.
+15 H. The State Treasurer shall consider any claim filed under
+16 this act section and Sections 651, 657.3, 668, 674.1, and 674.2 of
+17 this title and, in rendering a determination on the merits of any
+18 such claim, shall rely on the applicable statutes, regulations, and
+19 relevant court decisions and may hold a hearing and receive evidence
+20 concerning the claim. If a hearing is held, the State Treasurer
+21 shall prepare a finding and a decision in writing on each claim
+22 filed, stating the substance of any evidence heard and the reasons
+23 for the decision. The decision shall be a public record.
+24
+ENGR. S. B. NO. 2063 Page 15
+
+1 I. If the claim is approved, the State Treasurer shall make
+2 payment pursuant to this section. The claim shall be paid without
+3 deduction for costs of notice. If a claim is denied, the State
+4 Treasurer may hold a hearing and receive evidence concerning any
+5 unclaimed property claim filed under this act section and Sections
+6 651, 657.3, 668, 674.1, and 674.2 of this title. If a hearing is
+7 held, the State Treasurer, or his or her representative, shall
+8 consider evidence that would be admissible in contested cases under
+9 the Administrative Procedures Act. In any proceeding for
+10 determination of a claim to property, the burden shall be upon the
+11 claimant, or the claimant’s representative, including a claimant’s
+12 representative, to establish entitlement to the property by a
+13 preponderance of evidence.
+14 J. If a hearing is held, the State Treasurer, or his or her
+15 representative, shall prepare a finding and a decision in writing on
+16 each claim filed, stating the substance of any evidence heard by him
+17 or her and the reasons for his or her decision. The decision shall
+18 be a public record and deemed the final agency decision.
+19 K. If the claim is approved, the State Treasurer shall make
+20 payment pursuant to paragraph 2 of subsection E of this section.
+21 Claims shall be paid without deduction for costs of notice.
+22 SECTION 4. This act shall become effective November 1, 2026.
+23
+24
+ENGR. S. B. NO. 2063 Page 16
+
+1 Passed the Senate the 23rd day of March, 2026.
+2
+3
+Presiding Officer of the Senate
+4
+5 Passed the House of Representatives the ____ day of __________,
+6 2026.
+7
+8
+Presiding Officer of the House
+9 of Representatives
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+ENGR. S. B. NO. 2063 Page 17
+
+[DELETED:  P B M  a A]
+[DELETED:  P]
+[DELETED:  P i a i m c s]
+[DELETED:  P m a a a a]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPPo]
