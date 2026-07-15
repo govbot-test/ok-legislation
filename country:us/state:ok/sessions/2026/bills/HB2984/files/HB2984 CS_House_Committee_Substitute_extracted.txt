@@ -1,0 +1,240 @@
+Title: 4 HOUSE BILL NO. 2984 By: Gise
+Official Title: 4 HOUSE BILL NO. 2984 By: Gise
+Number of Sections: 1
+Source: versions - House Committee Substitute
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 COMMITTEE SUBSTITUTE
+FOR
+5
+6
+7 COMMITTEE SUBSTITUTE
+8 An Act relating to poor persons; directing the
+Department of Human Services to publish annual
+9 report; providing information the report shall
+contain; authorizing the Department to include
+10 contextual information; directing the Department to
+submit the report and make report publicly available
+11 on website; providing that the provisions shall be
+carried out within existing appropriations; providing
+12 that provisions shall not require department to
+create new data systems or hire additional employees;
+13 directing the Department to make reasonable efforts;
+providing for codification; and providing an
+14 effective date.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 271 of Title 56, unless there is
+20 created a duplication in numbering, reads as follows:
+21 A. The Department of Human Services shall, using existing
+22 resources and data already collected by the Department, compile and
+23 publish an annual report regarding program integrity and payment
+24 accuracy within the child care subsidy program administered pursuant
+Req. No. 17055 Page 1
+1 to T itle 56 of the Oklahoma Statutes and Chapter 40 of Title 340 of
+2 the Oklahoma Administrative Code.
+3 B. The purpose of the report shall be to promote
+4 accountability, identify potential improper payments, support high-
+5 quality child care providers, and ensure public funds are directed
+6 to services actually delivered to Oklahoma children and working
+7 families.
+8 C. The report shall, to the extent practicable using existing
+9 data systems, include:
+10 1. The payment error rate for the child care subsidy program,
+11 if such rate is calculated by the Department or required by federal
+12 reporting;
+13 2. The total amount of overpayments identified during the
+14 preceding fiscal year, including those associated with attendance
+15 reporting discrepancies when such information is available;
+16 3. The total amount of overpayments recovered during the
+17 preceding fiscal year;
+18 4. The number of provider investigations completed related to
+19 the child care subsidy program;
+20 5. The number of adverse actions taken against providers,
+21 including suspensions, terminations, or disqualifications;
+22 6. Any trends or risk factors identified by the Department
+23 related to improper payments, including patterns that may indicate
+24 inaccurate attendance reporting or other program vulnerabilities;
+Req. No. 17055 Page 2
+1 7. A summary of education, outreach, or technical assistance
+2 provided by the Department to help child care providers maintain
+3 compliance and avoid improper payments; and
+4 8. The number of current daycare facilities to date, child care
+5 capacity, the number of daycare facilities losses, and child care
+6 capacity loss each year.
+7 D. The Department may include any additional contextual
+8 information necessary to accurately interpret the data provided in
+9 the report and to highlight the performance of providers operating
+10 in good faith compliance with program requirements.
+11 E. The Department shall submit the report to the Governor, the
+12 Speaker of the Oklahoma House of Representatives, and the President
+13 Pro Tempore of the Oklahoma Senate no later than November 1 of each
+14 year and shall make the report publicly available on the
+15 Department's website.
+16 F. The requirements of this section shall be carried out within
+17 existing appropriations and shall not require the Department to
+18 create new data systems or hire additional full-time employees.
+19 G. As part of the annual report required by this section, the
+20 Department shall, using existing licensing and administrative data
+21 to the extent available, include information regarding the supply
+22 and capacity of child care providers in this state, including:
+23 1. The total number of licensed child care facilities operating
+24 in the state during the reporting period;
+Req. No. 17055 Page 3
+1 2. The estimated licensed child care capacity statewide and by
+2 region, to the extent such information is available;
+3 3. The number of licensed child care facilities that opened
+4 during the preceding fiscal year;
+5 4. The number of licensed child care facilities that closed
+6 during the preceding fiscal year;
+7 5. The estimated reduction in licensed child care capacity
+8 associated with such closures, to the extent practicable; and
+9 6. A summary of information obtained by the Department
+10 regarding the primary reasons for provider closures.
+11 H. The Department shall make reasonable efforts, within
+12 existing resources, to contact providers that have closed during the
+13 reporting period to request voluntary feedback regarding the reasons
+14 for closure. Participation by former providers shall be voluntary,
+15 and nothing in this subsection shall be construed to require the
+16 Department to obtain responses in every case.
+17 I. Nothing in this section shall be construed to require the
+18 creation of new data systems or mandatory surveys of providers.
+19 SECTION 2. This act shall become effective November 1, 2026.
+20
+21 60-2-17055 CMA 03/05/26
+22
+23
+24
+Req. No. 17055 Page 4
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 0]
+
+
+================================================================================
+
+Raw Text:
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 COMMITTEE SUBSTITUTE
+FOR
+4 HOUSE BILL NO. 2984 By: Gise
+5
+6
+7 COMMITTEE SUBSTITUTE
+8 An Act relating to poor persons; directing the
+Department of Human Services to publish annual
+9 report; providing information the report shall
+contain; authorizing the Department to include
+10 contextual information; directing the Department to
+submit the report and make report publicly available
+11 on website; providing that the provisions shall be
+carried out within existing appropriations; providing
+12 that provisions shall not require department to
+create new data systems or hire additional employees;
+13 directing the Department to make reasonable efforts;
+providing for codification; and providing an
+14 effective date.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. NEW LAW A new section of law to be codified
+19 in the Oklahoma Statutes as Section 271 of Title 56, unless there is
+20 created a duplication in numbering, reads as follows:
+21 A. The Department of Human Services shall, using existing
+22 resources and data already collected by the Department, compile and
+23 publish an annual report regarding program integrity and payment
+24 accuracy within the child care subsidy program administered pursuant
+Req. No. 17055 Page 1
+
+1 to T itle 56 of the Oklahoma Statutes and Chapter 40 of Title 340 of
+2 the Oklahoma Administrative Code.
+3 B. The purpose of the report shall be to promote
+4 accountability, identify potential improper payments, support high-
+5 quality child care providers, and ensure public funds are directed
+6 to services actually delivered to Oklahoma children and working
+7 families.
+8 C. The report shall, to the extent practicable using existing
+9 data systems, include:
+10 1. The payment error rate for the child care subsidy program,
+11 if such rate is calculated by the Department or required by federal
+12 reporting;
+13 2. The total amount of overpayments identified during the
+14 preceding fiscal year, including those associated with attendance
+15 reporting discrepancies when such information is available;
+16 3. The total amount of overpayments recovered during the
+17 preceding fiscal year;
+18 4. The number of provider investigations completed related to
+19 the child care subsidy program;
+20 5. The number of adverse actions taken against providers,
+21 including suspensions, terminations, or disqualifications;
+22 6. Any trends or risk factors identified by the Department
+23 related to improper payments, including patterns that may indicate
+24 inaccurate attendance reporting or other program vulnerabilities;
+Req. No. 17055 Page 2
+
+1 7. A summary of education, outreach, or technical assistance
+2 provided by the Department to help child care providers maintain
+3 compliance and avoid improper payments; and
+4 8. The number of current daycare facilities to date, child care
+5 capacity, the number of daycare facilities losses, and child care
+6 capacity loss each year.
+7 D. The Department may include any additional contextual
+8 information necessary to accurately interpret the data provided in
+9 the report and to highlight the performance of providers operating
+10 in good faith compliance with program requirements.
+11 E. The Department shall submit the report to the Governor, the
+12 Speaker of the Oklahoma House of Representatives, and the President
+13 Pro Tempore of the Oklahoma Senate no later than November 1 of each
+14 year and shall make the report publicly available on the
+15 Department's website.
+16 F. The requirements of this section shall be carried out within
+17 existing appropriations and shall not require the Department to
+18 create new data systems or hire additional full-time employees.
+19 G. As part of the annual report required by this section, the
+20 Department shall, using existing licensing and administrative data
+21 to the extent available, include information regarding the supply
+22 and capacity of child care providers in this state, including:
+23 1. The total number of licensed child care facilities operating
+24 in the state during the reporting period;
+Req. No. 17055 Page 3
+
+1 2. The estimated licensed child care capacity statewide and by
+2 region, to the extent such information is available;
+3 3. The number of licensed child care facilities that opened
+4 during the preceding fiscal year;
+5 4. The number of licensed child care facilities that closed
+6 during the preceding fiscal year;
+7 5. The estimated reduction in licensed child care capacity
+8 associated with such closures, to the extent practicable; and
+9 6. A summary of information obtained by the Department
+10 regarding the primary reasons for provider closures.
+11 H. The Department shall make reasonable efforts, within
+12 existing resources, to contact providers that have closed during the
+13 reporting period to request voluntary feedback regarding the reasons
+14 for closure. Participation by former providers shall be voluntary,
+15 and nothing in this subsection shall be construed to require the
+16 Department to obtain responses in every case.
+17 I. Nothing in this section shall be construed to require the
+18 creation of new data systems or mandatory surveys of providers.
+19 SECTION 2. This act shall become effective November 1, 2026.
+20
+21 60-2-17055 CMA 03/05/26
+22
+23
+24
+Req. No. 17055 Page 4
+
+[DELETED:  P B]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 0]

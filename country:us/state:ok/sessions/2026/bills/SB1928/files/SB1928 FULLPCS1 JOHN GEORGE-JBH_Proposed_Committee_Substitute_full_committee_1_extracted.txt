@@ -1,0 +1,393 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 2
+Source: versions - Proposed Committee Substitute (full committee) 1
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SB1928 FULLPCS1 John George-JBH
+4/10/2026 1:34:17 pm
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend SB1928
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: John George
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED OVERSIGHT
+COMMITTEE SUBSTITUTE
+4 FOR ENGROSSED
+SENATE BILL NO. 1928 By: Murdock and Burns of the
+5 Senate
+6 and
+7 Moore of the House
+8
+9
+10 PROPOSED OVERSIGHT COMMITTEE SUBSTITUTE
+11 An Act relating to waters and water rights; amending
+82 O.S. 2021, Section 1020.15, which relates to waste
+12 prohibited; prohibiting the issuance of groundwater
+permits for certain facilities that use certain
+13 cooling systems; amending 82 O.S. 2021, Section
+
+Section 2:
+1020.19, which relates to metering of wells; removing
+14 certain meter use requirement; authorizing the
+Oklahoma Water Resources Board to implement certain
+15 allocation to encourage conservation after certain
+date; specifying requirements for participation;
+16 prohibiting excessive use; requiring development of
+certain voluntary groundwater use measurement
+17 program; requiring issuance of annual certification;
+requiring submission of certain certification with
+18 annual water use report; exempting certain wells from
+provisions; and providing an effective date.
+19
+20
+21
+22 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23 SECTION 1. AMENDATORY 82 O.S. 2021, Section 1020.15, is
+24 amended to read as follows:
+Req. No. 17353 Page 1
+1 Section 1020.15. A. The Oklahoma Water Resources Board shall
+2 not permit any groundwater user to commit waste by:
+3 1. Drilling a well, taking, or using groundwater without a
+4 permit, except for domestic use;
+5 2. Taking more groundwater than is authorized by the permit;
+6 3. Taking or using groundwater in any manner so that the water
+7 is lost for beneficial use;
+8 4. Transporting groundwater from a well to the place of use in
+9 such a manner that there is an excessive loss in transit;
+10 5. Using groundwater in such an inefficient manner that
+11 excessive losses occur;
+12 6. Allowing any groundwater to reach a pervious stratum and be
+13 lost into cavernous or otherwise pervious materials encountered in a
+14 well;
+15 7. Permitting or causing the pollution of a fresh water strata
+16 or basin through any act which will permit fresh groundwater
+17 polluted by minerals or other waste to filter or otherwise intrude
+18 into such a basin or subbasin. The Board shall be precluded from
+19 determining whether waste by pollution will occur pursuant to the
+20 provisions of this paragraph if the activity for which the applicant
+21 or water user intends to or has used the water as specified under
+22 Section 1020.9 of this title is required to comply with rules and
+23 requirements of or is within the jurisdictional areas of
+24 environmental responsibility of the Department of Environmental
+Req. No. 17353 Page 2
+1 Qual ity or the Oklahoma Department of Agriculture, Food, and
+2 Forestry;
+3 8. Drilling wells and producing groundwater therefrom except in
+4 accordance with the well spacing previously determined by the Board;
+5 9. Using groundwater for air conditioning or cooling purposes
+6 without providing facilities to aerate and reuse such water; or
+7 10. Failure to properly plug abandoned water wells in
+8 accordance with rules of the Board and file reports thereof; or
+9 11. Using groundwater for cooling purposes at a data processing
+10 facility or data center through open-air evaporative cooling systems
+11 or any other cooling technology that consumes groundwater through
+12 evaporation or discharge without recirculation. Groundwater permits
+13 for such facilities shall only be issued if the applicant
+14 demonstrates that the cooling system utilizes closed-loop,
+15 dielectric immersion, or other comparably low-consumptive cooling
+16 technologies that substantially recirculate groundwater and minimize
+17 consumptive loss as determined by the Board.
+18 B. Except as otherwise provided by paragraph 7 of subsection A
+19 of this section, any employee of the Board having evidence that an
+20 act of waste is being committed in his or her presence, or after
+21 investigation of a complaint filed by another individual, shall take
+22 steps to assure that the waste ceases. Such steps shall include but
+23 shall not be limited to pursuing voluntary compliance, obtaining the
+24 issuance of a cease and desist order by the Executive Director,
+Req. No. 17353 Page 3
+1 inst ituting action in a court of competent jurisdiction to enjoin
+2 the waste, pursuing a suspension of any permit or other
+3 administrative remedies by the Board, and filing a complaint in the
+4 district court of the county wherein such violation has occurred,
+5 and it shall be the duty of the district attorney of said county to
+6 prosecute such complaint.
+7 C. In cases of waste by pollution pursuant to paragraph 7 of
+8 subsection A of this section, any complaint or investigation, or any
+9 enforcement matter other than an individual proceeding involving the
+10 suspension of an Oklahoma Water Resources Board permit shall be
+11 referred to and subject to the jurisdiction of the Department of
+12 Environmental Quality or other appropriate state environmental
+13 agency or state agency with limited environmental responsibility.
+14 SECTION 2. AMENDATORY 82 O.S. 2021, Section 1020.19, is
+15 amended to read as follows:
+16 Section 1020.19. Upon request of a majority of the landowners
+17 residing within a basin or subbasin, the Board is authorized to
+18 require that water wells be metered and that such meters as the
+19 Board shall approve be utilized by the applicant and placed under
+20 seal, subject to reading by the agents of the Board at any time.
+21 The Board may also require that the applicant report the reading of
+22 such meters at reasonable intervals.
+23 A. To encourage groundwater conservation, beginning January 1,
+24 2027, the Oklahoma Water Resources Board shall provide a five-year
+Req. No. 17353 Page 4
+1 flex allocation of groundwater usage based off the previously
+2 determined allocated annual use of the basin or subbasin. A five-
+3 year flex allocation shall not require a new permit for existing
+4 permit holders. A five-year flex allocation shall be available for:
+5 1. Existing permit holders for groundwater use permits in
+6 basins or subbasins, based upon the maximum annual yield
+7 determination at the time of the original application;
+8 2. New applicants for groundwater use permits in basins or
+9 subbasins based upon the current maximum annual yield determination;
+10 and
+11 3. New and existing applicants and temporary permit holders for
+12 groundwater use permits in basins or subbasins where the maximum
+13 annual yield has yet to be determined.
+14 B. An applicant for a five-year flex allocation shall be
+15 required to:
+16 1. Submit an annual usage report of the prior year’s usage from
+17 a Board-approved water measurement system; and
+18 2. Pay the annual groundwater permit fee.
+19 C. A five-year flex allocation shall allow the permit holder to
+20 exceed the determined annual allocation in any year of the five-year
+21 allocation; provided, that the applicant shall adhere to the
+22 cumulative annually determined allocation of the basin or subbasin
+23 over the five-year period. The permit holder shall not exceed the
+24
+Req. No. 17353 Page 5
+1 perm itted annual allocation by over one hundred fifty percent (150%)
+2 in any of the five (5) years.
+3 D. 1. For all permit holders not participating in the five-
+4 year flex allocation pursuant to this section, a groundwater
+5 irrigation district created pursuant to the Groundwater Irrigation
+6 District Act or a conservation district participating in a
+7 conservation cost-share program pursuant to Section 3-3-101 et seq.
+8 of Title 27A of the Oklahoma Statutes shall develop a voluntary
+9 groundwater use measurement program that provides Board-approved
+10 measuring systems to members, on a loan or cost-share basis, for use
+11 in verifying the volume of water pumped from wells and irrigation
+12 systems to ensure system efficiency and proper accounting of water
+13 use.
+14 2. The groundwater irrigation district or conservation district
+15 shall issue an annual certification that the permit holder has
+16 participated in the groundwater use measurement program pursuant to
+17 paragraph 1 of this subsection. The certification shall be
+18 submitted with the permit holder’s annual water use report.
+19 E. Nothing in this section shall apply to domestic wells.
+20 SECTION 3. This act shall become effective November 1, 2026.
+21
+22 60-2-17353 JBH 04/09/26
+23
+24
+Req. No. 17353 Page 6
+[DELETED: 4 AS C           O S L           ]
+[DELETED:  PS B M  a M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P J 0]
+
+
+================================================================================
+
+Raw Text:
+SB1928 FULLPCS1 John George-JBH
+4/10/2026 1:34:17 pm
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend SB1928
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: John George
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED OVERSIGHT
+COMMITTEE SUBSTITUTE
+4 FOR ENGROSSED
+SENATE BILL NO. 1928 By: Murdock and Burns of the
+5 Senate
+6 and
+7 Moore of the House
+8
+9
+10 PROPOSED OVERSIGHT COMMITTEE SUBSTITUTE
+11 An Act relating to waters and water rights; amending
+82 O.S. 2021, Section 1020.15, which relates to waste
+12 prohibited; prohibiting the issuance of groundwater
+permits for certain facilities that use certain
+13 cooling systems; amending 82 O.S. 2021, Section
+1020.19, which relates to metering of wells; removing
+14 certain meter use requirement; authorizing the
+Oklahoma Water Resources Board to implement certain
+15 allocation to encourage conservation after certain
+date; specifying requirements for participation;
+16 prohibiting excessive use; requiring development of
+certain voluntary groundwater use measurement
+17 program; requiring issuance of annual certification;
+requiring submission of certain certification with
+18 annual water use report; exempting certain wells from
+provisions; and providing an effective date.
+19
+20
+21
+22 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23 SECTION 1. AMENDATORY 82 O.S. 2021, Section 1020.15, is
+24 amended to read as follows:
+Req. No. 17353 Page 1
+
+1 Section 1020.15. A. The Oklahoma Water Resources Board shall
+2 not permit any groundwater user to commit waste by:
+3 1. Drilling a well, taking, or using groundwater without a
+4 permit, except for domestic use;
+5 2. Taking more groundwater than is authorized by the permit;
+6 3. Taking or using groundwater in any manner so that the water
+7 is lost for beneficial use;
+8 4. Transporting groundwater from a well to the place of use in
+9 such a manner that there is an excessive loss in transit;
+10 5. Using groundwater in such an inefficient manner that
+11 excessive losses occur;
+12 6. Allowing any groundwater to reach a pervious stratum and be
+13 lost into cavernous or otherwise pervious materials encountered in a
+14 well;
+15 7. Permitting or causing the pollution of a fresh water strata
+16 or basin through any act which will permit fresh groundwater
+17 polluted by minerals or other waste to filter or otherwise intrude
+18 into such a basin or subbasin. The Board shall be precluded from
+19 determining whether waste by pollution will occur pursuant to the
+20 provisions of this paragraph if the activity for which the applicant
+21 or water user intends to or has used the water as specified under
+22 Section 1020.9 of this title is required to comply with rules and
+23 requirements of or is within the jurisdictional areas of
+24 environmental responsibility of the Department of Environmental
+Req. No. 17353 Page 2
+
+1 Qual ity or the Oklahoma Department of Agriculture, Food, and
+2 Forestry;
+3 8. Drilling wells and producing groundwater therefrom except in
+4 accordance with the well spacing previously determined by the Board;
+5 9. Using groundwater for air conditioning or cooling purposes
+6 without providing facilities to aerate and reuse such water; or
+7 10. Failure to properly plug abandoned water wells in
+8 accordance with rules of the Board and file reports thereof; or
+9 11. Using groundwater for cooling purposes at a data processing
+10 facility or data center through open-air evaporative cooling systems
+11 or any other cooling technology that consumes groundwater through
+12 evaporation or discharge without recirculation. Groundwater permits
+13 for such facilities shall only be issued if the applicant
+14 demonstrates that the cooling system utilizes closed-loop,
+15 dielectric immersion, or other comparably low-consumptive cooling
+16 technologies that substantially recirculate groundwater and minimize
+17 consumptive loss as determined by the Board.
+18 B. Except as otherwise provided by paragraph 7 of subsection A
+19 of this section, any employee of the Board having evidence that an
+20 act of waste is being committed in his or her presence, or after
+21 investigation of a complaint filed by another individual, shall take
+22 steps to assure that the waste ceases. Such steps shall include but
+23 shall not be limited to pursuing voluntary compliance, obtaining the
+24 issuance of a cease and desist order by the Executive Director,
+Req. No. 17353 Page 3
+
+1 inst ituting action in a court of competent jurisdiction to enjoin
+2 the waste, pursuing a suspension of any permit or other
+3 administrative remedies by the Board, and filing a complaint in the
+4 district court of the county wherein such violation has occurred,
+5 and it shall be the duty of the district attorney of said county to
+6 prosecute such complaint.
+7 C. In cases of waste by pollution pursuant to paragraph 7 of
+8 subsection A of this section, any complaint or investigation, or any
+9 enforcement matter other than an individual proceeding involving the
+10 suspension of an Oklahoma Water Resources Board permit shall be
+11 referred to and subject to the jurisdiction of the Department of
+12 Environmental Quality or other appropriate state environmental
+13 agency or state agency with limited environmental responsibility.
+14 SECTION 2. AMENDATORY 82 O.S. 2021, Section 1020.19, is
+15 amended to read as follows:
+16 Section 1020.19. Upon request of a majority of the landowners
+17 residing within a basin or subbasin, the Board is authorized to
+18 require that water wells be metered and that such meters as the
+19 Board shall approve be utilized by the applicant and placed under
+20 seal, subject to reading by the agents of the Board at any time.
+21 The Board may also require that the applicant report the reading of
+22 such meters at reasonable intervals.
+23 A. To encourage groundwater conservation, beginning January 1,
+24 2027, the Oklahoma Water Resources Board shall provide a five-year
+Req. No. 17353 Page 4
+
+1 flex allocation of groundwater usage based off the previously
+2 determined allocated annual use of the basin or subbasin. A five-
+3 year flex allocation shall not require a new permit for existing
+4 permit holders. A five-year flex allocation shall be available for:
+5 1. Existing permit holders for groundwater use permits in
+6 basins or subbasins, based upon the maximum annual yield
+7 determination at the time of the original application;
+8 2. New applicants for groundwater use permits in basins or
+9 subbasins based upon the current maximum annual yield determination;
+10 and
+11 3. New and existing applicants and temporary permit holders for
+12 groundwater use permits in basins or subbasins where the maximum
+13 annual yield has yet to be determined.
+14 B. An applicant for a five-year flex allocation shall be
+15 required to:
+16 1. Submit an annual usage report of the prior year’s usage from
+17 a Board-approved water measurement system; and
+18 2. Pay the annual groundwater permit fee.
+19 C. A five-year flex allocation shall allow the permit holder to
+20 exceed the determined annual allocation in any year of the five-year
+21 allocation; provided, that the applicant shall adhere to the
+22 cumulative annually determined allocation of the basin or subbasin
+23 over the five-year period. The permit holder shall not exceed the
+24
+Req. No. 17353 Page 5
+
+1 perm itted annual allocation by over one hundred fifty percent (150%)
+2 in any of the five (5) years.
+3 D. 1. For all permit holders not participating in the five-
+4 year flex allocation pursuant to this section, a groundwater
+5 irrigation district created pursuant to the Groundwater Irrigation
+6 District Act or a conservation district participating in a
+7 conservation cost-share program pursuant to Section 3-3-101 et seq.
+8 of Title 27A of the Oklahoma Statutes shall develop a voluntary
+9 groundwater use measurement program that provides Board-approved
+10 measuring systems to members, on a loan or cost-share basis, for use
+11 in verifying the volume of water pumped from wells and irrigation
+12 systems to ensure system efficiency and proper accounting of water
+13 use.
+14 2. The groundwater irrigation district or conservation district
+15 shall issue an annual certification that the permit holder has
+16 participated in the groundwater use measurement program pursuant to
+17 paragraph 1 of this subsection. The certification shall be
+18 submitted with the permit holder’s annual water use report.
+19 E. Nothing in this section shall apply to domestic wells.
+20 SECTION 3. This act shall become effective November 1, 2026.
+21
+22 60-2-17353 JBH 04/09/26
+23
+24
+Req. No. 17353 Page 6
+
+[DELETED: 4 AS C           O S L           ]
+[DELETED:  PS B M  a M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P J 0]

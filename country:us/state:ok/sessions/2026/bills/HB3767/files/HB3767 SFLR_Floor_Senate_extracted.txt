@@ -1,0 +1,2122 @@
+Title: 4 HOUSE BILL NO. 3767 By: Turner of the House
+Official Title: 4 HOUSE BILL NO. 3767 By: Turner of the House
+Number of Sections: 2
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Strikethrough Detection: 38 sections found
+
+================================================================================
+
+Section 1:
+1 SENATE FLOOR VERSION
+April 13, 2026
+2
+3 COMMITTEE SUBSTITUTE
+FOR ENGROSSED
+5 and
+6 Jech of the Senate
+7
+8
+9 An Act relating to controlled dangerous substances;
+amending 63 O.S. 2021, Sections 2-204, as last
+10 amended by Section 3, Chapter 308, O.S.L. 2024, and
+2-210 (63 O.S. Supp. 2025, Section 2-204), which
+11 relate to the Uniform Controlled Dangerous Substances
+Act; adding certain substances to Schedules I and IV;
+12 amending 63 O.S. 2021, Section 2-309B, as amended by
+
+Section 2:
+Section 1, Chapter 69, O.S.L. 2022 (63 O.S. Supp.
+13 2025, Section 2-309B), which relates to the Anti-Drug
+Diversion Act; modifying scope of certain
+14 definitions; and providing an effective date.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. AMENDATORY 63 O.S. 2021, Section 2-204, as
+19 last amended by Section 3, Chapter 308, O.S.L. 2024 (63 O.S. Supp.
+20 2025, Section 2-204), is amended to read as follows:
+21 Section 2-204. The controlled substances listed in this section
+22 are included in Schedule I and include any material, compound,
+23 mixture, or preparation that contains any quantity of the following
+24 hallucinogenic substances, their salts, isomers, and salts of
+SENATE FLOOR VERSION - HB3767 SFLR Page 1
+(Bold face denotes Committee Amendments)
+1 isom ers, unless specifically excepted, when the existence of these
+2 salts, isomers, and salts of isomers is possible within the specific
+3 chemical designation.
+4 A. Any of the following opiates including their isomers,
+5 esters, ethers, salts, and salts of isomers, esters, and ethers,
+6 unless specifically excepted, when the existence of these isomers,
+7 esters, ethers, and salts is possible within the specific chemical
+8 designation:
+9 1. Acetylmethadol;
+10 2. Allylprodine;
+11 3. Alphacetylmethadol;
+12 4. Alphameprodine;
+13 5. Alphamethadol;
+14 6. Benzethidine;
+15 7. Betacetylmethadol;
+16 8. Betameprodine;
+17 9. Betamethadol;
+18 10. Betaprodine;
+19 11. Clonitazene;
+20 12. Dextromoramide;
+21 13. Dextrorphan (except its methyl ether);
+22 14. Diampromide;
+23 15. Diethylthiambutene;
+24 16. Dimenoxadol;
+SENATE FLOOR VERSION - HB3767 SFLR Page 2
+(Bold face denotes Committee Amendments)
+1 17. Dimepheptanol;
+2 18. Dimethylthiambutene;
+3 19. Dioxaphetyl butyrate;
+4 20. Dipipanone;
+5 21. Ethylmethylthiambutene;
+6 22. Etonitazene;
+7 23. Etoxeridine;
+8 24. Furethidine;
+9 25. Hydroxypethidine;
+10 26. Isotonitazene;
+11 27. Ketobemidone;
+12 28. Levomoramide;
+13 29. Levophenacylmorphan;
+14 30. Metonitazene;
+15 31. Morpheridine;
+16 32. N-desethyl isotonitazene;
+17 33. N-pyrrolidino protonitazene;
+18 34. Noracymethadol;
+19 35. Norlevorphanol;
+20 36. Normethadone;
+21 37. Norpipanone;
+22 38. Phenadoxone;
+23 39. Phenampromide;
+24 40. Phenomorphan;
+SENATE FLOOR VERSION - HB3767 SFLR Page 3
+(Bold face denotes Committee Amendments)
+1 41. Phenoperidine;
+2 42. Piritramide;
+3 43. Proheptazine;
+4 44. Properidine;
+5 45. Protonitazene;
+6 46. Racemoramide; or
+7 47. Trimeperidine.
+8 B. Any of the following opium derivatives, their salts,
+9 isomers, and salts of isomers, unless specifically excepted, when
+10 the existence of these salts, isomers, and salts of isomers is
+11 possible within the specific chemical designation:
+12 1. Acetorphine;
+13 2. Acetyldihydrocodeine;
+14 3. Benzylmorphine;
+15 4. Codeine methylbromide;
+16 5. Codeine-N-Oxide;
+17 6. Cyprenorphine;
+18 7. Desomorphine;
+19 8. Dihydromorphine;
+20 9. Etorphine;
+21 10. Heroin;
+22 11. Hydromorphinol;
+23 12. Methyldesorphine;
+24 13. Methylhydromorphine;
+SENATE FLOOR VERSION - HB3767 SFLR Page 4
+(Bold face denotes Committee Amendments)
+1 14. Morphine methylbromide;
+2 15. Morphine methylsulfonate;
+3 16. Morphine-N-Oxide;
+4 17. Myrophine;
+5 18. Nicocodeine;
+6 19. Nicomorphine;
+7 20. Normorphine;
+8 21. Phoclodine;
+9 22. Thebacon;
+10 23. N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-acetamide
+11 (Acetyl fentanyl);
+12 24. N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-butenamide
+13 (Crotonyl fentanyl);
+14 25. N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-2-
+15 furancarboxamide (Furanyl fentanyl);
+16 26. N-phenyl-1-(2-phenylethyl)-4-piperidinamine (4-ANPP);
+17 27. N-(1-phenethylpiperidin-4-yl)-N-
+18 phenylcyclopropanecarboxamide (Cyclopropyl fentanyl); or
+19 28. N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-butanamide
+20 (Butyrl fentanyl).
+21 C. Any material, compound, mixture, or preparation which
+22 contains any quantity of the following hallucinogenic substances,
+23 their salts, isomers, and salts of isomers, unless specifically
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 5
+(Bold face denotes Committee Amendments)
+1 exce pted, when the existence of these salts, isomers, and salts of
+2 isomers is possible within the specific chemical designation:
+3 1. Methcathinone;
+4 2. 3, 4-methylenedioxy amphetamine;
+5 3. 3, 4-methylenedioxy methamphetamine;
+6 4. 5-methoxy-3, 4-methylenedioxy amphetamine;
+7 5. 3, 4, 5-trimethoxy amphetamine;
+8 6. Bufotenine;
+9 7. Diethyltryptamine;
+10 8. Dimethyltryptamine;
+11 9. 4-methyl-2, 5-dimethoxyamphetamine;
+12 10. Ibogaine;
+13 11. Lysergic acid diethylamide;
+14 12. Marijuana;
+15 13. Mescaline;
+16 14. N-benzylpiperazine;
+17 15. N-ethyl-3-piperidyl benzilate;
+18 16. N-methyl-3-piperidyl benzilate;
+19 17. Psilocybin;
+20 18. Psilocyn;
+21 19. 2, 5 dimethoxyamphetamine;
+22 20. 4 Bromo-2, 5-dimethoxyamphetamine;
+23 21. 4 methoxyamphetamine;
+24 22. Cyclohexamine;
+SENATE FLOOR VERSION - HB3767 SFLR Page 6
+(Bold face denotes Committee Amendments)
+1 23. Salvia Divinorum;
+2 24. Salvinorin A;
+3 25. Thiophene Analog of Phencyclidine. Also known as: 1-(1-
+4 (2-thienyl) cyclohexyl) piperidine; 2-Thienyl Analog of
+5 Phencyclidine; TPCP, TCP;
+6 26. Phencyclidine (PCP);
+7 27. Pyrrolidine Analog for Phencyclidine. Also known as 1-(1-
+8 Phenylcyclohexyl) - Pyrrolidine, PCPy, PHP;
+9 28. 1-(3-trifluoromethylphenyl) piperazine;
+10 29. Flunitrazepam;
+11 30. B-hydroxy-amphetamine;
+12 31. B-ketoamphetamine;
+13 32. 2,5-dimethoxy-4-nitroamphetamine;
+14 33. 2,5-dimethoxy-4-bromophenethylamine;
+15 34. 2,5-dimethoxy-4-chlorophenethylamine;
+16 35. 2,5-dimethoxy-4-iodoamphetamine;
+17 36. 2,5-dimethoxy-4-iodophenethylamine;
+18 37. 2,5-dimethoxy-4-methylphenethylamine;
+19 38. 2,5-dimethoxy-4-ethylphenethylamine;
+20 39. 2,5-dimethoxy-4-fluorophenethylamine;
+21 40. 2,5-dimethoxy-4-nitrophenethylamine;
+22 41. 2,5-dimethoxy-4-ethylthio-phenethylamine;
+23 42. 2,5-dimethoxy-4-isopropylthio-phenethylamine;
+24 43. 2,5-dimethoxy-4-propylthio-phenethylamine;
+SENATE FLOOR VERSION - HB3767 SFLR Page 7
+(Bold face denotes Committee Amendments)
+1 44. 2,5-dimethoxy-4-cyclopropylmethylthio-phenethylamine;
+2 45. 2,5-dimethoxy-4-tert-butylthio-phenethylamine;
+3 46. 2,5-dimethoxy-4-(2-fluoroethylthio)-phenethylamine;
+4 47. 5-methoxy-N, N-dimethyltryptamine;
+5 48. N-methyltryptamine;
+6 49. A-ethyltryptamine;
+7 50. A-methyltryptamine;
+8 51. N, N-diethyltryptamine;
+9 52. N, N-diisopropyltryptamine;
+10 53. N, N-dipropyltryptamine;
+11 54. 5-methoxy-a-methyltryptamine;
+12 55. 4-hydroxy-N, N-diethyltryptamine;
+13 56. 4-hydroxy-N, N-diisopropyltryptamine;
+14 57. 5-methoxy-N, N-diisopropyltryptamine;
+15 58. 4-hydroxy-N-isopropyl-N-methyltryptamine;
+16 59. 3,4-Methylenedioxymethcathinone (Methylone);
+17 60. 3,4-Methylenedioxypyrovalerone (MDPV);
+18 61. 3-Methylmethcathinone (Metaphedrone);
+19 62. 4-Methylmethcathinone (Mephedrone);
+20 63. 4-methoxymethcathinone;
+21 64. 4-Fluoromethcathinone;
+22 65. 3-Fluoromethcathinone;
+23 66. 1-(8-bromobenzo 1,2-b;4,5-b’ difuran-4-yl)-2-aminopropane;
+24 67. 2,5-Dimethoxy-4-chloroamphetamine;
+SENATE FLOOR VERSION - HB3767 SFLR Page 8
+(Bold face denotes Committee Amendments)
+1 68. 4-Methylethcathinone;
+2 69. Pyrovalerone;
+3 70. N,N-diallyl-5-methoxytryptamine;
+4 71. 3,4-Methylenedioxy-N-ethylcathinone (Ethylone);
+5 72. B-keto-N-Methylbenzodioxolylbutanamine (Butylone);
+6 73. B-keto-Methylbenzodioxolylpentanamine (Pentylone);
+7 74. Alpha-Pyrrolidinopentiophenone;
+8 75. 4-Fluoroamphetamine;
+9 76. Pentedrone;
+10 77. 4’-Methyl-a-pyrrolidinohexaphenone;
+11 78. 2,5-dimethoxy-4-(n)-propylphenethylamine;
+12 79. 2,5-dimethoxyphenethylamine;
+13 80. 1,4-Dibenzylpiperazine;
+14 81. N,N-Dimethylamphetamine;
+15 82. 4-Fluoromethamphetamine;
+16 83. 4-Chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine
+17 (25C-NBOMe);
+18 84. 4-Iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine
+19 (25I-NBOMe);
+20 85. 4-Bromo-2,5-dimethoxy-N-(2-methoxybenzy)phenethylamine
+21 (25B-NBOMe);
+22 86. 1-(4-Fluorophenyl)piperazine;
+23 87. Methoxetamine;
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 9
+(Bold face denotes Committee Amendments)
+1 88. 3,4-dichloro-N[2-dimethylamino)cyclohexyl]-N-
+2 methylbenzamide;
+3 89. N-ethyl hexadrone;
+4 90. Isopropyl-U-47700;
+5 91. Para-fluorobutyrl fentanyl;
+6 92. Para-fluorofentanyl (pFF);
+7 93. Fluoro isobutryrl fentanyl;
+8 94. 3-Hydroxy Phencyclidine (PCP);
+9 95. 3-methoxy Phencyclidine (PCP);
+10 96. Flualprazolam; or
+11 97. Flubromazolam.
+12 D. Unless specifically excepted or unless listed in a different
+13 schedule, any material, compound, mixture, or preparation which
+14 contains any quantity of the following substances having stimulant
+15 or depressant effect on the central nervous system:
+16 1. Fenethylline;
+17 2. Mecloqualone;
+18 3. N-ethylamphetamine;
+19 4. Methaqualone;
+20 5. Gamma-Hydroxybutyric Acid, also known as GHB, gamma-
+21 hydroxybutyrate, 4-hydroxybutyrate, 4-hydroxybutanoic acid, sodium
+22 oxybate, and sodium oxybutyrate;
+23
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 10
+(Bold face denotes Committee Amendments)
+1 6. Gamma-Butyrolactone (GBL) as packaged, marketed,
+2 manufactured, or promoted for human consumption, with the exception
+3 of legitimate food additive and manufacturing purposes;
+4 7. Gamma Hydroxyvalerate (GHV) as packaged, marketed, or
+5 manufactured for human consumption, with the exception of legitimate
+6 food additive and manufacturing purposes;
+7 8. Gamma Valerolactone (GVL) as packaged, marketed, or
+8 manufactured for human consumption, with the exception of legitimate
+9 food additive and manufacturing purposes;
+10 9. 1,4 Butanediol (1,4 BD or BDO) as packaged, marketed,
+11 manufactured, or promoted for human consumption with the exception
+12 of legitimate manufacturing purposes; or
+13 10. N-ethylpentylone;
+14 11. Adinazolam;
+15 12. Meclonazepam;
+16 13. N-methylclonazepam;
+17 14. Bromazolam;
+18 15. Flunitrazolam;
+19 16. Nitrazolam;
+20 17. Pyrazolam;
+21 18. Zapizolam;
+22 19. N-propionitrile chlorphine;
+23 20. 5,6-dichloro desmethylchlorphine; or
+24 21. Phenazolam.
+SENATE FLOOR VERSION - HB3767 SFLR Page 11
+(Bold face denotes Committee Amendments)
+1 E. 1. The following industrial uses of Gamma-Butyrolactone,
+2 Gamma Hydroxyvalerate, Gamma Valerolactone, or 1,4 Butanediol are
+3 excluded from all schedules of controlled substances under this
+4 title:
+5 a. pesticides,
+6 b. photochemical etching,
+7 c. electrolytes of small batteries or capacitors,
+8 d. viscosity modifiers in polyurethane,
+9 e. surface etching of metal coated plastics,
+10 f. organic paint disbursements for water soluble inks,
+11 g. pH regulators in the dyeing of wool and polyamide
+12 fibers,
+13 h. foundry chemistry as a catalyst during curing,
+14 i. curing agents in many coating systems based on
+15 urethanes and amides,
+16 j. additives and flavoring agents in food, confectionary,
+17 and beverage products,
+18 k. synthetic fiber and clothing production,
+19 l. tetrahydrofuran production,
+20 m. gamma butyrolactone production,
+21 n. polybutylene terephthalate resin production,
+22 o. polyester raw materials for polyurethane elastomers
+23 and foams,
+24 p. coating resin raw material, and
+SENATE FLOOR VERSION - HB3767 SFLR Page 12
+(Bold face denotes Committee Amendments)
+1 q. as an intermediate in the manufacture of other
+2 chemicals and pharmaceuticals.
+3 2. At the request of any person, the Director of the Oklahoma
+4 State Bureau of Narcotics and Dangerous Drugs Control may exempt any
+5 other product containing Gamma-Butyrolactone, Gamma Hydroxyvalerate,
+6 Gamma Valerolactone, or 1,4 Butanediol from being included as a
+7 Schedule I controlled substance if such product is labeled,
+8 marketed, manufactured, and distributed for legitimate industrial
+9 use in a manner that reduces or eliminates the likelihood of abuse.
+10 3. In making a determination regarding an industrial product,
+11 the Director, after notice and hearing, shall consider the
+12 following:
+13 a. the history and current pattern of abuse,
+14 b. the name and labeling of the product,
+15 c. the intended manner of distribution, advertising, and
+16 promotion of the product, and
+17 d. other factors as may be relevant to and consistent
+18 with the public health and safety.
+19 4. The hearing shall be held in accordance with the procedures
+20 of the Administrative Procedures Act.
+21 F. Any material, compound, mixture, or preparation, whether
+22 produced directly or indirectly from a substance of vegetable origin
+23 or independently by means of chemical synthesis, or by a combination
+24 of extraction and chemical synthesis, that contains any quantity of
+SENATE FLOOR VERSION - HB3767 SFLR Page 13
+(Bold face denotes Committee Amendments)
+1 the following substances, or that contains any of their salts,
+2 isomers, and salts of isomers when the existence of these salts,
+3 isomers, and salts of isomers is possible within the specific
+4 chemical designation:
+5 1. JWH-004;
+6 2. JWH-007;
+7 3. JWH-009;
+8 4. JWH-015;
+9 5. JWH-016;
+10 6. JWH-018;
+11 7. JWH-019;
+12 8. JWH-020;
+13 9. JWH-030;
+14 10. JWH-046;
+15 11. JWH-047;
+16 12. JWH-048;
+17 13. JWH-049;
+18 14. JWH-050;
+19 15. JWH-070;
+20 16. JWH-071;
+21 17. JWH-072;
+22 18. JWH-073;
+23 19. JWH-076;
+24 20. JWH-079;
+SENATE FLOOR VERSION - HB3767 SFLR Page 14
+(Bold face denotes Committee Amendments)
+1 21. JWH-080;
+2 22. JWH-081;
+3 23. JWH-082;
+4 24. JWH-094;
+5 25. JWH-096;
+6 26. JWH-098;
+7 27. JWH-116;
+8 28. JWH-120;
+9 29. JWH-122;
+10 30. JWH-145;
+11 31. JWH-146;
+12 32. JWH-147;
+13 33. JWH-148;
+14 34. JWH-149;
+15 35. JWH-150;
+16 36. JWH-156;
+17 37. JWH-167;
+18 38. JWH-175;
+19 39. JWH-180;
+20 40. JWH-181;
+21 41. JWH-182;
+22 42. JWH-184;
+23 43. JWH-185;
+24 44. JWH-189;
+SENATE FLOOR VERSION - HB3767 SFLR Page 15
+(Bold face denotes Committee Amendments)
+1 45. JWH-192;
+2 46. JWH-193;
+3 47. JWH-194;
+4 48. JWH-195;
+5 49. JWH-196;
+6 50. JWH-197;
+7 51. JWH-198;
+8 52. JWH-199;
+9 53. JWH-200;
+10 54. JWH-201;
+11 55. JWH-202;
+12 56. JWH-203;
+13 57. JWH-204;
+14 58. JWH-205;
+15 59. JWH-206;
+16 60. JWH-207;
+17 61. JWH-208;
+18 62. JWH-209;
+19 63. JWH-210;
+20 64. JWH-211;
+21 65. JWH-212;
+22 66. JWH-213;
+23 67. JWH-234;
+24 68. JWH-235;
+SENATE FLOOR VERSION - HB3767 SFLR Page 16
+(Bold face denotes Committee Amendments)
+1 69. JWH-236;
+2 70. JWH-237;
+3 71. JWH-239;
+4 72. JWH-240;
+5 73. JWH-241;
+6 74. JWH-242;
+7 75. JWH-243;
+8 76. JWH-244;
+9 77. JWH-245;
+10 78. JWH-246;
+11 79. JWH-248;
+12 80. JWH-249;
+13 81. JWH-250;
+14 82. JWH-251;
+15 83. JWH-252;
+16 84. JWH-253;
+17 85. JWH-262;
+18 86. JWH-292;
+19 87. JWH-293;
+20 88. JWH-302;
+21 89. JWH-303;
+22 90. JWH-304;
+23 91. JWH-305;
+24 92. JWH-306;
+SENATE FLOOR VERSION - HB3767 SFLR Page 17
+(Bold face denotes Committee Amendments)
+1 93. JWH-307;
+2 94. JWH-308;
+3 95. JWH-311;
+4 96. JWH-312;
+5 97. JWH-313;
+6 98. JWH-314;
+7 99. JWH-315;
+8 100. JWH-316;
+9 101. JWH-346;
+10 102. JWH-348;
+11 103. JWH-363;
+12 104. JWH-364;
+13 105. JWH-365;
+14 106. JWH-367;
+15 107. JWH-368;
+16 108. JWH-369;
+17 109. JWH-370;
+18 110. JWH-371;
+19 111. JWH-373;
+20 112. JWH-386;
+21 113. JWH-387;
+22 114. JWH-392;
+23 115. JWH-394;
+24 116. JWH-395;
+SENATE FLOOR VERSION - HB3767 SFLR Page 18
+(Bold face denotes Committee Amendments)
+1 117. JWH-397;
+2 118. JWH-398;
+3 119. JWH-399;
+4 120. JWH-400;
+5 121. JWH-412;
+6 122. JWH-413;
+7 123. JWH-414;
+8 124. JWH-415;
+9 125. CP-55, 940;
+10 126. CP-47, 497;
+11 127. HU-210;
+12 128. HU-211;
+13 129. WIN-55, 212-2;
+14 130. AM-2201;
+15 131. AM-2233;
+16 132. JWH-018 adamantyl-carboxamide;
+17 133. AKB48;
+18 134. JWH-122 N-(4-pentenyl)analog;
+19 135. MAM2201;
+20 136. URB597;
+21 137. URB602;
+22 138. URB754;
+23 139. UR144;
+24 140. XLR11;
+SENATE FLOOR VERSION - HB3767 SFLR Page 19
+(Bold face denotes Committee Amendments)
+1 141. A-796,260;
+2 142. STS-135;
+3 143. AB-FUBINACA;
+4 144. AB-PINACA;
+5 145. PB-22;
+6 146. AKB48 N-5-Fluorpentyl;
+7 147. AM1248;
+8 148. FUB-PB-22;
+9 149. ADB-FUBINACA;
+10 150. BB-22;
+11 151. 5-Fluoro PB-22; or
+12 152. 5-Fluoro AKB-48.
+13 G. In addition to those substances listed in subsection F of
+14 this section, unless specifically excepted or unless listed in
+15 another schedule, any material, compound, mixture, or preparation
+16 which contains any quantity of a synthetic cannabinoid found to be
+17 in any of the following chemical groups:
+18 1. Naphthoylindoles: any compound containing a 3-(1-
+19 naphthoyl)indole structure with or without substitution at the
+20 nitrogen atom of the indole ring by an alkyl, haloalkyl, cyanoalkyl,
+21 alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-
+22 (N-methyl-2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-
+23 2-pyrrolidinyl)methyl, 1-(N-methyl-3- morpholinyl)methyl,
+24 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+SENATE FLOOR VERSION - HB3767 SFLR Page 20
+(Bold face denotes Committee Amendments)
+1 halo phenyl group, whether or not further substituted on the indole
+2 ring to any extent, and whether or not substituted on the naphthyl
+3 ring to any extent. Naphthoylindoles include, but are not limited
+4 to:
+5 a. 1-[2-(4-morpholinyl)ethyl]-3-(1-naphthoyl)indole (JWH-
+6 200),
+7 b. 1-(5-fluoropentyl)-3-(1-naphthoyl)indole (AM2201),
+8 c. 1-pentyl-3-(1-naphthoyl)indole (JWH-018),
+9 d. 1-butyl-3-(1-naphthoyl)indole (JWH-073),
+10 e. 1-pentyl-3-(4-methoxy-1-naphthoyl)indole (JWH-081),
+11 f. 1-propyl-2-methyl-3-(1-naphthoyl)indole (JWH-015),
+12 g. 1-hexyl-3-(1-naphthoyl)indole (JWH-019),
+13 h. 1-pentyl-3-(4-methyl-1-naphthoyl)indole (JWH-122),
+14 i. 1-pentyl-3-(4-ethyl-1-naphthoyl)indole (JWH-210),
+15 j. 1-pentyl-3-(4-chloro-1-naphthoyl)indole (JWH-398),
+16 k. 1-pentyl-2-methyl-3-(1-naphthoyl)indole (JWH-007),
+17 l. 1-pentyl-3-(7-methoxy-1-naphthoyl)indole (JWH-164),
+18 m. 1-pentyl-2-methyl-3-(4-methoxy-1-naphthoyl)indole
+19 (JWH-098),
+20 n. 1-pentyl-3-(4-fluoro-1-naphthoyl)indole (JWH-412),
+21 o. 1-[1-(N-methyl-2-piperidinyl)methyl]-3-(1-
+22 naphthoyl)indole (AM-1220),
+23 p. 1-(5-fluoropentyl)-3-(4-methyl-1-naphthoyl)indole
+24 (MAM-2201), or
+SENATE FLOOR VERSION - HB3767 SFLR Page 21
+(Bold face denotes Committee Amendments)
+1 q. 1-(4-cyanobutyl)-3-(1-naphthoyl)indole (AM-2232);
+2 2. Naphthylmethylindoles: any compound containing a 1H-indol-
+3 3-yl-(1-naphthyl)methane structure with or without substitution at
+4 the nitrogen atom of the indole ring by an alkyl, haloalkyl,
+5 cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl,
+6 halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+7 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+8 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+9 phenyl, or halophenyl group, whether or not further substituted on
+10 the indole ring to any extent, and whether or not substituted on the
+11 naphthyl ring to any extent. Naphthylmethylindoles include, but are
+12 not limited to, (1-pentylindol-3-yl)(1-naphthyl)methane (JWH-175);
+13 3. Naphthoylpyrroles: any compound containing a 3-(1-
+14 naphthoyl)pyrrole structure with or without substitution at the
+15 nitrogen atom of the pyrrole ring by an alkyl, haloalkyl,
+16 cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl,
+17 halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+18 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+19 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+20 phenyl, or halophenyl group, whether or not further substituted on
+21 the pyrrole ring to any extent, and whether or not substituted on
+22 the naphthyl group to any extent. Naphthoylpyrroles include, but
+23 are not limited to:
+24 a. 1-hexyl-2-phenyl-4-(1-naphthoyl)pyrrole (JWH-147),
+SENATE FLOOR VERSION - HB3767 SFLR Page 22
+(Bold face denotes Committee Amendments)
+1 b. 1-pentyl-5-(2-methylphenyl)-3-(1-naphthoyl)pyrrole
+2 (JWH-370),
+3 c. 1-pentyl-3-(1-naphthoyl)pyrrole (JWH-030), or
+4 d. 1-hexyl-5-phenyl-3-(1-naphthoyl)pyrrole (JWH-147);
+5 4. Naphthylideneindenes: any compound containing a 1-(1-
+6 naphthylmethylene)indene structure with or without substitution at
+7 the 3-position of the indene ring by an alkyl, haloalkyl,
+8 cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl,
+9 halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+10 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+11 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+12 phenyl, or halophenyl group, whether or not further substituted on
+13 the indene group to any extent, and whether or not substituted on
+14 the naphthyl group to any extent. Naphthylmethylindenes include,
+15 but are not limited to, (1-[(3-pentyl)-1H-inden-1-
+16 ylidene)methyl]naphthalene (JWH-176);
+17 5. Phenylacetylindoles: any compound containing a 3-
+18 phenylacetylindole structure with or without substitution at the
+19 nitrogen atom of the indole ring by alkyl, haloalkyl, cyanoalkyl,
+20 alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-
+21 (N-methyl-2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-
+22 2-pyrrolidinyl)methyl, 1-(N-methyl-3- morpholinyl)methyl,
+23 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+24 halophenyl group, whether or not further substituted on the indole
+SENATE FLOOR VERSION - HB3767 SFLR Page 23
+(Bold face denotes Committee Amendments)
+1 ring to any extent, and whether or not substituted on the phenyl
+2 ring to any extent. Phenylacetylindoles include, but are not
+3 limited to:
+4 a. 1-pentyl-3-(2-methoxyphenylacetyl)indole (JWH-250),
+5 b. 1-(2-cyclohexylethyl)-3-(2-methoxyphenylacetyl)indole
+6 (RCS-8),
+7 c. 1-pentyl-3-(2-chlorophenylacetyl)indole (JWH-203),
+8 d. 1-pentyl-3-(2-methylphenylacetyl)indole (JWH-251),
+9 e. 1-pentyl-3-(4-methoxyphenylacetyl)indole (JWH-201), or
+10 f. 1-pentyl-3-(3-methoxyphenylacetyl)indole (JWH-302);
+11 6. Cyclohexylphenols: any compound containing a 2-(3-
+12 hydroxycyclohexyl)phenol structure with or without substitution at
+13 the 5-position of the phenolic ring by an alkyl, haloalkyl,
+14 cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl,
+15 halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+16 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+17 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+18 phenyl, or halophenyl group, and whether or not further substituted
+19 on the cyclohexyl ring to any extent. Cyclohexylphenols include,
+20 but are not limited to:
+21 a. 5-(1,1-dimethylheptyl)-2-[(1R,3S)-3-
+22 hydroxycyclohexyl]-phenol (CP-47,497),
+23
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 24
+(Bold face denotes Committee Amendments)
+1 b. 5-(1,1-dimethyloctyl)-2-[(1R,3S)-3-hydroxycyclohexyl]-
+2 phenol (cannabicyclohexanol; CP-47,497 C8 homologue),
+3 or
+4 c. 5-(1,1-dimethylheptyl)-2-[(1R,2R)-5-hydroxy-2-(3-
+5 hydroxypropyl)cyclohexyl]-phenol (CP 55, 940);
+6 7. Benzoylindoles: any compound containing a 3-(benzoyl)indole
+7 structure with or without substitution at the nitrogen atom of the
+8 indole ring by an alkyl, haloalkyl, cyanoalkyl, alkenyl,
+9 cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-(N-methyl-
+10 2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-
+11 pyrrolidinyl)methyl, 1-(N-methyl-3- morpholinyl)methyl,
+12 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+13 halophenyl group, whether or not further substituted on the indole
+14 ring to any extent, and whether or not substituted on the phenyl
+15 group to any extent. Benzoylindoles include, but are not limited
+16 to:
+17 a. 1-pentyl-3-(4-methoxybenzoyl)indole (RCS-4),
+18 b. 1-[2-(4-morpholinyl)ethyl]-2-methyl-3-(4-
+19 methoxybenzoyl)indole (Pravadoline or WIN 48, 098),
+20 c. 1-(5-fluoropentyl)-3-(2-iodobenzoyl)indole (AM-694),
+21 d. 1-pentyl-3-(2-iodobenzoyl)indole (AM-679), or
+22 e. 1-[1-(N-methyl-2-piperidinyl)methyl]-3-(2-
+23 iodobenzoyl)indole (AM-2233);
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 25
+(Bold face denotes Committee Amendments)
+1 8. Cyclopropoylindoles: Any compound containing a 3-
+2 (cyclopropoyl)indole structure with substitution at the nitrogen
+3 atom of the indole ring by an alkyl, haloalkyl, cyanoalkyl, alkenyl,
+4 cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-(N-methyl-
+5 2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-
+6 pyrrolidinyl)methyl, 1-(N-methyl-3- morpholinyl)methyl,
+7 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+8 halophenyl group, whether or not further substituted in the indole
+9 ring to any extent, and whether or not substituted in the
+10 cyclopropoyl ring to any extent. Cyclopropoylindoles include, but
+11 are not limited to:
+12 a. 1-pentyl-3-(2,2,3,3-tetramethylcyclopropoyl)indole
+13 (UR-144),
+14 b. 1-(5-chloropentyl)-3-(2,2,3,3-
+15 tetramethylcyclopropoyl)indole (5Cl-UR-144), or
+16 c. 1-(5-fluoropentyl)-3-(2,2,3,3-
+17 tetramethylcyclopropoyl)indole (XLR11);
+18 9. Indole Amides: Any compound containing a 1H-Indole-3-
+19 carboxamide structure with or without substitution at the nitrogen
+20 atom of the indole ring by an alkyl, haloalkyl, cyanoalkyl, alkenyl,
+21 cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-(N-methyl-
+22 2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-
+23 pyrrolidinyl)methyl, 1-(N-methyl-3- morpholinyl)methyl,
+24 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+SENATE FLOOR VERSION - HB3767 SFLR Page 26
+(Bold face denotes Committee Amendments)
+1 halo phenyl group, whether or not substituted at the carboxamide
+2 group by an adamantyl, naphthyl, phenyl, benzyl, quinolinyl,
+3 cycloalkyl, 1-amino-3-methyl-1-oxobutan-2-yl, 1-amino-3,3-dimethyl-
+4 1-oxobutan-2-yl, 1-methoxy-3-methyl-1-oxobutan-2-yl, 1-methoxy-3,3-
+5 dimethyl-1-oxobutan-2-yl or pyrrole group, and whether or not
+6 further substituted in the indole, adamantyl, naphthyl, phenyl,
+7 pyrrole, quninolinyl, or cycloalkyl rings to any extent. Indole
+8 Amides include, but are not limited to:
+9 a. N-(1-adamantyl)-1-pentyl-1H-indole-3-carboxamide
+10 (2NE1),
+11 b. N-(1-adamantyl)-1-(5-fluoropentyl-1H-indole-3-
+12 carboxamide (STS-135),
+13 c. N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-
+14 indole-3-carboxamide (ADBICA),
+15 d. N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(5-
+16 fluoropentyl)-1H-indole-3-carboxamide (5F-ADBICA),
+17 e. N-(naphthalen-1-yl)-1-pentyl-1H-indole-3-carboxamide
+18 (NNE1),
+19 f. 1-(5-fluoropentyl)-N-(naphthalene-1-yl)-1H-indole-3-
+20 carboxamide (5F-NNE1),
+21 g. N-benzyl-1-pentyl-1H-indole-3-carboxamide (SDB-006),
+22 or
+23 h. N-benzyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide
+24 (5F-SDB-006);
+SENATE FLOOR VERSION - HB3767 SFLR Page 27
+(Bold face denotes Committee Amendments)
+1 10. Indole Esters: Any compound containing a 1H-Indole-3-
+2 carboxylate structure with or without substitution at the nitrogen
+3 atom of the indole ring by an alkyl, haloalkyl, cyanoalkyl, alkenyl,
+4 cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-(N-methyl-
+5 2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-
+6 pyrrolidinyl)methyl, 1-(N-methyl-3-morpholinyl)methyl,
+7 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+8 halophenyl group, whether or not substituted at the carboxylate
+9 group by an adamantyl, naphthyl, phenyl, benzyl, quinolinyl,
+10 cycloalkyl, 1-amino-3-methyl-1-oxobutan-2-yl, 1-amino-3,3-dimethyl-
+11 1-oxobutan-2-yl, 1-methoxy-3-methyl-1-oxobutan-2-yl, 1-methoxy-3,3-
+12 dimethyl-1-oxobutan-2-yl or pyrrole group, and whether or not
+13 further substituted in the indole, adamantyl, naphthyl, phenyl,
+14 pyrrole, quinolinyl, or cycloalkyl rings to any extent. Indole
+15 Esters include, but are not limited to:
+16 a. quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate (PB-
+17 22),
+18 b. quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-
+19 carboxylate (5F-PB-22),
+20 c. quinolin-8-yl 1-(cyclohexylmethyl)-1H-indole-3-
+21 carboxylate (BB-22),
+22 d. naphthalen-1-yl 1-(4-fluorobenzyl)-1H-indole-3-
+23 carboxylate (FDU-PB-22), or
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 28
+(Bold face denotes Committee Amendments)
+1 e. naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-
+2 carboxylate (NM2201);
+3 11. Adamantanoylindoles: Any compound containing an
+4 adamantanyl-(1H-indol-3-yl)methanone structure with or without
+5 substitution at the nitrogen atom of the indole ring by an alkyl,
+6 haloalkyl, cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl,
+7 benzyl, halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+8 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+9 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+10 phenyl, or halophenyl group, whether or not further substituted in
+11 the indole ring to any extent, and whether or not substituted in the
+12 adamantyl ring to any extent. Adamantanoylindoles include, but are
+13 not limited to:
+14 a. adamantan-1-yl[1-[(1-methyl-2-piperidinyl)methyl]-1H-
+15 indol-3-yl]methanone (AM1248), or
+16 b. adamantan-1-yl-(1-pentyl-1H-indol-3-yl)methanone (AB-
+17 001);
+18 12. Carbazole Ketone Ketones: Any compound containing (9H-
+19 carbazole-3-yl) methanone structure with or without substitution at
+20 the nitrogen atom of the carbazole ring by an alkyl, haloalkyl,
+21 cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl,
+22 halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+23 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+24 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+SENATE FLOOR VERSION - HB3767 SFLR Page 29
+(Bold face denotes Committee Amendments)
+1 phen yl, or halophenyl group, with substitution at the carbon of the
+2 methanone group by an adamantyl, naphthyl, phenyl, benzyl,
+3 quinolinyl, cycloalkyl, 1-amino-3-methyl-1-oxobutan-2-yl, 1-amino-
+4 3,3-dimethyl-1-oxobutan-2-yl, 1-methoxy-3-methyl-1-oxobutan-2-yl, 1-
+5 methoxy-3,3-dimethyl-1-oxobutan-2-yl or pyrrole group, and whether
+6 or not further substituted at the carbazole, adamantyl, naphthyl,
+7 phenyl, pyrrole, quinolinyl, or cycloalkyl rings to any extent.
+8 Carbazole Ketones include, but are not limited to, naphthalen-1-
+9 yl(9-pentyl-9H-carbazol-3-yl)methanone (EG-018);
+10 13. Benzimidazole Ketone Ketones: Any compound containing
+11 (benzimidazole-2-yl) methanone structure with or without
+12 substitution at either nitrogen atom of the benzimidazole ring by an
+13 alkyl, haloalkyl, cyanoalkyl, alkenyl, cycloalkylmethyl,
+14 cycloalkylethyl, benzyl, halobenzyl, 1-(N-methyl-2-
+15 piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-
+16 pyrrolidinyl)methyl, 1-(N-methyl-3-morpholinyl)methyl,
+17 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+18 halophenyl group, with substitution at the carbon of the methanone
+19 group by an adamantyl, naphthyl, phenyl, benzyl, quinolinyl,
+20 cycloalkyl, 1-amino-3-methyl-1-oxobutan-2-yl, 1-amino-3,3-dimethyl-
+21 1-oxobutan-2-yl, 1-methoxy-3-methyl-1-oxobutan-2-yl, 1-methoxy-3,3-
+22 dimethyl-1-oxobutan-2-yl or pyrrole group, and whether or not
+23 further substituted in the benzimidazole, adamantyl, naphthyl,
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 30
+(Bold face denotes Committee Amendments)
+1 phen yl, pyrrole, quinolinyl, or cycloalkyl rings to any extent.
+2 Benzimidazole Ketones include, but are not limited to:
+3 a. naphthalen-1-yl(1-pentyl-1H-benzo[d]imidazol-2-
+4 l)methanone (JWH-018 benzimidazole analog), or
+5 b. (1-(5-fluoropentyl)-1H-benzo[d]imidazol-2-
+6 yl)(naphthalen-1-yl)methanone (FUBIMINA); and
+7 14. Modified by Replacement: any compound defined in this
+8 subsection that is modified by replacement of a carbon with nitrogen
+9 in the indole, naphthyl, indene, benzimidazole, or carbazole ring.
+10 H. Any prescription drug approved by the federal Food and Drug
+11 Administration under the provisions of Section 505 of the Federal
+12 Food, Drug, and Cosmetic Act, Title 21 of the United States Code 21
+13 U.S.C., Section 355, that is designated, rescheduled, or deleted as
+14 a controlled substance under federal law by the United States Drug
+15 Enforcement Administration shall be excluded from Schedule I and
+16 shall be prescribed, distributed, dispensed, or used in accordance
+17 with federal law upon the issuance of a notice, final rule, or
+18 interim final rule by the United States Drug Enforcement
+19 Administration designating, rescheduling, or deleting as a
+20 controlled substance such a drug product under federal law, unless
+21 and until the State Board of Pharmacy takes action pursuant to
+22 Section 2-201 of this title. If the State Board of Pharmacy does
+23 not take action pursuant to Section 2-201 of this title, the drug
+24 product shall be deemed to be designated, rescheduled, or deleted as
+SENATE FLOOR VERSION - HB3767 SFLR Page 31
+(Bold face denotes Committee Amendments)
+1 a co ntrolled substance in accordance with federal law and in
+2 compliance with the Uniform Controlled Dangerous Substances Act.
+3 SECTION 2. AMENDATORY 63 O.S. 2021, Section 2-210, is
+4 amended to read as follows:
+5 Section 2-210. A. Any material, compound, mixture, or
+6 preparation which contains any quantity of the following substances
+7 having a potential for abuse associated with a stimulant or
+8 depressant effect on the central nervous system:
+9 1. Chloral betaine;
+10 2. Chloral hydrate;
+11 3. Ethchlorvynol;
+12 4. Ethinamate;
+13 5. Meprobamate;
+14 6. Paraldehyde;
+15 7. Petrichloral;
+16 8. Diethylpropion;
+17 9. Phentermine;
+18 10. Pemoline;
+19 11. Chlordiazepoxide;
+20 12. Chlordiazepoxide and its salts, but not including
+21 chlordiazepoxide hydrochloride and clidinium bromide or
+22 chlordiazepoxide and water-soluble esterified estrogens;
+23 13. Diazepam;
+24 14. Oxazepam;
+SENATE FLOOR VERSION - HB3767 SFLR Page 32
+(Bold face denotes Committee Amendments)
+1 15. Clorazepate;
+2 16. Flurazepam and its salts;
+3 17. Clonazepam;
+4 18. Barbital;
+5 19. Mebutamate;
+6 20. Methohexital;
+7 21. Methylphenobarbital;
+8 22. Phenobarbital;
+9 23. Fenfluramine;
+10 24. Pentazocine;
+11 25. Propoxyphene;
+12 26. Butorphanol;
+13 27. Alprazolam;
+14 28. Halazepam;
+15 29. Lorazepam;
+16 30. Prazepam;
+17 31. Temazepam;
+18 32. Triazolam;
+19 33. Carisoprodol;
+20 34. Dichloralphenazone;
+21 35. Estazolam;
+22 36. Eszopiclone;
+23 37. Midazolam;
+24 38. Modafinil;
+SENATE FLOOR VERSION - HB3767 SFLR Page 33
+(Bold face denotes Committee Amendments)
+1 39. Zaleplon;
+2 40. Zolpidem;
+3 41. Tramadol;
+4 42. Bromazepam;
+5 43. Suvorexant;
+6 44. Phenazepam;
+7 45. Etizolam; or
+8 46. Clonazolam;
+9 47. Lormetazepam; or
+10 48. Nifoxipam.
+11 B. 1. The following nonnarcotic substances, which may, under
+12 the Federal Food, Drug, and Cosmetic Act (21, 21 U.S.C., Section
+13 301) 301 et seq., be lawfully sold over the counter without a
+14 prescription, are excluded from all schedules of controlled
+15 substances under this title:
+16 a. Breathe-Aid,
+17 b. BronCare,
+18 c. Bronchial Congestion,
+19 d. Bronkaid Tablets,
+20 e. Bronkaid Dual Action Caplets,
+21 f. Bronkotabs,
+22 g. Bronkolixir,
+23 h. NeoRespin,
+24 i. Pazo Hemorrhoid Ointment and Suppositories,
+SENATE FLOOR VERSION - HB3767 SFLR Page 34
+(Bold face denotes Committee Amendments)
+1 j. Primatene Tablets,
+2 k. Primatene “Dual Action” Formula,
+3 l. Quelidrine,
+4 m. Resp, and
+5 n. Vatronal Nose Drops.
+6 2. At the request of any person, the Director of the Oklahoma
+7 State Bureau of Narcotics and Dangerous Drugs Control may exempt any
+8 other drug product containing ephedrine from being included as a
+9 Schedule IV controlled substance if such product:
+10 a. is labeled and marketed in a manner consistent with
+11 the pertinent OTC tentative final or final monograph
+12 issued by the FDA United States Food and Drug
+13 Administration (FDA), and
+14 b. is manufactured and distributed for legitimate
+15 medicinal use and in a manner that reduces or
+16 eliminates the likelihood of abuse.
+17 3. In making a determination regarding a drug product, the
+18 Director, after notice and hearing, shall consider the following:
+19 a. the history and current pattern of abuse,
+20 b. the name and labeling of the product,
+21 c. the intended manner of distribution, advertising, and
+22 promotion of the product, and
+23 d. other factors as may be relevant to and consistent
+24 with the public health and safety.
+SENATE FLOOR VERSION - HB3767 SFLR Page 35
+(Bold face denotes Committee Amendments)
+1 4. The hearing shall be held in accordance with the
+2 Administrative Procedures Act.
+3 5. A list of current drug products meeting exemption
+4 requirements under this subsection may be obtained from the Oklahoma
+5 State Bureau of Narcotics and Dangerous Drugs Control upon written
+6 request.
+7 C. The State Board of Pharmacy may except by rule any compound,
+8 mixture, or preparation containing any depressant substance listed
+9 in subsection A of this section from the application of all or any
+10 part of the Uniform Controlled Dangerous Substances Act, Section 2-
+11 101 et seq. of this title, if the compound, mixture, or preparation
+12 contains one or more active medicinal ingredients not having a
+13 depressant effect on the central nervous system, and if the
+14 admixtures are included therein in combinations, quantity,
+15 proportion, or concentration that vitiate the potential for abuse of
+16 the substances which have a depressant effect on the central nervous
+17 system.
+18 SECTION 3. AMENDATORY 63 O.S. 2021, Section 2-309B, as
+19 amended by Section 1, Chapter 69, O.S.L. 2022 (63 O.S. Supp. 2025,
+20 Section 2-309B), is amended to read as follows:
+21 Section 2-309B. For the purposes of the Anti-Drug Diversion
+22 Act:
+23 1. “Bureau” means the Oklahoma State Bureau of Narcotics and
+24 Dangerous Drugs Control;
+SENATE FLOOR VERSION - HB3767 SFLR Page 36
+(Bold face denotes Committee Amendments)
+1 2. “Dispenser” means a person who distributes a Schedule II,
+2 III, IV, or V controlled dangerous substance, but does not include a
+3 licensed hospital pharmacy or a licensed nurse or medication aide
+4 who administers such a substance at the direction of a licensed
+5 physician;
+6 3. “Dispenser’s registration number” means the dispenser’s
+7 Oklahoma State Bureau of Narcotics and Dangerous Drugs Control
+8 registration number or, in the case of a pharmacist, the National
+9 Association of Boards of Pharmacy number for the pharmacy where the
+10 dispensation is made;
+11 4. “Exception report” means an output of data indicating
+12 Schedule II controlled dangerous substance dispensation which is
+13 outside expected norms for a prescriber practicing a particular
+14 specialty or field of health care, for a dispenser doing business in
+15 a particular location, or for a recipient;
+16 5. “Recipient” means the person for whom a prescription is
+17 prescribed and who is the lawful intended ultimate user;
+18 6. “Recipient’s agent” means a person who is authorized by the
+19 ultimate user to pick up the recipient’s medication and deliver it
+20 to the recipient or a person who claims a prescription other than
+21 the person to whom the medication is prescribed;
+22 7. “Recipient’s identification number” and “recipient’s agent’s
+23 identification number” means mean the unique number contained on
+24 forms of identification either listed in 8 CFR C.F.R., Section
+SENATE FLOOR VERSION - HB3767 SFLR Page 37
+(Bold face denotes Committee Amendments)
+1 274a .2(b)(1)(v)(A) and (B) or as otherwise listed in the rules of
+2 the Bureau;
+3 8. “Registrant” means a person, persons, corporation or other
+4 entity who has been issued by the Director of the Oklahoma State
+5 Bureau of Narcotics and Dangerous Drugs Control a registration
+6 pursuant to Section 2-302 of this title; and
+7 9. “State” means any state, territory, or possession of the
+8 United States, the District of Columbia, or foreign nation.
+9 SECTION 4. This act shall become effective November 1, 2026.
+10 COMMITTEE REPORT BY: COMMITTEE ON HEALTH AND HUMAN SERVICES
+April 13, 2026 - DO PASS AS AMENDED BY CS
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 38
+(Bold face denotes Committee Amendments)
+[DELETED: P B T  a J]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P p p e v s o p f c a s t g p p c]
+[DELETED: P a t t t o]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: P 1 1]
+[DELETED: P 1 1 1]
+[DELETED: P 1 1 1 1 1 1 5]
+[DELETED: P 5 5 1 1 1 1 1]
+[DELETED: P 1 1 1]
+[DELETED: P N N N N N 1 N N]
+[DELETED: P q q q n]
+[DELETED: P n a a]
+[DELETED: P]
+[DELETED: P n (]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P B B B B B B B N P]
+[DELETED: P P P Q R V i i t t t o]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+
+
+================================================================================
+
+Raw Text:
+1 SENATE FLOOR VERSION
+April 13, 2026
+2
+3 COMMITTEE SUBSTITUTE
+FOR ENGROSSED
+4 HOUSE BILL NO. 3767 By: Turner of the House
+5 and
+6 Jech of the Senate
+7
+8
+9 An Act relating to controlled dangerous substances;
+amending 63 O.S. 2021, Sections 2-204, as last
+10 amended by Section 3, Chapter 308, O.S.L. 2024, and
+2-210 (63 O.S. Supp. 2025, Section 2-204), which
+11 relate to the Uniform Controlled Dangerous Substances
+Act; adding certain substances to Schedules I and IV;
+12 amending 63 O.S. 2021, Section 2-309B, as amended by
+Section 1, Chapter 69, O.S.L. 2022 (63 O.S. Supp.
+13 2025, Section 2-309B), which relates to the Anti-Drug
+Diversion Act; modifying scope of certain
+14 definitions; and providing an effective date.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. AMENDATORY 63 O.S. 2021, Section 2-204, as
+19 last amended by Section 3, Chapter 308, O.S.L. 2024 (63 O.S. Supp.
+20 2025, Section 2-204), is amended to read as follows:
+21 Section 2-204. The controlled substances listed in this section
+22 are included in Schedule I and include any material, compound,
+23 mixture, or preparation that contains any quantity of the following
+24 hallucinogenic substances, their salts, isomers, and salts of
+SENATE FLOOR VERSION - HB3767 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 isom ers, unless specifically excepted, when the existence of these
+2 salts, isomers, and salts of isomers is possible within the specific
+3 chemical designation.
+4 A. Any of the following opiates including their isomers,
+5 esters, ethers, salts, and salts of isomers, esters, and ethers,
+6 unless specifically excepted, when the existence of these isomers,
+7 esters, ethers, and salts is possible within the specific chemical
+8 designation:
+9 1. Acetylmethadol;
+10 2. Allylprodine;
+11 3. Alphacetylmethadol;
+12 4. Alphameprodine;
+13 5. Alphamethadol;
+14 6. Benzethidine;
+15 7. Betacetylmethadol;
+16 8. Betameprodine;
+17 9. Betamethadol;
+18 10. Betaprodine;
+19 11. Clonitazene;
+20 12. Dextromoramide;
+21 13. Dextrorphan (except its methyl ether);
+22 14. Diampromide;
+23 15. Diethylthiambutene;
+24 16. Dimenoxadol;
+SENATE FLOOR VERSION - HB3767 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 17. Dimepheptanol;
+2 18. Dimethylthiambutene;
+3 19. Dioxaphetyl butyrate;
+4 20. Dipipanone;
+5 21. Ethylmethylthiambutene;
+6 22. Etonitazene;
+7 23. Etoxeridine;
+8 24. Furethidine;
+9 25. Hydroxypethidine;
+10 26. Isotonitazene;
+11 27. Ketobemidone;
+12 28. Levomoramide;
+13 29. Levophenacylmorphan;
+14 30. Metonitazene;
+15 31. Morpheridine;
+16 32. N-desethyl isotonitazene;
+17 33. N-pyrrolidino protonitazene;
+18 34. Noracymethadol;
+19 35. Norlevorphanol;
+20 36. Normethadone;
+21 37. Norpipanone;
+22 38. Phenadoxone;
+23 39. Phenampromide;
+24 40. Phenomorphan;
+SENATE FLOOR VERSION - HB3767 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 41. Phenoperidine;
+2 42. Piritramide;
+3 43. Proheptazine;
+4 44. Properidine;
+5 45. Protonitazene;
+6 46. Racemoramide; or
+7 47. Trimeperidine.
+8 B. Any of the following opium derivatives, their salts,
+9 isomers, and salts of isomers, unless specifically excepted, when
+10 the existence of these salts, isomers, and salts of isomers is
+11 possible within the specific chemical designation:
+12 1. Acetorphine;
+13 2. Acetyldihydrocodeine;
+14 3. Benzylmorphine;
+15 4. Codeine methylbromide;
+16 5. Codeine-N-Oxide;
+17 6. Cyprenorphine;
+18 7. Desomorphine;
+19 8. Dihydromorphine;
+20 9. Etorphine;
+21 10. Heroin;
+22 11. Hydromorphinol;
+23 12. Methyldesorphine;
+24 13. Methylhydromorphine;
+SENATE FLOOR VERSION - HB3767 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 14. Morphine methylbromide;
+2 15. Morphine methylsulfonate;
+3 16. Morphine-N-Oxide;
+4 17. Myrophine;
+5 18. Nicocodeine;
+6 19. Nicomorphine;
+7 20. Normorphine;
+8 21. Phoclodine;
+9 22. Thebacon;
+10 23. N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-acetamide
+11 (Acetyl fentanyl);
+12 24. N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-butenamide
+13 (Crotonyl fentanyl);
+14 25. N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-2-
+15 furancarboxamide (Furanyl fentanyl);
+16 26. N-phenyl-1-(2-phenylethyl)-4-piperidinamine (4-ANPP);
+17 27. N-(1-phenethylpiperidin-4-yl)-N-
+18 phenylcyclopropanecarboxamide (Cyclopropyl fentanyl); or
+19 28. N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-butanamide
+20 (Butyrl fentanyl).
+21 C. Any material, compound, mixture, or preparation which
+22 contains any quantity of the following hallucinogenic substances,
+23 their salts, isomers, and salts of isomers, unless specifically
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 exce pted, when the existence of these salts, isomers, and salts of
+2 isomers is possible within the specific chemical designation:
+3 1. Methcathinone;
+4 2. 3, 4-methylenedioxy amphetamine;
+5 3. 3, 4-methylenedioxy methamphetamine;
+6 4. 5-methoxy-3, 4-methylenedioxy amphetamine;
+7 5. 3, 4, 5-trimethoxy amphetamine;
+8 6. Bufotenine;
+9 7. Diethyltryptamine;
+10 8. Dimethyltryptamine;
+11 9. 4-methyl-2, 5-dimethoxyamphetamine;
+12 10. Ibogaine;
+13 11. Lysergic acid diethylamide;
+14 12. Marijuana;
+15 13. Mescaline;
+16 14. N-benzylpiperazine;
+17 15. N-ethyl-3-piperidyl benzilate;
+18 16. N-methyl-3-piperidyl benzilate;
+19 17. Psilocybin;
+20 18. Psilocyn;
+21 19. 2, 5 dimethoxyamphetamine;
+22 20. 4 Bromo-2, 5-dimethoxyamphetamine;
+23 21. 4 methoxyamphetamine;
+24 22. Cyclohexamine;
+SENATE FLOOR VERSION - HB3767 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 23. Salvia Divinorum;
+2 24. Salvinorin A;
+3 25. Thiophene Analog of Phencyclidine. Also known as: 1-(1-
+4 (2-thienyl) cyclohexyl) piperidine; 2-Thienyl Analog of
+5 Phencyclidine; TPCP, TCP;
+6 26. Phencyclidine (PCP);
+7 27. Pyrrolidine Analog for Phencyclidine. Also known as 1-(1-
+8 Phenylcyclohexyl) - Pyrrolidine, PCPy, PHP;
+9 28. 1-(3-trifluoromethylphenyl) piperazine;
+10 29. Flunitrazepam;
+11 30. B-hydroxy-amphetamine;
+12 31. B-ketoamphetamine;
+13 32. 2,5-dimethoxy-4-nitroamphetamine;
+14 33. 2,5-dimethoxy-4-bromophenethylamine;
+15 34. 2,5-dimethoxy-4-chlorophenethylamine;
+16 35. 2,5-dimethoxy-4-iodoamphetamine;
+17 36. 2,5-dimethoxy-4-iodophenethylamine;
+18 37. 2,5-dimethoxy-4-methylphenethylamine;
+19 38. 2,5-dimethoxy-4-ethylphenethylamine;
+20 39. 2,5-dimethoxy-4-fluorophenethylamine;
+21 40. 2,5-dimethoxy-4-nitrophenethylamine;
+22 41. 2,5-dimethoxy-4-ethylthio-phenethylamine;
+23 42. 2,5-dimethoxy-4-isopropylthio-phenethylamine;
+24 43. 2,5-dimethoxy-4-propylthio-phenethylamine;
+SENATE FLOOR VERSION - HB3767 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 44. 2,5-dimethoxy-4-cyclopropylmethylthio-phenethylamine;
+2 45. 2,5-dimethoxy-4-tert-butylthio-phenethylamine;
+3 46. 2,5-dimethoxy-4-(2-fluoroethylthio)-phenethylamine;
+4 47. 5-methoxy-N, N-dimethyltryptamine;
+5 48. N-methyltryptamine;
+6 49. A-ethyltryptamine;
+7 50. A-methyltryptamine;
+8 51. N, N-diethyltryptamine;
+9 52. N, N-diisopropyltryptamine;
+10 53. N, N-dipropyltryptamine;
+11 54. 5-methoxy-a-methyltryptamine;
+12 55. 4-hydroxy-N, N-diethyltryptamine;
+13 56. 4-hydroxy-N, N-diisopropyltryptamine;
+14 57. 5-methoxy-N, N-diisopropyltryptamine;
+15 58. 4-hydroxy-N-isopropyl-N-methyltryptamine;
+16 59. 3,4-Methylenedioxymethcathinone (Methylone);
+17 60. 3,4-Methylenedioxypyrovalerone (MDPV);
+18 61. 3-Methylmethcathinone (Metaphedrone);
+19 62. 4-Methylmethcathinone (Mephedrone);
+20 63. 4-methoxymethcathinone;
+21 64. 4-Fluoromethcathinone;
+22 65. 3-Fluoromethcathinone;
+23 66. 1-(8-bromobenzo 1,2-b;4,5-b’ difuran-4-yl)-2-aminopropane;
+24 67. 2,5-Dimethoxy-4-chloroamphetamine;
+SENATE FLOOR VERSION - HB3767 SFLR Page 8
+(Bold face denotes Committee Amendments)
+
+1 68. 4-Methylethcathinone;
+2 69. Pyrovalerone;
+3 70. N,N-diallyl-5-methoxytryptamine;
+4 71. 3,4-Methylenedioxy-N-ethylcathinone (Ethylone);
+5 72. B-keto-N-Methylbenzodioxolylbutanamine (Butylone);
+6 73. B-keto-Methylbenzodioxolylpentanamine (Pentylone);
+7 74. Alpha-Pyrrolidinopentiophenone;
+8 75. 4-Fluoroamphetamine;
+9 76. Pentedrone;
+10 77. 4’-Methyl-a-pyrrolidinohexaphenone;
+11 78. 2,5-dimethoxy-4-(n)-propylphenethylamine;
+12 79. 2,5-dimethoxyphenethylamine;
+13 80. 1,4-Dibenzylpiperazine;
+14 81. N,N-Dimethylamphetamine;
+15 82. 4-Fluoromethamphetamine;
+16 83. 4-Chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine
+17 (25C-NBOMe);
+18 84. 4-Iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine
+19 (25I-NBOMe);
+20 85. 4-Bromo-2,5-dimethoxy-N-(2-methoxybenzy)phenethylamine
+21 (25B-NBOMe);
+22 86. 1-(4-Fluorophenyl)piperazine;
+23 87. Methoxetamine;
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 9
+(Bold face denotes Committee Amendments)
+
+1 88. 3,4-dichloro-N[2-dimethylamino)cyclohexyl]-N-
+2 methylbenzamide;
+3 89. N-ethyl hexadrone;
+4 90. Isopropyl-U-47700;
+5 91. Para-fluorobutyrl fentanyl;
+6 92. Para-fluorofentanyl (pFF);
+7 93. Fluoro isobutryrl fentanyl;
+8 94. 3-Hydroxy Phencyclidine (PCP);
+9 95. 3-methoxy Phencyclidine (PCP);
+10 96. Flualprazolam; or
+11 97. Flubromazolam.
+12 D. Unless specifically excepted or unless listed in a different
+13 schedule, any material, compound, mixture, or preparation which
+14 contains any quantity of the following substances having stimulant
+15 or depressant effect on the central nervous system:
+16 1. Fenethylline;
+17 2. Mecloqualone;
+18 3. N-ethylamphetamine;
+19 4. Methaqualone;
+20 5. Gamma-Hydroxybutyric Acid, also known as GHB, gamma-
+21 hydroxybutyrate, 4-hydroxybutyrate, 4-hydroxybutanoic acid, sodium
+22 oxybate, and sodium oxybutyrate;
+23
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 10
+(Bold face denotes Committee Amendments)
+
+1 6. Gamma-Butyrolactone (GBL) as packaged, marketed,
+2 manufactured, or promoted for human consumption, with the exception
+3 of legitimate food additive and manufacturing purposes;
+4 7. Gamma Hydroxyvalerate (GHV) as packaged, marketed, or
+5 manufactured for human consumption, with the exception of legitimate
+6 food additive and manufacturing purposes;
+7 8. Gamma Valerolactone (GVL) as packaged, marketed, or
+8 manufactured for human consumption, with the exception of legitimate
+9 food additive and manufacturing purposes;
+10 9. 1,4 Butanediol (1,4 BD or BDO) as packaged, marketed,
+11 manufactured, or promoted for human consumption with the exception
+12 of legitimate manufacturing purposes; or
+13 10. N-ethylpentylone;
+14 11. Adinazolam;
+15 12. Meclonazepam;
+16 13. N-methylclonazepam;
+17 14. Bromazolam;
+18 15. Flunitrazolam;
+19 16. Nitrazolam;
+20 17. Pyrazolam;
+21 18. Zapizolam;
+22 19. N-propionitrile chlorphine;
+23 20. 5,6-dichloro desmethylchlorphine; or
+24 21. Phenazolam.
+SENATE FLOOR VERSION - HB3767 SFLR Page 11
+(Bold face denotes Committee Amendments)
+
+1 E. 1. The following industrial uses of Gamma-Butyrolactone,
+2 Gamma Hydroxyvalerate, Gamma Valerolactone, or 1,4 Butanediol are
+3 excluded from all schedules of controlled substances under this
+4 title:
+5 a. pesticides,
+6 b. photochemical etching,
+7 c. electrolytes of small batteries or capacitors,
+8 d. viscosity modifiers in polyurethane,
+9 e. surface etching of metal coated plastics,
+10 f. organic paint disbursements for water soluble inks,
+11 g. pH regulators in the dyeing of wool and polyamide
+12 fibers,
+13 h. foundry chemistry as a catalyst during curing,
+14 i. curing agents in many coating systems based on
+15 urethanes and amides,
+16 j. additives and flavoring agents in food, confectionary,
+17 and beverage products,
+18 k. synthetic fiber and clothing production,
+19 l. tetrahydrofuran production,
+20 m. gamma butyrolactone production,
+21 n. polybutylene terephthalate resin production,
+22 o. polyester raw materials for polyurethane elastomers
+23 and foams,
+24 p. coating resin raw material, and
+SENATE FLOOR VERSION - HB3767 SFLR Page 12
+(Bold face denotes Committee Amendments)
+
+1 q. as an intermediate in the manufacture of other
+2 chemicals and pharmaceuticals.
+3 2. At the request of any person, the Director of the Oklahoma
+4 State Bureau of Narcotics and Dangerous Drugs Control may exempt any
+5 other product containing Gamma-Butyrolactone, Gamma Hydroxyvalerate,
+6 Gamma Valerolactone, or 1,4 Butanediol from being included as a
+7 Schedule I controlled substance if such product is labeled,
+8 marketed, manufactured, and distributed for legitimate industrial
+9 use in a manner that reduces or eliminates the likelihood of abuse.
+10 3. In making a determination regarding an industrial product,
+11 the Director, after notice and hearing, shall consider the
+12 following:
+13 a. the history and current pattern of abuse,
+14 b. the name and labeling of the product,
+15 c. the intended manner of distribution, advertising, and
+16 promotion of the product, and
+17 d. other factors as may be relevant to and consistent
+18 with the public health and safety.
+19 4. The hearing shall be held in accordance with the procedures
+20 of the Administrative Procedures Act.
+21 F. Any material, compound, mixture, or preparation, whether
+22 produced directly or indirectly from a substance of vegetable origin
+23 or independently by means of chemical synthesis, or by a combination
+24 of extraction and chemical synthesis, that contains any quantity of
+SENATE FLOOR VERSION - HB3767 SFLR Page 13
+(Bold face denotes Committee Amendments)
+
+1 the following substances, or that contains any of their salts,
+2 isomers, and salts of isomers when the existence of these salts,
+3 isomers, and salts of isomers is possible within the specific
+4 chemical designation:
+5 1. JWH-004;
+6 2. JWH-007;
+7 3. JWH-009;
+8 4. JWH-015;
+9 5. JWH-016;
+10 6. JWH-018;
+11 7. JWH-019;
+12 8. JWH-020;
+13 9. JWH-030;
+14 10. JWH-046;
+15 11. JWH-047;
+16 12. JWH-048;
+17 13. JWH-049;
+18 14. JWH-050;
+19 15. JWH-070;
+20 16. JWH-071;
+21 17. JWH-072;
+22 18. JWH-073;
+23 19. JWH-076;
+24 20. JWH-079;
+SENATE FLOOR VERSION - HB3767 SFLR Page 14
+(Bold face denotes Committee Amendments)
+
+1 21. JWH-080;
+2 22. JWH-081;
+3 23. JWH-082;
+4 24. JWH-094;
+5 25. JWH-096;
+6 26. JWH-098;
+7 27. JWH-116;
+8 28. JWH-120;
+9 29. JWH-122;
+10 30. JWH-145;
+11 31. JWH-146;
+12 32. JWH-147;
+13 33. JWH-148;
+14 34. JWH-149;
+15 35. JWH-150;
+16 36. JWH-156;
+17 37. JWH-167;
+18 38. JWH-175;
+19 39. JWH-180;
+20 40. JWH-181;
+21 41. JWH-182;
+22 42. JWH-184;
+23 43. JWH-185;
+24 44. JWH-189;
+SENATE FLOOR VERSION - HB3767 SFLR Page 15
+(Bold face denotes Committee Amendments)
+
+1 45. JWH-192;
+2 46. JWH-193;
+3 47. JWH-194;
+4 48. JWH-195;
+5 49. JWH-196;
+6 50. JWH-197;
+7 51. JWH-198;
+8 52. JWH-199;
+9 53. JWH-200;
+10 54. JWH-201;
+11 55. JWH-202;
+12 56. JWH-203;
+13 57. JWH-204;
+14 58. JWH-205;
+15 59. JWH-206;
+16 60. JWH-207;
+17 61. JWH-208;
+18 62. JWH-209;
+19 63. JWH-210;
+20 64. JWH-211;
+21 65. JWH-212;
+22 66. JWH-213;
+23 67. JWH-234;
+24 68. JWH-235;
+SENATE FLOOR VERSION - HB3767 SFLR Page 16
+(Bold face denotes Committee Amendments)
+
+1 69. JWH-236;
+2 70. JWH-237;
+3 71. JWH-239;
+4 72. JWH-240;
+5 73. JWH-241;
+6 74. JWH-242;
+7 75. JWH-243;
+8 76. JWH-244;
+9 77. JWH-245;
+10 78. JWH-246;
+11 79. JWH-248;
+12 80. JWH-249;
+13 81. JWH-250;
+14 82. JWH-251;
+15 83. JWH-252;
+16 84. JWH-253;
+17 85. JWH-262;
+18 86. JWH-292;
+19 87. JWH-293;
+20 88. JWH-302;
+21 89. JWH-303;
+22 90. JWH-304;
+23 91. JWH-305;
+24 92. JWH-306;
+SENATE FLOOR VERSION - HB3767 SFLR Page 17
+(Bold face denotes Committee Amendments)
+
+1 93. JWH-307;
+2 94. JWH-308;
+3 95. JWH-311;
+4 96. JWH-312;
+5 97. JWH-313;
+6 98. JWH-314;
+7 99. JWH-315;
+8 100. JWH-316;
+9 101. JWH-346;
+10 102. JWH-348;
+11 103. JWH-363;
+12 104. JWH-364;
+13 105. JWH-365;
+14 106. JWH-367;
+15 107. JWH-368;
+16 108. JWH-369;
+17 109. JWH-370;
+18 110. JWH-371;
+19 111. JWH-373;
+20 112. JWH-386;
+21 113. JWH-387;
+22 114. JWH-392;
+23 115. JWH-394;
+24 116. JWH-395;
+SENATE FLOOR VERSION - HB3767 SFLR Page 18
+(Bold face denotes Committee Amendments)
+
+1 117. JWH-397;
+2 118. JWH-398;
+3 119. JWH-399;
+4 120. JWH-400;
+5 121. JWH-412;
+6 122. JWH-413;
+7 123. JWH-414;
+8 124. JWH-415;
+9 125. CP-55, 940;
+10 126. CP-47, 497;
+11 127. HU-210;
+12 128. HU-211;
+13 129. WIN-55, 212-2;
+14 130. AM-2201;
+15 131. AM-2233;
+16 132. JWH-018 adamantyl-carboxamide;
+17 133. AKB48;
+18 134. JWH-122 N-(4-pentenyl)analog;
+19 135. MAM2201;
+20 136. URB597;
+21 137. URB602;
+22 138. URB754;
+23 139. UR144;
+24 140. XLR11;
+SENATE FLOOR VERSION - HB3767 SFLR Page 19
+(Bold face denotes Committee Amendments)
+
+1 141. A-796,260;
+2 142. STS-135;
+3 143. AB-FUBINACA;
+4 144. AB-PINACA;
+5 145. PB-22;
+6 146. AKB48 N-5-Fluorpentyl;
+7 147. AM1248;
+8 148. FUB-PB-22;
+9 149. ADB-FUBINACA;
+10 150. BB-22;
+11 151. 5-Fluoro PB-22; or
+12 152. 5-Fluoro AKB-48.
+13 G. In addition to those substances listed in subsection F of
+14 this section, unless specifically excepted or unless listed in
+15 another schedule, any material, compound, mixture, or preparation
+16 which contains any quantity of a synthetic cannabinoid found to be
+17 in any of the following chemical groups:
+18 1. Naphthoylindoles: any compound containing a 3-(1-
+19 naphthoyl)indole structure with or without substitution at the
+20 nitrogen atom of the indole ring by an alkyl, haloalkyl, cyanoalkyl,
+21 alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-
+22 (N-methyl-2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-
+23 2-pyrrolidinyl)methyl, 1-(N-methyl-3- morpholinyl)methyl,
+24 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+SENATE FLOOR VERSION - HB3767 SFLR Page 20
+(Bold face denotes Committee Amendments)
+
+1 halo phenyl group, whether or not further substituted on the indole
+2 ring to any extent, and whether or not substituted on the naphthyl
+3 ring to any extent. Naphthoylindoles include, but are not limited
+4 to:
+5 a. 1-[2-(4-morpholinyl)ethyl]-3-(1-naphthoyl)indole (JWH-
+6 200),
+7 b. 1-(5-fluoropentyl)-3-(1-naphthoyl)indole (AM2201),
+8 c. 1-pentyl-3-(1-naphthoyl)indole (JWH-018),
+9 d. 1-butyl-3-(1-naphthoyl)indole (JWH-073),
+10 e. 1-pentyl-3-(4-methoxy-1-naphthoyl)indole (JWH-081),
+11 f. 1-propyl-2-methyl-3-(1-naphthoyl)indole (JWH-015),
+12 g. 1-hexyl-3-(1-naphthoyl)indole (JWH-019),
+13 h. 1-pentyl-3-(4-methyl-1-naphthoyl)indole (JWH-122),
+14 i. 1-pentyl-3-(4-ethyl-1-naphthoyl)indole (JWH-210),
+15 j. 1-pentyl-3-(4-chloro-1-naphthoyl)indole (JWH-398),
+16 k. 1-pentyl-2-methyl-3-(1-naphthoyl)indole (JWH-007),
+17 l. 1-pentyl-3-(7-methoxy-1-naphthoyl)indole (JWH-164),
+18 m. 1-pentyl-2-methyl-3-(4-methoxy-1-naphthoyl)indole
+19 (JWH-098),
+20 n. 1-pentyl-3-(4-fluoro-1-naphthoyl)indole (JWH-412),
+21 o. 1-[1-(N-methyl-2-piperidinyl)methyl]-3-(1-
+22 naphthoyl)indole (AM-1220),
+23 p. 1-(5-fluoropentyl)-3-(4-methyl-1-naphthoyl)indole
+24 (MAM-2201), or
+SENATE FLOOR VERSION - HB3767 SFLR Page 21
+(Bold face denotes Committee Amendments)
+
+1 q. 1-(4-cyanobutyl)-3-(1-naphthoyl)indole (AM-2232);
+2 2. Naphthylmethylindoles: any compound containing a 1H-indol-
+3 3-yl-(1-naphthyl)methane structure with or without substitution at
+4 the nitrogen atom of the indole ring by an alkyl, haloalkyl,
+5 cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl,
+6 halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+7 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+8 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+9 phenyl, or halophenyl group, whether or not further substituted on
+10 the indole ring to any extent, and whether or not substituted on the
+11 naphthyl ring to any extent. Naphthylmethylindoles include, but are
+12 not limited to, (1-pentylindol-3-yl)(1-naphthyl)methane (JWH-175);
+13 3. Naphthoylpyrroles: any compound containing a 3-(1-
+14 naphthoyl)pyrrole structure with or without substitution at the
+15 nitrogen atom of the pyrrole ring by an alkyl, haloalkyl,
+16 cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl,
+17 halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+18 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+19 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+20 phenyl, or halophenyl group, whether or not further substituted on
+21 the pyrrole ring to any extent, and whether or not substituted on
+22 the naphthyl group to any extent. Naphthoylpyrroles include, but
+23 are not limited to:
+24 a. 1-hexyl-2-phenyl-4-(1-naphthoyl)pyrrole (JWH-147),
+SENATE FLOOR VERSION - HB3767 SFLR Page 22
+(Bold face denotes Committee Amendments)
+
+1 b. 1-pentyl-5-(2-methylphenyl)-3-(1-naphthoyl)pyrrole
+2 (JWH-370),
+3 c. 1-pentyl-3-(1-naphthoyl)pyrrole (JWH-030), or
+4 d. 1-hexyl-5-phenyl-3-(1-naphthoyl)pyrrole (JWH-147);
+5 4. Naphthylideneindenes: any compound containing a 1-(1-
+6 naphthylmethylene)indene structure with or without substitution at
+7 the 3-position of the indene ring by an alkyl, haloalkyl,
+8 cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl,
+9 halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+10 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+11 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+12 phenyl, or halophenyl group, whether or not further substituted on
+13 the indene group to any extent, and whether or not substituted on
+14 the naphthyl group to any extent. Naphthylmethylindenes include,
+15 but are not limited to, (1-[(3-pentyl)-1H-inden-1-
+16 ylidene)methyl]naphthalene (JWH-176);
+17 5. Phenylacetylindoles: any compound containing a 3-
+18 phenylacetylindole structure with or without substitution at the
+19 nitrogen atom of the indole ring by alkyl, haloalkyl, cyanoalkyl,
+20 alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-
+21 (N-methyl-2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-
+22 2-pyrrolidinyl)methyl, 1-(N-methyl-3- morpholinyl)methyl,
+23 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+24 halophenyl group, whether or not further substituted on the indole
+SENATE FLOOR VERSION - HB3767 SFLR Page 23
+(Bold face denotes Committee Amendments)
+
+1 ring to any extent, and whether or not substituted on the phenyl
+2 ring to any extent. Phenylacetylindoles include, but are not
+3 limited to:
+4 a. 1-pentyl-3-(2-methoxyphenylacetyl)indole (JWH-250),
+5 b. 1-(2-cyclohexylethyl)-3-(2-methoxyphenylacetyl)indole
+6 (RCS-8),
+7 c. 1-pentyl-3-(2-chlorophenylacetyl)indole (JWH-203),
+8 d. 1-pentyl-3-(2-methylphenylacetyl)indole (JWH-251),
+9 e. 1-pentyl-3-(4-methoxyphenylacetyl)indole (JWH-201), or
+10 f. 1-pentyl-3-(3-methoxyphenylacetyl)indole (JWH-302);
+11 6. Cyclohexylphenols: any compound containing a 2-(3-
+12 hydroxycyclohexyl)phenol structure with or without substitution at
+13 the 5-position of the phenolic ring by an alkyl, haloalkyl,
+14 cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl,
+15 halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+16 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+17 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+18 phenyl, or halophenyl group, and whether or not further substituted
+19 on the cyclohexyl ring to any extent. Cyclohexylphenols include,
+20 but are not limited to:
+21 a. 5-(1,1-dimethylheptyl)-2-[(1R,3S)-3-
+22 hydroxycyclohexyl]-phenol (CP-47,497),
+23
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 24
+(Bold face denotes Committee Amendments)
+
+1 b. 5-(1,1-dimethyloctyl)-2-[(1R,3S)-3-hydroxycyclohexyl]-
+2 phenol (cannabicyclohexanol; CP-47,497 C8 homologue),
+3 or
+4 c. 5-(1,1-dimethylheptyl)-2-[(1R,2R)-5-hydroxy-2-(3-
+5 hydroxypropyl)cyclohexyl]-phenol (CP 55, 940);
+6 7. Benzoylindoles: any compound containing a 3-(benzoyl)indole
+7 structure with or without substitution at the nitrogen atom of the
+8 indole ring by an alkyl, haloalkyl, cyanoalkyl, alkenyl,
+9 cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-(N-methyl-
+10 2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-
+11 pyrrolidinyl)methyl, 1-(N-methyl-3- morpholinyl)methyl,
+12 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+13 halophenyl group, whether or not further substituted on the indole
+14 ring to any extent, and whether or not substituted on the phenyl
+15 group to any extent. Benzoylindoles include, but are not limited
+16 to:
+17 a. 1-pentyl-3-(4-methoxybenzoyl)indole (RCS-4),
+18 b. 1-[2-(4-morpholinyl)ethyl]-2-methyl-3-(4-
+19 methoxybenzoyl)indole (Pravadoline or WIN 48, 098),
+20 c. 1-(5-fluoropentyl)-3-(2-iodobenzoyl)indole (AM-694),
+21 d. 1-pentyl-3-(2-iodobenzoyl)indole (AM-679), or
+22 e. 1-[1-(N-methyl-2-piperidinyl)methyl]-3-(2-
+23 iodobenzoyl)indole (AM-2233);
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 25
+(Bold face denotes Committee Amendments)
+
+1 8. Cyclopropoylindoles: Any compound containing a 3-
+2 (cyclopropoyl)indole structure with substitution at the nitrogen
+3 atom of the indole ring by an alkyl, haloalkyl, cyanoalkyl, alkenyl,
+4 cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-(N-methyl-
+5 2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-
+6 pyrrolidinyl)methyl, 1-(N-methyl-3- morpholinyl)methyl,
+7 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+8 halophenyl group, whether or not further substituted in the indole
+9 ring to any extent, and whether or not substituted in the
+10 cyclopropoyl ring to any extent. Cyclopropoylindoles include, but
+11 are not limited to:
+12 a. 1-pentyl-3-(2,2,3,3-tetramethylcyclopropoyl)indole
+13 (UR-144),
+14 b. 1-(5-chloropentyl)-3-(2,2,3,3-
+15 tetramethylcyclopropoyl)indole (5Cl-UR-144), or
+16 c. 1-(5-fluoropentyl)-3-(2,2,3,3-
+17 tetramethylcyclopropoyl)indole (XLR11);
+18 9. Indole Amides: Any compound containing a 1H-Indole-3-
+19 carboxamide structure with or without substitution at the nitrogen
+20 atom of the indole ring by an alkyl, haloalkyl, cyanoalkyl, alkenyl,
+21 cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-(N-methyl-
+22 2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-
+23 pyrrolidinyl)methyl, 1-(N-methyl-3- morpholinyl)methyl,
+24 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+SENATE FLOOR VERSION - HB3767 SFLR Page 26
+(Bold face denotes Committee Amendments)
+
+1 halo phenyl group, whether or not substituted at the carboxamide
+2 group by an adamantyl, naphthyl, phenyl, benzyl, quinolinyl,
+3 cycloalkyl, 1-amino-3-methyl-1-oxobutan-2-yl, 1-amino-3,3-dimethyl-
+4 1-oxobutan-2-yl, 1-methoxy-3-methyl-1-oxobutan-2-yl, 1-methoxy-3,3-
+5 dimethyl-1-oxobutan-2-yl or pyrrole group, and whether or not
+6 further substituted in the indole, adamantyl, naphthyl, phenyl,
+7 pyrrole, quninolinyl, or cycloalkyl rings to any extent. Indole
+8 Amides include, but are not limited to:
+9 a. N-(1-adamantyl)-1-pentyl-1H-indole-3-carboxamide
+10 (2NE1),
+11 b. N-(1-adamantyl)-1-(5-fluoropentyl-1H-indole-3-
+12 carboxamide (STS-135),
+13 c. N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-
+14 indole-3-carboxamide (ADBICA),
+15 d. N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(5-
+16 fluoropentyl)-1H-indole-3-carboxamide (5F-ADBICA),
+17 e. N-(naphthalen-1-yl)-1-pentyl-1H-indole-3-carboxamide
+18 (NNE1),
+19 f. 1-(5-fluoropentyl)-N-(naphthalene-1-yl)-1H-indole-3-
+20 carboxamide (5F-NNE1),
+21 g. N-benzyl-1-pentyl-1H-indole-3-carboxamide (SDB-006),
+22 or
+23 h. N-benzyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide
+24 (5F-SDB-006);
+SENATE FLOOR VERSION - HB3767 SFLR Page 27
+(Bold face denotes Committee Amendments)
+
+1 10. Indole Esters: Any compound containing a 1H-Indole-3-
+2 carboxylate structure with or without substitution at the nitrogen
+3 atom of the indole ring by an alkyl, haloalkyl, cyanoalkyl, alkenyl,
+4 cycloalkylmethyl, cycloalkylethyl, benzyl, halobenzyl, 1-(N-methyl-
+5 2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-
+6 pyrrolidinyl)methyl, 1-(N-methyl-3-morpholinyl)methyl,
+7 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+8 halophenyl group, whether or not substituted at the carboxylate
+9 group by an adamantyl, naphthyl, phenyl, benzyl, quinolinyl,
+10 cycloalkyl, 1-amino-3-methyl-1-oxobutan-2-yl, 1-amino-3,3-dimethyl-
+11 1-oxobutan-2-yl, 1-methoxy-3-methyl-1-oxobutan-2-yl, 1-methoxy-3,3-
+12 dimethyl-1-oxobutan-2-yl or pyrrole group, and whether or not
+13 further substituted in the indole, adamantyl, naphthyl, phenyl,
+14 pyrrole, quinolinyl, or cycloalkyl rings to any extent. Indole
+15 Esters include, but are not limited to:
+16 a. quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate (PB-
+17 22),
+18 b. quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-
+19 carboxylate (5F-PB-22),
+20 c. quinolin-8-yl 1-(cyclohexylmethyl)-1H-indole-3-
+21 carboxylate (BB-22),
+22 d. naphthalen-1-yl 1-(4-fluorobenzyl)-1H-indole-3-
+23 carboxylate (FDU-PB-22), or
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 28
+(Bold face denotes Committee Amendments)
+
+1 e. naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-
+2 carboxylate (NM2201);
+3 11. Adamantanoylindoles: Any compound containing an
+4 adamantanyl-(1H-indol-3-yl)methanone structure with or without
+5 substitution at the nitrogen atom of the indole ring by an alkyl,
+6 haloalkyl, cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl,
+7 benzyl, halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+8 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+9 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+10 phenyl, or halophenyl group, whether or not further substituted in
+11 the indole ring to any extent, and whether or not substituted in the
+12 adamantyl ring to any extent. Adamantanoylindoles include, but are
+13 not limited to:
+14 a. adamantan-1-yl[1-[(1-methyl-2-piperidinyl)methyl]-1H-
+15 indol-3-yl]methanone (AM1248), or
+16 b. adamantan-1-yl-(1-pentyl-1H-indol-3-yl)methanone (AB-
+17 001);
+18 12. Carbazole Ketone Ketones: Any compound containing (9H-
+19 carbazole-3-yl) methanone structure with or without substitution at
+20 the nitrogen atom of the carbazole ring by an alkyl, haloalkyl,
+21 cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, benzyl,
+22 halobenzyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-
+23 morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-
+24 morpholinyl)methyl, (tetrahydropyran-4-yl)methyl, 1-methylazepanyl,
+SENATE FLOOR VERSION - HB3767 SFLR Page 29
+(Bold face denotes Committee Amendments)
+
+1 phen yl, or halophenyl group, with substitution at the carbon of the
+2 methanone group by an adamantyl, naphthyl, phenyl, benzyl,
+3 quinolinyl, cycloalkyl, 1-amino-3-methyl-1-oxobutan-2-yl, 1-amino-
+4 3,3-dimethyl-1-oxobutan-2-yl, 1-methoxy-3-methyl-1-oxobutan-2-yl, 1-
+5 methoxy-3,3-dimethyl-1-oxobutan-2-yl or pyrrole group, and whether
+6 or not further substituted at the carbazole, adamantyl, naphthyl,
+7 phenyl, pyrrole, quinolinyl, or cycloalkyl rings to any extent.
+8 Carbazole Ketones include, but are not limited to, naphthalen-1-
+9 yl(9-pentyl-9H-carbazol-3-yl)methanone (EG-018);
+10 13. Benzimidazole Ketone Ketones: Any compound containing
+11 (benzimidazole-2-yl) methanone structure with or without
+12 substitution at either nitrogen atom of the benzimidazole ring by an
+13 alkyl, haloalkyl, cyanoalkyl, alkenyl, cycloalkylmethyl,
+14 cycloalkylethyl, benzyl, halobenzyl, 1-(N-methyl-2-
+15 piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-
+16 pyrrolidinyl)methyl, 1-(N-methyl-3-morpholinyl)methyl,
+17 (tetrahydropyran-4-yl)methyl, 1-methylazepanyl, phenyl, or
+18 halophenyl group, with substitution at the carbon of the methanone
+19 group by an adamantyl, naphthyl, phenyl, benzyl, quinolinyl,
+20 cycloalkyl, 1-amino-3-methyl-1-oxobutan-2-yl, 1-amino-3,3-dimethyl-
+21 1-oxobutan-2-yl, 1-methoxy-3-methyl-1-oxobutan-2-yl, 1-methoxy-3,3-
+22 dimethyl-1-oxobutan-2-yl or pyrrole group, and whether or not
+23 further substituted in the benzimidazole, adamantyl, naphthyl,
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 30
+(Bold face denotes Committee Amendments)
+
+1 phen yl, pyrrole, quinolinyl, or cycloalkyl rings to any extent.
+2 Benzimidazole Ketones include, but are not limited to:
+3 a. naphthalen-1-yl(1-pentyl-1H-benzo[d]imidazol-2-
+4 l)methanone (JWH-018 benzimidazole analog), or
+5 b. (1-(5-fluoropentyl)-1H-benzo[d]imidazol-2-
+6 yl)(naphthalen-1-yl)methanone (FUBIMINA); and
+7 14. Modified by Replacement: any compound defined in this
+8 subsection that is modified by replacement of a carbon with nitrogen
+9 in the indole, naphthyl, indene, benzimidazole, or carbazole ring.
+10 H. Any prescription drug approved by the federal Food and Drug
+11 Administration under the provisions of Section 505 of the Federal
+12 Food, Drug, and Cosmetic Act, Title 21 of the United States Code 21
+13 U.S.C., Section 355, that is designated, rescheduled, or deleted as
+14 a controlled substance under federal law by the United States Drug
+15 Enforcement Administration shall be excluded from Schedule I and
+16 shall be prescribed, distributed, dispensed, or used in accordance
+17 with federal law upon the issuance of a notice, final rule, or
+18 interim final rule by the United States Drug Enforcement
+19 Administration designating, rescheduling, or deleting as a
+20 controlled substance such a drug product under federal law, unless
+21 and until the State Board of Pharmacy takes action pursuant to
+22 Section 2-201 of this title. If the State Board of Pharmacy does
+23 not take action pursuant to Section 2-201 of this title, the drug
+24 product shall be deemed to be designated, rescheduled, or deleted as
+SENATE FLOOR VERSION - HB3767 SFLR Page 31
+(Bold face denotes Committee Amendments)
+
+1 a co ntrolled substance in accordance with federal law and in
+2 compliance with the Uniform Controlled Dangerous Substances Act.
+3 SECTION 2. AMENDATORY 63 O.S. 2021, Section 2-210, is
+4 amended to read as follows:
+5 Section 2-210. A. Any material, compound, mixture, or
+6 preparation which contains any quantity of the following substances
+7 having a potential for abuse associated with a stimulant or
+8 depressant effect on the central nervous system:
+9 1. Chloral betaine;
+10 2. Chloral hydrate;
+11 3. Ethchlorvynol;
+12 4. Ethinamate;
+13 5. Meprobamate;
+14 6. Paraldehyde;
+15 7. Petrichloral;
+16 8. Diethylpropion;
+17 9. Phentermine;
+18 10. Pemoline;
+19 11. Chlordiazepoxide;
+20 12. Chlordiazepoxide and its salts, but not including
+21 chlordiazepoxide hydrochloride and clidinium bromide or
+22 chlordiazepoxide and water-soluble esterified estrogens;
+23 13. Diazepam;
+24 14. Oxazepam;
+SENATE FLOOR VERSION - HB3767 SFLR Page 32
+(Bold face denotes Committee Amendments)
+
+1 15. Clorazepate;
+2 16. Flurazepam and its salts;
+3 17. Clonazepam;
+4 18. Barbital;
+5 19. Mebutamate;
+6 20. Methohexital;
+7 21. Methylphenobarbital;
+8 22. Phenobarbital;
+9 23. Fenfluramine;
+10 24. Pentazocine;
+11 25. Propoxyphene;
+12 26. Butorphanol;
+13 27. Alprazolam;
+14 28. Halazepam;
+15 29. Lorazepam;
+16 30. Prazepam;
+17 31. Temazepam;
+18 32. Triazolam;
+19 33. Carisoprodol;
+20 34. Dichloralphenazone;
+21 35. Estazolam;
+22 36. Eszopiclone;
+23 37. Midazolam;
+24 38. Modafinil;
+SENATE FLOOR VERSION - HB3767 SFLR Page 33
+(Bold face denotes Committee Amendments)
+
+1 39. Zaleplon;
+2 40. Zolpidem;
+3 41. Tramadol;
+4 42. Bromazepam;
+5 43. Suvorexant;
+6 44. Phenazepam;
+7 45. Etizolam; or
+8 46. Clonazolam;
+9 47. Lormetazepam; or
+10 48. Nifoxipam.
+11 B. 1. The following nonnarcotic substances, which may, under
+12 the Federal Food, Drug, and Cosmetic Act (21, 21 U.S.C., Section
+13 301) 301 et seq., be lawfully sold over the counter without a
+14 prescription, are excluded from all schedules of controlled
+15 substances under this title:
+16 a. Breathe-Aid,
+17 b. BronCare,
+18 c. Bronchial Congestion,
+19 d. Bronkaid Tablets,
+20 e. Bronkaid Dual Action Caplets,
+21 f. Bronkotabs,
+22 g. Bronkolixir,
+23 h. NeoRespin,
+24 i. Pazo Hemorrhoid Ointment and Suppositories,
+SENATE FLOOR VERSION - HB3767 SFLR Page 34
+(Bold face denotes Committee Amendments)
+
+1 j. Primatene Tablets,
+2 k. Primatene “Dual Action” Formula,
+3 l. Quelidrine,
+4 m. Resp, and
+5 n. Vatronal Nose Drops.
+6 2. At the request of any person, the Director of the Oklahoma
+7 State Bureau of Narcotics and Dangerous Drugs Control may exempt any
+8 other drug product containing ephedrine from being included as a
+9 Schedule IV controlled substance if such product:
+10 a. is labeled and marketed in a manner consistent with
+11 the pertinent OTC tentative final or final monograph
+12 issued by the FDA United States Food and Drug
+13 Administration (FDA), and
+14 b. is manufactured and distributed for legitimate
+15 medicinal use and in a manner that reduces or
+16 eliminates the likelihood of abuse.
+17 3. In making a determination regarding a drug product, the
+18 Director, after notice and hearing, shall consider the following:
+19 a. the history and current pattern of abuse,
+20 b. the name and labeling of the product,
+21 c. the intended manner of distribution, advertising, and
+22 promotion of the product, and
+23 d. other factors as may be relevant to and consistent
+24 with the public health and safety.
+SENATE FLOOR VERSION - HB3767 SFLR Page 35
+(Bold face denotes Committee Amendments)
+
+1 4. The hearing shall be held in accordance with the
+2 Administrative Procedures Act.
+3 5. A list of current drug products meeting exemption
+4 requirements under this subsection may be obtained from the Oklahoma
+5 State Bureau of Narcotics and Dangerous Drugs Control upon written
+6 request.
+7 C. The State Board of Pharmacy may except by rule any compound,
+8 mixture, or preparation containing any depressant substance listed
+9 in subsection A of this section from the application of all or any
+10 part of the Uniform Controlled Dangerous Substances Act, Section 2-
+11 101 et seq. of this title, if the compound, mixture, or preparation
+12 contains one or more active medicinal ingredients not having a
+13 depressant effect on the central nervous system, and if the
+14 admixtures are included therein in combinations, quantity,
+15 proportion, or concentration that vitiate the potential for abuse of
+16 the substances which have a depressant effect on the central nervous
+17 system.
+18 SECTION 3. AMENDATORY 63 O.S. 2021, Section 2-309B, as
+19 amended by Section 1, Chapter 69, O.S.L. 2022 (63 O.S. Supp. 2025,
+20 Section 2-309B), is amended to read as follows:
+21 Section 2-309B. For the purposes of the Anti-Drug Diversion
+22 Act:
+23 1. “Bureau” means the Oklahoma State Bureau of Narcotics and
+24 Dangerous Drugs Control;
+SENATE FLOOR VERSION - HB3767 SFLR Page 36
+(Bold face denotes Committee Amendments)
+
+1 2. “Dispenser” means a person who distributes a Schedule II,
+2 III, IV, or V controlled dangerous substance, but does not include a
+3 licensed hospital pharmacy or a licensed nurse or medication aide
+4 who administers such a substance at the direction of a licensed
+5 physician;
+6 3. “Dispenser’s registration number” means the dispenser’s
+7 Oklahoma State Bureau of Narcotics and Dangerous Drugs Control
+8 registration number or, in the case of a pharmacist, the National
+9 Association of Boards of Pharmacy number for the pharmacy where the
+10 dispensation is made;
+11 4. “Exception report” means an output of data indicating
+12 Schedule II controlled dangerous substance dispensation which is
+13 outside expected norms for a prescriber practicing a particular
+14 specialty or field of health care, for a dispenser doing business in
+15 a particular location, or for a recipient;
+16 5. “Recipient” means the person for whom a prescription is
+17 prescribed and who is the lawful intended ultimate user;
+18 6. “Recipient’s agent” means a person who is authorized by the
+19 ultimate user to pick up the recipient’s medication and deliver it
+20 to the recipient or a person who claims a prescription other than
+21 the person to whom the medication is prescribed;
+22 7. “Recipient’s identification number” and “recipient’s agent’s
+23 identification number” means mean the unique number contained on
+24 forms of identification either listed in 8 CFR C.F.R., Section
+SENATE FLOOR VERSION - HB3767 SFLR Page 37
+(Bold face denotes Committee Amendments)
+
+1 274a .2(b)(1)(v)(A) and (B) or as otherwise listed in the rules of
+2 the Bureau;
+3 8. “Registrant” means a person, persons, corporation or other
+4 entity who has been issued by the Director of the Oklahoma State
+5 Bureau of Narcotics and Dangerous Drugs Control a registration
+6 pursuant to Section 2-302 of this title; and
+7 9. “State” means any state, territory, or possession of the
+8 United States, the District of Columbia, or foreign nation.
+9 SECTION 4. This act shall become effective November 1, 2026.
+10 COMMITTEE REPORT BY: COMMITTEE ON HEALTH AND HUMAN SERVICES
+April 13, 2026 - DO PASS AS AMENDED BY CS
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - HB3767 SFLR Page 38
+(Bold face denotes Committee Amendments)
+
+[DELETED: P B T  a J]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P p p e v s o p f c a s t g p p c]
+[DELETED: P a t t t o]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: P 1 1]
+[DELETED: P 1 1 1]
+[DELETED: P 1 1 1 1 1 1 5]
+[DELETED: P 5 5 1 1 1 1 1]
+[DELETED: P 1 1 1]
+[DELETED: P N N N N N 1 N N]
+[DELETED: P q q q n]
+[DELETED: P n a a]
+[DELETED: P]
+[DELETED: P n (]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P B B B B B B B N P]
+[DELETED: P P P Q R V i i t t t o]
+[DELETED: P]
+[DELETED: P]
+[DELETED: P]
