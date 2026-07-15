@@ -1,0 +1,95 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 1
+Source: versions - 1 Floor Amendment by CALDWELL
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB3989 FA1 CaldwellTr-JM
+3/23/2026 1:52:50 pm
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB3989
+Page 3 Section 1 Lines 17 - 20
+Of the Engrossed Bill
+By deleting all new language appearing on lines 17, 18, 19, and 20; and by
+inserting in lieu thereof the following language:
+"After August 26, 2026, a retail electric supplier shall provide notice to
+the Oklahoma Corporation Commission that it plans to serve a new electric
+consuming facility under this large load exception. Together with its
+notice, it shall include written certification from a licensed
+professional engineer that the load will reach or is reasonably expected
+to reach or exceed 1,000 kw of actual metered load during the first 24
+months of commercial operation. At the end of the 24 month period, the
+Commission or the incumbent utility may request verification, and obtain
+records through a Commission proceeding to determine whether the 1,000 kw
+level was reached. If that load fails to reach the 1,000 kw load during
+that 24 months after commercial operation, said retail electric supplier
+shall pay a penalty of 1% of sales to that electric consuming facility per
+annum to the incumbent retail electric supplier until such time as it does
+reach 1,000 kw. The penalty may not be recovered directly from ratepayers
+or members, and shall be paid from the profits or margins of the utility
+making the payments. The Corporation Commission shall enforce this
+penalty upon application of an interested party and may waive the penalty
+upon a finding that the utility serving said load was not at fault in
+serving said load which did not reach 1,000 kw for reasons unforeseen when
+service was extended. This section shall not apply to any such load
+served before August 26, 2026."
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Trey Caldwell
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+[DELETED: 3 AS C           O S L           ]
+
+
+================================================================================
+
+Raw Text:
+HB3989 FA1 CaldwellTr-JM
+3/23/2026 1:52:50 pm
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB3989
+Of the printed Bill
+Page 3 Section 1 Lines 17 - 20
+Of the Engrossed Bill
+By deleting all new language appearing on lines 17, 18, 19, and 20; and by
+inserting in lieu thereof the following language:
+"After August 26, 2026, a retail electric supplier shall provide notice to
+the Oklahoma Corporation Commission that it plans to serve a new electric
+consuming facility under this large load exception. Together with its
+notice, it shall include written certification from a licensed
+professional engineer that the load will reach or is reasonably expected
+to reach or exceed 1,000 kw of actual metered load during the first 24
+months of commercial operation. At the end of the 24 month period, the
+Commission or the incumbent utility may request verification, and obtain
+records through a Commission proceeding to determine whether the 1,000 kw
+level was reached. If that load fails to reach the 1,000 kw load during
+that 24 months after commercial operation, said retail electric supplier
+shall pay a penalty of 1% of sales to that electric consuming facility per
+annum to the incumbent retail electric supplier until such time as it does
+reach 1,000 kw. The penalty may not be recovered directly from ratepayers
+or members, and shall be paid from the profits or margins of the utility
+making the payments. The Corporation Commission shall enforce this
+penalty upon application of an interested party and may waive the penalty
+upon a finding that the utility serving said load was not at fault in
+serving said load which did not reach 1,000 kw for reasons unforeseen when
+service was extended. This section shall not apply to any such load
+served before August 26, 2026."
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Trey Caldwell
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+[DELETED: 3 AS C           O S L           ]

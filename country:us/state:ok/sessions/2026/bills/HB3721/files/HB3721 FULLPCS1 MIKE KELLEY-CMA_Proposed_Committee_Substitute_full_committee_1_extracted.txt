@@ -1,0 +1,2332 @@
+Title: Of the printed Bill
+Official Title: Of the printed Bill
+Number of Sections: 2
+Source: versions - Proposed Committee Substitute (full committee) 1
+Media Type: application/pdf
+Strikethrough Detection: 42 sections found
+
+================================================================================
+
+Section 1:
+HB3721 FULLPCS1 Mike Kelley-CMA
+2/13/2026 11:18:11 am
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB3721
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Mike Kelley
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+RBH No. 16326
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED OVERSIGHT
+COMMITTEE SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 3721 By: Kelley
+5
+6
+7
+8 PROPOSED OVERSIGHT COMMITTEE SUBSTITUTE
+9 An Act relating to retirement; amending 62 O.S. 2021,
+
+Section 2:
+Section 3103, as last amended by Section 2, Chapter
+10 361, O.S.L. 2024 (62 O.S. Supp. 2025, Section 3103),
+which relates to the Oklahoma Pension Legislation
+11 Actuarial Analysis Act; modifying terms; amending 11
+O.S. 2021, Sections 49-106.1, as last amended by
+12 Section 2, Chapter 151, O.S.L. 2023, and 50-111.3 (11
+O.S. Supp. 2025, Section 49-106.1), which relate to
+13 deferred option plans; amending 47 O.S. 2021, Section
+2-305.2, as amended by Section 1, Chapter 80, O.S.L.
+14 2022 (47 O.S. Supp. 2025, Section 2-305.2), which
+relates to deferred option plans; modifying
+15 provisions related to deferred option plans;
+permitting certain individuals to make certain
+16 election; defining term; providing for calculation of
+certain benefit; providing effective dates; providing
+17 for contingent effective dates based on outcome of
+approval of the emergency clause; and declaring an
+18 emergency.
+19
+20
+21 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+22 SECTION 1. AMENDATORY 62 O.S. 2021, Section 3103, as
+23 last amended by Section 2, Chapter 361, O.S.L. 2024 (62 O.S. Supp.
+24 2025, Section 3103), is amended to read as follows:
+Req. No. 16326 Page 1
+RBH No. 16326
+1 Section 3103. As used in the Oklahoma Pension Legislation
+2 Actuarial Analysis Act:
+3 1. "Amendment" means any amendment, including a substitute
+4 bill, made to a retirement bill by any committee of the House of
+5 Representatives or Senate, any conference committee of the House or
+6 Senate or by the House or Senate;
+7 2. "RB number" means that number preceded by the letters "RB"
+8 assigned to a retirement bill by the respective staffs of the
+9 Oklahoma State Senate and the Oklahoma House of Representatives when
+10 the respective staff office prepares a retirement bill for a member
+11 of the Legislature;
+12 3. "Legislative Actuary" means the firm or entity that enters
+13 into a contract with the Legislative Service Bureau pursuant to
+14 Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+15 actuarial services and other duties provided for in the Oklahoma
+16 Pension Legislation Actuarial Analysis Act;
+17 4. "Nonfiscal amendment" means an amendment to a retirement
+18 bill having a fiscal impact, which amendment does not change any
+19 factor of an actuarial investigation specified in subsection A of
+20 Section 3109 of this title;
+21 5. "Nonfiscal retirement bill" means a retirement bill:
+22 a. which does not affect the cost or funding factors of a
+23 retirement system,
+24
+Req. No. 16326 Page 2
+RBH No. 16326
+1 b. which affects such factors only in a manner which does
+2 not:
+3 (1) grant a benefit increase under the retirement
+4 system affected by the bill,
+5 (2) create an actuarial accrued liability for or
+6 increase the actuarial accrued liability of the
+7 retirement system affected by the bill, or
+8 (3) increase the normal cost of the retirement system
+9 affected by the bill,
+10 c. which authorizes the purchase by an active member of
+11 the retirement system, at the actuarial cost for the
+12 purchase as computed pursuant to the statute in effect
+13 on the effective date of the measure allowing such
+14 purchase, of years of service for purposes of reaching
+15 a normal retirement date in the applicable retirement
+16 system, but which cannot be used in order to compute
+17 the number of years of service for purposes of
+18 computing the retirement benefit for the member,
+19 d. which provides for the computation of a service-
+20 connected disability retirement benefit for members of
+21 the Oklahoma Law Enforcement Retirement System
+22 pursuant to Section 2-305 of Title 47 of the Oklahoma
+23 Statutes if the members were unable to complete twenty
+24 (20) years of service as a result of the disability,
+Req. No. 16326 Page 3
+RBH No. 16326
+1 e. which requires membership in the defined benefit plan
+2 authorized by Section 901 et seq. of Title 74 of the
+3 Oklahoma Statutes for persons whose first elected or
+4 appointed service occurs on or after November 1, 2018,
+5 if such persons had any prior service in the Oklahoma
+6 Public Employees Retirement System prior to November
+7 1, 2015,
+8 f. which provides for a one-time increase in retirement
+9 benefits if the increase in retirement benefits is not
+10 a permanent increase in the gross annual retirement
+11 benefit payable to a member or beneficiary, occurs
+12 only once pursuant to a single statutory authorization
+13 and does not exceed:
+14 (1) the lesser of two percent (2%) of the gross
+15 annual retirement benefit of the member or One
+16 Thousand Dollars ($1,000.00) and requires that
+17 the benefit may only be provided if the funded
+18 ratio of the affected retirement system would not
+19 be less than sixty percent (60%) but not greater
+20 than eighty percent (80%) after the benefit
+21 increase is paid,
+22 (2) the lesser of two percent (2%) of the gross
+23 annual retirement benefit of the member or One
+24 Thousand Two Hundred Dollars ($1,200.00) and
+Req. No. 16326 Page 4
+RBH No. 16326
+1 requires that the benefit may only be provided if
+2 the funded ratio of the affected retirement
+3 system would be greater than eighty percent (80%)
+4 but not greater than one hundred percent (100%)
+5 after the benefit increase is paid,
+6 (3) the lesser of two percent (2%) of the gross
+7 annual retirement benefit of the member or One
+8 Thousand Four Hundred Dollars ($1,400.00) and
+9 requires that the benefit may only be provided if
+10 the funded ratio of the affected retirement
+11 system would be greater than one hundred percent
+12 (100%) after the benefit increase is paid, or
+13 (4) the greater of two percent (2%) of the gross
+14 annual retirement benefit of the volunteer
+15 firefighter or One Hundred Dollars ($100.00) for
+16 persons who retired from the Oklahoma
+17 Firefighters Pension and Retirement System as
+18 volunteer firefighters and who did not retire
+19 from the Oklahoma Firefighters Pension and
+20 Retirement System as a paid firefighter.
+21 As used in this subparagraph, "funded ratio" means the
+22 figure derived by dividing the actuarial value of
+23 assets of the applicable retirement system by the
+24
+Req. No. 16326 Page 5
+RBH No. 16326
+1 actuarial accrued liability of the applicable
+2 retirement system,
+3 g. which modifies the disability pension standard for
+4 police officers who are members of the Oklahoma Police
+5 Pension and Retirement System as provided by Section
+6 50-115 of Title 11 of the Oklahoma Statutes,
+7 h. which provides a cost-of-living benefit increase
+8 pursuant to the provisions of:
+9 (1) Section 49-143.7 of Title 11 of the Oklahoma
+10 Statutes,
+11 (2) Section 50-136.9 of Title 11 of the Oklahoma
+12 Statutes,
+13 (3) Section 1104K of Title 20 of the Oklahoma
+14 Statutes,
+15 (4) Section 2-305.12 of Title 47 of the Oklahoma
+16 Statutes,
+17 (5) Section 17-116.22 of Title 70 of the Oklahoma
+18 Statutes,
+19 (6) Section 930.11 of Title 74 of the Oklahoma
+20 Statutes,
+21 i. which modifies the computation of the line-of-duty
+22 disability benefit pursuant to the provisions of this
+23 section and Sections 50-101 and 50-115 of Title 11 of
+24 the Oklahoma Statutes, or
+Req. No. 16326 Page 6
+RBH No. 16326
+1 j. which authorizes membership in the Oklahoma Law
+2 Enforcement Retirement System for active commissioned
+3 or CLEET-certified agents of the Office of the
+4 Attorney General or the Military Department of the
+5 State of Oklahoma pursuant to Sections 3 2-309.9 and 4
+6 2-309.10 of this act Title 47 of the Oklahoma
+7 Statutes, or
+8 k. which authorizes certain individuals to make certain
+9 election related to the Oklahoma Firefighters Deferred
+10 Option Plan, the Oklahoma Police Deferred Option Plan,
+11 or the Oklahoma Law Enforcement Deferred Option Plan,
+12 pursuant to Sections 2, 3, and 4 of this act.
+13 A nonfiscal retirement bill shall include any retirement bill that
+14 has as its sole purpose the appropriation or distribution or
+15 redistribution of monies in some manner to a retirement system for
+16 purposes of reducing the unfunded liability of such system or the
+17 earmarking of a portion of the revenue from a tax to a retirement
+18 system or increasing the percentage of the revenue earmarked from a
+19 tax to a retirement system;
+20 6. "Reduction-in-cost amendment" means an amendment to a
+21 retirement bill having a fiscal impact which reduces the cost of the
+22 bill as such cost is determined by the actuarial investigation for
+23 the bill prepared pursuant to Section 3109 of this title;
+24
+Req. No. 16326 Page 7
+RBH No. 16326
+1 7. "Retirement bill" means any bill or joint resolution
+2 introduced or any bill or joint resolution amended by a member of
+3 the Legislature which creates or amends any law directly affecting a
+4 retirement system. A retirement bill shall not mean a bill or
+5 resolution that impacts the revenue of any state tax in which a
+6 portion of the revenue generated from such tax is earmarked for the
+7 benefit of a retirement system;
+8 8. "Retirement bill having a fiscal impact" means any
+9 retirement bill creating or establishing a retirement system and any
+10 other retirement bill other than a nonfiscal retirement bill; and
+11 9. "Retirement system" means the Teachers' Retirement System of
+12 Oklahoma, the Oklahoma Public Employees Retirement System, the
+13 Uniform Retirement System for Justices and Judges, the Oklahoma
+14 Firefighters Pension and Retirement System, the Oklahoma Police
+15 Pension and Retirement System, the Oklahoma Law Enforcement
+16 Retirement System, or a retirement system established after January
+17 1, 2006.
+18 SECTION 2. AMENDATORY 11 O.S. 2021, Section 49-106.1, as
+19 last amended by Section 2, Chapter 151, O.S.L. 2023 (11 O.S. Supp.
+20 2025, Section 49-106.1), is amended to read as follows:
+21 Section 49-106.1. A. In lieu of terminating employment and
+22 accepting a service retirement pension pursuant to Sections 49-101
+23 and 49-106 of this title, any member of the Oklahoma Firefighters
+24 Pension and Retirement System serving as an active firefighter in a
+Req. No. 16326 Page 8
+RBH No. 16326
+1 fire department of a participating municipality who has not less
+2 than twenty (20) years of creditable service may elect to
+3 participate in the Oklahoma Firefighters Deferred Option Plan and
+4 defer the receipts of benefits in accordance with the provisions of
+5 this section.
+6 B. For purposes of this section, creditable service shall
+7 include service credit reciprocally recognized pursuant to Sections
+8 49-100.1 through 49-100.8 and Sections 49-101, 49-101.1 and 49-101.2
+9 of this title but for eligibility purposes only.
+10 C. The duration of participation in the Oklahoma Firefighters
+11 Deferred Option Plan for active firefighters shall not exceed five
+12 (5) years. Participation in the Oklahoma Firefighters Deferred
+13 Option Plan must begin the first day of a month and end on the last
+14 day of a month. At the conclusion of a member’s participation in
+15 the Oklahoma Firefighters Deferred Option Plan, the member shall
+16 terminate employment with all participating municipalities as a
+17 firefighter, and shall start receiving the member’s accrued monthly
+18 retirement benefit from the System. Such a member may be reemployed
+19 by a participating municipality but only in a position not covered
+20 under the System, and receive in-service distributions of such
+21 member’s accrued monthly retirement benefit from the System.
+22 D. When a member begins participation in the Oklahoma
+23 Firefighters Deferred Option Plan, the contribution of the member
+24 shall cease. The employer contributions shall continue to be paid
+Req. No. 16326 Page 9
+RBH No. 16326
+1 in a ccordance with subsection B of Section 49-122 of this title.
+2 Employer contributions for members who elect the Oklahoma
+3 Firefighters Deferred Option Plan shall be credited equally to the
+4 Oklahoma Firefighters Pension and Retirement System and to the
+5 member’s Oklahoma Firefighters Deferred Option Plan account. The
+6 monthly retirement benefits that would have been payable had the
+7 member elected to cease employment and receive a service retirement
+8 shall be paid into the member’s Oklahoma Firefighters Deferred
+9 Option Plan account.
+10 E. 1. A member who participates in this plan shall be eligible
+11 to receive cost-of-living increases.
+12 2. A member who participates in this plan shall earn interest
+13 at a rate of two percentage points below the rate of return of the
+14 investment portfolio of the System, but no less than the actuarial
+15 assumed interest rate as certified by the actuary in the yearly
+16 evaluation report of the actuary. The interest shall be credited to
+17 the individual account balance of the member on an annual basis.
+18 3. Effective November 1, 2013, the Oklahoma Firefighters
+19 Deferred Option Plan account for a member whose first service with a
+20 participating municipality of the System occurs on or after November
+21 1, 2013, and who participates for the first time in the Oklahoma
+22 Firefighters Deferred Option Plan on or after November 1, 2013, and
+23 has completed active participation in the Oklahoma Firefighters
+24 Deferred Option Plan, shall earn interest at a rate equal to the
+Req. No. 16326 Page 10
+RBH No. 16326
+1 actu al rate of return of the investment portfolio of the System,
+2 less one (1) percentage point to offset administrative costs of the
+3 System as determined by the System.
+4 F. A member in the plan shall receive, at the option of the
+5 member, a lump-sum payment from the account equal to the payments to
+6 the account or an annuity based upon the account of the member or
+7 may elect any other method of payment if approved by the Board of
+8 Trustees. If a member becomes so physically or mentally disabled
+9 while in, or in consequence of, the performance of his or her duty
+10 as to prevent the effective performance of his or her duties that
+11 the State Board approves an in-line-of-duty disability pension, the
+12 payment from the account shall be an in-line-of-duty disability
+13 payment. Notwithstanding any other provision contained herein to
+14 the contrary, commencement of distributions under the Oklahoma
+15 Firefighters Deferred Option Plan shall be no later than the time as
+16 set forth in subsection B of Section 49-106 of this title and a
+17 member whose first service with a participating municipality of the
+18 System occurs on or after November 1, 2013, and who participates for
+19 the first time in the Oklahoma Firefighters Deferred Option Plan on
+20 or after November 1, 2013, must receive a distribution of the entire
+21 remaining balance in the member’s Oklahoma Firefighters Deferred
+22 Option Plan account no later than April 1 of the calendar year
+23 following the later of:
+24
+Req. No. 16326 Page 11
+RBH No. 16326
+1 1. The calendar year in which the member reaches seventy and
+2 one-half (70 1/2) years of age for a member who attains age seventy
+3 and one-half (70 1/2) before January 1, 2020, or effective for
+4 distributions required to be made after December 31, 2019, but
+5 before January 1, 2023, the calendar year in which the member
+6 reaches seventy-two (72) years of age for an individual who attains
+7 age seventy and one-half (70 1/2) after December 31, 2019, or
+8 effective for distributions required to be made after December 31,
+9 2022, the calendar year in which the member reaches seventy-three
+10 (73) years of age for an individual who attains age seventy-two (72)
+11 after December 31, 2022, or “the applicable age”, as defined in
+12 Section 401(a)(9)(C)(v) of the Internal Revenue Code of 1986, as
+13 amended, if later; or
+14 2. The actual retirement date of the member.
+15 G. If a member dies while maintaining an account balance in the
+16 plan the System shall pay to the designated recipient or recipients
+17 of the member, or if there is no designated recipient or if the
+18 designated recipient predeceases the member, to the spouse of the
+19 member, or if there is no spouse or if the spouse predeceases the
+20 member, to the estate of the member a lump-sum payment equal to the
+21 account balance of the member. If such member was receiving, or
+22 eligible to receive, an in-line-of-duty disability pension at the
+23 time of his or her death, payment of the account balance shall be an
+24 in-line-of-duty disability payment. If a designated recipient is
+Req. No. 16326 Page 12
+RBH No. 16326
+1 the surviving spouse of the member, the surviving spouse shall
+2 receive his or her portion of the account balance of the member
+3 pursuant to subsection F of this section. The surviving spouse,
+4 whether or not he or she is a designated recipient of the member,
+5 may elect to receive his or her portion of the account balance of
+6 the member in the same manner as was applicable to the member.
+7 H. In lieu of participating in the Oklahoma Firefighters
+8 Deferred Option Plan pursuant to subsections A, B, C, D, E and F of
+9 this section, a member may elect to participate in the Oklahoma
+10 Firefighters Deferred Option Plan pursuant to this subsection as
+11 follows:
+12 1. For purposes of this subsection and subsection I of this
+13 section, the following definitions shall apply:
+14 a. “back drop date” means the member’s normal retirement
+15 date or the date five (5) years before the member
+16 elects to participate in the Oklahoma Firefighters
+17 Deferred Option Plan, whichever date is later,
+18 b. “termination date” means the date the member elects to
+19 participate in the Oklahoma Firefighters Deferred
+20 Option Plan pursuant to this subsection, and the date
+21 the member terminates employment with all
+22 participating municipalities as an active firefighter,
+23
+24
+Req. No. 16326 Page 13
+RBH No. 16326
+1 c. “earlier attained credited service” means the credited
+2 service earned by a member as of the back drop date,
+3 and
+4 d. “deferred benefit balance” means all monthly
+5 retirement benefits that would have been payable had
+6 the member elected to cease employment on the back
+7 drop date and receive a service retirement from the
+8 back drop date to the termination date, all the
+9 member’s contributions and one-half (1/2) of the
+10 employer contributions from the back drop date to the
+11 termination date, with interest based on how the
+12 benefit would have accumulated on a compound annual
+13 basis as if the member had participated in the
+14 Oklahoma Firefighters Deferred Option Plan pursuant to
+15 subsections A, B, C, D, E and F of this section from
+16 the back drop date to the termination date; and
+17 2. At the termination date, the monthly pension benefit shall
+18 be determined based on earlier attained credited service and on the
+19 final average salary as of the back drop date. The member’s
+20 individual deferred option account shall be credited with an amount
+21 equal to the deferred benefit balance, the member shall terminate
+22 employment with all participating municipalities as a firefighter,
+23 and shall start receiving the member’s accrued monthly retirement
+24 benefit from the System. Such a member may be reemployed by a
+Req. No. 16326 Page 14
+RBH No. 16326
+1 part icipating municipality but only in a position not covered under
+2 the System, and receive in-service distributions of such member’s
+3 accrued monthly retirement benefit from the System. The provisions
+4 of subsections B, C, E, F and G of this section shall apply to this
+5 subsection. A member shall not participate in the Oklahoma
+6 Firefighters Deferred Option Plan pursuant to this subsection if the
+7 member has elected to participate in the Oklahoma Firefighters
+8 Deferred Option Plan pursuant to subsections A, B, C, D, E and F of
+9 this section.
+10 I. Certain surviving spouses and members Members not
+11 participating in the Oklahoma Firefighters Deferred Option Plan
+12 pursuant to subsections A, B, C, D, E and F of this section, certain
+13 surviving spouses, and certain surviving children shall be eligible
+14 to participate in the Oklahoma Firefighters Deferred Option Plan
+15 pursuant to subsection H of this section and this subsection.
+16 1. For purposes of this subsection, the following definitions
+17 shall apply:
+18 a. “back drop election date” means the date the surviving
+19 spouse or member elects, or all of a member’s
+20 established children unanimously elect, to commence
+21 participation in the Oklahoma Firefighters Deferred
+22 Option Plan pursuant to subsection H of this section
+23 and this subsection,
+24
+Req. No. 16326 Page 15
+RBH No. 16326
+1 b. “interest” means interest at a rate of two percentage
+2 points below the rate of return of the investment
+3 portfolio of the System, but no less than the
+4 actuarial assumed interest rate as certified by the
+5 actuary in the yearly evaluation report of the
+6 actuary,
+7 c. “monthly adjustment amount” means the difference
+8 between the monthly pension prior to the back drop
+9 election and the adjusted monthly pension due to the
+10 back drop election,
+11 d. “back drop pension adjustment amount” means the sum of
+12 all the monthly adjustment amounts adjusted for
+13 interest from the pension commencement date to the
+14 back drop election date, and
+15 e. “deferred benefit balance adjustment amount” means the
+16 interest on the deferred benefit balance from the
+17 pension commencement date to the back drop election
+18 date, and
+19 f. “established child” means, in the case of a deceased
+20 member who does not have a surviving spouse, any
+21 surviving biological or adopted child of such member
+22 who is alive on the date of the election described in
+23 subparagraph b of paragraph 2 of this subsection and
+24 who is a beneficiary of such member, as defined in
+Req. No. 16326 Page 16
+RBH No. 16326
+1 Section 49-100.1 of this title, or who would be a
+2 beneficiary of such member under Section 49-100.1 of
+3 this title if the age requirements set forth therein
+4 did not apply.
+5 2. If a member who has more than twenty (20) years of
+6 creditable service and is eligible to receive a service retirement
+7 pension dies on or after June 4, 2007, and prior to terminating
+8 employment,:
+9 a. The member’s surviving spouse shall be eligible to
+10 elect to receive a benefit determined as if the member
+11 had elected to participate in the Oklahoma
+12 Firefighters Deferred Option Plan in accordance with
+13 subsection H of this section on the day immediately
+14 preceding such member’s death. Prior to July 1, 2010,
+15 the surviving spouse must make any such election
+16 within one (1) year from the date of the member’s
+17 death. Effective July 1, 2010, the surviving spouse
+18 must make any such election within ninety (90) days
+19 from the date of the member’s death. If on or after
+20 June 4, 2007, such election is made, the monthly
+21 pension such surviving spouse is entitled to receive
+22 shall be adjusted in accordance with the provisions of
+23 subsection H of this section to account for the
+24 member’s participation in the Oklahoma Firefighters
+Req. No. 16326 Page 17
+RBH No. 16326
+1 Deferred Option Plan. The surviving spouse may only
+2 make this election if the member has not previously
+3 elected to participate in the Oklahoma Firefighters
+4 Deferred Option Plan. For purposes of this election,
+5 the surviving spouse must have been married to the
+6 firefighter for the thirty (30) continuous months
+7 preceding the firefighter’s death; provided, the
+8 surviving spouse of a member who died while in, or as
+9 a consequence of, the performance of the member’s duty
+10 for a participating municipality shall not be subject
+11 to the marriage limitation for this election; or
+12 b. Effective July 1, 2026, a member’s established
+13 children shall be eligible to elect to
+14 participate in the Oklahoma Firefighters
+15 Deferred Option Plan pursuant to subsection H of
+16 this section and this subsection so long as the
+17 member did not participate in the Oklahoma
+18 Firefighters Deferred Option Plan pursuant to
+19 subsections A, B, C, D, E and F of this section
+20 and provided that none of the established
+21 children is receiving, or by reason of an
+22 existing disability will be eligible to receive
+23 upon attaining eighteen (18) years of age,
+24 disabled survivor pension benefits pursuant to
+Req. No. 16326 Page 18
+RBH No. 16326
+1 Section 49-112 of this title. For the election
+2 to be effective, all established children must
+3 unanimously elect in writing within two (2)
+4 years from the member’s date of death to make
+5 such back drop election in accordance with any
+6 rules, resolutions, or procedures promulgated or
+7 adopted by the State Board. Once the election
+8 is timely made and the State Board has
+9 determined that all established children have
+10 been accounted for and made such election, each
+11 established child shall, as soon as practicable,
+12 receive an equal share of the deferred benefit
+13 balance, taking into account any reductions or
+14 adjustments to the deferred benefit balance
+15 described in the paragraph below for an
+16 established child receiving a survivor pension
+17 benefit. The State Board may rely on any
+18 reasonable method to determine that all
+19 established children have been accounted for;
+20 provided, however, that the State Board may
+21 conclusively rely on an order of any court of
+22 competent jurisdiction in making such
+23 determination. No interest shall accrue or be
+24 paid on the deferred benefit balance with
+Req. No. 16326 Page 19
+RBH No. 16326
+1 respect to any period after the member’s date of
+2 death. Any payment made to a member’s
+3 established child pursuant to this subparagraph
+4 shall be included in the total payments made
+5 with respect to a member pursuant to paragraph 4
+6 of subsection A of Section 49-113 of this title.
+7 In the event an established child is a
+8 beneficiary entitled to receive survivor pension
+9 benefits for any period, such established
+10 child’s pension benefit shall continue to be
+11 calculated pursuant to section 49-112 of this
+12 title without regard to whether the election is
+13 made; provided, however, that if a back drop
+14 election is made pursuant to this subsection,
+15 the difference between such established child’s
+16 pension benefit calculated pursuant to Section
+17 49-112 of this title and the pension benefit
+18 calculated pursuant to subsection H of this
+19 section shall reduce the deferred benefit
+20 balance. In calculating such reduction, the sum
+21 of such pension benefits will be reduced to a
+22 present value as of the member’s date of death
+23 using the actuarial assumed interest rate as of
+24 the member's date of death as certified by the
+Req. No. 16326 Page 20
+RBH No. 16326
+1 actuary in the yearly evaluation report of the
+2 actuary, and assuming that the pension benefit
+3 will continue until the youngest of all
+4 established children attains twenty-two (22)
+5 years of age and such
+6 other assumptions that the State Board may
+7 promulgate or adopt by rule, resolution, or
+8 procedure. The portion of the deferred benefit
+9 balance an established child receives shall not
+10 be reduced by the back drop pension adjustment
+11 amount applicable to such established child
+12 other than as a result of the reduction in the
+13 deferred benefit balance.
+14 c. Nothing in this paragraph or subsection is meant to
+15 create any benefits not otherwise allowed by law.
+16 3. If a member has more than twenty (20) years of creditable
+17 service and is eligible for a retirement for disability monthly
+18 pension pursuant to Section 49-109 of this title on or after June 4,
+19 2007, such member shall be eligible to elect to receive a benefit
+20 determined as if the member had elected to participate in the
+21 Oklahoma Firefighters Deferred Option Plan, in accordance with
+22 subsection H of this section, on the day immediately preceding the
+23 date of the member’s disability retirement, provided such election
+24 is made within two (2) years from the date of the member’s
+Req. No. 16326 Page 21
+RBH No. 16326
+1 disa bility retirement. The disability monthly pension such member
+2 is receiving, or entitled to receive, shall be adjusted in
+3 accordance with the provisions of subsection H of this section to
+4 account for the member’s participation in the Oklahoma Firefighters
+5 Deferred Option Plan. The deferred benefit balance such member is
+6 entitled to receive shall be reduced by the back drop pension
+7 adjustment amount and increased by the deferred benefit balance
+8 adjustment amount. The member may only make a back drop election if
+9 the deferred benefit balance after the adjustment described in this
+10 paragraph is greater than Zero Dollars ($0.00). The member may only
+11 make this election if the member has not previously elected to
+12 participate in the Oklahoma Firefighters Deferred Option Plan.
+13 4. If a member has more than twenty (20) years of creditable
+14 service and filed a grievance for wrongful termination occurring on
+15 or after June 4, 2007, or is not a member of a collective bargaining
+16 organization as a firefighter, is involuntarily terminated and is
+17 seeking to have his or her position as a firefighter reinstated
+18 through a legal process, but is not reinstated as an active member,
+19 such member shall be eligible to elect to receive a benefit
+20 determined as if the member had elected to participate in the
+21 Oklahoma Firefighters Deferred Option Plan in accordance with
+22 subsection H of this section on the day immediately preceding the
+23 date of the member’s termination. Such election must be made within
+24 two (2) years from the date of the member’s termination as an active
+Req. No. 16326 Page 22
+RBH No. 16326
+1 memb er and, if the member’s case pertaining to the member’s
+2 termination is on appeal to a court of competent jurisdiction,
+3 within such period set by the State Board in its sole discretion.
+4 The monthly pension such member is receiving, or entitled to
+5 receive, shall be adjusted in accordance with the provisions of
+6 subsection H of this section to account for the member’s
+7 participation in the Oklahoma Firefighters Deferred Option Plan.
+8 The deferred benefit balance such member is entitled to receive
+9 shall be reduced by the back drop pension adjustment amount and
+10 increased by the deferred benefit balance adjustment amount. The
+11 member may only make a back drop election if the deferred benefit
+12 balance after the adjustment described in this paragraph is greater
+13 than Zero Dollars ($0.00). The member may only make this election
+14 if the member has not previously elected to participate in the
+15 Oklahoma Firefighters Deferred Option Plan.
+16 5. Subparagraphs d and e of paragraph 1 and paragraphs 3 and 4
+17 of this subsection are effective June 4, 2007, provided the Internal
+18 Revenue Service issues a favorable determination letter for the
+19 System which includes the provisions of such subparagraphs and
+20 paragraphs without modification or as modified to conform to any
+21 changes required by the Internal Revenue Service as part of its
+22 determination letter review process. In the event the Internal
+23 Revenue Service does not issue such a determination letter which
+24 includes the provisions of such subparagraphs or paragraphs without
+Req. No. 16326 Page 23
+RBH No. 16326
+1 modi fication or as modified to conform to any changes required by
+2 the Internal Revenue Service as part of its determination letter
+3 review process, then subparagraphs d and e of paragraph 1 and
+4 paragraphs 3 and 4 of this subsection shall be repealed effective
+5 June 4, 2007.
+6 SECTION 3. AMENDATORY 11 O.S. 2021, Section 50-111.3, is
+7 amended to read as follows:
+8 Section 50-111.3. A. In lieu of terminating employment and
+9 accepting a service retirement pension pursuant to Section 50-114 of
+10 this title, any member of the Oklahoma Police Pension and Retirement
+11 System who has not less than twenty (20) years of creditable service
+12 and who is eligible to receive a service retirement pension may make
+13 an irrevocable election to participate in the Oklahoma Police
+14 Deferred Option Plan and defer the receipts of benefits in
+15 accordance with the provisions of this section.
+16 B. For purposes of this section, creditable service shall
+17 include service credit reciprocally recognized pursuant to Section
+18 50-101 et seq. of this title but for eligibility purposes only.
+19 C. The duration of participation in the Oklahoma Police
+20 Deferred Option Plan for a member shall not exceed five (5) years.
+21 Participation in the Oklahoma Police Deferred Option Plan must begin
+22 the first day of a month and end on the last day of a month. At the
+23 conclusion of a member's participation in the Oklahoma Police
+24 Deferred Option Plan, the member shall terminate employment with all
+Req. No. 16326 Page 24
+RBH No. 16326
+1 part icipating municipalities as an officer, and shall start
+2 receiving the member's accrued monthly retirement benefit from the
+3 System. Such a member may receive in-service distributions of such
+4 member's accrued monthly retirement benefit from the System if such
+5 member is reemployed by a participating municipality only if such
+6 reemployment is as a police chief or in a position not covered under
+7 the System.
+8 D. When a member begins participation in the Oklahoma Police
+9 Deferred Option Plan, the contribution of the employee shall cease.
+10 The employer contributions shall continue to be paid in accordance
+11 with Section 50-109 of this title. Municipal contributions for
+12 employees who elect the Oklahoma Police Deferred Option Plan shall
+13 be credited equally to the Oklahoma Police Pension and Retirement
+14 System and to the Oklahoma Police Deferred Option Plan. The monthly
+15 retirement benefits that would have been payable had the member
+16 elected to cease employment and receive a service retirement shall
+17 be paid into the Oklahoma Police Deferred Option Plan account.
+18 E. 1. A member who participates in this plan shall be eligible
+19 to receive cost of living increases.
+20 2. A member who participates in this plan shall earn interest
+21 at a rate of two percentage points below the rate of return of the
+22 investment portfolio of the System, but no less than the actuarial
+23 assumed interest rate as certified by the actuary in the yearly
+24
+Req. No. 16326 Page 25
+RBH No. 16326
+1 eval uation report of the actuary. The interest shall be credited to
+2 the individual account balance of the member on an annual basis.
+3 F. A participant in the Oklahoma Police Deferred Option Plan
+4 shall receive, at the option of the participant:
+5 1. A lump sum payment from the account equal to the option
+6 account balance of the participant, payable to the participant;
+7 2. A lump sum payment from the account equal to the option
+8 account balance of the participant, payable to the annuity provider
+9 which shall be selected by the participant as a result of the
+10 research and investigation of the participant; or
+11 3. Any other method of payment if approved by the State Board.
+12 Notwithstanding any other provision contained herein to the
+13 contrary, commencement of distributions under the Oklahoma Police
+14 Deferred Option Plan shall be no later than the time as set forth in
+15 subsection C of Section 50-114 of this title.
+16 G. If the participant dies during the period of participation
+17 in the Oklahoma Police Deferred Option Plan, a lump sum payment
+18 equal to the account balance of the participant shall be paid to the
+19 recipients, which may include a trust, properly designated in
+20 writing by the participant or, if none, to the surviving spouse who
+21 was married to the participant for the thirty (30) continuous months
+22 immediately preceding the death of the participant; provided, a
+23 surviving spouse of a participant who died in, and as a consequence
+24 of, the performance of the participant's duty for a participating
+Req. No. 16326 Page 26
+RBH No. 16326
+1 muni cipality shall not be subject to the thirty-month marriage
+2 requirement for survivor benefits or, if no surviving spouse, to the
+3 estate of the participant.
+4 H. In lieu of participating in the Oklahoma Police Deferred
+5 Option Plan pursuant to subsections A, B, C, D, E and F of this
+6 section, a member may make an irrevocable election to participate in
+7 the Oklahoma Police Deferred Option Plan pursuant to this subsection
+8 as follows:
+9 1. For purposes of this subsection, the following definitions
+10 shall apply:
+11 a. "back drop date" means the date selected by the
+12 member, which is up to five (5) years before the
+13 member elects to participate in the Oklahoma Police
+14 Deferred Option Plan, but not before the date at which
+15 the member completes twenty (20) years of credited
+16 service,
+17 b. "termination date" means the date the member elects to
+18 participate in the Oklahoma Police Deferred Option
+19 Plan pursuant to this subsection, and the date the
+20 member terminates employment with all participating
+21 municipalities as an active police officer, such
+22 termination has at all times included reemployment of
+23 a member by a participating municipality only if such
+24
+Req. No. 16326 Page 27
+RBH No. 16326
+1 reemployment is as a police chief or in a position not
+2 covered under the System,
+3 c. "earlier attained credited service" means the credited
+4 service earned by a member as of the back drop date,
+5 and earlier attained credited service cannot be
+6 reduced to less than twenty (20) years of credited
+7 service, and
+8 d. "deferred benefit balance" means all monthly
+9 retirement benefits that would have been payable had
+10 the member elected to cease employment on the back
+11 drop date and receive a service retirement from the
+12 back drop date to the termination date, all of the
+13 member's contributions and one-half (1/2) of the
+14 employer contributions from the back drop date to the
+15 termination date, with interest based on how the
+16 benefit would have accumulated as if the member had
+17 participated in the Oklahoma Police Deferred Option
+18 Plan pursuant to subsections A, B, C, D and E of this
+19 section from the back drop date to the termination
+20 date, and
+21 e. “established child” means, in the case of a deceased
+22 member who does not have a surviving spouse, any
+23 surviving biological or adopted child of such member
+24 who is alive on the date of the election described in
+Req. No. 16326 Page 28
+RBH No. 16326
+1 paragraph 4 of this subsection and who is a
+2 beneficiary of such member as defined in Section 50-
+3 101 of this title, or who would be a beneficiary of
+4 such member under Section 50-101 of this title if the
+5 age requirements set forth therein did not apply;
+6 2. At the termination date, the monthly pension benefit shall
+7 be determined based on earlier attained credited service and on the
+8 final average salary as of the back drop date. The member's
+9 individual deferred option account shall be credited with an amount
+10 equal to the deferred benefit balance; the member shall terminate
+11 employment with all participating municipalities as a police officer
+12 and shall start receiving the member's accrued monthly retirement
+13 benefit from the System. The provisions of subsections B, C, E, F
+14 and G of this section shall apply to this subsection. A member
+15 shall not participate in the Oklahoma Police Deferred Option Plan
+16 pursuant to this subsection if the member has elected to participate
+17 in the Oklahoma Police Deferred Option Plan pursuant to subsections
+18 A, B, C, D, E and F of this section; and
+19 3. If a member who has not less than twenty (20) years of
+20 creditable service and who is eligible to receive a service
+21 retirement pension dies prior to terminating employment, the
+22 surviving spouse shall be eligible to elect to receive a benefit
+23 determined as if the member had elected to participate in the
+24 Oklahoma Police Deferred Option Plan in accordance with this
+Req. No. 16326 Page 29
+RBH No. 16326
+1 subs ection on the day immediately preceding the death. The
+2 surviving spouse must have been married to the member for the thirty
+3 (30) continuous months preceding the member's death; provided, the
+4 surviving spouse of a member who died while in, and as a consequence
+5 of, the performance of the member's duty for a participating
+6 municipality shall not be subject to the thirty-month marriage
+7 requirement for this election; and
+8 4. Effective July 1, 2026, if a member who has not less than
+9 twenty (20) years of creditable service and who is eligible to
+10 receive a service retirement pension dies prior to terminating
+11 employment, such member’s established children shall be eligible to
+12 elect to participate in the Oklahoma Police Deferred Option Plan
+13 pursuant to this subsection so long as the member did not
+14 participate in the Oklahoma Police Deferred Option Plan pursuant to
+15 subsections A, B, C, D, E and F of this section and provided that
+16 none of the established children are receiving, or will be eligible
+17 to receive, a pension annuity for life from the System. For the
+18 election to be effective, all established children must unanimously
+19 elect in writing within two (2) years from the member’s date of
+20 death to make such back drop election in accordance with any rules,
+21 resolutions, or procedures promulgated or adopted by the State
+22 Board. Once the election is timely made and the State Board has
+23 determined that all established children have been accounted for and
+24 made such election, each established child shall, as soon as
+Req. No. 16326 Page 30
+RBH No. 16326
+1 prac ticable, receive an equal share of the deferred benefit balance,
+2 taking into account any reductions or adjustments to the deferred
+3 benefit balance described in the paragraph below for an established
+4 child receiving a survivor pension benefit. The State Board may
+5 rely on any reasonable method to determine that all established
+6 children have been accounted for; provided, however, that the State
+7 Board may conclusively rely on an order of any court of competent
+8 jurisdiction in making such determination. No interest shall accrue
+9 or be paid on the deferred benefit balance with respect to any
+10 period after the member’s date of death. Any payment made to a
+11 member's established child pursuant to this subparagraph shall be
+12 included in the total benefits paid with respect to a member
+13 pursuant to subsection D of Section 50-114 of this title.
+14 In the event an established child is a beneficiary entitled to
+15 receive survivor pension benefits for any period, such established
+16 child’s pension benefit shall continue to be calculated pursuant to
+17 Section 50-117 of this title without regard to whether the election
+18 is made; provided, however, that if a back drop election is made
+19 pursuant to this subsection, the difference between such established
+20 child’s pension benefit calculated pursuant to Section 50-117 of
+21 this title and the pension benefit calculated pursuant to this
+22 subsection shall reduce the deferred benefit balance. In
+23 calculating such reduction, the sum of such pension benefits will be
+24 reduced to a present value as of the member’s date of death using
+Req. No. 16326 Page 31
+RBH No. 16326
+1 the actuarial assumed interest rate as of the member's date of death
+2 as certified by the actuary in the yearly evaluation report of the
+3 actuary, and assuming that the pension benefit will continue until
+4 the youngest of all established children attains twenty-two (22)
+5 years of age and such other assumptions that the State Board may
+6 promulgate or adopt by rule, resolution, or procedure. The portion
+7 of the deferred benefit balance an established child receives shall
+8 not be reduced by the back drop pension adjustment amount applicable
+9 to such established child other than as a result of the reduction in
+10 the deferred benefit balance.
+11 Nothing in this paragraph or subsection is meant to create any
+12 benefits not otherwise allowed by law.
+13 SECTION 4. AMENDATORY 47 O.S. 2021, Section 2-305.2, as
+14 amended by Section 1, Chapter 80, O.S.L. 2022 (47 O.S. Supp. 2025,
+15 Section 2-305.2), is amended to read as follows:
+16 Section 2-305.2. A. In lieu of terminating employment and
+17 accepting a service retirement pension pursuant to Section 2-305 of
+18 this title, any member of the Oklahoma Law Enforcement Retirement
+19 System who has not less than twenty (20) years of participating
+20 service and who is eligible to receive a service retirement pension
+21 may make an irrevocable election to participate in the Oklahoma Law
+22 Enforcement Deferred Option Plan and defer the receipts of benefits
+23 in accordance with the provisions of this section.
+24
+Req. No. 16326 Page 32
+RBH No. 16326
+1 B. For purposes of this section, participating service shall
+2 include service credit recognized pursuant to paragraphs (c) and (d)
+3 of Section 2-307, subsection B of Section 2-307.2, and Sections 2-
+4 309.1, 2-309.2, 2-309.3, 2-309.4, 2-309.5 and 2-309.6 of this title
+5 but for eligibility purposes only.
+6 C. The duration of participation in the Oklahoma Law
+7 Enforcement Deferred Option Plan for a member shall not exceed five
+8 (5) years. Participation in the Oklahoma Law Enforcement Deferred
+9 Option Plan must begin the first day of a month and end on the last
+10 day of the month. At the conclusion of a member's participation in
+11 the Oklahoma Law Enforcement Deferred Option Plan, the member shall
+12 terminate employment as a member of the Oklahoma Law Enforcement
+13 Retirement System, and shall start receiving the member's accrued
+14 monthly retirement benefit from the System. Such a member may
+15 continue to receive in-service distributions of such member's
+16 accrued monthly retirement benefit from the System if the member is
+17 reemployed by a state agency only if such reemployment is in a
+18 position not covered under the System.
+19 D. When a member begins participation in the Oklahoma Law
+20 Enforcement Deferred Option Plan, the contribution of the member
+21 shall cease. The employer contributions shall continue to be paid
+22 in accordance with Section 2-304 of this title. Employer
+23 contributions for members who elect the Oklahoma Law Enforcement
+24 Deferred Option Plan shall be credited equally to the Oklahoma Law
+Req. No. 16326 Page 33
+RBH No. 16326
+1 Enfo rcement Retirement System and to the member's Oklahoma Law
+2 Enforcement Deferred Option Plan account. The monthly retirement
+3 benefits that would have been payable had the member elected to
+4 cease employment and receive a service retirement shall be paid into
+5 the member's Oklahoma Law Enforcement Deferred Option Plan account.
+6 E. 1. A member who participates in this plan shall be eligible
+7 to receive cost of living increases.
+8 2. A member who participates in this plan shall earn interest
+9 at a rate of two percentage points below the rate of return of the
+10 investment portfolio of the System, but no less than the assumed
+11 interest rate. The assumed interest rate shall be seven and five-
+12 tenths percent (7.5%) until the Board amends the assumed interest
+13 rate prospectively by resolution. The interest shall be credited to
+14 the individual account balance of the member on an annual basis.
+15 F. A member in the Oklahoma Law Enforcement Deferred Option
+16 Plan shall receive, at the option of the member:
+17 1. A lump-sum payment from the account equal to the option
+18 account balance of the member, payable to the member;
+19 2. A lump-sum payment from the account equal to the option
+20 account balance of the member, payable to the annuity provider which
+21 shall be selected by the member as a result of the research and
+22 investigation of the member; or
+23 3. Any other method of payment if approved by the Board.
+24
+Req. No. 16326 Page 34
+RBH No. 16326
+1 Notwithstanding any other provision contained herein to the
+2 contrary, commencement of distributions under the Oklahoma Law
+3 Enforcement Deferred Option Plan shall be no later than the time as
+4 set forth in paragraph 7 of Section 2-300 of this title.
+5 If a member meets the definition of disability as defined in
+6 paragraph 11 of Section 2-300 of this title by direct reason of the
+7 performance of the member's duties, the payment from the account
+8 shall be an in-line-of-duty disability payment.
+9 G. If the member dies during the period of participation in the
+10 Oklahoma Law Enforcement Deferred Option Plan, a lump-sum payment
+11 equal to the account balance of the member shall be paid to the
+12 designated beneficiary as defined in paragraph 17 of Section 2-300
+13 of this title, or if there is no designated beneficiary or the
+14 designated beneficiary predeceases the member, to the estate of the
+15 member. If such member was receiving, or eligible to receive, an
+16 in-line-of-duty disability pension pursuant to subsection E or F of
+17 Section 2-305 of this title at the time of death, payment of the
+18 account balance shall be an in-line-of-duty disability payment.
+19 H. In lieu of participating in the Oklahoma Law Enforcement
+20 Deferred Option Plan pursuant to subsections A, B, C, D, E and F of
+21 this section, a member may make an irrevocable election to
+22 participate in the Oklahoma Law Enforcement Deferred Option Plan
+23 pursuant to this subsection as follows:
+24
+Req. No. 16326 Page 35
+RBH No. 16326
+1 1. For purposes of this subsection, the following definitions
+2 shall apply:
+3 a. "back drop date" means the date selected by the member
+4 which is up to five (5) years before the member elects
+5 to participate in the Oklahoma Law Enforcement
+6 Deferred Option Plan, but not before the date at which
+7 the member completes twenty (20) years of
+8 participating service,
+9 b. "termination date" means the date the member elects to
+10 participate in the Oklahoma Law Enforcement Deferred
+11 Option Plan pursuant to this subsection and the date
+12 the member terminates employment and starts receiving
+13 the member's accrued monthly retirement benefit from
+14 the System. Such termination has at all times
+15 included reemployment of a member by a state agency,
+16 but only in a position not covered under the System,
+17 c. "earlier attained participating service" means the
+18 participating service earned by a member as of the
+19 back drop date. Earlier attained participating
+20 service cannot be reduced to less than twenty (20)
+21 years of participating service, and
+22 d. "deferred benefit balance" means all retirement
+23 benefits that would have been paid from the back drop
+24 date to the termination date, and one-half (1/2) of
+Req. No. 16326 Page 36
+RBH No. 16326
+1 the employer contributions from the back drop date to
+2 the termination date, with interest based on how the
+3 benefit would have accumulated on a compound annual
+4 basis as if the member had participated in the
+5 Oklahoma Law Enforcement Deferred Option Plan pursuant
+6 to subsections A, B, C, D and E of this section from
+7 the back drop date to the termination date; and
+8 e. “established child” means, in the case of a deceased
+9 member who does not have a surviving spouse, any
+10 surviving biological or adopted child of such member
+11 who is alive on the date of the election described in
+12 paragraph 4 of this subsection and who is a
+13 beneficiary of such member as defined in Section 2-300
+14 of this title, or who would be a beneficiary of such
+15 member under Section 2-300 of this title if the age
+16 requirements set forth therein did not apply;
+17 2. At the termination date, a member's monthly pension benefit
+18 shall be determined based on the earlier attained participating
+19 service and on the final average salary as of the back drop date.
+20 The member's individual deferred option account shall be credited
+21 with an amount equal to the deferred benefit balance; the member
+22 shall terminate employment and shall start receiving the member's
+23 accrued monthly retirement benefit from the System. The member
+24 shall, upon application filed with the Board, be refunded from the
+Req. No. 16326 Page 37
+RBH No. 16326
+1 fund an amount equal to the accumulated contributions the member
+2 made to the fund from the back drop date to the termination date,
+3 but excluding any interest. Such termination has at all times
+4 included reemployment of a member by a state agency, but only in a
+5 position not covered under the System. The provisions of
+6 subsections B, C, E, F and G of this section shall apply to this
+7 subsection; and
+8 3. A member may participate in the Oklahoma Law Enforcement
+9 Deferred Option Plan pursuant to this subsection even if the member
+10 has elected to participate in the Oklahoma Law Enforcement Deferred
+11 Option Plan pursuant to subsections A, B, C, D, E and F of this
+12 section. Such a member may select a back drop date which is up to
+13 five (5) years prior to the termination date, but not before the
+14 date at which the member completes twenty (20) years of
+15 participating service. Such a member's participation in the
+16 Oklahoma Law Enforcement Deferred Option Plan may not exceed five
+17 (5) years when combined with such a member's prior period of
+18 participation in the Oklahoma Law Enforcement Deferred Option Plan.
+19 The provisions of subsections B, C, E, F and G of this section shall
+20 apply to this subsection; and
+21 4. Effective July 1, 2026, if a member who has not less than
+22 twenty (20) years of creditable service and who is eligible to
+23 receive a service retirement pension dies prior to terminating
+24 employment, such member’s established children shall be eligible to
+Req. No. 16326 Page 38
+RBH No. 16326
+1 elec t to participate in the Oklahoma Law Enforcement Deferred Option
+2 Plan pursuant to this subsection so long as the member did not
+3 participate in the Oklahoma Law Enforcement Deferred Option Plan
+4 pursuant to subsections A, B, C, D, E and F of this section and
+5 provided that none of the established children or the deceased
+6 member's dependent parents are receiving, or will be eligible to
+7 receive, a pension annuity for life from the System. For the
+8 election to be effective, all established children must unanimously
+9 elect in writing within two (2) years from the member’s date of
+10 death to make such back drop election in accordance with any rules,
+11 resolutions, or procedures promulgated or adopted by the State
+12 Board. Once the election is timely made and the State Board has
+13 determined that all established children have been accounted for and
+14 made such election, each established child shall, as soon as
+15 practicable, receive an equal share of the deferred benefit balance,
+16 taking into account any reductions or adjustments to the deferred
+17 benefit balance described in the paragraph below for an established
+18 child receiving a survivor pension benefit. The State Board may
+19 rely on any reasonable method to determine that all established
+20 children have been accounted for; provided, however, that the State
+21 Board may conclusively rely on an order of any court of competent
+22 jurisdiction in making such determination. No interest shall accrue
+23 or be paid on the deferred benefit balance with respect to any
+24 period after the member’s date of death. Any payment made to a
+Req. No. 16326 Page 39
+RBH No. 16326
+1 memb er's established child pursuant to the subparagraph shall be
+2 included in the total retirement payments made with respect to a
+3 member pursuant to Section 2-306.2 of this title.
+4 In the event an established child is a beneficiary entitled to
+5 receive survivor pension benefits for any period, such established
+6 child’s pension benefit shall continue to be calculated pursuant to
+7 Section 2-306 of this title without regard to whether the election
+8 is made; provided, however, that if a back drop election is made
+9 pursuant to this subsection, the difference between such established
+10 child’s pension benefit calculated pursuant to section 2-306 of this
+11 title and the pension benefit calculated pursuant to this subsection
+12 shall reduce the deferred benefit balance. In calculating such
+13 reduction, the sum of such pension benefits will be reduced to a
+14 present value as of the member’s date of death using the actuarial
+15 assumed interest rate as of the member's date of death as certified
+16 by the actuary in the yearly evaluation report of the actuary, and
+17 assuming that the pension benefit will continue until the youngest
+18 of all established children attains twenty-two (22) years of age and
+19 such other assumptions that the State Board may promulgate or adopt
+20 by rule, resolution, or procedure. The portion of the deferred
+21 benefit balance an established child receives shall not be reduced
+22 by the back drop pension adjustment amount applicable to such
+23 established child other than as a result of the reduction in the
+24 deferred benefit balance.
+Req. No. 16326 Page 40
+RBH No. 16326
+1 Nothing in this paragraph or subsection is meant to create any
+2 benefits not otherwise allowed by law.
+3 SECTION 5. If the Emergency Clause is not approved pursuant to
+4 the requirements of the Oklahoma Constitution as part of this
+5 measure, the effective date of Section 1 of this act shall be
+6 October 1, 2026.
+7 SECTION 6. If the Emergency Clause is not approved pursuant to
+8 the requirements of the Oklahoma Constitution as part of this
+9 measure, the effective date of Sections 2 through 4 of this act
+10 shall be November 1, 2026.
+11 SECTION 7. Except as otherwise provided by Section 5 of this
+12 act, Section 1 of this act shall become effective immediately upon
+13 signature by the Governor or as otherwise provided by Section 58 of
+14 Article V of the Oklahoma Constitution.
+15 SECTION 8. Except as otherwise provided by Section 6 of this
+16 act, Sections 2 through 4 of this act shall become effective July 1,
+17 2026.
+18 SECTION 9. It being immediately necessary for the preservation
+19 of the public peace, health or safety, an emergency is hereby
+20 declared to exist, by reason whereof this act shall take effect and
+21 be in full force from and after its passage and approval.
+22
+23 60-2-16326 CMA 02/12/26
+24
+Req. No. 16326 Page 41
+[DELETED: 2 AS C           O S L           ]
+[DELETED:  P B]
+[DELETED:  P w]
+[DELETED:  P w g c i w w]
+[DELETED:  P w w t t]
+[DELETED:  P t t]
+[DELETED:  P w w S S S S S S w]
+[DELETED:  P w w]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P “ “]
+[DELETED:  P “ “]
+[DELETED:  P “]
+[DELETED:  P “ “ “ “ “]
+[DELETED:  P T]
+[DELETED:  P E]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P N]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P " "]
+[DELETED:  P " " “]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P " " " "]
+[DELETED:  P “]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 0]
+
+
+================================================================================
+
+Raw Text:
+HB3721 FULLPCS1 Mike Kelley-CMA
+2/13/2026 11:18:11 am
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB3721
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Mike Kelley
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+RBH No. 16326
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED OVERSIGHT
+COMMITTEE SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 3721 By: Kelley
+5
+6
+7
+8 PROPOSED OVERSIGHT COMMITTEE SUBSTITUTE
+9 An Act relating to retirement; amending 62 O.S. 2021,
+Section 3103, as last amended by Section 2, Chapter
+10 361, O.S.L. 2024 (62 O.S. Supp. 2025, Section 3103),
+which relates to the Oklahoma Pension Legislation
+11 Actuarial Analysis Act; modifying terms; amending 11
+O.S. 2021, Sections 49-106.1, as last amended by
+12 Section 2, Chapter 151, O.S.L. 2023, and 50-111.3 (11
+O.S. Supp. 2025, Section 49-106.1), which relate to
+13 deferred option plans; amending 47 O.S. 2021, Section
+2-305.2, as amended by Section 1, Chapter 80, O.S.L.
+14 2022 (47 O.S. Supp. 2025, Section 2-305.2), which
+relates to deferred option plans; modifying
+15 provisions related to deferred option plans;
+permitting certain individuals to make certain
+16 election; defining term; providing for calculation of
+certain benefit; providing effective dates; providing
+17 for contingent effective dates based on outcome of
+approval of the emergency clause; and declaring an
+18 emergency.
+19
+20
+21 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+22 SECTION 1. AMENDATORY 62 O.S. 2021, Section 3103, as
+23 last amended by Section 2, Chapter 361, O.S.L. 2024 (62 O.S. Supp.
+24 2025, Section 3103), is amended to read as follows:
+Req. No. 16326 Page 1
+
+RBH No. 16326
+1 Section 3103. As used in the Oklahoma Pension Legislation
+2 Actuarial Analysis Act:
+3 1. "Amendment" means any amendment, including a substitute
+4 bill, made to a retirement bill by any committee of the House of
+5 Representatives or Senate, any conference committee of the House or
+6 Senate or by the House or Senate;
+7 2. "RB number" means that number preceded by the letters "RB"
+8 assigned to a retirement bill by the respective staffs of the
+9 Oklahoma State Senate and the Oklahoma House of Representatives when
+10 the respective staff office prepares a retirement bill for a member
+11 of the Legislature;
+12 3. "Legislative Actuary" means the firm or entity that enters
+13 into a contract with the Legislative Service Bureau pursuant to
+14 Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+15 actuarial services and other duties provided for in the Oklahoma
+16 Pension Legislation Actuarial Analysis Act;
+17 4. "Nonfiscal amendment" means an amendment to a retirement
+18 bill having a fiscal impact, which amendment does not change any
+19 factor of an actuarial investigation specified in subsection A of
+20 Section 3109 of this title;
+21 5. "Nonfiscal retirement bill" means a retirement bill:
+22 a. which does not affect the cost or funding factors of a
+23 retirement system,
+24
+Req. No. 16326 Page 2
+
+RBH No. 16326
+1 b. which affects such factors only in a manner which does
+2 not:
+3 (1) grant a benefit increase under the retirement
+4 system affected by the bill,
+5 (2) create an actuarial accrued liability for or
+6 increase the actuarial accrued liability of the
+7 retirement system affected by the bill, or
+8 (3) increase the normal cost of the retirement system
+9 affected by the bill,
+10 c. which authorizes the purchase by an active member of
+11 the retirement system, at the actuarial cost for the
+12 purchase as computed pursuant to the statute in effect
+13 on the effective date of the measure allowing such
+14 purchase, of years of service for purposes of reaching
+15 a normal retirement date in the applicable retirement
+16 system, but which cannot be used in order to compute
+17 the number of years of service for purposes of
+18 computing the retirement benefit for the member,
+19 d. which provides for the computation of a service-
+20 connected disability retirement benefit for members of
+21 the Oklahoma Law Enforcement Retirement System
+22 pursuant to Section 2-305 of Title 47 of the Oklahoma
+23 Statutes if the members were unable to complete twenty
+24 (20) years of service as a result of the disability,
+Req. No. 16326 Page 3
+
+RBH No. 16326
+1 e. which requires membership in the defined benefit plan
+2 authorized by Section 901 et seq. of Title 74 of the
+3 Oklahoma Statutes for persons whose first elected or
+4 appointed service occurs on or after November 1, 2018,
+5 if such persons had any prior service in the Oklahoma
+6 Public Employees Retirement System prior to November
+7 1, 2015,
+8 f. which provides for a one-time increase in retirement
+9 benefits if the increase in retirement benefits is not
+10 a permanent increase in the gross annual retirement
+11 benefit payable to a member or beneficiary, occurs
+12 only once pursuant to a single statutory authorization
+13 and does not exceed:
+14 (1) the lesser of two percent (2%) of the gross
+15 annual retirement benefit of the member or One
+16 Thousand Dollars ($1,000.00) and requires that
+17 the benefit may only be provided if the funded
+18 ratio of the affected retirement system would not
+19 be less than sixty percent (60%) but not greater
+20 than eighty percent (80%) after the benefit
+21 increase is paid,
+22 (2) the lesser of two percent (2%) of the gross
+23 annual retirement benefit of the member or One
+24 Thousand Two Hundred Dollars ($1,200.00) and
+Req. No. 16326 Page 4
+
+RBH No. 16326
+1 requires that the benefit may only be provided if
+2 the funded ratio of the affected retirement
+3 system would be greater than eighty percent (80%)
+4 but not greater than one hundred percent (100%)
+5 after the benefit increase is paid,
+6 (3) the lesser of two percent (2%) of the gross
+7 annual retirement benefit of the member or One
+8 Thousand Four Hundred Dollars ($1,400.00) and
+9 requires that the benefit may only be provided if
+10 the funded ratio of the affected retirement
+11 system would be greater than one hundred percent
+12 (100%) after the benefit increase is paid, or
+13 (4) the greater of two percent (2%) of the gross
+14 annual retirement benefit of the volunteer
+15 firefighter or One Hundred Dollars ($100.00) for
+16 persons who retired from the Oklahoma
+17 Firefighters Pension and Retirement System as
+18 volunteer firefighters and who did not retire
+19 from the Oklahoma Firefighters Pension and
+20 Retirement System as a paid firefighter.
+21 As used in this subparagraph, "funded ratio" means the
+22 figure derived by dividing the actuarial value of
+23 assets of the applicable retirement system by the
+24
+Req. No. 16326 Page 5
+
+RBH No. 16326
+1 actuarial accrued liability of the applicable
+2 retirement system,
+3 g. which modifies the disability pension standard for
+4 police officers who are members of the Oklahoma Police
+5 Pension and Retirement System as provided by Section
+6 50-115 of Title 11 of the Oklahoma Statutes,
+7 h. which provides a cost-of-living benefit increase
+8 pursuant to the provisions of:
+9 (1) Section 49-143.7 of Title 11 of the Oklahoma
+10 Statutes,
+11 (2) Section 50-136.9 of Title 11 of the Oklahoma
+12 Statutes,
+13 (3) Section 1104K of Title 20 of the Oklahoma
+14 Statutes,
+15 (4) Section 2-305.12 of Title 47 of the Oklahoma
+16 Statutes,
+17 (5) Section 17-116.22 of Title 70 of the Oklahoma
+18 Statutes,
+19 (6) Section 930.11 of Title 74 of the Oklahoma
+20 Statutes,
+21 i. which modifies the computation of the line-of-duty
+22 disability benefit pursuant to the provisions of this
+23 section and Sections 50-101 and 50-115 of Title 11 of
+24 the Oklahoma Statutes, or
+Req. No. 16326 Page 6
+
+RBH No. 16326
+1 j. which authorizes membership in the Oklahoma Law
+2 Enforcement Retirement System for active commissioned
+3 or CLEET-certified agents of the Office of the
+4 Attorney General or the Military Department of the
+5 State of Oklahoma pursuant to Sections 3 2-309.9 and 4
+6 2-309.10 of this act Title 47 of the Oklahoma
+7 Statutes, or
+8 k. which authorizes certain individuals to make certain
+9 election related to the Oklahoma Firefighters Deferred
+10 Option Plan, the Oklahoma Police Deferred Option Plan,
+11 or the Oklahoma Law Enforcement Deferred Option Plan,
+12 pursuant to Sections 2, 3, and 4 of this act.
+13 A nonfiscal retirement bill shall include any retirement bill that
+14 has as its sole purpose the appropriation or distribution or
+15 redistribution of monies in some manner to a retirement system for
+16 purposes of reducing the unfunded liability of such system or the
+17 earmarking of a portion of the revenue from a tax to a retirement
+18 system or increasing the percentage of the revenue earmarked from a
+19 tax to a retirement system;
+20 6. "Reduction-in-cost amendment" means an amendment to a
+21 retirement bill having a fiscal impact which reduces the cost of the
+22 bill as such cost is determined by the actuarial investigation for
+23 the bill prepared pursuant to Section 3109 of this title;
+24
+Req. No. 16326 Page 7
+
+RBH No. 16326
+1 7. "Retirement bill" means any bill or joint resolution
+2 introduced or any bill or joint resolution amended by a member of
+3 the Legislature which creates or amends any law directly affecting a
+4 retirement system. A retirement bill shall not mean a bill or
+5 resolution that impacts the revenue of any state tax in which a
+6 portion of the revenue generated from such tax is earmarked for the
+7 benefit of a retirement system;
+8 8. "Retirement bill having a fiscal impact" means any
+9 retirement bill creating or establishing a retirement system and any
+10 other retirement bill other than a nonfiscal retirement bill; and
+11 9. "Retirement system" means the Teachers' Retirement System of
+12 Oklahoma, the Oklahoma Public Employees Retirement System, the
+13 Uniform Retirement System for Justices and Judges, the Oklahoma
+14 Firefighters Pension and Retirement System, the Oklahoma Police
+15 Pension and Retirement System, the Oklahoma Law Enforcement
+16 Retirement System, or a retirement system established after January
+17 1, 2006.
+18 SECTION 2. AMENDATORY 11 O.S. 2021, Section 49-106.1, as
+19 last amended by Section 2, Chapter 151, O.S.L. 2023 (11 O.S. Supp.
+20 2025, Section 49-106.1), is amended to read as follows:
+21 Section 49-106.1. A. In lieu of terminating employment and
+22 accepting a service retirement pension pursuant to Sections 49-101
+23 and 49-106 of this title, any member of the Oklahoma Firefighters
+24 Pension and Retirement System serving as an active firefighter in a
+Req. No. 16326 Page 8
+
+RBH No. 16326
+1 fire department of a participating municipality who has not less
+2 than twenty (20) years of creditable service may elect to
+3 participate in the Oklahoma Firefighters Deferred Option Plan and
+4 defer the receipts of benefits in accordance with the provisions of
+5 this section.
+6 B. For purposes of this section, creditable service shall
+7 include service credit reciprocally recognized pursuant to Sections
+8 49-100.1 through 49-100.8 and Sections 49-101, 49-101.1 and 49-101.2
+9 of this title but for eligibility purposes only.
+10 C. The duration of participation in the Oklahoma Firefighters
+11 Deferred Option Plan for active firefighters shall not exceed five
+12 (5) years. Participation in the Oklahoma Firefighters Deferred
+13 Option Plan must begin the first day of a month and end on the last
+14 day of a month. At the conclusion of a member’s participation in
+15 the Oklahoma Firefighters Deferred Option Plan, the member shall
+16 terminate employment with all participating municipalities as a
+17 firefighter, and shall start receiving the member’s accrued monthly
+18 retirement benefit from the System. Such a member may be reemployed
+19 by a participating municipality but only in a position not covered
+20 under the System, and receive in-service distributions of such
+21 member’s accrued monthly retirement benefit from the System.
+22 D. When a member begins participation in the Oklahoma
+23 Firefighters Deferred Option Plan, the contribution of the member
+24 shall cease. The employer contributions shall continue to be paid
+Req. No. 16326 Page 9
+
+RBH No. 16326
+1 in a ccordance with subsection B of Section 49-122 of this title.
+2 Employer contributions for members who elect the Oklahoma
+3 Firefighters Deferred Option Plan shall be credited equally to the
+4 Oklahoma Firefighters Pension and Retirement System and to the
+5 member’s Oklahoma Firefighters Deferred Option Plan account. The
+6 monthly retirement benefits that would have been payable had the
+7 member elected to cease employment and receive a service retirement
+8 shall be paid into the member’s Oklahoma Firefighters Deferred
+9 Option Plan account.
+10 E. 1. A member who participates in this plan shall be eligible
+11 to receive cost-of-living increases.
+12 2. A member who participates in this plan shall earn interest
+13 at a rate of two percentage points below the rate of return of the
+14 investment portfolio of the System, but no less than the actuarial
+15 assumed interest rate as certified by the actuary in the yearly
+16 evaluation report of the actuary. The interest shall be credited to
+17 the individual account balance of the member on an annual basis.
+18 3. Effective November 1, 2013, the Oklahoma Firefighters
+19 Deferred Option Plan account for a member whose first service with a
+20 participating municipality of the System occurs on or after November
+21 1, 2013, and who participates for the first time in the Oklahoma
+22 Firefighters Deferred Option Plan on or after November 1, 2013, and
+23 has completed active participation in the Oklahoma Firefighters
+24 Deferred Option Plan, shall earn interest at a rate equal to the
+Req. No. 16326 Page 10
+
+RBH No. 16326
+1 actu al rate of return of the investment portfolio of the System,
+2 less one (1) percentage point to offset administrative costs of the
+3 System as determined by the System.
+4 F. A member in the plan shall receive, at the option of the
+5 member, a lump-sum payment from the account equal to the payments to
+6 the account or an annuity based upon the account of the member or
+7 may elect any other method of payment if approved by the Board of
+8 Trustees. If a member becomes so physically or mentally disabled
+9 while in, or in consequence of, the performance of his or her duty
+10 as to prevent the effective performance of his or her duties that
+11 the State Board approves an in-line-of-duty disability pension, the
+12 payment from the account shall be an in-line-of-duty disability
+13 payment. Notwithstanding any other provision contained herein to
+14 the contrary, commencement of distributions under the Oklahoma
+15 Firefighters Deferred Option Plan shall be no later than the time as
+16 set forth in subsection B of Section 49-106 of this title and a
+17 member whose first service with a participating municipality of the
+18 System occurs on or after November 1, 2013, and who participates for
+19 the first time in the Oklahoma Firefighters Deferred Option Plan on
+20 or after November 1, 2013, must receive a distribution of the entire
+21 remaining balance in the member’s Oklahoma Firefighters Deferred
+22 Option Plan account no later than April 1 of the calendar year
+23 following the later of:
+24
+Req. No. 16326 Page 11
+
+RBH No. 16326
+1 1. The calendar year in which the member reaches seventy and
+2 one-half (70 1/2) years of age for a member who attains age seventy
+3 and one-half (70 1/2) before January 1, 2020, or effective for
+4 distributions required to be made after December 31, 2019, but
+5 before January 1, 2023, the calendar year in which the member
+6 reaches seventy-two (72) years of age for an individual who attains
+7 age seventy and one-half (70 1/2) after December 31, 2019, or
+8 effective for distributions required to be made after December 31,
+9 2022, the calendar year in which the member reaches seventy-three
+10 (73) years of age for an individual who attains age seventy-two (72)
+11 after December 31, 2022, or “the applicable age”, as defined in
+12 Section 401(a)(9)(C)(v) of the Internal Revenue Code of 1986, as
+13 amended, if later; or
+14 2. The actual retirement date of the member.
+15 G. If a member dies while maintaining an account balance in the
+16 plan the System shall pay to the designated recipient or recipients
+17 of the member, or if there is no designated recipient or if the
+18 designated recipient predeceases the member, to the spouse of the
+19 member, or if there is no spouse or if the spouse predeceases the
+20 member, to the estate of the member a lump-sum payment equal to the
+21 account balance of the member. If such member was receiving, or
+22 eligible to receive, an in-line-of-duty disability pension at the
+23 time of his or her death, payment of the account balance shall be an
+24 in-line-of-duty disability payment. If a designated recipient is
+Req. No. 16326 Page 12
+
+RBH No. 16326
+1 the surviving spouse of the member, the surviving spouse shall
+2 receive his or her portion of the account balance of the member
+3 pursuant to subsection F of this section. The surviving spouse,
+4 whether or not he or she is a designated recipient of the member,
+5 may elect to receive his or her portion of the account balance of
+6 the member in the same manner as was applicable to the member.
+7 H. In lieu of participating in the Oklahoma Firefighters
+8 Deferred Option Plan pursuant to subsections A, B, C, D, E and F of
+9 this section, a member may elect to participate in the Oklahoma
+10 Firefighters Deferred Option Plan pursuant to this subsection as
+11 follows:
+12 1. For purposes of this subsection and subsection I of this
+13 section, the following definitions shall apply:
+14 a. “back drop date” means the member’s normal retirement
+15 date or the date five (5) years before the member
+16 elects to participate in the Oklahoma Firefighters
+17 Deferred Option Plan, whichever date is later,
+18 b. “termination date” means the date the member elects to
+19 participate in the Oklahoma Firefighters Deferred
+20 Option Plan pursuant to this subsection, and the date
+21 the member terminates employment with all
+22 participating municipalities as an active firefighter,
+23
+24
+Req. No. 16326 Page 13
+
+RBH No. 16326
+1 c. “earlier attained credited service” means the credited
+2 service earned by a member as of the back drop date,
+3 and
+4 d. “deferred benefit balance” means all monthly
+5 retirement benefits that would have been payable had
+6 the member elected to cease employment on the back
+7 drop date and receive a service retirement from the
+8 back drop date to the termination date, all the
+9 member’s contributions and one-half (1/2) of the
+10 employer contributions from the back drop date to the
+11 termination date, with interest based on how the
+12 benefit would have accumulated on a compound annual
+13 basis as if the member had participated in the
+14 Oklahoma Firefighters Deferred Option Plan pursuant to
+15 subsections A, B, C, D, E and F of this section from
+16 the back drop date to the termination date; and
+17 2. At the termination date, the monthly pension benefit shall
+18 be determined based on earlier attained credited service and on the
+19 final average salary as of the back drop date. The member’s
+20 individual deferred option account shall be credited with an amount
+21 equal to the deferred benefit balance, the member shall terminate
+22 employment with all participating municipalities as a firefighter,
+23 and shall start receiving the member’s accrued monthly retirement
+24 benefit from the System. Such a member may be reemployed by a
+Req. No. 16326 Page 14
+
+RBH No. 16326
+1 part icipating municipality but only in a position not covered under
+2 the System, and receive in-service distributions of such member’s
+3 accrued monthly retirement benefit from the System. The provisions
+4 of subsections B, C, E, F and G of this section shall apply to this
+5 subsection. A member shall not participate in the Oklahoma
+6 Firefighters Deferred Option Plan pursuant to this subsection if the
+7 member has elected to participate in the Oklahoma Firefighters
+8 Deferred Option Plan pursuant to subsections A, B, C, D, E and F of
+9 this section.
+10 I. Certain surviving spouses and members Members not
+11 participating in the Oklahoma Firefighters Deferred Option Plan
+12 pursuant to subsections A, B, C, D, E and F of this section, certain
+13 surviving spouses, and certain surviving children shall be eligible
+14 to participate in the Oklahoma Firefighters Deferred Option Plan
+15 pursuant to subsection H of this section and this subsection.
+16 1. For purposes of this subsection, the following definitions
+17 shall apply:
+18 a. “back drop election date” means the date the surviving
+19 spouse or member elects, or all of a member’s
+20 established children unanimously elect, to commence
+21 participation in the Oklahoma Firefighters Deferred
+22 Option Plan pursuant to subsection H of this section
+23 and this subsection,
+24
+Req. No. 16326 Page 15
+
+RBH No. 16326
+1 b. “interest” means interest at a rate of two percentage
+2 points below the rate of return of the investment
+3 portfolio of the System, but no less than the
+4 actuarial assumed interest rate as certified by the
+5 actuary in the yearly evaluation report of the
+6 actuary,
+7 c. “monthly adjustment amount” means the difference
+8 between the monthly pension prior to the back drop
+9 election and the adjusted monthly pension due to the
+10 back drop election,
+11 d. “back drop pension adjustment amount” means the sum of
+12 all the monthly adjustment amounts adjusted for
+13 interest from the pension commencement date to the
+14 back drop election date, and
+15 e. “deferred benefit balance adjustment amount” means the
+16 interest on the deferred benefit balance from the
+17 pension commencement date to the back drop election
+18 date, and
+19 f. “established child” means, in the case of a deceased
+20 member who does not have a surviving spouse, any
+21 surviving biological or adopted child of such member
+22 who is alive on the date of the election described in
+23 subparagraph b of paragraph 2 of this subsection and
+24 who is a beneficiary of such member, as defined in
+Req. No. 16326 Page 16
+
+RBH No. 16326
+1 Section 49-100.1 of this title, or who would be a
+2 beneficiary of such member under Section 49-100.1 of
+3 this title if the age requirements set forth therein
+4 did not apply.
+5 2. If a member who has more than twenty (20) years of
+6 creditable service and is eligible to receive a service retirement
+7 pension dies on or after June 4, 2007, and prior to terminating
+8 employment,:
+9 a. The member’s surviving spouse shall be eligible to
+10 elect to receive a benefit determined as if the member
+11 had elected to participate in the Oklahoma
+12 Firefighters Deferred Option Plan in accordance with
+13 subsection H of this section on the day immediately
+14 preceding such member’s death. Prior to July 1, 2010,
+15 the surviving spouse must make any such election
+16 within one (1) year from the date of the member’s
+17 death. Effective July 1, 2010, the surviving spouse
+18 must make any such election within ninety (90) days
+19 from the date of the member’s death. If on or after
+20 June 4, 2007, such election is made, the monthly
+21 pension such surviving spouse is entitled to receive
+22 shall be adjusted in accordance with the provisions of
+23 subsection H of this section to account for the
+24 member’s participation in the Oklahoma Firefighters
+Req. No. 16326 Page 17
+
+RBH No. 16326
+1 Deferred Option Plan. The surviving spouse may only
+2 make this election if the member has not previously
+3 elected to participate in the Oklahoma Firefighters
+4 Deferred Option Plan. For purposes of this election,
+5 the surviving spouse must have been married to the
+6 firefighter for the thirty (30) continuous months
+7 preceding the firefighter’s death; provided, the
+8 surviving spouse of a member who died while in, or as
+9 a consequence of, the performance of the member’s duty
+10 for a participating municipality shall not be subject
+11 to the marriage limitation for this election; or
+12 b. Effective July 1, 2026, a member’s established
+13 children shall be eligible to elect to
+14 participate in the Oklahoma Firefighters
+15 Deferred Option Plan pursuant to subsection H of
+16 this section and this subsection so long as the
+17 member did not participate in the Oklahoma
+18 Firefighters Deferred Option Plan pursuant to
+19 subsections A, B, C, D, E and F of this section
+20 and provided that none of the established
+21 children is receiving, or by reason of an
+22 existing disability will be eligible to receive
+23 upon attaining eighteen (18) years of age,
+24 disabled survivor pension benefits pursuant to
+Req. No. 16326 Page 18
+
+RBH No. 16326
+1 Section 49-112 of this title. For the election
+2 to be effective, all established children must
+3 unanimously elect in writing within two (2)
+4 years from the member’s date of death to make
+5 such back drop election in accordance with any
+6 rules, resolutions, or procedures promulgated or
+7 adopted by the State Board. Once the election
+8 is timely made and the State Board has
+9 determined that all established children have
+10 been accounted for and made such election, each
+11 established child shall, as soon as practicable,
+12 receive an equal share of the deferred benefit
+13 balance, taking into account any reductions or
+14 adjustments to the deferred benefit balance
+15 described in the paragraph below for an
+16 established child receiving a survivor pension
+17 benefit. The State Board may rely on any
+18 reasonable method to determine that all
+19 established children have been accounted for;
+20 provided, however, that the State Board may
+21 conclusively rely on an order of any court of
+22 competent jurisdiction in making such
+23 determination. No interest shall accrue or be
+24 paid on the deferred benefit balance with
+Req. No. 16326 Page 19
+
+RBH No. 16326
+1 respect to any period after the member’s date of
+2 death. Any payment made to a member’s
+3 established child pursuant to this subparagraph
+4 shall be included in the total payments made
+5 with respect to a member pursuant to paragraph 4
+6 of subsection A of Section 49-113 of this title.
+7 In the event an established child is a
+8 beneficiary entitled to receive survivor pension
+9 benefits for any period, such established
+10 child’s pension benefit shall continue to be
+11 calculated pursuant to section 49-112 of this
+12 title without regard to whether the election is
+13 made; provided, however, that if a back drop
+14 election is made pursuant to this subsection,
+15 the difference between such established child’s
+16 pension benefit calculated pursuant to Section
+17 49-112 of this title and the pension benefit
+18 calculated pursuant to subsection H of this
+19 section shall reduce the deferred benefit
+20 balance. In calculating such reduction, the sum
+21 of such pension benefits will be reduced to a
+22 present value as of the member’s date of death
+23 using the actuarial assumed interest rate as of
+24 the member's date of death as certified by the
+Req. No. 16326 Page 20
+
+RBH No. 16326
+1 actuary in the yearly evaluation report of the
+2 actuary, and assuming that the pension benefit
+3 will continue until the youngest of all
+4 established children attains twenty-two (22)
+5 years of age and such
+6 other assumptions that the State Board may
+7 promulgate or adopt by rule, resolution, or
+8 procedure. The portion of the deferred benefit
+9 balance an established child receives shall not
+10 be reduced by the back drop pension adjustment
+11 amount applicable to such established child
+12 other than as a result of the reduction in the
+13 deferred benefit balance.
+14 c. Nothing in this paragraph or subsection is meant to
+15 create any benefits not otherwise allowed by law.
+16 3. If a member has more than twenty (20) years of creditable
+17 service and is eligible for a retirement for disability monthly
+18 pension pursuant to Section 49-109 of this title on or after June 4,
+19 2007, such member shall be eligible to elect to receive a benefit
+20 determined as if the member had elected to participate in the
+21 Oklahoma Firefighters Deferred Option Plan, in accordance with
+22 subsection H of this section, on the day immediately preceding the
+23 date of the member’s disability retirement, provided such election
+24 is made within two (2) years from the date of the member’s
+Req. No. 16326 Page 21
+
+RBH No. 16326
+1 disa bility retirement. The disability monthly pension such member
+2 is receiving, or entitled to receive, shall be adjusted in
+3 accordance with the provisions of subsection H of this section to
+4 account for the member’s participation in the Oklahoma Firefighters
+5 Deferred Option Plan. The deferred benefit balance such member is
+6 entitled to receive shall be reduced by the back drop pension
+7 adjustment amount and increased by the deferred benefit balance
+8 adjustment amount. The member may only make a back drop election if
+9 the deferred benefit balance after the adjustment described in this
+10 paragraph is greater than Zero Dollars ($0.00). The member may only
+11 make this election if the member has not previously elected to
+12 participate in the Oklahoma Firefighters Deferred Option Plan.
+13 4. If a member has more than twenty (20) years of creditable
+14 service and filed a grievance for wrongful termination occurring on
+15 or after June 4, 2007, or is not a member of a collective bargaining
+16 organization as a firefighter, is involuntarily terminated and is
+17 seeking to have his or her position as a firefighter reinstated
+18 through a legal process, but is not reinstated as an active member,
+19 such member shall be eligible to elect to receive a benefit
+20 determined as if the member had elected to participate in the
+21 Oklahoma Firefighters Deferred Option Plan in accordance with
+22 subsection H of this section on the day immediately preceding the
+23 date of the member’s termination. Such election must be made within
+24 two (2) years from the date of the member’s termination as an active
+Req. No. 16326 Page 22
+
+RBH No. 16326
+1 memb er and, if the member’s case pertaining to the member’s
+2 termination is on appeal to a court of competent jurisdiction,
+3 within such period set by the State Board in its sole discretion.
+4 The monthly pension such member is receiving, or entitled to
+5 receive, shall be adjusted in accordance with the provisions of
+6 subsection H of this section to account for the member’s
+7 participation in the Oklahoma Firefighters Deferred Option Plan.
+8 The deferred benefit balance such member is entitled to receive
+9 shall be reduced by the back drop pension adjustment amount and
+10 increased by the deferred benefit balance adjustment amount. The
+11 member may only make a back drop election if the deferred benefit
+12 balance after the adjustment described in this paragraph is greater
+13 than Zero Dollars ($0.00). The member may only make this election
+14 if the member has not previously elected to participate in the
+15 Oklahoma Firefighters Deferred Option Plan.
+16 5. Subparagraphs d and e of paragraph 1 and paragraphs 3 and 4
+17 of this subsection are effective June 4, 2007, provided the Internal
+18 Revenue Service issues a favorable determination letter for the
+19 System which includes the provisions of such subparagraphs and
+20 paragraphs without modification or as modified to conform to any
+21 changes required by the Internal Revenue Service as part of its
+22 determination letter review process. In the event the Internal
+23 Revenue Service does not issue such a determination letter which
+24 includes the provisions of such subparagraphs or paragraphs without
+Req. No. 16326 Page 23
+
+RBH No. 16326
+1 modi fication or as modified to conform to any changes required by
+2 the Internal Revenue Service as part of its determination letter
+3 review process, then subparagraphs d and e of paragraph 1 and
+4 paragraphs 3 and 4 of this subsection shall be repealed effective
+5 June 4, 2007.
+6 SECTION 3. AMENDATORY 11 O.S. 2021, Section 50-111.3, is
+7 amended to read as follows:
+8 Section 50-111.3. A. In lieu of terminating employment and
+9 accepting a service retirement pension pursuant to Section 50-114 of
+10 this title, any member of the Oklahoma Police Pension and Retirement
+11 System who has not less than twenty (20) years of creditable service
+12 and who is eligible to receive a service retirement pension may make
+13 an irrevocable election to participate in the Oklahoma Police
+14 Deferred Option Plan and defer the receipts of benefits in
+15 accordance with the provisions of this section.
+16 B. For purposes of this section, creditable service shall
+17 include service credit reciprocally recognized pursuant to Section
+18 50-101 et seq. of this title but for eligibility purposes only.
+19 C. The duration of participation in the Oklahoma Police
+20 Deferred Option Plan for a member shall not exceed five (5) years.
+21 Participation in the Oklahoma Police Deferred Option Plan must begin
+22 the first day of a month and end on the last day of a month. At the
+23 conclusion of a member's participation in the Oklahoma Police
+24 Deferred Option Plan, the member shall terminate employment with all
+Req. No. 16326 Page 24
+
+RBH No. 16326
+1 part icipating municipalities as an officer, and shall start
+2 receiving the member's accrued monthly retirement benefit from the
+3 System. Such a member may receive in-service distributions of such
+4 member's accrued monthly retirement benefit from the System if such
+5 member is reemployed by a participating municipality only if such
+6 reemployment is as a police chief or in a position not covered under
+7 the System.
+8 D. When a member begins participation in the Oklahoma Police
+9 Deferred Option Plan, the contribution of the employee shall cease.
+10 The employer contributions shall continue to be paid in accordance
+11 with Section 50-109 of this title. Municipal contributions for
+12 employees who elect the Oklahoma Police Deferred Option Plan shall
+13 be credited equally to the Oklahoma Police Pension and Retirement
+14 System and to the Oklahoma Police Deferred Option Plan. The monthly
+15 retirement benefits that would have been payable had the member
+16 elected to cease employment and receive a service retirement shall
+17 be paid into the Oklahoma Police Deferred Option Plan account.
+18 E. 1. A member who participates in this plan shall be eligible
+19 to receive cost of living increases.
+20 2. A member who participates in this plan shall earn interest
+21 at a rate of two percentage points below the rate of return of the
+22 investment portfolio of the System, but no less than the actuarial
+23 assumed interest rate as certified by the actuary in the yearly
+24
+Req. No. 16326 Page 25
+
+RBH No. 16326
+1 eval uation report of the actuary. The interest shall be credited to
+2 the individual account balance of the member on an annual basis.
+3 F. A participant in the Oklahoma Police Deferred Option Plan
+4 shall receive, at the option of the participant:
+5 1. A lump sum payment from the account equal to the option
+6 account balance of the participant, payable to the participant;
+7 2. A lump sum payment from the account equal to the option
+8 account balance of the participant, payable to the annuity provider
+9 which shall be selected by the participant as a result of the
+10 research and investigation of the participant; or
+11 3. Any other method of payment if approved by the State Board.
+12 Notwithstanding any other provision contained herein to the
+13 contrary, commencement of distributions under the Oklahoma Police
+14 Deferred Option Plan shall be no later than the time as set forth in
+15 subsection C of Section 50-114 of this title.
+16 G. If the participant dies during the period of participation
+17 in the Oklahoma Police Deferred Option Plan, a lump sum payment
+18 equal to the account balance of the participant shall be paid to the
+19 recipients, which may include a trust, properly designated in
+20 writing by the participant or, if none, to the surviving spouse who
+21 was married to the participant for the thirty (30) continuous months
+22 immediately preceding the death of the participant; provided, a
+23 surviving spouse of a participant who died in, and as a consequence
+24 of, the performance of the participant's duty for a participating
+Req. No. 16326 Page 26
+
+RBH No. 16326
+1 muni cipality shall not be subject to the thirty-month marriage
+2 requirement for survivor benefits or, if no surviving spouse, to the
+3 estate of the participant.
+4 H. In lieu of participating in the Oklahoma Police Deferred
+5 Option Plan pursuant to subsections A, B, C, D, E and F of this
+6 section, a member may make an irrevocable election to participate in
+7 the Oklahoma Police Deferred Option Plan pursuant to this subsection
+8 as follows:
+9 1. For purposes of this subsection, the following definitions
+10 shall apply:
+11 a. "back drop date" means the date selected by the
+12 member, which is up to five (5) years before the
+13 member elects to participate in the Oklahoma Police
+14 Deferred Option Plan, but not before the date at which
+15 the member completes twenty (20) years of credited
+16 service,
+17 b. "termination date" means the date the member elects to
+18 participate in the Oklahoma Police Deferred Option
+19 Plan pursuant to this subsection, and the date the
+20 member terminates employment with all participating
+21 municipalities as an active police officer, such
+22 termination has at all times included reemployment of
+23 a member by a participating municipality only if such
+24
+Req. No. 16326 Page 27
+
+RBH No. 16326
+1 reemployment is as a police chief or in a position not
+2 covered under the System,
+3 c. "earlier attained credited service" means the credited
+4 service earned by a member as of the back drop date,
+5 and earlier attained credited service cannot be
+6 reduced to less than twenty (20) years of credited
+7 service, and
+8 d. "deferred benefit balance" means all monthly
+9 retirement benefits that would have been payable had
+10 the member elected to cease employment on the back
+11 drop date and receive a service retirement from the
+12 back drop date to the termination date, all of the
+13 member's contributions and one-half (1/2) of the
+14 employer contributions from the back drop date to the
+15 termination date, with interest based on how the
+16 benefit would have accumulated as if the member had
+17 participated in the Oklahoma Police Deferred Option
+18 Plan pursuant to subsections A, B, C, D and E of this
+19 section from the back drop date to the termination
+20 date, and
+21 e. “established child” means, in the case of a deceased
+22 member who does not have a surviving spouse, any
+23 surviving biological or adopted child of such member
+24 who is alive on the date of the election described in
+Req. No. 16326 Page 28
+
+RBH No. 16326
+1 paragraph 4 of this subsection and who is a
+2 beneficiary of such member as defined in Section 50-
+3 101 of this title, or who would be a beneficiary of
+4 such member under Section 50-101 of this title if the
+5 age requirements set forth therein did not apply;
+6 2. At the termination date, the monthly pension benefit shall
+7 be determined based on earlier attained credited service and on the
+8 final average salary as of the back drop date. The member's
+9 individual deferred option account shall be credited with an amount
+10 equal to the deferred benefit balance; the member shall terminate
+11 employment with all participating municipalities as a police officer
+12 and shall start receiving the member's accrued monthly retirement
+13 benefit from the System. The provisions of subsections B, C, E, F
+14 and G of this section shall apply to this subsection. A member
+15 shall not participate in the Oklahoma Police Deferred Option Plan
+16 pursuant to this subsection if the member has elected to participate
+17 in the Oklahoma Police Deferred Option Plan pursuant to subsections
+18 A, B, C, D, E and F of this section; and
+19 3. If a member who has not less than twenty (20) years of
+20 creditable service and who is eligible to receive a service
+21 retirement pension dies prior to terminating employment, the
+22 surviving spouse shall be eligible to elect to receive a benefit
+23 determined as if the member had elected to participate in the
+24 Oklahoma Police Deferred Option Plan in accordance with this
+Req. No. 16326 Page 29
+
+RBH No. 16326
+1 subs ection on the day immediately preceding the death. The
+2 surviving spouse must have been married to the member for the thirty
+3 (30) continuous months preceding the member's death; provided, the
+4 surviving spouse of a member who died while in, and as a consequence
+5 of, the performance of the member's duty for a participating
+6 municipality shall not be subject to the thirty-month marriage
+7 requirement for this election; and
+8 4. Effective July 1, 2026, if a member who has not less than
+9 twenty (20) years of creditable service and who is eligible to
+10 receive a service retirement pension dies prior to terminating
+11 employment, such member’s established children shall be eligible to
+12 elect to participate in the Oklahoma Police Deferred Option Plan
+13 pursuant to this subsection so long as the member did not
+14 participate in the Oklahoma Police Deferred Option Plan pursuant to
+15 subsections A, B, C, D, E and F of this section and provided that
+16 none of the established children are receiving, or will be eligible
+17 to receive, a pension annuity for life from the System. For the
+18 election to be effective, all established children must unanimously
+19 elect in writing within two (2) years from the member’s date of
+20 death to make such back drop election in accordance with any rules,
+21 resolutions, or procedures promulgated or adopted by the State
+22 Board. Once the election is timely made and the State Board has
+23 determined that all established children have been accounted for and
+24 made such election, each established child shall, as soon as
+Req. No. 16326 Page 30
+
+RBH No. 16326
+1 prac ticable, receive an equal share of the deferred benefit balance,
+2 taking into account any reductions or adjustments to the deferred
+3 benefit balance described in the paragraph below for an established
+4 child receiving a survivor pension benefit. The State Board may
+5 rely on any reasonable method to determine that all established
+6 children have been accounted for; provided, however, that the State
+7 Board may conclusively rely on an order of any court of competent
+8 jurisdiction in making such determination. No interest shall accrue
+9 or be paid on the deferred benefit balance with respect to any
+10 period after the member’s date of death. Any payment made to a
+11 member's established child pursuant to this subparagraph shall be
+12 included in the total benefits paid with respect to a member
+13 pursuant to subsection D of Section 50-114 of this title.
+14 In the event an established child is a beneficiary entitled to
+15 receive survivor pension benefits for any period, such established
+16 child’s pension benefit shall continue to be calculated pursuant to
+17 Section 50-117 of this title without regard to whether the election
+18 is made; provided, however, that if a back drop election is made
+19 pursuant to this subsection, the difference between such established
+20 child’s pension benefit calculated pursuant to Section 50-117 of
+21 this title and the pension benefit calculated pursuant to this
+22 subsection shall reduce the deferred benefit balance. In
+23 calculating such reduction, the sum of such pension benefits will be
+24 reduced to a present value as of the member’s date of death using
+Req. No. 16326 Page 31
+
+RBH No. 16326
+1 the actuarial assumed interest rate as of the member's date of death
+2 as certified by the actuary in the yearly evaluation report of the
+3 actuary, and assuming that the pension benefit will continue until
+4 the youngest of all established children attains twenty-two (22)
+5 years of age and such other assumptions that the State Board may
+6 promulgate or adopt by rule, resolution, or procedure. The portion
+7 of the deferred benefit balance an established child receives shall
+8 not be reduced by the back drop pension adjustment amount applicable
+9 to such established child other than as a result of the reduction in
+10 the deferred benefit balance.
+11 Nothing in this paragraph or subsection is meant to create any
+12 benefits not otherwise allowed by law.
+13 SECTION 4. AMENDATORY 47 O.S. 2021, Section 2-305.2, as
+14 amended by Section 1, Chapter 80, O.S.L. 2022 (47 O.S. Supp. 2025,
+15 Section 2-305.2), is amended to read as follows:
+16 Section 2-305.2. A. In lieu of terminating employment and
+17 accepting a service retirement pension pursuant to Section 2-305 of
+18 this title, any member of the Oklahoma Law Enforcement Retirement
+19 System who has not less than twenty (20) years of participating
+20 service and who is eligible to receive a service retirement pension
+21 may make an irrevocable election to participate in the Oklahoma Law
+22 Enforcement Deferred Option Plan and defer the receipts of benefits
+23 in accordance with the provisions of this section.
+24
+Req. No. 16326 Page 32
+
+RBH No. 16326
+1 B. For purposes of this section, participating service shall
+2 include service credit recognized pursuant to paragraphs (c) and (d)
+3 of Section 2-307, subsection B of Section 2-307.2, and Sections 2-
+4 309.1, 2-309.2, 2-309.3, 2-309.4, 2-309.5 and 2-309.6 of this title
+5 but for eligibility purposes only.
+6 C. The duration of participation in the Oklahoma Law
+7 Enforcement Deferred Option Plan for a member shall not exceed five
+8 (5) years. Participation in the Oklahoma Law Enforcement Deferred
+9 Option Plan must begin the first day of a month and end on the last
+10 day of the month. At the conclusion of a member's participation in
+11 the Oklahoma Law Enforcement Deferred Option Plan, the member shall
+12 terminate employment as a member of the Oklahoma Law Enforcement
+13 Retirement System, and shall start receiving the member's accrued
+14 monthly retirement benefit from the System. Such a member may
+15 continue to receive in-service distributions of such member's
+16 accrued monthly retirement benefit from the System if the member is
+17 reemployed by a state agency only if such reemployment is in a
+18 position not covered under the System.
+19 D. When a member begins participation in the Oklahoma Law
+20 Enforcement Deferred Option Plan, the contribution of the member
+21 shall cease. The employer contributions shall continue to be paid
+22 in accordance with Section 2-304 of this title. Employer
+23 contributions for members who elect the Oklahoma Law Enforcement
+24 Deferred Option Plan shall be credited equally to the Oklahoma Law
+Req. No. 16326 Page 33
+
+RBH No. 16326
+1 Enfo rcement Retirement System and to the member's Oklahoma Law
+2 Enforcement Deferred Option Plan account. The monthly retirement
+3 benefits that would have been payable had the member elected to
+4 cease employment and receive a service retirement shall be paid into
+5 the member's Oklahoma Law Enforcement Deferred Option Plan account.
+6 E. 1. A member who participates in this plan shall be eligible
+7 to receive cost of living increases.
+8 2. A member who participates in this plan shall earn interest
+9 at a rate of two percentage points below the rate of return of the
+10 investment portfolio of the System, but no less than the assumed
+11 interest rate. The assumed interest rate shall be seven and five-
+12 tenths percent (7.5%) until the Board amends the assumed interest
+13 rate prospectively by resolution. The interest shall be credited to
+14 the individual account balance of the member on an annual basis.
+15 F. A member in the Oklahoma Law Enforcement Deferred Option
+16 Plan shall receive, at the option of the member:
+17 1. A lump-sum payment from the account equal to the option
+18 account balance of the member, payable to the member;
+19 2. A lump-sum payment from the account equal to the option
+20 account balance of the member, payable to the annuity provider which
+21 shall be selected by the member as a result of the research and
+22 investigation of the member; or
+23 3. Any other method of payment if approved by the Board.
+24
+Req. No. 16326 Page 34
+
+RBH No. 16326
+1 Notwithstanding any other provision contained herein to the
+2 contrary, commencement of distributions under the Oklahoma Law
+3 Enforcement Deferred Option Plan shall be no later than the time as
+4 set forth in paragraph 7 of Section 2-300 of this title.
+5 If a member meets the definition of disability as defined in
+6 paragraph 11 of Section 2-300 of this title by direct reason of the
+7 performance of the member's duties, the payment from the account
+8 shall be an in-line-of-duty disability payment.
+9 G. If the member dies during the period of participation in the
+10 Oklahoma Law Enforcement Deferred Option Plan, a lump-sum payment
+11 equal to the account balance of the member shall be paid to the
+12 designated beneficiary as defined in paragraph 17 of Section 2-300
+13 of this title, or if there is no designated beneficiary or the
+14 designated beneficiary predeceases the member, to the estate of the
+15 member. If such member was receiving, or eligible to receive, an
+16 in-line-of-duty disability pension pursuant to subsection E or F of
+17 Section 2-305 of this title at the time of death, payment of the
+18 account balance shall be an in-line-of-duty disability payment.
+19 H. In lieu of participating in the Oklahoma Law Enforcement
+20 Deferred Option Plan pursuant to subsections A, B, C, D, E and F of
+21 this section, a member may make an irrevocable election to
+22 participate in the Oklahoma Law Enforcement Deferred Option Plan
+23 pursuant to this subsection as follows:
+24
+Req. No. 16326 Page 35
+
+RBH No. 16326
+1 1. For purposes of this subsection, the following definitions
+2 shall apply:
+3 a. "back drop date" means the date selected by the member
+4 which is up to five (5) years before the member elects
+5 to participate in the Oklahoma Law Enforcement
+6 Deferred Option Plan, but not before the date at which
+7 the member completes twenty (20) years of
+8 participating service,
+9 b. "termination date" means the date the member elects to
+10 participate in the Oklahoma Law Enforcement Deferred
+11 Option Plan pursuant to this subsection and the date
+12 the member terminates employment and starts receiving
+13 the member's accrued monthly retirement benefit from
+14 the System. Such termination has at all times
+15 included reemployment of a member by a state agency,
+16 but only in a position not covered under the System,
+17 c. "earlier attained participating service" means the
+18 participating service earned by a member as of the
+19 back drop date. Earlier attained participating
+20 service cannot be reduced to less than twenty (20)
+21 years of participating service, and
+22 d. "deferred benefit balance" means all retirement
+23 benefits that would have been paid from the back drop
+24 date to the termination date, and one-half (1/2) of
+Req. No. 16326 Page 36
+
+RBH No. 16326
+1 the employer contributions from the back drop date to
+2 the termination date, with interest based on how the
+3 benefit would have accumulated on a compound annual
+4 basis as if the member had participated in the
+5 Oklahoma Law Enforcement Deferred Option Plan pursuant
+6 to subsections A, B, C, D and E of this section from
+7 the back drop date to the termination date; and
+8 e. “established child” means, in the case of a deceased
+9 member who does not have a surviving spouse, any
+10 surviving biological or adopted child of such member
+11 who is alive on the date of the election described in
+12 paragraph 4 of this subsection and who is a
+13 beneficiary of such member as defined in Section 2-300
+14 of this title, or who would be a beneficiary of such
+15 member under Section 2-300 of this title if the age
+16 requirements set forth therein did not apply;
+17 2. At the termination date, a member's monthly pension benefit
+18 shall be determined based on the earlier attained participating
+19 service and on the final average salary as of the back drop date.
+20 The member's individual deferred option account shall be credited
+21 with an amount equal to the deferred benefit balance; the member
+22 shall terminate employment and shall start receiving the member's
+23 accrued monthly retirement benefit from the System. The member
+24 shall, upon application filed with the Board, be refunded from the
+Req. No. 16326 Page 37
+
+RBH No. 16326
+1 fund an amount equal to the accumulated contributions the member
+2 made to the fund from the back drop date to the termination date,
+3 but excluding any interest. Such termination has at all times
+4 included reemployment of a member by a state agency, but only in a
+5 position not covered under the System. The provisions of
+6 subsections B, C, E, F and G of this section shall apply to this
+7 subsection; and
+8 3. A member may participate in the Oklahoma Law Enforcement
+9 Deferred Option Plan pursuant to this subsection even if the member
+10 has elected to participate in the Oklahoma Law Enforcement Deferred
+11 Option Plan pursuant to subsections A, B, C, D, E and F of this
+12 section. Such a member may select a back drop date which is up to
+13 five (5) years prior to the termination date, but not before the
+14 date at which the member completes twenty (20) years of
+15 participating service. Such a member's participation in the
+16 Oklahoma Law Enforcement Deferred Option Plan may not exceed five
+17 (5) years when combined with such a member's prior period of
+18 participation in the Oklahoma Law Enforcement Deferred Option Plan.
+19 The provisions of subsections B, C, E, F and G of this section shall
+20 apply to this subsection; and
+21 4. Effective July 1, 2026, if a member who has not less than
+22 twenty (20) years of creditable service and who is eligible to
+23 receive a service retirement pension dies prior to terminating
+24 employment, such member’s established children shall be eligible to
+Req. No. 16326 Page 38
+
+RBH No. 16326
+1 elec t to participate in the Oklahoma Law Enforcement Deferred Option
+2 Plan pursuant to this subsection so long as the member did not
+3 participate in the Oklahoma Law Enforcement Deferred Option Plan
+4 pursuant to subsections A, B, C, D, E and F of this section and
+5 provided that none of the established children or the deceased
+6 member's dependent parents are receiving, or will be eligible to
+7 receive, a pension annuity for life from the System. For the
+8 election to be effective, all established children must unanimously
+9 elect in writing within two (2) years from the member’s date of
+10 death to make such back drop election in accordance with any rules,
+11 resolutions, or procedures promulgated or adopted by the State
+12 Board. Once the election is timely made and the State Board has
+13 determined that all established children have been accounted for and
+14 made such election, each established child shall, as soon as
+15 practicable, receive an equal share of the deferred benefit balance,
+16 taking into account any reductions or adjustments to the deferred
+17 benefit balance described in the paragraph below for an established
+18 child receiving a survivor pension benefit. The State Board may
+19 rely on any reasonable method to determine that all established
+20 children have been accounted for; provided, however, that the State
+21 Board may conclusively rely on an order of any court of competent
+22 jurisdiction in making such determination. No interest shall accrue
+23 or be paid on the deferred benefit balance with respect to any
+24 period after the member’s date of death. Any payment made to a
+Req. No. 16326 Page 39
+
+RBH No. 16326
+1 memb er's established child pursuant to the subparagraph shall be
+2 included in the total retirement payments made with respect to a
+3 member pursuant to Section 2-306.2 of this title.
+4 In the event an established child is a beneficiary entitled to
+5 receive survivor pension benefits for any period, such established
+6 child’s pension benefit shall continue to be calculated pursuant to
+7 Section 2-306 of this title without regard to whether the election
+8 is made; provided, however, that if a back drop election is made
+9 pursuant to this subsection, the difference between such established
+10 child’s pension benefit calculated pursuant to section 2-306 of this
+11 title and the pension benefit calculated pursuant to this subsection
+12 shall reduce the deferred benefit balance. In calculating such
+13 reduction, the sum of such pension benefits will be reduced to a
+14 present value as of the member’s date of death using the actuarial
+15 assumed interest rate as of the member's date of death as certified
+16 by the actuary in the yearly evaluation report of the actuary, and
+17 assuming that the pension benefit will continue until the youngest
+18 of all established children attains twenty-two (22) years of age and
+19 such other assumptions that the State Board may promulgate or adopt
+20 by rule, resolution, or procedure. The portion of the deferred
+21 benefit balance an established child receives shall not be reduced
+22 by the back drop pension adjustment amount applicable to such
+23 established child other than as a result of the reduction in the
+24 deferred benefit balance.
+Req. No. 16326 Page 40
+
+RBH No. 16326
+1 Nothing in this paragraph or subsection is meant to create any
+2 benefits not otherwise allowed by law.
+3 SECTION 5. If the Emergency Clause is not approved pursuant to
+4 the requirements of the Oklahoma Constitution as part of this
+5 measure, the effective date of Section 1 of this act shall be
+6 October 1, 2026.
+7 SECTION 6. If the Emergency Clause is not approved pursuant to
+8 the requirements of the Oklahoma Constitution as part of this
+9 measure, the effective date of Sections 2 through 4 of this act
+10 shall be November 1, 2026.
+11 SECTION 7. Except as otherwise provided by Section 5 of this
+12 act, Section 1 of this act shall become effective immediately upon
+13 signature by the Governor or as otherwise provided by Section 58 of
+14 Article V of the Oklahoma Constitution.
+15 SECTION 8. Except as otherwise provided by Section 6 of this
+16 act, Sections 2 through 4 of this act shall become effective July 1,
+17 2026.
+18 SECTION 9. It being immediately necessary for the preservation
+19 of the public peace, health or safety, an emergency is hereby
+20 declared to exist, by reason whereof this act shall take effect and
+21 be in full force from and after its passage and approval.
+22
+23 60-2-16326 CMA 02/12/26
+24
+Req. No. 16326 Page 41
+
+[DELETED: 2 AS C           O S L           ]
+[DELETED:  P B]
+[DELETED:  P w]
+[DELETED:  P w g c i w w]
+[DELETED:  P w w t t]
+[DELETED:  P t t]
+[DELETED:  P w w S S S S S S w]
+[DELETED:  P w w]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P “ “]
+[DELETED:  P “ “]
+[DELETED:  P “]
+[DELETED:  P “ “ “ “ “]
+[DELETED:  P T]
+[DELETED:  P E]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P N]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P " "]
+[DELETED:  P " " “]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P " " " "]
+[DELETED:  P “]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P C 0]

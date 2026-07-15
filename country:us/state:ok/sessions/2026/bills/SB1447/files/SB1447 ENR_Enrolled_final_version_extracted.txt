@@ -1,0 +1,776 @@
+Title: An Act
+Official Title: An Act
+Number of Sections: 58
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED SENATE
+BILL NO. 1447 By: Gollihare, Bullard, and
+Burns of the Senate
+and
+Marti of the House
+An Act relating to the Oklahoma Employees Insurance
+Plan; defining terms; requiring certain provisions to
+be included in certain contract; prohibiting pharmacy
+benefits manager (PBM) from changing drug placement
+on a formulary without certain written authorization;
+prohibiting PBM from prohibiting certain guarantees
+of set pricing; prohibiting PBM from including
+certain plan designs without certain impact analysis
+and certain written approval of certain provisions by
+state plan; prohibiting PBM from establishing certain
+less favorable network terms; prohibiting
+establishment of certain gag clauses by certain PBM;
+prohibiting establishment of certain contract
+provisions that create certain conditions that
+exclude certain pharmacies without certain
+justification; requiring PBM to disclose certain
+affiliates or subcontractors prior to awarding of
+certain contract; requiring certain rebates to be
+passed through to state plan; construing provisions;
+establishing certain determination of certain
+guarantees; requiring PBM to maintain certain System
+and Organization Controls (SOC) Type 2 certification;
+requiring PBM to provide certain written impact
+analysis prior to approval of changes to certain
+contract provisions; requiring certain impact
+analysis to include certain provisions; requiring PBM
+to submit certain report including certain claim-
+level reporting data; requiring certain report to
+include certain provisions; allowing certain contract
+proposal to be scored based on certain provisions;
+providing for codification; and providing an
+effective date.
+SUBJECT: Oklahoma Employees Insurance Plan
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+Section 2:
+SECTION 1. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1330.1 of Title 74, unless there
+is created a duplication in numbering, reads as follows:
+As used in this act:
+
+Section 3:
+1. “Affiliate” means any person or entity that controls, is
+controlled by, or is under common control with another person or
+entity;
+
+Section 4:
+2. “Affiliated pharmacy” means any pharmacy, mail pharmacy,
+specialty pharmacy, or pharmacy services provider that is owned,
+operated, managed, or controlled by a pharmacy benefits manager
+(PBM) or that otherwise shares profits or losses with the PBM or an
+affiliate through common ownership, management, or contractual
+arrangement;
+
+Section 5:
+3. “Control” means the possession of the power to direct or
+cause the direction of management and policies of a person or
+entity, whether through ownership of voting securities, by contract,
+or otherwise. Control shall be established if a person or entity
+owns, controls, or holds with power to vote, ten percent (10%) or
+more of the voting securities or other ownership interest of the
+other person or entity;
+
+Section 6:
+4. “Operation data” means all data and records generated,
+received, maintained, or derived in connection with the provision of
+PBM services to a state plan, including claims data, pricing files,
+payment and remittance data, adjudication edits, rejection and
+reversal data, provider network files, pharmacy contracts and
+amendments, audit records, formulary files, utilization management
+outputs, communications affecting benefits, and any reports derived
+from such data;
+ENR. S. B. NO. 1447 Page 2
+
+Section 7:
+5. “Rebate” means any consideration or thing of value paid,
+credited, earned, received, retained, or recovered from a
+pharmaceutical manufacturer by a pharmacy benefits manager in
+connection with the purchase, dispensing, coverage, placement,
+administration, or utilization of a prescription drug or other
+covered product for a person covered under the state plan,
+regardless of how such consideration is characterized. Rebate
+includes, but is not limited to, base rebates, formulary rebates,
+incentive rebates, credits, price protection payments, market-share
+incentives, promotional allowances, commissions, educational grants,
+market-share utilization payments, drug pull-through programs,
+implementation allowances, clinical detailing payments, rebate
+submission fees, administrative fees, management fees, rebate
+contracting fees, contract aggregation payments, and any other
+similar payment or remuneration. Rebate does not include pharmacy
+purchase discounts and related service fees attributable to or based
+on the purchase of drugs by specialty drug pharmacies;
+
+Section 8:
+6. “Remuneration” means anything of value, whether in cash or
+in kind, paid, transferred, or provided to or for the benefit of a
+PBM, or any affiliate or subcontractor of such PBM, in connection
+with a prescription drug product or pharmacy benefit including, but
+not limited to, rebates, discounts, price concessions,
+administrative fees, services fees, data fees, network access fees,
+market share fees, formulary placement fees, inflationary or price
+protection payments, coupon or co-pay offset payments, dispensing or
+transaction fees, reconciliation payments, and any other payments in
+cash or credit regardless of characterization;
+
+Section 9:
+7. “State plan” means the self-insured plan provided pursuant
+to the Oklahoma Employees Insurance Plan;
+
+Section 10:
+8. “Subcontractor” means any person or entity, other than an
+employee of the PBM that performs, delegates, supports, or
+administers any PBM function including claims processing, network
+administration, rebate contracting or aggregation, formulary or
+utilization management, mail or specialty pharmacy services,
+auditing, pricing services, or data hosting, analytics, reporting,
+or transmission whether under a written or oral agreement;
+
+Section 11:
+9. “Total net cost” means, for a stated measurement period, the
+sum of all amounts paid by the state plan for covered prescription
+ENR. S. B. NO. 1447 Page 3
+drugs including, but not limited to, all ingredient cost amounts,
+dispensing fees, and any other amounts billed to the state plan and
+all amounts paid by covered members for covered prescription drugs,
+including co-payments, coinsurance, and deductible amounts, minus
+all rebates and remuneration required to be passed through to the
+state plan. Total net cost shall be calculated without regard to
+the gross rebate volume or the list price of the drug; and
+
+Section 12:
+10. “Utilization management” means the same as defined in
+
+Section 13:
+Section 2562 of Title 63 of the Oklahoma Statutes.
+
+Section 14:
+SECTION 2. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1330.2 of Title 74, unless there
+is created a duplication in numbering, reads as follows:
+A. Any pharmacy benefits manager (PBM) contract with a state
+plan shall:
+
+Section 15:
+1. Declare state plan ownership of all plan-specific
+operational data including, but not limited to, claims, pricing,
+rebates, formulary, utilization management outputs, audit data, and
+any such related reporting maintained by the PBM or any affiliate or
+subcontractor of such PBM;
+
+Section 16:
+2. Provide that the state plan have broad audit rights and
+shall determine designated auditors over any PBM and any affiliates
+or subcontractors of such PBM to verify compliance with contract
+provisions;
+
+Section 17:
+3. Establish network adequacy including rural access and
+compliance with any applicable pharmacy choice and access rules
+established by contract;
+
+Section 18:
+4. Provide that the state plan have exclusive authority over
+formulary selection, tiering, preferred status, exclusions,
+specialty designation, and utilization management of any provisions
+of such contract. Nothing in this paragraph shall be construed to
+prohibit the PBM from providing recommendations to the state plan
+for formulary selection, tiering, preferred status, exclusions,
+specialty designation, or utilization management; and
+ENR. S. B. NO. 1447 Page 4
+
+Section 19:
+5. Offer for inclusion in such contract, at the election of the
+state plan, one or more set pricing guarantee methodologies for
+covered outpatient drugs including, but not limited to, National
+Average Drug Acquisition Cost (NADAC) plus a dispensing fee, maximum
+allowable cost (MAC) pricing, or any objectively verifiable
+benchmark approved by the state plan.
+B. No PBM shall:
+
+Section 20:
+1. Modify criteria, add restrictions, or change placement of
+drugs on a formulary without written authorization by the state plan
+to make such changes;
+
+Section 21:
+2. Restrict or prohibit the state plan from requiring or
+negotiating set pricing guarantees;
+
+Section 22:
+3. Include any plan design or incentive to steer any members of
+the state plan to a pharmacy affiliated with such PBM unless such
+plan design or incentive is authorized in writing by the state plan
+after submission of an impact analysis established pursuant to
+subsection A of Section 3 of this act;
+
+Section 23:
+4. Establish network terms or reimbursement methodologies that
+are less favorable to nonaffiliated pharmacies than to affiliated
+pharmacies;
+
+Section 24:
+5. Establish gag clauses limiting the state plan’s ability to
+share contract terms, performance metrics, audit results, or cost
+data with oversight entities, auditors, actuaries, or counsel. Any
+contract terms shared pursuant to this paragraph shall be subject to
+reasonable confidentiality; and
+
+Section 25:
+6. Establish contract provisions that create reimbursement or
+network conditions that exclude specific pharmacies from the network
+without documented and state plan-approved access and cost
+justifications.
+C. The PBM shall be required to disclose any affiliates or
+subcontractors of such PBM to the state plan prior to the awarding
+of a contract and shall disclose any additional affiliate or
+subcontractor at no fewer than thirty (30) days after such affiliate
+or subcontractor is associated with the PBM.
+ENR. S. B. NO. 1447 Page 5
+D. All rebates shall be passed through to the state plan and
+shall be subject to audit by the state plan, including inspection of
+manufacturer rebate contracts without redaction. Nothing in this
+subsection shall be construed to require the pass-through of any
+amounts authorized as fixed and separately stated administrative
+fees to the state plan.
+E. Any guarantees established by the contract between a PBM and
+a state plan shall be determined by total net cost and access
+outcomes and shall not be determined by rebate volume. Such
+performance guarantees shall include clear remedies in the form of
+credits payable by the plan for failure to comply with the
+provisions of the contract.
+F. A PBM shall:
+
+Section 26:
+1. Maintain System and Organization Controls (SOC) Type 2
+certification for the duration of the contract with the state plan;
+and
+
+Section 27:
+2. Provide to the state plan, all plan-specific operational
+data and reporting in the form and medium prescribed by the plan
+within the time frame established by the contract, or if not
+specified, within five (5) business days of the state plan’s request
+for then existing data, and within thirty (30) days after the close
+of each month for monthly files and reports. Such PBM shall not
+withhold or delay such data or charge any amount except for the
+fixed administrative fee for extraction, access, interfaces,
+licensing, or delivery, including any fees imposed by affiliates or
+subcontractors of such PBM, and shall remain responsible for
+compliance even if such data is held or processed by such affiliate
+or subcontractor.
+
+Section 28:
+SECTION 3. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1330.3 of Title 74, unless there
+is created a duplication in numbering, reads as follows:
+A. The pharmacy benefits manager (PBM) shall provide a written
+impact analysis to the state plan prior to the state plan approving
+any change to contract provisions, formularies, utilization
+management criteria, network design, reimbursement methodologies, or
+ENR. S. B. NO. 1447 Page 6
+any plan design or incentive pursuant to paragraph 3 of subsection B
+of Section 2 of this act. No change shall be implemented unless the
+state plan authorizes in writing such change. Such impact analysis
+shall include at minimum:
+
+Section 29:
+1. The total number of members impacted by each proposed
+change;
+
+Section 30:
+2. The total net plan cost impact of each proposed change;
+
+Section 31:
+3. The member out-of-pocket impact of each proposed change;
+
+Section 32:
+4. The state plan cost impact of each proposed change; and
+
+Section 33:
+5. The pharmacy access impact of each proposed change,
+including rural access impacts.
+B. The PBM shall submit an electronic report in a form and
+medium prescribed by the state plan that shall include for each
+prescription drug claim itemized, claim-level reporting data
+sufficient to validate the following:
+
+Section 34:
+1. The date of dispensing;
+
+Section 35:
+2. The National Drug Code (NDC);
+
+Section 36:
+3. The drug quantity;
+
+Section 37:
+4. The number of days’ supply;
+
+Section 38:
+5. The dispensing pharmacy identifier in the form of the
+National Provider Identifier (NPI) and the National Council for
+Prescription Drug Programs (NCPDP) Number;
+
+Section 39:
+6. If the dispensing pharmacy is affiliated with the PBM;
+
+Section 40:
+7. The final total payment received by the dispensing pharmacy
+from all sources;
+
+Section 41:
+8. The ingredient cost paid to the dispensing pharmacy;
+
+Section 42:
+9. The final dispensing fee paid to the dispensing pharmacy;
+ENR. S. B. NO. 1447 Page 7
+
+Section 43:
+10. Any post-adjudication fees, withholds, recoupments,
+incentives, or other adjustments applied to the claim;
+
+Section 44:
+11. The total gross amount billed to the state plan for the
+claim;
+
+Section 45:
+12. The total gross amount billed to the state plan for the
+drug’s ingredient cost;
+
+Section 46:
+13. The total gross amount billed to the state plan for the
+dispensing fee;
+
+Section 47:
+14. The total net amount billed to the state plan for the
+claim;
+
+Section 48:
+15. The total net amount billed to the state plan for the
+drug’s ingredient cost;
+
+Section 49:
+16. The total net amount billed to the state plan for the
+dispensing fee; and
+
+Section 50:
+17. All other amounts charged in connection with the claim.
+C. Any contract term in violation of the provisions of this act
+shall be voidable and severable at the election of the state plan.
+Any violation of the provisions of this act may constitute a
+material breach and may be grounds for termination for cause, in
+addition to any other remedies available under contract or law.
+D. Any request for proposal for PBM services for the state plan
+shall include:
+
+Section 51:
+1. Bidder certification of compliance;
+
+Section 52:
+2. A compliance narrative; and
+
+Section 53:
+3. Sample contract language demonstrating compliance with the
+provisions of this act.
+ENR. S. B. NO. 1447 Page 8
+
+Section 54:
+SECTION 4. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1330.4 of Title 74, unless there
+is created a duplication in numbering, reads as follows:
+In evaluating proposals for a contract between a pharmacy
+benefits manager (PBM) and the state plan, the state plan may assign
+favorable scoring or weighting to proposals based on factors in
+addition to price including, but not limited to:
+
+Section 55:
+1. Accessibility and in-state presence, including the ability
+of the PBM to provide regular in-person meetings with state
+officials and the positive economic impact of the PBM’s operations
+within this state, including employment, investment, and other
+economic activity within this state;
+
+Section 56:
+2. Compliance history, including the PBM’s record of regulatory
+actions, legal judgments, settlements, or enforcement actions
+involving a state, self-insured plan, or governmental entity
+relating to pharmacy reimbursement, claims processing, audit
+practices, or other PBM business activities; and
+
+Section 57:
+3. Transparent pricing models, including the offering of a
+flat-fee-per-claim-processed model or a per-member-per-month
+administrative fee model that minimizes or eliminates spread pricing
+and other undisclosed revenue streams.
+
+Section 58:
+SECTION 5. This act shall become effective November 1, 2026.
+ENR. S. B. NO. 1447 Page 9
+Passed the Senate the 26th day of March, 2026.
+Presiding Officer of the Senate
+Passed the House of Representatives the 28th day of April, 2026.
+Presiding Officer of the House
+of Representatives
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of __________________, 20 _______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. S. B. NO. 1447 Page 10
+[DELETED:  B G  a M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPPo_G]
+
+
+================================================================================
+
+Raw Text:
+An Act
+ENROLLED SENATE
+BILL NO. 1447 By: Gollihare, Bullard, and
+Burns of the Senate
+and
+Marti of the House
+An Act relating to the Oklahoma Employees Insurance
+Plan; defining terms; requiring certain provisions to
+be included in certain contract; prohibiting pharmacy
+benefits manager (PBM) from changing drug placement
+on a formulary without certain written authorization;
+prohibiting PBM from prohibiting certain guarantees
+of set pricing; prohibiting PBM from including
+certain plan designs without certain impact analysis
+and certain written approval of certain provisions by
+state plan; prohibiting PBM from establishing certain
+less favorable network terms; prohibiting
+establishment of certain gag clauses by certain PBM;
+prohibiting establishment of certain contract
+provisions that create certain conditions that
+exclude certain pharmacies without certain
+justification; requiring PBM to disclose certain
+affiliates or subcontractors prior to awarding of
+certain contract; requiring certain rebates to be
+passed through to state plan; construing provisions;
+establishing certain determination of certain
+guarantees; requiring PBM to maintain certain System
+and Organization Controls (SOC) Type 2 certification;
+requiring PBM to provide certain written impact
+analysis prior to approval of changes to certain
+contract provisions; requiring certain impact
+analysis to include certain provisions; requiring PBM
+to submit certain report including certain claim-
+level reporting data; requiring certain report to
+include certain provisions; allowing certain contract
+proposal to be scored based on certain provisions;
+providing for codification; and providing an
+effective date.
+
+SUBJECT: Oklahoma Employees Insurance Plan
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1330.1 of Title 74, unless there
+is created a duplication in numbering, reads as follows:
+As used in this act:
+1. “Affiliate” means any person or entity that controls, is
+controlled by, or is under common control with another person or
+entity;
+2. “Affiliated pharmacy” means any pharmacy, mail pharmacy,
+specialty pharmacy, or pharmacy services provider that is owned,
+operated, managed, or controlled by a pharmacy benefits manager
+(PBM) or that otherwise shares profits or losses with the PBM or an
+affiliate through common ownership, management, or contractual
+arrangement;
+3. “Control” means the possession of the power to direct or
+cause the direction of management and policies of a person or
+entity, whether through ownership of voting securities, by contract,
+or otherwise. Control shall be established if a person or entity
+owns, controls, or holds with power to vote, ten percent (10%) or
+more of the voting securities or other ownership interest of the
+other person or entity;
+4. “Operation data” means all data and records generated,
+received, maintained, or derived in connection with the provision of
+PBM services to a state plan, including claims data, pricing files,
+payment and remittance data, adjudication edits, rejection and
+reversal data, provider network files, pharmacy contracts and
+amendments, audit records, formulary files, utilization management
+outputs, communications affecting benefits, and any reports derived
+from such data;
+ENR. S. B. NO. 1447 Page 2
+
+5. “Rebate” means any consideration or thing of value paid,
+credited, earned, received, retained, or recovered from a
+pharmaceutical manufacturer by a pharmacy benefits manager in
+connection with the purchase, dispensing, coverage, placement,
+administration, or utilization of a prescription drug or other
+covered product for a person covered under the state plan,
+regardless of how such consideration is characterized. Rebate
+includes, but is not limited to, base rebates, formulary rebates,
+incentive rebates, credits, price protection payments, market-share
+incentives, promotional allowances, commissions, educational grants,
+market-share utilization payments, drug pull-through programs,
+implementation allowances, clinical detailing payments, rebate
+submission fees, administrative fees, management fees, rebate
+contracting fees, contract aggregation payments, and any other
+similar payment or remuneration. Rebate does not include pharmacy
+purchase discounts and related service fees attributable to or based
+on the purchase of drugs by specialty drug pharmacies;
+6. “Remuneration” means anything of value, whether in cash or
+in kind, paid, transferred, or provided to or for the benefit of a
+PBM, or any affiliate or subcontractor of such PBM, in connection
+with a prescription drug product or pharmacy benefit including, but
+not limited to, rebates, discounts, price concessions,
+administrative fees, services fees, data fees, network access fees,
+market share fees, formulary placement fees, inflationary or price
+protection payments, coupon or co-pay offset payments, dispensing or
+transaction fees, reconciliation payments, and any other payments in
+cash or credit regardless of characterization;
+7. “State plan” means the self-insured plan provided pursuant
+to the Oklahoma Employees Insurance Plan;
+8. “Subcontractor” means any person or entity, other than an
+employee of the PBM that performs, delegates, supports, or
+administers any PBM function including claims processing, network
+administration, rebate contracting or aggregation, formulary or
+utilization management, mail or specialty pharmacy services,
+auditing, pricing services, or data hosting, analytics, reporting,
+or transmission whether under a written or oral agreement;
+9. “Total net cost” means, for a stated measurement period, the
+sum of all amounts paid by the state plan for covered prescription
+ENR. S. B. NO. 1447 Page 3
+
+drugs including, but not limited to, all ingredient cost amounts,
+dispensing fees, and any other amounts billed to the state plan and
+all amounts paid by covered members for covered prescription drugs,
+including co-payments, coinsurance, and deductible amounts, minus
+all rebates and remuneration required to be passed through to the
+state plan. Total net cost shall be calculated without regard to
+the gross rebate volume or the list price of the drug; and
+10. “Utilization management” means the same as defined in
+Section 2562 of Title 63 of the Oklahoma Statutes.
+SECTION 2. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1330.2 of Title 74, unless there
+is created a duplication in numbering, reads as follows:
+A. Any pharmacy benefits manager (PBM) contract with a state
+plan shall:
+1. Declare state plan ownership of all plan-specific
+operational data including, but not limited to, claims, pricing,
+rebates, formulary, utilization management outputs, audit data, and
+any such related reporting maintained by the PBM or any affiliate or
+subcontractor of such PBM;
+2. Provide that the state plan have broad audit rights and
+shall determine designated auditors over any PBM and any affiliates
+or subcontractors of such PBM to verify compliance with contract
+provisions;
+3. Establish network adequacy including rural access and
+compliance with any applicable pharmacy choice and access rules
+established by contract;
+4. Provide that the state plan have exclusive authority over
+formulary selection, tiering, preferred status, exclusions,
+specialty designation, and utilization management of any provisions
+of such contract. Nothing in this paragraph shall be construed to
+prohibit the PBM from providing recommendations to the state plan
+for formulary selection, tiering, preferred status, exclusions,
+specialty designation, or utilization management; and
+ENR. S. B. NO. 1447 Page 4
+
+5. Offer for inclusion in such contract, at the election of the
+state plan, one or more set pricing guarantee methodologies for
+covered outpatient drugs including, but not limited to, National
+Average Drug Acquisition Cost (NADAC) plus a dispensing fee, maximum
+allowable cost (MAC) pricing, or any objectively verifiable
+benchmark approved by the state plan.
+B. No PBM shall:
+1. Modify criteria, add restrictions, or change placement of
+drugs on a formulary without written authorization by the state plan
+to make such changes;
+2. Restrict or prohibit the state plan from requiring or
+negotiating set pricing guarantees;
+3. Include any plan design or incentive to steer any members of
+the state plan to a pharmacy affiliated with such PBM unless such
+plan design or incentive is authorized in writing by the state plan
+after submission of an impact analysis established pursuant to
+subsection A of Section 3 of this act;
+4. Establish network terms or reimbursement methodologies that
+are less favorable to nonaffiliated pharmacies than to affiliated
+pharmacies;
+5. Establish gag clauses limiting the state plan’s ability to
+share contract terms, performance metrics, audit results, or cost
+data with oversight entities, auditors, actuaries, or counsel. Any
+contract terms shared pursuant to this paragraph shall be subject to
+reasonable confidentiality; and
+6. Establish contract provisions that create reimbursement or
+network conditions that exclude specific pharmacies from the network
+without documented and state plan-approved access and cost
+justifications.
+C. The PBM shall be required to disclose any affiliates or
+subcontractors of such PBM to the state plan prior to the awarding
+of a contract and shall disclose any additional affiliate or
+subcontractor at no fewer than thirty (30) days after such affiliate
+or subcontractor is associated with the PBM.
+ENR. S. B. NO. 1447 Page 5
+
+D. All rebates shall be passed through to the state plan and
+shall be subject to audit by the state plan, including inspection of
+manufacturer rebate contracts without redaction. Nothing in this
+subsection shall be construed to require the pass-through of any
+amounts authorized as fixed and separately stated administrative
+fees to the state plan.
+E. Any guarantees established by the contract between a PBM and
+a state plan shall be determined by total net cost and access
+outcomes and shall not be determined by rebate volume. Such
+performance guarantees shall include clear remedies in the form of
+credits payable by the plan for failure to comply with the
+provisions of the contract.
+F. A PBM shall:
+1. Maintain System and Organization Controls (SOC) Type 2
+certification for the duration of the contract with the state plan;
+and
+2. Provide to the state plan, all plan-specific operational
+data and reporting in the form and medium prescribed by the plan
+within the time frame established by the contract, or if not
+specified, within five (5) business days of the state plan’s request
+for then existing data, and within thirty (30) days after the close
+of each month for monthly files and reports. Such PBM shall not
+withhold or delay such data or charge any amount except for the
+fixed administrative fee for extraction, access, interfaces,
+licensing, or delivery, including any fees imposed by affiliates or
+subcontractors of such PBM, and shall remain responsible for
+compliance even if such data is held or processed by such affiliate
+or subcontractor.
+SECTION 3. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1330.3 of Title 74, unless there
+is created a duplication in numbering, reads as follows:
+A. The pharmacy benefits manager (PBM) shall provide a written
+impact analysis to the state plan prior to the state plan approving
+any change to contract provisions, formularies, utilization
+management criteria, network design, reimbursement methodologies, or
+ENR. S. B. NO. 1447 Page 6
+
+any plan design or incentive pursuant to paragraph 3 of subsection B
+of Section 2 of this act. No change shall be implemented unless the
+state plan authorizes in writing such change. Such impact analysis
+shall include at minimum:
+1. The total number of members impacted by each proposed
+change;
+2. The total net plan cost impact of each proposed change;
+3. The member out-of-pocket impact of each proposed change;
+4. The state plan cost impact of each proposed change; and
+5. The pharmacy access impact of each proposed change,
+including rural access impacts.
+B. The PBM shall submit an electronic report in a form and
+medium prescribed by the state plan that shall include for each
+prescription drug claim itemized, claim-level reporting data
+sufficient to validate the following:
+1. The date of dispensing;
+2. The National Drug Code (NDC);
+3. The drug quantity;
+4. The number of days’ supply;
+5. The dispensing pharmacy identifier in the form of the
+National Provider Identifier (NPI) and the National Council for
+Prescription Drug Programs (NCPDP) Number;
+6. If the dispensing pharmacy is affiliated with the PBM;
+7. The final total payment received by the dispensing pharmacy
+from all sources;
+8. The ingredient cost paid to the dispensing pharmacy;
+9. The final dispensing fee paid to the dispensing pharmacy;
+ENR. S. B. NO. 1447 Page 7
+
+10. Any post-adjudication fees, withholds, recoupments,
+incentives, or other adjustments applied to the claim;
+11. The total gross amount billed to the state plan for the
+claim;
+12. The total gross amount billed to the state plan for the
+drug’s ingredient cost;
+13. The total gross amount billed to the state plan for the
+dispensing fee;
+14. The total net amount billed to the state plan for the
+claim;
+15. The total net amount billed to the state plan for the
+drug’s ingredient cost;
+16. The total net amount billed to the state plan for the
+dispensing fee; and
+17. All other amounts charged in connection with the claim.
+C. Any contract term in violation of the provisions of this act
+shall be voidable and severable at the election of the state plan.
+Any violation of the provisions of this act may constitute a
+material breach and may be grounds for termination for cause, in
+addition to any other remedies available under contract or law.
+D. Any request for proposal for PBM services for the state plan
+shall include:
+1. Bidder certification of compliance;
+2. A compliance narrative; and
+3. Sample contract language demonstrating compliance with the
+provisions of this act.
+ENR. S. B. NO. 1447 Page 8
+
+SECTION 4. NEW LAW A new section of law to be codified
+in the Oklahoma Statutes as Section 1330.4 of Title 74, unless there
+is created a duplication in numbering, reads as follows:
+In evaluating proposals for a contract between a pharmacy
+benefits manager (PBM) and the state plan, the state plan may assign
+favorable scoring or weighting to proposals based on factors in
+addition to price including, but not limited to:
+1. Accessibility and in-state presence, including the ability
+of the PBM to provide regular in-person meetings with state
+officials and the positive economic impact of the PBM’s operations
+within this state, including employment, investment, and other
+economic activity within this state;
+2. Compliance history, including the PBM’s record of regulatory
+actions, legal judgments, settlements, or enforcement actions
+involving a state, self-insured plan, or governmental entity
+relating to pharmacy reimbursement, claims processing, audit
+practices, or other PBM business activities; and
+3. Transparent pricing models, including the offering of a
+flat-fee-per-claim-processed model or a per-member-per-month
+administrative fee model that minimizes or eliminates spread pricing
+and other undisclosed revenue streams.
+SECTION 5. This act shall become effective November 1, 2026.
+ENR. S. B. NO. 1447 Page 9
+
+Passed the Senate the 26th day of March, 2026.
+Presiding Officer of the Senate
+Passed the House of Representatives the 28th day of April, 2026.
+Presiding Officer of the House
+of Representatives
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of __________________, 20 _______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. S. B. NO. 1447 Page 10
+
+[DELETED:  B G  a M]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  PPPo_G]
