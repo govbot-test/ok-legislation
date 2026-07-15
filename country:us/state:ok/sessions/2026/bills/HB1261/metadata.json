@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1261",
-  "title": "Wrecker licensing; creating the Wrecker Licensing Reform Act of 2025; effective date.",
+  "title": "Motor vehicles; creating the Wrecker Services Division within the Department of Labor; Corporation Commission; Wrecker and Towing Services Board; Wrecker and Tower Services Board; effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -96,6 +96,38 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:24Z"
       }
+    },
+    {
+      "description": "CR; Do Pass, amended by committee substitute Appropriations and Budget Committee",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:26Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Frix (principal Senate author)",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:26Z"
+      }
+    },
+    {
+      "description": "Title stricken",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -123,6 +155,28 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 INT/hB/HB1261 INT.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE SUBS/HCS/HB1261 CS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Floor (House)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLR/HFLR/HB1261 HFLR.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -163,6 +217,28 @@
       "classification": ""
     },
     {
+      "note": "Proposed Committee Substitute (full committee) 2",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/HB1261 FULLPCS2 NEIL HAYS-JBH.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Proposed Committee Substitute (full committee) 3",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/HB1261 FULLPCS3 NEIL HAYS-JBH.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Sub Committee Recommendation",
       "links": [
         {
@@ -180,6 +256,10 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/HOUSE/HB1261 SUBHCR.PDF",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/HOUSE/HB1261 HCR.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -202,7 +282,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:24Z",
+    "logs_latest_update": "2026-07-15T13:05:26Z",
     "text_extraction_latest_update": "2026-07-13T09:06:26.076849Z"
   }
 }

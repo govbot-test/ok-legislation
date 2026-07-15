@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB2115",
-  "title": "Public assistance programs; transferring certain programs to the Department of Human Services; effective date.",
+  "title": "Public assistance programs; directing the Department of Human Services to administer certain programs; federal funds; requirements; transferring certain powers, duties, records, assets and monies to the Department; effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -271,6 +271,98 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:19Z"
       }
+    },
+    {
+      "description": "SA's rejected, conference requested, conferees to be named later",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "HC's named: Conference Committee on Rules",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Conference granted",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "SCs named Thompson, Rosino, Stanley, Haste, Coleman, Dossett",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "CCR submitted",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "CCR adopted",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Fourth Reading, Measure failed:  Ayes: 39  Nays: 41",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Notice served to reconsider vote by Representative Osburn",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Motion expired",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -283,11 +375,11 @@
       "organization_id": null
     },
     {
-      "name": "Thompson (Kristen)",
+      "name": "Thompson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Thompson (Kristen)\"}",
+      "person_id": "~{\"name\": \"Thompson\"}",
       "organization_id": null
     }
   ],
@@ -353,6 +445,17 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 AMENDMENTS/Amendment and Engr/HB2115 SAHB AND ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Conference Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE SUBS/HCCS/HB2115 CCS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -459,6 +562,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Scheduled House CCR 1(A)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 SUPPORT DOCUMENTS/SCHEDULED CCR/House/HB2115 CCR A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Conference Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/House/CCR Combined/HB2115 CCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -476,7 +601,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:19Z",
+    "logs_latest_update": "2026-07-15T13:05:28Z",
     "text_extraction_latest_update": "2026-07-13T15:15:42.774985Z"
   }
 }

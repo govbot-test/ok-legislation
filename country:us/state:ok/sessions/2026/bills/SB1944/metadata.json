@@ -37,6 +37,284 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:24Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Business and Insurance",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Newton (principal House author)",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass as amended Business and Insurance committee; CR filed",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Title stricken",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Placed on General Order",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "General Order, Amended by Floor Substitute",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Title restored",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Measure passed:  Ayes: 39  Nays: 2",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Referred for engrossment",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Engrossed to House",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Judiciary and Public Safety Oversight",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Referred to Civil Judiciary",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Remove Representative Newton as principal House author and substitute with Representative Travis",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Policy recommendation to the Judiciary and Public Safety Oversight committee; Do Pass Civil Judiciary",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative(s) Newton",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "CR; Do Pass Judiciary and Public Safety Oversight Committee",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "General Order",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Third Reading, Measure passed:  Ayes: 87 Nays: 1",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Signed, returned to Senate",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Referred for enrollment",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Enrolled, to House",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Signed, returned to Senate",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Approved by Governor 05/12/2026",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +324,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Murdock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Travis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Travis\"}",
       "organization_id": null
     }
   ],
@@ -61,9 +347,109 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Floor (House)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLR/HFLR/SB1944 HFLR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Floor (Senate)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLR/SFLR/SB1944 SFLR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENGR/SB/SB1944 ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled (final version)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/SB/SB1944 ENR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1944 (3-02-26) (MURDOCK) FS FA1.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/SB1944 (3-02-26) (MURDOCK) FS FA1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1944 (3-02-26) (MURDOCK) RT FA2.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/SB1944 (3-02-26) (MURDOCK) RT FA2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "House Policy Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/HOUSE/SB1944 POLHCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/HOUSE/SB1944 HCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/SENATE/SB1944 SCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -79,7 +465,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:24Z",
+    "logs_latest_update": "2026-07-15T13:05:31Z",
     "text_extraction_latest_update": "2026-07-13T13:20:48.217018Z"
   }
 }

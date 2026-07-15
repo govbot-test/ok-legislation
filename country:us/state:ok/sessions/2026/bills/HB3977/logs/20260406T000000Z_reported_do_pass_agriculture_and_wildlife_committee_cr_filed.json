@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported Do Pass Agriculture and Wildlife committee; CR filed",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3977&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3977"
+}

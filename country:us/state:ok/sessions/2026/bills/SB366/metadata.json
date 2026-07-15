@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB366",
-  "title": "Charter schools; removing language requiring a charter school application to be first submitted to certain school district. Effective date. Emergency.",
+  "title": "School district boards of education; directing a board of education to provide certain notice if a lessee does not timely elect to purchase certain property. Effective date. Emergency.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -90,6 +90,150 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:16Z"
       }
+    },
+    {
+      "description": "Coauthored by Senator Stewart",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Caldwell (Chad)",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass, amended by committee substitute Education committee; CR filed",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Title stricken",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Placed on General Order",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "General Order, Amended by Floor Substitute",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Title restored",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Measure and Emergency passed:  Ayes:  40 Nays:  6",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Referred for engrossment",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Engrossed to House",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Education Oversight",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Referred to Common Education",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,9 +266,87 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE SUBS/SCS/SB366 CS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Floor (Senate)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLR/SFLR/SB366 SFLR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENGR/SB/SB366 ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB366 (3-16-26) (HINES) FS FA1.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/SB366 (3-16-26) (HINES) FS FA1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB366 (3-16-26) (HINES) RT FA2.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/SB366 (3-16-26) (HINES) RT FA2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/Senate/SB366 PCS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Senate Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/SENATE/SB366 SCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -140,7 +362,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:16Z",
+    "logs_latest_update": "2026-07-15T13:05:28Z",
     "text_extraction_latest_update": "2026-07-13T18:10:45.633369Z"
   }
 }

@@ -345,6 +345,210 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:19Z"
       }
+    },
+    {
+      "description": "HAs read",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "HAs rejected, conference requested",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Conference granted, naming Conference Committee on Health and Human Services Oversight",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "SCs named Howard, Gollihare, Rosino, Jech, Boren",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "2 CCR read",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Title restored",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Hamilton",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "2 CCR adopted",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Measure passed, to House:  Ayes: 42  Nays: 6",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "2 CCR submitted",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "2 CCR adopted",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative(s) Roberts, Eaves",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Fourth Reading, Measure passed:  Ayes: 89  Nays: 0",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "To Senate",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Referred for enrollment",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Enrolled, to House",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Signed, returned to Senate",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Approved by Governor 05/20/2026",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -434,6 +638,28 @@
       "classification": ""
     },
     {
+      "note": "Senate Conference Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE SUBS/SCCS/SB893 CCS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled (final version)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/SB/SB893 ENR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "1 Floor Amendment by CALDWELL",
       "links": [
         {
@@ -502,6 +728,28 @@
       "classification": ""
     },
     {
+      "note": "Scheduled House CCR 1(B)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 SUPPORT DOCUMENTS/SCHEDULED CCR/House/SB893 CCR B.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Conference Committee Report 2",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE reports/CCR SCANNED/Senate/SB893 CCR2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Senate Conference Committee Report",
       "links": [
         {
@@ -528,7 +776,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:19Z",
+    "logs_latest_update": "2026-07-15T13:05:27Z",
     "text_extraction_latest_update": "2026-07-13T08:39:22.389758Z"
   }
 }

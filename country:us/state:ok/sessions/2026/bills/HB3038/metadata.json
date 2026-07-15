@@ -37,6 +37,31 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:22Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Judiciary and Public Safety Oversight",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Referred to Criminal Judiciary",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -69,6 +94,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Proposed Policy Committee Substitute 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/HB3038 POLPCS1 GABE WOOLLEY-TJ.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -87,7 +123,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:22Z",
+    "logs_latest_update": "2026-07-15T13:05:28Z",
     "text_extraction_latest_update": "2026-07-13T10:44:31.874231Z"
   }
 }

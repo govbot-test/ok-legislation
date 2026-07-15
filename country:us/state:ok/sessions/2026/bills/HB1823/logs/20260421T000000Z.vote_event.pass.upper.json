@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Jech              Oklahoma Housing Finance Agency; Defining Term;",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "1084de8a-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB1823",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Coleman",
+      "voter_id": "~{\"name\": \"Coleman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Frix",
+      "voter_id": "~{\"name\": \"Frix\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gillespie",
+      "voter_id": "~{\"name\": \"Gillespie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Green",
+      "voter_id": "~{\"name\": \"Green\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guthrie",
+      "voter_id": "~{\"name\": \"Guthrie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kirt",
+      "voter_id": "~{\"name\": \"Kirt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thompson",
+      "voter_id": "~{\"name\": \"Thompson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Woods",
+      "voter_id": "~{\"name\": \"Woods\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Goodwin",
+      "voter_id": "~{\"name\": \"Goodwin\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD HB1823 PCS - ADOPTED (Request No: 3969)",
+      "voter_id": "~{\"name\": \"AMD HB1823 PCS - ADOPTED (Request No: 3969)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1823_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1823_VOTES.HTM#30"
+}

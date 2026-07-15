@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Government Oversight committee; Do Pass Elections and Ethics",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1581&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1581"
+}

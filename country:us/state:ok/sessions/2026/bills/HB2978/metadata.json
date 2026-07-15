@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB2978",
-  "title": "Schools; library media program; community standards; obscene materials; effective date.",
+  "title": "Schools; library media program; community standards; sexually explicit conduct; effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -37,6 +37,258 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:20Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Education Oversight",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Referred to Common Education",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Policy recommendation to the Education Oversight committee; Do Pass, amended by committee substitute Common Education",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative(s) Olsen, Hall",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "CR; Do Pass, amended by committee substitute Education Oversight Committee",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative(s) Hilbert",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Logan (principal Senate author)",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "General Order",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative(s) Norwood, Staires, Gise, Hays",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Laid over",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Considered",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative(s) Hill",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Third Reading, Measure passed:  Ayes: 74 Nays: 17",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Referred for engrossment",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Engrossed, signed, to Senate",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Jett",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Adams",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Woolley",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Education",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Hamilton",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Alvord",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Failed in Committee - Education",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +298,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Banning\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Logan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Logan\"}",
       "organization_id": null
     }
   ],
@@ -61,9 +321,98 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "House Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE SUBS/HCS/HB2978 CS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Floor (House)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLR/HFLR/HB2978 HFLR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENGR/hB/HB2978 ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "1 Floor Amendment by PROVENZANO",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/House/HB2978 FA1 PROVENZANOME-SW.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/Senate/HB2978 PCS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Proposed Policy Committee Substitute 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/HB2978 POLPCS1 CHRIS BANNING-SW.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Policy Committee Recommendation",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE SUBS/HCS/HB2978 POLREC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "House Policy Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/HOUSE/HB2978 POLHCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -79,7 +428,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:20Z",
+    "logs_latest_update": "2026-07-15T13:05:33Z",
     "text_extraction_latest_update": "2026-07-13T14:43:46.041893Z"
   }
 }

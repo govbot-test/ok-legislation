@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SJR28",
-  "title": "Constitutional amendment; revenue neutral rate for ad valorem; millage adjustment; ballot title.",
+  "title": "Constitutional amendment; revenue neutral rate for ad valorem; millage adjustment.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "joint resolution"
@@ -14,8 +14,54 @@
       "identifier": "ocd-bill-ok-2026-sjr28"
     }
   ],
-  "actions": [],
-  "sponsorships": [],
+  "actions": [
+    {
+      "description": "First Reading",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Bergstrom",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Rules",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bergstrom",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bergstrom\"}",
+      "organization_id": null
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
@@ -46,7 +92,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:23Z",
+    "logs_latest_update": "2026-07-15T13:05:27Z",
     "text_extraction_latest_update": "2026-07-13T14:37:49.614332Z"
   }
 }

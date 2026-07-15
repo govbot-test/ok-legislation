@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB175",
-  "title": "Vehicle registration; creating certain fee to be imposed on certain vehicles; creating the Uninsured Commercial Vehicle Recovery Reimbursement Fund. Effective date. Emergency.",
+  "title": "Motor vehicles; creating the Uninsured Commercial Vehicle Recovery Reimbursement Fund; allowing the Corporation Commission to promulgate certain rules; directing deposit of certain monies in certain fund. Effective date. Emergency.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -50,6 +50,72 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:15Z"
       }
+    },
+    {
+      "description": "Reported Do Pass, amended by committee substitute Aeronautics and Transportation committee; CR filed",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Referred to Appropriations",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Hays (principal House author)",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass as amended Appropriations committee; CR filed",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Title stricken",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Placed on General Order",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +125,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Woods\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hays",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hays\"}",
       "organization_id": null
     }
   ],
@@ -74,9 +148,65 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE SUBS/SCS/SB175 CS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Floor (Senate)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLR/SFLR/SB175 SFLR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/Senate/SB175 PCS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Senate Committee Report 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/SENATE/SB175 SCRDR1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Report 2",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/SENATE/SB175 SCRDR2.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -92,7 +222,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:15Z",
+    "logs_latest_update": "2026-07-15T13:05:30Z",
     "text_extraction_latest_update": "2026-07-13T17:17:26.574846Z"
   }
 }

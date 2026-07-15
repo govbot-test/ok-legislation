@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB1570",
-  "title": "Child welfare; creating the Child Welfare Task Force; requiring submission of certain report. Effective date.",
+  "title": "Children; creating the Department of Child Safety and Wellbeing; transferring certain powers, duties, and employees from specified agencies. Effective date.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -14,8 +14,236 @@
       "identifier": "ocd-bill-ok-2026-sb1570"
     }
   ],
-  "actions": [],
-  "sponsorships": [],
+  "actions": [
+    {
+      "description": "First Reading",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Rosino",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Health and Human Services",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Reported Do Pass, amended by committee substitute Health and Human Services committee; CR filed",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Title stricken",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Emergency added",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Placed on General Order",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Lawson (principal House author)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Pae",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "General Order, Amended by Floor Substitute",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Emergency removed",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Advanced to Third Reading",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Ayes:  46  Nays:  1",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Measure passed:  Ayes: 42  Nays: 1",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Referred for engrossment",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Engrossed to House",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Appropriations and Budget",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Referred to Appropriations and Budget Human Services Subcommittee",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rosino",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rosino\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lawson\"}",
+      "organization_id": null
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
@@ -28,9 +256,76 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE SUBS/SCS/SB1570 CS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Floor (Senate)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLR/SFLR/SB1570 SFLR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENGR/SB/SB1570 ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB1570 (3-24-26) (ROSINO) FS FA1.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/SB1570 (3-24-26) (ROSINO) FS FA1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/Senate/SB1570 PCS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Senate Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/SENATE/SB1570 SCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -46,7 +341,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:19Z",
+    "logs_latest_update": "2026-07-15T13:05:28Z",
     "text_extraction_latest_update": "2026-07-13T12:57:19.704008Z"
   }
 }

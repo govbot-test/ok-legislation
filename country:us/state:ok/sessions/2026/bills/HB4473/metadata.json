@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB4473",
-  "title": "Poor persons; Poor Persons Act of 2026; effective date.",
+  "title": "Poor persons; directing the Director of the Health Care Authority to appoint advisory committee; purpose; membership; effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -37,6 +37,65 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:17Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Rules",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Withdrawn from Rules Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Referred to Health and Human Services Oversight",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Referred to Public Health",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass, amended by committee substitute Public Health",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -61,9 +120,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Proposed Committee Substitute (full committee) 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/HB4473 FULLPCS1 CARL NEWTON-CMA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Policy Committee Recommendation",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE SUBS/HCS/HB4473 POLREC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "House Policy Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/HOUSE/HB4473 POLHCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -79,7 +172,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:17Z",
+    "logs_latest_update": "2026-07-15T13:05:27Z",
     "text_extraction_latest_update": "2026-07-13T14:47:21.440900Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HJR1076",
-  "title": "State and federal relations; creating the State and Federal Governance Resolution of 2026; filing.",
+  "title": "Oklahoma Constitution; Tobacco Settlement Endowment Trust; eliminating the Board of Directors; Board of Investors; annual distribution of earnings; ballot title; filing.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "joint resolution"
@@ -37,6 +37,152 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:19Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Rules",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Withdrawn from Rules, Direct to Calendar",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "House Rule suspended",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "General Order",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Hall (principal Senate author)",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Amended by floor substitute",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Third Reading, Measure passed:  Ayes: 69 Nays: 25",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Special election provision adopted:  Ayes: 71 Nays: 23",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Referred for engrossment",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Engrossed, signed, to Senate",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Rules",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Wolfley",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,6 +193,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Caldwell (Trey)\"}",
       "organization_id": null
+    },
+    {
+      "name": "Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hall\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -56,6 +210,17 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 INT/hres/HJR1076 INT.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "1 Floor Amendment by CALDWELL",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/House/HJR1076 FA1 CALDWELLTR-JM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -79,7 +244,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:19Z",
+    "logs_latest_update": "2026-07-15T13:05:27Z",
     "text_extraction_latest_update": "2026-07-13T18:25:31.554525Z"
   }
 }

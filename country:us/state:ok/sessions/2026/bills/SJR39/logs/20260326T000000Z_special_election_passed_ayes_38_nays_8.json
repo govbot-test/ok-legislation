@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Special Election passed:  Ayes: 38  Nays: 8",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SJR39&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR39"
+}

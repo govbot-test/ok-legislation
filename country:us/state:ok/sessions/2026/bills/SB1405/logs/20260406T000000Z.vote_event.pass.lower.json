@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Appropriations And Budget Natural Resources Subcommittee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-06",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "2db90c0c-8001-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "SB1405",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alonso-Sandoval",
+      "voter_id": "~{\"name\": \"Alonso-Sandoval\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grego",
+      "voter_id": "~{\"name\": \"Grego\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hall",
+      "voter_id": "~{\"name\": \"Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Newton",
+      "voter_id": "~{\"name\": \"Newton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patzkowsky",
+      "voter_id": "~{\"name\": \"Patzkowsky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Provenzano",
+      "voter_id": "~{\"name\": \"Provenzano\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Townley",
+      "voter_id": "~{\"name\": \"Townley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilk",
+      "voter_id": "~{\"name\": \"Wilk\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Shaw",
+      "voter_id": "~{\"name\": \"Shaw\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1405_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1405_VOTES.HTM#43"
+}

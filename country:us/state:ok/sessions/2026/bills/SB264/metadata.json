@@ -50,6 +50,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:17Z"
       }
+    },
+    {
+      "description": "Coauthored by Representative Hill (principal House author)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +69,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Mann\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hill\"}",
       "organization_id": null
     }
   ],
@@ -92,7 +110,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:17Z",
+    "logs_latest_update": "2026-07-15T13:05:27Z",
     "text_extraction_latest_update": "2026-07-13T13:46:27.119647Z"
   }
 }

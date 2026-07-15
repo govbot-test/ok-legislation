@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Education",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-21",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "94a28956-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB2978",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Deevers",
+      "voter_id": "~{\"name\": \"Deevers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pugh",
+      "voter_id": "~{\"name\": \"Pugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sacchieri",
+      "voter_id": "~{\"name\": \"Sacchieri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Seifried",
+      "voter_id": "~{\"name\": \"Seifried\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dossett",
+      "voter_id": "~{\"name\": \"Dossett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hicks",
+      "voter_id": "~{\"name\": \"Hicks\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hines",
+      "voter_id": "~{\"name\": \"Hines\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Mann",
+      "voter_id": "~{\"name\": \"Mann\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rader",
+      "voter_id": "~{\"name\": \"Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD HB2978 PCS - ADOPTED (Request No: 3947)",
+      "voter_id": "~{\"name\": \"AMD HB2978 PCS - ADOPTED (Request No: 3947)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB2978_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB2978_VOTES.HTM#16"
+}

@@ -37,6 +37,49 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:21Z"
       }
+    },
+    {
+      "description": "Coauthored by Senator Burns",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Rules Committee then to Appropriations Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Prieto",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Remove as coauthor Senator Burns",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -79,7 +122,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:21Z",
+    "logs_latest_update": "2026-07-15T13:05:31Z",
     "text_extraction_latest_update": "2026-07-13T12:36:59.177890Z"
   }
 }

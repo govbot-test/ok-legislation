@@ -37,6 +37,31 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:20Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Health and Human Services Oversight",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Referred to Public Health",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,6 +72,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Cantrell\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mann",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mann\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -56,6 +89,28 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 INT/hB/HB3884 INT.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Proposed Policy Committee Substitute 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/HB3884 POLPCS1 JOSH CANTRELL-TJ.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Proposed Policy Committee Substitute 2",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/HB3884 POLPCS2 JOSH CANTRELL-TJ.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -79,7 +134,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:20Z",
+    "logs_latest_update": "2026-07-15T13:05:31Z",
     "text_extraction_latest_update": "2026-07-13T11:42:00.019901Z"
   }
 }

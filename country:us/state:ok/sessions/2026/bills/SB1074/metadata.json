@@ -196,6 +196,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:17Z"
       }
+    },
+    {
+      "description": "Remove Representative Strom as principal House author and substitute with Representative Archer",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -208,11 +218,11 @@
       "organization_id": null
     },
     {
-      "name": "Strom",
+      "name": "Archer",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Strom\"}",
+      "person_id": "~{\"name\": \"Archer\"}",
       "organization_id": null
     }
   ],
@@ -291,7 +301,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:17Z",
+    "logs_latest_update": "2026-07-15T13:05:33Z",
     "text_extraction_latest_update": "2026-07-13T12:20:28.344849Z"
   }
 }

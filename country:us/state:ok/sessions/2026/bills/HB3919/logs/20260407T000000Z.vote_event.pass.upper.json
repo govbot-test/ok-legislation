@@ -1,0 +1,86 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "019749ca-8003-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3919",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alvord",
+      "voter_id": "~{\"name\": \"Alvord\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Goodwin",
+      "voter_id": "~{\"name\": \"Goodwin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hamilton",
+      "voter_id": "~{\"name\": \"Hamilton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Logan",
+      "voter_id": "~{\"name\": \"Logan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nice",
+      "voter_id": "~{\"name\": \"Nice\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Prieto",
+      "voter_id": "~{\"name\": \"Prieto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sacchieri",
+      "voter_id": "~{\"name\": \"Sacchieri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stanley",
+      "voter_id": "~{\"name\": \"Stanley\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB3919_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB3919_VOTES.HTM#26"
+}

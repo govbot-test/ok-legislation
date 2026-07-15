@@ -363,6 +363,94 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:18Z"
       }
+    },
+    {
+      "description": "HAs adopted",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Measure passed:  Ayes: 31  Nays: 15",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Emergency passed:  Ayes: 36 Nays: 10",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Referred for enrollment",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Enrolled, to House",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Signed, returned to Senate",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Approved by Governor 02/06/2026",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -445,6 +533,17 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 AMENDMENTS/Amendment and Engr/SB743 HASB AND ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled (final version)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/SB/SB743 ENR.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -546,7 +645,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:18Z",
+    "logs_latest_update": "2026-07-15T13:05:32Z",
     "text_extraction_latest_update": "2026-07-13T10:15:42.560679Z"
   }
 }

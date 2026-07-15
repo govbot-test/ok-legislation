@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB392",
-  "title": "Long-Term Care Facility Advisory Council; extending sunset date. Effective date. Emergency.",
+  "title": "Oklahoma Strategic Military Planning Commission; extending sunset date. Effective date. Emergency.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -82,15 +82,214 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:18Z"
       }
+    },
+    {
+      "description": "Remove as author Senator Bergstrom; authored by Senator Pederson",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Bergstrom",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "General Order, Amended by Floor Substitute",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Measure and Emergency passed:  Ayes:  47 Nays:  0",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Referred for engrossment",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Engrossed to House",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Administrative Rules",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "CR; Do Pass Administrative Rules Committee",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "General Order",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative(s) Lepak",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Third Reading, Measure and Emergency passed:  Ayes: 89 Nays: 2",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Signed, returned to Senate",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Referred for enrollment",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Enrolled, to House",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Signed, returned to Senate",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Approved by Governor 03/20/2026",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Bergstrom",
+      "name": "Pederson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Bergstrom\"}",
+      "person_id": "~{\"name\": \"Pederson\"}",
       "organization_id": null
     },
     {
@@ -116,6 +315,17 @@
       "classification": ""
     },
     {
+      "note": "Floor (House)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLR/HFLR/SB392 HFLR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Floor (Senate)",
       "links": [
         {
@@ -125,9 +335,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENGR/SB/SB392 ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled (final version)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/SB/SB392 ENR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB392 (2-04-26) (PEDERSON) FS FA1.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/SB392 (2-04-26) (PEDERSON) FS FA1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "House Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/HOUSE/SB392 HCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Senate Committee Report",
       "links": [
@@ -155,7 +409,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:18Z",
+    "logs_latest_update": "2026-07-15T13:05:33Z",
     "text_extraction_latest_update": "2026-07-13T08:45:58.734439Z"
   }
 }

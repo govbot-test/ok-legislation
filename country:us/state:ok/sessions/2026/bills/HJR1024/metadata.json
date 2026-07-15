@@ -153,6 +153,144 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:17Z"
       }
+    },
+    {
+      "description": "Reported Do Pass Rules committee; CR filed",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Placed on General Order",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "General Order, Amended",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Measure passed:  Ayes: 35  Nays: 8",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Special Election failed:  Ayes: 27  Nays: 17",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Notice served to reconsider vote on special election Gollihare",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider vote adopted",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Special Election failed:  Ayes: 29  Nays: 15",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Engrossed measure signed, returned to House",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Referred for enrollment",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Enrolled, signed, to Senate",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Enrolled measure signed, returned to House",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Filed with Secretary of State",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -209,10 +347,43 @@
       "classification": ""
     },
     {
+      "note": "Floor (Senate)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLR/SFLR/HJR1024 SFLR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Engrossed",
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENGR/hres/HJR1024 ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled (final version)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hres/HJR1024 ENR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR1024 (4-01-26) (GOLLIHARE) FA1.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/HJR1024 (4-01-26) (GOLLIHARE) FA1.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -253,6 +424,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/SENATE/HJR1024 SCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -270,7 +452,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:17Z",
+    "logs_latest_update": "2026-07-15T13:05:33Z",
     "text_extraction_latest_update": "2026-07-13T15:06:18.144901Z"
   }
 }

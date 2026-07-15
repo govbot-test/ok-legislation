@@ -46,6 +46,83 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:17Z"
       }
+    },
+    {
+      "description": "Considered",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative(s) Kerbs, CrosswhiteHader, Cantrell, Hasenbeck",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Ayes:  72  Nays:  17",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Referred for engrossment",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Engrossed, signed, to Senate",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -89,6 +166,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENGR/hres/HCR1025 ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -107,7 +195,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:17Z",
+    "logs_latest_update": "2026-07-15T13:05:30Z",
     "text_extraction_latest_update": "2026-07-13T13:41:02.624984Z"
   }
 }

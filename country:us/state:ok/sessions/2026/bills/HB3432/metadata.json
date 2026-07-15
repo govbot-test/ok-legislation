@@ -37,6 +37,65 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:20Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Health and Human Services Oversight",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Referred to Veteran and Military Affairs",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass Veteran and Military Affairs",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Withdrawn from Health and Human Services Oversight Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,7 +122,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "House Policy Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/HOUSE/HB3432 POLHCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -79,7 +150,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:20Z",
+    "logs_latest_update": "2026-07-15T13:05:28Z",
     "text_extraction_latest_update": "2026-07-13T08:41:59.461992Z"
   }
 }

@@ -37,6 +37,39 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:18Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Aeronautics and Transportation",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Hays (principal House author)",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Sacchieri",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +79,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"McIntosh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hays",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hays\"}",
       "organization_id": null
     }
   ],
@@ -79,7 +120,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:18Z",
+    "logs_latest_update": "2026-07-15T13:05:31Z",
     "text_extraction_latest_update": "2026-07-13T13:45:59.493987Z"
   }
 }

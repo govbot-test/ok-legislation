@@ -37,6 +37,53 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:23Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Judiciary and Public Safety Oversight",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Referred to Civil Judiciary",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Policy recommendation to the Judiciary and Public Safety Oversight committee; Do Pass Civil Judiciary",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Kirt (principal Senate author)",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +93,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Pae\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kirt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kirt\"}",
       "organization_id": null
     }
   ],
@@ -63,7 +118,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "House Policy Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/HOUSE/HB4295 POLHCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -79,7 +146,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:23Z",
+    "logs_latest_update": "2026-07-15T13:05:30Z",
     "text_extraction_latest_update": "2026-07-13T18:32:25.481076Z"
   }
 }

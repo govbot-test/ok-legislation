@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB1977",
-  "title": "Public health;  prohibiting certain entities from requiring COVID-19 vaccinations; prohibiting discrimination due to vaccination status. Emergency",
+  "title": "Public health; prohibiting certain entities from requiring COVID-19 vaccinations; prohibiting discrimination due to vaccination status. Emergency",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -36,6 +36,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:18Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Health and Human Services",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
       }
     }
   ],
@@ -79,7 +92,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:18Z",
+    "logs_latest_update": "2026-07-15T13:05:28Z",
     "text_extraction_latest_update": "2026-07-13T11:58:50.735096Z"
   }
 }

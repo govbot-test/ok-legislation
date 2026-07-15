@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB397",
-  "title": "State Board of Behavioral Heath Licensure; extending sunset date. Effective date. Emergency.",
+  "title": "State Board of Behavioral Health Licensure; extending sunset date. Effective date. Emergency.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -164,6 +164,93 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:15Z"
       }
+    },
+    {
+      "description": "General Order",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Third Reading, Measure and Emergency passed:  Ayes: 90 Nays: 1",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Signed, returned to Senate",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Referred for enrollment",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Enrolled, to House",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Signed, returned to Senate",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Approved by Governor 02/12/2026",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -242,6 +329,17 @@
       "classification": ""
     },
     {
+      "note": "Enrolled (final version)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/SB/SB397 ENR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Committee Amendment",
       "links": [
         {
@@ -292,7 +390,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:15Z",
+    "logs_latest_update": "2026-07-15T13:05:29Z",
     "text_extraction_latest_update": "2026-07-13T16:08:00.605612Z"
   }
 }

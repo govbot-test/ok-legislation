@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Health And Human Services Oversight Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "d4f72606-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3522",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hefner",
+      "voter_id": "~{\"name\": \"Hefner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hildebrant",
+      "voter_id": "~{\"name\": \"Hildebrant\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marti",
+      "voter_id": "~{\"name\": \"Marti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Munson",
+      "voter_id": "~{\"name\": \"Munson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Newton",
+      "voter_id": "~{\"name\": \"Newton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pae",
+      "voter_id": "~{\"name\": \"Pae\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ranson",
+      "voter_id": "~{\"name\": \"Ranson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roe",
+      "voter_id": "~{\"name\": \"Roe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stark",
+      "voter_id": "~{\"name\": \"Stark\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3522_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3522_VOTES.HTM#121"
+}

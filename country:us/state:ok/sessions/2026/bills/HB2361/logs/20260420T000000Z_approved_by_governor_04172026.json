@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Approved by Governor 04/17/2026",
+    "occurred_at": "2026-04-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2361&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2361"
+}

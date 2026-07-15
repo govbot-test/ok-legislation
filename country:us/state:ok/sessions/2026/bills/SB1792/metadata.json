@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB1792",
-  "title": "School district boards of education; allowing certain instruction; requiring the maintenance of certain records by schools districts. Effective date.",
+  "title": "School district boards of education; allowing certain instruction; requiring the maintenance of certain records by schools districts. Effective date. Emergency.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -14,8 +14,54 @@
       "identifier": "ocd-bill-ok-2026-sb1792"
     }
   ],
-  "actions": [],
-  "sponsorships": [],
+  "actions": [
+    {
+      "description": "First Reading",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Jett",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Education",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jett\"}",
+      "organization_id": null
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
@@ -46,7 +92,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:17Z",
+    "logs_latest_update": "2026-07-15T13:05:28Z",
     "text_extraction_latest_update": "2026-07-13T09:14:47.686386Z"
   }
 }

@@ -1,0 +1,86 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "271a147c-8001-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "SB1356",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bergstrom",
+      "voter_id": "~{\"name\": \"Bergstrom\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boren",
+      "voter_id": "~{\"name\": \"Boren\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bullard",
+      "voter_id": "~{\"name\": \"Bullard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burns",
+      "voter_id": "~{\"name\": \"Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grellner",
+      "voter_id": "~{\"name\": \"Grellner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kirt",
+      "voter_id": "~{\"name\": \"Kirt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "STRIKE THE TITLE - ADOPTED",
+      "voter_id": "~{\"name\": \"STRIKE THE TITLE - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB1356_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB1356_VOTES.HTM#18"
+}

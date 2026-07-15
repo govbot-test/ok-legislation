@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Administrative Rules",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "658b6f54-8000-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "SJR49",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bergstrom",
+      "voter_id": "~{\"name\": \"Bergstrom\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burns",
+      "voter_id": "~{\"name\": \"Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deevers",
+      "voter_id": "~{\"name\": \"Deevers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jett",
+      "voter_id": "~{\"name\": \"Jett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nice",
+      "voter_id": "~{\"name\": \"Nice\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD SJR49 CA1 - ADOPTED",
+      "voter_id": "~{\"name\": \"AMD SJR49 CA1 - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SJR49_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SJR49_VOTES.HTM#4"
+}

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB1381",
-  "title": "Alcoholic beverages; grounds to deny license; prohibiting certain grounds for denial of license; excluding certain license from certain provision; effective date.",
+  "title": "Alcoholic beverages; mixed beverage license; complimentary tasting; wholesalers; effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -199,6 +199,112 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:18Z"
       }
+    },
+    {
+      "description": "Remove as author Senator Daniels; authored by Senator Murdock",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Daniels",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "General Order, Amended by Floor Substitute",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Measure passed:  Ayes: 38  Nays: 7",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Referred for engrossment",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Engrossed to House",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "SA's received",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "SA's read, adopted",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Fourth Reading, Measure failed:  Ayes: 30  Nays: 58",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
+    },
+    {
+      "description": "Fourth Reading rescinded",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -211,11 +317,11 @@
       "organization_id": null
     },
     {
-      "name": "Daniels",
+      "name": "Murdock",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Daniels\"}",
+      "person_id": "~{\"name\": \"Murdock\"}",
       "organization_id": null
     }
   ],
@@ -281,6 +387,28 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENGR/hB/HB1381 ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amended And Engrossed",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 AMENDMENTS/Amendment and Engr/HB1381 SAHB AND ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1381 (4-21-26) (MURDOCK) FS FA1.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/HB1381 (4-21-26) (MURDOCK) FS FA1.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -360,7 +488,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:18Z",
+    "logs_latest_update": "2026-07-15T13:05:32Z",
     "text_extraction_latest_update": "2026-07-13T18:27:54.128017Z"
   }
 }

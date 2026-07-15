@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB3991",
-  "title": "Public Utilities ; Utilities Modernization Act.",
+  "title": "Public Utilities; creating the Utilities Modernization Act of 2026; effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -36,6 +36,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:21Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Rules",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
       }
     }
   ],
@@ -79,7 +92,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:21Z",
+    "logs_latest_update": "2026-07-15T13:05:31Z",
     "text_extraction_latest_update": "2026-07-13T11:36:29.500644Z"
   }
 }

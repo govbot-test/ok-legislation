@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Public Safety Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "9df5e9da-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3045",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hardin",
+      "voter_id": "~{\"name\": \"Hardin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Timmons",
+      "voter_id": "~{\"name\": \"Timmons\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kelley",
+      "voter_id": "~{\"name\": \"Kelley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "May",
+      "voter_id": "~{\"name\": \"May\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3045_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3045_VOTES.HTM#60"
+}

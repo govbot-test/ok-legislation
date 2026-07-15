@@ -16,16 +16,15 @@
   ],
   "actions": [
     {
-      "description": "First Reading",
+      "description": "Introduced",
       "date": "2026-02-02",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction",
-        "reading-1"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:04:16Z"
+        "log_file_created": "2026-07-15T13:05:29Z"
       }
     },
     {
@@ -36,6 +35,58 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:16Z"
+      }
+    },
+    {
+      "description": "Considered",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative(s) Stark, Maynard, Adams, CrosswhiteHader, Moore, Kerbs, Cornwell, Eaves, West (Kevin), Luttrell, George, Worthen, Hays, Manger, Hilbert, Patzkowsky, Norwood, West (Josh), Grego, Hardin, Hall, Tedford, Hasenbeck, Boles, Staires, Dobrinski, Cantrell, Townley, Harris, Gann, Smith, Pfeiffer, Steagall, Lay, Bashore, Kendrix, Hildebrant, West (Rick), Culver, Shaw, Jenkins, Newton, Lepak, Gise, Hill, Kane, Dempsey, Humphrey, May, Banning, Wilk, Miller, Blair, Williams, Sneed, Sterling, Ford, Chapman, Pae, Archer, Stinson, Lowe (Dick), Kelley, Johns, Turner",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Ayes:  72  Nays:  16",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Adopted, referred for enrollment",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
+    },
+    {
+      "description": "Enrolled, signed, filed with Secretary of State",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
       }
     }
   ],
@@ -61,6 +112,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enrolled (final version)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hres/HR1031 ENR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -79,7 +141,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:16Z",
+    "logs_latest_update": "2026-07-15T13:05:29Z",
     "text_extraction_latest_update": "2026-07-13T10:24:47.744697Z"
   }
 }

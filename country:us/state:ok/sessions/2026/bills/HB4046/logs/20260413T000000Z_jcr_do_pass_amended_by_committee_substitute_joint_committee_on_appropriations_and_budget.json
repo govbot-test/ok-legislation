@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "JCR; Do pass, amended by committee substitute Joint Committee on Appropriations and Budget",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB4046&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4046"
+}

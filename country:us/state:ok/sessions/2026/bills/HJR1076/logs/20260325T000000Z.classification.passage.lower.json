@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Special election provision adopted:  Ayes: 71 Nays: 23",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HJR1076&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR1076"
+}

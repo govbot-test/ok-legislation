@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Remove Representative Duel as principal House author and substitute with Representative Williams",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3510&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3510"
+}

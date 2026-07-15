@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Remove Representative Miller as principal House author and substitute with Representative West (Josh)",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB4283&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4283"
+}

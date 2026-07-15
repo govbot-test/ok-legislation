@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading, Measure and Emergency passed:  Ayes: 86 Nays: 4",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3975&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3975"
+}

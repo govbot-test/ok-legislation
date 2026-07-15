@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Enacting clause stricken",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2947&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2947"
+}

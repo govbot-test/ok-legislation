@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "CR; Do Pass, amended by committee substitute Rules Committee",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3329&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3329"
+}

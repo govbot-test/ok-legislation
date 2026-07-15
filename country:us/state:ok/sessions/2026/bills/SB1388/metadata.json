@@ -14,8 +14,54 @@
       "identifier": "ocd-bill-ok-2026-sb1388"
     }
   ],
-  "actions": [],
-  "sponsorships": [],
+  "actions": [
+    {
+      "description": "First Reading",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Authored by Senator Nice",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Revenue and Taxation Committee then to Appropriations Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:33Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nice",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nice\"}",
+      "organization_id": null
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
@@ -46,7 +92,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:21Z",
+    "logs_latest_update": "2026-07-15T13:05:33Z",
     "text_extraction_latest_update": "2026-07-13T11:34:57.045244Z"
   }
 }

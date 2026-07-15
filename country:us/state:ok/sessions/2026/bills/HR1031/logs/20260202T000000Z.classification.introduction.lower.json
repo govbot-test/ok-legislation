@@ -1,13 +1,12 @@
 {
   "action": {
-    "description": "First Reading",
+    "description": "Introduced",
     "occurred_at": "2026-02-02",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "2026",
     "entity_type": "bill",
     "classifications": [
-      "introduction",
-      "reading-1"
+      "introduction"
     ],
     "related_entities": [],
     "sources": [

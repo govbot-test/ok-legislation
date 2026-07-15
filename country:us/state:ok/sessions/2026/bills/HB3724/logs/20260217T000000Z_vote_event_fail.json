@@ -1,0 +1,86 @@
+{
+  "identifier": "",
+  "motion_text": "Utilities Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-17",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "eca28c1e-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3724",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Alonso-Sandoval",
+      "voter_id": "~{\"name\": \"Alonso-Sandoval\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Menz",
+      "voter_id": "~{\"name\": \"Menz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Blair",
+      "voter_id": "~{\"name\": \"Blair\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Chapman",
+      "voter_id": "~{\"name\": \"Chapman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dobrinski",
+      "voter_id": "~{\"name\": \"Dobrinski\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kendrix",
+      "voter_id": "~{\"name\": \"Kendrix\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lay",
+      "voter_id": "~{\"name\": \"Lay\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Turner",
+      "voter_id": "~{\"name\": \"Turner\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3724_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3724_VOTES.HTM#19"
+}

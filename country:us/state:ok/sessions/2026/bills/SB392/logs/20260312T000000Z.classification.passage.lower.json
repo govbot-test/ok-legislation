@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading, Measure and Emergency passed:  Ayes: 89 Nays: 2",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB392&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB392"
+}

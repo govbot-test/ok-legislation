@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Remove Representative Caldwell (Chad) as principal House author and substitute with Representative Hilbert",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3705&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3705"
+}

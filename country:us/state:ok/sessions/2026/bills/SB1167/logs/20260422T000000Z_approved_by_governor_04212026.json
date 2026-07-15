@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Approved by Governor 04/21/2026",
+    "occurred_at": "2026-04-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1167&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1167"
+}

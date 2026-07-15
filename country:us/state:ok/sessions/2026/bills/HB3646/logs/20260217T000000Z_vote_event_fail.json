@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Insurance Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-17",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "e2c0a258-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3646",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sneed",
+      "voter_id": "~{\"name\": \"Sneed\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (J)",
+      "voter_id": "~{\"name\": \"West (J)\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Adams",
+      "voter_id": "~{\"name\": \"Adams\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hefner",
+      "voter_id": "~{\"name\": \"Hefner\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Marti",
+      "voter_id": "~{\"name\": \"Marti\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Norwood",
+      "voter_id": "~{\"name\": \"Norwood\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tedford",
+      "voter_id": "~{\"name\": \"Tedford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Timmons",
+      "voter_id": "~{\"name\": \"Timmons\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3646_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3646_VOTES.HTM#32"
+}

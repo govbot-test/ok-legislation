@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Administrative Rules",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-27",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "65eaf668-8000-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "SJR51",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bergstrom",
+      "voter_id": "~{\"name\": \"Bergstrom\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brooks",
+      "voter_id": "~{\"name\": \"Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nice",
+      "voter_id": "~{\"name\": \"Nice\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stewart",
+      "voter_id": "~{\"name\": \"Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Burns",
+      "voter_id": "~{\"name\": \"Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Deevers",
+      "voter_id": "~{\"name\": \"Deevers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jett",
+      "voter_id": "~{\"name\": \"Jett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Prieto",
+      "voter_id": "~{\"name\": \"Prieto\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sacchieri",
+      "voter_id": "~{\"name\": \"Sacchieri\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD SJR51 CA1 - ADOPTED",
+      "voter_id": "~{\"name\": \"AMD SJR51 CA1 - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SJR51_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SJR51_VOTES.HTM#2"
+}

@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Tourism Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "fd1a33d0-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3880",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cantrell",
+      "voter_id": "~{\"name\": \"Cantrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jenkins",
+      "voter_id": "~{\"name\": \"Jenkins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kerbs",
+      "voter_id": "~{\"name\": \"Kerbs\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCane",
+      "voter_id": "~{\"name\": \"McCane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Townley",
+      "voter_id": "~{\"name\": \"Townley\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3880_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3880_VOTES.HTM#4"
+}

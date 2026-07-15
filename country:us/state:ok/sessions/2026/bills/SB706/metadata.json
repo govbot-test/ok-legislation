@@ -164,6 +164,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:16Z"
       }
+    },
+    {
+      "description": "Recommendation to the full committee; Do Pass, amended by committee substitute Appropriations and Budget Education Subcommittee",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -176,11 +188,11 @@
       "organization_id": null
     },
     {
-      "name": "Lowe (Dick)",
+      "name": "Lowe",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Lowe (Dick)\"}",
+      "person_id": "~{\"name\": \"Lowe\"}",
       "organization_id": null
     }
   ],
@@ -218,9 +230,42 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Proposed Committee Substitute (sub committee) 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/SB706 SUBPCS1 DICK LOWE-SW.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Sub Committee Recommendation",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE SUBS/HCSS/SB706 SUBREC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "House Committee Report",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE REPORTS/HOUSE/SB706 SUBHCR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Senate Committee Report",
       "links": [
@@ -248,7 +293,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:16Z",
+    "logs_latest_update": "2026-07-15T13:05:32Z",
     "text_extraction_latest_update": "2026-07-13T15:39:43.325918Z"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Judiciary and Public Safety Oversight committee; Do Pass Civil Judiciary",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB4198&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4198"
+}

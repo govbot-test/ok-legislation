@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Public Health Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-18",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "fdc7ba14-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3884",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Roe",
+      "voter_id": "~{\"name\": \"Roe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (K)",
+      "voter_id": "~{\"name\": \"West (K)\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pogemiller",
+      "voter_id": "~{\"name\": \"Pogemiller\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stark",
+      "voter_id": "~{\"name\": \"Stark\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sterling",
+      "voter_id": "~{\"name\": \"Sterling\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3884_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3884_VOTES.HTM#89"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Third Reading, Measure failed:  Ayes: 46 Nays: 43",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1979&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1979"
+}

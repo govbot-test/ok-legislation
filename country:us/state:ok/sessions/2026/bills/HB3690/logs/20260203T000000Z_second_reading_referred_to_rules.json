@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Second Reading referred to Rules",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3690&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3690"
+}

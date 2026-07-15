@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Recommendation to the full committee; Do Pass, amended by committee substitute Appropriations and Budget Finance Subcommittee",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3590&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3590"
+}

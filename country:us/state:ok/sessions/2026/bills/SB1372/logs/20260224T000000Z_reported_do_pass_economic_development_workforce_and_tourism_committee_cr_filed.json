@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported Do Pass Economic Development, Workforce and Tourism committee; CR filed",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1372&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1372"
+}

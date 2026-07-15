@@ -1,0 +1,104 @@
+{
+  "identifier": "",
+  "motion_text": "Veterans & Military Affairs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "8b0a7454-8001-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "SB2115",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hamilton",
+      "voter_id": "~{\"name\": \"Hamilton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hines",
+      "voter_id": "~{\"name\": \"Hines\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howard",
+      "voter_id": "~{\"name\": \"Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kirt",
+      "voter_id": "~{\"name\": \"Kirt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mann",
+      "voter_id": "~{\"name\": \"Mann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pederson",
+      "voter_id": "~{\"name\": \"Pederson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stanley",
+      "voter_id": "~{\"name\": \"Stanley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wingard",
+      "voter_id": "~{\"name\": \"Wingard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Woods",
+      "voter_id": "~{\"name\": \"Woods\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD SB2115 PCS - ADOPTED (Request No: 3575)",
+      "voter_id": "~{\"name\": \"AMD SB2115 PCS - ADOPTED (Request No: 3575)\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "STRIKE THE TITLE - ADOPTED",
+      "voter_id": "~{\"name\": \"STRIKE THE TITLE - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB2115_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB2115_VOTES.HTM#4"
+}

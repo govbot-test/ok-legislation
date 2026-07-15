@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Special election provision passed: Ayes: 78 Nays: 15",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SJR47&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR47"
+}

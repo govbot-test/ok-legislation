@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third Reading, Measure passed:  Ayes: 78 Nays: 11",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3263&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3263"
+}

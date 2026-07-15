@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Authored by Senator Gollihare (principal Senate author)",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2979&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2979"
+}

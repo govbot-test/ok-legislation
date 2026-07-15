@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "HAs read",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SJR52&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR52"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Measure passed:  Ayes: 45  Nays: 1",
+    "occurred_at": "2026-03-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1716&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1716"
+}

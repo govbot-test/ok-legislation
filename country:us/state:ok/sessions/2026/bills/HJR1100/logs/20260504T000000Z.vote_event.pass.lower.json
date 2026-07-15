@@ -1,0 +1,86 @@
+{
+  "identifier": "",
+  "motion_text": "Administrative Rules Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "a8fb0186-8001-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HJR1100",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Blair",
+      "voter_id": "~{\"name\": \"Blair\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chapman",
+      "voter_id": "~{\"name\": \"Chapman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hilbert",
+      "voter_id": "~{\"name\": \"Hilbert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kendrix",
+      "voter_id": "~{\"name\": \"Kendrix\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maynard",
+      "voter_id": "~{\"name\": \"Maynard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Norwood",
+      "voter_id": "~{\"name\": \"Norwood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Staires",
+      "voter_id": "~{\"name\": \"Staires\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Worthen",
+      "voter_id": "~{\"name\": \"Worthen\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HJR1100_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HJR1100_VOTES.HTM#63"
+}

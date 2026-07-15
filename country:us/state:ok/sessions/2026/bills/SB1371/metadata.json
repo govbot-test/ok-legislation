@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB1371",
-  "title": "Progressing Rural Economic Prosperity Fund; making appropriations; stating purpose; providing an effective date; and declaring an Emergency.",
+  "title": "Progressing Rural Economic Prosperity Fund; making an appropriations; stating purpose. Effective date. Emergency.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -36,6 +36,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:17Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Appropriations",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
       }
     }
   ],
@@ -79,7 +92,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:17Z",
+    "logs_latest_update": "2026-07-15T13:05:29Z",
     "text_extraction_latest_update": "2026-07-13T17:53:56.151336Z"
   }
 }

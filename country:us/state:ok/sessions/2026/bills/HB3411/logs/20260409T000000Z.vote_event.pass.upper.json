@@ -1,0 +1,104 @@
+{
+  "identifier": "",
+  "motion_text": "On Biosolids; Rules; Implementation By Certain",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "c79ee5c0-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3411",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Frix",
+      "voter_id": "~{\"name\": \"Frix\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Green",
+      "voter_id": "~{\"name\": \"Green\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jett",
+      "voter_id": "~{\"name\": \"Jett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kern",
+      "voter_id": "~{\"name\": \"Kern\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McIntosh",
+      "voter_id": "~{\"name\": \"McIntosh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Murdock",
+      "voter_id": "~{\"name\": \"Murdock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thompson",
+      "voter_id": "~{\"name\": \"Thompson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Woods",
+      "voter_id": "~{\"name\": \"Woods\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dossett",
+      "voter_id": "~{\"name\": \"Dossett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rader",
+      "voter_id": "~{\"name\": \"Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "STRIKE ENACTING CLAUSE - ADOPTED",
+      "voter_id": "~{\"name\": \"STRIKE ENACTING CLAUSE - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB3411_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB3411_VOTES.HTM#25"
+}

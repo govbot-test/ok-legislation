@@ -1,0 +1,104 @@
+{
+  "identifier": "",
+  "motion_text": "Daniels             Public Finance; Enacting The Education",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "f5ddcbc8-8001-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB1590",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Daniels",
+      "voter_id": "~{\"name\": \"Daniels\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deevers",
+      "voter_id": "~{\"name\": \"Deevers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gillespie",
+      "voter_id": "~{\"name\": \"Gillespie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gollihare",
+      "voter_id": "~{\"name\": \"Gollihare\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hamilton",
+      "voter_id": "~{\"name\": \"Hamilton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howard",
+      "voter_id": "~{\"name\": \"Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jett",
+      "voter_id": "~{\"name\": \"Jett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rader",
+      "voter_id": "~{\"name\": \"Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sacchieri",
+      "voter_id": "~{\"name\": \"Sacchieri\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kirt",
+      "voter_id": "~{\"name\": \"Kirt\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Mann",
+      "voter_id": "~{\"name\": \"Mann\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1590_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1590_VOTES.HTM#51"
+}

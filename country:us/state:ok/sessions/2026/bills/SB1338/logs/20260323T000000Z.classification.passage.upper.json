@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Measure passed:  Ayes: 39  Nays: 6",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1338&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1338"
+}

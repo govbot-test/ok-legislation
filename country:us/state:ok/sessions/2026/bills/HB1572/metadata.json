@@ -74,23 +74,33 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:24Z"
       }
+    },
+    {
+      "description": "Remove Representative Lawson as principal House author and substitute with Representative Fetgatter",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:28Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Lawson",
+      "name": "Fetgatter",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Lawson\"}",
+      "person_id": "~{\"name\": \"Fetgatter\"}",
       "organization_id": null
     },
     {
-      "name": "Coleman",
+      "name": "Hall",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Coleman\"}",
+      "person_id": "~{\"name\": \"Hall\"}",
       "organization_id": null
     }
   ],
@@ -101,6 +111,17 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 INT/hB/HB1572 INT.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Proposed Committee Substitute (full committee) 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/HB1572 FULLPCS1 SCOTT FETGATTER-MAH.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -136,7 +157,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:24Z",
+    "logs_latest_update": "2026-07-15T13:05:28Z",
     "text_extraction_latest_update": "2026-07-13T10:53:38.939207Z"
   }
 }

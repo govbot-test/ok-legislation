@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Amendment restored bill to engrossed version",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB3372&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB3372"
+}

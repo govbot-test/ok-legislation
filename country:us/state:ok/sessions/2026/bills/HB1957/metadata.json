@@ -253,6 +253,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:17Z"
       }
+    },
+    {
+      "description": "Remove as author Senator Guthrie; authored by Senator Coleman",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -265,11 +275,11 @@
       "organization_id": null
     },
     {
-      "name": "Guthrie",
+      "name": "Coleman",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Guthrie\"}",
+      "person_id": "~{\"name\": \"Coleman\"}",
       "organization_id": null
     }
   ],
@@ -324,6 +334,17 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENGR/hB/HB1957 ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1957 (4-21-26) (COLEMAN) RT FA1.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/HB1957 (4-21-26) (COLEMAN) RT FA1.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -414,7 +435,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:17Z",
+    "logs_latest_update": "2026-07-15T13:05:29Z",
     "text_extraction_latest_update": "2026-07-13T18:39:15.043100Z"
   }
 }

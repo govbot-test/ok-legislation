@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "General Order, Considered",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2398&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2398"
+}

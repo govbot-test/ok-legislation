@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "2c6fa306-8001-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "SB1395",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gillespie",
+      "voter_id": "~{\"name\": \"Gillespie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gollihare",
+      "voter_id": "~{\"name\": \"Gollihare\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hall",
+      "voter_id": "~{\"name\": \"Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Howard",
+      "voter_id": "~{\"name\": \"Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kirt",
+      "voter_id": "~{\"name\": \"Kirt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mann",
+      "voter_id": "~{\"name\": \"Mann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rader",
+      "voter_id": "~{\"name\": \"Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sacchieri",
+      "voter_id": "~{\"name\": \"Sacchieri\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Deevers",
+      "voter_id": "~{\"name\": \"Deevers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jett",
+      "voter_id": "~{\"name\": \"Jett\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB1395_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB1395_VOTES.HTM#11"
+}

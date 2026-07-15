@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Third Reading, Measure failed:  Ayes: 17 Nays: 77",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB2143&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2143"
+}

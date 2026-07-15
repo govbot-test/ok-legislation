@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Engrossed, signed, to Senate",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB4488&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4488"
+}

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB1367",
-  "title": "Department of Veterans Affairs; making an appropriation; stating purpose; providing an effective date; Emergency.",
+  "title": "Department of Veterans Affairs; making an appropriation; stating purpose. Effective date. Emergency.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -37,6 +37,29 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:19Z"
       }
+    },
+    {
+      "description": "Coauthored by Representative Kannady (principal House author)",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Appropriations",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +69,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Mann\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kannady",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kannady\"}",
       "organization_id": null
     }
   ],
@@ -79,7 +110,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:19Z",
+    "logs_latest_update": "2026-07-15T13:05:30Z",
     "text_extraction_latest_update": "2026-07-13T15:41:01.682666Z"
   }
 }

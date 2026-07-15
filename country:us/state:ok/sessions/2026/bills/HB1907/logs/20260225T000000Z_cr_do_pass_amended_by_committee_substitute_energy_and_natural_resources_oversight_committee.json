@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "CR; Do Pass, amended by committee substitute Energy and Natural Resources Oversight Committee",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1907&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1907"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "First Reading",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB4050&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4050"
+}

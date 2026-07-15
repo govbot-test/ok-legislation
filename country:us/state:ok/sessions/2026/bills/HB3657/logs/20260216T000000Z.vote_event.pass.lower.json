@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Agriculture Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "e448b692-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3657",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patzkowsky",
+      "voter_id": "~{\"name\": \"Patzkowsky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roe",
+      "voter_id": "~{\"name\": \"Roe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rosecrants",
+      "voter_id": "~{\"name\": \"Rosecrants\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hardin",
+      "voter_id": "~{\"name\": \"Hardin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ranson",
+      "voter_id": "~{\"name\": \"Ranson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "West (R)",
+      "voter_id": "~{\"name\": \"West (R)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3657_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3657_VOTES.HTM#28"
+}

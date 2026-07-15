@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Policy recommendation to the Energy and Natural Resources Oversight committee; Do Pass, amended by committee substitute Energy",
+    "occurred_at": "2026-02-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2976&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2976"
+}

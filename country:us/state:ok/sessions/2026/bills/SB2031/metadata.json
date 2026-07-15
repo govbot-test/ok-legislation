@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB2031",
-  "title": "Agriculture; requiring meat products be labeled with certain information. Effective date.",
+  "title": "Agriculture; requiring meat products to be labeled with certain information. Effective date.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -36,6 +36,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:19Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Agriculture and Wildlife",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:31Z"
       }
     }
   ],
@@ -79,7 +92,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:19Z",
+    "logs_latest_update": "2026-07-15T13:05:31Z",
     "text_extraction_latest_update": "2026-07-13T10:10:37.663289Z"
   }
 }

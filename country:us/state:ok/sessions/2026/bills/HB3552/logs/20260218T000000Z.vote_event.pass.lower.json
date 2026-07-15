@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Children, Youth And Family Services Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "d860958e-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3552",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gise",
+      "voter_id": "~{\"name\": \"Gise\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pae",
+      "voter_id": "~{\"name\": \"Pae\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams",
+      "voter_id": "~{\"name\": \"Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Woolley",
+      "voter_id": "~{\"name\": \"Woolley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Blancett",
+      "voter_id": "~{\"name\": \"Blancett\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3552_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3552_VOTES.HTM#20"
+}

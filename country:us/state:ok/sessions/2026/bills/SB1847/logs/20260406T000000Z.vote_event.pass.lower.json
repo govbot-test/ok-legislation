@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Appropriations And Budget Health Subcommittee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-06",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "68a6d95c-8001-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "SB1847",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Chapman",
+      "voter_id": "~{\"name\": \"Chapman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deck",
+      "voter_id": "~{\"name\": \"Deck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hilbert",
+      "voter_id": "~{\"name\": \"Hilbert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marti",
+      "voter_id": "~{\"name\": \"Marti\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roe",
+      "voter_id": "~{\"name\": \"Roe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sneed",
+      "voter_id": "~{\"name\": \"Sneed\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stinson",
+      "voter_id": "~{\"name\": \"Stinson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1847_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1847_VOTES.HTM#27"
+}

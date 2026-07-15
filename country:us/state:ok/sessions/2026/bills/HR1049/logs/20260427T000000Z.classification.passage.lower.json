@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted, referred for enrollment",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HR1049&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR1049"
+}

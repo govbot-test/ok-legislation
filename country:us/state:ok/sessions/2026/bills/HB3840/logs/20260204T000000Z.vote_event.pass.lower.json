@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "State Powers Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "f915c902-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3840",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Clinton",
+      "voter_id": "~{\"name\": \"Clinton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gann",
+      "voter_id": "~{\"name\": \"Gann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shaw",
+      "voter_id": "~{\"name\": \"Shaw\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steagall",
+      "voter_id": "~{\"name\": \"Steagall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West (R)",
+      "voter_id": "~{\"name\": \"West (R)\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3840_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3840_VOTES.HTM#3"
+}

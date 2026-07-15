@@ -189,6 +189,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:16Z"
       }
+    },
+    {
+      "description": "Remove as author Senator Gollihare; authored by Senator Rader",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -201,11 +211,11 @@
       "organization_id": null
     },
     {
-      "name": "Gollihare",
+      "name": "Rader",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gollihare\"}",
+      "person_id": "~{\"name\": \"Rader\"}",
       "organization_id": null
     }
   ],
@@ -306,7 +316,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:16Z",
+    "logs_latest_update": "2026-07-15T13:05:30Z",
     "text_extraction_latest_update": "2026-07-13T14:37:10.712319Z"
   }
 }

@@ -1,0 +1,110 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "8be5bc62-8001-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "SB2121",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bullard",
+      "voter_id": "~{\"name\": \"Bullard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burns",
+      "voter_id": "~{\"name\": \"Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Green",
+      "voter_id": "~{\"name\": \"Green\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grellner",
+      "voter_id": "~{\"name\": \"Grellner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kern",
+      "voter_id": "~{\"name\": \"Kern\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Logan",
+      "voter_id": "~{\"name\": \"Logan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Murdock",
+      "voter_id": "~{\"name\": \"Murdock\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pederson",
+      "voter_id": "~{\"name\": \"Pederson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Prieto",
+      "voter_id": "~{\"name\": \"Prieto\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hicks",
+      "voter_id": "~{\"name\": \"Hicks\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nice",
+      "voter_id": "~{\"name\": \"Nice\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Wingard",
+      "voter_id": "~{\"name\": \"Wingard\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB2121_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/SB2121_VOTES.HTM#2"
+}

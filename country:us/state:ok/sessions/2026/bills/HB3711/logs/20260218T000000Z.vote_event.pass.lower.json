@@ -1,0 +1,104 @@
+{
+  "identifier": "",
+  "motion_text": "Common Education Committee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "eb120f96-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3711",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Banning",
+      "voter_id": "~{\"name\": \"Banning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Caldwell (C)",
+      "voter_id": "~{\"name\": \"Caldwell (C)\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hall",
+      "voter_id": "~{\"name\": \"Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jenkins",
+      "voter_id": "~{\"name\": \"Jenkins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowe",
+      "voter_id": "~{\"name\": \"Lowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maynard",
+      "voter_id": "~{\"name\": \"Maynard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tedford",
+      "voter_id": "~{\"name\": \"Tedford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Johns",
+      "voter_id": "~{\"name\": \"Johns\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pogemiller",
+      "voter_id": "~{\"name\": \"Pogemiller\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rosecrants",
+      "voter_id": "~{\"name\": \"Rosecrants\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sterling",
+      "voter_id": "~{\"name\": \"Sterling\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3711_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB3711_VOTES.HTM#67"
+}

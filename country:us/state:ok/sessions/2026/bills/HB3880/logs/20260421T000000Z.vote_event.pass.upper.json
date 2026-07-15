@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass Amended",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "fd1a33d0-8002-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB3880",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Coleman",
+      "voter_id": "~{\"name\": \"Coleman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Frix",
+      "voter_id": "~{\"name\": \"Frix\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gillespie",
+      "voter_id": "~{\"name\": \"Gillespie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Goodwin",
+      "voter_id": "~{\"name\": \"Goodwin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Green",
+      "voter_id": "~{\"name\": \"Green\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kirt",
+      "voter_id": "~{\"name\": \"Kirt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thompson",
+      "voter_id": "~{\"name\": \"Thompson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Woods",
+      "voter_id": "~{\"name\": \"Woods\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Guthrie",
+      "voter_id": "~{\"name\": \"Guthrie\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "AMD HB3880 CA1 - ADOPTED",
+      "voter_id": "~{\"name\": \"AMD HB3880 CA1 - ADOPTED\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB3880_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB3880_VOTES.HTM#36"
+}

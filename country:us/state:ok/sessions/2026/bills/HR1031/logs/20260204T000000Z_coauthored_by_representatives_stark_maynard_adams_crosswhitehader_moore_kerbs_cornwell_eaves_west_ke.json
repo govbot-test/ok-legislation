@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Coauthored by Representative(s) Stark, Maynard, Adams, CrosswhiteHader, Moore, Kerbs, Cornwell, Eaves, West (Kevin), Luttrell, George, Worthen, Hays, Manger, Hilbert, Patzkowsky, Norwood, West (Josh), Grego, Hardin, Hall, Tedford, Hasenbeck, Boles, Staires, Dobrinski, Cantrell, Townley, Harris, Gann, Smith, Pfeiffer, Steagall, Lay, Bashore, Kendrix, Hildebrant, West (Rick), Culver, Shaw, Jenkins, Newton, Lepak, Gise, Hill, Kane, Dempsey, Humphrey, May, Banning, Wilk, Miller, Blair, Williams, Sneed, Sterling, Ford, Chapman, Pae, Archer, Stinson, Lowe (Dick), Kelley, Johns, Turner",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HR1031&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR1031"
+}

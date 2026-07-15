@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Third Reading, Measure failed:  Ayes: 35 Nays: 53",
+    "occurred_at": "2026-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=SB1209&session=2600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1209"
+}

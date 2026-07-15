@@ -251,15 +251,25 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:18Z"
       }
+    },
+    {
+      "description": "remove as principal author Representative Boles and substitute with Representative Dobrinski",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Boles",
+      "name": "Dobrinski",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Boles\"}",
+      "person_id": "~{\"name\": \"Dobrinski\"}",
       "organization_id": null
     },
     {
@@ -362,6 +372,28 @@
       "classification": ""
     },
     {
+      "note": "HB1374 (5-06-25) (WOODS) FS WDFA1.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/HB1374 (5-06-25) (WOODS) FS WDFA1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1374 (4-23-26) (WOODS) FS FA3.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/HB1374 (4-23-26) (WOODS) FS FA3.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "1 Floor Amendment by CALDWELL",
       "links": [
         {
@@ -445,7 +477,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:18Z",
+    "logs_latest_update": "2026-07-15T13:05:27Z",
     "text_extraction_latest_update": "2026-07-13T16:22:06.207713Z"
   }
 }

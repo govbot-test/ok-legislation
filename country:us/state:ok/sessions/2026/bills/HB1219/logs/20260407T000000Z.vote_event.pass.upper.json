@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "c8a14202-8001-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB1219",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bergstrom",
+      "voter_id": "~{\"name\": \"Bergstrom\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bullard",
+      "voter_id": "~{\"name\": \"Bullard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burns",
+      "voter_id": "~{\"name\": \"Burns\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grellner",
+      "voter_id": "~{\"name\": \"Grellner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McIntosh",
+      "voter_id": "~{\"name\": \"McIntosh\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Boren",
+      "voter_id": "~{\"name\": \"Boren\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kirt",
+      "voter_id": "~{\"name\": \"Kirt\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1219_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/Senate/HB1219_VOTES.HTM#28"
+}

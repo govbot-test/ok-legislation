@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Public Health Committee: Do Pass As Amended By Cs",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "3c26d4ac-8003-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "HB4423",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hilbert",
+      "voter_id": "~{\"name\": \"Hilbert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Newton",
+      "voter_id": "~{\"name\": \"Newton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roe",
+      "voter_id": "~{\"name\": \"Roe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sterling",
+      "voter_id": "~{\"name\": \"Sterling\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pogemiller",
+      "voter_id": "~{\"name\": \"Pogemiller\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB4423_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/HB4423_VOTES.HTM#70"
+}

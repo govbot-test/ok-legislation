@@ -199,6 +199,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:04:23Z"
       }
+    },
+    {
+      "description": "Remove as author Senator Weaver; authored by Senator Hamilton",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -211,11 +221,11 @@
       "organization_id": null
     },
     {
-      "name": "Weaver",
+      "name": "Hamilton",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Weaver\"}",
+      "person_id": "~{\"name\": \"Hamilton\"}",
       "organization_id": null
     }
   ],
@@ -259,6 +269,17 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENGR/hB/HB1990 ENGR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1990 (4-09-26) (HAMILTON) FS FA1.PDF",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/Senate/HB1990 (4-09-26) (HAMILTON) FS FA1.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -316,7 +337,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:23Z",
+    "logs_latest_update": "2026-07-15T13:05:30Z",
     "text_extraction_latest_update": "2026-07-13T09:13:03.830921Z"
   }
 }

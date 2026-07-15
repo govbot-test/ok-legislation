@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Appropriations And Budget Finance Subcommittee: Do Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "2d0d2626-8001-11f1-83cc-f6ed0ffe16ba",
+  "bill_action": null,
+  "bill_identifier": "SB1400",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Eaves",
+      "voter_id": "~{\"name\": \"Eaves\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fetgatter",
+      "voter_id": "~{\"name\": \"Fetgatter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kendrix",
+      "voter_id": "~{\"name\": \"Kendrix\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lay",
+      "voter_id": "~{\"name\": \"Lay\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lepak",
+      "voter_id": "~{\"name\": \"Lepak\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maynard",
+      "voter_id": "~{\"name\": \"Maynard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Norwood",
+      "voter_id": "~{\"name\": \"Norwood\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schreiber",
+      "voter_id": "~{\"name\": \"Schreiber\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Travis",
+      "voter_id": "~{\"name\": \"Travis\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1400_VOTES.HTM",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.oklegislature.gov/cf/2025-26%20SUPPORT%20DOCUMENTS/votes/House/SB1400_VOTES.HTM#71"
+}

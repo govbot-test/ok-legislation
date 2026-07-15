@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SR24",
-  "title": "Resolution: commemorating America's 250th birthday.",
+  "title": "Resolution; commemorating America's 250th birthday.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -36,6 +36,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:04:22Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Jett",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Guthrie",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:05:27Z"
       }
     }
   ],
@@ -79,7 +99,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:22Z",
+    "logs_latest_update": "2026-07-15T13:05:27Z",
     "text_extraction_latest_update": "2026-07-13T09:12:31.167356Z"
   }
 }
