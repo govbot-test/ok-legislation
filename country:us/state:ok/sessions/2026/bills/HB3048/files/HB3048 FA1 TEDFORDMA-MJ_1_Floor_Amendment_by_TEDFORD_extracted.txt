@@ -1,0 +1,843 @@
+Title: 
+Official Title: 
+Source: versions - 1 Floor Amendment by TEDFORD
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB3048 FA1 TedfordMa-MJ
+3/11/2026 9:55:34 am
+FLOOR AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB3048
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Mark Tedford
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 FLOOR SUBSTITUTE
+FOR
+4 HOUSE BILL NO. 3048 By: Tedford of the House
+5 and
+6 Reinhardt of the Senate
+7
+8
+9 FLOOR SUBSTITUTE
+10 An Act relating to insurance; amending 36 O.S. 2021,
+Section 1100.1, which relates to definitions used in
+11 the Unauthorized Insurers and Surplus Lines Insurance
+Act; modifying definitions; defining terms; amending
+12 36 O.S. 2021, Section 1101, which relates to
+representation of unauthorized insurers prohibition;
+13 expanding statute to include nonadmitted insurers
+selling nonadmitted insurance coverage; amending 36
+14 O.S. 2021, Section 1101.1, which relates to domestic
+surplus line insurers; removing licensee; amending 36
+15 O.S. 2021, Section 1103, which relates to service of
+process on a surplus lines insurer; establishing that
+16 nonadmitted insurers assuming insurance in this state
+are subject to this act; permitting suits against
+17 nonadmitted insurer; amending 36 O.S. 2021, Section
+1106, which relates to surplus lines and brokers;
+18 permitting purchase of insurance from eligible
+surplus lines insurers; directing for surplus lines
+19 insurance to be procured through a licensed surplus
+lines broker in insured's home state; amending 36
+20 O.S. 2021, Section 1107, as amended by Section 4,
+Chapter 195, O.S.L. 2024 (36 O.S. Supp. 2025, Section
+21 1107), which relates to multistate risk, required
+application and informational filings, and fee
+22 payments; modifying statute to apply to only surplus
+lines brokers and not licensees; amending 36 O.S.
+23 2021, Section 1108, which relates to recognized
+surplus lines; requiring surplus lines broker to
+24 provide insured the policy or other evidence of
+Req. No. 16999 Page 1
+
+1 insurance within thirty days; providing required
+content of certificates and policies; allowing the
+2 Insurance Commissioner rulemaking authority; amending
+36 O.S. 2021, Section 1109, which relates to validity
+3 of surplus line insurance and notice of limitations
+of coverage; requiring notice on declaration page of
+4 the policy; amending 36 O.S. 2021, Section 1111,
+which relates to acceptance of surplus line business
+5 by brokers; clarifying that only a surplus lines
+broker and not a licensee may accept and place
+6 surplus lines insurance; extending section to include
+producers and agents; amending 36 O.S. 2021, Section
+7 1112, which relates to solvent insurer required,
+license revocation, and penalties; modifying language
+8 for clarity; amending 36 O.S. 2021, Section 1113,
+which relates to records of surplus lines licensees
+9 or brokers; removing applicability to licensees;
+modifying time frame for record keeping from three to
+10 five years after contract effective date; amending 36
+O.S. 2021, Section 1114, as amended by Section 5,
+11 Chapter 195, O.S.L. 2024 (36 O.S. Supp. 2025, Section
+1114), which relates to broker's annual statement;
+12 adding clarifying language; amending 36 O.S. 2021,
+Section 1115, which relates to tax on surplus lines;
+13 removing premium tax for premiums charged for
+independently procured insurance; amending 36 O.S.
+14 2021, Section 1116, which relates to penalty for
+failure to remit tax; extending applicability of
+15 section to rules; requiring notice and opportunity
+for hearing; allowing additional applicable
+16 penalties; amending 36 O.S. 2021, Section 1118, which
+relates to legal process against surplus lines
+17 insurer; removing licensees; amending 36 O.S. 2021,
+Section 1120, which relates to records of insureds;
+18 clarifying section applies to producer or surplus
+line broker; amending 36 O.S. 2021, Section 6414, as
+19 amended by Section 2, Chapter 358, O.S.L. 2022 (36
+O.S. Supp. 2025, Section 6414), which relates to the
+20 Market Assistance Association; modifying the
+provisions of the plan of operation to provide
+21 economic, fair and nondiscriminatory administration;
+repealing 36 O.S. 2021, Section 1106.2, which relates
+22 to exemption from due diligence search and flood
+insurance; and providing an effective date.
+23
+24
+Req. No. 16999 Page 2
+
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. AMENDATORY 36 O.S. 2021, Section 1100.1, is
+3 amended to read as follows:
+4 Section 1100.1. As used in the Unauthorized Insurers and
+5 Surplus Lines Insurance Act:
+6 1. "Admitted insurer" means, with respect to a state, an
+7 insurer that is licensed to transact the business of insurance in
+8 such state;
+9 2. "Affiliate" means, with respect to an insured, any business
+10 entity that controls, is controlled by, or is under common control
+11 with the insured;
+12 3. "Affiliated group" means any group of entities that are all
+13 affiliated;
+14 4. "Business entity" means a corporation, association,
+15 partnership, limited liability company, limited partnership, or
+16 other legal entity;
+17 5. "Control" means, with respect to an insured:
+18 a. a person who, either directly or indirectly, or acting
+19 through one or more other persons, owns, controls, or
+20 has the power to vote twenty-five percent (25%) or
+21 more of any class of voting securities of the business
+22 entity, or
+23
+24
+Req. No. 16999 Page 3
+
+1 b. an entity controls in any manner the election of a
+2 majority of the directors or trustees of the business
+3 entity;
+4 6. "Eligible surplus lines insurer" means a nonadmitted insurer
+5 with which a surplus lines broker may place surplus lines insurance
+6 pursuant to Section 1106 of this title;
+7 7. "Home state" means:
+8 a. except as provided in subparagraphs b through e of
+9 this paragraph, with respect to an insured:
+10 (1) the state in which an insured maintains its
+11 principal place of business or, in the case of an
+12 individual, the individual's principal residence,
+13 or
+14 (2) if one hundred percent (100%) of the insured risk
+15 is located out of the state referred to in
+16 division (1) of this subparagraph, the state to
+17 which the greatest percentage of the insured's
+18 taxable premium for the insurance contract is
+19 allocated,
+20 b. with respect to determining the home state of the
+21 insured, "principal place of business" means:
+22 (1) the state where the insured maintains its
+23 headquarters and where the insured's high-level
+24
+Req. No. 16999 Page 4
+
+1 officers direct, control and coordinate the
+2 business activities, or
+3 (2) if the insured maintains its headquarters or the
+4 insured's high-level officers direct, control and
+5 coordinate the business activities outside
+6 Oklahoma, the state to which the greatest
+7 percentage of the insured's taxable premium for
+8 that insurance contract is allocated,
+9 c. with respect to determining the home state of the
+10 insured, "principal residence" means:
+11 (1) the state where the insured resides for the
+12 greatest number of days during the calendar year,
+13 or
+14 (2) if the insured's principal residence is located
+15 outside any state, the state to which the
+16 greatest percentage of the insured's taxable
+17 premium for that insurance is allocated,
+18 d. if more than one insured from an affiliated group are
+19 named insureds on a single nonadmitted insurance
+20 contract, the term "home state" means the home state,
+21 as determined pursuant to division (1) of subparagraph
+22 a of this paragraph, of the member affiliated group
+23 that has the largest percentage of premium attributed
+24 to it under such insurance contract, or
+Req. No. 16999 Page 5
+
+1 e. when the group policyholder pays one hundred percent
+2 (100%) of the premium from its own funds, the term
+3 "home state" means the home state, as determined
+4 pursuant to division (1) of subparagraph a of this
+5 paragraph, of the group policyholder. When the group
+6 policyholder does not pay one hundred percent (100%)
+7 of the premium from its own funds, the term "home
+8 state" means the home state, as determined pursuant to
+9 division (1) of subparagraph a of this paragraph, or
+10 of the group member;
+11 3. 8. "Independently procured insurance" means insurance
+12 procured by an insured directly from a nonadmitted insurer an
+13 eligible surplus lines insurer;
+14 4. 9. "Licensed" means, with respect to an insurer,
+15 authorization to transact the business of insurance in a state by a
+16 license, certificate of authority, charter or otherwise;
+17 5. 10. "Multistate risk" means a risk covered by a nonadmitted
+18 insurer with insured exposures in more than one state;
+19 6. 11. "Nonadmitted insurance" means any property and casualty
+20 insurance permitted in a state to be placed directly through a
+21 surplus lines licensee or broker with a nonadmitted insurer eligible
+22 to accept such insurance. For purposes of the Unauthorized Insurers
+23 and Surplus Lines Insurance Act, nonadmitted insurance includes
+24 independently procured insurance and surplus lines insurance;
+Req. No. 16999 Page 6
+
+1 7. 12. "Nonadmitted insurer" means, with respect to a state, an
+2 insurer not licensed to engage in the business of insurance in such
+3 state, but shall not include a risk retention group as that term is
+4 defined under applicable federal law;
+5 13. "Person" means an individual or a business entity;
+6 8. 14. "Single-state risk" means a risk insured with insured
+7 exposures in only one state;
+8 9. 15. "Surplus lines insurance" means insurance procured by a
+9 nonadmitted licensee or broker from a surplus lines insurer as
+10 permitted under the law of the insured's home state any insurance
+11 permitted to be placed through a surplus lines broker with an
+12 eligible surplus lines insurer, pursuant to Section 1106 of this
+13 title; and
+14 10. "Surplus lines licensee" or "surplus lines broker"
+15 16. "Surplus lines broker" means an individual, firm or
+16 corporation business entity that is licensed in the insured's home
+17 under the laws of this state to sell, solicit, or negotiate, or
+18 procure surplus lines insurance, including the agent of record on a
+19 nonadmitted insurance policy, on properties, risks or exposures
+20 located or to be performed in a this state allowing nonadmitted
+21 insurers to do business.
+22 SECTION 2. AMENDATORY 36 O.S. 2021, Section 1101, is
+23 amended to read as follows:
+24 Section 1101. A. No person in Oklahoma shall in any manner:
+Req. No. 16999 Page 7
+
+1 1. Represent or assist any nonadmitted insurer in the selling,
+2 soliciting, procuring, placing, or maintenance of any nonadmitted
+3 insurance coverage upon or with relation to any subject of insurance
+4 resident, located, or to be performed in Oklahoma without being a
+5 licensed surplus lines licensee or broker as defined in the
+6 Unauthorized Insurers and Surplus Lines Insurance Act; or
+7 2. Inspect or examine any risk or collect or receive any
+8 premium on behalf of any nonadmitted insurer without being a
+9 licensed surplus lines broker or licensee as defined in the
+10 Unauthorized Insurers and Surplus Lines Insurance Act.
+11 B. Any person transacting insurance or acting as a surplus
+12 lines broker or licensee in violation of this section shall be
+13 liable to the insured for the performance of any contract between
+14 the insured and the insurer resulting from the transaction.
+15 C. This section shall not apply as to reinsurance, to surplus
+16 line lines insurance lawfully procured pursuant to the Unauthorized
+17 Insurers and Surplus Lines Insurance Act, to transactions exempt
+18 under Section 606 of this title (Authorization of Insurers and
+19 General Qualifications), or to professional services of an adjuster
+20 or attorney-at-law from time to time with respect to claims under
+21 policies lawfully solicited, issued, and delivered outside of
+22 Oklahoma.
+23 D. The investigation and adjustment of any claim in this state
+24 arising under an insurance contract issued by a nonadmitted insurer
+Req. No. 16999 Page 8
+
+1 shal l not be deemed to constitute the transacting of the business of
+2 insurance in this state.
+3 E. Nonadmitted insurers shall contract with the trustees of any
+4 fund which will insure residents in this state in a manner
+5 consistent with the requirements, nature and scope of the
+6 Unauthorized Insurers and Surplus Lines Insurance Act.
+7 SECTION 3. AMENDATORY 36 O.S. 2021, Section 1101.1, is
+8 amended to read as follows:
+9 Section 1101.1. A. An Oklahoma domestic insurer possessing
+10 policyholder surplus of at least Fifteen Million Dollars
+11 ($15,000,000.00) may, pursuant to a resolution by its board of
+12 directors, and with the written approval of the Insurance
+13 Commissioner, be designated as a domestic surplus line lines
+14 insurer. Such insurers may write surplus line lines insurance in
+15 this state and in any other jurisdiction allowed under the
+16 Nonadmitted and Reinsurance Reform Act of 2010.
+17 B. The premiums of a domestic surplus line lines insurer shall
+18 be subject to surplus line lines premium tax pursuant to Section
+19 1115 of this title. The surplus lines broker or licensee shall pay
+20 all premium taxes to the Insurance Commissioner when Oklahoma is the
+21 home state of the insured until and unless in the exercise of his or
+22 her sole discretion and judgment, the Insurance Commissioner decides
+23 to join the Nonadmitted Insurance Multi-State Agreement or any other
+24 multistate agreement or compact with the same function and purpose.
+Req. No. 16999 Page 9
+
+1 C. A domestic surplus line lines insurer may not issue a policy
+2 designed to satisfy the motor vehicle financial responsibility
+3 requirement of this state, the Workers' Compensation Code, or any
+4 other law mandating insurance coverage by a licensed insurance
+5 company.
+6 D. A domestic surplus line lines insurer is not subject to the
+7 provisions of the Oklahoma Property & and Casualty Insurance
+8 Guaranty Association Act nor the Oklahoma Life and Health Insurance
+9 Guaranty Association Act.
+10 SECTION 4. AMENDATORY 36 O.S. 2021, Section 1103, is
+11 amended to read as follows:
+12 Section 1103. A. Delivery, effectuation, or solicitation of
+13 any insurance contract, by mail or otherwise, within this state by a
+14 surplus lines insurer, or the performance within this state of any
+15 other service or transaction connected with the insurance by or on
+16 behalf of the insurer, shall be deemed to constitute an appointment
+17 by the insurer of the Insurance Commissioner as its attorney, upon
+18 whom may be served all lawful process issued within this state in
+19 any action or proceeding against the insurer arising out of any such
+20 contract or transaction.
+21 B. Service of process shall be made by delivering to and
+22 leaving with the Insurance Commissioner three copies thereof. At
+23 time of service the plaintiff shall pay Twenty Dollars ($20.00) to
+24 the Insurance Commissioner, taxable as costs in the action. The
+Req. No. 16999 Page 10
+
+1 Insu rance Commissioner shall mail by registered mail one of the
+2 copies of the process to the defendant at any home state address as
+3 last known to the Insurance Commissioner, and shall keep a record of
+4 all process so served.
+5 C. Service of process in any action or proceeding, in addition
+6 to the manner provided herein, shall also be valid if served upon
+7 any person within this state who, in this state on behalf of the
+8 insurer, is soliciting insurance, or making, issuing, or delivering
+9 any insurance policy, or collecting or receiving any premium,
+10 membership fee, assessment, or other consideration for insurance.
+11 D. Service of process upon an insurer in accordance with this
+12 section shall be as valid and effective as if served upon a
+13 defendant personally present in this state.
+14 E. Means provided in this section for service of process upon
+15 the insurer shall not be deemed to prevent service of process upon
+16 the insurer by any other lawful means.
+17 F. An insurer which has been so served with process shall have
+18 the right to appear in and defend the action and employ attorneys
+19 and other persons in this state to assist in its defense or
+20 settlement.
+21 G. Each nonadmitted insurer assuming insurance in this state,
+22 or relative to property, risks, or exposures located or to be
+23 performed in this state, shall be deemed to have subjected itself to
+24 this act.
+Req. No. 16999 Page 11
+
+1 H. Notwithstanding conditions or stipulations in the policy or
+2 contract, a nonadmitted insurer may be sued upon any cause of action
+3 arising in this state, or relative to property, risks, or exposures
+4 located or to be performed in this state, under any insurance
+5 contract made by it.
+6 SECTION 5. AMENDATORY 36 O.S. 2021, Section 1106, is
+7 amended to read as follows:
+8 Section 1106. If insurance required to protect the interest of
+9 the insured for the amount of insurance, coverage terms and solvency
+10 requirements of the insured cannot be procured from admitted
+11 insurers after inquiry in the market available to the insurance
+12 producer, then insurance may be procured from eligible surplus lines
+13 insurers subject to the following conditions:
+14 1. The surplus lines insurer shall meet the requirements of the
+15 Unauthorized Insurers and Surplus Lines Insurance Act and the
+16 following conditions:
+17 a. the insurer has capital and surplus or its equivalent
+18 under the laws of its domiciliary jurisdiction which
+19 equals the greater of:
+20 (1) the minimum capital and surplus requirements
+21 under the laws of this state for nonadmitted
+22 insurers, or
+23 (2) Fifteen Million Dollars ($15,000,000.00),
+24
+Req. No. 16999 Page 12
+
+1 b. the requirements of subparagraph a of this paragraph
+2 may be satisfied by an insurer's possessing less than
+3 the minimum capital and surplus upon an affirmative
+4 finding of acceptability by the Insurance
+5 Commissioner. The finding shall be based upon such
+6 factors as quality of management, capital and surplus
+7 of any parent company, company underwriting profit and
+8 investment income trends, market availability and
+9 company record and reputation within the industry. In
+10 no event shall the Insurance Commissioner make an
+11 affirmative finding of acceptability when the
+12 nonadmitted insurer's capital and surplus is less than
+13 Four Million Five Hundred Thousand Dollars
+14 ($4,500,000.00), and
+15 c. the insurer, if an alien insurer, is listed on the
+16 National Association of Insurance Commissioners
+17 Nonadmitted Insurers Quarterly Listing; and
+18 2. The If a broker is involved in the transaction in any way,
+19 the surplus lines insurance shall be procured through a licensed
+20 surplus lines licensee or broker licensed in the insurer's insured's
+21 home state. An Oklahoma surplus lines license is required only
+22 where Oklahoma is the home state of the insured.; and
+23 3. For the purposes of carrying out the provisions of the
+24 Nonadmitted and Reinsurance Reform Act of 2010, the Insurance
+Req. No. 16999 Page 13
+
+1 Comm issioner is authorized to utilize the national insurance
+2 producer database of the National Association of Insurance
+3 Commissioners, or any other equivalent uniform national database,
+4 for the licensure of an individual or entity as a surplus lines
+5 licensee or broker and for renewal of such license.
+6 SECTION 6. AMENDATORY 36 O.S. 2021, Section 1107, as
+7 amended by Section 4, Chapter 195, O.S.L. 2024 (36 O.S. Supp. 2025,
+8 Section 1107), is amended to read as follows:
+9 Section 1107. A. After procuring any surplus line insurance
+10 where Oklahoma is the home state and the insurance involves a
+11 multistate risk, the surplus lines licensee and broker shall submit
+12 such information relating to the transaction as may be established
+13 by the Insurance Commissioner. The data shall be provided to the
+14 Insurance Commissioner until and unless in the exercise of his or
+15 her sole discretion and judgment, the Insurance Commissioner decides
+16 to enter or join the Nonadmitted Insurance Multi-State Agreement or
+17 any other multistate agreement or compact with the same function and
+18 purpose and other reporting requirements are thereby established.
+19 B. When Oklahoma is the home state of the insured, the surplus
+20 lines licensee or broker shall make all informational and tax
+21 filings and fee and tax payments electronically in the manner and
+22 form required or to be established by the Insurance Commissioner,
+23 along with any applicable transaction fees. When Oklahoma is the
+24 home state of the insured, the premium tax filings and premium tax
+Req. No. 16999 Page 14
+
+1 paym ents shall be provided entirely to the Insurance Commissioner
+2 until and unless, in the exercise of his or her sole discretion and
+3 judgment, the Insurance Commissioner decides to enter or join the
+4 Nonadmitted Insurance Multi-State Agreement or any other multistate
+5 agreement or compact with the same function and purpose.
+6 C. Failure to file the required information, any required fee
+7 payments and make the required premium tax payments in the manner
+8 established by the Insurance Commissioner pursuant to this section
+9 and Section 1115 of this title where Oklahoma is the home state of
+10 the insured shall result, after notice and opportunity for a
+11 hearing, in censure, suspension, or revocation of license or a fine
+12 of up to Five Hundred Dollars ($500.00) for each occurrence or by
+13 both such fine and licensure penalty.
+14 SECTION 7. AMENDATORY 36 O.S. 2021, Section 1108, is
+15 amended to read as follows:
+16 Section 1108. A. If a particular insurance coverage or type,
+17 class, or kind of coverage is not readily procurable from authorized
+18 insurers in Oklahoma, a surplus lines licensee or broker may place
+19 the coverage with a nonadmitted insurer or surplus lines insurer as
+20 defined in the Unauthorized Insurers and Surplus Lines Insurance
+21 Act.
+22 B. Upon placing surplus lines insurance, the surplus lines
+23 broker shall, within thirty (30) days, deliver to the insured the
+24 policy or, if the policy is not then available, a certificate, cover
+Req. No. 16999 Page 15
+
+1 note , binder, or other evidence of insurance. Each certificate or
+2 policy of insurance shall contain or have attached a complete record
+3 of all policy insuring agreements, conditions, exclusions, clauses,
+4 endorsements, or other material facts that would regularly be
+5 included in the policy.
+6 C. The Insurance Commissioner may, in accordance with Section
+7 307.1 of this title, promulgate reasonable rules as are necessary or
+8 proper to carry out the purposes of this act.
+9 SECTION 8. AMENDATORY 36 O.S. 2021, Section 1109, is
+10 amended to read as follows:
+11 Section 1109. A. Insurance contracts procured as surplus line
+12 coverage from surplus lines insurers in accordance with this article
+13 shall be fully valid and enforceable as to all parties, and shall be
+14 given recognition in all matters and respects to the same effect as
+15 like contracts issued by admitted insurers.
+16 B. Insurance contracts procured as surplus line coverage shall
+17 contain in fourteen-point, all capital letter, bold-face type
+18 notification stamped by the surplus lines licensee or broker or
+19 surplus lines insurer on the declaration page of the policy that the
+20 contracts are not subject to the protection of any guaranty
+21 association in the event of liquidation or receivership of the
+22 surplus lines insurer. the following: "NOTICE: A NONADMITTED OR
+23 SURPLUS LINES INSURER IS ISSUING THE INSURANCE POLICY THAT YOU HAVE
+24 APPLIED TO PURCHASE. THESE INSURERS DO NOT PARTICIPATE IN THE INSURANCE
+Req. No. 16999 Page 16
+
+1 GUAR ANTY FUNDS CREATED BY STATE LAW. THE GUARANTY FUNDS WILL NOT PAY YOUR
+2 CLAIMS OR PROTECT YOUR ASSETS IF THE INSURER BECOMES INSOLVENT AND IS
+3 UNABLE TO MAKE PAYMENTS AS PROMISED." The Commissioner is hereby
+4 authorized to promulgate rules to establish further disclosure
+5 requirements for the purpose of protecting consumers of surplus line
+6 coverage.
+7 SECTION 9. AMENDATORY 36 O.S. 2021, Section 1111, is
+8 amended to read as follows:
+9 Section 1111. A surplus lines licensee or broker may accept and
+10 place surplus lines insurance from any insurance producer or agent
+11 or broker licensed in this state for the kind of insurance involved,
+12 and may compensate such insurance producer or agent or broker
+13 therefor. The insurance producer or agent or broker shall have the
+14 right to receive from the surplus lines insurer the customary
+15 commission.
+16 SECTION 10. AMENDATORY 36 O.S. 2021, Section 1112, is
+17 amended to read as follows:
+18 Section 1112. A. A surplus lines licensee or broker shall not
+19 knowingly place any such coverage with a nonadmitted insurer which
+20 is in an unsound financial condition. To be considered financially
+21 sound, a surplus lines insurer shall meet the requirements of
+22 Section 1106 of this title.
+23 B. For violation of this section, in addition to any other
+24 penalty provided by law, the surplus lines broker's license shall be
+Req. No. 16999 Page 17
+
+1 revo ked, and the broker shall not again be so licensed within a
+2 period of two (2) years thereafter. In addition, any surplus lines
+3 licensee and broker who violates this section shall be guilty of a
+4 misdemeanor and upon conviction thereof shall be punished for each
+5 offense, by a fine of not more than One Thousand Dollars ($1,000.00)
+6 or by confinement in jail for not more than ninety (90) days, or by
+7 both such fine and imprisonment.
+8 SECTION 11. AMENDATORY 36 O.S. 2021, Section 1113, is
+9 amended to read as follows:
+10 Section 1113. Each surplus lines licensee or broker licensed in
+11 Oklahoma shall keep a full and true record of each surplus lines
+12 contract procured by the surplus lines broker, and such record may
+13 be examined at any time within three (3) five (5) years thereafter
+14 after termination of the contract by the Insurance Commissioner.
+15 The record shall include such information required to be submitted
+16 as established by the Insurance Commissioner in this article.
+17 SECTION 12. AMENDATORY 36 O.S. 2021, Section 1114, as
+18 amended by Section 5, Chapter 195, O.S.L. 2024 (36 O.S. Supp. 2025,
+19 Section 1114), is amended to read as follows:
+20 Section 1114. Each surplus lines licensee or broker licensed or
+21 transacting business in Oklahoma shall on or before April 1 of each
+22 year file electronically, along with any applicable transaction
+23 fees, with the Insurance Commissioner a verified statement of all
+24 surplus lines insurance transacted by the surplus lines broker
+Req. No. 16999 Page 18
+
+1 duri ng the preceding calendar year where Oklahoma is the home state
+2 of the insured. The statement shall be on a form prescribed and
+3 furnished by the Insurance Commissioner and shall show such
+4 information required to be submitted as established by the Insurance
+5 Commissioner. The information shall be provided to the Insurance
+6 Commissioner until and unless, in the exercise of his or her sole
+7 discretion and judgment, the Insurance Commissioner decides to enter
+8 or join the Nonadmitted Insurance Multi-State Agreement or any other
+9 multistate agreement or compact with the same function and purpose
+10 and other transaction reporting requirements are thereby
+11 established.
+12 SECTION 13. AMENDATORY 36 O.S. 2021, Section 1115, is
+13 amended to read as follows:
+14 Section 1115. A. Where Oklahoma is the home state of the
+15 insured, every person licensed pursuant to Section 1106 of this
+16 title shall collect and pay as provided in this section a sum for
+17 premium tax based on the total gross premiums charged in connection
+18 with any broker-procured surplus lines insurance, less any return
+19 premiums, for surplus lines insurance sold to the Oklahoma home-
+20 state insureds by the surplus lines broker or licensee.
+21 B. Where Oklahoma is the home state of the insured and the
+22 insurance covers properties, risks or exposures located or to be
+23 performed both in and out of Oklahoma, the sum payable to the
+24 Oklahoma Insurance Commissioner shall be computed based on an amount
+Req. No. 16999 Page 19
+
+1 equa l to six percent (6%) of the total gross premiums whether the
+2 properties, risks or exposures are located or to be performed inside
+3 or outside Oklahoma. Any such unearned gross premium credited by
+4 the state to the surplus lines broker or licensee shall be returned
+5 to the policyholder by the broker or licensee. The surplus lines
+6 licensee or broker is prohibited from rebating, for any reason, any
+7 part of the tax.
+8 C. Where Oklahoma is the home state of the insured, gross
+9 premiums charged for independently procured insurance, less any
+10 return premiums, are subject to a premium tax at the rate of six
+11 percent (6%) payable to the Oklahoma Insurance Commissioner, whether
+12 the properties, risks or exposures are located or to be performed
+13 inside or outside Oklahoma.
+14 D. The Insurance Commissioner is authorized, in the exercise of
+15 his or her sole discretion and judgment, to participate in the
+16 Nonadmitted Insurance Multi-State Agreement or any other multistate
+17 agreement or compact with the same function and purpose for the
+18 function of collecting and disbursing to reciprocal states any funds
+19 collected pursuant to the Unauthorized Insurers and Surplus Lines
+20 Insurance Act applicable to other properties, risks or exposures
+21 located or to be performed outside of Oklahoma. Until such time as
+22 the Insurance Commissioner may, while not being required to, join
+23 such multistate agreement or compact, premium taxes relating to
+24 Oklahoma home-state insureds shall continue to be paid and accounted
+Req. No. 16999 Page 20
+
+1 for by nonadmitted insurers through their surplus lines licensees
+2 and brokers as provided in subsections A through C B of this
+3 section.
+4 E. D. When the surplus lines coverage of an Oklahoma home-state
+5 insured covers properties, risks or exposures located only in
+6 Oklahoma, the surplus lines licensee or broker or self-procuring
+7 insured shall pay the surplus lines premium tax payable on such
+8 Oklahoma-only risks solely to the Oklahoma Insurance Commissioner.
+9 F. E. Should the Insurance Commissioner exercise his or her
+10 sole discretion and judgment and decide to join the Nonadmitted
+11 Insurance Multi-State Agreement or any other multistate agreement or
+12 compact with the same function and purpose, the Insurance
+13 Commissioner is authorized in such event to establish a uniform,
+14 statewide rate of taxation applicable to lines of nonadmitted
+15 insurance. This rate shall encompass all existing rates of
+16 taxation, fees and assessments imposed by this state, pursuant to
+17 subsections A through C B of this section, and the Insurance
+18 Commissioner shall document the method by which the statewide rate
+19 is calculated. The Insurance Commissioner is authorized to receive
+20 any monies obtained as premium tax received through any multistate
+21 agreement he or she may in the future, in his or her discretion,
+22 choose to join and then disburse such funds as provided by the
+23 Insurance Code and other applicable Oklahoma law.
+24
+Req. No. 16999 Page 21
+
+1 G. F. Should the Insurance Commissioner exercise his or her
+2 sole discretion and decide to join the Nonadmitted Insurance Multi-
+3 State Agreement or any other multistate agreement or compact with
+4 the same function and purpose, the Insurance Commissioner is
+5 authorized in such circumstances to utilize or adopt any allocation
+6 schedule included in the Nonadmitted Insurance Multi-State Agreement
+7 or any other multistate agreement or compact the Insurance
+8 Commissioner may enter in the exercise of his or her sole discretion
+9 and judgment, which schedule has the function and purpose of
+10 allocating risk and computing the tax due on the portion of premium
+11 attributable to each risk classification and to each state where
+12 properties, risks or exposures are located.
+13 H. G. Policies sold to federally recognized Indian tribes shall
+14 be reported as provided in Section 1107 of this title; however,
+15 these policies shall be exempt from the surplus line premium tax to
+16 the extent that the Insurance Commissioner can identify that
+17 coverage is for risks which are wholly owned by a tribe and located
+18 within Indian Country, as defined in Section 1151 of Title 18 of the
+19 United States Code.
+20 I. H. The surplus line premium tax on insurance on motor
+21 transit operations conducted between this and other states shall be
+22 paid on the total premium charged on all surplus line insurance
+23 less:
+24
+Req. No. 16999 Page 22
+
+1 1. The portion of the premium charged for operations in other
+2 states taxing the premium of an insured where Oklahoma is the home
+3 state; or
+4 2. The premium for operations outside of this state of an
+5 insured maintaining its headquarters office outside of this state
+6 and branch office in this state.
+7 J. I. Flood insurance policies where Oklahoma is the home state
+8 of the insured and the insurance covers properties, risks or
+9 exposures located in Oklahoma shall be exempt from the surplus line
+10 premium tax.
+11 K. J. Policies sold to any city or town in this state,
+12 incorporated pursuant to law, or to any school district, as defined
+13 in Section 1-108 of Title 70 of the Oklahoma Statutes, shall be
+14 exempt from the surplus lines premium tax.
+15 SECTION 14. AMENDATORY 36 O.S. 2021, Section 1116, is
+16 amended to read as follows:
+17 Section 1116. A. Any surplus lines licensee or broker who
+18 fails to remit the surplus line tax provided for by Section 1115 of
+19 this title, and any rules promulgated thereto, shall, after notice
+20 and opportunity for a hearing, be liable for a civil penalty not to
+21 exceed Twenty-five Dollars ($25.00) for each day of delinquency, per
+22 policy, and may be subject to any additional applicable penalties
+23 set forth in this act and the Oklahoma Producer Licensing Act,
+24 Section 1435.1 et seq. of this title. The Insurance Commissioner
+Req. No. 16999 Page 23
+
+1 shal l may use any lawful means available to collect the tax by
+2 distraint and shall recover the penalty, including, but not limited
+3 to, by distraint or by filing an action in the name of the State of
+4 Oklahoma. The Commissioner may request the Attorney General to
+5 appear in the name of the state by relation of the Commissioner.
+6 B. If any person, association or legal entity procuring or
+7 accepting any insurance coverage from a surplus lines insurer where
+8 Oklahoma is the home state of the insured, otherwise than through a
+9 surplus lines licensee or broker, fails to remit the surplus line
+10 tax provided for by Section 1115 of this title, the person,
+11 association or legal entity shall, in addition to the tax, be liable
+12 to a civil penalty in an amount equal to one percent (1%) of the
+13 premiums paid or agreed to be paid for the policy or policies of
+14 insurance for each calendar month of delinquency or a civil penalty
+15 in the amount of Twenty-five Dollars ($25.00) whichever shall be the
+16 greater. The Insurance Commissioner shall may use any lawful means
+17 available to collect the tax by distraint and shall recover the
+18 civil penalty in, including, but not limited to, by distraint or by
+19 filing an action in the name of the State of Oklahoma in a court of
+20 competent jurisdiction. The Commissioner may request the Attorney
+21 General to appear in the name of the state by relation of the
+22 Commissioner.
+23 C. In addition to the penalties set forth in subsection A of
+24 this section, the Insurance Commissioner may, after notice and
+Req. No. 16999 Page 24
+
+1 oppo rtunity for a hearing, place on probation, censure, suspend,
+2 revoke, or refuse to issue or renew the license of any producer and
+3 surplus lines broker, and may issue a civil penalty of not more than
+4 One Thousand Dollars ($1,000.00) per occurrence, for any one or more
+5 violations of this act or any insurance law, regulation, subpoena,
+6 or order of the Insurance Commissioner.
+7 SECTION 15. AMENDATORY 36 O.S. 2021, Section 1118, is
+8 amended to read as follows:
+9 Section 1118. A. Every surplus lines insurer issuing or
+10 delivering a surplus line policy through a surplus lines licensee or
+11 broker in this state shall conclusively be deemed thereby to have
+12 irrevocably appointed the Insurance Commissioner as its attorney for
+13 acceptance of service of all legal process, other than a subpoena,
+14 issued in this state in any action or proceeding under or arising
+15 out of the policy, and service of process upon the Insurance
+16 Commissioner shall be lawful personal service upon the surplus lines
+17 or nonadmitted insurer.
+18 B. Each surplus line policy shall contain a provision stating
+19 the substance of subsection A of this section, and designating the
+20 person to whom the Insurance Commissioner shall mail process as
+21 provided in subsection C of this section.
+22 C. Triplicate copies of legal process against such an insurer
+23 shall be served upon the Insurance Commissioner, and at time of
+24 service, the plaintiff shall pay to the Insurance Commissioner
+Req. No. 16999 Page 25
+
+1 Twen ty Dollars ($20.00), taxable as costs in the action. The
+2 Insurance Commissioner shall immediately mail one copy of the
+3 process so served to the person designated by the insurer in the
+4 policy for the purpose, by mail with return receipt requested. The
+5 surplus lines or nonadmitted insurer shall have forty (40) days
+6 after the date of mailing within which to plead, answer, or
+7 otherwise defend the action.
+8 SECTION 16. AMENDATORY 36 O.S. 2021, Section 1120, is
+9 amended to read as follows:
+10 Section 1120. Upon request of the Insurance Commissioner any
+11 producer, surplus line broker, or person in Oklahoma who is the
+12 insured under any policy issued by a surplus lines insurer upon a
+13 subject of insurance resident, located, or to be performed in
+14 Oklahoma at the time the policy was issued, or where the insured's
+15 home state is Oklahoma, shall produce for examination all policies
+16 and other documents evidencing and relating to the insurance, and
+17 shall disclose the amount of the gross premiums paid or agreed to be
+18 paid for the insurance, through whom the insurance was procured, and
+19 such other information relative to the placing of the insurance as
+20 may reasonably be required by the Insurance Commissioner.
+21 SECTION 17 AMENDATORY 36 O.S. 2021, Section 6414, as
+22 amended by Section 2, Chapter 358, O.S.L. 2022 (36 O.S. Supp. 2025,
+23 Section 6414), is amended to read as follows:
+24
+Req. No. 16999 Page 26
+
+1 Section 6414. A. The Association created pursuant to the
+2 Market Assistance Association Act shall have the power on behalf of
+3 its members to:
+4 1. Require members to issue policies of insurance to
+5 applicants, subject to limitations specified in the plan of
+6 operation required by the Market Assistance Association Act;
+7 irregardless of the type of insurance coverage, the limits of
+8 liability for homeowners' liability insurance, shall be governed by
+9 the amounts specified in subsection A of Section 154 of Title 51 of
+10 the Oklahoma Statutes; and
+11 2. Call upon member insurers who have expertise or familiarity
+12 with a particular line of homeowners' liability insurance to assist
+13 in underwriting such insurance.
+14 B. The Board after consultation with the Association, the
+15 Insurance Commissioner and other affected entities, shall promulgate
+16 a plan of operation consistent with the provisions of this section,
+17 to become effective no later than ninety (90) days after the date of
+18 the inception of the Association.
+19 1. The plan of operation shall provide for economic, fair and
+20 nondiscriminatory administration and for prompt and efficient
+21 provision of insurance, and shall contain other provisions
+22 including, but not limited to, the following:
+23
+24
+Req. No. 16999 Page 27
+
+1 a. preliminary assessment of all members for initial
+2 expenses necessary to commence operations of the
+3 Association,
+4 b. establishment of necessary facilities,
+5 c. management of the Association,
+6 d. assessment of members, and assessment of policyholders
+7 if a market assistance association for professionals
+8 is declared, to defray losses and expenses,
+9 e. establishment of committees as may be necessary to
+10 facilitate the administration of the Association,
+11 f. procedures providing that an insured shall have proof
+12 that he or she has coverage that has been canceled or
+13 nonrenewed by his or her current carrier and has
+14 subsequently requested and been refused homeowners' or
+15 homeowners' liability coverage from two insurers
+16 licensed to do business in this state, or that his or
+17 her premium has been increased by seventy-five percent
+18 (75%) or more from the previous year, before
+19 requesting insurance coverage from the Association,
+20 g. appointment of members of the Association on a
+21 rotating basis to provide homeowners' and homeowners'
+22 liability insurance coverage based upon direct
+23 premiums for homeowners' and homeowners' liability
+24
+Req. No. 16999 Page 28
+
+1 insurance, written in the state in the preceding
+2 calendar year,
+3 h. procedures for determining amounts of insurance to be
+4 provided by members of the Association, and
+5 i. procedures for two or more member insurers to share an
+6 insured risk if coverage for that risk is beyond the
+7 ability for one insurer
+8 2. The plan of operation shall provide that any balance
+9 remaining in the funds of the Association at the close of its fiscal
+10 year shall be added to the reserves of the Association and may be
+11 used for expenses of the Association or any successor association.
+12 3. Amendments to the plan of operation may be made by the
+13 Board.
+14 C. All insurers who are members of the Association shall
+15 participate in the Association's writings, expenses, and losses in
+16 the proportion that the net direct premiums of each such member
+17 written during the preceding calendar year bears to the aggregate
+18 net direct premiums written in this state by all members of the
+19 Association. Each insurer's proportion of participation in the
+20 Association shall be determined annually on the basis of such net
+21 direct premiums written during the preceding calendar year, as
+22 reported in the annual statements and other reports filed by the
+23 insurer that may be required by the board of directors. No member
+24 shall be obligated in any one (1) year to write liability insurance
+Req. No. 16999 Page 29
+
+1 busi ness from the Association that would result in the member
+2 insurer writing more than ten percent (10%) of its total annual
+3 liability insurance, from all lines of liability insurance, from the
+4 Association. Likewise, no member shall be obligated in any one (1)
+5 year to write homeowners' insurance business from the Association
+6 that would result in the member insurer writing more than ten
+7 percent (10%) of its total annual homeowners' insurance, from the
+8 Association.
+9 D. An applicable insurer ceasing to be licensed or authorized
+10 to transact insurance business pursuant to the Insurance Code shall
+11 automatically cease to be a member of the Association effective at
+12 12:01 a.m. on the day following the termination or expiration of its
+13 certificate of authority and shall no longer be subject to the plan
+14 of operation or requirements of the Association; provided, however,
+15 such insurer shall remain liable for any annual assessments of the
+16 Association based on expenses incurred by the Association while such
+17 license or authority was in effect.
+18 SECTION 18. REPEALER 36 O.S. 2021, Section 1106.2, is
+19 hereby repealed.
+20 SECTION 19. This act shall become effective November 1, 2026.
+21
+22 60-2-16999 MJ 03/04/26
+23
+24
+Req. No. 16999 Page 30
