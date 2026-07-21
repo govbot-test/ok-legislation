@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Committee Amendment 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB1521 FULLAMD1 Cody Maynard-MJ
+4/8/2026 1:54:41 pm
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend SB1521
+Of the printed Bill
+Page 2 Section 1 Lines 22-2
+Of the Engrossed Bill
+by deleting subparagraph d and inserting in lieu thereof the following:
+"d. is primarily designed and marketed for commercial use by business
+entities, including for purposes related to customer service, a business's
+operation purposes, product information and discovery, managing existing
+services or goods purchased from the business, scheduling, billing and
+payment, productivity and analysis related to source information, internal
+research, or technical assistance,"
+On Page 3, Section 1, Line 18, by inserting after the words "not include"
+and before the words "an app store" the following language:
+", an internet service provider,"
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Cody Maynard
+Adopted: _____________________________
+______________________________________
+Reading Clerk

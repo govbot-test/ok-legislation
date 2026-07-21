@@ -1,0 +1,2286 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 2080 By: Alvord
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to government administration;
+7
+requiring entities that issue building permits to
+8
+provide weekly notification of issuances to the
+8
+county assessor; amending 62 O.S. 2021, Sections 854,
+9
+855, 856, 860, as amended by Section 1, Chapter 145,
+9
+O.S.L. 2023, and 862 (62 O.S. Supp. 2025, Section
+10
+860), which relate to the Local Development Act;
+10
+authorizing the county to administer fees for certain
+11
+costs; adding certain county assessors to certain
+11
+membership review committees in a nonvoting capacity;
+12
+prescribing requirements for district boundaries;
+12
+requiring certain governing bodies to submit fiscal
+13
+impact reports to the Oklahoma Department of
+13
+Commerce; requiring the Department to submit certain
+14
+report; requiring county assessor to be notified upon
+14
+approval of certain project plans; amending 68 O.S.
+15
+2021, Sections 2813, as amended by Section 238,
+15
+Chapter 282, O.S.L. 2022, 2817.3, 2882, and 2893 (68
+16
+O.S. Supp. 2025, Section 2813), which relate to the
+16
+Ad Valorem Tax Code; authorizing certain
+17
+notifications, applications, letters, and
+17
+transactional statements to be issued by electronic
+18
+mail; updating statutory language; providing for
+18
+codification; and providing an effective date.
+19
+19
+20
+20
+21
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+21
+22
+SECTION 1. NEW LAW A new section of law to be codified
+22
+23
+in the Oklahoma Statutes as Section 43-117 of Title 11, unless there
+23
+24
+is created a duplication in numbering, reads as follows:
+24
+Req. No. 3007 Page 1
+
+1
+The clerk of any municipality located within the boundaries of a
+1
+2
+county with a population of four hundred fifty thousand (450,000) or
+2
+3
+more according to the most recent Federal Decennial Census or any
+3
+4
+other designated employee or official authorized to issue building
+4
+5
+permits shall electronically submit on a weekly basis copies of
+5
+6
+building permits and certificates to the county assessor for the
+6
+7
+county in which the permit was issued.
+7
+8
+SECTION 2. AMENDATORY 62 O.S. 2021, Section 854, is
+8
+9
+amended to read as follows:
+9
+10
+Section 854. In addition to any other powers conferred by law,
+10
+11
+a city, town or county may exercise any powers necessary to carry
+11
+12
+out the purpose of this act, including power to:
+12
+13
+1. Establish districts and create plans pursuant to the
+13
+14
+provisions of this act;
+14
+15
+2. Cause project plans to be prepared, to approve the plans,
+15
+16
+and to implement the provisions and effectuate the purposes of the
+16
+17
+plans;
+17
+18
+3. Cause bonds to be issued by public entities as provided for
+18
+19
+in Section 863 of this title;
+19
+20
+4. Apportion local taxes or local fees and direct the use of
+20
+21
+local taxes and local fees for the purpose provided for in this act.
+21
+22
+Pursuant to Section 6C of Article X of the Constitution of the State
+22
+23
+of Oklahoma, a direction of apportionment may be prospective and may
+23
+24
+continue for one (1) or more years, and apportioned tax increments
+24
+Req. No. 3007 Page 2
+
+1
+may be pledged beyond the current fiscal year to the repayment of
+1
+2
+indebtedness of other public entities, notwithstanding the
+2
+3
+provisions of Section 26 of Article X of the Constitution of the
+3
+4
+State of Oklahoma or any other provisions of law;
+4
+5
+5. Enter into any contracts or agreements determined by the
+5
+6
+governing body to be necessary or convenient to implement the
+6
+7
+provisions and effectuate the purposes of project plans;
+7
+8
+6. Receive, from the federal government or the state, loans and
+8
+9
+grants for, or in aid of a project and to receive contributions from
+9
+10
+any other source to defray project costs;
+10
+11
+7. Grant tax incentives or exemptions in the manner provided
+11
+12
+for in this act;
+12
+13
+8. Acquire by purchase, donation or lease, and own, convey,
+13
+14
+lease, mortgage, or dispose of land and other property, real or
+14
+15
+personal, or rights or interests therein;
+15
+16
+9. Clear and improve property acquired by it pursuant to the
+16
+17
+project plan and construct public facilities on it or contract for
+17
+18
+the construction, development, redevelopment, rehabilitation,
+18
+19
+remodeling, alteration, or repair of the property;
+19
+20
+10. Cause parks, playgrounds, or schools, including capital
+20
+21
+improvements to public schools, or water, sewer, or drainage
+21
+22
+facilities or any other public improvements which it is otherwise
+22
+23
+authorized to undertake, to be laid out, constructed, or furnished
+23
+24
+in connection with the project;
+24
+Req. No. 3007 Page 3
+
+1
+11. Lay out and construct, alter, relocate, change the grade
+1
+2
+of, make specific repairs upon, or discontinue public ways and
+2
+3
+construct sidewalks in, or adjacent to, the project area;
+3
+4
+12. Cause sidewalks, ways for vehicular travel, playgrounds, or
+4
+5
+water, sewer, or drainage facilities and similar improvements to be
+5
+6
+constructed within the project area for the particular benefit of
+6
+7
+the project area or those dwelling or working in it;
+7
+8
+13. Adopt ordinances or resolutions or repeal or modify such
+8
+9
+ordinances or resolutions or establish exceptions to existing
+9
+10
+ordinances and resolutions regulating the design, construction, and
+10
+11
+use of buildings;
+11
+12
+14. Sell, mortgage, lease, transfer, or dispose of any
+12
+13
+property, or interest therein, acquired by it pursuant to the
+13
+14
+project plan for development, redevelopment, or rehabilitation in
+14
+15
+accordance with the plan, upon such terms and conditions determined
+15
+16
+by the governing body to be appropriate for achieving the objectives
+16
+17
+of the project plan; provided, in the event of disposition by lease
+17
+18
+or sublease to a lessee not entitled to a tax exemption, the
+18
+19
+improvements placed thereon shall not be entitled to a tax
+19
+20
+exemption;
+20
+21
+15. Incur project costs;
+21
+22
+16. Designate a public entity to exercise the powers enumerated
+22
+23
+in this section, except paragraphs 1, 4 and 7 of this section;
+23
+24
+17. Invest project revenues as provided in this act;
+24
+Req. No. 3007 Page 4
+
+1
+18. Administer fees for the county assessor for the
+1
+2
+administration of project plans from entities within incentive and
+2
+3
+increment districts to cover costs; and
+3
+4
+18. 19. Do all things necessary or convenient to carry out the
+4
+5
+powers granted in this act and otherwise authorized by the laws of
+5
+6
+this state.
+6
+7
+SECTION 3. AMENDATORY 62 O.S. 2021, Section 855, is
+7
+8
+amended to read as follows:
+8
+9
+Section 855. A. Prior to the adoption and approval of a
+9
+10
+project plan and the ordinance or resolution required under Section
+10
+11
+856 of this title and prior to the public hearing required under
+11
+12
+Section 859 of this title, the governing body shall appoint a review
+12
+13
+committee to review and make a recommendation concerning the
+13
+14
+proposed district, plan or project. The membership of the review
+14
+15
+committee shall consist of the following: a representative of the
+15
+16
+governing body who shall serve as chairperson;, a representative of
+16
+17
+the planning commission having jurisdiction over the proposed
+17
+18
+district;, a representative designated by each taxing jurisdiction
+18
+19
+within the proposed district whose ad valorem taxes might be
+19
+20
+impacted according to the plan;, the county assessor, or his or her
+20
+21
+appointee, of any county within the proposed district to serve as a
+21
+22
+non-voting member, and three members representing the public at
+22
+23
+large and selected by the other committee members from a list of
+23
+24
+seven names submitted by the chairperson of the review committee;
+24
+Req. No. 3007 Page 5
+
+1
+provided, at least one of the members representing the public at
+1
+2
+large shall be a representative of the business community in the
+2
+3
+city, town, or county considering the proposed plan and project, and
+3
+4
+if a proposed plan objective is development of principally
+4
+5
+commercial retail, such representative shall be either a retailer or
+5
+6
+a representative of a retail organization.
+6
+7
+B. The review committee shall consider and make its findings
+7
+8
+and recommendations to the governing body with respect to the
+8
+9
+conditions establishing the eligibility of the proposed district.
+9
+10
+The review committee recommendations shall include the analysis used
+10
+11
+to project revenues over the life of the project plan, the effect on
+11
+12
+the taxing entities and the appropriateness of the approval of the
+12
+13
+proposed plan and project. The review committee may recommend that
+13
+14
+the project plan be approved, denied or approved subject to
+14
+15
+conditions set forth by the committee.
+15
+16
+C. Prior to approval by the governing body, the review
+16
+17
+committee shall consider and determine whether the proposed plan and
+17
+18
+project will have a financial impact on any taxing jurisdiction and
+18
+19
+business activities within the proposed district and shall report
+19
+20
+its findings to the governing body. Such considerations shall be
+20
+21
+concurrent with or subsequent to the review and consideration of the
+21
+22
+committee provided for in subsection B of this section. The
+22
+23
+approval of any district plan or project by the governing body shall
+23
+24
+address any findings of such impact by the review committee.
+24
+Req. No. 3007 Page 6
+
+1
+D. In the event of any changes in the area to be included in
+1
+2
+the proposed district or any substantial changes in the proposed
+2
+3
+plan and project or for any other reason deemed appropriate by the
+3
+4
+governing body, the review committee shall consider and may modify
+4
+5
+its findings and recommendations made pursuant to the provisions of
+5
+6
+subsection B of this section.
+6
+7
+E. Approval of the proposed district or the proposed plan or
+7
+8
+project by the governing body which is in accord with the
+8
+9
+recommendation of the review committee shall be by a majority vote
+9
+10
+of the governing body. Such approval which is not in accord with
+10
+11
+the recommendations and/or conditions set forth by the review
+11
+12
+committee shall be by a two-thirds (2/3) majority vote.
+12
+13
+F. Meetings of the review committee shall be subject to the
+13
+14
+Oklahoma Open Meeting Act. Any information relating to the
+14
+15
+marketing plans, financial statements, trade secrets or any other
+15
+16
+proprietary information submitted to the review committee by a
+16
+17
+person or entity seeking adoption and approval of a proposed
+17
+18
+district, plan or project shall be confidential, except to the
+18
+19
+extent that the person or entity which provided the information
+19
+20
+consents to disclosure. Executive sessions may be held to discuss
+20
+21
+such information if deemed necessary by the review committee.
+21
+22
+SECTION 4. AMENDATORY 62 O.S. 2021, Section 856, is
+22
+23
+amended to read as follows:
+23
+24
+24
+Req. No. 3007 Page 7
+
+1
+Section 856. A. The governing body shall designate and adopt
+1
+2
+the proposed boundaries of any district and the proposed boundaries
+2
+3
+of any project area. Except as otherwise provided in this
+3
+4
+subsection, any districts created by a city or town shall be
+4
+5
+confined to that territory within the corporate limits of such city
+5
+6
+or town and any districts created by a county shall be confined to
+6
+7
+that territory within the unincorporated areas of the county. Any
+7
+8
+city, town or county may by agreement jointly create a district with
+8
+9
+another entity. District boundaries shall be defined by legal
+9
+10
+descriptions. The governing body shall be prohibited from adopting
+10
+11
+proposed boundaries that divide individual properties.
+11
+12
+B. Upon the adoption and approval of the project plan, the
+12
+13
+governing body shall adopt an ordinance or resolution, whichever is
+13
+14
+applicable, which:
+14
+15
+1. Describes the boundaries of districts and project areas
+15
+16
+sufficiently definite to identify with ordinary and reasonable
+16
+17
+certainty the territory included in them;
+17
+18
+2. Creates the district as of a date provided in it or defers
+18
+19
+determination of such date, provided such date must be no more than
+19
+20
+ten (10) years after the date of approval of the project plan;
+20
+21
+3. Assigns a name to the district for identification purposes.
+21
+22
+The first district created shall be known as either an Incentive
+22
+23
+District or Increment District Number One, City, Town or County of
+23
+24
+__________, whichever is applicable. Each subsequently created
+24
+Req. No. 3007 Page 8
+
+1
+district shall be appropriately named and shall be assigned the next
+1
+2
+consecutive number; and
+2
+3
+4. Contains findings that:
+3
+4
+a. the project area or district meets at least one of the
+4
+5
+following criteria:
+5
+6
+(1) is a reinvestment area,
+6
+7
+(2) is a historic preservation area,
+7
+8
+(3) is an enterprise area, or
+8
+9
+(4) is a combination of the areas specified in
+9
+10
+divisions (1), (2) and (3) of this subparagraph,
+10
+11
+b. the improvement of the area is likely to enhance the
+11
+12
+value of other real property in the area and to
+12
+13
+promote the general public interest. It shall not be
+13
+14
+necessary to identify the specific parcels meeting the
+14
+15
+criteria,
+15
+16
+c. the guidelines specified in paragraphs 1 and 2 of
+16
+17
+Section 852 of this title shall be followed,
+17
+18
+d. the aggregate net assessed value of the taxable
+18
+19
+property in all districts as determined pursuant to
+19
+20
+Section 862 of this title within the city or town
+20
+21
+shall not exceed twenty-five percent (25%) of the
+21
+22
+total net assessed value of taxable property within
+22
+23
+the city or town for cities or towns having a
+23
+24
+population of fifty thousand (50,000) or more or shall
+24
+Req. No. 3007 Page 9
+
+1
+not exceed thirty-five percent (35%) of the total net
+1
+2
+assessed value of taxable property within the city or
+2
+3
+town for cities or towns having a population of less
+3
+4
+than fifty thousand (50,000),
+4
+5
+e. for projects approved by a county, the aggregate net
+5
+6
+assessed value of the taxable property in all
+6
+7
+districts as determined pursuant to Section 862 of
+7
+8
+this title within the county shall not exceed fifteen
+8
+9
+percent (15%) of the total net assessed value of the
+9
+10
+taxable property within the county,
+10
+11
+f. the aggregate net assessed value of the taxable
+11
+12
+property in all districts as determined pursuant to
+12
+13
+Section 862 of this title within the city, the town or
+13
+14
+the county shall not exceed twenty-five percent (25%)
+14
+15
+of the total net assessed value of any affected school
+15
+16
+district located within the city, town or county, and
+16
+17
+g. the land area of this district and all other districts
+17
+18
+within the city, the town or the county shall not
+18
+19
+exceed twenty-five percent (25%) of the total land
+19
+20
+area of the city, the town or the county.
+20
+21
+For districts that are wholly or partially comprised or become
+21
+22
+comprised of industries operating under NAICS code 518210, the
+22
+23
+provisions of subparagraphs d through g of this paragraph shall not
+23
+24
+apply.
+24
+Req. No. 3007 Page 10
+
+1
+C. It is the intention of the Legislature in adopting the Local
+1
+2
+Development Act that no long-term contractual obligation be created
+2
+3
+by the mere adoption of an ordinance or resolution establishing an
+3
+4
+increment district. Notwithstanding any provision contained in an
+4
+5
+ordinance, resolution or project plan, an ordinance or resolution
+5
+6
+establishing an increment district shall constitute a legislative
+6
+7
+act and may be repealed, modified or amended at any time during the
+7
+8
+term of the increment district, by subsequent action of the
+8
+9
+governing body except as otherwise authorized pursuant to Sections
+9
+10
+854 and 863 of this title; provided, however, that no such ordinance
+10
+11
+shall be repealed, modified or amended during the time that any
+11
+12
+bonds payable from incremental revenues are outstanding without the
+12
+13
+consent of the bondholders, if such bonds are issued pursuant to the
+13
+14
+provisions of Article X, Section 35 of the Oklahoma Constitution
+14
+15
+following its amendment by State Question No. 693.
+15
+16
+D. However, nothing in the Local Development Act shall restrict
+16
+17
+the ability of:
+17
+18
+1. Any city, town or county to:
+18
+19
+a. issue debt in accordance with the applicable
+19
+20
+provisions of Article X of the Oklahoma Constitution,
+20
+21
+and any statutes enacted in connection therewith, and
+21
+22
+b. use incremental revenues derived from an increment
+22
+23
+district to pay principal, interest or premium
+23
+24
+associated with such indebtedness; or
+24
+Req. No. 3007 Page 11
+
+1
+2. Any public entity, other than a city, town or county, to:
+1
+2
+a. issue tax apportionment bonds or notes in accordance
+2
+3
+with Section 863 of this title or to issue other types
+3
+4
+of revenue bonds or notes in accordance with other
+4
+5
+applicable provisions of Oklahoma law, and
+5
+6
+b. use incremental revenues derived from an increment
+6
+7
+district to pay principal, interest or premium
+7
+8
+associated with such indebtedness.
+8
+9
+SECTION 5. AMENDATORY 62 O.S. 2021, Section 860, as
+9
+10
+amended by Section 1, Chapter 145, O.S.L. 2023 (62 O.S. Supp. 2025,
+10
+11
+Section 860), is amended to read as follows:
+11
+12
+Section 860. A. A project plan may contain a provision that
+12
+13
+certain local taxes may be subject to incentives or may be exempted
+13
+14
+in reinvestment areas, historic preservation areas, or enterprise
+14
+15
+areas.
+15
+16
+B. The governing body may grant incentives or exemptions from
+16
+17
+local taxation only on the new investment made. No ad valorem tax
+17
+18
+incentives or exemptions may be granted on the value of property
+18
+19
+which has been assessed or which is subject to assessment prior to
+19
+20
+the adoption of the project plan. No ad valorem tax incentives or
+20
+21
+exemptions authorized in this section may be granted for retail
+21
+22
+establishments. If a retail establishment is located in property
+22
+23
+which otherwise qualifies for an incentive or exemption pursuant to
+23
+24
+this section, the incentive or exemption shall not be allowed for
+24
+Req. No. 3007 Page 12
+
+1
+that portion of the property used for such retail establishment. As
+1
+2
+used in this subsection, “retail establishment” shall not include an
+2
+3
+establishment that provides lodging including, but not limited to, a
+3
+4
+hotel, apartment hotel, public rooming house, or motel. No ad
+4
+5
+valorem tax incentives or exemptions authorized in this section may
+5
+6
+be granted if the property is located in an increment district or as
+6
+7
+long as the property is subject to the ad valorem tax exemption for
+7
+8
+new or expanding manufacturing facilities as authorized by Section
+8
+9
+6B of Article X of the Oklahoma Constitution. In the event of
+9
+10
+disposition by lease or sublease to a lessee not entitled to an ad
+10
+11
+valorem tax exemption, the improvements placed thereon shall not be
+11
+12
+entitled to an ad valorem tax exemption provided for in Section 850
+12
+13
+et seq. of this title. Except as otherwise provided by this
+13
+14
+subsection, the incentives, or exemptions, which may be full or
+14
+15
+partial, may be granted for a period not to exceed five (5) years.
+15
+16
+With respect to an establishment, the business of which is described
+16
+17
+by U.S. Industry Number 518210 of the North American Industry
+17
+18
+Classification System (NAICS) Manual, 2017 revision, such incentives
+18
+19
+or exemptions may be granted for a period not to exceed twenty-five
+19
+20
+(25) years.
+20
+21
+C. No incentives or exemptions may be granted to any business
+21
+22
+or firm that is relocating from within the state and is subject to
+22
+23
+or in the process of recruitment by two or more governmental
+23
+24
+entities within the state unless the governmental entity in which
+24
+Req. No. 3007 Page 13
+
+1
+the business or firm does not locate adopts a resolution giving
+1
+2
+their its approval to the granting of incentives or exemptions to
+2
+3
+the business or firm locating in the competing governmental entity.
+3
+4
+No incentives or exemptions may be granted to an out-of-state
+4
+5
+business or firm that is subject to or in the process of recruitment
+5
+6
+by two or more governmental entities within the state except as
+6
+7
+otherwise provided for in this subsection. The prohibition against
+7
+8
+incentives or exemptions to a business or firm relocating within the
+8
+9
+state may be waived upon application by the governing body to, and
+9
+10
+approval of, the Director Chief Executive Officer of the Oklahoma
+10
+11
+Department of Commerce. In order for the Director Chief Executive
+11
+12
+Officer to approve the waiver, the Director Chief Executive Officer
+12
+13
+must find that the incentives or exemptions are necessary and
+13
+14
+sufficient to attract the business or firm and that the benefits
+14
+15
+generated by the business location outweigh the costs of the
+15
+16
+business location.
+16
+17
+D. A project plan may contain a provision that ad valorem taxes
+17
+18
+may be exempted in a commercial historic preservation area that is
+18
+19
+adjacent to and serves designated historical residential areas for
+19
+20
+neighborhood commercial preservation purposes in order for the
+20
+21
+neighborhood to retain its basic character and scale. No ad valorem
+21
+22
+tax exemption may be granted on the value of property which has been
+22
+23
+assessed or which is subject to assessment prior to the adoption of
+23
+24
+the project plan. No ad valorem tax exemption shall be granted
+24
+Req. No. 3007 Page 14
+
+1
+pursuant to the provisions of this subsection for single-family
+1
+2
+residences. The governing body may grant the exemption only on the
+2
+3
+increase in value of the property. The exemptions may be granted
+3
+4
+for a specific period of time as determined by a written agreement
+4
+5
+between the property owners of the area and the governing body and
+5
+6
+may be renewed. Uses of the property eligible for this exemption
+6
+7
+may include, but not be limited to, commercial, office, or
+7
+8
+multifamily residential use.
+8
+9
+E. For increment districts in operation for nine (9) months or
+9
+10
+more, on or before the ninetieth day following the end of each
+10
+11
+fiscal year, the governing body of a city, town, or county shall
+11
+12
+submit a report to the Oklahoma Department of Commerce. The
+12
+13
+Department shall provide a copy of the report to any member of the
+13
+14
+public upon request. The disclosure report shall include the
+14
+15
+following information:
+15
+16
+1. The amount and source of revenue captured and apportioned
+16
+17
+pursuant to the project plan;
+17
+18
+2. The amount and purpose of expenditures;
+18
+19
+3. The amount of principal and interest due on outstanding
+19
+20
+bonded indebtedness;
+20
+21
+4. The tax increment base and current captured appraised value
+21
+22
+or the other local tax or fee collections retained by the area;
+22
+23
+5. The captured appraised value or the other local tax or fee
+23
+24
+collections shared by the city, town, or county and other taxing
+24
+Req. No. 3007 Page 15
+
+1
+entities, the total amount of tax increments received, and any
+1
+2
+additional information necessary to demonstrate compliance with the
+2
+3
+plan adopted by the city, town, or county;
+3
+4
+6. The name of the person who is currently in charge of the
+4
+5
+implementation of the plan; and
+5
+6
+7. The names of the persons who have disclosed an interest as
+6
+7
+required pursuant to Section 857 of this title and the interest
+7
+8
+disclosed.
+8
+9
+F. For those incentive districts in operation for nine (9)
+9
+10
+months or more, on or before the ninetieth day following the end of
+10
+11
+each fiscal year, the governing body of a city, town, or county
+11
+12
+shall submit a report to the Oklahoma Department of Commerce. The
+12
+13
+Department shall provide a copy of the report to any member of the
+13
+14
+public upon request. The disclosure report shall include the
+14
+15
+following information:
+15
+16
+1. The parties receiving incentives or exemptions;
+16
+17
+2. A general description of the property and the improvements
+17
+18
+to be made;
+18
+19
+3. The portion and fair market value of the property to be
+19
+20
+exempted or that portion of the local taxes to be subject to
+20
+21
+incentives or to be exempted;
+21
+22
+4. The duration of the incentives or exemptions;
+22
+23
+5. Any additional information necessary to demonstrate
+23
+24
+compliance with the tax incentives or exemptions;
+24
+Req. No. 3007 Page 16
+
+1
+6. The name of the person who is currently in charge of the
+1
+2
+implementation of the plan; and
+2
+3
+7. The names of the persons who have disclosed an interest as
+3
+4
+required pursuant to Section 857 of this title and the interest
+4
+5
+disclosed.
+5
+6
+G. The governing body granting any exemption or incentive
+6
+7
+pursuant to the provisions of this section shall annually submit a
+7
+8
+fiscal impact report electronically to the Oklahoma Department of
+8
+9
+Commerce. The Department shall annually submit a report
+9
+10
+electronically containing such fiscal impacts to the Governor, the
+10
+11
+President Pro Tempore of the Senate, and the Speaker of the House of
+11
+12
+Representatives.
+12
+13
+SECTION 6. AMENDATORY 62 O.S. 2021, Section 862, is
+13
+14
+amended to read as follows:
+14
+15
+Section 862. A. Upon approval of a project plan containing
+15
+16
+apportionment financing as provided in Section 861 of this title,
+16
+17
+the county assessor shall be notified and, within ninety (90) days,
+17
+18
+determine the total assessed value of all taxable real property and
+18
+19
+all taxable personal property within the boundaries of an increment
+19
+20
+district which shall be certified by the assessor as the “base
+20
+21
+assessed value”.
+21
+22
+B. Any school district located within the boundaries of an
+22
+23
+increment district may file a protest with the governing body of the
+23
+24
+city, town or county as to the amount certified by the county
+24
+Req. No. 3007 Page 17
+
+1
+assessor as the “base assessed value” of the increment district.
+1
+2
+Such protest shall be filed within thirty (30) days after the “base
+2
+3
+assessed value” is certified by the county assessor. The governing
+3
+4
+body of the city, town or county shall notify the county assessor of
+4
+5
+the protest. Within thirty days after being notified of the
+5
+6
+protest, the county assessor shall redetermine the total assessed
+6
+7
+value of all taxable real property and all taxable personal property
+7
+8
+within the boundaries of the increment district and shall certify to
+8
+9
+the governing body of the city, town or county the redetermined
+9
+10
+amount as the “base assessed value” of that district.
+10
+11
+C. After the county assessor has certified the “base assessed
+11
+12
+value” of the taxable real property and the taxable personal
+12
+13
+property in such increment district, then in respect to every taxing
+13
+14
+jurisdiction receiving taxes levied in the increment district, the
+14
+15
+county assessor or any other official required by law to ascertain
+15
+16
+the amount of the equalized assessed value of all taxable property
+16
+17
+within such increment district for the purpose of computing the tax
+17
+18
+levy to be extended upon taxable property within such increment
+18
+19
+district, for the purpose of calculating the general state school
+19
+20
+aid formula, or for the purpose of computing any debt limitation,
+20
+21
+shall in every year that the tax apportionment is in effect
+21
+22
+ascertain the amount of value of taxable property in such increment
+22
+23
+district by including in such amount the certified “base assessed
+23
+24
+value” of all taxable real property and all taxable personal
+24
+Req. No. 3007 Page 18
+
+1
+property in such increment district in lieu of the equalized
+1
+2
+assessed value of all taxable real property and all taxable personal
+2
+3
+property in such increment district. The tax levy determined shall
+3
+4
+be extended to the current equalized assessed value of all property
+4
+5
+in the increment district in the same manner as the tax levy is
+5
+6
+extended to all other taxable property in the increment district.
+6
+7
+The method of extending taxes established under the provisions of
+7
+8
+this section shall terminate when the governing body adopts an
+8
+9
+ordinance or resolution dissolving the tax apportionment financing.
+9
+10
+The provisions of this act shall not be construed as relieving
+10
+11
+property owners within an increment district from paying a uniform
+11
+12
+rate of taxes upon the current equalized assessed value of their
+12
+13
+taxable property as required by Section 5 of Article X of the
+13
+14
+Oklahoma Constitution.
+14
+15
+SECTION 7. AMENDATORY 68 O.S. 2021, Section 2813, as
+15
+16
+amended by Section 238, Chapter 282, O.S.L. 2022 (68 O.S. Supp.
+16
+17
+2025, Section 2813), is amended to read as follows:
+17
+18
+Section 2813. A. On the first day of January of each year, the
+18
+19
+county assessor of the county in which a manufactured home is
+19
+20
+located shall list, assess and tax such manufactured home as
+20
+21
+required by the provisions of Section 2812 of this title and the Ad
+21
+22
+Valorem Tax Code.
+22
+23
+B. In addition to the other requirements prescribed by law for
+23
+24
+the listing and assessing of real property pursuant to the
+24
+Req. No. 3007 Page 19
+
+1
+provisions of the Ad Valorem Tax Code, when listing the value of
+1
+2
+real property on which a manufactured home is located and owned by
+2
+3
+the person owning the manufactured home and when listing the value
+3
+4
+of the improvements thereon, the county assessor shall separately
+4
+5
+describe and identify the value of the manufactured home apart from
+5
+6
+other real property and the value of the other improvements thereon.
+6
+7
+The value of the real property, the manufactured home, and the other
+7
+8
+improvements shall be shown separately.
+8
+9
+C. Except as authorized by subsection E of this section, when a
+9
+10
+manufactured home is moved, or whenever title to a manufactured home
+10
+11
+is transferred, any county treasurer shall collect all ad valorem
+11
+12
+taxes due for the current calendar year and all delinquent taxes due
+12
+13
+and owing prior to the change of title or location and shall issue a
+13
+14
+receipt of taxes paid, which shall be a Form 936, and a tax payment
+14
+15
+decal. These transactions may be handled by mail, electronic mail,
+15
+16
+or facsimile transmission at the option of the taxpayer, except for
+16
+17
+tax payments which shall be handled either by mail or in person.
+17
+18
+D. After issuance of a receipt of taxes paid and a decal
+18
+19
+pursuant to the provisions of subsection C of this section and after
+19
+20
+notification by the county treasurer of such payment, the county
+20
+21
+assessor of the county in which the manufactured home is located
+21
+22
+shall furnish to the county assessor of the county where the
+22
+23
+manufactured home is to be located, the following information:
+23
+24
+1. The name of the owner of the manufactured home;
+24
+Req. No. 3007 Page 20
+
+1
+2. The serial number or identification number of the
+1
+2
+manufactured home;
+2
+3
+3. The registration number given to the manufactured home by
+3
+4
+Service Oklahoma;
+4
+5
+4. The address or legal description where the manufactured home
+5
+6
+is to be located;
+6
+7
+5. The actual retail selling price of the manufactured home,
+7
+8
+excluding Oklahoma state taxes; and
+8
+9
+6. Any other information necessary to enable the county
+9
+10
+assessor to list and assess the proper ad valorem taxes for the
+10
+11
+manufactured home for the following year.
+11
+12
+E. 1. When lawfully repossessing a manufactured home which has
+12
+13
+been listed and assessed as real property pursuant to the provisions
+13
+14
+of subsection A of Section 2812 of this title, a holder of a
+14
+15
+perfected security interest in the home is authorized to pay the ad
+15
+16
+valorem taxes for the full current year and any registration fees or
+16
+17
+ad valorem taxes which may be due for any prior year on the
+17
+18
+manufactured home based on the assessed value of the home pursuant
+18
+19
+to the provisions of subsection B of this section apart from other
+19
+20
+real property and the other improvements thereon. When lawfully
+20
+21
+repossessing a manufactured home which has been listed and assessed
+21
+22
+as personal property pursuant to the provisions of subsection B of
+22
+23
+Section 2812 of this title, a holder of a perfected security
+23
+24
+interest in the home is authorized to pay the ad valorem taxes for
+24
+Req. No. 3007 Page 21
+
+1
+the full current year and any registration fees or ad valorem taxes
+1
+2
+which may be due for any prior years. The county treasurer shall
+2
+3
+issue a receipt of taxes paid to said holder and a decal showing the
+3
+4
+payment of such taxes. Such receipt shall be issued notwithstanding
+4
+5
+the existence of a tax sale certificate issued as a result of a tax
+5
+6
+sale to a purchaser of property upon which a manufactured home is
+6
+7
+located and for which the holder of a perfected security interest
+7
+8
+makes payment as authorized by this subsection. Such receipt shall
+8
+9
+be issued if the procedures prescribed by Section 3106 of this title
+9
+10
+are followed. If a tax sale certificate has been issued as required
+10
+11
+by law and the notice of sale contained the statement concerning the
+11
+12
+right of a secured party to repossess the manufactured home, the
+12
+13
+amount of taxes paid by the holder of the security interest shall be
+13
+14
+refunded to the holder of the tax sale certificate. The receipt
+14
+15
+shall be evidence of payment of the ad valorem taxes for purposes of
+15
+16
+obtaining a permit. Service Oklahoma shall issue a permit
+16
+17
+immediately to the holder of a perfected security interest or
+17
+18
+licensed representative thereof, if the holder or representative is
+18
+19
+bonded by the state, to move the manufactured home to a secure
+19
+20
+location with a repossession affidavit. However, all excise taxes
+20
+21
+and ad valorem taxes due on such a manufactured home shall be
+21
+22
+required to be paid within thirty (30) days of the issuance of the
+22
+23
+permit. A certificate of title for a manufactured home shall not be
+23
+24
+issued pursuant to a repossession prior to the furnishing of proof
+24
+Req. No. 3007 Page 22
+
+1
+satisfactory to Service Oklahoma or the licensed operator that all
+1
+2
+ad valorem taxes due have been paid. If the home is subject to
+2
+3
+registration pursuant to the provisions of the Oklahoma Vehicle
+3
+4
+License and Registration Act, the holder of a perfected security
+4
+5
+interest in a manufactured home may repossess the manufactured home
+5
+6
+and transport the manufactured home within the state for the purpose
+6
+7
+of securing the property after registering the manufactured home
+7
+8
+pursuant to the provisions of Section 1113 or 1117 of Title 47 of
+8
+9
+the Oklahoma Statutes.
+9
+10
+2. The county assessor shall issue a special waiver and a
+10
+11
+commercial move affidavit for the second through the sixth day of
+11
+12
+the first month of the following year to allow a manufactured home
+12
+13
+which is used for commercial purposes to be moved during the first
+13
+14
+five (5) days in January without a Form 936 or a tax decal. All
+14
+15
+registration fees, excise taxes or ad valorem taxes due on the
+15
+16
+manufactured home shall be required to be paid within thirty (30)
+16
+17
+days of the issuance of the special waiver and commercial move
+17
+18
+affidavit. A business entity applying for a special waiver and a
+18
+19
+commercial move affidavit pursuant to this paragraph shall provide
+19
+20
+the county assessor with the information required by subsection B of
+20
+21
+Section 14-103D of Title 47 of the Oklahoma Statutes. No individual
+21
+22
+county assessor shall issue any business entity more than ten
+22
+23
+special waivers and commercial move affidavits in a calendar year.
+23
+24
+As used in this paragraph, “manufactured home used for commercial
+24
+Req. No. 3007 Page 23
+
+1
+purposes” means a manufactured home owned by any lawfully recognized
+1
+2
+business entity the primary purpose of which is to provide temporary
+2
+3
+housing for the employees or contractors of such business entity.
+3
+4
+F. 1. The decal shall be affixed to the manufactured home
+4
+5
+license plate as evidence of the ad valorem tax paid and shall
+5
+6
+remain on the license plate, which shall be affixed to the exterior
+6
+7
+of the manufactured home, while the manufactured home is in transit.
+7
+8
+2. It shall be a misdemeanor for any person to transport or
+8
+9
+cause to be transported a manufactured home without the decal
+9
+10
+affixed as required by this section or without a special waiver and
+10
+11
+affidavit as provided in subsection E of this section.
+11
+12
+3. The decal issued pursuant to subsection C of this section
+12
+13
+shall be of such size, color, design and numbering as Service
+13
+14
+Oklahoma may direct. The tax payment decals shall be made with
+14
+15
+reflectionized material so as to provide effective and dependable
+15
+16
+brighteners during the service period for which the tax payment
+16
+17
+decal is issued. Service Oklahoma shall issue such tax payment
+17
+18
+decals to the various county treasurers of the state in order for a
+18
+19
+manufactured home owner or repossessor to move the manufactured
+19
+20
+home.
+20
+21
+SECTION 8. AMENDATORY 68 O.S. 2021, Section 2817.3, is
+21
+22
+amended to read as follows:
+22
+23
+Section 2817.3. A. As used in subsection E of Section 2817 of
+23
+24
+this title, “facility, device or method for the desulphurization of
+24
+Req. No. 3007 Page 24
+
+1
+gasoline or diesel fuel” means any structure, building,
+1
+2
+installation, excavation, machinery, equipment or device and any
+2
+3
+attachment or addition to or reconstruction, replacement or
+3
+4
+improvement of that property, that is used, constructed, acquired or
+4
+5
+installed on or after January 1, 2003, wholly or partly to meet or
+5
+6
+exceed rules adopted by the Oklahoma Environmental Quality Board, or
+6
+7
+by the United States Environmental Protection Agency with respect to
+7
+8
+any program which has been delegated to the Department of
+8
+9
+Environmental Quality for the prevention, monitoring, control or
+9
+10
+reduction of the amount of sulfur in gasoline or diesel fuel. This
+10
+11
+definition shall not apply to a motor vehicle.
+11
+12
+B. In applying for an exclusion of property under the
+12
+13
+provisions of subsection E of Section 2817 of this title, a person
+13
+14
+seeking the exclusion shall present in a request to the Executive
+14
+15
+Director of the Department of Environmental Quality information
+15
+16
+detailing:
+16
+17
+1. The anticipated environmental benefits from the installation
+17
+18
+of the facility, device or method for the desulphurization of
+18
+19
+gasoline or diesel fuel;
+19
+20
+2. The estimated cost of the facility, device or method; and
+20
+21
+3. The purpose of the installation of such facility, device or
+21
+22
+method and the proportion of the installation that is such a
+22
+23
+facility, device or method.
+23
+24
+24
+Req. No. 3007 Page 25
+
+1
+C. Following submission of the information required by
+1
+2
+subsection B of this section, the Executive Director of the
+2
+3
+Department of Environmental Quality shall determine if the facility,
+3
+4
+device or method is used wholly as a facility, device or method for
+4
+5
+the desulphurization of gasoline or diesel fuel. As soon as
+5
+6
+practicable, the Executive Director shall send notice by regular
+6
+7
+mail or electronic mail to the Director of the Ad Valorem Division
+7
+8
+of the Oklahoma Tax Commission that the person has applied for a
+8
+9
+determination under this section. If the Executive Director
+9
+10
+determines that the facility, device or method is used wholly for
+10
+11
+the desulphurization of gasoline or diesel fuel, the Executive
+11
+12
+Director shall issue a letter by mail or electronic mail to the
+12
+13
+person stating that determination and the proportion of the
+13
+14
+installation that is a facility, device or method for the
+14
+15
+desulphurization of gasoline or diesel fuel.
+15
+16
+D. The Department of Environmental Quality may charge a person
+16
+17
+seeking a determination under the provisions of this section an
+17
+18
+additional fee not to exceed its administrative costs for processing
+18
+19
+the information, making the determination and issuing the letter
+19
+20
+required by this section. The Environmental Quality Board may adopt
+20
+21
+rules to implement this section.
+21
+22
+E. A person seeking an exclusion under this section shall
+22
+23
+provide to the county assessor or the Director of the Ad Valorem
+23
+24
+Division of the Oklahoma Tax Commission a copy of the letter by mail
+24
+Req. No. 3007 Page 26
+
+1
+or electronic mail issued by the Executive Director of the
+1
+2
+Department of Environmental Quality under subsection C of this
+2
+3
+section. The county assessor or the Director of the Ad Valorem
+3
+4
+Division of the Tax Commission shall accept the copy of the letter
+4
+5
+by mail or electronic mail from the Executive Director as conclusive
+5
+6
+evidence that the facility, device or method is used wholly for the
+6
+7
+desulphurization of gasoline or diesel fuel. The county assessor or
+7
+8
+the Director of the Ad Valorem Division of the Tax Commission shall
+8
+9
+further determine if the property for which the exclusion is sought
+9
+10
+is qualified as provided in subsection E of Section 2817 of this
+10
+11
+title.
+11
+12
+F. The exclusion provided by this section, once allowed, need
+12
+13
+not be applied for subsequent years, and the exclusion applies to
+13
+14
+the property until it changes ownership or the qualification of the
+14
+15
+property for the exclusion changes. However, the county assessor or
+15
+16
+the Director of the Ad Valorem Division of the Tax Commission may
+16
+17
+require a person allowed an exclusion in a prior year to file a new
+17
+18
+application to confirm the current qualification for the exclusion
+18
+19
+by delivering a written notice that a new application is required,
+19
+20
+accompanied by an appropriate application form, to the person
+20
+21
+previously allowed the exclusion.
+21
+22
+SECTION 9. AMENDATORY 68 O.S. 2021, Section 2882, is
+22
+23
+amended to read as follows:
+23
+24
+24
+Req. No. 3007 Page 27
+
+1
+Section 2882. A. In any case where the State Board of
+1
+2
+Equalization, in the equalization of property locally assessed,
+2
+3
+shall make its determination that the ratio of the assessed value of
+3
+4
+real property within the county to the fair cash value of said real
+4
+5
+property does not comply with the legal requirements for the level
+5
+6
+of assessment, or does not comply with the legal requirements for
+6
+7
+the uniformity of assessment then the State Board shall notify, by
+7
+8
+mail or electronic mail, the board of county commissioners of said
+8
+9
+county, and the county assessor, giving the ratio determined and the
+9
+10
+percentage valuation increase or decrease the county must achieve
+10
+11
+during the next assessment period or the action required for
+11
+12
+compliance with any applicable order for assessment uniformity.
+12
+13
+B. The district attorney, acting under direction of the board
+13
+14
+of county commissioners and for the entire taxpaying public of the
+14
+15
+county shall have twenty (20) days from date of such notice to the
+15
+16
+board of county commissioners and the county assessor in which to
+16
+17
+file with the Clerk of the Court of Tax Review a written complaint
+17
+18
+specifying grievances and the pertinent facts in relation thereto in
+18
+19
+ordinary and concise language and without repetition, and in such
+19
+20
+manner as to enable a person of common understanding to know what is
+20
+21
+intended. The board of county commissioners shall cause a notice of
+21
+22
+the order for a valuation increase or decrease made by the State
+22
+23
+Board of Equalization to be published in at least one (1) newspaper
+23
+24
+of general circulation within the county at least one (1) time each
+24
+Req. No. 3007 Page 28
+
+1
+week for two (2) consecutive weeks. Such notice by publication
+1
+2
+shall constitute sufficient notice to any taxpayer within such
+2
+3
+county of the possible increase or decrease in the valuation of
+3
+4
+property owned by the taxpayer located within such county. No
+4
+5
+individual valuation increase or decrease notice shall be required
+5
+6
+to be mailed, electronically mailed, or delivered to an affected
+6
+7
+taxpayer as a result of the implementation of an order for an
+7
+8
+increase or decrease in valuation issued by the State Board of
+8
+9
+Equalization.
+9
+10
+C. After the filing of a complaint as provided for in
+10
+11
+subsection B of this section the State Board of Equalization shall
+11
+12
+have fifteen (15) days within which to file an answer. The Court of
+12
+13
+Tax Review shall set a date of hearing within sixty (60) days of the
+13
+14
+date of the notice which caused the filing of the complaint. The
+14
+15
+Court of Tax Review shall be authorized and empowered to take
+15
+16
+evidence pertinent to said complaint, and for that purpose, is
+16
+17
+authorized to compel the attendance of witnesses and the production
+17
+18
+of books, records and papers by subpoena, and to confirm, correct or
+18
+19
+adjust the order of the State Board of Equalization, as required by
+19
+20
+law.
+20
+21
+D. At the time of hearing upon a complaint filed pursuant to
+21
+22
+this section, the State Board of Equalization shall bear the burden
+22
+23
+of proof of supporting its action which is the subject matter of the
+23
+24
+complaint.
+24
+Req. No. 3007 Page 29
+
+1
+E. Either the State Board of Equalization or the party filing a
+1
+2
+complaint pursuant to this section may appeal the decision of the
+2
+3
+Court of Tax Review by filing a notice of intent to appeal with the
+3
+4
+Clerk of the Court of Tax Review within ten (10) calendar days of
+4
+5
+the date the final decision is rendered. Appeal shall be made to
+5
+6
+the Oklahoma Supreme Court which shall affirm the decision of the
+6
+7
+Court of Tax Review if supported by competent evidence.
+7
+8
+SECTION 10. AMENDATORY 68 O.S. 2021, Section 2893, is
+8
+9
+amended to read as follows:
+9
+10
+Section 2893. The county assessor shall examine each
+10
+11
+application for homestead exemption filed with him and shall
+11
+12
+determine whether or not such application should be approved or
+12
+13
+rejected and if approved, determine the amount of the exemption. If
+13
+14
+the application is approved, he shall mark the same “approved” and
+14
+15
+show thereon the amount of exemption allowed and make the proper
+15
+16
+deduction upon his assessment rolls. In case he finds that the
+16
+17
+exemption should not be allowed by reason of not being in conformity
+17
+18
+to law, he shall mark the application “rejected” and state thereon
+18
+19
+the reason for such rejection. In any case where the county
+19
+20
+assessor disallows or reduces an application for exemption, he shall
+20
+21
+notify the applicant of his action by mailing written notice to him
+21
+22
+at the address shown in the application, which notice shall be on
+22
+23
+forms prescribed by the Oklahoma Tax Commission. All applications
+23
+24
+for exemption, showing thereon the action of the county assessor,
+24
+Req. No. 3007 Page 30
+
+1
+shall be delivered electronically submitted to the county board of
+1
+2
+equalization on or before the fourth Monday of April of each year.
+2
+3
+SECTION 11. This act shall become effective November 1, 2026.
+3
+4
+4
+5
+60-2-3007 QD 1/15/2026 11:58:29 AM
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3007 Page 31

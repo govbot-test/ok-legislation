@@ -1,0 +1,225 @@
+Title: 
+Official Title: 
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+
+================================================================================
+
+1 SENATE FLOOR VERSION
+February 19, 2026
+2 AS AMENDED
+3 SENATE BILL NO. 1521 By: Hamilton
+4
+5
+6 [ artificial intelligence - chatbots - user account -
+protections - minors - information - enforcement -
+7 penalty - codification - effective date ]
+8
+9
+10 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+11 SECTION 1. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 301 of Title 75A, unless there
+13 is created a duplication in numbering, reads as follows:
+14 As used in this act:
+15 1. “Artificial intelligence companion” means an artificial
+16 intelligence chatbot that:
+17 a. provides adaptive, human-like responses to user
+18 inputs, and
+19 b. is designed to encourage or facilitate the simulation
+20 of interpersonal or emotional interaction, friendship,
+21 companionship, or therapeutic communication;
+22 2. “Artificial intelligence chatbot” means:
+23 a. any interactive computer service or software
+24 application that:
+SENATE FLOOR VERSION - SB1521 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 (1) produces new expressive content or responses not
+2 fully predetermined by the developer or operator
+3 of the service or application, and
+4 (2) accepts open-ended natural-language or multimodal
+5 user input and produces adaptive or context-
+6 responsive output, and
+7 b. does not include an interactive computer service or
+8 software application:
+9 (1) the responses of which are limited to
+10 contextualized replies, and
+11 (2) that is unable to respond on a range of topics
+12 outside of a narrow specified purpose;
+13 3. “Covered entity” means any person who owns, operates, or
+14 otherwise makes available an artificial intelligence chatbot to
+15 individuals in this state;
+16 4. “Minor” means any individual who has not attained eighteen
+17 (18) years of age;
+18 5. “Reasonable age verification measure” means a method of age
+19 verification that is authenticated through the upload of a valid
+20 state-issued form of identification to relate to a user of an
+21 artificial chatbot;
+22 6. “Reasonable age verification process” means an age
+23 verification process employed by a covered entity that:
+24
+SENATE FLOOR VERSION - SB1521 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 a. uses one or more reasonable age verification measures
+2 in order to verify the age of a user of an artificial
+3 intelligence chatbot owned, operated, or otherwise
+4 made available by the covered entity,
+5 b. provides that requiring a user to confirm that the
+6 user is not a minor, or to insert the user’s birth
+7 date, is not sufficient to constitute a reasonable age
+8 verification measure,
+9 c. ensures that each user is subjected to each reasonable
+10 age verification measure used by the covered entity as
+11 part of the age verification process, and
+12 d. does not base verification of a user’s age on factors
+13 such as whether the user shares an Internet protocol
+14 (IP) address, hardware identifier, or other technical
+15 indicator with another user determined to not be a
+16 minor; and
+17 7. “Sexually explicit conduct” has the same meaning as defined
+18 in subsection A of Section 1024.1 of Title 21 of the Oklahoma
+19 Statutes.
+20 SECTION 2. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 302 of Title 75A, unless there
+22 is created a duplication in numbering, reads as follows:
+23 A. It shall be unlawful to design, develop, or make available
+24 an artificial intelligence chatbot, knowing or with reckless
+SENATE FLOOR VERSION - SB1521 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 disr egard for the fact that the artificial intelligence chatbot
+2 poses a risk of soliciting, encouraging, or inducing minors to:
+3 1. Engage in, describe, or simulate sexually explicit conduct;
+4 or
+5 2. Create or transmit any visual depiction of sexually explicit
+6 conduct, including any visual depiction described in subsection A of
+7 Section 1024.1 of Title 21 of the Oklahoma Statutes.
+8 B. It shall be unlawful to design, develop, or make available
+9 an artificial intelligence chatbot, knowing or with reckless
+10 disregard for the fact that the artificial intelligence chatbot
+11 encourages, promotes, or coerces suicide, non-suicidal self-injury,
+12 or imminent physical or sexual violence.
+13 SECTION 3. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 303 of Title 75A, unless there
+15 is created a duplication in numbering, reads as follows:
+16 A. A covered entity shall require each individual accessing an
+17 artificial intelligence chatbot to create a user account in order to
+18 use or otherwise interact with such chatbot.
+19 B. With respect to each user account of an artificial
+20 intelligence chatbot that exists as of the effective date of this
+21 act, a covered entity shall:
+22 1. On such date, freeze all accounts;
+23
+24
+SENATE FLOOR VERSION - SB1521 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 2. In order to restore the functionality of an account, require
+2 that the user provide age data that is verifiable using a reasonable
+3 verification process subject to subsection E of this section; and
+4 3. Using age data, classify each user as a minor or an adult.
+5 C. At the time an individual creates a new user account to use
+6 or interact with an artificial intelligence chatbot, a covered
+7 entity shall:
+8 1. Request age data from the individual;
+9 2. Verify the individual’s age using a reasonable age
+10 verification process, subject to subsection E of this section; and
+11 3. Using age data, classify each user as a minor or an adult.
+12 D. If the age verification process determines that an
+13 individual is a minor, a covered entity shall prohibit the minor
+14 from accessing or using any artificial intelligence companion owned,
+15 operated, or otherwise made available by the covered entity. A
+16 covered entity shall periodically review previously verified user
+17 accounts using a reasonable age verification process, subject to
+18 subsection E of this section, to ensure compliance with this act.
+19 E. A covered entity may contract with a third party to employ
+20 reasonable age verification measures as part of the covered entity’s
+21 reasonable age verification process, but the use of a third party
+22 shall not relieve the covered entity of its obligations under this
+23 act or from liability under this act.
+24 F. A covered entity shall:
+SENATE FLOOR VERSION - SB1521 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 1. Establish, implement, and maintain reasonable data security
+2 to:
+3 a. limit collection of personal data to that which is
+4 minimally necessary to verify a user’s age or maintain
+5 compliance with this act, and
+6 b. protect age verification data against unauthorized
+7 access;
+8 2. Protect the integrity and confidentiality of use
+9 verification data by only transmitting data using industry-standard
+10 encryption protocols;
+11 3. Retain age verification data for no longer than is
+12 reasonably necessary to verify a user’s age or maintain compliance
+13 with this act; and
+14 4. Not share with, transfer to, or sell the data to any such
+15 entity.
+16 G. An artificial intelligence chatbot made available to users
+17 shall:
+18 1. At the initiation of each conversation with a user and at
+19 thirty-minute intervals, clearly and conspicuously disclose to the
+20 user that the chatbot is an artificial intelligence system and not a
+21 human being; and
+22 2. Be programmed to ensure that the chatbot does not claim to
+23 be a human being or otherwise respond deceptively when asked by a
+24 user if the chatbot is a human being.
+SENATE FLOOR VERSION - SB1521 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 H. An artificial intelligence chatbot may not represent,
+2 directly or indirectly, that the chatbot is a licensed professional,
+3 including, but not limited to, a therapist, physician, attorney,
+4 financial advisor, or other professional. An artificial
+5 intelligence chatbot made available to users shall, at initiation of
+6 each conversation with a user and at reasonably regular intervals,
+7 clearly and conspicuously disclose to the user that the chatbot does
+8 not provide medical, legal, financial, or psychological services,
+9 and users of the chatbot should consult a licensed professional for
+10 such advice.
+11 SECTION 4. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 304 of Title 75A, unless there
+13 is created a duplication in numbering, reads as follows:
+14 A. In the case of a violation of Section 3 of this act, the
+15 Attorney General may bring a civil action in the District Court of
+16 Oklahoma County or a district court in the county in which the
+17 violation occurred to:
+18 1. Enjoin the violation;
+19 2. Enforce compliance with Section 3 of this act; or
+20 3. Obtain civil penalties under subsection C of this section.
+21 B. The Attorney General may promulgate any rules necessary to
+22 enforce the provisions of this act.
+23 C. Any person who violates this act shall be subject to a civil
+24 penalty not to exceed One Hundred Thousand Dollars ($100,000.00) for
+SENATE FLOOR VERSION - SB1521 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 each violation. Each individual violation shall be considered a
+2 separate violation.
+3 SECTION 5. This act shall become effective November 1, 2026.
+4 COMMITTEE REPORT BY: COMMITTEE ON TECHNOLOGY AND TELECOMMUNICATIONS
+February 19, 2026 - DO PASS AS AMENDED
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB1521 SFLR Page 8
+(Bold face denotes Committee Amendments)
