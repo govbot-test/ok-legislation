@@ -1,0 +1,819 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1871 By: Jech
+3
+4
+4
+5
+AS INTRODUCED
+5
+6
+An Act relating to social media; defining terms;
+6
+requiring certain age verification; requiring
+7
+segregation of certain data; requiring social media
+7
+platforms to take certain actions for minor users;
+8
+providing certain criteria; requiring social media
+8
+platforms to offer certain supervisory tools;
+9
+prohibiting certain action; requiring certain
+9
+parental consent; stating certain presumption;
+10
+stating certain exceptions; authorizing certain
+10
+appeal; establishing time frame for certain
+11
+determination; construing provision; authorizing
+11
+enforcement authority and rule promulgation;
+12
+providing penalties; providing for codification; and
+12
+declaring an emergency.
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+SECTION 1. NEW LAW A new section of law to be codified
+16
+17
+in the Oklahoma Statutes as Section 401 of Title 75A, unless there
+17
+18
+is created a duplication in numbering, reads as follows:
+18
+19
+As used in this section:
+19
+20
+1. “Account” means a digital profile on a social media platform
+20
+21
+that is created by a user;
+21
+22
+2. “Connected account” means an account on a social media
+22
+23
+platform that is directly connected to:
+23
+24
+a. a minor user’s account, or
+24
+Req. No. 2745 Page 1
+
+1
+b. an account that is directly connected to an account
+1
+2
+directly connected to a minor user’s account;
+2
+3
+3. “Content” means any information, visual depictions, tools,
+3
+4
+features, links, software, or other materials that appear on or are
+4
+5
+available or enabled through a social media platform;
+5
+6
+4. “Directly connected” means an account on the social media
+6
+7
+platform that is connected to another account by:
+7
+8
+a. sending a request to connect to another account holder
+8
+9
+and having the request to connect accepted by the
+9
+10
+other account holder, or
+10
+11
+b. receiving a request to connect from another account
+11
+12
+holder and accepting the request to connect;
+12
+13
+5. “Minor” means an individual under eighteen (18) years of
+13
+14
+age;
+14
+15
+6. “Personal information” means information that is linked or
+15
+16
+can be reasonably linked to an individual, including, but not
+16
+17
+limited to:
+17
+18
+a. first and last name,
+18
+19
+b. date of birth,
+19
+20
+c. home or physical address, including street name and
+20
+21
+city,
+21
+22
+d. screen name or username that reveals an individual’s
+22
+23
+electronic mail address, first name, or last name,
+23
+24
+e. telephone number,
+24
+Req. No. 2745 Page 2
+
+1
+f. Social Security number,
+1
+2
+g. photograph, video, or audio file containing a person’s
+2
+3
+image or voice,
+3
+4
+h. geolocation information sufficient to identify street
+4
+5
+name and city, and
+5
+6
+i. any other identifier that a person may use to contact
+6
+7
+a specific individual;
+7
+8
+7. “Push notification” means an automatic electronic message
+8
+9
+displayed on an account holder’s device, when the user interface for
+9
+10
+the social media service is not actively open or visible on the
+10
+11
+device, that prompts the account holder to check or engage with the
+11
+12
+social media platform;
+12
+13
+8. “Reasonable age verification measure” means a method of age
+13
+14
+verification that is authenticated through the upload of a valid
+14
+15
+state-issued form of identification to relate to a user of a social
+15
+16
+media platform;
+16
+17
+9. “Reasonable age verification process” means an age
+17
+18
+verification process employed by a social media company that:
+18
+19
+a. uses one or more reasonable age verification measures
+19
+20
+in order to verify the age of a user of the social
+20
+21
+media platform owned, operated, or otherwise made
+21
+22
+available by the social media company,
+22
+23
+b. provides that requiring a user to confirm that the
+23
+24
+user is not a minor, or to insert the user’s birth
+24
+Req. No. 2745 Page 3
+
+1
+date, is not sufficient to constitute a reasonable age
+1
+2
+verification measure,
+2
+3
+c. ensures that each user is subjected to each reasonable
+3
+4
+age verification measure used by the social media
+4
+5
+company as part of the age verification process, and
+5
+6
+d. does not base verification of a user’s age on factors
+6
+7
+such as whether the user shares an Internet protocol
+7
+8
+(IP) address, hardware identifier, or other technical
+8
+9
+indicator with another user determined to not be a
+9
+10
+minor;
+10
+11
+10. “Social media company” means an entity that owns or
+11
+12
+operates a social media platform;
+12
+13
+11. “Social media platform” means a website or Internet medium
+13
+14
+that:
+14
+15
+a. permits a person to become a registered user,
+15
+16
+establish an account, or create a profile for the
+16
+17
+purpose of allowing users to create, share, and view
+17
+18
+user-generated content through such an account or
+18
+19
+profile,
+19
+20
+b. enables one or more users to generate content that can
+20
+21
+be viewed by other users of the medium, and
+21
+22
+c. primarily serves as a medium for users to interact
+22
+23
+with content generated by other users of the medium;
+23
+24
+and
+24
+Req. No. 2745 Page 4
+
+1
+12. “User” means an individual who accesses or uses a social
+1
+2
+media platform.
+2
+3
+SECTION 2. NEW LAW A new section of law to be codified
+3
+4
+in the Oklahoma Statutes as Section 402 of Title 75A, unless there
+4
+5
+is created a duplication in numbering, reads as follows:
+5
+6
+A. A social media company shall require each individual
+6
+7
+accessing its social media platforms to create a user account in
+7
+8
+order to interact with its services.
+8
+9
+B. With respect to each user account of a social media platform
+9
+10
+that exists as of the effective date of this act, a social media
+10
+11
+company shall:
+11
+12
+1. On such date, freeze all accounts;
+12
+13
+2. In order to restore the functionality of an account, require
+13
+14
+that the user provide age data that is verifiable using a reasonable
+14
+15
+verification process subject to subsection D of this section; and
+15
+16
+3. Using age data, classify each user as a minor or an adult.
+16
+17
+C. At the time an individual creates a new user account to
+17
+18
+access its services, a social media platform shall:
+18
+19
+1. Request age data from the individual;
+19
+20
+2. Verify the individual’s age using a reasonable age
+20
+21
+verification process, subject to subsection D of this section; and
+21
+22
+3. Using age data, classify each user as a minor or an adult.
+22
+23
+D. A social media platform may contract with a third party to
+23
+24
+employ reasonable age verification measures as part of the social
+24
+Req. No. 2745 Page 5
+
+1
+media platform’s reasonable age verification process, but the use of
+1
+2
+a third party shall not relieve the social media platform of its
+2
+3
+obligations under this act or from liability under this act.
+3
+4
+E. 1. A social media platform shall segregate any personal
+4
+5
+information gathered specifically for reasonable age verification
+5
+6
+purposes and shall not use the personal information for any other
+6
+7
+purpose except those provided in subparagraphs a through f of
+7
+8
+paragraph 2 of subsection G of this section.
+8
+9
+2. If a user is determined to be a minor, a social media
+9
+10
+platform shall:
+10
+11
+a. set default privacy settings to prioritize maximum
+11
+12
+privacy of such minor user’s account, including
+12
+13
+settings that:
+13
+14
+(1) restrict the visibility of the minor user’s
+14
+15
+account to only connected accounts,
+15
+16
+(2) limit the minor user’s ability to share content
+16
+17
+to only connected accounts,
+17
+18
+(3) restrict any data collection and sale of data
+18
+19
+from a minor user’s account that is not otherwise
+19
+20
+required for core functioning of the social media
+20
+21
+platform,
+21
+22
+(4) disable search engine indexing of the minor
+22
+23
+user’s profiles,
+23
+24
+24
+Req. No. 2745 Page 6
+
+1
+(5) restrict a minor user’s direct messaging
+1
+2
+capabilities to only allow for direct messaging
+2
+3
+to connected accounts, and
+3
+4
+(6) allow a minor user to download a file with all
+4
+5
+information associated with his or her account,
+5
+6
+b. implement and maintain reasonable security measures,
+6
+7
+including data encryption, to protect the
+7
+8
+confidentiality, security, and integrity of personal
+8
+9
+information collected from a minor user who is a
+9
+10
+resident of this state,
+10
+11
+c. provide an easily accessible and understandable notice
+11
+12
+that:
+12
+13
+(1) describes any information the social media
+13
+14
+platform collects from a minor user, and
+14
+15
+(2) explains how the information may be used or
+15
+16
+disclosed, and
+16
+17
+d. disable the following features that prolong engagement
+17
+18
+on a social media platform by a minor user:
+18
+19
+(1) autoplay functions that continuously play content
+19
+20
+without user interaction,
+20
+21
+(2) scroll or pagination that loads additional
+21
+22
+content as long as the user continues scrolling,
+22
+23
+and
+23
+24
+24
+Req. No. 2745 Page 7
+
+1
+(3) push notifications prompting repeated user
+1
+2
+engagement.
+2
+3
+3. Upon request of a parent or legal guardian of a minor user,
+3
+4
+a social media platform shall:
+4
+5
+a. delete the personal information of the minor user,
+5
+6
+unless the information is required to be retained
+6
+7
+pursuant to state or federal law, and
+7
+8
+b. remove any information or material the minor user made
+8
+9
+publicly available through the social media platform.
+9
+10
+F. A social media platform shall limit a minor user’s access to
+10
+11
+its services to one (1) hour per day. A social media platform shall
+11
+12
+offer the parent or legal guardian of a minor user supervisory tools
+12
+13
+that the parent or legal guardian may decide to activate to
+13
+14
+supervise the minor user’s usage of the services provided by the
+14
+15
+social media platform. Such supervisory tools shall include
+15
+16
+capabilities for a parent or legal guardian to:
+16
+17
+1. Set time limits for the minor user’s daily social media
+17
+18
+service usage across devices;
+18
+19
+2. Schedule mandatory breaks for the minor user during selected
+19
+20
+days and times across devices;
+20
+21
+3. View:
+21
+22
+a. data detailing the minor user’s total and average
+22
+23
+daily time spent on the social media platform across
+23
+24
+devices,
+24
+Req. No. 2745 Page 8
+
+1
+b. a list of connected accounts,
+1
+2
+c. a list of accounts blocked by the minor user, and
+2
+3
+d. the minor user’s:
+3
+4
+(1) privacy settings,
+4
+5
+(2) content sensitivity settings, and
+5
+6
+(3) direct messaging settings and permissions; and
+6
+7
+4. Receive notifications when the minor user changes an account
+7
+8
+setting described in this subsection.
+8
+9
+A social media platform shall inform the parent or legal
+9
+10
+guardian of a minor user of their access to these supervisory
+10
+11
+features and of the parent or legal guardian’s right to utilize such
+11
+12
+features.
+12
+13
+G. 1. A social media platform shall not allow a minor user who
+13
+14
+is a resident of this state to change the default data privacy
+14
+15
+setting provided for in subparagraph a of paragraph 2 of subsection
+15
+16
+E of this section without first obtaining verifiable written consent
+16
+17
+from a minor user’s parent or legal guardian. The social media
+17
+18
+platform shall verify the identity of the person consenting and the
+18
+19
+relationship of the person consenting for the minor.
+19
+20
+2. A social media platform’s terms of service related to a
+20
+21
+minor user who is a resident of this state shall be presumed to
+21
+22
+include an assurance of confidentiality for the minor user’s
+22
+23
+personal information. The presumption of confidentiality may be
+23
+24
+overcome if the social media platform obtains verifiable written
+24
+Req. No. 2745 Page 9
+
+1
+consent from a parent or legal guardian of the minor user. The
+1
+2
+presumption of confidentiality does not apply to a social media
+2
+3
+platform’s internal use or external sharing of a minor user’s
+3
+4
+personal information if the use or sharing is necessary to:
+4
+5
+a. maintain or analyze functioning of the social media
+5
+6
+service,
+6
+7
+b. enable network communications,
+7
+8
+c. personalize the user’s experience based on the user’s
+8
+9
+age and location,
+9
+10
+d. display a username chosen by the minor user,
+10
+11
+e. obtain reasonable age verification information as
+11
+12
+required by subsection C of this section, or
+12
+13
+f. comply with the requirements of this act or any other
+13
+14
+federal or state law.
+14
+15
+H. A social media platform shall:
+15
+16
+1. Implement a review process allowing a user to appeal his or
+16
+17
+her age designation by submitting documentary evidence to establish
+17
+18
+the user’s age range; and
+18
+19
+2. Review evidence submitted by the user and make a
+19
+20
+determination within thirty (30) days of submission of the evidence.
+20
+21
+I. The provisions of this section shall not apply to a text
+21
+22
+messaging platform or a platform for which the primary purpose is
+22
+23
+related to education or health care.
+23
+24
+24
+Req. No. 2745 Page 10
+
+1
+SECTION 3. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 403 of Title 75A, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. In the case of a violation of Section 2 of this act, the
+4
+5
+Attorney General may bring a civil action in the District Court of
+5
+6
+Oklahoma County or a district court in the county in which the
+6
+7
+violation occurred to:
+7
+8
+1. Enjoin the violation;
+8
+9
+2. Enforce compliance with Section 2 of this act; or
+9
+10
+3. Obtain civil penalties under subsection C of this section.
+10
+11
+B. The Attorney General may promulgate any rules necessary to
+11
+12
+enforce the provisions of this act.
+12
+13
+C. Any social media company that violates this act shall be
+13
+14
+subject to a civil penalty not to exceed Two Thousand Five Hundred
+14
+15
+Dollars ($2,500.00) for each violation. Each individual violation
+15
+16
+shall be considered a separate violation.
+16
+17
+SECTION 4. It being immediately necessary for the preservation
+17
+18
+of the public peace, health or safety, an emergency is hereby
+18
+19
+declared to exist, by reason whereof this act shall take effect and
+19
+20
+be in full force from and after its passage and approval.
+20
+21
+21
+22
+60-2-2745 BRC 1/15/2026 8:05:01 AM
+22
+23
+23
+24
+24
+Req. No. 2745 Page 11

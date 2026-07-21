@@ -1,0 +1,650 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 2037 By: Goodwin
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+AS INTRODUCED
+8
+9
+An Act relating to artificial intelligence; defining
+9
+terms; requiring certain informed consent for use of
+10
+artificial intelligence by licensed mental health
+10
+professional or licensed health care provider;
+11
+authorizing and prohibiting certain uses of
+11
+artificial intelligence; specifying authority to make
+12
+final decisions; providing administrative penalties;
+12
+prohibiting certain acts related to therapy or
+13
+psychotherapy services; authorizing certain
+13
+investigation and penalties by the Attorney General;
+14
+providing for codification; and declaring an
+14
+emergency.
+15
+15
+16
+16
+17
+17
+18
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18
+19
+SECTION 1. NEW LAW A new section of law to be codified
+19
+20
+in the Oklahoma Statutes as Section 7101 of Title 63, unless there
+20
+21
+is created a duplication in numbering, reads as follows:
+21
+22
+As used in this act:
+22
+23
+1. “Administrative support” means tasks performed to assist a
+23
+24
+licensed mental health professional in the delivery of therapy or
+24
+Req. No. 3028 Page 1
+
+1
+psychotherapy services that do not involve therapeutic
+1
+2
+communication. Administrative support includes, but is not limited
+2
+3
+to, managing appointment scheduling and reminders, processing
+3
+4
+billing and insurance claims, and drafting general communications
+4
+5
+related to therapy logistics that do not include therapeutic advice;
+5
+6
+2. “Artificial intelligence” means a machine-based system that,
+6
+7
+for explicit or implicit objectives, infers, from the input it
+7
+8
+receives, how to generate outputs such as predictions, content,
+8
+9
+recommendations, or decisions that can influence physical or virtual
+9
+10
+environments;
+10
+11
+3. a. “Consent” means a clear, explicit affirmative act by
+11
+12
+an individual that:
+12
+13
+(1) unambiguously communicates the individual’s
+13
+14
+express, freely given, informed, voluntary,
+14
+15
+specific, and unambiguous written agreement,
+15
+16
+including a written agreement provided by
+16
+17
+electronic means, and
+17
+18
+(2) is revocable by the individual.
+18
+19
+b. Consent does not include an agreement that is obtained
+19
+20
+by the following:
+20
+21
+(1) the acceptance of a general or broad terms of use
+21
+22
+agreement or a similar document that contains
+22
+23
+descriptions of artificial intelligence along
+23
+24
+with other unrelated information,
+24
+Req. No. 3028 Page 2
+
+1
+(2) an individual hovering over, muting, pausing, or
+1
+2
+closing a given piece of digital content, or
+2
+3
+(3) an agreement obtained through the use of
+3
+4
+deceptive actions;
+4
+5
+4. “Health care services” means services included in, or
+5
+6
+incidental to, furnishing to an individual:
+6
+7
+a. medical, dental, or optometric care or
+7
+8
+hospitalization, or
+8
+9
+b. other services for the purpose of preventing,
+9
+10
+alleviating, curing, or healing a physical illness or
+10
+11
+injury;
+11
+12
+5. “Licensed health care provider” means a person who is
+12
+13
+licensed, certified, or registered by this state to provide health
+13
+14
+care services or a medical group, independent practice association,
+14
+15
+or professional corporation providing health care services;
+15
+16
+6. “Licensed mental health professional” has the same meaning
+16
+17
+as provided by Section 1-103 of Title 43A of the Oklahoma Statutes;
+17
+18
+7. “Supplementary support” means tasks performed to assist a
+18
+19
+licensed mental health professional in the delivery of therapy or
+19
+20
+psychotherapy services that do not involve therapeutic communication
+20
+21
+and that are not administrative support. Supplementary support
+21
+22
+includes, but is not limited to, preparing and maintaining client
+22
+23
+records, including therapy notes; analyzing anonymized data to track
+23
+24
+client progress or identify trends, subject to review by a licensed
+24
+Req. No. 3028 Page 3
+
+1
+mental health professional; and identifying and organizing external
+1
+2
+resources or referrals for client use;
+2
+3
+8. “Therapeutic communication” means any verbal, nonverbal, or
+3
+4
+written interaction conducted in a clinical or professional setting
+4
+5
+that is intended to diagnose, treat, or address an individual’s
+5
+6
+mental, emotional, or behavioral health concerns. Therapeutic
+6
+7
+communication includes, but is not limited to:
+7
+8
+a. interacting directly with clients for the purpose of
+8
+9
+understanding or reflecting their thoughts, emotions,
+9
+10
+or experiences,
+10
+11
+b. providing guidance, therapeutic strategies, or
+11
+12
+interventions designed to achieve mental health
+12
+13
+outcomes,
+13
+14
+c. offering emotional support, reassurance, or empathy in
+14
+15
+response to psychological or emotional distress,
+15
+16
+d. collaborating with clients to develop or modify
+16
+17
+therapeutic goals or treatment plans, and
+17
+18
+e. offering behavioral feedback intended to promote
+18
+19
+psychological growth or address mental health
+19
+20
+conditions; and
+20
+21
+9. “Therapy or psychotherapy services” means services provided
+21
+22
+to diagnose, treat, or improve an individual’s mental health or
+22
+23
+behavioral health.
+23
+24
+24
+Req. No. 3028 Page 4
+
+1
+SECTION 2. NEW LAW A new section of law to be codified
+1
+2
+in the Oklahoma Statutes as Section 7102 of Title 63, unless there
+2
+3
+is created a duplication in numbering, reads as follows:
+3
+4
+A. A licensed mental health professional shall not use
+4
+5
+artificial intelligence to assist in providing supplementary support
+5
+6
+in therapy or psychotherapy where the client’s therapeutic session
+6
+7
+is recorded or transcribed unless:
+7
+8
+1. The patient or the patient’s legally authorized
+8
+9
+representative is informed in writing of the following:
+9
+10
+a. that artificial intelligence will be used, and
+10
+11
+b. the specific purpose of the artificial intelligence
+11
+12
+tool or system that will be used; and
+12
+13
+2. The patient or the patient’s legally authorized
+13
+14
+representative provides consent to the use of artificial
+14
+15
+intelligence.
+15
+16
+B. A licensed mental health professional may use artificial
+16
+17
+intelligence tools or systems to assist in providing administrative
+17
+18
+support or supplementary support in therapy or psychotherapy
+18
+19
+services if the licensed mental health professional maintains full
+19
+20
+responsibility for all interactions, outputs, and data use
+20
+21
+associated with the system and satisfies the requirements of
+21
+22
+subsection A of this section. A licensed mental health professional
+22
+23
+shall not allow artificial intelligence to do any of the following:
+23
+24
+1. Make independent therapeutic decisions;
+24
+Req. No. 3028 Page 5
+
+1
+2. Directly interact with clients in any form of therapeutic
+1
+2
+communication;
+2
+3
+3. Generate therapeutic recommendations or treatment plans
+3
+4
+without review by the licensed mental health professional; or
+4
+5
+4. Detect emotions or mental states.
+5
+6
+C. A licensed mental health provider, not artificial
+6
+7
+intelligence or similar systems, shall make final decisions in the
+7
+8
+provision of therapy or psychotherapy services.
+8
+9
+D. A licensed mental health professional found in violation of
+9
+10
+this section shall, in accordance with the Administrative Procedures
+10
+11
+Act and the provisions of Title 59 of the Oklahoma Statutes, be
+11
+12
+subject to disciplinary action by the appropriate licensure board
+12
+13
+including, but not limited to, a fine in an amount not to exceed Ten
+13
+14
+Thousand Dollars ($10,000.00) per violation, as determined by the
+14
+15
+licensure board, with penalties assessed based on the degree of harm
+15
+16
+and the circumstances of the violation.
+16
+17
+E. 1. An individual, corporation, or entity shall not provide,
+17
+18
+advertise, or otherwise offer therapy or psychotherapy services
+18
+19
+through the use of Internet-based artificial intelligence to the
+19
+20
+public in this state unless the therapy or psychotherapy services
+20
+21
+are conducted by an individual who is a licensed mental health
+21
+22
+professional.
+22
+23
+2. The Attorney General may investigate actual, alleged, or
+23
+24
+suspected violations of paragraph 1 of this subsection and levy
+24
+Req. No. 3028 Page 6
+
+1
+administrative fines on any individual, corporation, or entity found
+1
+2
+in violation of paragraph 1 of this subsection, in an amount not to
+2
+3
+exceed Ten Thousand Dollars ($10,000.00) for each violation of this
+3
+4
+section, and may assess any other penalty or remedy authorized by
+4
+5
+law. Administrative fines shall be assessed:
+5
+6
+a. based on the degree of harm and the circumstances of
+6
+7
+the violation, and
+7
+8
+b. after a hearing is held in accordance with the
+8
+9
+Administrative Procedures Act.
+9
+10
+SECTION 3. NEW LAW A new section of law to be codified
+10
+11
+in the Oklahoma Statutes as Section 7103 of Title 63, unless there
+11
+12
+is created a duplication in numbering, reads as follows:
+12
+13
+A. A licensed health care provider shall not use artificial
+13
+14
+intelligence to assist in the provision of a patient’s care unless:
+14
+15
+1. The patient or the patient’s legally authorized
+15
+16
+representative is informed in writing of the following:
+16
+17
+a. that artificial intelligence will be used, and
+17
+18
+b. the specific purpose of the artificial intelligence
+18
+19
+tool or system that will be used; and
+19
+20
+2. The patient or the patient’s legally authorized
+20
+21
+representative provides consent to the use of artificial
+21
+22
+intelligence.
+22
+23
+B. A licensed health care provider may use artificial
+23
+24
+intelligence tools or systems to assist in providing health care
+24
+Req. No. 3028 Page 7
+
+1
+services if the licensed health care provider maintains full
+1
+2
+responsibility for all interactions, outputs, and data use
+2
+3
+associated with the system and satisfies the requirements of
+3
+4
+subsection A of this section. A licensed health care provider shall
+4
+5
+not allow artificial intelligence to do any of the following:
+5
+6
+1. Make independent medical decisions;
+6
+7
+2. Directly interact with patients in any form of medical
+7
+8
+communication;
+8
+9
+3. Diagnose medical conditions; or
+9
+10
+4. Generate medical advice or recommendations or treatment
+10
+11
+plans without review by the licensed health care provider.
+11
+12
+C. A licensed health care provider, not artificial intelligence
+12
+13
+or similar systems, shall make final decisions in the provision of
+13
+14
+health care services.
+14
+15
+D. A licensed health care provider found in violation of this
+15
+16
+section shall, in accordance with the Administrative Procedures Act
+16
+17
+and the provisions of Title 59 of the Oklahoma Statutes, be subject
+17
+18
+to disciplinary action by the appropriate licensure board including,
+18
+19
+but not limited to, a fine in an amount not to exceed Ten Thousand
+19
+20
+Dollars ($10,000.00) per violation, as determined by the licensure
+20
+21
+board, with penalties assessed based on the degree of harm and the
+21
+22
+circumstances of the violation.
+22
+23
+SECTION 4. It being immediately necessary for the preservation
+23
+24
+of the public peace, health or safety, an emergency is hereby
+24
+Req. No. 3028 Page 8
+
+1
+declared to exist, by reason whereof this act shall take effect and
+1
+2
+be in full force from and after its passage and approval.
+2
+3
+3
+4
+60-2-3028 DC 1/15/2026 10:55:23 AM
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3028 Page 9
