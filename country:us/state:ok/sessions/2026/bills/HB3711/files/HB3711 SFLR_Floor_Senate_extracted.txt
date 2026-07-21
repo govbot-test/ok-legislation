@@ -1,0 +1,201 @@
+Title: 
+Official Title: 
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 SENATE FLOOR VERSION
+April 23, 2026
+2 AS AMENDED
+3 ENGROSSED HOUSE
+BILL NO. 3711 By: Caldwell (Chad) and Lepak
+4 of the House
+5 and
+6 Pugh of the Senate
+7
+8
+9 [ schools - instructional expenditures - exclusions -
+bond proposal - applicability - bond guarantee
+10 application - effective date -
+emergency ]
+11
+12
+13 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14 SECTION 1. AMENDATORY 70 O.S. 2021, Section 5-135.4, is
+15 amended to read as follows:
+16 Section 5-135.4. A. This section shall be known and may be
+17 cited as the "School District Transparency Act".
+18 B. The State Department of Education shall make school district
+19 and school site expenditure data available on its website. Data
+20 shall be made available in an open-structured data format that may
+21 be downloaded by the public and that allows the user to
+22 systematically sort, search, and access all data without any fee or
+23 charge for access. Prior to the beginning of the 2019-2020 school
+24 year, if a school district has a website, the district shall provide
+SENATE FLOOR VERSION - HB3711 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 a li nk on its home page to the State Department of Education's
+2 Oklahoma Cost Accounting System and School District Financial
+3 Information website, or the district shall provide the information
+4 required by subsection C of this section within one click of the
+5 home page of the school district's website.
+6 C. The website shall provide information on school district and
+7 school site expenditures of state, federal, and local funds, whether
+8 appropriated or nonappropriated, excluding payments of voluntary
+9 payroll deductions for employees to receiving parties. The website
+10 shall further provide information, including, but not limited to,
+11 the following:
+12 1. Identification of the school district;
+13 2. The Oklahoma Cost Accounting System (OCAS) code designation
+14 for each expenditure;
+15 3. The name and principal location of the entity or recipient
+16 of the funds, excluding release of information relating to an
+17 individual's place of residence and release of information
+18 prohibited by subsection D of Section 24A.7 of Title 51 of the
+19 Oklahoma Statutes or by federal law relating to privacy rights;
+20 4. The amount of funds expended;
+21 5. The type of transaction;
+22 6. A descriptive purpose of the funding action or expenditure;
+23
+24
+SENATE FLOOR VERSION - HB3711 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 7. The budgeted and audited actual expenditure figures for each
+2 fiscal year, ensuring each set of figures can be identified as
+3 budgeted or audited figures;
+4 8. The per-pupil expenditure as defined in Section 1-124 of
+5 this title; and
+6 9. The total compensation package of the superintendent as
+7 defined by the requirements of the OCAS including a listing of the
+8 base salary, insurance, retirement and other fringe benefits
+9 including exempted nonadministrative services such as teaching in
+10 the classroom or serving as a principal, counselor or library media
+11 specialist pursuant to subsection E of Section 18-124 of this title.
+12 D. The Department shall make the data available on its website
+13 within one hundred twenty (120) days of transmission of the
+14 expenditures to the Department by the school district.
+15 E. School districts shall provide information requested by the
+16 Department to accomplish the purposes of this section.
+17 F. If a school district maintains a website, the district shall
+18 provide the information required in subsection C of this section in
+19 the manner prescribed in subsection B of this section on the
+20 district website.
+21 G. In addition to the requirements of this section, if a school
+22 district maintains a website, the district shall provide the
+23 percentage of total district expenditures that were allocated to
+24 instructional expenses in the last fiscal year on the home page of
+SENATE FLOOR VERSION - HB3711 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 its website. "Instructional expenditures" means instruction
+2 expenditures as defined by the National Center for Education
+3 Statistics, a federal entity within the United States Department of
+4 Education. If the National Center for Education Statistics ceases
+5 to exist, then instructional expenditures shall have the same
+6 meaning as provided by an equivalent entity to the National Center
+7 for Education Statistics. Instructional expenditures shall not
+8 include administrative services as defined in Section 18-124 of this
+9 title or for equipment or materials for administrative staff.
+10 H. Nothing in this section shall require the disclosure of
+11 information which is required to be kept confidential by state or
+12 federal law.
+13 H. I. The disclosure of information required by this section
+14 shall create no liability whatsoever, civil or criminal, to the
+15 State of Oklahoma, the State Department of Education, school
+16 districts, or any employee thereof for disclosure of required
+17 information or for any error or omission in the disclosure.
+18 I. J. The Department shall undertake activities annually to
+19 inform parents, schools and other stakeholders about the
+20 availability of school district and school site expenditure data on
+21 its website and how to use the website.
+22 SECTION 2. AMENDATORY Section 1, Chapter 157, O.S.L.
+23 2023 (70 O.S. Supp. 2025, Section 15-110), is amended to read as
+24 follows:
+SENATE FLOOR VERSION - HB3711 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 Section 15-110. A. When a school district board of education
+2 calls an election for the purpose of issuing bonds pursuant to
+3 Section 15-102 of Title 70 of the Oklahoma Statutes this title, the
+4 school district shall, at least thirty (30) days prior to the
+5 election, post on its website a copy of the bond proposal, including
+6 each project to be funded by the bond proceeds, a description of
+7 each project, and the estimated cost for each project, and the
+8 percentage of total district expenditures that were allocated to
+9 instructional expenses in the last fiscal year. "Instructional
+10 expenditures" means instruction expenditures as defined by the
+11 National Center for Education Statistics, a federal entity within
+12 the United States Department of Education. If the National Center
+13 for Education Statistics ceases to exist, then instructional
+14 expenditures shall have the same meaning as provided by an
+15 equivalent entity to the National Center for Education Statistics.
+16 Instructional expenditures shall not include administrative services
+17 as defined in Section 18-124 of this title or for equipment or
+18 materials for administrative staff.
+19 B. If electors approve the issuing of bonds at an election, the
+20 school district shall continue to post on its website the bond
+21 information required by subsection A of this section for the
+22 duration of the bond and one (1) year after completion of all bond
+23 projects. The information posted on the school district website
+24 shall also include updates when there is a material change in the
+SENATE FLOOR VERSION - HB3711 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 scop e of the projects and their purpose as stated at the time the
+2 board of education calls the bond election. The updated information
+3 shall be posted online within thirty (30) days following approval of
+4 the project changes by the board of education.
+5 C. This act The provisions of this section, excluding the
+6 instructional expenses requirement, shall not apply to any bond
+7 projects approved by electors prior to the effective date of this
+8 act November 1, 2023. The instructional expenses requirement
+9 provided in this section shall not apply to any bond projects
+10 approved by electors prior to the effective date of this act.
+11 SECTION 3. AMENDATORY 70 O.S. 2021, Section 15-204, is
+12 amended to read as follows:
+13 Section 15-204. A school district seeking the guarantee of
+14 eligible bonds shall apply to the Commissioners on an application
+15 which must shall include:
+16 1. The name of the school district and the principal amount of
+17 the bonds to be issued;
+18 2. The maturity schedule, estimated interest rate and date of
+19 the bonds; and
+20 3. The percentage of total district expenditures that were
+21 allocated to instructional expenses in the last fiscal year.
+22 "Instructional expenditures" means instruction expenditures as
+23 defined by the National Center for Education Statistics, a federal
+24 entity within the United States Department of Education. If the
+SENATE FLOOR VERSION - HB3711 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 Nati onal Center for Education Statistics ceases to exist, then
+2 instructional expenditures shall have the same meaning as provided
+3 by an equivalent entity to the National Center for Education
+4 Statistics. Instructional expenditures shall not include
+5 administrative services as defined in Section 18-124 of this title
+6 or for equipment or materials for administrative staff; and
+7 4. Any other information as deemed necessary and appropriate by
+8 the Commissioners of the Land Office.
+9 The application must be accompanied by a fee set by the
+10 Commissioners in an amount to cover costs of administering the
+11 guarantee program. The Commissioners and the State Bond Advisor
+12 shall enter into an interagency agreement in order to administer
+13 their responsibilities pursuant to the provisions of this act.
+14 From the fees collected, the Commissioners shall enter into a
+15 cooperative agreement with the State Bond Advisor to defray any
+16 administrative costs of his or her office in carrying out the
+17 provisions of this act.
+18 SECTION 4. This act shall become effective July 1, 2026.
+19 SECTION 5. It being immediately necessary for the preservation
+20 of the public peace, health or safety, an emergency is hereby
+21 declared to exist, by reason whereof this act shall take effect and
+22 be in full force from and after its passage and approval.
+23 COMMITTEE REPORT BY: COMMITTEE ON RULES
+April 23, 2026 - DO PASS AS AMENDED
+24
+SENATE FLOOR VERSION - HB3711 SFLR Page 7
+(Bold face denotes Committee Amendments)

@@ -1,0 +1,588 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+An Act
+ENROLLED SENATE
+BILL NO. 604 By: Gollihare of the Senate
+and
+Dobrinski of the House
+An Act relating to motor vehicles; amending 47 O.S.
+2021, Section 562, as last amended by Section 1,
+Chapter 119, O.S.L. 2025 (47 O.S. Supp. 2025, Section
+562), which relates to definitions; merging multiple
+versions of statutes; modifying statutory reference;
+amending 47 O.S. 2021, Section 565.2, as last amended
+by Section 2, Chapter 145, O.S.L. 2024 (47 O.S. Supp.
+2025, Section 565.2), which relates to termination,
+cancellation, or nonrenewal of a franchise; merging
+multiple versions of statutes; repealing 47 O.S.
+2021, Section 562, as last amended by Section 2,
+Chapter 448, O.S.L. 2025 (47 O.S. Supp. 2025, Section
+562), which relates to definitions; repealing 47 O.S.
+2021, Section 565.2, as last amended by Section 9,
+Chapter 240, O.S.L. 2024 (47 O.S. Supp. 2025, Section
+565.2), which relates to termination, cancellation,
+or nonrenewal of a franchise; and providing an
+effective date.
+SUBJECT: Motor vehicles
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1. AMENDATORY 47 O.S. 2021, Section 562, as last
+amended by Section 1, Chapter 119, O.S.L. 2025 (47 O.S. Supp. 2025,
+Section 562), is amended to read as follows:
+
+Section 562. The following words, terms, and phrases, when used
+in Sections 561 through 567, 572, 578.1, 579, and 579.1 of this
+title, shall have the meanings respectively ascribed to them in this
+section, except where the context clearly indicates a different
+meaning:
+1. "Motor vehicle" means any motor-driven vehicle required to
+be registered under the Oklahoma Vehicle License and Registration
+Act. The term motor vehicle does not include:
+a. recreational vehicles, as defined in the Recreational
+Vehicle Franchise Act, or
+b. powersport vehicles;
+2. "New motor vehicle dealer" means any person, firm,
+association, corporation, or trust not excluded by this paragraph
+who sells, offers for sale, advertises to sell, receives deposits
+for vehicles, leases, or displays new motor vehicles and holds a
+bona fide contract or franchise in effect with a manufacturer or
+distributor authorized by the manufacturer to make predelivery
+preparation of such vehicles sold to purchasers and to perform post-
+sale work pursuant to the manufacturer's or distributor's warranty.
+As used herein, "authorized predelivery preparation" means the
+rendition by the dealer of services and safety adjustments on each
+new motor vehicle in accordance with the procedure and safety
+standards required by the manufacturer of the vehicle to be made
+before its delivery to the purchaser. "Performance of authorized
+post-sale work pursuant to the warranty", as used herein, means the
+rendition of services which are required by the terms of the
+warranty that stands extended to the vehicle at the time of its sale
+and are to be made in accordance with the safety standards
+prescribed by the manufacturer. The term includes premises or
+facilities at which a person engages only in the repair of motor
+vehicles if repairs are performed pursuant to the terms of a
+franchise and motor vehicle manufacturer's warranty. For the
+purpose of Sections 561 through 567, 572, 578.1, 579, and 579.1 of
+this title, the terms new motor vehicle dealer and "new motor
+vehicle dealership" shall be synonymous. The term new motor vehicle
+dealer does not include:
+ENR. S. B. NO. 604 Page 2
+
+a. receivers, trustees, administrators, executors,
+guardians, or other persons appointed by or acting
+under judgment or order of any court,
+b. public officers while performing or in operation of
+their duties,
+c. employees of persons, corporations, or associations
+enumerated in subparagraph a of this paragraph when
+engaged in the specific performance of their duties as
+such employees, or
+d. a powersports vehicle dealer;
+3. "Motor vehicle salesperson" "Salesperson" means any person,
+resident or nonresident, who, for gain or compensation of any kind,
+either directly or indirectly, regularly or occasionally, by any
+form of agreement or arrangement, sells or negotiates for the sale,
+lease, or conveyance or arranges the financing of any new motor
+vehicle or powersports vehicle as an employee for any new motor
+vehicle dealer or powersports vehicle dealer to any one or more
+third parties;
+4. "Commission" means the Oklahoma New Motor Vehicle
+Commission;
+5. "Manufacturer" means any person, firm, association,
+corporation, partnership, trust, joint venture, or common entity
+thereof, resident or nonresident, that manufactures or assembles new
+and unused motor vehicles or new and unused powersport vehicles or
+that engages in the fabrication or assembly of motorized vehicles of
+a type required to be registered in this state;
+6. "Distributor" means any person, firm, association,
+corporation, partnership, trust, joint venture, or common entity
+thereof, resident or nonresident, that, being authorized by the
+original manufacturer, in whole or in part sells or distributes new
+and unused motor vehicles to new motor vehicle dealers or new and
+unused powersport vehicles to powersport vehicle dealers, or that
+maintains distributor representatives;
+ENR. S. B. NO. 604 Page 3
+
+7. "Factory branch" means any branch office maintained by a
+person, firm, association, corporation, partnership, trust, joint
+venture, or common entity thereof that manufactures or assembles
+motor vehicles or powersport vehicles for the sale of motor vehicles
+or powersport vehicles to distributors, or for the sale of motor
+vehicles to new motor vehicle dealers, or for the sale of powersport
+vehicles to new powersport vehicle dealers, or for directing or
+supervising, in whole or in part, its representatives;
+8. "Distributor branch" means any branch office similarly
+maintained by a distributor for the same purposes a factory branch
+is maintained;
+9. "Factory representative" means any officer or, agent,
+employee or person engaged as a representative of a manufacturer of
+motor vehicles or powersport vehicles or by a factory branch, for
+the purpose of making or promoting the sale of its motor vehicles or
+powersport vehicles, or for supervising or contacting its dealers or
+prospective dealers;
+10. "Distributor representative" means any person, firm,
+association, corporation, partnership, trust, joint venture, or
+common entity thereof, and each officer and, agent, or employee
+thereof engaged as a representative of a distributor or distributor
+branch of motor vehicles or powersport vehicles, for the purpose of
+making or promoting the sale of its motor vehicles or powersport
+vehicles, or for supervising or contacting its dealers or
+prospective dealers;
+11. "Franchise" means any contract or agreement between a new
+motor vehicle dealer or a powersports vehicle dealer and a
+manufacturer of a new motor vehicle or powersports vehicle or its
+distributor or factory branch by which the new motor vehicle dealer
+or new powersports vehicle dealer is authorized to engage in the
+activities of a new motor vehicle dealer or new powersports vehicle
+dealer as defined by this section;
+12. "New or unused motor vehicle" means a vehicle which is in
+the possession of the manufacturer or distributor or has been sold
+only to the holder of a valid franchise granted by the manufacturer
+or distributor for the sale of that make of new vehicle so long as
+the manufacturer's statement of origin has not been assigned to
+ENR. S. B. NO. 604 Page 4
+
+anyone other than a licensed franchised new motor vehicle dealer of
+the same line-make;
+13. "Area of responsibility" means the geographical area, as
+designated by the manufacturer, factory branch, factory
+representative, distributor, distributor branch, or distributor
+representative, in which the new motor vehicle dealer or powersports
+dealer is held responsible for the promotion and development of
+sales and rendering of service for the make of motor vehicle or
+powersports vehicle for which the new motor vehicle dealer or new
+powersports vehicle dealer holds a franchise or selling agreement;
+14. "Off premises" means at a location other than the address
+designated on the new motor vehicle dealer's or new powersports
+vehicle dealer's license;
+15. "Sponsoring entity" means any person, firm, association,
+corporation, or trust which has control, either permanently or
+temporarily, over the real property upon which the off-premises sale
+or display is conducted;
+16. "Product" means new motor vehicles and new motor vehicle
+parts or new powersports vehicle and new powersports vehicle parts;
+17. "Service" means motor vehicle or powersports vehicle
+warranty repairs including both parts and labor;
+18. "Lead" means a consumer contact in response to a factory
+program designed to generate interest in purchasing or leasing a new
+motor vehicle or new powersports vehicle;
+19. "Sell" or "sale" means to sell or lease;
+20. "Factory" means a manufacturer, distributor, factory
+branch, distributor branch; or any common entity of a manufacturer,
+distributor, factory branch or distributor branch; or factory
+representative, or distributor representative, which manufactures or
+distributes vehicle products, motor vehicles or powersports
+vehicles, or that maintains factory representatives;
+21. "Powersports vehicle" means any new or unused motorcycles,
+scooters, mopeds, all-terrain vehicles, and utility vehicles
+ENR. S. B. NO. 604 Page 5
+
+required to be registered under the Oklahoma Vehicle License and
+Registration Act, with the exception of all-terrain vehicles,
+utility vehicles, and motorcycles used exclusively for off-road use
+which are sold by a retail implement dealer;
+22. "Powersports vehicle dealer" means any person, firm, or
+corporation, resident or nonresident, that is in the business of
+selling any new powersports vehicles except for retail implement
+dealers;
+23. "Retail implement dealer" means a business engaged
+primarily in the sale of farm tractors as defined in Section 1-118
+of this title or implements of husbandry as defined in Section 1-125
+of this title or a combination thereof and is exempt from licensing
+by the Commission for the sale of all-terrain vehicles, utility
+vehicles, and motorcycles used exclusively for off-road use;
+24. "Consumer data" means nonpublic personal information as
+defined in 15 U.S.C., Section 6809(4) as it existed on January 1,
+2023, that is:
+a. collected by a new motor vehicle dealer, and
+b. provided by the new motor vehicle dealer directly to a
+manufacturer or third party acting on behalf of a
+manufacturer.
+The term shall not include the same or similar data obtained by
+a manufacturer from any source other than the new motor vehicle
+dealer or new motor vehicle dealer's data management system;
+25. "Fleet vehicle" means a new motor vehicle sold and titled
+or registered to a business and used for business purposes only; and
+26. a. "Common entity" means any person, firm, association,
+corporation, partnership, trust, or joint venture
+acting as a new motor vehicle dealer as defined by
+paragraph 20 2 of this section:
+(1) which is directly or indirectly controlled by or
+has more than thirty percent (30%) of its equity
+interest directly or indirectly owned,
+ENR. S. B. NO. 604 Page 6
+
+beneficially or of record, through any form of
+ownership structure, by a factory, manufacturer,
+manufacturer branch, distributor, or distributor
+branch, or
+(2) which has more than thirty percent (30%) of its
+equity interest directly or indirectly controlled
+or owned, beneficially or of record, through any
+form of ownership structure, by one or more
+persons who also directly or indirectly control
+or own, beneficially or of record, more than
+thirty percent (30%) of the equity interests of a
+factory, manufacturer, manufacturer branch,
+distributor, or distributor branch.
+b. Notwithstanding subdivision (1) or (2) of subparagraph
+a of this paragraph, an entity that would otherwise be
+considered a common entity of a distributor under
+subdivision (1) or (2) of subparagraph a of this
+paragraph because of its relation to a distributor is
+not considered a common entity of that distributor if:
+(1) the distributor to which the entity is related
+was a licensed distributor on March 1, 2025,
+(2) the entity is not a common entity of a
+manufacturer or an importer, and
+(3) the distributor to which the entity is related is
+not, and has never been, a common entity of a
+manufacturer or an importer.
+SECTION 2. AMENDATORY 47 O.S. 2021, Section 565.2, as
+last amended by Section 2, Chapter 145, O.S.L. 2024 (47 O.S. Supp.
+2025, Section 565.2), is amended to read as follows:
+Section 565.2. A. Irrespective of the terms, provisions, or
+conditions of any franchise, or the terms or provisions of any
+waiver, no manufacturer shall terminate, cancel, or fail to renew
+any franchise with a licensed new motor vehicle dealer or new
+powersports vehicle dealer unless the manufacturer has satisfied the
+notice requirements as provided in this section and has good cause
+ENR. S. B. NO. 604 Page 7
+
+for cancellation, termination, or nonrenewal. The manufacturer
+shall not attempt to cancel or fail to renew the franchise agreement
+of a new motor vehicle dealer in this state unfairly and without
+just provocation or without due regard to the equities of the dealer
+or without good faith as defined herein. As used herein, "good
+faith" means the duty of each party to any franchise agreement to
+act in a fair and equitable manner toward each other, with freedom
+from coercion or intimidation or threats thereof from each other.
+B. Irrespective of the terms, provisions, or conditions of any
+franchise, or the terms or provisions of any waiver, good cause
+shall exist for the purpose of a termination, cancellation, or
+nonrenewal when:
+1. The new motor vehicle dealer or new powersports vehicle
+dealer has failed to comply with a provision of the franchise, which
+provision is both reasonable and of material significance to the
+franchise relationship, or the new motor vehicle dealer or new
+powersports vehicle dealer has failed to comply with reasonable
+performance criteria for sales or service established by the
+manufacturer, and the new motor vehicle dealer or new powersports
+vehicle dealer has been notified by written notice from the
+manufacturer; and
+2. The new motor vehicle dealer or new powersports vehicle
+dealer has received written notification of failure to comply with
+the manufacturer's reasonable sales performance standards,
+capitalization requirements, facility commitments, business-related
+equipment acquisitions, or other such remediable failings exclusive
+of those reasons enumerated in paragraph 1 of subsection C of this
+section, and the new motor vehicle dealer or new powersports vehicle
+dealer has been afforded a reasonable opportunity of not less than
+six (6) months to comply with such a provision or criteria.
+C. Irrespective of the terms, provisions, or conditions of any
+franchise agreement prior to the termination, cancellation, or
+nonrenewal of any franchise, the manufacturer shall furnish
+notification of such termination, cancellation, or nonrenewal to the
+new motor vehicle dealer or new powersports vehicle dealer and the
+Oklahoma New Motor Vehicle Commission as follows:
+ENR. S. B. NO. 604 Page 8
+
+1. Not less than ninety (90) days prior to the effective date
+of the termination, cancellation, or nonrenewal unless for a cause
+described in paragraph 2 of this subsection;
+2. Not less than fifteen (15) days prior to the effective date
+of the termination, cancellation, or nonrenewal with respect to any
+of the following:
+a. insolvency of the new motor vehicle dealer or new
+powersports vehicle dealer, or the filing of any
+petition by or against the new motor vehicle dealer or
+new powersports vehicle dealer under any bankruptcy or
+receivership law,
+b. failure of the new motor vehicle dealer or new
+powersports vehicle dealer to conduct its customary
+sales and service operations during its customary
+business hours for seven (7) consecutive business
+days, provided that such failure to conduct business
+shall not be due to an act of God or circumstances
+beyond the direct control of the new motor vehicle
+dealer, or
+c. conviction of the new motor vehicle dealer or new
+powersports vehicle dealer of any felony which is
+punishable by imprisonment or a violation of the
+Federal Odometer Act; and
+3. Not less than one hundred eighty (180) days prior to the
+effective date of the termination or cancellation where the
+manufacturer or distributor is discontinuing the sale of the product
+line.
+The notification required by this subsection shall be by
+certified mail, return receipt requested, and shall contain a
+statement of intent to terminate, to cancel, or to not renew the
+franchise, a statement of the reasons for the termination,
+cancellation, or nonrenewal and the date the termination shall take
+effect.
+D. Upon the affected new motor vehicle or new powersports
+vehicle dealer's receipt of the aforementioned notice of
+ENR. S. B. NO. 604 Page 9
+
+termination, cancellation, or nonrenewal, the new motor vehicle
+dealer shall have the right to file a protest of such threatened
+termination, cancellation, or nonrenewal with the Commission within
+thirty (30) days and request a hearing. The hearing shall be held
+within one hundred eighty (180) days of the date of the timely
+protest by the dealer and in accordance with the provisions of the
+Administrative Procedures Act, Sections 250 through 323 of Title 75
+of the Oklahoma Statutes, to determine if the threatened
+cancellation, termination, or nonrenewal of the franchise has been
+for good cause and if the factory has complied with its obligations
+pursuant to subsections A, B, and C of this section and the factory
+shall have the burden of proof. Either party may request an
+additional one-hundred-eighty-day extension of the hearing date from
+the Commission. Approval of the requested extension may not be
+unreasonably withheld or delayed. If the Commission finds that the
+threatened cancellation, termination, or nonrenewal of the franchise
+has not been for good cause or violates subsection A, B, or C of
+this section, then it shall issue a final order stating that the
+threatened termination is wrongful. A factory shall have the right
+to appeal such order. During the pendency of the hearing and after
+the decision, through any appeal, the franchise shall remain in full
+force and effect, including the right to transfer the franchise. If
+the Commission finds that the threatened cancellation, termination,
+or nonrenewal is for good cause and does not violate subsection A,
+B, or C of this section, the new motor vehicle or new powersports
+vehicle dealer shall have the right to an appeal. During the
+pendency of the action, including the final decision or appeal, the
+franchise shall remain in full force and effect, including the right
+to transfer the franchise. If the new motor vehicle dealer prevails
+in the threatened termination action, the Commission shall award to
+the new motor vehicle dealer the attorney fees and costs incurred to
+defend the action.
+E. If the factory prevails in an action to terminate, cancel,
+or not renew any franchise, the new motor vehicle or new powersports
+vehicle dealer shall be allowed fair and reasonable compensation by
+the manufacturer for:
+1. New, current, and previous model year vehicle inventory
+which has been acquired from the manufacturer, and which is unused
+and has not been damaged or altered while in the new motor vehicle
+dealer's possession;
+ENR. S. B. NO. 604 Page 10
+
+2. Supplies and parts which have been acquired from the
+manufacturer, for the purpose of this section, limited to any and
+all supplies and parts that are listed on the current parts price
+sheet available to the new motor vehicle dealer;
+3. Equipment and furnishings, provided the new motor vehicle
+dealer purchased them from the manufacturer or its approved sources;
+and
+4. Special tools, with such fair and reasonable compensation to
+be paid by the manufacturer within ninety (90) days of the effective
+date of the termination, cancellation, or nonrenewal, provided the
+new motor vehicle dealer has clear title to the inventory and other
+items and is in a position to convey that title to the manufacturer.
+a. For the purposes of paragraph 1 of this subsection,
+fair and reasonable compensation shall be no less than
+the net acquisition price of the vehicle paid by the
+new motor vehicle dealer.
+b. For the purposes of paragraphs 2, 3, and 4 of this
+subsection, fair and reasonable compensation shall be
+the net acquisition price paid by the new motor
+vehicle dealer less a twenty-percent (20%) straight-
+line depreciation for each year following the dealer's
+acquisition of the supplies, parts, equipment,
+furnishings, and/or special tools.
+F. 1. If a factory prevails in an action to terminate, cancel,
+or not renew any franchise and the new motor vehicle or new
+powersports vehicle dealer is leasing the dealership facilities, the
+manufacturer shall pay a reasonable rent to the lessor in accordance
+with and subject to the provisions of this subsection. Nothing in
+this section shall be construed to relieve a new motor vehicle or
+new powersports vehicle dealer of its duty to mitigate damages.
+Such reasonable rental value shall be paid only to the extent
+the dealership premises are recognized in the franchise and only if
+they are:
+ENR. S. B. NO. 604 Page 11
+
+a. used solely for performance in accordance with the
+franchise. If the facility is used for the operation
+of more than one franchise, the reasonable rent shall
+be paid based upon the portion of the facility
+utilized by the franchise being terminated, canceled,
+or nonrenewed, and
+b. not substantially in excess of facilities recommended
+by the manufacturer.
+2. If the facilities are owned by the new motor vehicle or new
+powersports vehicle dealer, or a related entity as defined in 26
+U.S.C.A., Section 267(b), or a member, partner or shareholder of the
+dealership, within ninety (90) days following the effective date of
+the termination, cancellation, or nonrenewal, except a termination,
+cancellation, or nonrenewal for a cause listed in paragraph 2 of
+subsection C of this section, at the dealer or related entity's
+written request, the manufacturer shall either:
+a. locate a qualified purchaser who will offer to
+purchase the dealership facilities at a reasonable
+price,
+b. locate a qualified lessee who will offer to lease the
+premises for the remaining lease term at the rent set
+forth in the lease, or
+c. lease the dealership facilities at a reasonable rental
+value for the portion of the facility that is
+recognized in the franchise agreement for one and one-
+half (1.5) years, or
+d. purchase the dealer's existing dealership facility and
+real estate at its fair market value. If the factory
+and dealer cannot agree on the fair market value of
+the terminated franchise or agree to a process to
+determine the fair market value, then the factory and
+dealer shall utilize the process described in
+paragraph 6 of subsection G of this section. If a
+manufacturer or distributor purchases a dealership
+facility and real estate, then it shall be entitled to
+sole ownership, possession, use, and control of any
+ENR. S. B. NO. 604 Page 12
+
+items, buildings, or property that were included in
+the contract to purchase.
+3. If the facilities are leased by the new motor vehicle or new
+powersports vehicle dealer from an entity other than a related
+entity as defined in 26 U.S.C.A., Section 267(b), or a member,
+partner, or shareholder of the dealership, within ninety (90) days
+following the effective date of the termination, cancellation, or
+nonrenewal the manufacturer will either:
+a. locate a tenant or tenants satisfactory to the lessor,
+who will sublet or assume the balance of the lease,
+b. arrange with the lessor for the cancellation of the
+lease without penalty to the new motor vehicle dealer,
+or
+c. failing the foregoing, lease the dealership facilities
+at a reasonable rent for the portion of the facility
+that is recognized in the franchise agreement for one
+(1) year or the remainder of the lease, whichever is
+less.
+4. The manufacturer shall not be obligated to provide
+assistance under this section if the new motor vehicle or new
+powersports vehicle dealer:
+a. fails to accept a bona fide offer from a prospective
+purchaser, sublessee, or assignee,
+b. refuses to execute a settlement agreement with the
+manufacturer or lessor if such agreement with the
+manufacturer or lessor would be without cost to the
+new motor vehicle dealer, or
+c. fails to make written request for assistance under
+this section within ninety (90) days after the
+effective date of the termination, cancellation, or
+nonrenewal.
+5. The manufacturer shall be entitled to occupy and use any
+space for which it pays rent required by this section.
+ENR. S. B. NO. 604 Page 13
+
+G. In addition to the repurchase requirements set forth in
+subsections E and F of this section, in the event the termination,
+cancellation, or nonrenewal is the result of a discontinuance of a
+product line, the manufacturer or distributor shall compensate the
+new motor vehicle or new powersports vehicle dealer as follows:
+1. In an amount equivalent to the fair market value of the
+terminated franchise as of the date immediately preceding the
+manufacturer's or distributor's announcement or provide the new
+motor vehicle dealer with a replacement franchise on substantially
+similar terms and conditions as those offered to other same line-
+make dealers;
+2. If the facilities are owned by the new motor vehicle or new
+powersports vehicle dealer or a related entity as defined in 26
+U.S.C.A., Section 267(b), or a member, partner, or shareholder of
+the dealership, and the owner has not sold the existing dealership
+facility and real estate within the later of one hundred eighty
+(180) days of listing the property for sale or ninety (90) days
+after the effective date of the termination, then, upon the written
+request of the dealer, the manufacturer or distributor shall
+purchase the dealer's existing dealership facility and real estate.
+The facility and real estate shall be valued as if a new motor
+vehicle or new powersports vehicle dealership continues to operate
+on the property. If the factory and dealer cannot agree on the
+value of the terminated franchise or agree to a process to determine
+the value, then the factory and dealer shall utilize the process
+described in paragraph 6 of this subsection. If a manufacturer or
+distributor purchases a dealership facility and real estate, then it
+shall be entitled to sole ownership, possession, use, and control of
+any items, buildings, or property that were included in the contract
+to purchase;
+3. If the facilities are leased by the new motor vehicle or new
+powersports vehicle dealer from an entity other than a related
+entity as defined in 26 U.S.C.A., Section 267(b), or a member,
+partner or shareholder of the dealership, lease the dealership
+facilities at a reasonable rent for the remainder of the lease;
+4. Any amount of pecuniary loss to the new motor vehicle or new
+powersports vehicle dealership proximately caused by the
+ENR. S. B. NO. 604 Page 14
+
+discontinuation of a product line, including, but not limited to,
+the cost of terminating services such as the dealership management
+system contract;
+5. The new motor vehicle or new powersports vehicle dealer may
+immediately request payment under this section following the
+announcement in exchange for canceling any further franchise rights,
+except payments owed to the new motor vehicle or new powersports
+vehicle dealer in the ordinary course of business, or may request
+payment under this section upon the final termination, cancellation,
+or nonrenewal of the franchise. In either case, payment under this
+section shall be made not later than ninety (90) days after the fair
+market value is determined, or the lease agreement is provided and
+other reasonable documentation is provided to the manufacturer or
+distributor sufficient to establish other pecuniary losses,
+whichever is later; and
+6. If the factory and new motor vehicle or new powersports
+vehicle dealer cannot agree on the value of the terminated franchise
+or real estate, or agree to a process to determine the value, then,
+within thirty (30) days of a written request by dealer, the factory
+shall select one appraiser, and the dealer shall select one
+appraiser who shall make an independent appraisal. The appraisers
+will be state-certified general real estate appraisers and be in
+good standing with the Oklahoma Real Estate Appraisal Board. Before
+entering upon their duties, such appraisers shall take and subscribe
+an oath, before a notary public or some other person authorized to
+administer oaths, that they will perform their duties faithfully and
+impartially to the best of their ability. If the appraisals are
+within ten percent (10%) of each other, the average of the two
+appraisals shall constitute the value. If the two appraisals differ
+by more than ten percent (10%), the two appraisers may appoint a
+third appraiser who shall review the two appraisals. The third
+appraisal, when taken with the first two appraisals and averaged
+among the three, shall establish the value. The cost of the third
+appraiser shall be shared equally by the factory and dealer. The
+appraisers shall make a valuation and determine the amount of
+compensation to be paid by the factory to the dealer. The factory
+will then have ninety (90) days to complete the transaction, unless
+otherwise agreed to by the parties. The factory and the dealer
+shall each be responsible for the appraiser it retains.
+ENR. S. B. NO. 604 Page 15
+
+SECTION 3. REPEALER 47 O.S. 2021, Section 562, as last
+amended by Section 2, Chapter 448, O.S.L. 2025 (47 O.S. Supp. 2025,
+Section 562), is hereby repealed.
+SECTION 4. REPEALER 47 O.S. 2021, Section 565.2, as last
+amended by Section 9, Chapter 240, O.S.L. 2024 (47 O.S. Supp. 2025,
+Section 565.2), is hereby repealed.
+SECTION 5. This act shall become effective November 1, 2026.
+ENR. S. B. NO. 604 Page 16
+
+Passed the Senate the 14th day of May, 2026.
+Presiding Officer of the Senate
+Passed the House of Representatives the 28th day of April, 2026.
+Presiding Officer of the House
+of Representatives
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of __________________, 20 _______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. S. B. NO. 604 Page 17

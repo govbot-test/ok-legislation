@@ -1,0 +1,1058 @@
+Title: 
+Official Title: 
+Source: versions - Floor (House)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 ENGROSSED SENATE
+BILL NO. 1916 By: Reinhardt of the Senate
+5
+and
+6
+Tedford of the House
+7
+8
+9 An Act relating to the Insurance Department; amending
+36 O.S. 2021, Sections 301, 1802, 1804, and 1805,
+10 which relate to supervisors and conservators of
+insurers; creating certain division within the
+11 Insurance Department; defining terms; modifying
+definitions; establishing certain powers for certain
+12 supervisor; updating statutory language; establishing
+certain powers for certain conservator; updating
+13 statutory references; allowing the Insurance
+Commissioner to employ or contract with certain
+14 persons; establishing certain expenses as fixed by
+the Commissioner; allowing the Commissioner to audit
+15 certain persons or books; establishing certain
+expenses as cost of administration; prohibiting
+16 records to be considered certain records; prohibiting
+disclosure of certain records in certain situations;
+17 construing provisions; establishing immunity of
+certain persons; amending 36 O.S. 2021, Sections
+18 1901, as last amended by Section 1, Chapter 371,
+O.S.L. 2023, and 1914 (36 O.S. Supp. 2025, Section
+19 1901), which relate to rehabilitation and
+liquidation; defining terms; modifying definitions;
+20 prohibiting records to be considered certain records;
+prohibiting disclosure of certain records in certain
+21 situations; construing provisions; allowing the
+Commissioner to employ or contract with certain
+22 persons; establishing certain expenses as fixed by
+the Commissioner; allowing the Commissioner to audit
+23 certain persons or books; establishing certain
+expenses as cost of administration; construing
+24 provisions; authorizing the Oklahoma Receivership
+SB1916 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+1 Office to deposit certain funds; allowing combining
+of certain funds; establishing use of certain funds;
+2 establishing certain immunity and indemnification;
+amending 36 O.S. 2021, Sections 1927.1 and 1937,
+3 which relate to rehabilitation and liquidation;
+updating statutory language; updating statutory
+4 references; establishing purpose of certain funds for
+certain immunity and indemnification obligations;
+5 establishing certain protections for certain
+contracted persons; making language gender neutral
+6 providing for codification; and providing an
+effective date.
+7
+8
+9 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+10 SECTION 1. AMENDATORY 36 O.S. 2021, Section 301, is
+11 amended to read as follows:
+12 Section 301. A. The Insurance Department of the State of
+13 Oklahoma is hereby created, and shall consist of such divisions,
+14 sections, bureaus, offices, and positions as may be established by
+15 the Insurance Commissioner, or by law. The Insurance Commissioner
+16 shall be the chief executive officer of the Insurance Department.
+17 The powers and duties of the Insurance Commissioner shall be those
+18 created by the Oklahoma Insurance Code. The Insurance Department
+19 shall be situated in one area in the State Capitol or some other
+20 location conveniently accessible to the general public subject to
+21 the provisions of Sections 63 and 94 of Title 74 of the Oklahoma
+22 Statutes and Section 580:20-13-5 of the Oklahoma Administrative
+23 Code.
+24
+SB1916 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+1 B. There is hereby established a division within the Department
+2 to handle the administration and operation of supervisions,
+3 conservatorships, and receiverships in accordance with the
+4 provisions of Sections 1801 through 1938 of this title. The
+5 division shall be under the direction of the Commissioner and any
+6 appointed supervisor or conservator. The Commissioner shall take
+7 all appropriate actions necessary to ensure a smooth conversion of
+8 all existing supervisions, conservatorships, and receiverships to
+9 the division by no later than January 1, 2028.
+10 SECTION 2. AMENDATORY 36 O.S. 2021, Section 1802, is
+11 amended to read as follows:
+12 Section 1802. As used in Article 18 of the Insurance Code, the
+13 following words and terms set forth below shall have the meanings
+14 ascribed to them unless the context otherwise indicates this act:
+15 1. “Commissioner” means the Insurance Commissioner of this
+16 state;
+17 2. “Consent” means any agreement by the insurer to either
+18 supervision or conservatorship;
+19 3. “Conservator” means the Commissioner or his or her designee;
+20 4. “Exceeded its powers” includes, but is not limited to, the
+21 following circumstances:
+22 a. an insurer’s refusal to permit examination of its
+23 books, papers, accounts, records, or affairs by the
+24 Commissioner, his or her designee, or duly
+SB1916 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+1 commissioned examiners; or if such insurer being
+2 organized in the State of Oklahoma removes from the
+3 state such books, papers, accounts, or records
+4 necessary for an examination of such insurer,
+5 b. an insurer’s failure to promptly answer inquiries
+6 authorized by paragraph 7 of Section 1905 of this
+7 title,
+8 c. an insurer’s neglect or refusal to observe an order of
+9 the Commissioner to make good, within the time
+10 prescribed by law, any prohibited deficiency in its
+11 capital or surplus,
+12 d. an insurer, without first obtaining written approval
+13 of the Commissioner, by contract or otherwise:
+14 (1) totally reinsuring its entire outstanding
+15 business, or
+16 (2) merging or consolidating substantially its entire
+17 property or business with another approved
+18 insurer, or
+19 e. an insurer continuing to write business after its
+20 license has been revoked or suspended;
+21 5. “Insolvent” or “insolvency” means any actual or threatened
+22 insurer delinquency including, but not limited to, any one or more
+23 of the following circumstances:
+24
+SB1916 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+1 a. an insurer’s required surplus or capital is impaired
+2 to an extent prohibited by law,
+3 b. an insurer continues to write new business when it is
+4 not possessed of the surplus or capital required of it
+5 by law,
+6 c. the business of any such insurer is being conducted
+7 fraudulently,
+8 d. any such insurer attempts to dissolve or liquidate
+9 without first having made provisions, satisfactory to
+10 the Commissioner, for liabilities arising from
+11 policies of insurance issued by such insurer, or
+12 e. the insurer has made investments in violation of the
+13 Oklahoma Insurance Code or has knowingly over-valued
+14 insurer’s assets;
+15 6. “Insurer” is a person, organization, association or company,
+16 authorized or unauthorized, admitted or nonadmitted, acting as an
+17 insurer, or as principal or agent of an insurer, including any
+18 domestic, foreign or alien insurer, as defined in Article 6 of the
+19 Insurance Code, and including stock companies, reciprocals or
+20 insurance exchanges, Lloyds Associations, fraternal benefit
+21 societies, stipulated premium companies, and mutual companies of all
+22 kinds, including statewide mutual assessment corporations, local
+23 mutual aids, burial associations, county mutual insurance companies
+24
+SB1916 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+1 and farm mutual insurance companies, and health maintenance
+2 organizations;
+3 3. “Insolvent” or “insolvency” means any actual or threatened
+4 insurer delinquency including, but not limited to, any one or more
+5 of the following circumstances:
+6 a. an insurer’s required surplus or capital is impaired
+7 to an extent prohibited by law,
+8 b. an insurer continues to write new business when it is
+9 not possessed of the surplus or capital required of it
+10 by law,
+11 c. the business of any such insurer is being conducted
+12 fraudulently,
+13 d. any such insurer attempts to dissolve or liquidate
+14 without first having made provisions, satisfactory to
+15 the Commissioner, for liabilities arising from
+16 policies of insurance issued by such insurer; or
+17 e. the insurer has made investments in violation of the
+18 Insurance Code or has knowingly over-valued insurer’s
+19 assets;
+20 4. “Exceeded its powers” includes, but is not limited to, the
+21 following circumstances:
+22 a. an insurer’s refusal to permit examination of its
+23 books, papers, accounts, records or affairs by the
+24 Commissioner, his or her deputy or duly-commissioned
+SB1916 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+1 examiners; or if such insurer being organized in the
+2 State of Oklahoma removes from the state such books,
+3 papers, accounts or records necessary for an
+4 examination of such insurer,
+5 b. an insurer’s failure to promptly answer inquiries
+6 authorized by Section 1905(6) of this title,
+7 c. an insurer’s neglect or refusal to observe an order of
+8 the Commissioner to make good, within the time
+9 prescribed by law, any prohibited deficiency in its
+10 capital or surplus,
+11 d. an insurer, without first obtaining written approval
+12 of the Commissioner, by contract or otherwise:
+13 (1) totally reinsuring its entire outstanding
+14 business, or
+15 (2) merging or consolidating substantially its entire
+16 property or business with another approved
+17 insurer, or
+18 e. an insurer continuing to write business after its
+19 license has been revoked or suspended; and
+20 5. “Consent” means any agreement by the insurer to either
+21 supervision or conservatorship
+22 7. “Oklahoma Receivership Office” means a division within the
+23 Insurance Department that handles the administration and operation
+24
+SB1916 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+
+1 of s upervisions, conservatorships, and receiverships in accordance
+2 with the provisions of Sections 1801 through 1938 of this title; and
+3 8. “Supervisor” means the Commissioner or his or her designee.
+4 SECTION 3. AMENDATORY 36 O.S. 2021, Section 1804, is
+5 amended to read as follows:
+6 Section 1804. A. During any period of supervision, the
+7 Commissioner may appoint a supervisor for such insurer and provide
+8 that the insurer may not do any of the following things without the
+9 prior approval of the Commissioner or his the supervisor:
+10 1. Dispose, convey or encumber any of its assets or its
+11 business in force;
+12 2. Withdraw funds from bank accounts;
+13 3. Lend funds;
+14 4. Invest funds;
+15 5. Transfer property;
+16 6. Incur any debt, obligation or liability;
+17 7. Merge or consolidate with another company; or
+18 8. Enter into any new reinsurance contract or treaty.
+19 B. In addition, the Commissioner or the supervisor may require
+20 of the insurer, the following:
+21 1. Periodic actuarial reviews; and
+22 2. That the insurer limit or cease writing certain lines of
+23 insurance.
+24
+SB1916 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+
+1 C. Within the limits of duties imposed upon them, appointed
+2 supervisors shall possess all the powers given to a supervisor and,
+3 in the exercise of those powers, shall be subject to all duties,
+4 powers, and limitations imposed upon the supervisor.
+5 SECTION 4. AMENDATORY 36 O.S. 2021, Section 1805, is
+6 amended to read as follows:
+7 Section 1805. A. If, after notice and hearing, at the
+8 conclusion of the 90-day ninety-day period the Insurance
+9 Commissioner determines that the insurer has failed to comply with
+10 his the Commissioner’s lawful requirements, or upon consent of the
+11 insurer, he the Commissioner may appoint a conservator, who. Within
+12 the limits of the duties imposed upon the conservator, the
+13 conservator shall possess all the powers given to a conservator and,
+14 in the exercise of those powers, shall be subject to all of the
+15 duties, powers, and limitations imposed upon the conservator. The
+16 conservator shall immediately:
+17 1. Take charge of such insurer and all of the property, books,
+18 records and effects;
+19 2. Conduct its business; and
+20 3. Take such other steps toward the removal of the causes and
+21 conditions which have necessitated such order, as the Commissioner
+22 may direct.
+23
+24
+SB1916 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+
+1 B. During the pendency of conservatorship, the conservator
+2 shall make such reports as may be required by the Commissioner, and
+3 may:
+4 1. Take all necessary measures to preserve, protect and recover
+5 any assets or property of such insurer including claims or causes of
+6 action belonging to orwhich or which may be asserted by such insurer
+7 in his or her own name as conservator; and
+8 2. File, prosecute and defend any legal actions which have been
+9 filed, or which may thereafter be filed, by or against such insurer,
+10 as he the conservator deems necessary to protect all of the
+11 interested parties or any property affected thereby. The
+12 conservator shall file all quarterly and annual reports required by
+13 the Oklahoma Insurance Code and in the same manner as the insurer.
+14 C. If upon appointment of a conservator or at any time during
+15 the pendency of such conservatorship it appears that the insurer can
+16 best be protected by reinsuring the same, the conservator may, with
+17 the approval of the Commissioner, after appraisal of all assets of
+18 the insurer:
+19 1. Reinsure all or part of such insurer’s policies or
+20 certificates of insurance with any solvent insurers authorized to
+21 transact business in this state; and
+22 2. To the extent that such insurer is possessed of reserves
+23 attributable to such policies or certificates of insurance, transfer
+24 to the reinsuring company such reserves or any portion thereof as
+SB1916 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+
+1 may be required to consummate the reinsurance of such policies,
+2 which transfer of reserves shall not be deemed a preference of
+3 creditors.
+4 D. If the Commissioner is satisfied that the insurer is not in
+5 condition to continue business in the interest of its policy or
+6 certificate holders, under the conservator, the Commissioner shall
+7 apply to the appropriate court for an order appointing him or her as
+8 receiver for the insurer, under the provisions of Article 18
+9 Sections 1801 through 1938 of this title. It shall be in the
+10 discretion of the Commissioner to determine whether or not he or she
+11 will operate the insurance company through a conservator, as
+12 provided above, or apply for an order appointing him the
+13 Commissioner receiver.
+14 E. The cost incident to the supervisor’s and conservator’s
+15 service The Commissioner may employ or contract with an appointed
+16 supervisor or conservator, legal counsel, actuaries, accountants,
+17 appraisers, consultants, clerks, assistants, or other personnel as
+18 may be deemed necessary. Any appointed supervisor or conservator
+19 with whom the Commissioner contracts pursuant to this subsection
+20 shall be considered to be an agent of the Commissioner only in the
+21 Commissioner’s capacity as supervisor or conservator and shall not
+22 be considered an agent of the state.
+23 F. All expenses of the supervision or conservatorship shall be
+24 fixed by the Commissioner and paid from the assets and funds of the
+SB1916 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+
+1 insu rer as the Commissioner may determine. The cost of the
+2 supervisor’s or conservator’s service must shall be reasonable under
+3 the circumstances and shall continue no longer than necessary to
+4 preserve the assets of the insurer, certificate holders and the
+5 policyholders. All legal work required under this act shall be
+6 performed by the Commissioner, his the appointed supervisor or
+7 conservator, the Commissioner’s employees, or special attorneys
+8 employed by the Commissioner. The cost of such attorneys’ services
+9 must shall be reasonable under the circumstances and shall be paid
+10 from the assets and funds of the insurer to the Commissioner.
+11 G. The Commissioner, in his or her discretion, may require
+12 audits to be made of the books of any appointed supervisor or
+13 conservator relating to any supervision or conservatorship
+14 established under this act, and a report of each audit shall be
+15 filed with the Commissioner. The books, records, and other
+16 documents of the supervision or conservatorship shall be made
+17 available to the auditor at any time without notice. The expenses
+18 of each audit shall be considered a cost of administration of the
+19 supervision or conservatorship.
+20 H. The records of an insurer held by the Commissioner,
+21 supervisor, conservator, and his or her employees shall not be:
+22 1. Considered records of the Insurance Department;
+23 2. Public records;
+24 3. Subject to subpoena; and
+SB1916 HFLR Page 12
+BOLD FACE denotes Committee Amendments.
+
+1 4. Disclosed, except in connection with administrative or
+2 receivership proceedings by the Commissioner.
+3 I. The provisions of any law governing the procurement of goods
+4 and services by the state or an official of the executive branch
+5 shall not apply to any contract entered into by the Commissioner or
+6 the Commissioner’s authorized signatory as conservator or
+7 supervisor.
+8 F. J. The supervision or conservation may continue until the
+9 Commissioner (1) feels certain that the insurer has corrected any
+10 deficiencies that caused the supervision or conservation, or (2) a
+11 receivership has been granted by the Court.
+12 SECTION 5. NEW LAW A new section of law to be codified
+13 in the Oklahoma Statutes as Section 1813 of Title 36, unless there
+14 is created a duplication in numbering, reads as follows:
+15 The Insurance Commissioner, his or her employees, current or
+16 former appointed supervisor or conservator, or the supervisor’s or
+17 conservator’s contractors shall:
+18 1. Have no liability and no cause of action of any nature shall
+19 arise against such person for any action taken in performance of his
+20 or her powers and duties pursuant to this act; and
+21 2. Be indemnified to the same extent as a receiver and the
+22 receiver’s employees and contractors are indemnified pursuant to
+23 Section 1937 of Title 36 of the Oklahoma Statutes.
+24
+SB1916 HFLR Page 13
+BOLD FACE denotes Committee Amendments.
+
+1 SECTION 6. AMENDATORY 36 O.S. 2021, Section 1901, as
+2 last amended by Section 1, Chapter 371, O.S.L. 2023 (36 O.S. Supp.
+3 2025, Section 1901), is amended to read as follows:
+4 Section 1901. For the purpose of Article 19 of the Oklahoma
+5 Insurance Code As used in this act:
+6 1. “Ancillary state” means any state other than a domiciliary
+7 state;
+8 2. “Delinquency proceeding” means any proceeding commenced
+9 against an insurer pursuant to this act for the purpose of
+10 liquidating, rehabilitating, reorganizing, or conserving such
+11 insurer;
+12 3. “Domiciliary state” means the state in which an insurer is
+13 incorporated or organized, or in the case of an insurer incorporated
+14 or organized in a foreign country, the state in which such insurer,
+15 having become authorized to do business in such state, has at the
+16 commencement of delinquency proceedings the largest amount of its
+17 assets held in trust and assets held on deposit for the benefit of
+18 its policyholders or policyholders and creditors in the United
+19 States, and any such insurer deemed to be domiciled in such state;
+20 4. “Foreign country” means territory not in any state;
+21 5. “General assets” means all property, real, personal, or
+22 otherwise, not specifically mortgaged, pledged, deposited, or
+23 otherwise encumbered for the security or benefit of specified
+24 persons or a limited class or classes of persons, and as to such
+SB1916 HFLR Page 14
+BOLD FACE denotes Committee Amendments.
+
+1 spec ifically encumbered property, the term includes all such
+2 property or its proceeds in excess of the amount necessary to
+3 discharge the sum or sums secured. Assets held in trust and assets
+4 held on deposit for the security or benefit of all policyholders or
+5 all policyholders and creditors in the United States shall be deemed
+6 general assets;
+7 6. “Insurer” means any person, firm, corporation, health
+8 maintenance organization, association, or aggregation of persons
+9 doing an insurance business and subject to the insurance supervisory
+10 authority of, or to liquidation, rehabilitation, reorganization, or
+11 conservation by the Insurance Commissioner or the equivalent
+12 insurance supervisory official of another state;
+13 7. “Impairment” or “insolvency” means the capital of a stock
+14 insurer, or limited stock life, accident and health insurer, the net
+15 assets of a Lloyds association, or the surplus of a mutual or
+16 reciprocal insurer, shall be deemed to be impaired and the insurer
+17 shall be deemed to be insolvent, when such insurer shall not be
+18 possessed of assets at least equal to all liabilities and required
+19 reserves together with its total issued and outstanding capital
+20 stock if a stock insurer, the net assets if a Lloyds association, or
+21 the minimum surplus if a mutual or reciprocal insurer required by
+22 this Code to be maintained for the kind or kinds of insurance it is
+23 then authorized to transact;
+24
+SB1916 HFLR Page 15
+BOLD FACE denotes Committee Amendments.
+
+1 2. “Insurer” means any person, firm, corporation, health
+2 maintenance organizations, association or aggregation of persons
+3 doing an insurance business and subject to the insurance supervisory
+4 authority of, or to liquidation, rehabilitation, reorganization or
+5 conservation by the Insurance Commissioner or the equivalent
+6 insurance supervisory official of another state;
+7 3. “Delinquency proceeding” means any proceeding commenced
+8 against an insurer pursuant to this article for the purpose of
+9 liquidating, rehabilitating, reorganizing or conserving such
+10 insurer;
+11 4. “State” means any state of the United States and also the
+12 District of Columbia and Puerto Rico;
+13 5. “Foreign country” means territory not in any state;
+14 6. “Domiciliary state” means the state in which an insurer is
+15 incorporated or organized, or in the case of an insurer incorporated
+16 or organized in a foreign country, the state in which such insurer,
+17 having become authorized to do business in such state, has at the
+18 commencement of delinquency proceedings, the largest amount of its
+19 assets held in trust and assets held on deposit for the benefit of
+20 its policyholders or policyholders and creditors in the United
+21 States, and any such insurer is deemed to be domiciled in such
+22 state;
+23 7. “Ancillary state” means any state other than a domiciliary
+24 state;
+SB1916 HFLR Page 16
+BOLD FACE denotes Committee Amendments.
+
+1 8. “Reciprocal state” means any state other than this state
+2 that has enacted a law that sets forth a scheme for the
+3 administration of an insurer in receivership by the state’s
+4 insurance commissioner or comparable insurance regulatory official;
+5 9. “General assets” means all property, real, personal or
+6 otherwise, not specifically mortgaged, pledged, deposited or
+7 otherwise encumbered for the security or benefit of specified
+8 persons or a limited class or classes of persons, and as to such
+9 specifically encumbered property the term includes all such property
+10 or its proceeds in excess of the amount necessary to discharge the
+11 sum or sums secured thereby. Assets held in trust and assets held
+12 on deposit for the security or benefit of all policyholders or all
+13 policyholders and creditors in the United States shall be deemed
+14 general assets;
+15 10. “Preferred claim” means any claim with respect to which the
+16 law of the state or of the United States accords priority of
+17 payments from the general assets of the insurer;
+18 8. “Oklahoma Receivership Office” means a division within the
+19 Insurance Department that handles the administration and operation
+20 of supervisions, conservatorships, and receiverships in accordance
+21 with the provisions of Sections 1801 through 1938 of this title;
+22 9. “Preferred claim” means any claim with respect to which the
+23 laws of the state or of the United States accords priority of
+24 payments from the general assets of the insurer;
+SB1916 HFLR Page 17
+BOLD FACE denotes Committee Amendments.
+
+1 10. “Receiver” means a receiver, liquidator, rehabilitator, or
+2 conservator as the context may require;
+3 11. “Reciprocal state” means any state other than this state
+4 that has enacted a law that sets forth a scheme for the
+5 administration of an insurer in receivership by the state’s
+6 insurance commissioner or comparable insurance regulatory official;
+7 12. “Secured claim” means any claim secured by mortgage, trust
+8 deed, pledge, deposit as security, escrow, or otherwise, but not
+9 including special deposit claim or claims against general assets.
+10 The term also includes claims that more than four (4) months prior
+11 to the commencement of delinquency proceedings in the state of the
+12 insurer’s domicile have become liens upon specific assets by reason
+13 of judicial process;
+14 11. 13. “Special deposit claim” means any claim secured by a
+15 deposit made pursuant to statute for the security or benefit of a
+16 limited class or classes of persons, but not including any general
+17 assets;
+18 12. “Secured claim” means any claim secured by mortgage, trust
+19 deed, pledge, deposit as security, escrow, or otherwise, but not
+20 including special deposit claim or claims against general assets.
+21 The term also includes claims which more than four (4) months prior
+22 to the commencement of delinquency proceedings in the state of the
+23 insurer’s domicile have become liens upon specific assets by reason
+24 of judicial process;
+SB1916 HFLR Page 18
+BOLD FACE denotes Committee Amendments.
+
+1 13. “Receiver” means receiver, liquidator, rehabilitator, or
+2 conservator as the context may require; and
+3 14. “State” means any state, territory, or district of the
+4 United States including, but not limited to, the District of
+5 Columbia and Puerto Rico; and
+6 15. “Qualified financial contract” means a commodity contract,
+7 forward contract, repurchase agreement, securities contract, swap
+8 agreement, and any similar agreement the Commissioner determines by
+9 rule, regulation, resolution, or order to be a qualified financial
+10 contract.
+11 SECTION 7. AMENDATORY 36 O.S. 2021, Section 1914, is
+12 amended to read as follows:
+13 Section 1914. A. Whenever under this article Section 1901
+14 through 1938 of this title a receiver is to be appointed in
+15 delinquency proceedings for a domestic or alien insurer, the court
+16 shall appoint the Insurance Commissioner as the receiver. The court
+17 shall order the Insurance Commissioner forthwith to take possession
+18 of the assets of the insurer and to administer the same under the
+19 orders of the court.
+20 B. 1. As domiciliary receiver, the Insurance Commissioner
+21 shall be vested by operation of law with the title to all of the
+22 property, contracts, and rights of action and all of the books and
+23 records of the insurer, wherever located, as of the date of entry of
+24 the order directing the Commissioner to rehabilitate or liquidate a
+SB1916 HFLR Page 19
+BOLD FACE denotes Committee Amendments.
+
+1 dome stic insurer or to liquidate the United States branch of an
+2 alien insurer domiciled in this state, and the Commissioner shall
+3 have the right to recover the same and reduce the same to
+4 possession; except that ancillary receivers in reciprocal states
+5 shall have, as to assets located in their respective states, the
+6 rights and powers which are herein prescribed for ancillary
+7 receivers appointed in this state as to assets located in this
+8 state.
+9 2. The records of an insurer held by the Commissioner as
+10 receiver, the assistant receiver, and his or her employees, shall
+11 not be:
+12 a. considered records of the Insurance Department,
+13 b. public records,
+14 c. subject to subpoena, and
+15 d. disclosed except in connection with administrative or
+16 receivership proceedings by the Commissioner.
+17 C. The recording of a certified copy of the order directing
+18 possession to be taken in the office of the county clerk of the
+19 county where the proceedings are pending shall impart the same
+20 notice as would be imparted by a deed, bill of sale, or other
+21 evidence of title duly recorded or filed.
+22 D. The Insurance Commissioner as domiciliary receiver shall be
+23 responsible for the proper administration of all assets coming into
+24 the Commissioner’s possession or control. The court may at any time
+SB1916 HFLR Page 20
+BOLD FACE denotes Committee Amendments.
+
+1 requ ire a bond from the Commissioner or any assistants or deputies
+2 if deemed desirable for the protection of the assets.
+3 E. Upon taking possession of the assets of an insurer, the
+4 domiciliary receiver shall, subject to the direction of the court,
+5 immediately proceed to conduct the business of the insurer or to
+6 take such steps as are authorized by this article for the purpose of
+7 rehabilitating, liquidating, or conserving the affairs or assets of
+8 the insurer.
+9 F. 1. In connection with delinquency proceedings, the
+10 Insurance Commissioner may appoint one or more assistant
+11 commissioners receivers to act for the Commissioner and may employ
+12 such counsel, clerks, and assistants as are deemed necessary. The
+13 Commissioner may employ or contract with an assistant receiver,
+14 legal counsel, actuaries, accountants, appraisers, consultants,
+15 clerks, assistants, or other contractors as may be deemed necessary.
+16 Any appointed assistant receiver with whom the Commissioner
+17 contracts pursuant to this subsection shall be considered to be an
+18 agent of the Commissioner only in the Commissioner’s capacity as
+19 receiver and shall not be considered an agent of the state.
+20 2. The compensation of the assistant commissioners receivers,
+21 counsel, actuaries, accountants, consultants, clerks, assistants, or
+22 deputies other contractors and all expenses of taking possession of
+23 the insurer and of conducting the proceedings shall be fixed by the
+24 receiver, subject to the approval of the court, and shall be paid
+SB1916 HFLR Page 21
+BOLD FACE denotes Committee Amendments.
+
+1 out of the funds or assets of the insurer. Within the limits of
+2 duties imposed upon them, assistant commissioners receivers shall
+3 possess all the powers given to the receiver and, in the exercise of
+4 those powers, shall be subject to all of the duties, powers, and
+5 limitations imposed upon the receiver with respect to such
+6 proceedings.
+7 2. 3. The Commissioner, as receiver, is shall be prohibited
+8 from appointing any person who is related to the Commissioner within
+9 the third degree of consanguinity or affinity. Any appointment in
+10 violation of this paragraph is shall be void.
+11 3. 4. The Commissioner, as receiver, is shall be prohibited
+12 from entering into any contract with any person who is related to
+13 the Commissioner within the third degree of consanguinity or
+14 affinity. Any contract in violation of this paragraph is shall be
+15 void.
+16 G. The court, as it seems desirable, may require audits to be
+17 made of the books of the receiver relating to any receivership
+18 established pursuant to this act, and a report of each audit shall
+19 be filed with the receiver and the court. The books, records, and
+20 other documents of the receivership shall be made available to the
+21 auditor at any time without notice. The expenses of each audit
+22 shall be considered a cost of administration of the receivership.
+23 H. The provisions of any law governing the procurement of goods
+24 and services by the state or an official of the executive branch
+SB1916 HFLR Page 22
+BOLD FACE denotes Committee Amendments.
+
+1 shal l not apply to any contract entered into by the Commissioner or
+2 the Commissioner’s authorized signatory as receiver.
+3 SECTION 8. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 1914.1 of Title 36, unless there
+5 is created a duplication in numbering, reads as follows:
+6 A. The Oklahoma Receivership Office shall be authorized to
+7 deposit funds and assets held prior to the effective date of this
+8 act pursuant to Sections 1901 through 1938 of Title 36 of the
+9 Oklahoma Statutes into one or more accounts or investment accounts,
+10 in one or more state or national banks, saving banks, savings and
+11 loan associations, trust companies, investment firms, or other
+12 appropriate financial institutions. Funds deposited pursuant to
+13 this section may be:
+14 1. Combined to yield the highest rate of return on deposits, or
+15 in any other way to facilitate the efficient operation of the
+16 Oklahoma Receivership Office and the respective receiverships under
+17 its jurisdiction; and
+18 2. Used for the purpose of operating the division, for the
+19 expenses of the respective jurisdiction in accordance with the
+20 provisions of Sections 1901 through 1938 of Title 36 of the Oklahoma
+21 Statutes.
+22 B. Funds deposited pursuant to subsection A of this section
+23 shall be continuing funds, are not funds of this state, the
+24
+SB1916 HFLR Page 23
+BOLD FACE denotes Committee Amendments.
+
+1 Insu rance Department, or any other agency of this state, and shall
+2 be in no way commingled or combined with funds of this state.
+3 SECTION 9. AMENDATORY 36 O.S. 2021, Section 1927.1, is
+4 amended to read as follows:
+5 Section 1927.1. A. The priority of distribution of claims from
+6 the insurer’s estate shall be in accordance with the order in which
+7 each class of claims is set forth in this section. Before the
+8 members of the next class receive any payment, every claim in each
+9 class shall be:
+10 1. Paid in full; or
+11 2. Protected by adequate funds retained for such payment.
+12 Once such funds are approved by the court and paid or retained by
+13 the liquidator, the insurer’s estate shall have no further liability
+14 to members of that class except to the extent of the retained funds
+15 and any other undistributed funds. Payment of retained funds
+16 pursuant to court order under this section extinguishes the
+17 potential liability of the receiver to the United States or any
+18 other governmental entity. No subclasses shall be established
+19 within any class except as otherwise provided by law. No claim by a
+20 shareholder, policyholder or other creditor shall be permitted to
+21 circumvent the priority classes through the use of equitable
+22 remedies. The order of distribution of claims shall be as provided
+23 in subsection B of this section.
+24
+SB1916 HFLR Page 24
+BOLD FACE denotes Committee Amendments.
+
+1 B. 1. Class 1. The reasonable costs and expenses of
+2 administration expressly approved by the receiver, including but not
+3 limited to the following:
+4 a. the actual and necessary costs of preserving or
+5 recovering the assets of the insurer,
+6 b. compensation for all authorized services rendered in
+7 the conservation, rehabilitation or liquidation,
+8 c. any necessary filing or recordation fees,
+9 d. the fees and mileage payable to witnesses, including
+10 experts, and other litigation costs and expenses,
+11 e. authorized reasonable attorney fees and other
+12 professional services rendered in the conservation,
+13 rehabilitation or liquidation, and
+14 f. any reasonable expenses that were incurred in
+15 furtherance of activities that provided a material
+16 economic benefit to the estate.
+17 2. Class 2. The administrative expenses of guaranty
+18 associations. For purposes of this section these expenses shall be
+19 the reasonable expenses incurred by guaranty associations where the
+20 expenses are not payments or expenses which are required to be
+21 incurred as direct policy benefits in fulfillment of the terms of
+22 the insurance contract or policy, and that are of the type and
+23 nature that, but for the activities of the guaranty association
+24 otherwise would have been incurred by the receiver, including but
+SB1916 HFLR Page 25
+BOLD FACE denotes Committee Amendments.
+
+1 not limited to evaluations of policy coverage, activities involved
+2 in the adjustment and settlement of claims under policies, including
+3 those of in-house or outside adjusters, and the reasonable expenses
+4 incurred in connection with the arrangements for ongoing coverage
+5 through transfer to other insurers, policy exchanges or maintaining
+6 policies in force. The receiver may in his or her sole discretion
+7 approve as an administrative expense under this section any other
+8 reasonable expenses of the guaranty association if the receiver
+9 finds:
+10 a. the expenses are not expenses required to be paid or
+11 incurred as direct policy benefits by the terms of the
+12 policy, and
+13 b. the expenses were incurred in furtherance of
+14 activities that provided a material economic benefit
+15 to the estate as a whole, irrespective of whether the
+16 activities resulted in additional benefits to covered
+17 claimants.
+18 The court shall approve such expenses unless it finds the receiver
+19 abused his or her discretion in approving the expenses. If the
+20 receiver determines that any administrative expenses of a guaranty
+21 association were not reasonable expenses, but were nevertheless paid
+22 out of a statutory deposit or the proceeds of any bond or other
+23 asset located in another state or foreign country, then the court
+24 shall adjudge the Class 3 claims of that association to have been
+SB1916 HFLR Page 26
+BOLD FACE denotes Committee Amendments.
+
+1 paid to the extent of the amount of unreasonable expenses thus paid
+2 from those assets.
+3 If the receiver determines that the assets of the estate will be
+4 sufficient to pay all Class 1 claims in full, Class 2 claims shall
+5 be paid, provided that the liquidator shall secure from each of the
+6 associations receiving disbursements pursuant to this section an
+7 agreement to return to the liquidator such disbursements, together
+8 with investment income actually earned on such disbursements, as may
+9 be required to pay Class 1 claims. No bond shall be required of any
+10 such association.
+11 3. Class 3. All claims under policies including claims of the
+12 federal or any state or local government for losses incurred (“loss
+13 claims”) including third-party claims, claims for unearned premiums,
+14 all claims of a guaranty association for payment of covered claims
+15 or covered obligations of the insurer and all claims of a guaranty
+16 association for reasonable expenses other than those included in
+17 Class 2. All claims under life and health insurance and annuity
+18 policies, whether for death proceeds, health benefits, annuity
+19 proceeds, or investment values shall be treated as loss claims.
+20 That portion of any loss, indemnification for which is provided by
+21 other benefits or advantages recovered by the claimant, shall not be
+22 included in this class, other than benefits or advantages recovered
+23 or recoverable in discharge of familial obligation of support or by
+24 way of succession at death or as proceeds of life insurance, or as
+SB1916 HFLR Page 27
+BOLD FACE denotes Committee Amendments.
+
+1 grat uities. No payment by an employer to his employee shall be
+2 treated as a gratuity.
+3 Notwithstanding the foregoing, the following claims shall be
+4 excluded from Class 3 priority:
+5 a. obligations of the insolvent insurer arising out of
+6 reinsurance contracts,
+7 b. obligations incurred after the expiration date of the
+8 insurance policy or after the policy has been replaced
+9 by the insured or canceled at the insured’s request or
+10 after the policy has been canceled as provided in this
+11 act. Notwithstanding the provisions of this
+12 paragraph, earned premium claims on policies, other
+13 than reinsurance agreements, shall not be excluded,
+14 c. obligations to insurers, insurance pools or
+15 underwriting associations and their claims for
+16 contribution, indemnity or subrogation, equitable or
+17 otherwise,
+18 d. any claim which is in excess of any applicable limits
+19 provided in the insurance policy issued by the
+20 insolvent insurer,
+21 e. any amount accrued as punitive or exemplary damages
+22 unless expressly covered under the terms of the
+23 policy, and
+24
+SB1916 HFLR Page 28
+BOLD FACE denotes Committee Amendments.
+
+1 f. tort claims of any kind against the insurer, and
+2 claims against the insurer for bad faith or wrongful
+3 settlement practices.
+4 4. Class 4. Claims of the federal government other than those
+5 claims included in Class 3.
+6 5. Class 5. Debts due employees for services, benefits,
+7 contractual or otherwise due arising out of such reasonable
+8 compensation to employees for services performed to the extent that
+9 they do not exceed two (2) months of monetary compensation and
+10 represent payment for services performed within six (6) months
+11 before the filing of the petition for liquidation or, if
+12 rehabilitation preceded liquidation, within one (1) year before the
+13 filing of the petition for rehabilitation. Principal officers and
+14 directors shall not be entitled to the benefit of this priority
+15 except as otherwise approved by the liquidator and the court. This
+16 priority shall be in lieu of any other similar priority which may be
+17 authorized by law as to wages or compensation of employees.
+18 6. Class 6. Claims of any person, including claims of state or
+19 local governments, except those specifically classified elsewhere in
+20 this section.
+21 7. Class 7. Claims for commissions and service fees, and
+22 claims of attorneys for fees and expenses owed them by a person for
+23 services rendered in opposing a formal delinquency proceeding. In
+24 order to prove the claim, the claimant must shall show that the
+SB1916 HFLR Page 29
+BOLD FACE denotes Committee Amendments.
+
+1 insu rer which is the subject of the delinquency proceeding incurred
+2 such fees and expenses based on its best knowledge, information and
+3 belief, formed after reasonable inquiry indicating opposition was in
+4 the best interests of the person, was well grounded in fact and was
+5 warranted by existing law or a good-faith argument for the
+6 extension, modification or reversal of existing law, and that
+7 opposition was not pursued for any improper purpose, such as to
+8 harass or to cause unnecessary delay or needless increase in the
+9 cost of the litigation.
+10 8. Class 8. Claims of any state or local government for a
+11 penalty or forfeiture, but only to the extent of the pecuniary loss
+12 sustained from the act, transaction or proceeding out of which the
+13 penalty or forfeiture arose, with reasonable and actual costs
+14 occasioned thereby. The remainder of such claims shall be postponed
+15 to the class of claims under paragraph 9 of this subsection.
+16 9. Class 9. Surplus or contribution notes or similar
+17 obligations, premium refunds on assessable policies, interest on
+18 claims of Classes 1 through 8 and any other claims specifically
+19 subordinated to this class.
+20 10. Class 10. a. Claims of shareholders or other owners
+21 arising out of their capacity as shareholders or other owners, or
+22 arising in any other capacity or facts except as they may be
+23 qualified in Class 3 or 4 above; provided, however, that no
+24 shareholder, member or other owner shall be entitled to, or receive,
+SB1916 HFLR Page 30
+BOLD FACE denotes Committee Amendments.
+
+1 any distribution from the insolvent insurer’s estate under this
+2 paragraph, if:
+3 (1) a. the intentional wrongdoing, fraud, gross negligence,
+4 negligence or other act, failure to act, transaction
+5 or proceeding of such shareholder, member or owner,
+6 alone or in concert with others, or of a director or
+7 officer of the insolvent insurer, is found by a court
+8 of competent jurisdiction or by the receiver in his or
+9 her reasonable discretion, to have caused, or to have
+10 been a contributing factor to, the insolvency of the
+11 insolvent insurer,
+12 (2) b. funds were collected from the shareholder, member or
+13 other owner, either directly or through an insurance
+14 carrier, fidelity bond issuer or other entity, as a
+15 consequence of, or related to, a claim made or brought
+16 by the receiver of said insurer, or
+17 (3) c. any of the funds available for distribution consist
+18 of punitive damages recovered by the receiver of said
+19 estate from any source based upon any claim made or
+20 brought by the receiver.
+21 C. 1. In the event there is no eligible shareholder, member or
+22 other owner entitled to distribution in accordance with this
+23 paragraph section, the remaining funds and other property of the
+24 insolvent insurer’s estate, if any, shall be distributed to a fund
+SB1916 HFLR Page 31
+BOLD FACE denotes Committee Amendments.
+
+1 esta blished and held in the name of, and for the use and benefit of,
+2 the receiver, through the Oklahoma Receivership Office or any
+3 similar entity established by the receiver, which shall be used in
+4 the administration of other insurers in rehabilitation or
+5 liquidation.
+6 b. 2. All funds distributed to the receiver under this
+7 paragraph shall be advanced to and utilized by the receiver’s staff
+8 engaged in the rehabilitation or liquidation of insolvent insurance
+9 business companies for the following purposes:
+10 (1) a. the administration of liquidations of estates which
+11 temporarily or permanently do not have the financial
+12 capability to administer the liquidation, including
+13 the prosecution of claims of the receiver, or
+14 (2) b. the prosecution of petitions to place insurers in
+15 rehabilitation or liquidation, or
+16 c. the immunity and indemnification obligations of the
+17 insurer pursuant to Section 1937 of this title.
+18 In the event such 3. Such funds are distributed to or for an
+19 insolvent insurer, the receiver shall obtain from the insurer a
+20 promissory note or other evidence of indebtedness, secured by
+21 collateral if possible, for the amount distributed, which shall be
+22 treated as a Class 1 expense under paragraph 1 of this subsection.
+23 The receiver shall make good-faith efforts to collect reimbursement
+24 of any such loans. No funds distributed to the receiver under this
+SB1916 HFLR Page 32
+BOLD FACE denotes Committee Amendments.
+
+1 para graph shall be used to pay claims other than Class 1 claims
+2 under paragraph 1 of this subsection. The funds are not funds of
+3 the State of Oklahoma this state and are not funds of the Oklahoma
+4 Insurance Department or any other agency of the State of Oklahoma
+5 this state.
+6 This paragraph shall apply to the administration of all receivership
+7 estates open and ongoing as of November 1, 2014, and to all
+8 receivership proceedings commenced after November 1, 2014.
+9 C. D. If any claimant of this state, another state or foreign
+10 country shall be entitled to or shall receive a dividend upon his or
+11 her claim out of a statutory deposit or the proceeds of any bond or
+12 other asset located in another state or foreign country, unless such
+13 deposit or proceeds shall have been delivered to the domiciliary
+14 liquidator, then the claimants shall not be entitled to any further
+15 dividend from the receiver until and unless all other claimants of
+16 the same class, irrespective of residence or place of the acts or
+17 contracts upon which their claims are based, shall have received an
+18 equal dividend upon their claims, and after such equalization, such
+19 claimants shall be entitled to share in the distribution of further
+20 dividends by the receiver, along with and like all other creditors
+21 of the same class, wheresoever residing.
+22 D. E. Upon the declaration of a dividend, the receiver shall
+23 apply the amount of the dividend against any indebtedness owed to
+24 the insurer by the person entitled to the dividend. There shall be
+SB1916 HFLR Page 33
+BOLD FACE denotes Committee Amendments.
+
+1 no c laim allowed for any deductible charged by a guaranty
+2 association or entity performing a similar function.
+3 E. F. This section shall apply to pending and future claims in
+4 existing delinquency proceedings as well as to claims in delinquency
+5 proceedings arising after the effective date of this section.
+6 F. G. If any provision of this section or the application
+7 thereof to any person or circumstances is held invalid, such
+8 invalidity shall not affect other provisions or application of this
+9 section to the extent such other provisions or application can be
+10 given effect without the invalid provision or application.
+11 SECTION 10. AMENDATORY 36 O.S. 2021, Section 1937, is
+12 amended to read as follows:
+13 Section 1937. A. For the purposes of this section the persons
+14 entitled to protection under this section are:
+15 1. The receiver, assistant receiver, and retained counsel
+16 responsible for the conduct of a delinquency proceeding under
+17 Article 19 of the Insurance Code, including present and former
+18 receivers; and
+19 2. Their employees meaning all present and former assistant
+20 receivers and attorneys for the receiver appointed by the Insurance
+21 Commissioner and all persons whom the Commissioner, assistant
+22 receiver or retained counsel have employed, or contracted with, to
+23 assist in a delinquency proceeding under Article 19 of the Insurance
+24 Code pursuant to Sections 1901 through 1938 of this title.
+SB1916 HFLR Page 34
+BOLD FACE denotes Committee Amendments.
+
+1 Atto rneys, accountants, auditors and other professional persons or
+2 firms, who are retained by the receiver as independent contractors
+3 and their employees shall not be considered employees of the
+4 receiver for purposes of this section.
+5 B. If any legal action is commenced against the receiver or any
+6 employee, whether against him such person personally or in his or
+7 her official capacity, alleging property damage, property loss,
+8 personal injury or other civil liability caused by or resulting from
+9 any alleged act, error or omission of the receiver or any employee
+10 arising out of or by reason of their his or her duties or
+11 employment, the receiver and any employee shall be indemnified from
+12 the assets of the insurer for all expenses, attorneys’ fees,
+13 judgments, settlements, decrees or amounts due and owing or paid in
+14 satisfaction of or incurred in the defense of such legal action
+15 unless it is determined upon a final adjudication on the merits that
+16 the alleged act, error or omission of the receiver or employee
+17 giving rise to the claim did not arise out of or by reason of his
+18 duties or employment, or was caused by intentional or willful and
+19 wanton misconduct.
+20 1. Attorneys’ fees and any and all related expenses incurred in
+21 defending a legal action for which immunity or indemnity is
+22 available under this section shall be paid from the assets of the
+23 insurer, as they are incurred, in advance of the final disposition
+24 of such action upon receipt of an undertaking by or on behalf of the
+SB1916 HFLR Page 35
+BOLD FACE denotes Committee Amendments.
+
+1 rece iver or employee to repay the attorneys’ fees and expenses if it
+2 shall ultimately be determined upon a final adjudication on the
+3 merits that the receiver or employee is not entitled to immunity or
+4 indemnity under this section.
+5 2. Any indemnification for expense payments, judgments,
+6 settlements, decrees, attorneys’ fees, surety bond premiums or other
+7 amounts paid or to be paid from the insurer’s assets pursuant to
+8 this section shall be an administrative expense of the insurer.
+9 3. In the event of any actual or threatened litigation against
+10 a receiver or any employee for which immunity or indemnity may be
+11 available under this section, a reasonable amount of funds which in
+12 the judgment of the Insurance Commissioner may be needed to provide
+13 immunity or indemnity shall be segregated and reserved from the
+14 assets of the insurer as security for the payment of indemnity until
+15 such time as all applicable statutes of limitation shall have run
+16 and all actual or threatened actions against the receiver or any
+17 employee have been completely and finally resolved, and all
+18 obligations of the insurer and the Commissioner under this section
+19 shall have been satisfied.
+20 4. In lieu of segregation and reserving of funds, the Insurance
+21 Commissioner shall have the discretion to obtain a surety bond or
+22 make other arrangements which shall enable the Commissioner to fully
+23 secure the payment of all obligations under pursuant to this
+24 section.
+SB1916 HFLR Page 36
+BOLD FACE denotes Committee Amendments.
+
+1 C. If any legal action against an employee for which indemnity
+2 may be available under pursuant to this section is settled prior to
+3 final adjudication on the merits, the insurer must shall pay the
+4 settlement amount on behalf of the employee, or indemnify the
+5 employee for the settlement amount, unless the Insurance
+6 Commissioner determines:
+7 1. That the claim did not arise out of or by reason of the
+8 employee’s duties or employment; or
+9 2. That the claim was caused by the intentional or willful and
+10 wanton misconduct of the employee.
+11 D. In any legal action in which the receiver is a defendant,
+12 that portion of any settlement relating to the alleged act, error or
+13 omission of the receiver shall be subject to the approval of the
+14 court before which the delinquency proceeding is pending. The court
+15 shall not approve that portion of the settlement if it determines:
+16 1. That the claim did not arise out of or by reason of the
+17 receiver’s duties or employment; or
+18 2. That the claim was caused by the intentional or willful and
+19 wanton misconduct of the receiver.
+20 E. Nothing contained or implied in this section shall operate,
+21 or be construed or applied to deprive the receiver or any employee
+22 of any immunity, indemnity, benefits of law, rights or any defense
+23 otherwise available.
+24
+SB1916 HFLR Page 37
+BOLD FACE denotes Committee Amendments.
+
+1 F. 1. No legal action shall lie against the receiver or any
+2 employee based in whole or in part on any alleged act, error or
+3 omission which took place prior to September 1, 1992, unless suit is
+4 filed and valid service of process is obtained prior to September 1,
+5 1993.
+6 2. Subsections B, C, and D of this section shall apply to any
+7 suit which is pending on or filed after September 1, 1992, without
+8 regard to when the alleged act, error or omission took place.
+9 SECTION 11. This act shall become effective November 1, 2026.
+10
+11 COMMITTEE REPORT BY: COMMITTEE ON GOVERNMENT OVERSIGHT, dated
+04/14/2026 - DO PASS
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SB1916 HFLR Page 38
+BOLD FACE denotes Committee Amendments.

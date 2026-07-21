@@ -1,0 +1,199 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 HOUSE BILL 3547 By: Maynard
+4
+5
+6 AS INTRODUCED
+7 An Act relating to schools; creating the Parent Data
+Sovereignty Act of 2026; declaring legislative
+8 findings and intent; defining terms; clarifying
+ownership of certain student data; prohibiting
+9 student data use for commercial purposes; declaring
+parental rights to obtain student data and opt out of
+10 certain data collection activities; prohibiting
+collection of student data under certain
+11 circumstances without parental consent; requiring
+legislative approval for certain data collection;
+12 prohibiting transfer of student data to other
+agencies and private organizations; requiring the
+13 State Department of Education to create a parent opt-
+out form; prohibiting penalization of students for
+14 opting out; mandating the creation of a Data
+Transparency Portal; providing portal content;
+15 requiring contractors and vendors to take certain
+steps to protect student data; providing penalties
+16 for violations; requiring the State Department of
+Education to promulgate rules; providing for
+17 codification; and providing an effective date.
+18
+19
+20 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+21 SECTION 1. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 3-168.1 of Title 70, unless
+23 there is created a duplication in numbering, reads as follows:
+24
+Req. No. 14154 Page 1
+
+1 A. This act shall be known and my be cited as the "Parent Data
+2 Sovereignty Act of 2026".
+3 B. 1. The Legislature finds that:
+4 a. parents possess a fundamental right to direct the
+5 upbringing, education, and privacy of their children,
+6 b. public agencies exist to serve citizens, not to
+7 compile or commercialize data on them,
+8 c. current state and federal education data systems
+9 collect and retain personally identifiable student
+10 information without sufficient transparency, consent,
+11 or parental control, and
+12 d. the preservation of liberty in the digital age
+13 requires explicit limits on the collection, retention,
+14 and disclosure of personal data by state agencies.
+15 2. It is the intent of the Legislature to affirm that parents
+16 are the primary stewards of their children's information, to
+17 restrict government data collection to what is legally necessary,
+18 and to provide parents clear rights of notice, access, and consent.
+19 C. As used in this act:
+20 1. "Personally identifiable educational data (PIED)" means any
+21 information maintained by a state education agency or contractor
+22 that could identify an individual student or parent, including but
+23 not limited to, name, student identification, demographic data,
+24
+Req. No. 14154 Page 2
+
+1 disc iplinary history, test results, biometric or health data, or any
+2 combination thereof;
+3 2. "Parent" means a natural parent, guardian, or person with
+4 legal authority to make educational decisions for the student;
+5 3. "State education agency" means the State Department of
+6 Education and any other public entity or vendor authorized to
+7 collect or process student data; and
+8 4. "Longitudinal linkage" means any state database that links
+9 student information across years, programs, or agencies for tracking
+10 educational or workforce outcomes.
+11 D. All personally identifiable educational data relating to a
+12 minor child is the property of the parent until the student reaches
+13 eighteen (18) years of age. State agencies and their contractors
+14 shall act only as custodians of personally identifiable educational
+15 data and shall not obtain any proprietary or ownership interest of
+16 such data. No state education agency or local school district shall
+17 sell, trade, or license any student data for commercial purposes.
+18 E. A parent shall have the right to:
+19 1. Obtain, within thirty (30) days of request, a complete
+20 record of all data elements collected or maintained on his or her
+21 child by any state education agency or local school district;
+22 2. Request correction or deletion of any inaccurate or
+23 unnecessary data;
+24
+Req. No. 14154 Page 3
+
+1 3. Opt out of any nonessential collection or data linkage
+2 beyond what is required by state or federal law for enrollment,
+3 funding, or accountability;
+4 4. Opt out of inclusion in any research study, predictive
+5 analytics model, artificial intelligence training dataset, or cross-
+6 agency workforce linkage; and
+7 5. Receive annual written notice from the school district and
+8 the State Department of Education listing data elements collected,
+9 their purpose, and all authorized data-sharing agreements.
+10 F. 1. No personally identifiable educational data shall be
+11 collected unless expressly authorized by state or federal law. The
+12 following categories shall not be collected or retained without the
+13 written consent of a parent:
+14 a. political or religious affiliation or beliefs,
+15 b. family income or tax information other than free and
+16 reduced lunch eligibility,
+17 c. biometric, health, or psychological data unrelated to
+18 special education services,
+19 d. student social media identifiers or Internet activity,
+20 and
+21 e. any data not directly necessary for educational
+22 instruction or accountability.
+23
+24
+Req. No. 14154 Page 4
+
+1 2. New data elements proposed for collection by the State
+2 Department of Education shall receive legislative approval following
+3 public notice and hearing before implementation.
+4 G. 1. Personally identifiable student data shall not be
+5 transferred to any federal or state agencies, including but not
+6 limited to, workforce, health, or human services agencies, or to any
+7 private contractor or nonprofit organization without the written
+8 consent of the parent, or the student if the student has reached
+9 eighteen (18) years of age, unless otherwise authorized by law.
+10 2. Any data-sharing arrangement between multiple agencies shall
+11 be disclosed publicly through the Data Transparency Portal
+12 established under subsection I of this section.
+13 H. 1. The State Department of Education shall develop a
+14 standardized Parent Data Opt-Out Form, available electronically and
+15 in paper format. Upon receipt of a completed form, the local school
+16 district shall exclude the applicable student's records from
+17 longitudinal and cross-agency linkage, and only de-identified or
+18 aggregate data shall be used for state reporting purposes.
+19 2. No student shall be penalized, denied enrollment, or suffer
+20 academic disadvantage for opting out of data sharing as permitted by
+21 this section.
+22 I. In addition to the requirements of Section 3-168 of this
+23 title, the State Department of Education shall create and maintain a
+24 publicly accessible Data Transparency Portal that:
+Req. No. 14154 Page 5
+
+1 1. Lists all data elements collected by the Department;
+2 2. Identifies which elements are mandatory versus optional;
+3 3. Publishes copies of all active vendor contracts and data-
+4 sharing agreements;
+5 4. Reports all data breaches or unauthorized disclosures within
+6 thirty (30) days; and
+7 5. Posts annual privacy and security compliance audits required
+8 under this section.
+9 J. 1. Any contractor or vendor handling student data shall:
+10 a. sign a Parent Data Privacy Agreement acknowledging its
+11 obligations under this section,
+12 b. employ industry standard encryption, multi-factor
+13 authentication, and secure data storage protocols,
+14 c. delete or return all data within ninety (90) days of
+15 contract termination, and
+16 d. submit to random privacy and security audits by the
+17 State Department of Education or an independent third-
+18 party auditor.
+19 2. Vendors found in violation may be barred from future
+20 contracts for a period of up to five (5) years.
+21 K. 1. Any person or entity that violates any provision of this
+22 section shall be subject to a civil penalty not to exceed Ten
+23 Thousand Dollars ($10,000.00) per violation, which may be assessed
+24 by a court of competent jurisdiction. Each unauthorized disclosure,
+Req. No. 14154 Page 6
+
+1 tran sfer, sale, or use of personally identifiable educational data
+2 shall constitute a separate violation.
+3 2. Any person who knowingly or intentionally discloses, sells,
+4 transfers, or otherwise makes available personally identifiable
+5 educational data in violation of this section shall be guilty of a
+6 misdemeanor, punishable by imprisonment in the county jail for a
+7 term not to exceed one (1) year, or by a fine not to exceed One
+8 Thousand Dollars ($1,000.00), or by both such imprisonment and fine.
+9 3. Parents may bring a private cause of action for injunctive
+10 relief and damages in the district court of competent jurisdiction
+11 for harm caused by violations of this section.
+12 L. The State Board of Education shall promulgate rules to
+13 implement the provisions of this section within one hundred eighty
+14 (180) days of the effective date of this act.
+15 SECTION 2. This act shall become effective November 1, 2026.
+16
+17 60-2-14154 SW 01/10/26
+18
+19
+20
+21
+22
+23
+24
+Req. No. 14154 Page 7

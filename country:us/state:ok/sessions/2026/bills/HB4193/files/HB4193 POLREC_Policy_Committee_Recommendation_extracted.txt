@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - Policy Committee Recommendation
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+11 STATE OF OKLAHOMA
+22 2nd Session of the 60th Legislature (2026)
+33 POLICY COMMITTEE
+RECOMMENDATION
+44 FOR
+HOUSE BILL NO. 4193 By: Chapman
+55
+66
+77
+88 POLICY COMMITTEE RECOMMENDATION
+99 An Act relating to state procurement; creating the
+Procurement Protection Act of 2026; defining terms;
+1100 prohibiting certain entities from entering into
+contracts with certain companies; requiring certain
+1111 disclosure statements; providing penalties; providing
+exceptions to certain prohibitions; providing for
+1122 noncodification; providing for codification; and
+providing an effective date.
+1133
+1144
+1155
+1166 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+1177 SECTION 1. NEW LAW A new section of law not to be
+1188 codified in the Oklahoma Statutes reads as follows:
+1199 This act shall be known and may be cited as the "Procurement
+2200 Protection Act of 2026".
+2211 SECTION 2. NEW LAW A new section of law to be codified
+2222 in the Oklahoma Statutes as Section 85.59 of Title 74, unless there
+2233 is created a duplication in numbering, reads as follows:
+2244 As used in this act:
+Req. No. 16530 Page 1
+
+11 1. "Company" means any sole proprietorship, organization,
+22 association, corporation, partnership, joint venture, limited
+33 partnership, limited liability partnership, limited liability
+44 company, or other entity or business association, including all
+55 wholly owned subsidiaries, majority-owned subsidiaries, parent
+66 companies, or affiliates of such entities or business associations
+77 that exist for the purpose of making profit;
+88 2. "Control" means:
+99 a. control as defined in the Investment Company Act of
+1100 1940, 15 U.S.C., Section 80a-2(a), or
+1111 b in the case of a company domiciled in the People’s
+1122 Republic of China, involvement in a company’s
+1133 governance structure, monitoring, or internal human
+1144 resources decisions of a company consistent with the
+1155 objectives set out in the Opinion on Strengthening the
+1166 United Front Work of the Private Economy in the New
+1177 Era issued by the General Office of the Central
+1188 Committee of the Chinese Communist Party (2020) or a
+1199 successor or similar document;
+2200 3. "Domicile" means the country in which a company is
+2211 registered, the company’s affairs are primarily completed, and where
+2222 the majority of ownership share is held;
+2233 4. "Federally banned corporation" means any company producing
+2244 designated equipment federally banned currently or banned after the
+Req. No. 16530 Page 2
+
+11 effe ctive date of this act. Such bans shall include those resulting
+22 from, but not limited to, the following federal agencies and acts:
+33 a. the Federal Communications Commission, including, but
+44 not limited to, any equipment or service deemed to
+55 pose a threat to national security identified on the
+66 Covered List developed pursuant to 47 C.F.R., Section
+77 1.50002 and published by the Public Safety and
+88 Homeland Security Bureau of the Federal Communications
+99 Commission pursuant to the federal Secure and Trusted
+1100 Communications Networks Act of 2019, 47 U.S.C.,
+1111 Section 1601 et seq.,
+1122 b. the United States Department of Commerce,
+1133 c. the Cybersecurity and Infrastructure Security Agency,
+1144 d. the Federal Acquisition Security Council, and
+1155 e. Section 889 of the John S. McCain National Defense
+1166 Authorization Act for Fiscal Year 2019, P. L. 115-232;
+1177 5. "Foreign adversary" means adversarial nations including the
+1188 People's Republic of China, the Russian Federation, the Islamic
+1199 Republic of Iran, the Democratic People's Republic of Korea, the
+2200 Republic of Cuba, the Venezuelan regime of Nicolás Maduro, and the
+2211 Syrian Arab Republic; and
+2222 6. "Foreign adversary company" means any company, other than a
+2233 United States person or United States subsidiary as such terms are
+2244 defined in 15 C.F.R., Section 772.1, that:
+Req. No. 16530 Page 3
+
+11 a. is domiciled, incorporated, issued, or listed in a
+22 foreign adversary country,
+33 b. is headquartered in a foreign adversary country,
+44 c. has its principal place of business in a foreign
+55 adversary country,
+66 d. is controlled by the government of a foreign adversary
+77 or any instrumentality thereof, or
+88 e. is majority-owned by an entity controlled by the
+99 government of a foreign adversary or any
+1100 instrumentality thereof.
+1111 If a parent company does not meet any of the criteria set forth
+1122 in this paragraph and does not recognize more than fifty percent
+1133 (50%) of the total annual global revenue of the parent company and
+1144 subsidiaries from a foreign adversary, such parent company shall not
+1155 be considered a foreign adversary company.
+1166 SECTION 3. NEW LAW A new section of law to be codified
+1177 in the Oklahoma Statutes as Section 85.59a of Title 74, unless there
+1188 is created a duplication in numbering, reads as follows:
+1199 A. Except as provided under subsection D of this section, the
+2200 following companies shall be ineligible to bid on or submit a
+2211 proposal for a contract with a state agency for goods or services:
+2222 1. A state-owned enterprise of a foreign adversary;
+2233 2. A company domiciled within a foreign adversary;
+2244 3. A foreign adversary company; or
+Req. No. 16530 Page 4
+
+11 4. A federally banned corporation.
+22 B. A state agency shall require a company that submits a bid or
+33 proposal with respect to a contract for goods or services to certify
+44 that the company is not a company listed under subsection A of this
+55 section.
+66 C. If the Director of the Office of Management and Enterprise
+77 Services determines that a company has knowingly submitted a false
+88 certification under subsection B of this section:
+99 1. The company shall be liable for a civil penalty in an amount
+1100 that is equal to Two Hundred Fifty Thousand Dollars ($250,000.00) or
+1111 twice the amount of the contract for which a bid or proposal was
+1122 submitted, whichever is greater;
+1133 2. The state agency or the Office of Management and Enterprise
+1144 Services shall terminate the contract with the company; and
+1155 3. The company shall be ineligible to, and shall not, bid on a
+1166 state contract for sixty (60) months and shall provide proof of
+1177 ownership change to the State Purchasing Director before being
+1188 eligible again to bid on state contracts.
+1199 D. Notwithstanding the provisions of subsection B of this
+2200 section, a state agency may enter into a contract for goods
+2211 manufactured by a company listed under subsection A of this section
+2222 if:
+2233 1. There is no other reasonable option for procuring the good;
+2244 and
+Req. No. 16530 Page 5
+
+11 2. The contract is pre-approved by the Director of the Office
+22 of Management and Enterprise Services after a determination that not
+33 procuring the good would pose a greater threat to this state than
+44 the threat associated with the procurement.
+55 SECTION 4. This act shall become effective November 1, 2026.
+66
+77 60-2-16530 MAH 02/18/26
+88
+99
+1100
+1111
+1122
+1133
+1144
+1155
+1166
+1177
+1188
+1199
+2200
+2211
+2222
+2233
+2244
+Req. No. 16530 Page 6
