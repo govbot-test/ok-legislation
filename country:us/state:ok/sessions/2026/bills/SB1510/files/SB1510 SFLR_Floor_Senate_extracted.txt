@@ -1,0 +1,227 @@
+Title: 
+Official Title: 
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 SENATE FLOOR VERSION
+February 26, 2026
+2
+3 COMMITTEE SUBSTITUTE
+FOR
+4 SENATE BILL NO. 1510 By: Hamilton
+5
+6
+7 [ energy - property restoration - financial assurance
+- effective date ]
+8
+9
+10 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+11 SECTION 1. AMENDATORY 17 O.S. 2021, Section 160.14, is
+12 amended to read as follows:
+13 Section 160.14. A. The owner of a wind energy facility shall
+14 be responsible, at its expense, for the proper decommissioning of
+15 the facility upon abandonment or the end of the useful life of the
+16 commercial wind energy equipment in the wind energy facility.
+17 B. Proper decommissioning of a wind energy facility shall
+18 include:
+19 1. Removal of wind turbines, towers, buildings, cabling,
+20 electrical components, foundations, and any other associated
+21 facilities, to a depth of thirty (30) inches below grade that
+22 restores the property to, as near as reasonably possible, the
+23 condition of the property prior to the establishment of the wind
+24 energy facility; and
+SENATE FLOOR VERSION - SB1510 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 2. Disturbed earth being graded and reseeded or otherwise
+2 restored to substantially the same physical condition as existed
+3 prior to the construction of the wind energy facility by the owner,
+4 excluding roads, unless the landowner specifically requests in
+5 writing that the roads or other land surface areas be restored.
+6 C. The decommissioning of the wind energy facility, or
+7 individual pieces of commercial wind energy equipment, shall be
+8 completed as follows:
+9 1. By the owner of the wind energy facility within twelve (12)
+10 months after abandonment or the end of the useful life of the
+11 commercial wind energy equipment in the wind energy facility; and
+12 2. If the owner of the wind energy facility fails to complete
+13 the decommissioning within the period prescribed in paragraph 1 of
+14 this subsection, the Corporation Commission shall take such measures
+15 as are necessary to complete the decommissioning.
+16 D. A lease or other agreement between a landowner and an owner
+17 of a wind energy facility may contain provisions for decommissioning
+18 that are more restrictive than provided for in this section.
+19 SECTION 2. AMENDATORY 17 O.S. 2021, Section 160.15, is
+20 amended to read as follows:
+21 Section 160.15. A. The owner of a wind energy facility shall
+22 submit to the Corporation Commission evidence of financial security
+23 to cover the anticipated costs of decommissioning the wind energy
+24 facility. For a wind energy facility or portion thereof which
+SENATE FLOOR VERSION - SB1510 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 reac hes the commercial generation date prior to December 31, 2016,
+2 the evidence of financial security shall be submitted after the
+3 fifteenth year of operation of the facility. For a wind energy
+4 facility or portion thereof which reaches the commercial generation
+5 date on or after December 31, 2016, the evidence of financial
+6 security shall be submitted by the fifth year of operation of the
+7 facility. Evidence of financial security may shall be in the form
+8 of a surety bond, collateral bond, parent guaranty, cash, cashier’s
+9 check, certificate of deposit, bank joint custody receipt or other
+10 approved negotiable instrument as established in rules promulgated
+11 by the Commission underwritten by surety companies listed as
+12 certified insurers acceptable as sureties and reinsurers on federal
+13 bonds as published in the Federal Register, Treasury Circular 570,
+14 latest revision.
+15 B. 1. For a wind energy facility which reaches the commercial
+16 generation date prior to December 31, 2016, the evidence of
+17 financial security shall be accompanied by an estimate of the total
+18 cost of decommissioning, minus the salvage value of the equipment,
+19 prepared by a professional engineer licensed in this state. The
+20 amount of the evidence of financial security shall be either:
+21 a. the estimate of the total cost of decommissioning
+22 minus the salvage value of the equipment which shall
+23 be submitted to the Commission in the fifteenth year
+24
+SENATE FLOOR VERSION - SB1510 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 of the project and every tenth year thereafter for the
+2 life of the wind energy facility, or
+3 b. one hundred twenty-five percent (125%) of the estimate
+4 of the total cost of decommissioning which shall be
+5 submitted to the Commission in the fifteenth year of
+6 the project.
+7 2. For a wind energy facility which reaches the commercial
+8 generation date on or after December 31, 2016, the evidence of
+9 financial security shall be accompanied by an estimate of the total
+10 cost of decommissioning and an estimate of the salvage value of the
+11 equipment prepared by a professional engineer licensed in this
+12 state. The amount of the evidence of financial security shall be
+13 one hundred twenty-five percent (125%) of the estimate of the total
+14 cost of decommissioning, minus the salvage value of the equipment,
+15 which shall be submitted to the Commission by the fifth year after
+16 reaching the commercial generation date and thereafter upon request
+17 by the Commission.
+18 C. If the owner of a wind energy facility fails to submit the
+19 information with the Commission as is required by this section, the
+20 owner shall be subject to an administrative penalty not to exceed
+21 One Thousand Five Hundred Dollars ($1,500.00) per day.
+22 D. In the event of a transfer of ownership of a wind energy
+23 facility, the evidence of financial security posted by the
+24 transferor shall remain in place and shall not be released until
+SENATE FLOOR VERSION - SB1510 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 such time as evidence of financial security meeting the requirements
+2 of this section is posted by the new owner of the wind energy
+3 facility and deemed acceptable by the Commission.
+4 E. The provisions of this section shall apply to any wind
+5 energy facility or portion thereof entering into or renewing a power
+6 purchase agreement (PPA) for the energy generated by the wind energy
+7 facility on or after January 1, 2011. If a wind energy facility
+8 does not sell its energy under a power purchase agreement, the
+9 provisions of this section shall apply to the wind energy facility
+10 or portion thereof which construction commences on or after January
+11 1, 2011.
+12 SECTION 3. AMENDATORY Section 6, Chapter 25, O.S.L. 2025
+13 (17 O.S. Supp. 2025, Section 820.5), is amended to read as follows:
+14 Section 820.5. A. A solar power facility agreement shall
+15 provide that the grantee obtain and deliver to the landowner
+16 evidence of financial assurance that conforms to the requirements of
+17 this section to secure the performance of the grantee’s obligation
+18 to remove the grantee’s solar power facilities located on the
+19 landowner’s property as described by Section 5 of this act 820.4 of
+20 this title. Acceptable forms Evidence of financial assurance
+21 include a parent company guaranty with a minimum investment grade
+22 credit rating for the parent company issued by a major domestic
+23 credit rating agency, a letter of credit, a bond, or another form of
+24 financial assurance reasonably acceptable to the landowner shall be
+SENATE FLOOR VERSION - SB1510 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 in t he form of a surety bond underwritten by surety companies listed
+2 as certified insurers acceptable as sureties and reinsurers on
+3 federal bonds as published in the Federal Register, Treasury
+4 Circular 570, latest revision.
+5 B. The amount of the financial assurance must shall be at
+6 either:
+7 1. At least equal to the estimated amount by which the cost of
+8 removing the solar power facilities from the landowner’s property
+9 and restoring the property to, as near as reasonably, possible the
+10 condition of the property as of the date the agreement begins
+11 exceeds the salvage value of the solar power facilities, less any
+12 portion of the value of the solar power facilities pledged to secure
+13 outstanding debt; or
+14 2. One hundred twenty-five percent (125%) of the estimate of
+15 the total cost of decommissioning.
+16 C. The agreement shall provide that:
+17 1. The estimated cost of removing the solar power facilities
+18 from the landowner’s property and restoring the property to, as near
+19 as reasonably possible, the condition of the property as of the date
+20 the agreement begins and the estimated salvage value of the solar
+21 power facilities must shall be determined by an independent, third-
+22 party professional engineer licensed in this state;
+23 2. The grantee shall deliver to the landowner an updated
+24 estimate, prepared by an independent, third-party professional
+SENATE FLOOR VERSION - SB1510 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 engi neer licensed in this state, of the cost of removal and the
+2 salvage value:
+3 a. on or before the tenth anniversary of the commercial
+4 operations date of the solar power facilities, and
+5 b. at least once every five (5) years after the
+6 commercial operations date of the solar power
+7 facilities for the remainder of the term of the
+8 agreement; and
+9 3. The grantee is responsible for ensuring that the amount of
+10 the financial assurance remains sufficient to cover the amount
+11 required by subsection B of this section, consistent with the
+12 estimates required by this subsection.
+13 D. The grantee is responsible for the costs of obtaining
+14 financial assurance described by this section and costs of
+15 determining the estimated removal costs and salvage value.
+16 E. The agreement must shall provide that the grantee shall
+17 deliver the financial assurance not later than the earlier of:
+18 1. The date the solar power facility agreement is terminated;
+19 or
+20 2. The twentieth anniversary of the commercial operations date
+21 of the solar power facilities located on the landowner’s leased
+22 property.
+23 F. For purposes of this section, “commercial operations date”
+24 means the date on which the solar power facilities are approved for
+SENATE FLOOR VERSION - SB1510 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 part icipation in market operations by a regional transmission
+2 organization and does not include the generation of electrical
+3 energy or other operations conducted before that date for purposes
+4 of maintenance and testing.
+5 G. The grantee may not cancel financial assurance before the
+6 date the grantee has completed the grantee’s obligation to remove
+7 the grantee’s solar power facilities located on the landowner’s
+8 property in the manner provided by this act the Commercial Solar
+9 Facility Decommissioning Act, unless the grantee provides the
+10 landowner with replacement financial assurance at the time of or
+11 before the cancellation. In the event of a transfer of ownership of
+12 the grantee’s solar power facilities, the financial security
+13 provided by the grantee shall remain in place until the date
+14 evidence of financial security meeting the requirements of this act
+15 the Commercial Solar Facility Decommissioning Act is provided to the
+16 landowner.
+17 SECTION 4. This act shall become effective November 1, 2026.
+18 COMMITTEE REPORT BY: COMMITTEE ON ENERGY
+February 26, 2026 - DO PASS AS AMENDED BY CS
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB1510 SFLR Page 8
+(Bold face denotes Committee Amendments)

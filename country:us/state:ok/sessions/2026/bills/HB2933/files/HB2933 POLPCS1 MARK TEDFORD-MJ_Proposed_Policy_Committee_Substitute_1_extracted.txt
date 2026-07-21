@@ -1,0 +1,1363 @@
+Title: 
+Official Title: 
+Source: versions - Proposed Policy Committee Substitute 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB2933 POLPCS1 Mark Tedford-MJ
+2/18/2026 10:59:08 am
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB2933
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Mark Tedford
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED POLICY
+COMMITTEE SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 2933 By: Tedford
+5
+6
+7
+8 PROPOSED POLICY COMMITTEE SUBSTITUTE
+9 An Act relating to insurance; directing that personal
+and commercial property insurers shall file certain
+10 report by specified date; providing manner in which
+report shall be filed; providing required content of
+11 report; clarifying that reports shall be treated as
+working papers and documents; permitting Insurance
+12 Commissioner to use reports to determine whether
+market conduct examination or investigation should be
+13 conducted; establishing penalty for violation;
+amending Section 7, Chapter 345, O.S.L. 2024 (36 O.S.
+14 Supp. 2025, Section 322), which relates to penalties
+enforced by the Insurance Department; modifying
+15 penalties the Insurance Commissioner may enforce;
+amending Section 19, Chapter 345, O.S.L. 2024, as
+16 amended by Section 2, Chapter 195, O.S.L. 2024 (36
+O.S. Supp. 2025, Section 908), which relates to
+17 administrative penalties enforced by the Insurance
+Department; modifying administrative penalties the
+18 Insurance Commissioner may enforce; amending 36 O.S.
+2021, Section 942, which relates to motor vehicle
+19 liability or collision policies; clarifying traffic
+records not to be used by insurers in modifying rates
+20 or determining refusal or renewal of a policy;
+amending 36 O.S. 2021, Section 943, which relates to
+21 circumstances insurers are prohibited from canceling,
+increasing rates, or refusing to issue or renew motor
+22 vehicle policies; prohibiting insurers from
+canceling, refusing to renew or terminate, or
+23 increasing policy premiums based on first claim
+against policy; clarifying circumstances under which
+24 policies may be canceled, not renewed or terminated,
+Req. No. 16127 Page 1
+
+1 or premiums increased; amending 36 O.S. 2021, Section
+961, which relates to premium discounts or rate
+2 reductions for resistance to tornado or other wind
+events; modifying circumstances under which insurance
+3 companies shall provide a premium discount or rate
+reduction; modifying citations; amending 36 O.S.
+4 2021, Section 962, which relates to premium discount
+or rate reduction for resistance to tornado or other
+5 wind events for retrofit properties; modifying
+circumstances under which insurance companies shall
+6 provide a premium discount or rate reduction;
+modifying citations; amending 36 O.S. 2021, Section
+7 1211, which relates to civil penalties related to
+unfair methods of competition or unfair and deceptive
+8 acts or practices; modifying civil penalties;
+amending 36 O.S. 2021, Section 1204, as amended by
+9 Section 16, Chapter 360, O.S.L. 2024 (36 O.S. Supp.
+2025, Section 1204), which relates to unfair methods
+10 of competition and unfair or deceptive acts or
+practices; directing insurers providing certain
+11 additional coverage consider all building codes as
+being strictly enforced; amending 36 O.S. 2021,
+12 Section 1212, which relates to powers vested in the
+Insurance Commissioner; modifying applicability of
+13 powers; amending 36 O.S. 2021, Section 1250.4, which
+relates to claim files and responses to inquiries;
+14 modifying timeline for response to Insurance
+Commissioner inquiries; establishing that the
+15 Insurance Commissioner's dispute resolution program
+shall be subject to the laws and protections of the
+16 Dispute Resolution Act; establishing that only the
+policyholder may request mediation; making mediation
+17 voluntary except under listed circumstances; defining
+term; requiring claims to be submitted and fully
+18 processed through the Insurance Department's consumer
+complaint program before qualifying for mediation;
+19 requiring all parties to negotiate in good faith;
+clarifying dispute is not required to be resolved in
+20 mediation; providing procedure for rescinding
+settlement by policyholder; providing procedure for
+21 mediation conference; establishing when an insurer
+will be deemed to have failed to appear; establishing
+22 penalty for violation by insurer; permitting
+Insurance Commissioner rule-making authority;
+23 amending 36 O.S. 2021, Section 1250.6, which relates
+to property and casualty insurers, receipt of claims,
+24 and inquiries from the Insurance Commissioner;
+Req. No. 16127 Page 2
+
+1 modifying timeline for insurers to acknowledge
+receipt of claim; requiring acknowledgement include
+2 Homeowner Claims Bill of Rights; requiring insurer to
+send detailed estimate where applicable; requiring
+3 insurers issuing a personal lines residential
+property insurance policy to include Homeowner Claims
+4 Bill of Rights; providing minimum statement of
+Homeowner Claims Bill of Rights; establishing
+5 violation shall be a violation of the Unfair Claims
+Settlement Practices Act; amending 36 O.S. 2021,
+6 Section 1250.7, which relates to denial or acceptance
+of claims by property and casualty insurer; modifying
+7 timeline for acceptance or denial of claim; requiring
+claimant be notified in writing; requiring insurer
+8 provide reasonable explanation of payment less than
+specified in insurer's detailed estimate;
+9 establishing interest rate for untimely payments;
+prohibiting the waiver of subsection; clarifying
+10 failure to comply does not form sole basis for
+private cause of action; establishing policyholder
+11 right to request a physical, in-person inspection;
+amending 36 O.S. 2021, Section 1250.14, which relates
+12 to violations and penalties of the Unfair Claims
+Settlement Practices Act; modifying penalties the
+13 Commissioner may enforce under the Unfair Claims
+Settlement Practices Act; amending 36 O.S. 2021,
+14 Section 3639.1, which relates to personal residential
+insurance; prohibiting certain terminations;
+15 prohibiting certain actions by insurers for claims
+occurring more than five years before policy
+16 effective date or renewal; directing that insurers
+shall not refuse underwriting risk for homeowner's
+17 insurance in certain cases; prohibiting certain
+actions by insurers for certain claims; providing
+18 exceptions; directing that insurers may only consider
+at-fault motor vehicle claims history in provided
+19 time frame; prohibiting insurer from reducing
+coverage or refusing to issue or renew homeowner's
+20 policy based solely on use of aerial imaging;
+prohibiting insurers from reducing coverage or
+21 refusing to issue or renew homeowner's policy based
+solely on age of roof less than fifteen years old;
+22 requiring insurers to allow homeowners have a roof
+inspection; providing procedure for calculating
+23 roof's age; providing for codification; and providing
+an effective date.
+24
+Req. No. 16127 Page 3
+
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 311.5 of Title 36, unless there
+4 is created a duplication in numbering, reads as follows:
+5 A. By March 31, 2027, and on a quarterly basis thereafter, each
+6 insurer authorized to write personal and commercial property
+7 insurance in this state shall file with the Oklahoma Insurance
+8 Department a supplemental report with information regarding personal
+9 and commercial residential property insurance policies in this
+10 state. The report shall be filed electronically in the manner and
+11 form prescribed by the Insurance Commissioner and in accordance with
+12 any instructions on the Department's website. The supplemental
+13 report shall include separate information for personal lines,
+14 property policies, and commercial lines property policies. The
+15 report shall, at a minimum, include the following information for
+16 each ZIP code broken down by month:
+17 1. Total number of policies in force at the end of each month;
+18 2. Total number of policies canceled;
+19 3. Total number of policies nonrenewed;
+20 4. Number of new policies written;
+21 5. Total written premium;
+22 6. Is the insurer actively writing policies;
+23 7. Number of policies that exclude wind coverage;
+24 8. Number of new claims open during each month;
+Req. No. 16127 Page 4
+
+1 9. Number of claims closed during each month;
+2 10. Number of claims pending at the end of each month; and
+3 11. Number of claims in which either the insurer or insured
+4 invoked any form of alternative dispute resolution.
+5 B. Supplemental quarterly reports filed with the Insurance
+6 Commissioner pursuant to this section shall be treated as working
+7 papers and documents as set out in subsection F of Section 309.4 of
+8 this title.
+9 C. The Insurance Commissioner may use supplemental quarterly
+10 reports to assist in determining whether a market conduct
+11 examination or investigation of an insurer should be conducted. For
+12 purposes of completing a market conduct examination of any company
+13 under Sections 309.1 through 309.7 of this title, the Insurance
+14 Commissioner may, in the sole discretion of the Insurance
+15 Commissioner, use supplemental quarterly reports or amendments or
+16 addendums to such statements to assist in determining compliance
+17 with the laws of this state and rules adopted by the Insurance
+18 Commissioner and to support any regulatory actions initiated by the
+19 Insurance Commissioner.
+20 D. For any repeated violation of this section, the Insurance
+21 Commissioner may, after notice and opportunity for a hearing,
+22 subject an insurer to a civil penalty of up to One Thousand Dollars
+23 ($1,000.00) for each occurrence, along with any other penalties set
+24
+Req. No. 16127 Page 5
+
+1 fort h in applicable law. The civil penalty may be enforced in the
+2 same manner in which civil judgments may be enforced.
+3 SECTION 2. AMENDATORY Section 7, Chapter 345, O.S.L.
+4 2024 (36 O.S. Supp. 2025, Section 322), is amended to read as
+5 follows:
+6 Section 322. A. The Insurance Commissioner may, if the
+7 Commissioner finds that any person or organization has violated the
+8 provisions of any statute, rule, bulletin, or order for which the
+9 Commissioner has jurisdiction, impose a penalty of not more than
+10 Five Thousand Dollars ($5,000.00) Ten Thousand Dollars ($10,000.00)
+11 for each such violation. In addition to or in lieu of any fine
+12 amount, the Insurance Commissioner may refuse to renew, suspend, put
+13 on probation, or revoke an insurer's certificate of authority,
+14 licenses, or any other registration or similar approval to conduct
+15 business in Oklahoma issued by the Insurance Commissioner. Such
+16 penalties may be in addition to any other penalty provided by law.
+17 B. The Insurance Commissioner may also direct the person or
+18 organization against whom the order was issued to make complete
+19 restitution, in the form, manner, and amount and within the time
+20 period determined by the Commissioner, to all Oklahoma residents,
+21 Oklahoma insureds, and entities operating in Oklahoma damaged by the
+22 violation or failure to comply.
+23 C. No penalty shall be imposed except upon a written order of
+24 the Commissioner or the appointed independent hearing examiner,
+Req. No. 16127 Page 6
+
+1 stat ing the findings of the Commissioner or the appointed
+2 independent hearing examiner after notice and opportunity for a
+3 hearing in accordance with Article II of the Administrative
+4 Procedures Act.
+5 SECTION 3. AMENDATORY Section 19, Chapter 345, O.S.L.
+6 2024, as amended by Section 2, Chapter 195, O.S.L. 2024 (36 O.S.
+7 Supp. 2025, Section 908), is amended to read as follows:
+8 Section 908. A. The Insurance Commissioner may, if the
+9 Commissioner finds that any person or organization has violated the
+10 provisions of any statute, rule, or order for which the Commissioner
+11 has jurisdiction, impose a penalty of not more than Five Thousand
+12 Dollars ($5,000.00) Ten Thousand Dollars ($10,000.00) for each such
+13 violation. In addition to or in lieu of any fine amount, the
+14 Insurance Commissioner may refuse to renew, suspend, put on
+15 probation, or revoke an insurer's certificate of authority,
+16 licenses, or any other registration or similar approval to conduct
+17 business in Oklahoma issued by the Insurance Commissioner. Such
+18 penalties may be in addition to any other penalty provided by law.
+19 B. The Insurance Commissioner may also direct the person or
+20 organization against whom the order was issued to make complete
+21 restitution, in the form, manner, and amount and within the time
+22 period determined by the Commissioner, to all Oklahoma residents,
+23 Oklahoma insureds, and entities operating in Oklahoma damaged by the
+24 violation or failure to comply.
+Req. No. 16127 Page 7
+
+1 C. No penalty shall be imposed except upon a written order of
+2 the Commissioner or the appointed independent hearing examiner,
+3 stating the findings of the Commissioner or the appointed
+4 independent hearing examiner after notice and opportunity for a
+5 hearing in accordance with Article II of the Administrative
+6 Procedures Act.
+7 SECTION 4. AMENDATORY 36 O.S. 2021, Section 942, is
+8 amended to read as follows:
+9 Section 942. Any insurance carrier that issues motor vehicle
+10 liability or collision insurance policies in this state shall not
+11 establish or apply premium rates, increase premium rates, cancel a
+12 policy, or refuse to issue or renew a policy, based on any traffic
+13 record maintained by the Department of Public Safety, including, but
+14 not limited to, traffic complaints, traffic citations or other legal
+15 forms of traffic charges, and accident reports, which covers a
+16 period of time more than three (3) years prior to the date the
+17 insurance carrier makes a determination to take any such action;
+18 provided, however, those offenses that are provided for in
+19 subsection C of Section 941 of this title and the offense of
+20 reckless driving as provided for in Section 11-901 of Title 47 of
+21 the Oklahoma Statutes may be considered by an insurance carrier for
+22 a period of not more than five (5) years.
+23 SECTION 5. AMENDATORY 36 O.S. 2021, Section 943, is
+24 amended to read as follows:
+Req. No. 16127 Page 8
+
+1 Section 943. A. No insurance carrier who issues motor vehicle
+2 policies in this state shall use traffic complaints, traffic
+3 citations or other legal forms of traffic charges as a basis for
+4 cancellation of a motor vehicle insurance policy, increasing premium
+5 rates for a motor vehicle insurance policy or refusing to issue or
+6 renew a motor vehicle insurance policy, where:
+7 1. the The insured was acquitted of the charge;
+8 2. the The insured was arrested and no charges were filed; or
+9 3. the The insured was arrested and the charges were dismissed.
+10 B. No insurer shall cancel, refuse to renew or otherwise
+11 terminate, a motor vehicle policy which has been in effect more than
+12 forty-five (45) days solely because the insured filed a first claim
+13 against the policy. Nothing in this subsection shall be construed
+14 to prevent the cancellation, nonrenewal or other termination, or
+15 increase in premium for any of the following reasons:
+16 1. Nonpayment of premium;
+17 2. Discovery of fraud or material misrepresentation in the
+18 procurement of the insurance or with respect to any claims submitted
+19 thereunder;
+20 3. Offenses provided for in subsection C of Section 941 of this
+21 title;
+22 4. Offenses provided for in Section 11-901 of Title 47 of the
+23 Oklahoma Statutes; or
+24
+Req. No. 16127 Page 9
+
+1 5. A determination by the Insurance Commissioner that the
+2 continuation of the policy would place the insurer in violation of
+3 the insurance laws of this state.
+4 C. The Insurance Commissioner may suspend or revoke, after
+5 notice and hearing, the certificate of authority to transact
+6 insurance business in this state of any insurance carrier violating
+7 the provisions of this section or may censure the insurer or impose
+8 a fine.
+9 SECTION 6. AMENDATORY 36 O.S. 2021, Section 961, is
+10 amended to read as follows:
+11 Section 961. A. Commencing on April 1, 2018, insurance
+12 Insurance companies shall provide a premium discount or insurance
+13 rate reduction in an amount and manner as established in subsection
+14 D of this section and pursuant to Section 3 of this act only when
+15 the company determines that the premium discount or rate reduction
+16 is actuarially justified and there is sufficient and credible
+17 evidence of cost savings Section 963 of this title, which can be
+18 attributed to the construction standards set forth in subsection B
+19 of this section. A premium discount or rate reduction shall be
+20 available under the terms specified in this section to any owner who
+21 builds or locates a new insurable property in the State of Oklahoma
+22 to resist loss due to tornado or other catastrophic windstorm
+23 events. Insurance companies shall be required to offer such a
+24 premium discount or rate reduction only when the insurer determines
+Req. No. 16127 Page 10
+
+1 they are actuarially justified and there is sufficient and credible
+2 evidence of cost savings, which can be attributed to the
+3 construction standards set forth in subsection B of this section.
+4 In addition, insurance companies may also offer additional
+5 adjustments in deductible, other risk differentials, or a
+6 combination thereof, collectively referred to as other adjustments.
+7 B. To obtain the premium discount, rate reduction, or other
+8 adjustment provided in this section, an insurable property located
+9 in this state shall be certified as constructed in accordance with
+10 Appendix Y X of the 2015 2018 Oklahoma Uniform Building Code, as
+11 amended, including all tornado mitigation construction requirements,
+12 as long as its standards are equal to or greater than the FORTIFIED
+13 Home High Wind and Hail Standards as certified by the Institute for
+14 Business and Home Safety (IBHS), or the FORTIFIED Home High Wind and
+15 Hail Standards as may from time to time be adopted by the Institute
+16 for Business and Home Safety or successor entity. An insurable
+17 property shall be certified as conforming to the applicable building
+18 code only after an inspection of the insurable property has been
+19 satisfactorily completed by a certified or licensed building
+20 inspector and certified to be conforming to the applicable building
+21 code including all high wind and hail mitigation construction
+22 requirements. An insurable property shall be certified as
+23 conforming to the FORTIFIED Home High Wind and Hail Standards only
+24
+Req. No. 16127 Page 11
+
+1 afte r evaluation and certification by an evaluator certified
+2 pursuant to the FORTIFIED Home High Wind and Hail Standards.
+3 C. An owner of insurable property claiming a premium discount,
+4 rate reduction, or other adjustment pursuant to this section shall
+5 maintain sufficient certification records and construction records
+6 including, but not limited to, a certification of compliance with
+7 the applicable building code or the FORTIFIED Home High Wind and
+8 Hail Standards provided in subsection B of this section, receipts
+9 from contractors, receipts for materials and records from local
+10 building officials. The records shall be subject to audit by the
+11 Insurance Commissioner, or his or her representatives, and copies of
+12 any such records shall be presented to the insurer or potential
+13 insurer of a property owner before the premium discount, rate
+14 reduction, or other adjustment becomes effective for the insurable
+15 property.
+16 D. Insurers that write policies that are subject to the premium
+17 discount or rate reduction in this section and that are required to
+18 submit rates and rating plans to the Commissioner pursuant to
+19 Section 987 of Title 36 of the Oklahoma Statutes this title shall
+20 submit a rating plan certified by their actuary as actuarially
+21 justified providing for the premium discount or rate reduction
+22 described in this section. An insurer is not required to provide
+23 the same amount of premium discount, rate reduction, or other
+24 adjustment for a building code insurable property as the insurer
+Req. No. 16127 Page 12
+
+1 woul d to an insurable property conforming to the FORTIFIED Home High
+2 Wind and Hail Standards. A premium discount, rate reduction, or
+3 other adjustment shall only apply to policies that provide wind or
+4 hail coverage and to that portion of the premium for wind or hail
+5 coverage. A premium discount, rate reduction, or other adjustment
+6 shall apply exclusively to the wind and hail premium applicable to
+7 improved insurable property. If an insurer already offers an
+8 actuarially justified a hail resistance discount, that hail-related
+9 discount shall be deemed as having met the requirements of this act
+10 as it pertains to hail-related discounts or rate reductions and no
+11 additional hail-related discount or rate reduction shall be
+12 required. If an insurer already offers an actuarially justified a
+13 discount for IBHS FORTIFIED Home standards, that discount shall be
+14 deemed as having met the requirements of this act as it pertains to
+15 wind-related discounts or rate reductions and no additional wind-
+16 related discount or rate reduction shall be required. Insurers
+17 shall apply any applicable premium discount, rate reduction, or
+18 other adjustment to the wind and hail premium at the policy renewal
+19 that follows the submission of the certification to the insurer. At
+20 the time of a policy renewal for which a premium discount, rate
+21 reduction, or other adjustment has previously been made, the insurer
+22 may request documentation or recertification that the fortified
+23 standards as described in subsection C of this section continue to
+24 be met. In addition to the requirements of this section, an insurer
+Req. No. 16127 Page 13
+
+1 may voluntarily offer any other mitigation adjustment that the
+2 insurer deems appropriate.
+3 SECTION 7. AMENDATORY 36 O.S. 2021, Section 962, is
+4 amended to read as follows:
+5 Section 962. A. Commencing on April 1, 2018, insurance
+6 Insurance companies shall provide a premium discount or insurance
+7 rate reduction in an amount and manner as established in subsection
+8 D of this section and pursuant to Section 3 of this act only when
+9 the company determines that the premium discount or rate reduction
+10 is actuarially justified and there is sufficient and credible
+11 evidence of cost savings Section 963 of this title, which can be
+12 attributed to the construction standards set forth in subsection B
+13 of this section. A premium discount or rate reduction shall be
+14 available under the terms specified in this section to any owner who
+15 retrofits his or her insurable property located in the State of
+16 Oklahoma to resist loss due to tornado or other catastrophic
+17 windstorm events. Insurance companies shall be required to offer a
+18 premium discount or rate reduction only when the insurer has deemed
+19 the adjustments to be actuarially justified and there is sufficient
+20 and credible evidence of cost savings, which can be attributed to
+21 the construction standards set forth in subsection B of this
+22 section. In addition, insurance companies may also offer additional
+23 adjustments in deductible, other risk differentials, or a
+24 combination thereof, collectively referred to as other adjustments.
+Req. No. 16127 Page 14
+
+1 B. To obtain the premium discount, rate reduction, or other
+2 adjustment provided in this section, an insurable property shall be
+3 retrofitted to the FORTIFIED Home High Wind and Hail Standards, as
+4 may from time to time be adopted by the Institute for Business and
+5 Home Safety (IBHS). Wind-Zone-3-HUD-Code manufactured homes
+6 installed on a permanent foundation and retrofitted as defined in
+7 the FORTIFIED Home High Wind and Hail Standards, as may from time to
+8 time be adopted by the Institute for Business and Home Safety, shall
+9 be eligible for the premium discount or rate reduction provided in
+10 this section. An insurable property shall be certified as
+11 conforming to FORTIFIED Home High Wind and Hail Standards only after
+12 evaluation and certification by an evaluator certified pursuant to
+13 the FORTIFIED Home High Wind and Hail Standards.
+14 C. An owner of insurable property claiming a premium discount,
+15 rate reduction, or other adjustment pursuant to this section shall
+16 maintain sufficient certification records and construction records
+17 including, but not limited to, a certification of compliance with
+18 the FORTIFIED Home High Wind and Hail Standards as provided in
+19 subsection B of this section, receipts from contractors, and
+20 receipts for materials. The records shall be subject to audit by
+21 the Insurance Commissioner, or his or her representatives, and
+22 copies of any such records shall be presented to the insurer or
+23 potential insurer of a property owner before the premium discount,
+24
+Req. No. 16127 Page 15
+
+1 rate reduction, or other adjustment becomes effective for the
+2 insurable property.
+3 D. Insurers that write policies that are subject to the premium
+4 discount or rate reduction in this section and that are required to
+5 submit rates and rating plans to the Commissioner pursuant to
+6 Section 987 of Title 36 of the Oklahoma Statutes this title shall
+7 submit rating plans certified by their actuary as actuarially
+8 justified providing for the premium discounts or rate reductions
+9 described in this section. A premium discount, rate reduction, or
+10 other adjustment shall only apply to policies that provide wind or
+11 hail coverage and to that portion of the premium for wind or hail
+12 coverage. A premium discount, rate reduction, or other adjustment
+13 shall apply exclusively to the wind and hail premium applicable to
+14 improved insurable property. If an insurer already offers an
+15 actuarially justified a hail resistance discount, that hail-related
+16 discount shall be deemed as having met the requirements of this act
+17 as it pertains to hail-related discounts or rate reductions and no
+18 additional hail-related discount or rate reduction shall be
+19 required. If an insurer already offers an actuarially justified a
+20 discount for IBHS FORTIFIED Home standards, that discount shall be
+21 deemed as having met the requirements of this act as it pertains to
+22 wind-related discounts or rate reductions and no additional wind-
+23 related discount or rate reduction shall be required. Insurers
+24 shall apply the premium discount, rate reduction, or other
+Req. No. 16127 Page 16
+
+1 adju stment to the wind premium at the policy renewal that follows
+2 the submission of the certification to the insurer. At the time of
+3 a policy renewal for which a premium discount, rate reduction, or
+4 other adjustment has previously been made, the insurer may request
+5 documentation or recertification that the fortified standards as
+6 described in subsection C of this section continue to be met. In
+7 addition to the requirements of this section, an insurer may
+8 voluntarily offer any other mitigation adjustment that the insurer
+9 deems appropriate.
+10 SECTION 8. AMENDATORY 36 O.S. 2021, Section 1211, is
+11 amended to read as follows:
+12 Section 1211. A. Any person who violates a cease and desist
+13 order of the Insurance Commissioner issued and served pursuant to
+14 the provisions of Section 1207 of this title, after it has become
+15 final, and while such order is in effect, shall, upon proof thereof
+16 to the satisfaction of the court, forfeit and pay to the State of
+17 Oklahoma a civil penalty of not less than One Hundred Dollars
+18 ($100.00), nor more than One Thousand Dollars ($1,000.00) Twenty-
+19 Five Thousand Dollars ($25,000.00) for each violation.
+20 B. The Commissioner may also direct the person against whom the
+21 order was issued to make complete restitution, in the form, manner,
+22 and amount and within the time period determined by the
+23 Commissioner, to all Oklahoma residents, Oklahoma insureds, and
+24
+Req. No. 16127 Page 17
+
+1 enti ties operating in Oklahoma damaged by the violation or failure
+2 to comply.
+3 SECTION 9. AMENDATORY 36 O.S. 2021, Section 1204, as
+4 amended by Section 16, Chapter 360, O.S.L. 2024 (36 O.S. Supp. 2025,
+5 Section 1204), is amended to read as follows:
+6 Section 1204. The following are hereby defined as unfair
+7 methods of competition and unfair and deceptive acts or practices in
+8 the business of insurance:
+9 1. Misrepresentations and false advertising of policy
+10 contracts. Making, issuing, circulating, or causing to be made,
+11 issued or circulated, any estimate, illustration, circular or
+12 statement misrepresenting the terms of any policy issued or to be
+13 issued or the benefits or advantages promised thereby or the
+14 dividends or share of the surplus to be received thereon, or making
+15 any false or misleading statement as to the dividends or share of
+16 surplus previously paid on similar policies, or making any
+17 misleading representation or any misrepresentation as to the
+18 financial condition of any insurer, or as to the legal reserve
+19 system upon which any life insurer operates, or using any name or
+20 title of any policy or class of policies misrepresenting the true
+21 nature thereof, or making any misrepresentation to any policyholder
+22 insured in any company for the purpose of inducing or tending to
+23 induce such policyholder to lapse, forfeit, or surrender his or her
+24 insurance;
+Req. No. 16127 Page 18
+
+1 2. False information and advertising generally. Making,
+2 publishing, disseminating, circulating, or placing before the
+3 public, or causing, directly or indirectly, to be made, published,
+4 disseminated, circulated, or placed before the public, in a
+5 newspaper, magazine, or other publication, or in the form of a
+6 notice, circular, pamphlet, letter or poster, or over any radio or
+7 television station, or in any other way an advertisement,
+8 announcement or statement containing any assertion, representation
+9 or statement with respect to the business of insurance or with
+10 respect to any person in the conduct of his or her insurance
+11 business which is untrue, deceptive or misleading. No insurance
+12 company shall issue, or cause to be issued, any policy of insurance
+13 of any type or description upon life, or property, real or personal,
+14 whenever such policy of insurance is to be furnished or delivered to
+15 the purchaser or bailee of any property, real or personal, as an
+16 inducement to purchase or bail such property, real or personal, and
+17 no other person shall advertise, offer or give free insurance,
+18 insurance without cost or for less than the approved or customary
+19 rate, in connection with the sale or bailment of real or personal
+20 property, except as provided in Section 4101 of this title. No
+21 person that is not an insurer shall assume or use any name which
+22 deceptively infers or suggests that it is an insurer;
+23 3. Defamation. Making, publishing, disseminating, or
+24 circulating, directly or indirectly, or aiding, abetting or
+Req. No. 16127 Page 19
+
+1 enco uraging the making, publishing, disseminating or circulating of
+2 any oral or written statement or any pamphlet, circular, article or
+3 literature which is false, or maliciously critical of or derogatory
+4 to the financial condition of an insurer, and which is calculated to
+5 injure any person engaged in the business of insurance;
+6 4. Boycott, coercion and intimidation. Entering into any
+7 agreement to commit, or by any concerted action committing, any act
+8 of boycott, coercion or intimidation resulting in or tending to
+9 result in unreasonable restraint of, or monopoly in, the business of
+10 insurance;
+11 5. False financial statements. Filing with any supervisory or
+12 other public official, or making, publishing, disseminating,
+13 circulating or delivering to any person, or placing before the
+14 public or causing directly or indirectly, to be made, published,
+15 disseminated, circulated, delivered to any person or placed before
+16 the public, any false statement of financial condition of an insurer
+17 with intent to deceive.
+18 Making any false entry in any book, report or statement of any
+19 insurer with intent to deceive any agent or examiner lawfully
+20 appointed to examine into its condition or into any of its affairs,
+21 or any public official to whom such insurer is required by law to
+22 report, or who has authority by law to examine into its condition or
+23 into any of its affairs, or, with like intent, willfully omitting to
+24
+Req. No. 16127 Page 20
+
+1 make a true entry of any material fact pertaining to the business of
+2 such insurer in any book, report or statement of such insurer;
+3 6. Stock operations and advisory board contracts. Issuing or
+4 delivering or permitting agents, officers, or employees to issue or
+5 deliver agency company stock or other capital stock, or benefit
+6 certificates or shares in any common-law corporation, or securities
+7 or any special or advisory board contracts or other contracts of any
+8 kind promising returns and profits as an inducement to insurance;
+9 7. Unfair discrimination.
+10 (a) Making or permitting any unfair discrimination between
+11 individuals of the same class and equal expectation of
+12 life in the rates charged for any contract of life
+13 insurance or of life annuity or in the dividends or
+14 other benefits payable thereon, or in any other of the
+15 terms and conditions of such contract.
+16 (b) Making or permitting any unfair discrimination between
+17 individuals of the same class and of essentially the
+18 same hazard in the amount of premium, policy fees, or
+19 rates charged for any policy or contract of accident
+20 or health insurance or in the benefits payable
+21 thereunder, or in any of the terms or conditions of
+22 such contract, or in any other manner whatever.
+23 (c) As to kinds of insurance other than life and accident
+24 and health, no person shall make or permit any unfair
+Req. No. 16127 Page 21
+
+1 discrimination in favor of particular persons, or
+2 between insureds or subjects of insurance having
+3 substantially like insuring, risk, and exposure
+4 factors, or expense elements, in the terms or
+5 conditions of any insurance contract, or in the rate
+6 or amount of premium charged therefor. This paragraph
+7 shall not apply as to any premium rate in effect
+8 pursuant to Article 9 of the Oklahoma Insurance Code;
+9 8. Rebates.
+10 (a) Except as otherwise expressly provided by law,
+11 knowingly permitting or offering to make or making any
+12 contract of insurance or agreement as to such contract
+13 other than as plainly expressed in the contract issued
+14 thereon; or paying or allowing, or giving or offering
+15 to pay, allow or give, directly or indirectly, as
+16 inducement to any contract of insurance, any rebate of
+17 premiums payable on the contract, or any special favor
+18 or advantage in the dividends or other benefits
+19 thereon, or any valuable consideration or inducement
+20 whatever not specified in the contract; except in
+21 accordance with an applicable rate filing, rating plan
+22 or rating system filed with and approved by the
+23 Insurance Commissioner; or giving or selling or
+24 purchasing or offering to give, sell, or purchase as
+Req. No. 16127 Page 22
+
+1 inducement to such insurance, or in connection
+2 therewith, any stocks, bonds or other securities of
+3 any company, or any dividends or profits accrued
+4 thereon, or anything of value whatsoever not specified
+5 in the contract or receiving or accepting as
+6 inducement to contracts of insurance, any rebate of
+7 premium payable on the contract, or any special favor
+8 or advantage in the dividends or other benefit to
+9 accrue thereon, or any valuable consideration or
+10 inducement not specified in the contract.
+11 (b) Nothing in paragraph 7 or subparagraph (a) of this
+12 paragraph shall be construed as including within the
+13 definition of discrimination or rebates any of the
+14 following practices:
+15 (1) in the case of any contract of life insurance or
+16 life annuity, paying bonuses to policyholders or
+17 otherwise abating their premiums in whole or in
+18 part out of surplus accumulated from
+19 nonparticipating insurance, provided that any
+20 such bonuses or abatement of premiums shall be
+21 fair and equitable to policyholders and for the
+22 best interest of the company and its
+23 policyholders,
+24
+Req. No. 16127 Page 23
+
+1 (2) in the case of life or accident and health
+2 insurance policies issued on the industrial debit
+3 or weekly premium plan, making allowance to
+4 policyholders who have continuously for a
+5 specified period made premium payments directly
+6 to an office of the insurer in an amount which
+7 fairly represents the saving in collection
+8 expense,
+9 (3) making a readjustment of the rate of premium for
+10 a policy based on the loss or expense experience
+11 thereunder, at the end of the first or any
+12 subsequent policy year of insurance thereunder,
+13 which may be made retroactive only for such
+14 policy year,
+15 (4) in the case of life insurance companies, allowing
+16 its bona fide employees to receive a commission
+17 on the premiums paid by them on policies on their
+18 own lives,
+19 (5) issuing life or accident and health policies on a
+20 salary saving or payroll deduction plan at a
+21 reduced rate commensurate with the savings made
+22 by the use of such plan, and
+23 (6) paying commissions or other compensation to duly
+24 licensed agents or brokers, or allowing or
+Req. No. 16127 Page 24
+
+1 returning to participating policyholders, members
+2 or subscribers, dividends, savings or unabsorbed
+3 premium deposits.
+4 (c) As used in this section, the word "insurance" includes
+5 suretyship and the word "policy" includes bond;
+6 9. Coercion prohibited. Requiring as a condition precedent to
+7 the purchase of, or the lending of money upon the security of, real
+8 or personal property, that any insurance covering such property, or
+9 liability arising from the ownership, maintenance or use thereof, be
+10 procured by or on behalf of the vendee or by the borrower in
+11 connection with such purchase or loan through any particular person
+12 or agent or in any particular insurer, or requiring the payment of a
+13 reasonable fee as a condition precedent to the replacement of
+14 insurance coverage on mortgaged property at the anniversary date of
+15 the policy; provided, however, that this provision shall not prevent
+16 the exercise by any such vendor or lender of the right to approve or
+17 disapprove any insurer selected to underwrite the insurance, but any
+18 disapproval of any insurer shall be on reasonable grounds;
+19 10. Inducements. No insurer, agent, broker, solicitor, or
+20 other person shall, as an inducement to insurance or in connection
+21 with any insurance transaction, provide in any policy for or offer,
+22 sell, buy, or offer or promise to buy, sell, give, promise, or allow
+23 to the insured or prospective insured or to any other person in his
+24 or her behalf in any manner whatsoever:
+Req. No. 16127 Page 25
+
+1 (a) any employment,
+2 (b) any shares of stock or other securities issued or at
+3 any time to be issued or any interest therein or
+4 rights thereto,
+5 (c) any advisory board contract, or any similar contract,
+6 agreement or understanding, offering, providing for,
+7 or promising any special profits,
+8 (d) any prizes, goods, wares, merchandise, or tangible
+9 property of an aggregate value in excess of One
+10 Hundred Dollars ($100.00), or
+11 (e) any special favor, advantage or other benefit in the
+12 payment, method of payment or credit for payment of
+13 the premium through the use of credit cards, credit
+14 card facilities, credit card lists, or wholesale or
+15 retail credit accounts of another person. The
+16 provisions of this paragraph shall not apply to
+17 individual policies insuring against loss resulting
+18 from bodily injury or death by accident as defined by
+19 Article 44 of the Oklahoma Insurance Code;
+20 11. Premature disposal of premium notes prohibited. No insurer
+21 or agent thereof shall hypothecate, sell, or dispose of a promissory
+22 note received in payment of any part of a premium on a policy of
+23 insurance applied for prior to the delivery of the policy;
+24
+Req. No. 16127 Page 26
+
+1 12. Fraudulent statement in application. Any insurance agent,
+2 examining physician, or other person who knowingly or willfully
+3 makes a false or fraudulent statement or representation in or
+4 relative to an application for insurance, or who makes any such
+5 statement to obtain a fee, commission, money, or benefit, shall be
+6 guilty of a misdemeanor;
+7 13. Deceptive use of financial institution’s name in
+8 notification or solicitation. Verbally or by any other means
+9 notifying or soliciting any person in a manner that:
+10 (a) mentions the name of an unrelated and unaffiliated
+11 financial institution,
+12 (b) mentions an insurance product or the possible lack of
+13 insurance coverage,
+14 (c) does not mention the actual or trade name of the
+15 insurance agency or company on whose behalf the
+16 notification or solicitation is provided, and
+17 (d) thereby creates an impression or implication,
+18 including by omission, that the financial institution
+19 or a financial-institution-authorized entity is or may
+20 be the one making the notification or solicitation.
+21 Nothing in this paragraph shall be interpreted to prohibit the
+22 reference to or use of the name of a financial institution made
+23 pursuant to a contractual agreement between the insurer and the
+24 financial institution; and
+Req. No. 16127 Page 27
+
+1 14. No insurer or prepaid vision plan organization as defined
+2 in Section 1 of this act which offers multiple prepaid vision plans
+3 may require as a condition of participation in any one prepaid
+4 vision plan that a vision care provider participate in any of the
+5 other prepaid vision plans offered by the insurer or prepaid vision
+6 plan organization.; and
+7 15. Insurers providing additional coverage for an additional
+8 premium as an exception to ordinance or law exclusions shall
+9 consider all building codes as being strictly enforced.
+10 SECTION 10. AMENDATORY 36 O.S. 2021, Section 1212, is
+11 amended to read as follows:
+12 Section 1212. The powers vested in the Commissioner by this
+13 article shall be additional to any other powers to enforce
+14 penalties, fines or forfeitures authorized by law with respect to
+15 the methods, acts and practices hereby declared to be unfair or
+16 deceptive violations of Title 36 of the Oklahoma Statutes.
+17 SECTION 11. AMENDATORY 36 O.S. 2021, Section 1250.4, is
+18 amended to read as follows:
+19 Section 1250.4. A. An insurer's claim files shall be subject
+20 to examination by the Insurance Commissioner or by duly appointed
+21 designees. Such files shall contain all notes and work papers
+22 pertaining to a claim in such detail that pertinent events and the
+23 dates of such events can be reconstructed. In addition, the
+24 Insurance Commissioner, authorized employees and examiners shall
+Req. No. 16127 Page 28
+
+1 have access to any of an insurer's files that may relate to a
+2 particular complaint under investigation or to an inquiry or
+3 examination by the Insurance Department.
+4 B. Any person subject to the jurisdiction of the Commissioner,
+5 upon receipt of any inquiry from the Commissioner shall, within
+6 twenty (20) fourteen (14) calendar days from the date of receipt of
+7 the inquiry, furnish the Commissioner with an adequate response to
+8 the inquiry. The Commissioner may, upon good cause shown and on a
+9 case-by-case basis, extend the time allowed for a response for up to
+10 seven (7) additional calendar days. Any inquiry or response subject
+11 to this subsection shall be delivered electronically.
+12 C. Every insurer, upon receipt of any pertinent written
+13 communication including but not limited to e-mail email or other
+14 forms of written electronic communication, or documentation by the
+15 insurer of a verbal communication from a claimant which reasonably
+16 suggests that a response is expected, shall, within thirty (30)
+17 fourteen (14) calendar days after receipt thereof, furnish the
+18 claimant with an adequate response to the communication.
+19 D. Any violation by an insurer of this section shall subject
+20 the insurer to discipline including a civil penalty of not less than
+21 One Hundred Dollars ($100.00) nor more than Five Thousand Dollars
+22 ($5,000.00) Ten Thousand Dollars ($10,000.00).
+23
+24
+Req. No. 16127 Page 29
+
+1 SECTION 12. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 1250.4a of Title 36, unless
+3 there is created a duplication in numbering, reads as follows:
+4 A. The Insurance Commissioner's dispute resolution program
+5 shall help consumers and insurance companies effectively,
+6 economically, fairly, and timely resolve disputes with persons or
+7 entities subject to the jurisdiction of the Insurance Commissioner
+8 and related to insurance or service warranty claims. The dispute
+9 resolution program shall be subject to the laws and protections of
+10 the Dispute Resolution Act, Sections 1801 through 1813 of Title 12
+11 of the Oklahoma Statutes, and the rules promulgated thereto.
+12 B. Mediation may be requested only by the policyholder, as a
+13 first-party claimant or the insurer.
+14 C. Mediation is voluntary except that insurers shall
+15 participate in any mediation requested by a first-party claimant
+16 that meets the following criteria:
+17 1. Involves an insurance claim under a personal residential
+18 insurance policy or personal automobile insurance policy; and
+19 2. No civil litigation has commenced relating to the claim to
+20 be mediated.
+21 D. For purposes of this section, the term "claim" refers to any
+22 dispute between an insurer and a policyholder relating to a material
+23 issue of fact other than a dispute:
+24
+Req. No. 16127 Page 30
+
+1 1. With respect to which the insurer has a reasonable basis to
+2 suspect fraud;
+3 2. When, based on all the information presented to the
+4 Insurance Commissioner as to the cause of loss, there appears to be
+5 no coverage under the policy;
+6 3. With respect to which the insurer has a reasonable basis to
+7 believe that the policyholder has intentionally made a material
+8 misrepresentation of fact which is relevant to the claim, and the
+9 entire request for payment of a loss has been denied on the basis of
+10 the material misrepresentation;
+11 4. When, based on all of the information presented to the
+12 Insurance Commissioner, the policyholder appears to have suffered no
+13 actual monetary or property loss;
+14 5. When a claim is outside the time frames prescribed in
+15 applicable law; or
+16 6. When a claim has been paid in full prior to any mediation
+17 conference held pursuant to this section.
+18 E. A claim shall not be eligible for mediation unless it has
+19 first been submitted and fully processed through the Oklahoma
+20 Insurance Department's consumer complaint program.
+21 F. All parties to the mediation must negotiate in good faith to
+22 resolve the dispute and must have the authority to immediately
+23 settle the claim; however, there is no requirement that the dispute
+24 be resolved in mediation. If a written settlement is reached and
+Req. No. 16127 Page 31
+
+1 the policyholder is not represented by an attorney, the policyholder
+2 has three (3) business days within which the policyholder may
+3 rescind the settlement unless the policyholder has cashed or
+4 deposited any check, draft, or other payment made to the
+5 policyholder as a result of the settlement. If a settlement
+6 agreement is reached and is not rescinded, it shall be binding and
+7 act as a release of all specific claims presented in the mediation
+8 conference.
+9 G. The mediation conference shall be held as scheduled by the
+10 dispute resolution program coordinator. Upon application by any
+11 party for a continuance, the program coordinator shall, for good
+12 cause shown or if neither party objects, grant a continuance and
+13 shall notify all parties of the date and place of the rescheduled
+14 conference. Good cause also includes severe illness, injury, or
+15 other emergency that could not be controlled by the party and could
+16 not reasonably be remedied by the party prior to the conference by
+17 providing a replacement representative or otherwise. Good cause
+18 includes the necessity of obtaining additional information, securing
+19 the attendance of a necessary professional, or the avoidance of
+20 significant financial hardship. If the policyholder demonstrates to
+21 the mediator the need for an expedited mediation conference due to
+22 an undue hardship, the conference shall be conducted at the earliest
+23 date convenient to all of the parties and the mediator. Undue
+24 hardship will be demonstrated when holding the conference on a non-
+Req. No. 16127 Page 32
+
+1 expe dited basis would interfere with or contradict the treatment of
+2 a severe illness or injury, substantially impair a party's ability
+3 to assert their position at the conference, result in significant
+4 financial hardship, or other reasonably justified grounds.
+5 H. An insurer will be deemed to have failed to appear if the
+6 insurer's representative lacks authority to settle the full value of
+7 the claim. The authority to settle the claim includes the ability
+8 to disburse the full settlement amount within ten (10) days of the
+9 conclusion of the conference. The insurer shall produce at the
+10 conference a copy of the policy.
+11 I. Any violation by an insurer of this section shall subject
+12 the insurer to discipline including a civil penalty of not more than
+13 Ten Thousand Dollars ($10,000.00), in addition to any other
+14 penalties provided for by law.
+15 J. The Insurance Commissioner may adopt and promulgate rules
+16 for the implementation and administration of this section,
+17 including, but not limited to, the amount and who is responsible for
+18 the payment of any fees in the event costs of the program are not
+19 fully covered by the Administrative Office of the Courts, and the
+20 expansion or restriction of eligibility criteria for claims subject
+21 to mandatory and voluntary mediation under this section.
+22 SECTION 13. AMENDATORY 36 O.S. 2021, Section 1250.6, is
+23 amended to read as follows:
+24
+Req. No. 16127 Page 33
+
+1 Section 1250.6. A. Every property and casualty insurer, within
+2 thirty (30) fourteen (14) days after receiving notification of a
+3 claim, shall acknowledge the receipt of such notification unless
+4 payment is made within such period of time. If an acknowledgement
+5 is made by means other than writing, an appropriate notation of such
+6 acknowledgement shall be made in the claim file of the property and
+7 casualty insurer, and dated. Notification given to an agent of a
+8 property and casualty insurer shall be notification to the insurer.
+9 The acknowledgment shall include the Homeowner Claims Bill of Rights
+10 set forth in Section 9 of this act.
+11 B. Every property and casualty insurer, upon receiving
+12 notification of a claim, promptly shall provide necessary claim
+13 forms, instruction, and reasonable assistance so that first-party
+14 claimants can comply with the policy conditions and the reasonable
+15 requirements of the property and casualty insurer. Compliance with
+16 this paragraph subsection within thirty (30) days after notification
+17 of a claim shall constitute compliance with subsection A of this
+18 section.
+19 C. Every property and casualty insurer must send the
+20 policyholder a copy of any detailed estimate of the amount of the
+21 loss within seven (7) days after the estimate is generated by an
+22 insurer's adjuster. This subsection does not require that an
+23 insurer create a detailed estimate of the amount of the loss if such
+24
+Req. No. 16127 Page 34
+
+1 esti mate is not reasonably necessary as part of the claim
+2 investigation.
+3 SECTION 14. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 1250.6a of Title 36, unless
+5 there is created a duplication in numbering, reads as follows:
+6 A. An insurer issuing a personal lines residential property
+7 insurance policy in this state must provide a Homeowner Claims Bill
+8 of Rights to a policyholder within fourteen (14) days after
+9 receiving an initial communication with respect to a claim. The
+10 purpose of the bill of rights is to summarize, in simple,
+11 nontechnical terms, existing Oklahoma law regarding the rights of a
+12 personal lines residential property insurance policyholder who files
+13 a claim of loss. The Homeowner Claims Bill of Rights is specific to
+14 the claims process and does not represent all of a policyholder's
+15 rights under Oklahoma law regarding the insurance policy. The
+16 Homeowner Claims Bill of Rights does not enlarge, modify, or
+17 contravene statutory requirements, including, but not limited to,
+18 Sections 1204, 1250.6, 1250.7, and 6202 of Title 36 of the Oklahoma
+19 Statutes and OAC 365:1-11, and does not prohibit an insurer from
+20 exercising any right to repair damaged property in compliance with
+21 the terms of an applicable policy. The Homeowner Claims Bill of
+22 Rights must, at a minimum, state:
+23 HOMEOWNER CLAIMS BILL OF RIGHTS
+24
+Req. No. 16127 Page 35
+
+1 This Bill of Rights is specific to the claims process and
+2 does not represent all of your rights under Oklahoma law
+3 regarding your policy. This document does not prohibit an
+4 insurer from exercising any right to repair damaged
+5 property in compliance with the terms of an applicable
+6 policy.
+7 YOU HAVE THE RIGHT TO:
+8 1. Receive from your insurance company an acknowledgment of
+9 your reported claim within fourteen (14) days after the time you
+10 communicated the claim.
+11 2. Receive from your insurance company within thirty (30) days
+12 after you have submitted an executed proof of loss statement to your
+13 insurance company, confirmation that your claim is accepted or
+14 denied or if further investigation is necessary.
+15 3. Receive from your insurance company a copy of any detailed
+16 estimate of the amount of the loss within seven (7) days after the
+17 estimate is generated by the insurance company's adjuster.
+18 4. Receive from your insurance company within sixty (60) days
+19 after you have submitted an executed proof of loss statement either:
+20 a. full settlement payment for your claim or payment of
+21 the undisputed portion of your claim,
+22 b. denial of your claim, or
+23 c. notice that the insurer needs more time to investigate
+24 the claim and stating the reasons why.
+Req. No. 16127 Page 36
+
+1 5. If insurer provides notice that it needs more time to
+2 investigate the claim, receive from your insurance company within
+3 ninety (90) days after you have submitted an executed proof of loss
+4 statement either:
+5 a. full settlement payment for your claim or payment of
+6 the undisputed portion of your claim, or
+7 b. denial of your claim.
+8 In the event of a weather-related catastrophe or a major
+9 natural disaster, as declared by the Governor, the
+10 Insurance Commissioner may approve a request to extend
+11 this deadline an additional twenty (20) days.
+12 6. Contact the Oklahoma Insurance Department via telephone or
+13 website for assistance with any insurance claim or questions
+14 pertaining to the handling of your claim.
+15 YOU ARE ADVISED TO:
+16 1. File all claims directly with your insurance company.
+17 2. Contact your insurance company before entering into any
+18 contract for repairs to confirm any managed repair policy provisions
+19 or optional preferred vendors.
+20 3. Make and document emergency repairs that are necessary to
+21 prevent further damage. Keep the damaged property, if feasible,
+22 keep all receipts, and take photographs or video of damage before
+23 and after any repairs to provide to your insurer.
+24
+Req. No. 16127 Page 37
+
+1 4. Carefully read any contract that requires you to pay out-of-
+2 pocket expenses or a fee that is based on a percentage of the
+3 insurance proceeds that you will receive for repairing or replacing
+4 your property.
+5 5. Confirm that the contractor you choose is licensed to do
+6 business in Oklahoma. You can verify a contractor's license and
+7 check to see if there are any complaints against him or her by using
+8 the Oklahoma Construction Industries Board's website. You should
+9 also ask the contractor for references from previous work.
+10 6. Require all contractors to provide proof of insurance before
+11 beginning repairs.
+12 7. Take precautions if the damage requires you to leave your
+13 home, including securing your property and turning off your gas,
+14 water, and electricity, and contacting your insurance company and
+15 provide a phone number where you can be reached.
+16 B. Any violation of this section shall be a violation of the
+17 Unfair Claims Settlement Practices Act, and the Insurance
+18 Commissioner may, after notice and opportunity for a hearing,
+19 subject an insurer to the civil penalties set forth in Sections
+20 1250.13 and 1250.14 of this title, along with any other penalties
+21 set forth in applicable law.
+22 SECTION 15. AMENDATORY 36 O.S. 2021, Section 1250.7, is
+23 amended to read as follows:
+24
+Req. No. 16127 Page 38
+
+1 Section 1250.7. A. Within sixty (60) thirty (30) days after
+2 receipt by a property and casualty insurer of properly executed
+3 proofs of loss, the first-party claimant shall be advised of the
+4 acceptance or denial of the claim by the insurer, or if further
+5 investigation is necessary. No property and casualty insurer shall
+6 deny a claim because of a specific policy provision, condition, or
+7 exclusion unless reference to such provision, condition, or
+8 exclusion is included in the denial. A denial shall be given to any
+9 claimant in writing, and the claim file of the property and casualty
+10 insurer shall contain a copy of the denial. If there is a
+11 reasonable basis supported by specific information available for
+12 review by the Commissioner that the first-party claimant has
+13 fraudulently caused or contributed to the loss, a property and
+14 casualty insurer shall be relieved from the requirements of this
+15 subsection. In the event of a weather-related catastrophe or a
+16 major natural disaster, as declared by the Governor, the Insurance
+17 Commissioner may extend the deadline imposed under this subsection
+18 an additional twenty (20) days.
+19 B. If a claim is denied for reasons other than those described
+20 in subsection A of this section, and is made by any other means than
+21 writing, an appropriate notation shall be made in the claim file of
+22 the property and casualty insurer until such time as a written
+23 confirmation can be made.
+24
+Req. No. 16127 Page 39
+
+1 C. Every property and casualty insurer shall complete
+2 investigation of a claim within sixty (60) days after notification
+3 of proof of loss unless such investigation cannot reasonably be
+4 completed within such time. If such investigation cannot be
+5 completed, or if a property and casualty insurer needs more time to
+6 determine whether a claim should be accepted or denied, it shall so
+7 notify the claimant in writing within sixty (60) days after receipt
+8 of the proofs of loss, giving reasons why more time is needed. If
+9 the investigation remains incomplete, a property and casualty
+10 insurer shall, within sixty (60) days from the date of the initial
+11 notification, send to such claimant a letter setting forth the
+12 reasons additional time is needed for investigation. Except for an
+13 investigation of possible fraud or arson which is supported by
+14 specific information giving a reasonable basis for the
+15 investigation, the time for investigation shall not exceed one
+16 hundred twenty (120) ninety (90) days after receipt of proof of
+17 loss. Provided, in the event of a weather-related catastrophe or a
+18 major natural disaster, as declared by the Governor, the Insurance
+19 Commissioner may extend this deadline for investigation an
+20 additional twenty (20) days.
+21 D. Within the applicable timelines set forth in subsection C of
+22 this section, the insurer shall pay or deny such claim. If the
+23 insurer's claim payment is less than specified in any insurer's
+24 detailed estimate pursuant to subsection C of Section 1250.6 of this
+Req. No. 16127 Page 40
+
+1 titl e of the amount of the loss, the insurer must provide a
+2 reasonable explanation in writing of the difference to the
+3 policyholder. Any untimely payment of an initial or supplemental
+4 claim or portion of such claim shall bear simple interest at the
+5 rate of ten percent (10%) per year. Interest begins to accrue from
+6 the date the insurer receives notice of the claim. The provisions
+7 of this subsection may not be waived, voided, or nullified by the
+8 terms of the insurance policy. If there is a right to prejudgment
+9 interest, the insured must select whether to receive prejudgment
+10 interest or interest under this subsection. Interest is payable
+11 when the claim or portion of the claim is paid. Failure to comply
+12 with this subsection constitutes a violation of this code. However,
+13 failure to comply with this subsection does not form the sole basis
+14 for a private cause of action.
+15 E. Insurers shall not fail to settle first-party claims on the
+16 basis that responsibility for payment should be assumed by others
+17 except as may otherwise be provided by policy provisions.
+18 E. F. Insurers shall not continue or delay negotiations for
+19 settlement of a claim directly with a claimant who is neither an
+20 attorney nor represented by an attorney, for a length of time which
+21 causes the claimant's rights to be affected by a statute of
+22 limitations, or a policy or contract time limit, without giving the
+23 claimant written notice that the time limit is expiring and may
+24 affect the claimant's rights. Such notice shall be given to first-
+Req. No. 16127 Page 41
+
+1 part y claimants and third-party claimants one (1) year after the
+2 date of the loss.
+3 F. G. No insurer shall make statements which indicate that the
+4 rights of a third-party claimant may be impaired if a form or
+5 release is not completed within a given period of time unless the
+6 statement is given for the purpose of notifying a third-party
+7 claimant of the provision of a statute of limitations.
+8 G. H. If a lawsuit on the claim is initiated, the time limits
+9 provided for in this section shall not apply.
+10 I. If an insurer denies a homeowner's claim, in whole or in
+11 part, based solely on the use of video recordings or photographs of
+12 the loss using aerial imaging, including drones, driverless vehicle,
+13 or other machine that can move independently or through remote
+14 control, the insurer shall establish, if not already existing, a
+15 process allowing the insured to appeal such denial within at least
+16 thirty (30) days of the insured's receipt of the insurer's full and
+17 final determination on the claim. The insurer's evaluation of an
+18 appeal pursuant to this subsection shall include an in-person
+19 inspection of the loss. A determination on the appeal shall be
+20 completed, and the insured notified, within thirty (30) days of the
+21 request of the appeal.
+22 SECTION 16. AMENDATORY 36 O.S. 2021, Section 1250.14, is
+23 amended to read as follows:
+24
+Req. No. 16127 Page 42
+
+1 Section 1250.14. A. For any violation of the Unfair Claims
+2 Settlement Practices Act, the Insurance Commissioner may, after
+3 notice and hearing, subject an insurer to a civil penalty of not
+4 less than One Hundred Dollars ($100.00) nor more than Five Thousand
+5 Dollars ($5,000.00) Ten Thousand Dollars ($10,000.00) for each
+6 occurrence. In addition to or in lieu of any fine amount, the
+7 Insurance Commissioner may refuse to renew, suspend, put on
+8 probation, or revoke an insurer's certificate of authority, license,
+9 or any other registration or similar approval to conduct business in
+10 Oklahoma issued by the Insurance Commissioner. Such civil penalty
+11 may be enforced in the same manner in which civil judgments may be
+12 enforced.
+13 B. The Insurance Commissioner may also direct the insurer
+14 against whom the order was issued to make complete restitution, in
+15 the form, manner, and amount and within the time period determined
+16 by the Commissioner, to all Oklahoma residents, Oklahoma insureds,
+17 and entities operating in Oklahoma damaged by the violation or
+18 failure to comply.
+19 SECTION 17. AMENDATORY 36 O.S. 2021, Section 3639.1, is
+20 amended to read as follows:
+21 Section 3639.1. A. No insurer shall cancel, refuse to renew or
+22 otherwise terminate, or increase the premium of a homeowner's
+23 insurance policy or any other personal residential insurance
+24 coverage, which has been in effect more than forty-five (45) days,
+Req. No. 16127 Page 43
+
+1 sole ly because the insured filed a first claim against the policy or
+2 submitted any number of inquiries on the policy.
+3 B. No insurer shall cancel, refuse to renew or otherwise
+4 terminate, or increase the premium of a homeowner's insurance policy
+5 or any other personal residential insurance coverage, including, but
+6 not limited to, flood insurance, because of a claim that occurred
+7 more than five (5) years before the effective date of the policy or
+8 renewal. No insurer shall refuse to underwrite risk for a
+9 homeowner's insurance policy or any other personal residential
+10 insurance coverage, including, but not limited to, flood insurance,
+11 because of a claim that occurred more than five (5) years before the
+12 date of application.
+13 C. No insurer shall cancel, refuse to renew or otherwise
+14 terminate, or increase the premium of a homeowner's insurance policy
+15 or any other personal residential insurance coverage, including, but
+16 not limited to, flood insurance, based on the claims history of an
+17 insured for weather-related claims, unless there were three or more
+18 weather-related claims within the preceding three-year period. This
+19 subsection shall not apply to claims for weather-related events for
+20 which the insurer provided written notice to the insured for
+21 reasonable or customary repairs or replacement specific to the
+22 insured's premises or dwelling which the insured failed to make and
+23 which, if made, would have prevented the loss for which a claim was
+24 made.
+Req. No. 16127 Page 44
+
+1 D. The provisions of this section shall not be construed to
+2 prevent the cancellation, nonrenewal or increase in premium of a
+3 homeowner's insurance policy for the following reasons:
+4 1. Nonpayment of premium;
+5 2. Discovery of fraud or material misrepresentation in the
+6 procurement of the insurance or with respect to any claims submitted
+7 thereunder;
+8 3. Discovery of willful or reckless acts or omissions on the
+9 part of the named insured which increase any hazard insured against;
+10 4. A change in the risk which substantially increases any
+11 hazard insured against after insurance coverage has been issued or
+12 renewed;
+13 5. Violation of any local fire, health, safety, building, or
+14 construction regulation or ordinance with respect to any insured
+15 property or the occupancy thereof which substantially increases any
+16 hazard insured against;
+17 6. A determination by the Insurance Commissioner that the
+18 continuation of the policy would place the insurer in violation of
+19 the insurance laws of this state; or
+20 7. Conviction of the named insured of a crime having as one of
+21 its necessary elements an act increasing any hazard insured against.
+22 B. E. An insurer shall give to the named insured at the mailing
+23 address shown on a homeowner's policy, a written renewal notice that
+24 shall include new premium, new deductible, new limits or coverage at
+Req. No. 16127 Page 45
+
+1 leas t thirty (30) days prior to the expiration date of the policy.
+2 If the insurer fails to provide such notice, the premium,
+3 deductible, limits and coverage provided to the named insurer prior
+4 to the change shall remain in effect until notice is given or until
+5 the effective date of replacement coverage obtained by the named
+6 insured, whichever occurs first. If notice is given by mail, the
+7 notice shall be deemed to have been given on the day the notice is
+8 mailed. If the insured elects not to renew, any earned premium for
+9 the period of extension of the terminated policy shall be calculated
+10 pro rata at the lower of the current or previous year's rate. If
+11 the insured accepts the renewal, the premium increase, if any, and
+12 other changes shall be effective the day following the prior
+13 policy's expiration or anniversary date.
+14 C. F. In the event an insured cancels a homeowner's insurance
+15 policy or any other personal residential insurance coverage, written
+16 notice shall be provided by the insured to the insurer that provided
+17 the coverage being canceled. The notice of cancellation shall
+18 provide the date of the cancellation of the policy and the insurer
+19 shall reimburse the insured for any premiums paid for coverage
+20 beyond the date of cancellation of the policy.
+21 D. G. An insurer canceling a policy under subsection C F of
+22 this section shall not be liable for claims arising after the date
+23 of cancellation.
+24
+Req. No. 16127 Page 46
+
+1 H. If an insurer denies a homeowner's claim, in whole or in
+2 part, reduces coverage, refuses to issue, or refuses to renew a
+3 homeowner's policy based solely on the use of video recordings or
+4 photographs of the loss using aerial imaging, including drones,
+5 driverless vehicle, or other machine that can move independently or
+6 through remote control, the insurer shall establish, if not already
+7 existing, a process allowing the homeowner to appeal such denial
+8 within at least thirty (30) days of the homeowner's receipt of the
+9 insurer's full and final determination on the claim or decision to
+10 reduce coverage, refusal to issue, or refusal to renew the
+11 homeowner's policy. The insurer's evaluation of an appeal pursuant
+12 to this subsection shall include an in-person inspection of the
+13 loss. A determination on the appeal shall be completed, and the
+14 homeowner notified, within thirty (30) days of the request of the
+15 appeal.
+16 I. An insurer shall not reduce coverage, refuse to issue, or
+17 refuse to renew a homeowner's policy insuring a residential
+18 structure with a roof that is less than fifteen (15) years old
+19 solely because of the age of the roof.
+20 J. 1. For a roof that is at least fifteen (15) years old, an
+21 insurer must allow a homeowner to have a roof inspection performed
+22 by an authorized inspector at the homeowner's expense before
+23 requiring the replacement of the roof of a residential structure as
+24 a condition of issuing or renewing a homeowner's insurance policy.
+Req. No. 16127 Page 47
+
+1 The insurer may not refuse to issue or refuse to renew a homeowner's
+2 insurance policy solely because of roof age if an inspection of the
+3 roof of the residential structure performed by an authorized
+4 inspector indicates that the roof has five (5) years or more of
+5 useful life remaining.
+6 2. As used in this section, the term "authorized inspector"
+7 means an inspector who is approved by the insurer and who is:
+8 a. a licensed adjuster as defined in Section 6202 of this
+9 title,
+10 b. a licensed home inspector as defined in Section 858-
+11 622 of Title 59 of the Oklahoma Statutes,
+12 c. a building code inspector certified under Section
+13 1000.23 of Title 59 of the Oklahoma Statutes,
+14 d. a registered roofing contractor pursuant to Section
+15 1151.3 of Title 59 of the Oklahoma Statutes,
+16 e. a professional engineer licensed under Section 475.12a
+17 of Title 59 of the Oklahoma Statutes, or
+18 f. a professional architect licensed under Section 46.8a
+19 of Title 59 of the Oklahoma Statutes.
+20 3. For purposes of this section, a roof's age shall be
+21 calculated using the last date on which one hundred percent (100%)
+22 of the roof's surface area was built or replaced in accordance with
+23 the building code in effect at that time or the initial date of a
+24 partial roof replacement with subsequent partial roof builds or
+Req. No. 16127 Page 48
+
+1 repl acements that result in one hundred percent (100%) of the roof's
+2 surface area being built or replaced.
+3 K. For purposes of subsection A, the following definitions
+4 shall apply:
+5 1. "Claim" means a contact with an insurer by an insured or
+6 thirty party, as an assignee of the policy benefits, for the purpose
+7 of seeking payment. A claim shall not include a report of loss by
+8 the insured or any subsequent inquiries or inspection of loss if:
+9 a. no payment if made,
+10 b. the report of loss is withdrawn by the insured, or
+11 c. coverage is denied by the insurer, and
+12 2. "Inquiry" means a request for information regarding the
+13 terms, conditions, or coverages offered under a property and
+14 casualty insurance policy that does not result in a claim.
+15 SECTION 18. This act shall become effective November 1, 2026.
+16
+17 60-2-16127 MJ 02/17/26
+18
+19
+20
+21
+22
+23
+24
+Req. No. 16127 Page 49
