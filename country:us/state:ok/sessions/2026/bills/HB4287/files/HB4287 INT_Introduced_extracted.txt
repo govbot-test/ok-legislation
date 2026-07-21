@@ -1,0 +1,151 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 HOUSE BILL 4287 By: Fugate
+4
+5
+6 AS INTRODUCED
+7 An Act relating to prisons and reformatories;
+providing definitions; directing the Oklahoma
+8 Department of Corrections to maintain electronic
+record of persons entering custody; providing
+9 required information to be collected; directing the
+Department to obtain same information for persons
+10 already in custody; directing the Department to
+transmit data to the Oklahoma State Data Center in
+11 any Federal Decennial Census year; requiring
+information transmitted to be confidential and in
+12 aggregated census-block redistricting datasets;
+directing the Center to request equivalent
+13 information from all federal correctional facilities
+in Oklahoma; directing the Center to prepare
+14 redistricting population data that reallocates
+incarcerated persons to last-known Oklahoma address;
+15 directing the Oklahoma Legislative Apportionment
+Commission to use adjusted data; directing all
+16 political subdivisions to use adjusted data;
+requiring individuals whose last-known address is in
+17 Oklahoma to be reassigned to that census geography;
+requiring individuals whose last-known address is
+18 outside Oklahoma to be excluded from local population
+totals; directing for adjusted data to be published
+19 within thirty days of receipt; stipulating that data
+may not be used for allocation of state or federal
+20 funding; providing for codification; and providing an
+effective date.
+21
+22
+23
+24
+Req. No. 15789 Page 1
+
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 801 of Title 57, unless there is
+4 created a duplication in numbering, reads as follows:
+5 As used in this act:
+6 1. "Department" means the Oklahoma Department of Corrections;
+7 2. "Center" means the Oklahoma State Data Center within the
+8 Department of Commerce;
+9 3. "Federal correctional facility" means any correctional
+10 institution owned, operated, or contracted by the United States
+11 government for incarceration of persons convicted of criminal
+12 offenses and located within Oklahoma;
+13 4. "Last known address" means the individual's most recent
+14 complete residential street or physical address prior to
+15 incarceration and is presumed not to be the correctional facility in
+16 which the individual is confined;
+17 5. "Local government district" means any district established
+18 primarily for electoral purposes that is required to be
+19 substantially equal in population under the Fourteenth Amendment to
+20 the United States Constitution; and
+21 6. "State prison" means any facility operated by or under
+22 contract with the Oklahoma Department of Corrections.
+23
+24
+Req. No. 15789 Page 2
+
+1 SECTION 2. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 802 of Title 57, unless there is
+3 created a duplication in numbering, reads as follows:
+4 A. The Oklahoma Department of Corrections shall maintain an
+5 electronic record for each person entering custody that includes:
+6 1. Last-known address;
+7 2. Race, ethnicity, and whether the person is of Hispanic or
+8 Latino origin; and
+9 3. Whether the person is eighteen (18) years of age or older.
+10 B. To the extent practicable, the Department shall obtain and
+11 maintain the same information for persons already in custody.
+12 SECTION 3. NEW LAW A new section of law to be codified
+13 in the Oklahoma Statutes as Section 803 of Title 57, unless there is
+14 created a duplication in numbering, reads as follows:
+15 A. In any year in which the Federal Decennial Census occurs,
+16 the Oklahoma Department of Corrections shall transmit to the
+17 Oklahoma State Data Center:
+18 1. A unique anonymized identifier;
+19 2. Facility address;
+20 3. Last-known address;
+21 4. Demographic data; and
+22 5. Additional data required by the Center.
+23
+24
+Req. No. 15789 Page 3
+
+1 B. Information transmitted under this section shall be
+2 confidential and only be released in aggregated census-block
+3 redistricting datasets.
+4 C. The Center shall request equivalent information from all
+5 federal correctional facilities located in Oklahoma.
+6 SECTION 4. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 804 of Title 57, unless there is
+8 created a duplication in numbering, reads as follows:
+9 A. The Oklahoma State Data Center shall prepare redistricting
+10 population data that reallocates incarcerated persons to their last-
+11 known Oklahoma address.
+12 B. The Oklahoma Legislative Apportionment Commission shall use
+13 the adjusted data to establish Oklahoma House of Representatives,
+14 Oklahoma State Senate, and Oklahoma congressional districts.
+15 C. All political subdivisions shall use the adjusted data when
+16 forming any local government district based on population.
+17 SECTION 5. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 805 of Title 57, unless there is
+19 created a duplication in numbering, reads as follows:
+20 A. If the last-known address of an incarcerated person is in
+21 Oklahoma, the individual shall be reassigned to that census
+22 geography.
+23 B. If the address is unknown or outside Oklahoma, the
+24 individual shall be excluded from local population totals.
+Req. No. 15789 Page 4
+
+1 C. Adjusted data shall be published within thirty (30) days of
+2 receipt of federal census data.
+3 D. The data may not be used for allocation of state or federal
+4 funding.
+5 SECTION 6. This act shall become effective November 1, 2026.
+6
+7 60-2-15789 MJ 01/09/26
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 15789 Page 5

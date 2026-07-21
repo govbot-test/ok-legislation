@@ -1,0 +1,364 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1751 By: Bergstrom
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to human trafficking; creating the
+7
+Human Trafficking Identification and Reporting Act;
+8
+providing short title; defining terms; requiring the
+8
+Office of the Attorney General to enter into certain
+9
+contract and make certain certification; authorizing
+9
+certain use; requiring certain notice and support;
+10
+providing for noncodification; providing for
+10
+codification; and providing an effective date.
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+SECTION 1. NEW LAW A new section of law not to be
+14
+15
+codified in the Oklahoma Statutes reads as follows:
+15
+16
+That act shall be known and may be cited as the “Human
+16
+17
+Trafficking Identification and Reporting Act”.
+17
+18
+SECTION 2. NEW LAW A new section of law to be codified
+18
+19
+in the Oklahoma Statutes as Section 20M of Title 74, unless there is
+19
+20
+created a duplication in numbering, reads as follows:
+20
+21
+A. For the purposes of this section:
+21
+22
+1. “Administering organization” means a nonprofit organization
+22
+23
+that is experienced in human trafficking prevention and victim
+23
+24
+24
+Req. No. 3070 Page 1
+
+1
+support and has developed or administers a digital identification
+1
+2
+and reporting platform;
+2
+3
+2. “Digital identification and reporting platform” means a
+3
+4
+secure, trauma-informed, HIPAA-compliant technology platform that:
+4
+5
+a. provides multichannel access for the public and
+5
+6
+professionals, including mobile applications, web
+6
+7
+portals, short messaging services, and voice or live
+7
+8
+chats,
+8
+9
+b. guides users through structured questions to identify
+9
+10
+indicators of human trafficking and enables users to
+10
+11
+upload supporting evidence,
+11
+12
+c. allows reporters to remain anonymous and exercises
+12
+13
+consent-based controls over personally identifiable
+13
+14
+information,
+14
+15
+d. utilizes an artificial intelligence assisted risk
+15
+16
+model or similar decision support system to triage
+16
+17
+reports based on severity and credibility and pushes
+17
+18
+notifications to authorized investigative agencies,
+18
+19
+e. routes high priority reports in real time to the
+19
+20
+appropriate law enforcement agency, child protection
+20
+21
+agency, or vetted service provider based on
+21
+22
+jurisdiction,
+22
+23
+23
+24
+24
+Req. No. 3070 Page 2
+
+1
+f. provides secure dashboards for authorized agencies to
+1
+2
+view, manage, and respond to reports with role-based
+2
+3
+access controls and audit logging,
+3
+4
+g. is interoperable with the National Human Trafficking
+4
+5
+Hotline, state child welfare systems, law enforcement
+5
+6
+case management systems, and other relevant platforms
+6
+7
+through standardized application programming
+7
+8
+interfaces, and
+8
+9
+h. complies with all applicable federal and state privacy
+9
+10
+laws, including the federal Health Insurance
+10
+11
+Portability and Accountability Act of 1996 (HIPAA) and
+11
+12
+the Criminal Justice Information Services security
+12
+13
+policy;
+13
+14
+3. “Field coordinator” means an individual employed by or under
+14
+15
+contract with an administering organization and who serves under the
+15
+16
+statewide coordinator to assist with regional training, outreach,
+16
+17
+and implementation. Such individual shall not be a state employee
+17
+18
+and shall not be hired, compensated, or granted benefits through
+18
+19
+state employment systems;
+19
+20
+4. “Human trafficking” means modern-day slavery that includes,
+20
+21
+but is not limited to, extreme exploitation and the denial of
+21
+22
+freedom or liberty of an individual for purposes of deriving benefit
+22
+23
+from that individual’s commercial sex act or labor. It includes
+23
+24
+human trafficking for labor and human trafficking for commercial sex
+24
+Req. No. 3070 Page 3
+
+1
+as such terms are defined in Section 748 of Title 21 of the Oklahoma
+1
+2
+Statutes;
+2
+3
+5. “Mandated reporter” means any individual who is required by
+3
+4
+law to report suspected abuse, exploitation, or human trafficking of
+4
+5
+a minor or vulnerable person, including, but not limited to, a
+5
+6
+teacher, health care professional, law enforcement personnel, and
+6
+7
+social worker; and
+7
+8
+6. “Statewide coordinator” means an individual employed by or
+8
+9
+under contract with an administering organization and who is
+9
+10
+approved by the Attorney General to oversee implementation of the
+10
+11
+digital identification and reporting platform, coordinate training
+11
+12
+and outreach, and serve as a liaison among state agencies and the
+12
+13
+administering organization. Such person shall not be a state
+13
+14
+employee and shall not be hired, compensated, or granted benefits
+14
+15
+through state employment systems.
+15
+16
+B. 1. The Office of the Attorney General shall enter into a
+16
+17
+contract with an administering organization to adopt or designate a
+17
+18
+digital identification and reporting platform.
+18
+19
+2. The Office of the Attorney General, in consultation with the
+19
+20
+administering organization and relevant state agencies, shall
+20
+21
+certify one or more digital identification and reporting platforms.
+21
+22
+C. Mandated reporters may utilize the digital identification
+22
+23
+and reporting platform certified by the Office of the Attorney
+23
+24
+General as the primary mechanism for reporting suspected human
+24
+Req. No. 3070 Page 4
+
+1
+trafficking. Such platform shall facilitate referral to the
+1
+2
+National Human Trafficking Hotline for crisis support as necessary.
+2
+3
+The provisions of this subsection shall not preclude a mandated
+3
+4
+reporter from utilizing the National Human Trafficking Hotline or
+4
+5
+other mandated reporting channels.
+5
+6
+D. The digital identification and reporting platform certified
+6
+7
+by the Office of the Attorney General shall send notifications of
+7
+8
+high priority reports to designated law enforcement and child
+8
+9
+protection officials and shall provide a secure dashboard for
+9
+10
+authorized personnel to view, triage, and respond to reports. The
+10
+11
+platform shall support real-time communication between investigators
+11
+12
+and survivors or reporters with consent.
+12
+13
+SECTION 3. This act shall become effective November 1, 2026.
+13
+14
+14
+15
+60-2-3070 CN 1/14/2026 2:49:13 PM
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3070 Page 5

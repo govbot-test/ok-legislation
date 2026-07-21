@@ -1,0 +1,336 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 HOUSE BILL 3724 By: Shaw
+4
+5
+6 AS INTRODUCED
+7 An Act relating to public utilities; defining terms;
+stating applicability to high-demand facilities with
+8 certain electricity requirements; prohibiting
+taxpayer-funded subsidies for high-demand facilities;
+9 detailing prohibited subsidies; prohibiting certain
+public infrastructure investments; prohibiting
+10 certain agreements; authorizing certain entities to
+prohibit certain facilities; stating authority shall
+11 not be preempted by state law or zoning
+classification; requiring facilities fully fund
+12 certain electric infrastructure upgrades; prohibiting
+cost be passed to other retail ratepayers; requiring
+13 certain monthly payments; requiring completion of
+water impact assessment; requiring certain recycling
+14 and reuse of water; prohibiting a water provider from
+acquiring additional water rights for certain uses;
+15 limiting daily water usage; prohibiting construction
+by certain entities and on certain lands; prohibiting
+16 attempts to evade provisions; requiring compliance
+with ordinances; providing for enforcement; requiring
+17 certain decommissioning plan; providing certain
+details of plan contents; authorizing Corporation
+18 Commission to promulgate rules; authorizing citizens
+to undertake initiative and referendum petition;
+19 stating requirements for petitions; providing for
+counting of signatures; providing procedure for
+20 protests; outlining procedure for ballot title;
+providing for appeals to the wording of ballot title;
+21 requiring certain notification for ballot title;
+requiring question be presented to voters at next
+22 general election; requiring certain notices be given
+before general election; providing final outcome of
+23 vote be binding; providing for codification; and
+declaring an emergency.
+24
+Req. No. 14694 Page 1
+
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 180.14 of Title 17, unless there
+4 is created a duplication in numbering, reads as follows:
+5 A. As used in this section:
+6 1. "Agricultural land" means land classified for ad valorem
+7 taxation as agricultural land;
+8 2. "Contract capacity" means the maximum electric demand
+9 capacity reserved or contracted for by a high-demand facility;
+10 3. "Electric utility" means any investor-owned, cooperative, or
+11 municipally owned electric utility subject to regulation by the
+12 Oklahoma Corporation Commission, Federal Energy Regulatory
+13 Commission, or the Southwest Power Pool;
+14 4. "Foreign principal" means any individual, entity, or
+15 government defined as a foreign principal under 22 U.S.C., Section
+16 611, including any entity owned or controlled directly or indirectly
+17 by such principal; and
+18 5. "High-demand facility" means any commercial, industrial, or
+19 institutional facility that:
+20 a. has a monthly minimum electric demand of seventy-five
+21 megawatts (75 MW) or greater, or
+22 b. is an existing facility proposing an expansion
+23 reasonably expected to increase electric demand to a
+24
+Req. No. 14694 Page 2
+
+1 total equal to or greater than seventy-five megawatts
+2 (75 MW).
+3 B. This section shall apply to any high-demand facility
+4 initiating electric or water service on or after the effective date
+5 of this act and to any existing facility that expands or modifies
+6 operations after the effective date of this act in a manner that
+7 increases electric demand to a total equal to or greater than
+8 seventy-five megawatts (75 MW).
+9 C. No high-demand facility shall be eligible for any taxpayer-
+10 funded subsidy, including, but not limited to:
+11 1. State or local tax credits;
+12 2. Rebates, refunds, or abatements;
+13 3. Grants or forgivable loans;
+14 4. Tax increment financing;
+15 5. Sales, use, ad valorem, or income tax exemptions; or
+16 6. Any incentive funded in whole or in part by public funds.
+17 Public infrastructure investments made primarily or exclusively to
+18 serve a high-demand facility shall constitute a prohibited subsidy
+19 unless fully reimbursed by the facility. Any agreement entered into
+20 in violation of this subsection shall be void and unenforceable.
+21 D. A county, municipality, or other political subdivision may,
+22 by ordinance or resolution, prohibit the construction, siting,
+23 expansion, or operation of high-demand facilities within its
+24 jurisdiction. Such authority shall not be preempted by state law
+Req. No. 14694 Page 3
+
+1 and shall apply regardless of zoning classification unless otherwise
+2 expressly authorized by the political subdivision.
+3 E. A high-demand facility shall fully fund all electric
+4 infrastructure upgrades required to serve the facility, including
+5 those required now or in the future due to operational needs. No
+6 costs associated with serving a high-demand facility shall be
+7 allocated to or recovered from other retail ratepayers. A high-
+8 demand facility shall pay monthly for:
+9 1. Actual metered energy usage; or
+10 2. Not less than eighty percent (80%) of contract capacity, if
+11 usage is less than contracted capacity.
+12 F. A high-demand facility shall complete a water impact
+13 assessment prior to approval of any water service contract,
+14 including projected use, sources, conservation measures, and
+15 sustainability impacts. Facilities shall utilize water recycling,
+16 reuse, or closed-loop cooling systems to the maximum extent
+17 practicable. Any entity providing water to a high-demand facility
+18 shall not acquire additional water rights for the sole or partial
+19 purpose of serving a high-demand facility. Contracted withdrawal
+20 amounts shall be included in all future water availability
+21 determinations. Requested daily withdrawals shall not exceed:
+22 1. Twenty-five percent (25%) of the provider's current
+23 withdrawal rate; and
+24
+Req. No. 14694 Page 4
+
+1 2. Five percent (5%) of the provider's total water rights that
+2 are currently under contract.
+3 G. A high-demand facility shall not be constructed, sited, or
+4 operated by a foreign principal or on land classified as
+5 agricultural land. Any attempt to evade this subsection through the
+6 use of shell entities, lease arrangements, or reclassification after
+7 the effective date of this act shall be prohibited.
+8 H. All high-demand facilities shall be fully compliant with all
+9 applicable local noise ordinances, including operational,
+10 construction, and emergency operations, without exception or
+11 variance unless expressly granted by the local governing authority.
+12 I. All new high-demand facilities shall submit, prior to
+13 construction or operation, a decommissioning plan for approval by
+14 the applicable permitting authority. The decommissioning plan shall
+15 provide for the complete decommissioning, dismantling, and removal
+16 of all buildings, structures, equipment, foundations, and
+17 improvements associated with the facility, as well as restoration of
+18 the site to a condition reasonably comparable to its pre-development
+19 use. The plan shall include a timeline for decommissioning, site
+20 remediation measures, and an estimate of decommissioning costs. The
+21 facility owner or operator shall remain responsible for full
+22 compliance with the decommissioning plan upon cessation of
+23 operations, expiration of permits, or abandonment of the facility.
+24
+Req. No. 14694 Page 5
+
+1 J. The Oklahoma Corporation Commission shall enforce the
+2 electric utility and ratepayer protection provisions of this
+3 section. Water use provisions shall be enforced by the local or
+4 state entity with jurisdiction over the water resource to be
+5 utilized. The Oklahoma Corporation Commission is authorized to
+6 promulgate rules to effectuate the provisions of this section.
+7 SECTION 2. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 180.15 of Title 17, unless there
+9 is created a duplication in numbering, reads as follows:
+10 A. Citizens of a county or municipality that are opposed to the
+11 construction, siting, expansion, or operation of a high-demand
+12 facility, as defined in Section 1 of this act, or are in
+13 disagreement with the outcome of the vote of a board of county
+14 commissioners or city council pursuant to subsection D of Section 1
+15 of this act shall have the powers of initiative and referendum
+16 petition as provided for by the Oklahoma Constitution and as
+17 provided in this section.
+18 B. 1. For purposes of this section, the form of the petition
+19 for either initiative or referendum shall be substantially as
+20 provided in Sections 1 and 2 of Title 34 of the Oklahoma Statutes.
+21 A true copy of each measure proposed by initiative and referendum
+22 shall be filed with the clerk of the city or town or with the
+23 secretary of the county election board before it is circulated and
+24 signed by the registered voters.
+Req. No. 14694 Page 6
+
+1 2. Every petition for either the initiative or referendum shall
+2 be signed by a number of the registered voters residing in the city
+3 or town equal to at least twenty-five percent (25%) of the total
+4 number of votes cast at the preceding general municipal election or
+5 for counties, equal to at least ten percent (10%) of the registered
+6 voters residing in the county. The signatures to each petition
+7 shall be verified in the manner provided by law.
+8 3. Signed copies of an initiative petition shall be submitted
+9 to the clerk or secretary within ninety (90) days after the initial
+10 filing of the measure with the clerk or secretary. Signed copies of
+11 a petition invoking a referendum upon any ordinance or resolution
+12 shall be submitted to the clerk or secretary within thirty (30) days
+13 after the passage or adoption of the ordinance or resolution.
+14 C. When signed copies of a petition are timely filed with the
+15 clerk or secretary, the clerk or secretary shall make a physical
+16 count of the number of signatures appearing on the petitions. He or
+17 she shall then publish, in at least one newspaper of general
+18 circulation in the municipality or the county and on any available
+19 social media channels, a notice of the filing and the apparent
+20 sufficiency or insufficiency of the petition. The notice shall also
+21 state that any qualified elector of the municipality or the county
+22 may file a protest to the petition or an objection to the count made
+23 by the clerk or secretary.
+24
+Req. No. 14694 Page 7
+
+1 A protest to the petition or the count of signatures shall be
+2 filed in the district court in the county in which the situs of the
+3 city, town, or county is located within ten (10) days after the
+4 publication. Written notice of the protest shall be served upon the
+5 clerk or secretary and the parties who filed the petition. In the
+6 case of the filing of an objection to the count, notice shall also
+7 be served upon any party filing a protest. The district court shall
+8 fix a day, not less than ten (10) days after the filing of a
+9 protest, to hear testimony and arguments for and against the
+10 sufficiency of the petition. A protest filed by anyone, if
+11 abandoned by the party filing it, may be revived within five (5)
+12 days by any other qualified elector. After the hearing, the
+13 district court shall decide whether such petition is in form
+14 required by law.
+15 D. 1. The parties submitting a petition for either initiative
+16 or referendum shall also prepare and file a ballot title for the
+17 measure. The ballot title may be filed with the clerk or secretary
+18 prior to circulating the petition, but it must be submitted no later
+19 than the time that the signed copies of the petition are filed with
+20 the clerk or secretary. The ballot title shall contain the gist of
+21 the proposition couched in language that may be readily understood
+22 by persons not engaged in the practice of law. The ballot title
+23 shall contain language which clearly states that a "yes" vote is a
+24
+Req. No. 14694 Page 8
+
+1 vote in favor of the proposition, and a "no" vote is a vote against
+2 the proposition. The ballot title may not:
+3 a. exceed one hundred fifty (150) words,
+4 b. reflect partiality in its composition or contain any
+5 argument for or against the measure, or
+6 c. contain language whereby a "yes" vote is, in fact, a
+7 vote against the proposition and a "no" vote is, in
+8 fact, a vote in favor of the proposition.
+9 2. The clerk or secretary shall immediately forward a copy of
+10 the proposition and ballot title to the municipal attorney or
+11 district attorney. Within three (3) days after the filing of the
+12 ballot title, the attorney shall notify the clerk or secretary in
+13 writing whether or not the proposed ballot title is in legal form
+14 and in harmony with the law. If the ballot title is not in proper
+15 form, in the opinion of the attorney, he shall prepare and file a
+16 ballot title which does conform to the law within the three-day
+17 period.
+18 E. A qualified elector who is dissatisfied with the wording of
+19 a ballot title may appeal, within ten (10) days after the ballot
+20 title is filed with the clerk or secretary, to the district court in
+21 the county in which the situs of the city, town, or county is
+22 located. The petition for appeal shall offer a substitute ballot
+23 title for the one from which the appeal is taken. Written notice of
+24 the appeal shall be served upon the clerk or secretary and upon the
+Req. No. 14694 Page 9
+
+1 part ies who filed the ballot title at least five (5) days before
+2 such appeal is heard by the court. The municipal attorney or the
+3 district attorney shall, and any interested citizen may, defend the
+4 ballot title from which the appeal is taken. After the hearing of
+5 the appeal, the district court may correct or amend the ballot
+6 title, or accept the substitute suggested, or may draft a new one
+7 which will conform with the law.
+8 F. When a ballot title has been decided upon, either as
+9 approved by the municipal attorney or district attorney or by the
+10 district court, the clerk or secretary shall notify the mayor or the
+11 chairman of the board of county commissioners in writing, and attach
+12 a copy of the petition and ballot title.
+13 G. When an initiative petition demands the enactment of an
+14 ordinance or resolution, the mayor or the chairman of the board of
+15 county commissioners shall present the petition to the governing
+16 body at its next meeting. If the petition is not granted more than
+17 thirty (30) days before the next general municipal or county
+18 election, the mayor or the board of county commissioners shall
+19 submit the ordinance or act so petitioned to the registered voters
+20 of the city, town, or county at the next general municipal or county
+21 election.
+22 H. Whenever a referendum is demanded against any measure passed
+23 by the city, town, or county governing body, the question shall be
+24 submitted to the registered voters of the city, town, or county for
+Req. No. 14694 Page 10
+
+1 thei r approval or rejection at the next general municipal or county
+2 election.
+3 I. In addition to the procedural requirements of this section,
+4 if signatures are successfully gathered and the ballot measure is
+5 approved, notice of said ballot shall be provided by the
+6 municipality or board of county commissioners in local newspapers
+7 and on any available social media channels for two (2) weeks before
+8 the general county election. The company proposing the high-demand
+9 facility shall provide notice by U.S. mail of the ballot measure to
+10 all landowners within the project boundary and all landowners within
+11 a radius of five (5) miles of the perimeter of the project at least
+12 thirty (30) days before the general county election.
+13 J. If the initiative or referendum petition is sufficient and
+14 the measure is submitted to and decided by a vote of the registered
+15 voters of the municipality or county, the final outcome of such
+16 election shall be binding upon the municipality or the board of
+17 county commissioners and upon any company proposing, constructing,
+18 or operating a high-demand facility project that is the subject of
+19 the initiative or referendum. No such company shall proceed with,
+20 resume, or continue development, construction, or operation of the
+21 project in a manner inconsistent with the result approved by the
+22 voters.
+23 SECTION 3. It being immediately necessary for the preservation
+24 of the public peace, health or safety, an emergency is hereby
+Req. No. 14694 Page 11
+
+1 decl ared to exist, by reason whereof this act shall take effect and
+2 be in full force from and after its passage and approval.
+3
+4 60-2-14694 JBH 01/13/26
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 14694 Page 12

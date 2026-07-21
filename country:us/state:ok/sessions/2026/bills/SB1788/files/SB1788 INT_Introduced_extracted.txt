@@ -1,0 +1,370 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1788 By: Deevers
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to law enforcement; defining terms;
+7
+requiring certain record; requiring certain
+8
+verification procedure and documentation; requiring
+8
+certain audit; establishing audit criteria; requiring
+9
+the Department of Public Safety to take certain
+9
+actions; authorizing promulgation of rules; providing
+10
+penalties; authorizing referral to the Attorney
+10
+General; construing provision; providing for
+11
+codification; and declaring an emergency.
+11
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+SECTION 1. NEW LAW A new section of law to be codified
+15
+16
+in the Oklahoma Statutes as Section 212 of Title 22, unless there is
+16
+17
+created a duplication in numbering, reads as follows:
+17
+18
+A. As provided for in this section:
+18
+19
+1. “Law enforcement agency” means any county sheriff’s office,
+19
+20
+municipal police department, or other public entity in this state
+20
+21
+responsible for booking offenders into custody and maintaining
+21
+22
+related databases, including, but not limited to, jail management
+22
+23
+systems;
+23
+24
+24
+Req. No. 3440 Page 1
+
+1
+2. “Booking process” means the procedure for recording
+1
+2
+information about an arrested individual, including photographs,
+2
+3
+personal details, and demographic data such as race;
+3
+4
+3. “Database” means any electronic system or repository used by
+4
+5
+a law enforcement agency to store, manage, or share booking
+5
+6
+information, including public-facing websites or integrated state or
+6
+7
+federal systems;
+7
+8
+4. “Race” means the racial category of an individual as
+8
+9
+indicated on government-issued identification, birth certificate
+9
+10
+data, or determined based on observable physical characteristics in
+10
+11
+accordance with standard classification guidelines established by
+11
+12
+the Department of Public Safety; and
+12
+13
+5. “Misidentified race” means an entry in a database where the
+13
+14
+recorded race does not match the race indicated on presented
+14
+15
+government-issued identification, birth certificate data, or evident
+15
+16
+observable physical characteristics, as determined through audit or
+16
+17
+review.
+17
+18
+B. During the booking process, every law enforcement agency
+18
+19
+shall:
+19
+20
+1. Require the arresting or booking officer to record the
+20
+21
+offender’s race based on:
+21
+22
+a. the race listed on any government-issued
+22
+23
+identification presented by the offender, such as a
+23
+24
+24
+Req. No. 3440 Page 2
+
+1
+driver license, passport, or state identification
+1
+2
+card,
+2
+3
+b. birth certificate data, if available and presented, or
+3
+4
+c. observable physical characteristics, in the absence of
+4
+5
+official documentation;
+5
+6
+2. Implement a double-verification procedure, whereby a second
+6
+7
+certified peace officer or supervisory personnel reviews and
+7
+8
+confirms the accuracy of the recorded race before submission to any
+8
+9
+database. This verification shall include a comparison with the
+9
+10
+offender’s booking photograph, any presented government-issued
+10
+11
+identification or birth certificate data, and observable physical
+11
+12
+characteristics; and
+12
+13
+3. Document the verification in the booking record, including
+13
+14
+the names or identifiers of the officers involved and the basis for
+14
+15
+the race determination (e.g., government-issued ID, observable
+15
+16
+characteristics).
+16
+17
+C. Each law enforcement agency shall conduct annual audits of
+17
+18
+its databases to identify and correct misidentified races. The
+18
+19
+audit shall:
+19
+20
+1. Review a representative sample of at least ten percent (10%)
+20
+21
+of booking records from the previous year, selected randomly or
+21
+22
+based on risk factors identified by the agency;
+22
+23
+23
+24
+24
+Req. No. 3440 Page 3
+
+1
+2. Compare recorded races against booking photographs, any
+1
+2
+available government-issued identification or birth certificate data
+2
+3
+on file, and observable physical characteristics;
+3
+4
+3. Correct any identified inaccuracies within thirty (30) days
+4
+5
+of discovery and maintain records of such corrections; and
+5
+6
+4. Submit a summary report of the audit findings, including the
+6
+7
+number of misidentifications found and corrected, to the Department
+7
+8
+of Public Safety by January 31 of each year.
+8
+9
+D. The Department of Public Safety shall:
+9
+10
+1. Establish uniform guidelines for racial classification based
+10
+11
+on government-issued identification, birth certificate data, and
+11
+12
+observable physical characteristics to ensure consistency across
+12
+13
+agencies;
+13
+14
+2. Provide training resources to law enforcement agencies on
+14
+15
+accurate racial determination and verification procedures; and
+15
+16
+3. Promulgate rules as necessary to implement this section,
+16
+17
+including standardized audit procedures and reporting forms.
+17
+18
+E. 1. Any law enforcement agency found to be in consistent
+18
+19
+violation of subsections B or C of this section, as determined by
+19
+20
+the Department of Public Safety after investigation, shall be
+20
+21
+subject to:
+21
+22
+a. a civil penalty of up to One Thousand Dollars
+22
+23
+($1,000.00) per uncorrected misidentification
+23
+24
+24
+Req. No. 3440 Page 4
+
+1
+discovered during state review, not to exceed Fifty
+1
+2
+Thousand Dollars ($50,000.00) per audit cycle, and
+2
+3
+b. potential withholding of state-appropriated funds,
+3
+4
+including grants or reimbursements for law enforcement
+4
+5
+programs, until compliance is achieved.
+5
+6
+2. Any employee of a law enforcement agency who purposefully or
+6
+7
+repeatedly enters incorrect racial data, as determined through
+7
+8
+internal investigation or audit, shall be subject to disciplinary
+8
+9
+action, up to and including termination of employment. Repeated
+9
+10
+violations shall be defined as three or more instances within a
+10
+11
+twelve-month period.
+11
+12
+3. Willful violations involving falsification of records may be
+12
+13
+referred to the Attorney General for further action under applicable
+13
+14
+laws.
+14
+15
+F. Nothing in this section shall be construed to create a
+15
+16
+private right of action or to affect the admissibility of evidence
+16
+17
+in criminal proceedings.
+17
+18
+SECTION 2. It being immediately necessary for the preservation
+18
+19
+of the public peace, health or safety, an emergency is hereby
+19
+20
+declared to exist, by reason whereof this act shall take effect and
+20
+21
+be in full force from and after its passage and approval.
+21
+22
+22
+23
+60-2-3440 CN 1/14/2026 6:12:09 PM
+23
+24
+24
+Req. No. 3440 Page 5

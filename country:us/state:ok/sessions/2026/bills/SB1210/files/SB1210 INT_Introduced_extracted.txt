@@ -1,0 +1,805 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1210 By: Sacchieri
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to ad valorem taxation; amending 68
+7
+O.S. 2021, Section 2817, as amended by Section 1,
+8
+Chapter 374, O.S.L. 2022 (68 O.S. Supp. 2025, Section
+8
+2817), which relates to listing and assessment of
+9
+property; expanding exceptions to listing and
+9
+assessment requirement for taxable personal property;
+10
+updating statutory language; and providing an
+10
+effective date.
+11
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2817, as
+14
+15
+amended by Section 1, Chapter 374, O.S.L. 2022 (68 O.S. Supp. 2025,
+15
+16
+Section 2817), is amended to read as follows:
+16
+17
+Section 2817. A. All taxable personal property, except
+17
+18
+intangible personal property, personal property exempt from ad
+18
+19
+valorem taxation, personal property with a fair cash value of One
+19
+20
+Thousand Seven Hundred Fifty Dollars ($1,750.00) or less, or
+20
+21
+household personal property, shall be listed and assessed each year
+21
+22
+at its fair cash value, estimated at the price it would bring at a
+22
+23
+fair voluntary sale, as of January 1.
+23
+24
+24
+Req. No. 2255 Page 1
+
+1
+The fair cash value of household personal property shall be
+1
+2
+valued at ten percent (10%) of the appraised value of the
+2
+3
+improvement to the residential real property within which such
+3
+4
+personal property is located as of January 1 each year. The
+4
+5
+assessment of household personal property as provided by this
+5
+6
+section may be altered by the taxpayer listing such property at its
+6
+7
+actual fair cash value. For purposes of establishing the value of
+7
+8
+household personal property, pursuant to the requirement of Section
+8
+9
+8 of Article X of the Oklahoma Constitution, the percentage of value
+9
+10
+prescribed by this section for the household personal property shall
+10
+11
+be presumed to constitute the fair cash value of the personal
+11
+12
+property.
+12
+13
+Stocks of goods, wares, and merchandise shall be assessed at the
+13
+14
+value of the average amount on hand during the preceding year, or
+14
+15
+the average amount on hand during the part of the preceding year the
+15
+16
+stock of goods, wares, or merchandise was at its January 1 location.
+16
+17
+Provided, persons primarily engaged in selling lumber and other
+17
+18
+building materials including cement and concrete, except for home
+18
+19
+centers classified under Industry No. 444110 of the North American
+19
+20
+Industrial Industry Classification Systems System (NAICS) Manual,
+20
+21
+shall be assessed at the average value of the inventory on hand as
+21
+22
+of January 1 of each year and the value of the inventory on hand as
+22
+23
+of December 31 of the same year.
+23
+24
+24
+Req. No. 2255 Page 2
+
+1
+B. All taxable real property shall be assessed annually as of
+1
+2
+January 1, at its fair cash value, estimated at the price it would
+2
+3
+bring at a fair voluntary sale for:
+3
+4
+1. The highest and best use for which the property was actually
+4
+5
+used during the preceding calendar year; or
+5
+6
+2. The highest and best use for which the property was last
+6
+7
+classified for use if not actually used during the preceding
+7
+8
+calendar year.
+8
+9
+When improvements upon residential real property are divided by
+9
+10
+a taxing jurisdiction line, those improvements shall be valued and
+10
+11
+assessed in the taxing jurisdiction in which the physical majority
+11
+12
+of those improvements are located.
+12
+13
+The Ad Valorem Division of the Oklahoma Tax Commission shall be
+13
+14
+responsible for the promulgation of rules which shall be followed by
+14
+15
+each county assessor of the state, for the purposes of providing for
+15
+16
+the equitable use valuation of locally assessed real property in
+16
+17
+this state. Agricultural land and nonresidential improvements
+17
+18
+necessary or convenient for agricultural purposes shall be assessed
+18
+19
+for ad valorem taxation based upon the highest and best use for
+19
+20
+which the property was actually used, or was previously classified
+20
+21
+for use, during the calendar year next preceding January 1 on which
+21
+22
+the assessment is made.
+22
+23
+C. The use value of agricultural land shall be based on the
+23
+24
+income capitalization approach using cash rent. The rental income
+24
+Req. No. 2255 Page 3
+
+1
+shall be calculated using the direct capitalization method based
+1
+2
+upon factors including, but not limited to:
+2
+3
+1. Soil types, as depicted on soil maps published by the
+3
+4
+Natural Resources Conservation Service of the United States
+4
+5
+Department of Agriculture;
+5
+6
+2. Soil productivity indices approved by the Ad Valorem
+6
+7
+Division of the Tax Commission;
+7
+8
+3. The specific agricultural purpose of the soil based on use
+8
+9
+categories approved by the Ad Valorem Division of the Tax
+9
+10
+Commission; and
+10
+11
+4. A capitalization rate to be determined annually by the Ad
+11
+12
+Valorem Division of the Tax Commission based on the sum of the
+12
+13
+average first mortgage interest rate charged by the Federal Land
+13
+14
+Bank for the immediately preceding five (5) years, weighted with the
+14
+15
+prevailing rate or rates for additional loans or equity, and the
+15
+16
+effective tax rate.
+16
+17
+The final use value will be calculated using the soil
+17
+18
+productivity indices and the agricultural use classification as
+18
+19
+defined by rules promulgated by the State Board of Equalization.
+19
+20
+This subsection shall not be construed in a manner which is
+20
+21
+inconsistent with the duties, powers, and authority of the Board as
+21
+22
+to valuation of the counties as fixed and defined by Section 21 of
+22
+23
+Article X of the Oklahoma Constitution.
+23
+24
+24
+Req. No. 2255 Page 4
+
+1
+However, in calculating the use value of buffer strips as
+1
+2
+defined in Section 2817.2 of this title, exclusive consideration
+2
+3
+shall be based only on income from production agriculture from such
+3
+4
+buffer strips, not including federal or state subsidies, when valued
+4
+5
+as required by subsection C of Section 2817.2 of this title.
+5
+6
+D. The use value of nonresidential improvements on agricultural
+6
+7
+land shall be based on the cost approach to value estimation using
+7
+8
+currently updated cost manuals published by the Marshall and Swift
+8
+9
+Company or similar cost manuals approved by the Ad Valorem Division
+9
+10
+of the Tax Commission. The use value estimates for the
+10
+11
+nonresidential improvements shall take obsolescence and depreciation
+11
+12
+into consideration in addition to necessary adjustments for local
+12
+13
+variations in the cost of labor and materials. This section shall
+13
+14
+not be construed in a manner which is inconsistent with the duties,
+14
+15
+powers, and authority of the Board as to equalization of valuation
+15
+16
+of the counties as determined and defined by Section 21 of Article X
+16
+17
+of the Oklahoma Constitution.
+17
+18
+The use value of facilities used for poultry production shall be
+18
+19
+determined according to the following procedures:
+19
+20
+1. The Ad Valorem Division of the Tax Commission is hereby
+20
+21
+directed to develop a standard system of valuation of both real and
+21
+22
+personal property of such facilities, which shall be used by all
+22
+23
+county assessors in this state, under which valuation based on the
+23
+24
+24
+Req. No. 2255 Page 5
+
+1
+following shall be presumed to be the fair cash value of the
+1
+2
+property:
+2
+3
+a. for real property, a ten-year depreciation schedule,
+3
+4
+at the end of which the residual value is twenty
+4
+5
+percent (20%) of the value of the facility during its
+5
+6
+first year of operation, and
+6
+7
+b. for personal property, a five-year depreciation
+7
+8
+schedule, at the end of which the residual value is
+8
+9
+zero;
+9
+10
+2. Such facilities shall be valued only in comparison to other
+10
+11
+facilities used exclusively for poultry production. Such a facility
+11
+12
+which is no longer used for poultry production shall be deemed to
+12
+13
+have no productive use;
+13
+14
+3. During the first year such a facility is placed on the tax
+14
+15
+rolls, its fair cash value shall be presumed to be the lesser of the
+15
+16
+actual purchase price or the actual documented cost of construction;
+16
+17
+and
+17
+18
+4. For the purpose of determining the valuation of
+18
+19
+nonresidential improvements used for poultry production, the
+19
+20
+provisions of this subsection shall be applicable and such
+20
+21
+improvements shall not be considered to be commercial property.
+21
+22
+E. The value of investment in property used exclusively by an
+22
+23
+oil refinery that is used wholly as a facility, device, or method
+23
+24
+for the desulphurization of gasoline or diesel fuel as defined in
+24
+Req. No. 2255 Page 6
+
+1
+Section 2817.3 of this title shall not be included in the
+1
+2
+capitalization used in the determination of fair market value of
+2
+3
+such oil refinery if such property would qualify as exempt property
+3
+4
+pursuant to Section 2902 of this title, whether or not an
+4
+5
+application for such exemption is made by an otherwise qualifying
+5
+6
+manufacturing concern owning the property described by Section
+6
+7
+2817.3 of this title.
+7
+8
+F. The use value of a lot in any platted addition or a
+8
+9
+subdivision in a city, town, or county zoned for residential,
+9
+10
+commercial, industrial, or other use shall be deemed to be the fair
+10
+11
+cash value of the underlying tract of land platted, divided by the
+11
+12
+number of lots contained in the platted addition or subdivision
+12
+13
+until the lot shall have been conveyed to a bona fide purchaser or
+13
+14
+the lot with building or buildings located thereon shall have been
+14
+15
+occupied other than as a sales office by the owner thereof, or shall
+15
+16
+have been leased, whichever event shall first occur. One who
+16
+17
+purchases a lot for the purposes of constructing and selling a
+17
+18
+building on such lot shall not be deemed to be a bona fide purchaser
+18
+19
+for purposes of this section. However, if the lot is held for a
+19
+20
+period longer than two (2) years before construction, then the
+20
+21
+assessor may consider the lot to have been conveyed to a bona fide
+21
+22
+purchaser. The cost of any land or improvements to any real
+22
+23
+property required to be dedicated to public use including, but not
+23
+24
+limited to, streets, curbs, gutters, sidewalks, storm or sanitary
+24
+Req. No. 2255 Page 7
+
+1
+sewers, utilities, detention or retention ponds, easements, parks,
+1
+2
+or reserves shall not be utilized by the county assessor in the
+2
+3
+valuation of any real property for assessment purposes.
+3
+4
+G. The transfer of real property without a change in its use
+4
+5
+classification shall not require a reassessment thereof based
+5
+6
+exclusively upon the sale value of the property. However, if the
+6
+7
+county assessor determines:
+7
+8
+1. That by reason of the transfer of a property there is a
+8
+9
+change in the actual use or classification of the property; or
+9
+10
+2. That by reason of the amount of the sales consideration it
+10
+11
+is obvious that the use classification prior to the transfer of the
+11
+12
+property is not commensurate with and would not justify the amount
+12
+13
+of the sales consideration of the property;
+13
+14
+then the assessor shall, in either event, reassess the property for
+14
+15
+the new use classification for which the property is being used, or,
+15
+16
+the highest and best use classification for which the property may,
+16
+17
+by reason of the transfer, be classified for use.
+17
+18
+H. When the term “fair cash value” or the language “fair cash
+18
+19
+value, estimated at the price it would bring at a fair voluntary
+19
+20
+sale” is used in the Ad Valorem Tax Code, in connection with and in
+20
+21
+relation to the assessment of real property, it is defined to mean
+21
+22
+and shall be given the meaning ascribed and assigned to it in this
+22
+23
+section and when the term or language is used in the Code in
+23
+24
+24
+Req. No. 2255 Page 8
+
+1
+connection with the assessment of personal property it shall be
+1
+2
+given its ordinary or literal meaning.
+2
+3
+I. Where any real property is zoned for a use by a proper
+3
+4
+zoning authority, and the use of the property has not been changed,
+4
+5
+the use and not zoning shall determine assessment. Any reassessment
+5
+6
+required shall be effective January 1 following the change in use.
+6
+7
+Taxable real property need not be listed annually with the county
+7
+8
+assessor.
+8
+9
+J. If any real property shall become taxable after January 1 of
+9
+10
+any year, the county assessor shall assess the same and place it
+10
+11
+upon the tax rolls for the next ensuing year. When any building is
+11
+12
+constructed upon land after January 1 of any year, the value of the
+12
+13
+building shall be added by the county assessor to the assessed
+13
+14
+valuation of the land upon which the building is constructed at the
+14
+15
+fair cash value thereof for the next ensuing year. However, after
+15
+16
+the building has been completed it shall be deemed to have a value
+16
+17
+for assessment purposes of the fair cash value of the materials used
+17
+18
+in such building only, until the building and the land on which the
+18
+19
+building is located shall have been conveyed to a bona fide
+19
+20
+purchaser or shall have been occupied or used for any purpose other
+20
+21
+than as a sales office by the owner thereof, or shall have been
+21
+22
+leased, whichever event shall first occur. The county assessor
+22
+23
+shall continue to assess the building based upon the fair market
+23
+24
+value of the materials used therein until the building and land upon
+24
+Req. No. 2255 Page 9
+
+1
+which the building is located shall have been conveyed to a bona
+1
+2
+fide purchaser or is occupied or used for any purpose other than as
+2
+3
+a sales office by the owner thereof, or is leased, whichever event
+3
+4
+shall first occur.
+4
+5
+K. In the event improvements on land or personal property
+5
+6
+located therein or thereon are destroyed or partially destroyed, or
+6
+7
+the land itself is impaired or partially impaired by fire,
+7
+8
+lightning, storm, winds, floodwaters, overflow of streams, or other
+8
+9
+cause (all such destruction or impairments being referred to herein
+9
+10
+as “damage”) during any year, the county assessor shall determine
+10
+11
+the amount of damage and shall reassess the property for that year
+11
+12
+at the fair cash value of the property, taking into account the
+12
+13
+actual loss of functional use of the property occasioned by such
+13
+14
+damage. The assessor shall make the appropriate value adjustments
+14
+15
+to the property for that tax year up to the time at which the
+15
+16
+assessor publishes the “Assessor’s Report to the Excise Board” as
+16
+17
+required by subsection D of Section 2867 of this title. After such
+17
+18
+time, adjustments can be made only by the county board of tax roll
+18
+19
+corrections and only after the assessor has certified the tax roll
+19
+20
+for that year. The board secretary shall notify property owners in
+20
+21
+advance of the time and place at which the value adjustment to their
+21
+22
+property will be heard by the board. The board of tax roll
+22
+23
+corrections is authorized only to approve or reject the value
+23
+24
+adjustment submitted by the county assessor.
+24
+Req. No. 2255 Page 10
+
+1
+L. All taxable personal property used in the exploration of
+1
+2
+oil, natural gas, or other minerals including drilling equipment and
+2
+3
+rigs, shall be assessed annually at the value set forth in the first
+3
+4
+Hadco International monthly bulletin published for the tax year,
+4
+5
+using the appropriate depth rating assigned to the drawworks by its
+5
+6
+manufacturer and the actual condition of the rig.
+6
+7
+M. The value of taxable tangible personal property used in
+7
+8
+commercial disposal systems of waste materials from the production
+8
+9
+of oil and gas shall not include any contract rights or leases for
+9
+10
+the use of such systems nor any value associated with the wellbore
+10
+11
+or non-recoverable down-hole material including casing.
+11
+12
+SECTION 2. This act shall become effective January 1, 2027.
+12
+13
+13
+14
+60-2-2255 QD 12/2/2025 10:38:57 PM
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2255 Page 11
