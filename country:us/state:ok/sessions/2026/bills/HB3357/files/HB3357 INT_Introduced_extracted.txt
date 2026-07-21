@@ -1,0 +1,2739 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 HOUSE BILL 3357 By: Williams
+4
+5
+6 AS INTRODUCED
+7 An Act relating to state government; creating the
+Department of Central Purchasing; directing the
+8 Department of Central Purchasing to assume duties of
+the Central Purchasing Division of the Office of
+9 Management and Enterprise Services; providing for
+succession to contractual rights and
+10 responsibilities; requiring Director to adopt and
+enforce certain rules and authorizing further
+11 rulemaking authority; authorizing execution of
+certain agreement; providing certain protections
+12 relating to salary, leave, time earned, and benefits;
+requiring transfer of personnel to be coordinated
+13 with Office of Management and Enterprise Services;
+requiring payment of certain expenses; abolishing
+14 certain division within the Office of Management and
+Enterprise Services upon completion of transfer;
+15 amending 19 O.S. 2021, Section 1505, as last amended
+by Section 1, Chapter 66, O.S.L. 2025 (19 O.S. Supp.
+16 2024, Section 1505), 20 O.S. 2021, Section 1304, 57
+O.S. 2021, Section 549.1, 61 O.S. 2021, Section 139,
+17 74 O.S. 2021, Section 85.3, 74 O.S. 2021, Section
+85.5, as amended by Section 1, Chapter 102, O.S.L.
+18 2024 (74 O.S. Supp. 2024, Section 85.5), 74 O.S.
+2021, Section 85.5a, 74 O.S. 2021, Sections 85.7, as
+19 last amended by Section 1, Chapter 339, O.S.L. 2023,
+Section 85.12, as amended by Section 2, Chapter 339,
+20 O.S.L. 2023 (74 O.S. Supp. 2024, Sections 85.7, and
+85.12), 74 O.S. 2021, Section 85.17A, 74 O.S. 2021,
+21 Section 85.33, 74 O.S. 2021, Section 85.33A, 74 O.S.
+2021, Section 85.41A, 74 O.S. 2021, Section 85.44D.1,
+22 74 O.S. 2021, Section 85.45j.11, 74 O.S. 2021,
+Section 85.45k, 74 O.S. 2021, Section 85.54, 74 O.S.
+23 2021, Section 85.58Q, 74 O.S. 2021, Section 85.58T,
+74 O.S. 2021, Section 85.58V, 74 O.S. 2021, Sections
+24 3001, as amended by Section 1, Chapter 252, O.S.L.
+Req. No. 13922 Page 1
+
+1 2022, 3001.1, as amended by Section 2, Chapter 252,
+O.S.L. 2022, 3003, as amended by Section 3, Chapter
+2 252, O.S.L. 2022, 3004, as amended by Section 4,
+Chapter 252, O.S.L. 2022, 3004.1, as amended by
+3 Section 5, Chapter 252, O.S.L. 2022, Section 3004.2,
+as amended by Section 6, Chapter 252, O.S.L. 2022,
+4 3005, as amended by Section 7, Chapter 252, O.S.L.
+2022, 3006, as amended by Section 8, Chapter 252,
+5 O.S.L. 2022, 3007, as amended by Section 9, Chapter
+252, O.S.L. 2022, 3008, as amended by Section 10,
+6 Chapter 252, O.S.L. 2022, 3009, as amended by Section
+11, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2024,
+7 Sections 3001, 3001.1, 3003, 3004, 3004.1, 3004.2,
+3005, 3006, 3007, 3008, and 3009), 74 O.S. 2021,
+8 Section 4191, and 80 O.S. 2021, Section 34.2, which
+relate to the duties and responsibilities of the
+9 Central Purchasing Division of the Office of
+Management and Enterprise Services; replacing
+10 references to the Central Purchasing Division and
+that division director to the Department of Central
+11 Purchasing and the Director of the Department of
+Central Purchasing; providing for codification; and
+12 providing an effective date.
+13
+14
+15 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+16 SECTION 1. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 61.10 of Title 74, unless there
+18 is created a duplication in numbering, reads as follows:
+19 A. There is hereby created the Department of Central
+20 Purchasing. The Governor shall appoint a Director of the Department
+21 of Central Purchasing, by and with the advice and consent of the
+22 Oklahoma State Senate, who shall hold office at the pleasure of the
+23 Governor and shall continue to serve until his or her successor is
+24
+Req. No. 13922 Page 2
+
+1 duly appointed and is qualified. The salary of the Director of the
+2 Department of Central Purchasing shall be set by the Governor.
+3 B. The Director of the Department of Central Purchasing, with
+4 the approval of the Governor, shall employ and make the appointment
+5 of such experts and assistants as may be necessary in the
+6 performance of the Director's duties as required by law.
+7 C. Beginning on the effective date of this act, the Central
+8 Purchasing Division of the Office of Management and Enterprise
+9 Services shall cease providing financial services related to the
+10 Oklahoma Central Purchasing Act, as well as procurement services,
+11 and transfer statutory responsibilities to the Department of Central
+12 Purchasing. The Department of Central Purchasing and the Director
+13 of the Department of Central Purchasing shall exercise the statutory
+14 powers, duties, and contractual responsibilities related to the
+15 Central Purchasing Act of the Central Purchasing Division of the
+16 Office of Management and Enterprise Services. All records,
+17 property, equipment, assets, monies, financial interests,
+18 liabilities, matters pending, and funds of the Central Purchasing
+19 Division of the Office of Management and Enterprise Services related
+20 to the Central Purchasing Act shall be transferred to the Department
+21 of Central Purchasing.
+22 D. The Department shall succeed to any relevant contractual
+23 rights or responsibilities incurred by the Central Purchasing
+24 Division of the Office of Management and Enterprise Services.
+Req. No. 13922 Page 3
+
+1 E. Rules promulgated by the Central Purchasing Division of the
+2 Office of Management and Enterprise Services that are in effect on
+3 the effective date of this act shall be immediately adopted and
+4 enforced by the Department and the Director of the Department, and
+5 the Department shall maintain the authority to further promulgate
+6 and enforce rules.
+7 F. The Department and the Office of Management and Enterprise
+8 Services may enter into an agreement for the transfer of personnel
+9 from the Office of Management and Enterprise Services to the
+10 Department. Employees shall be transferred to the Department based
+11 on necessity as determined by the Department and the Office of
+12 Management and Enterprise Services. All employees who are
+13 transferred to the Department shall not be required to accept a
+14 lesser grade or salary than presently received. All employees shall
+15 retain leave, sick, and annual time earned, and any retirement and
+16 longevity benefits which have accrued during their tenure with the
+17 Office of Management and Enterprise Services. The transfer of
+18 personnel between the state agencies shall be coordinated with the
+19 Office of Management and Enterprise Services.
+20 G. The expenses incurred by the Department as a result of the
+21 transfer required by this section shall be paid by the Office of
+22 Management and Enterprise Services.
+23 H. The Central Purchasing Division within the Office of
+24 Management and Enterprise Services shall cease any services related
+Req. No. 13922 Page 4
+
+1 to t he Oklahoma Central Purchasing Act after the transfer has been
+2 completed.
+3 I. The Office of Management and Enterprise Services shall
+4 coordinate the transfer of records, property, equipment, assets,
+5 funds, allotments, purchase orders, liabilities, outstanding
+6 financial obligations, or encumbrances provided for in this section.
+7 SECTION 2. AMENDATORY 19 O.S. 2021, Section 1505, as
+8 amended by Section 2, Chapter 85, O.S.L. 2025 (19 O.S. Supp. 2025,
+9 Section 1505), is amended to read as follows:
+10 Section 1505. The following procedures shall be used by
+11 counties for the requisition, purchase, lease-purchase, rental, and
+12 receipt of supplies, materials, road and bridge construction
+13 services, equipment, and other services, except for professional
+14 services as defined in Section 803 of Title 18 of the Oklahoma
+15 Statutes, for the maintenance, operation, and capital expenditures
+16 of county government unless otherwise provided for by law.
+17 A. The procedure for requisitioning items for county offices
+18 shall be as follows:
+19 1. The requesting department shall prepare a requisition form
+20 in triplicate. The requisition shall contain any specifications for
+21 an item as deemed necessary by the requesting department. The form
+22 shall be prescribed by the State Auditor and Inspector;
+23
+24
+Req. No. 13922 Page 5
+
+1 2. The requesting department shall retain a copy of the
+2 requisition and forward the original requisition and a copy to the
+3 county purchasing agent; and
+4 3. Upon receipt of the requisition, the county purchasing
+5 agent, within two (2) working days, shall begin the bidding and
+6 purchasing process as provided for in this section. Nothing in this
+7 section shall prohibit the transfer of supplies, materials, or
+8 equipment between county departments upon a written agreement
+9 between county officers.
+10 B. The bid procedure for selecting a vendor for the purchase,
+11 lease-purchase, or rental of supplies, materials, equipment, and
+12 services used by a county shall be as follows:
+13 1. The county purchasing agent shall request written
+14 recommendations from all county officers pertaining to needed or
+15 commonly used supplies, materials, road and bridge construction
+16 services, equipment, and services. From such recommendations and
+17 available requisition, purchase, or inventory records, the county
+18 purchasing agent shall prepare a list of items needed or commonly
+19 used by county officers. The county purchasing agent shall request
+20 from the Purchasing Division Department of Central Purchasing or
+21 from the Information Services Division in the case of information
+22 technology and telecommunication goods and services of the Office of
+23 Management and Enterprise Services all contracts quoting the price
+24 the state is paying for the items. The county purchasing agent
+Req. No. 13922 Page 6
+
+1 shal l either request the Purchasing Division Department of Central
+2 Purchasing or the Information Services Division of the Office of
+3 Management and Enterprise Services, as applicable, to make the
+4 purchase for the county or the county purchasing agent shall solicit
+5 bids for unit prices on the items for periods of not to exceed
+6 twelve (12) months in the manner described in paragraph 2 of this
+7 subsection. If the county purchasing agent receives a requisition
+8 for an item for which the county purchasing agent does not have a
+9 current bid, the county purchasing agent shall request from the
+10 Purchasing Division Department of Central Purchasing or the
+11 Information Services Division of the Office of Management and
+12 Enterprise Services, as applicable, all contracts quoting the price
+13 the state is paying for the item. The county purchasing agent shall
+14 either request the Purchasing Division Department of Central
+15 Purchasing or the Information Services Division of the Office of
+16 Management and Enterprise Services, as applicable, to make the
+17 purchase for the county or the county purchasing agent shall solicit
+18 bids in the manner described in paragraph 2 of this subsection.
+19 Nothing in this paragraph shall prohibit bids from being taken on an
+20 item currently on a twelve-month bid list, at any time deemed
+21 necessary by the county purchasing agent. Whenever the county
+22 purchasing agent deems it necessary to take a bid on an item
+23 currently on a twelve-month bid list, the reason for the bid shall
+24 be entered into the minutes of the board of county commissioners;
+Req. No. 13922 Page 7
+
+1 2. Bids shall be solicited by mailing or emailing a notice to
+2 all persons or firms who have made a written request of the county
+3 purchasing agent that they be notified of such bid solicitation and
+4 to all other persons or firms who might reasonably be expected to
+5 submit bids. Notice of solicitation of bids shall also be published
+6 one time in a newspaper of general circulation in the county.
+7 Notices shall be mailed and published at least ten (10) days prior
+8 to the date on which the bids are opened. Proof of the mailing or
+9 emailing shall be made by the affidavit of the person mailing or
+10 emailing the request for bids and shall be made a part of the
+11 official records of the county purchasing agent. The notice shall
+12 specify whether the county will consider written bids, electronic
+13 bids, or both; the decision to exclusively consider either written
+14 bids or electronic bids shall be determined pursuant to an
+15 affirmative vote of the board of county commissioners. Whenever any
+16 prospective supplier or vendor dealing in or listing for sale any
+17 particular item or article required to be purchased or acquired by
+18 sealed bids fails to enter or offer a sealed bid for three
+19 successive bid solicitations, the name of the supplier or vendor may
+20 be dropped from the mailing lists of the board of county
+21 commissioners;
+22 3. The sealed bids received from vendors and the state contract
+23 price received from the applicable division of the Office of
+24 Management and Enterprise Services shall be given to the county
+Req. No. 13922 Page 8
+
+1 cler k by the county purchasing agent. The county clerk shall
+2 forward the sealed bids and state contract price, if any, to the
+3 board of county commissioners;
+4 4. The board of county commissioners, in an open meeting, shall
+5 open the sealed bids and compare them to the state contract price.
+6 The board of county commissioners shall select the lowest and best
+7 bid based upon, if applicable, the availability of material and
+8 transportation cost to the job site within thirty (30) days of the
+9 meeting. For any special item not included on the list of needed or
+10 commonly used items, the requisitioning official shall review the
+11 bids and submit a written recommendation to the board before final
+12 approval. The board of county commissioners shall keep a written
+13 record of the meeting as required by law, and any time the lowest
+14 bid was not considered to be the lowest and best bid, the reason for
+15 such conclusion shall be recorded. Whenever the board of county
+16 commissioners rejects the written recommendation of the
+17 requisitioning official pertaining to a special item, the reasons
+18 for the rejection shall be entered in their minutes and stated in a
+19 letter to the requisitioning official and county purchasing agent;
+20 5. The county purchasing agent shall notify the successful
+21 bidders and shall maintain a copy of the notification. The county
+22 purchasing agent shall prepare and maintain a vendors list
+23 specifying the successful bidders and shall notify each county
+24 officer of the list. The county purchasing agent may remove any
+Req. No. 13922 Page 9
+
+1 vend or from such list who refuses to provide goods or services as
+2 provided by contract if the removal is authorized by the board of
+3 county commissioners. The county purchasing agent may make
+4 purchases from the remaining bidders for a price at or below the bid
+5 price; and
+6 6. When bids have been solicited as provided for by law and no
+7 bids have been received, the procedure shall be as follows:
+8 a. the county purchasing agent shall determine if
+9 potential vendors are willing to commit to a firm
+10 price for a reduced period of time, and, if such is
+11 the case, the bid procedure described in this
+12 subsection shall be followed,
+13 b. if vendors are not willing to commit to a firm price
+14 for a reduced period, the purchasing agent shall
+15 solicit and record at least three quotes of current
+16 prices available to the county and authorize the
+17 purchase of goods or services based on the lowest and
+18 best quote as it becomes necessary to acquire such
+19 goods or services. The quotes shall be recorded on a
+20 form prescribed by the State Auditor and Inspector and
+21 shall be attached to the purchase order and filed with
+22 the county clerk’s copy of the purchase order. Any
+23 time the lowest quote was not considered to be the
+24 lowest and best quote, the reason for this conclusion
+Req. No. 13922 Page 10
+
+1 shall be recorded by the county purchasing agent and
+2 transmitted to the county clerk, or
+3 c. if three quotes are not available, a memorandum to the
+4 county clerk from the county purchasing agent shall
+5 describe the basis upon which a purchase is
+6 authorized. The memorandum shall state the reasons
+7 why the price for such a purchase is the lowest and
+8 best under the circumstances. The county clerk shall
+9 then attach the memorandum to the county clerk’s copy
+10 of the purchase order and file both in the office of
+11 the county clerk.
+12 C. After selection of a vendor, the procedure for the purchase,
+13 lease-purchase, or rental of supplies, materials, road and bridge
+14 construction services, equipment, and services used by a county
+15 shall be as follows:
+16 1. The county purchasing agent shall prepare a purchase order
+17 in quadruplicate and submit it with a copy of the requisition to the
+18 county clerk;
+19 2. The county clerk shall then encumber the amount stated on
+20 the purchase order and assign a sequential number to the purchase
+21 order;
+22 3. If there is an unencumbered balance in the appropriation
+23 made for that purpose by the county excise board, the county clerk
+24 shall so certify in the following form:
+Req. No. 13922 Page 11
+
+1 “I hereby certify that the amount of this encumbrance has been
+2 entered against the designated appropriation accounts and that this
+3 encumbrance is within the authorized available balance of the
+4 appropriation.
+5 Dated this ________ day of ________, 20__.
+6 ________________________________
+7 County Clerk/Deputy
+8 of _____________________ County”.
+9 In instances where it is impossible to ascertain the exact amount of
+10 the indebtedness sought to be incurred at the time of recording the
+11 encumbrance, an estimated amount may be used. No purchase order
+12 shall be valid unless signed by the county purchasing agent and
+13 certified by the county clerk; and
+14 4. The county clerk shall file the original purchase order and
+15 return three copies to the county purchasing agent who shall file a
+16 copy, retain a copy for the county road and bridge inventory officer
+17 if the purchase order is for the purchase of equipment, supplies, or
+18 materials for the construction or maintenance of roads and bridges,
+19 and submit the other copy to the receiving officer of the requesting
+20 department.
+21 D. 1. The procedure for the purchase of supplies, materials,
+22 equipment, and services at public auction or by sealed bid to be
+23 used by a county shall be as follows:
+24
+Req. No. 13922 Page 12
+
+1 a. the county purchasing agent shall prepare a purchase
+2 order in quadruplicate and submit it with a copy of
+3 the requisition to the county clerk,
+4 b. the county clerk shall then encumber the amount stated
+5 on the purchase order and assign a sequential number
+6 to the purchase order,
+7 c. if there is an unencumbered balance in the
+8 appropriation made for that purpose by the county
+9 excise board, the county clerk shall so certify in the
+10 following form:
+11 “I hereby certify that the amount of this encumbrance
+12 has been entered against the designated appropriation
+13 accounts and that this encumbrance is within the
+14 authorized available balance of the appropriation.
+15 Dated this ________ day of ________, 20__.
+16 ________________________________
+17 County Clerk/Deputy
+18 of _____________________ County”.
+19 In instances where it is impossible to ascertain the
+20 exact amount of the indebtedness sought to be incurred
+21 at the time of recording the encumbrance, an estimated
+22 amount may be used. No purchase order shall be valid
+23 unless signed by the county purchasing agent and
+24 certified by the county clerk, and
+Req. No. 13922 Page 13
+
+1 d. the county clerk shall file the original purchase
+2 order and return three copies to the county purchasing
+3 agent who shall file a copy, retain a copy for the
+4 county road and bridge inventory officer if the
+5 purchase order is for the purchase of equipment,
+6 supplies, or materials for the construction or
+7 maintenance of roads and bridges, and submit the other
+8 copy to the receiving officer of the requesting
+9 department.
+10 2. The procedure for the purchase of supplies, materials, and
+11 equipment at a public auction when the purchase will be made with
+12 the proceeds from the sale of county property at the same public
+13 auction is as follows:
+14 a. the purchasing agent shall cause such items being sold
+15 to be appraised in the manner determined in Section
+16 421.1 of this title,
+17 b. the county purchasing agent shall prepare a purchase
+18 order in quadruplicate and submit it with a copy of
+19 the requisition to the county clerk,
+20 c. the county clerk shall then encumber the amount of the
+21 appraised value and any additional funds obligated by
+22 the county on the purchase order and assign a
+23 sequential number to the purchase order,
+24
+Req. No. 13922 Page 14
+
+1 d. the county clerk shall certify that the amount of the
+2 encumbrance is equal to the appraised value of the
+3 item being sold plus any additional funds obligated by
+4 the county. In effect, the recording of the
+5 encumbrance is an estimate that is authorized by law.
+6 No purchase order shall be valid unless signed by the
+7 county purchasing agent and certified by the county
+8 clerk,
+9 e. the county clerk shall file the original purchase
+10 order and return three copies to the county purchasing
+11 agent who shall file a copy, retain a copy for the
+12 county road and bridge inventory officer if the
+13 purchase order is for the purchase of equipment,
+14 supplies, or materials for the construction or
+15 maintenance of roads and bridges, and submit the other
+16 copy to the receiving officer of the requesting
+17 department, and
+18 f. a purchase shall not be bid until such time that the
+19 appraised item or items are sold. Any item or items
+20 purchased shall not exceed the appraised value plus
+21 any additional funds obligated by the county or the
+22 actual selling price of the item or items, whichever
+23 is the lesser amount.
+24 E. The procedure for the receipt of items shall be as follows:
+Req. No. 13922 Page 15
+
+1 1. A receiving officer for the requesting department shall be
+2 responsible for receiving all items delivered to that department;
+3 2. Upon the delivery of an item, the receiving officer shall
+4 determine if a purchase order exists for the item being delivered;
+5 3. If no such purchase order has been provided, the receiving
+6 officer shall refuse delivery of the item;
+7 4. If a purchase order is on file, the receiving officer shall
+8 obtain a delivery ticket, bill of lading, or other delivery document
+9 and compare it with the purchase order. If any item is back-
+10 ordered, the back order and estimated date of delivery shall be
+11 noted in the receiving report;
+12 5. The receiving officer shall complete a receiving report in
+13 quadruplicate which shall state the quantity and quality of goods
+14 delivered. The receiving report form shall be prescribed by the
+15 State Auditor and Inspector. The person delivering the goods shall
+16 acknowledge the delivery by signature, noting the date and time;
+17 6. The receiving officer shall file the original receiving
+18 report and submit:
+19 a. a copy of the purchase order and a copy of the
+20 receiving report to the county purchasing agent, and
+21 b. a copy of the receiving report with the delivery
+22 documentation to the county clerk;
+23 7. The county purchasing agent shall file a copy of the
+24 purchase order and a copy of the receiving report;
+Req. No. 13922 Page 16
+
+1 8. Upon receipt of the original receiving report and the
+2 delivery documentation, the county clerk shall maintain a file until
+3 such time as an invoice is received from the vendor;
+4 9. The invoice shall state the name and address of the vendor
+5 and must be sufficiently itemized to clearly describe each item
+6 purchased, the unit price when applicable, the number or volume of
+7 each item purchased, the total price, the total purchase price, and
+8 the date of the purchase;
+9 10. Upon receipt of an invoice, the county clerk shall compare
+10 the following documents:
+11 a. requisition,
+12 b. purchase order,
+13 c. invoice with noncollusion affidavit as required by
+14 law,
+15 d. receiving report, and
+16 e. delivery document.
+17 The documents shall be available for public inspection during
+18 regular business hours; and
+19 11. If the documents conform as to the quantity and quality of
+20 the items, the county clerk shall prepare a warrant for payment
+21 according to procedures provided for by law.
+22 F. The following procedures are for the processing of purchase
+23 orders:
+24
+Req. No. 13922 Page 17
+
+1 1. The purchasing agent shall be allowed up to three (3) days
+2 to process purchase orders to be presented to the board of county
+3 commissioners for consideration and payment. Nothing herein shall
+4 prevent the purchasing agent from processing or the board of county
+5 commissioners from consideration and payment of utilities, travel
+6 claims, and payroll claims;
+7 2. The board of county commissioners shall consider the
+8 purchase orders so presented and act upon the purchase orders, by
+9 allowing in full or in part or by holding for further information or
+10 disallowing the same. The disposition of purchase orders shall be
+11 indicated by the board of county commissioners, showing the amounts
+12 allowed or disallowed, and shall be signed by at least two members
+13 of the board of county commissioners. Any claim held over for
+14 further information shall be acted upon by allowing or disallowing
+15 same at any future meeting of the board held within seventy-five
+16 (75) days from the date of filing of the purchase order. Any
+17 purchase order not acted upon within the seventy-five (75) days from
+18 the date of filing shall be deemed to have been disallowed, but such
+19 disallowance shall not prevent the refiling of the purchase order at
+20 the proper time; and
+21 3. Whenever any allowance, either in whole or in part, is made
+22 upon any purchase order presented to the board of county
+23 commissioners and is accepted by the person making the claim, such
+24 allowance shall be a full settlement of the entire purchase order
+Req. No. 13922 Page 18
+
+1 and provided that the cashing of warrant shall be considered as
+2 acceptance by the claimant.
+3 G. The procedure upon consumption or disposal of supplies,
+4 materials, or equipment shall be as follows:
+5 1. For consumable road or bridge items or materials, a
+6 quarterly report of the road and bridge projects completed during
+7 such period shall be prepared and kept on file by the consuming
+8 department. The quarterly report may be prepared and kept
+9 electronically by the consuming department. The report shall
+10 contain a record of the date, the place, and the purpose for the use
+11 of the road or bridge items or materials. For purposes of
+12 identifying county bridges, the board of county commissioners shall
+13 number each bridge subject to its jurisdiction; and
+14 2. For disposal of all equipment and information technology and
+15 telecommunication goods which originally cost more than Five Hundred
+16 Dollars ($500.00), resolution of disposal shall be submitted by the
+17 officer on a form prescribed by the Office of the State Auditor and
+18 Inspector to the board of county commissioners. The approval of the
+19 resolution of disposal shall be entered into the minutes of the
+20 board.
+21 H. Inventory forms and reports shall be retained for not less
+22 than two (2) years after all audit requirements for the state and
+23 federal government have been fulfilled and after any pending
+24 litigation involving the forms and reports has been resolved.
+Req. No. 13922 Page 19
+
+1 I. The procedures provided for in this section shall not apply
+2 when a county officer certifies that an emergency exists requiring
+3 an immediate expenditure of funds. Such an expenditure of funds
+4 shall not exceed Five Thousand Dollars ($5,000.00). The county
+5 officer shall give the county purchasing agent a written explanation
+6 of the emergency. The county purchasing agent shall attach the
+7 written explanation to the purchase order. The purchases shall be
+8 paid by attaching a properly itemized invoice, as described in this
+9 section, to a purchase order which has been prepared by the county
+10 purchasing agent and submitting them to the county clerk for filing,
+11 encumbering, and consideration for payment by the board of county
+12 commissioners.
+13 J. The county purchasing agent may authorize county purchasing
+14 officers to make acquisitions through the state purchase card
+15 program as authorized by the State Purchasing Director in accordance
+16 with Section 85.5 of Title 74 of the Oklahoma Statutes and defined
+17 in Section 85.2 of Title 74 of the Oklahoma Statutes. A purchase
+18 cardholder shall sign a purchase card agreement prior to becoming a
+19 cardholder and attend purchase card procedure training as required
+20 by the State Purchasing Director. Complete descriptions of
+21 purchases made by county government entities shall be published as
+22 warrants required to be published pursuant to Sections 444 and 445
+23 of this title.
+24
+Req. No. 13922 Page 20
+
+1 K. Nothing in this section shall prohibit counties from
+2 providing material and/or services bids on the twelve-month bid list
+3 to all road and bridge projects and contracts. All non-road and
+4 bridge related construction contracts shall refer to subsection A of
+5 Section 103 of Title 61 of the Oklahoma Statutes.
+6 SECTION 3. AMENDATORY 20 O.S. 2021, Section 1304, is
+7 amended to read as follows:
+8 Section 1304. A. Claims against the court fund shall include
+9 only expenses lawfully incurred for the operation of the court in
+10 each county. Payment of the expenses may be made after the claim is
+11 approved by the district judge who is a member of the governing
+12 board of the court fund and either the local court clerk or the
+13 local associate district judge who is a member of the governing
+14 board. No expenditures falling into any category listed in
+15 paragraphs 1, 5, 6, 7 and 13 of subsection B of this section, may be
+16 made without prior written approval of the Chief Justice of the
+17 Supreme Court. The Supreme Court may provide by rule the manner in
+18 which expenditures in the restricted categories shall be submitted
+19 for approval. When allowing the expenditures in paragraphs 6 and 7
+20 of subsection B of this section, the Chief Justice shall direct that
+21 resort first be had to the surplus funds in the court fund in the
+22 county involved.
+23 B. The term "expenses" shall include the following items and
+24 none others:
+Req. No. 13922 Page 21
+
+1 1. Compensation of bailiffs and employees of the court fund;
+2 2. Juror fees and mileage, as well as overnight accommodation
+3 and food expense for jurors kept together as set out in Section 81
+4 et seq. of Title 28 of the Oklahoma Statutes;
+5 3. Witness fees and mileage for witnesses subpoenaed by the
+6 defense as set out in Section 81 et seq. of Title 28 of the Oklahoma
+7 Statutes, except that expert witnesses for county indigent defenders
+8 shall be paid a reasonable fee for their services;
+9 4. Office supplies, books for records, postage, and printing;
+10 5. Furniture, fixtures, and equipment;
+11 6. Renovating, remodeling, and maintenance of courtrooms,
+12 judge's chambers, clerk's offices, and other areas primarily used
+13 for judicial functions;
+14 7. Rent for courtroom facilities outside the courthouse;
+15 8. Judicial robes;
+16 9. Attorney fees for indigents in the trial court and on
+17 appeal;
+18 10. Compensation or reimbursement for services provided in
+19 connection with an adult guardianship proceeding as provided by
+20 Section 4-403 of Title 30 of the Oklahoma Statutes. Compensation
+21 from the court fund for attorneys appointed pursuant to the Oklahoma
+22 Guardianship Act shall be substantially the same as for attorneys
+23 appointed in juvenile proceedings pursuant to Title 10A of the
+24 Oklahoma Statutes. The compensation, if any, for guardians ad litem
+Req. No. 13922 Page 22
+
+1 appo inted pursuant to the Oklahoma Guardianship Act shall not exceed
+2 One Hundred Dollars ($100.00);
+3 11. Transcripts ordered by the court;
+4 12. Necessary telephone expenses, gas, water, and electrical
+5 utilities for the part of the county courthouse occupied by the
+6 court and other areas used for court functions;
+7 13. Security expenses for the part of the county courthouse
+8 occupied by the court and other areas used for court functions;
+9 14. The cost of publication notice in juvenile proceedings as
+10 provided in Section 1-4-304 of Title 10A of the Oklahoma Statutes
+11 and in termination of parental rights proceedings brought by the
+12 state as provided in Section 1-4-905 of Title 10A of the Oklahoma
+13 Statutes;
+14 15. Interpreter fees;
+15 16. Necessary travel expenses of the office of county indigent
+16 defender approved by the court fund governing board;
+17 17. Rent for county indigent defender's office outside of the
+18 county courthouse;
+19 18. Computer equipment for county indigent defender's office;
+20 19. Reasonable compensation for expert, investigative, or other
+21 services authorized by the court for indigent defendants not
+22 represented by a county indigent defender or the Oklahoma Indigent
+23 Defense System, if requested;
+24
+Req. No. 13922 Page 23
+
+1 20. Necessary training for the judges and court personnel on
+2 the court integrated computer system; and
+3 21. Any other expenses now or hereafter expressly authorized by
+4 statute.
+5 C. Nothing in Section 1301 et seq. of this title shall prevent
+6 the construction of additional courtrooms within existing courthouse
+7 facilities, from funds other than the court fund.
+8 D. Items of equipment, furniture, fixtures, printing, or
+9 supplies that are available in the quantities desired from a
+10 contract vendor's list for order or purchase by the court fund
+11 through the facilities of the Central Purchasing Division of the
+12 Office of Management and Enterprise Services Department of Central
+13 Purchasing may not be purchased by any court fund at prices higher
+14 than those approved by the Director of Central Purchasing.
+15 SECTION 4. AMENDATORY 57 O.S. 2021, Section 549.1, is
+16 amended to read as follows:
+17 Section 549.1. A. The Department of Corrections is authorized
+18 to purchase in the manner prescribed by law, facilities, equipment,
+19 raw materials and supplies, and to engage the supervisory personnel
+20 necessary to establish and maintain for this state at the penal
+21 institutions, now or hereafter under the control of the State Board
+22 of Corrections, industries and agricultural programs for the
+23 utilization of services of prisoners in the manufacture, production,
+24 processing or assembly of the articles or products as may be needed
+Req. No. 13922 Page 24
+
+1 for the construction, operation, maintenance or use of any office,
+2 department, institution or agency supported in whole or in part by
+3 this state and the political subdivisions thereof. Upon the request
+4 of the Oklahoma Historical Society or the Oklahoma Tourism and
+5 Recreation Department, the Department of Corrections shall provide
+6 labor for and shall produce or manufacture articles, products or
+7 materials needed for the repair, construction and maintenance of
+8 historical sites and state parks including, but not limited to, the
+9 production of materials and products needed for the reconstruction
+10 of historic forts in the state.
+11 B. All articles and services provided by the Department of
+12 Corrections in the state correctional institutions, and not required
+13 for use therein, shall be purchased as required by all offices,
+14 departments, institutions, agencies, counties, schools, colleges,
+15 universities, or political subdivisions or any agency thereof of
+16 this state which are supported in whole or in part by this state, if
+17 such article or service is the lowest and best bid, and no such
+18 article or product may be purchased by any such office, department,
+19 institution, agency, county, school, college, university, or
+20 political subdivisions or agency thereof from any other source
+21 unless excepted from the provisions as hereinafter provided.
+22 Purchases made by the above-described state agencies may be made by
+23 submitting the proper requisition through the Office of Management
+24 and Enterprise Services Department of Central Purchasing or by
+Req. No. 13922 Page 25
+
+1 dire ct order to the prison industries program of the Department of
+2 Corrections.
+3 C. If a requisition is received by the Office of Management and
+4 Enterprise Services Department of Central Purchasing or a direct
+5 order is received by the Prison Industries Program of the Department
+6 of Corrections from a state agency for any product or service
+7 provided by the Department of Corrections and such product or
+8 service is also available from a severely handicapped person or a
+9 qualified nonprofit agency for the severely handicapped as provided
+10 in Section 3001 et seq. of Title 74 of the Oklahoma Statutes at a
+11 comparable price, then the product or service shall be purchased
+12 from such severely handicapped person or qualified nonprofit agency
+13 for the severely handicapped. If the product or service is not
+14 available within the time period required by the purchasing state
+15 agency, then such product or service shall be purchased from the
+16 Department of Corrections under the provisions of this section.
+17 D. All offices, departments, institutions, agencies, counties,
+18 cities, districts or political subdivisions, schools, colleges, or
+19 universities, or any agency thereof, or any agencies of the state,
+20 which are supported in whole or in part by this state, may purchase
+21 the goods or services manufactured, produced, processed or assembled
+22 by the prison industries of the Department of Corrections through
+23 their properly authorized purchasing authority, or they may place a
+24
+Req. No. 13922 Page 26
+
+1 dire ct order without competitive bid, with the prison industries of
+2 the Department of Corrections.
+3 E. Not-for-profit corporations or charitable agencies chartered
+4 in Oklahoma or other states may purchase such goods and services.
+5 Units of the federal government and units of government in other
+6 states may also purchase such goods and services. All entities
+7 which contract with the state, its political units, its agencies,
+8 its public institutions, not-for-profit corporations or charitable
+9 agencies chartered in Oklahoma may purchase goods or services from
+10 the Department of Corrections which are used in the performance of
+11 such contracts. Any church located in the State of Oklahoma may
+12 also purchase goods and services manufactured, produced, processed
+13 or assembled by the prison industries of the Department of
+14 Corrections. Any community action agency or council of governments
+15 within this state may purchase housing components produced by the
+16 prison industries of the Department of Corrections. Nothing shall
+17 prohibit the Department from bidding on portions of a state contract
+18 which are subcontracted by the primary contractor.
+19 F. Others are prohibited from purchasing such goods and
+20 services, with the exception that all surplus agricultural products
+21 may be sold on the open market or bartered and exchanged for other
+22 food, feed or seed products of comparable value. The Department of
+23 Corrections shall keep complete and accurate records of any such
+24 barters or exchanges in such form and manner as the Office of
+Req. No. 13922 Page 27
+
+1 Mana gement and Enterprise Services Department of Central Purchasing
+2 may prescribe. A copy of such records shall be filed with the
+3 Office of Management and Enterprise Services Department of Central
+4 Purchasing no later than March 1 of each year for all barters or
+5 exchanges occurring in the previous calendar year. When
+6 practicable, the Department of Corrections may accept and process
+7 agricultural products from the public and may export the resulting
+8 products to foreign markets.
+9 G. Products manufactured, produced, processed or assembled by
+10 the Department of Corrections shall be of styles, patterns, designs
+11 and quantities specified by the Department of Corrections except
+12 where the same have been or may be specified by the Office of
+13 Management and Enterprise Services Department of Central Purchasing.
+14 Products shall be provided at a fair market price for comparable
+15 quality.
+16 H. State agencies shall make maximum utilization of such
+17 products and no similar products shall be purchased by state
+18 agencies from any other source than the Department of Corrections
+19 except as provided in subsection C of this section, unless the
+20 Department of Corrections certifies to the State Purchasing Director
+21 that it is not able to provide products, and no claim therefor shall
+22 be paid without such certification.
+23 I. Exceptions from the mandatory provisions hereof may be made
+24 in any case where, in the opinion of the Office of Management and
+Req. No. 13922 Page 28
+
+1 Ente rprise Services Department of Central Purchasing, the article or
+2 product does not meet the reasonable requirements of or for such
+3 offices, departments, institutions or agencies, or in any case where
+4 the requisitions made cannot be reasonably complied with. No such
+5 offices, departments, institutions or agencies, shall be allowed to
+6 evade the intent and meaning of this section by slight variations
+7 from standards adopted by the Office of Management and Enterprise
+8 Services Department of Central Purchasing, when the articles,
+9 services or products produced, manufactured, processed or assembled
+10 by the Department of Corrections, in accordance with established
+11 standards, are reasonably adapted to the actual needs of such
+12 offices, departments, institutions or agencies.
+13 J. In the event of disagreement between the Department of
+14 Corrections and the State Purchasing Director on fairness of price,
+15 ability to comply to specifications, reasonableness of
+16 specifications and timeliness of delivery of products the matter
+17 will be resolved by the Purchasing Director of the Office of
+18 Management and Enterprise Services Department of Central Purchasing.
+19 K. The Office of Management and Enterprise Services Department
+20 of Central Purchasing shall cooperate with the Department of
+21 Corrections in seeking to promote for use in state agencies and by
+22 all other eligible customers, the products manufactured and services
+23 provided by the prison industries.
+24
+Req. No. 13922 Page 29
+
+1 L. The Department of Corrections shall prepare catalogs
+2 containing the description of all goods and services provided, with
+3 the pricing of each item. Copies of such catalog shall be sent by
+4 the Department of Corrections to all offices, departments,
+5 institutions and agencies of this state, and shall be available for
+6 distribution to all other eligible customers. In lieu of preparing
+7 and distributing catalogs, the Department of Corrections may
+8 maintain a website that contains a description of all goods and
+9 services provided, with the pricing of each item.
+10 M. The Department of Corrections may keep confidential:
+11 1. Business plans, feasibility studies, financing proposals,
+12 marketing plans, financial statements or trade secrets submitted by
+13 a person or entity seeking a corrections industries partnership with
+14 the Department of Corrections;
+15 2. Proprietary information of the business submitted to the
+16 Department of Corrections for the purposes of a corrections
+17 industries partnership, and related confidentiality agreements
+18 detailing the information or records designated as confidential; and
+19 3. The Department of Corrections may not keep confidential
+20 information when and to the extent that the person or entity
+21 submitting the information consents to disclosure.
+22 SECTION 5. AMENDATORY 61 O.S. 2021, Section 139, as
+23 amended by Section 1, Chapter 455, O.S.L. 2025, (61 O.S. Supp. 2025,
+24 Section 139), is amended to read as follows:
+Req. No. 13922 Page 30
+
+1 Section 139. A. In addition to any authority to enter an
+2 agreement pursuant to the Interlocal Cooperation Act, any school
+3 district, including a technology school district, may either
+4 participate in, sponsor, conduct or administer a cooperative
+5 purchasing agreement for the acquisition of any commodities or
+6 services with one or more public agencies in accordance with an
+7 agreement entered into between the participants. Such cooperative
+8 purchasing may include, but is not limited to, joint or multiparty
+9 contracts between public agencies and open-ended state public
+10 procurement contracts. Cooperative purchasing shall not include new
+11 construction. For cooperative purchasing agreements, all funds
+12 shall be applied toward chargeables under the agreements or toward
+13 direct administrative costs associated with the agreements. No
+14 entity shall take a percentage of the funds as profit under the
+15 cooperative purchasing agreement.
+16 B. Any local public procurement unit may either participate in,
+17 sponsor, conduct or administer a cooperative or piggybacking
+18 purchasing agreement for the acquisition of any commodities or
+19 services, including construction services, with one (1) or more
+20 public procurement units or external procurement units in accordance
+21 with an agreement entered into between the participants. Such
+22 cooperative purchasing may include, but is not limited to, joint or
+23 multiparty contracts between public procurement units and open-ended
+24 state public procurement unit contracts which are made available to
+Req. No. 13922 Page 31
+
+1 loca l public procurement units. Purchases made in accordance with
+2 this subsection by a local public procurement unit shall be required
+3 to satisfy any procurement regulation, including Oklahoma Central
+4 Purchasing Act, the Public Competitive Bidding Act of 1974, the
+5 Oklahoma State Finance Act, related administrative rules and federal
+6 regulations that may apply due to the federal source of the funding
+7 for the anticipated purchase.
+8 C. For purposes of this section, the following definitions
+9 apply:
+10 1. “Local public procurement unit” shall mean, inter alia, any
+11 county, city, town, state agency, and any other subdivision of the
+12 state or public unit or agency thereof;
+13 2. “External procurement unit” shall mean any buying
+14 organization in the United States not located in this state which,
+15 if located in this state, would qualify as a public procurement
+16 unit;
+17 3. “Cooperative or piggybacking purchasing agreement” shall
+18 mean an agreement between a local public procurement unit and
+19 another local public procurement unit or an external procurement
+20 unit to authorize the use of a contract procured by one of the
+21 parties to the agreement to benefit the other party to the
+22 agreement. This term shall also mean an agreement that provides
+23 access to a product or service that is lower in price than a
+24 comparable product or service that is available through the usage of
+Req. No. 13922 Page 32
+
+1 a st atewide, multistate or multigovernmental contract issued by the
+2 Purchasing Division of the Office of Management and Enterprise
+3 Services Department of Central Purchasing; and
+4 4. “New construction” shall mean any building not previously
+5 constructed that has not been occupied or used. New construction
+6 shall not mean bus barns, agriculture barns, storage buildings,
+7 batting cages, or similar structures.
+8 D. Nothing in this section shall supersede the obligation of a
+9 state agency to adhere to rules regarding statewide contracts issued
+10 by the Purchasing Division Department of Central Purchasing.
+11 Neither shall any provision of this section be construed to waive
+12 the obligation of a state agency to utilize a mandatory purchasing
+13 contract as designated by the State Purchasing Director of the
+14 Department of Central Purchasing.
+15 SECTION 6. AMENDATORY 74 O.S. 2021, Section 85.3, is
+16 amended to read as follows:
+17 Section 85.3. A. There is hereby created and established in
+18 the Office of Management and Enterprise Services a Purchasing
+19 Division Department of Central Purchasing, the administrative head
+20 of which shall be the State Purchasing Director of the Department of
+21 Central Purchasing.
+22 B. The Director of the Office of Management and Enterprise
+23 Services Department of Central Purchasing shall hire the State
+24 Purchasing Director. The State Purchasing Director shall:
+Req. No. 13922 Page 33
+
+1 1. Have a thorough knowledge of office practices and buying
+2 procedures in volume purchasing; and
+3 2. Be a graduate of an accredited college or university with at
+4 least five (5) years' experience in commercial or governmental
+5 purchasing, or, in lieu of such education, have at least ten (10)
+6 years' experience in commercial or governmental purchasing.
+7 C. The State Purchasing Director, with the approval of the
+8 Director of the Office of Management and Enterprise Services, may
+9 employ such personnel as may be necessary to exercise authority and
+10 perform duties under the Oklahoma Central Purchasing Act.
+11 D. All activities of any state agency, department, or
+12 institution relating to purchasing shall be under the direction of
+13 the Department of Central Purchasing Division unless otherwise
+14 provided by the Oklahoma Central Purchasing Act.
+15 E. The Department of Central Purchasing Division shall provide
+16 qualified personnel to assist the purchasing activities of state
+17 agencies, departments, and institutions, as required by the Oklahoma
+18 Central Purchasing Act.
+19 F. Each state agency, department, and institution shall
+20 designate personnel to coordinate its purchasing functions with the
+21 Department of Central Purchasing Division.
+22 G. The Department of Central Purchasing Division may, if the
+23 needs of a state agency, department, or institution are such as to
+24 so require, employ, and establish a buyer within a state agency.
+Req. No. 13922 Page 34
+
+1 The state agency shall pay all expenses incurred for any buyer
+2 required to be placed within its agency.
+3 H. Except as provided in Section 34.36 of Title 62 of the
+4 Oklahoma Statutes, no state agency subject to the Oklahoma Central
+5 Purchasing Act shall have or maintain a purchasing section without
+6 the prior approval in writing of the Department of Central
+7 Purchasing Division unless otherwise provided in the Oklahoma
+8 Central Purchasing Act nor shall such purchasing section perform
+9 purchasing functions for another state agency.
+10 I. The Department of Central Purchasing Division shall make
+11 acquisitions from industries operated by the Department of
+12 Corrections pursuant to the provisions of Section 549.1 of Title 57
+13 of the Oklahoma Statutes.
+14 J. None of the personnel authorized by this section shall:
+15 1. Sell to or otherwise provide acquisitions to any state
+16 agency subject to the Oklahoma Central Purchasing Act;
+17 2. Be employees, partners, associates, officers, or
+18 stockholders in or with any business entity that sells to or
+19 otherwise provides acquisitions to any state agency subject to the
+20 Oklahoma Central Purchasing Act;
+21 3. Be employed in any of the positions authorized by this
+22 section if a spouse or child owns any stock in any business entity
+23 which sells to or otherwise provides acquisitions to any agency
+24 subject to the Oklahoma Central Purchasing Act;
+Req. No. 13922 Page 35
+
+1 4. Be employed in any of the positions authorized by this
+2 section if a relative within the third degree of consanguinity or
+3 affinity sells to or otherwise provides acquisitions to any state
+4 agency subject to the Oklahoma Central Purchasing Act or is
+5 interested in any business entity which does so, except that such
+6 relative, excluding a spouse or child, may own Twenty-five Thousand
+7 Dollars ($25,000.00) worth or less, or one percent (1%) or less,
+8 whichever amount is the lesser amount, of the stock of a corporation
+9 or any business entity which sells to or otherwise provides
+10 acquisitions to any state agency subject to the Oklahoma Central
+11 Purchasing Act; or
+12 5. Violate applicable rules of the Ethics Commission
+13 promulgated pursuant to Article XXIX of the Oklahoma Constitution
+14 that relate to accepting gifts from a vendor or a vendor's agent.
+15 SECTION 7. AMENDATORY 74 O.S. 2021, Section 85.5, as
+16 amended by Section 1, Chapter 102, O.S.L. 2024 (74 O.S. Supp. 2025,
+17 Section 85.5), is amended to read as follows:
+18 Section 85.5. A. Except as otherwise provided in this section,
+19 the State Purchasing Director, under the supervision of the Director
+20 of the Office of Management and Enterprise Services, Director of the
+21 Department of Central Purchasing shall have sole and exclusive
+22 authority and responsibility for all acquisitions by state agencies.
+23 In order to carry out the powers and duties of the Chief Information
+24 Officer and the Information Services Division, the Chief Information
+Req. No. 13922 Page 36
+
+1 Offi cer shall have sole and exclusive authority and responsibility
+2 for all acquisitions of information and telecommunications
+3 technology, equipment, software, products and related peripherals
+4 and services by state agencies. Public construction contracts are
+5 awarded pursuant to Title 61 of the Oklahoma Statutes and are not
+6 subject to the Oklahoma Central Purchasing Act.
+7 B. Every state agency shall determine its own quantitative
+8 needs for acquisitions and the general class or nature of the
+9 acquisitions. The State Purchasing Director of the Department of
+10 Central Purchasing, after consultation with the requisitioning state
+11 agency, shall have authority to determine the particular brand,
+12 model or other specific classification of each acquisition and to
+13 draft or invoke pursuant to the Oklahoma Central Purchasing Act
+14 specifications establishing the requirements for all necessary
+15 contracts or purchase orders.
+16 C. The Director of the Office of Management and Enterprise
+17 Services Department of Central Purchasing shall have authority and
+18 responsibility to promulgate rules in connection with provisions of
+19 the Oklahoma Central Purchasing Act for:
+20 1. The time, manner, authentication and form of making
+21 requisitions for acquisitions;
+22 2. Inspection, analysis and testing of acquisitions or samples
+23 bidders submit prior to contract award;
+24
+Req. No. 13922 Page 37
+
+1 3. The form and manner of submission for bids or proposals a
+2 bidder submits and the manner of accepting and opening bids or
+3 proposals;
+4 4. The conditions under which the Office of Management and
+5 Enterprise Services Department of Central Purchasing shall require
+6 written contracts for acquisitions, the conditions under which
+7 acquisitions may be made on an open account basis, and the
+8 conditions and manner of negotiating such contracts;
+9 5. Obtaining acquisitions produced by state institutions;
+10 6. Conditions under which any of the rules herein authorized
+11 may be waived;
+12 7. The amounts of and deposits on any bond or other surety
+13 required to be submitted with a bid or contract for the furnishing
+14 of acquisitions and the conditions under which such bond or other
+15 surety shall be required;
+16 8. The manner and conditions of delivery, which shall include
+17 the designation of the common carrier of property to be used to
+18 transport acquisitions whenever a common carrier is used, and the
+19 acceptance, or rejection, including check of quantities, of any
+20 acquisitions;
+21 9. The form of any estimate, order or other information
+22 required in connection with an acquisition;
+23 10. State agency acquisitions not exceeding the acquisition
+24 threshold amount requiring competitive bid to ensure
+Req. No. 13922 Page 38
+
+1 comp etitiveness, fairness, compliance with the Oklahoma Central
+2 Purchasing Act and Section 3001 et seq. of this title, which relates
+3 to the State Use Committee. The rules shall include separate
+4 provisions based on acquisition amounts as follows:
+5 a. state agencies shall make acquisitions not exceeding
+6 Twenty-five Thousand Dollars ($25,000.00), provided
+7 the acquisition process is fair and reasonable and is
+8 conducted pursuant to rules authorized pursuant to
+9 this section, and
+10 b. state agencies with certified procurement officers and
+11 internal purchasing procedures found compliant by the
+12 State Purchasing Director of the Department of Central
+13 Purchasing may make acquisitions in excess of the fair
+14 and reasonable acquisition threshold amount provided
+15 for in this section and not exceeding Two Hundred
+16 Fifty Thousand Dollars ($250,000.00), pursuant to
+17 rules authorized by this section;
+18 11. Training by the State Purchasing Director of the Department
+19 of Central Purchasing of state agency procurement officers;
+20 12. Review and audit by the State Purchasing Director of the
+21 Department of Central Purchasing of state agency acquisitions;
+22 13. The conditions for increasing acquisition limits for state
+23 agencies which have had a prior reduction in acquisition limit by
+24
+Req. No. 13922 Page 39
+
+1 the Director of the Office of Management and Enterprise Services
+2 Department of Central Purchasing;
+3 14. Use of a state purchase card to make acquisitions;
+4 15. Any other matter or practice which relates to the
+5 responsibilities of the State Purchasing Director of the Department
+6 of Central Purchasing;
+7 16. Conditions for determination and authorization of
+8 acquisition threshold amounts of state agencies;
+9 17. The form and manner of verification by suppliers that the
+10 supplier is eligible to do business in the State of Oklahoma and has
+11 obtained all necessary permits and licenses, pursuant to applicable
+12 provisions of law; and
+13 18. Payment procedure rules for state agencies to adhere to
+14 regarding statewide contracts.
+15 D. The State Purchasing Director of the Department of Central
+16 Purchasing shall provide training for state agency procurement
+17 officials, and other procurement staff, and is authorized to require
+18 retraining of such procurement personnel found not to be in
+19 compliance with provisions of the Oklahoma Central Purchasing Act or
+20 associated rules. The training may include any matters related to
+21 state procurement practices. State agency purchasing officials that
+22 demonstrate proficiency shall be certified as "certified procurement
+23 officers" by the State Purchasing Director of the Department of
+24 Central Purchasing and shall be authorized to make acquisitions
+Req. No. 13922 Page 40
+
+1 purs uant to provisions of the Oklahoma Central Purchasing Act and
+2 associated rules. The State Purchasing Director of the Department
+3 of Central Purchasing may assess a fee to state agencies for the
+4 training that does not exceed each state agency's pro rata share of
+5 the costs the State Purchasing Director of the Department of Central
+6 Purchasing incurs to provide the training.
+7 E. The State Purchasing Director of the Department of Central
+8 Purchasing shall review state agency acquisitions for the purposes
+9 of:
+10 1. Ensuring state agency compliance with provisions of the
+11 Oklahoma Central Purchasing Act;
+12 2. Ensuring state agency compliance with rules promulgated by
+13 the Office of Management and Enterprise Services Director of the
+14 Department of Central Purchasing pursuant to the Oklahoma Central
+15 Purchasing Act;
+16 3. Ensuring state agency compliance with provisions of Section
+17 3001 et seq. of this title pertaining to the State Use Committee;
+18 4. Reporting any acquisition by any state agency found not to
+19 be in compliance with those sections or rules to the Director of the
+20 Office of Management and Enterprise Services Department of Central
+21 Purchasing;
+22 5. A determination by the State Purchasing Director of the
+23 Department of Central Purchasing to reduce a state agency's
+24 acquisition authority amount when the state agency is found not to
+Req. No. 13922 Page 41
+
+1 be i n compliance with the Oklahoma Central Purchasing Act or
+2 associated rules or requirements of the State Purchasing Director of
+3 the Department of Central Purchasing pursuant to this section; and
+4 6. A determination by the State Purchasing Director of the
+5 Department of Central Purchasing to increase a state agency's
+6 acquisition authority amount after the agency cures deficiencies in
+7 connection with a prior reduction in the authority amount by the
+8 State Purchasing Director of the Department of Central Purchasing.
+9 F. Based on written findings and when recommended by the State
+10 Purchasing Director of the Department of Central Purchasing, the
+11 Director of the Office of Management and Enterprise Services may:
+12 1. Transmit written findings by the State Purchasing Director
+13 the Department of Central Purchasing to the State Auditor and
+14 Inspector for further investigation, indicating purchasing
+15 procedures that do not conform to the Oklahoma Central Purchasing
+16 Act or associated rules; or
+17 2. Transmit to the Attorney General or the State Auditor and
+18 Inspector for further investigation a report made by the Director of
+19 the Department of Central Purchasing that they reasonably believes
+20 believe indicates that an action that constitutes a criminal
+21 violation pursuant to the Oklahoma Central Purchasing Act or other
+22 laws has been taken by any state agency, state agency official,
+23 bidder or supplier.
+24
+Req. No. 13922 Page 42
+
+1 G. 1. Pursuant to the requirements of the Oklahoma Central
+2 Purchasing Act, the Director of the Department of Central Purchasing
+3 shall have authority to enter into any statewide, multistate or
+4 multigovernmental contract. The state entity designated by law, as
+5 specified in Section 1010.3 of Title 56 of the Oklahoma Statutes,
+6 shall participate in the purchase of pharmaceuticals available
+7 through such multistate or multigovernmental contracts entered into
+8 by the State Purchasing Director of the Department of Central
+9 Purchasing.
+10 2. Whenever it appears advantageous to the state or to any
+11 state agency to purchase or otherwise acquire any acquisition which
+12 may be offered for sale by the United States government or any
+13 agency thereof, the State Purchasing Director of the Department of
+14 Central Purchasing may execute a contract for the acquisition with
+15 the federal government or federal agency and may also utilize
+16 contracts awarded by other governmental agencies including, but not
+17 limited to, agencies of the United States of America.
+18 3. The State Purchasing Director of the Department of Central
+19 Purchasing may designate, for use by state agencies, contracts
+20 described in this subsection and contracts awarded on behalf of one
+21 or more state agencies.
+22 4. Prior to exercising the authority to cancel a contract, the
+23 State Purchasing Director of the Department of Central Purchasing
+24 may authorize renegotiation of an existing contract with an
+Req. No. 13922 Page 43
+
+1 incu mbent supplier for the purposes of obtaining more favorable
+2 terms for the state.
+3 5. The State Purchasing Director of the Department of Central
+4 Purchasing shall have the authority to designate certain contracts
+5 for state agencies as statewide contracts and mandatory statewide
+6 contracts. In order to carry out the powers and duties of the Chief
+7 Information Officer and Information Services Division, the Chief
+8 Information Officer shall have the authority to designate certain
+9 information technology and telecommunication contracts as statewide
+10 contracts and mandatory statewide contracts and may negotiate
+11 consolidation contracts, enterprise agreements and high technology
+12 system contracts in lieu of or in conjunction with competitive
+13 bidding procedures to reduce acquisition cost.
+14 6. The State Purchasing Director of the Department of Central
+15 Purchasing may publish such specifications relating to materials,
+16 supplies, equipment and services to be acquired for the state as may
+17 best promote competition and apprise potential suppliers of the type
+18 of product desired.
+19 H. 1. The State Purchasing Director of the Department of
+20 Central Purchasing may develop and test new contracting policies,
+21 procedures and innovations that hold potential for making state
+22 procurement more effective and efficient and identify, and make
+23 recommendations to the Legislature of, any appropriate changes in
+24 law. Such development and testing, proof of concept, pilot project
+Req. No. 13922 Page 44
+
+1 or o ther similar test shall not be considered an acquisition subject
+2 to the Oklahoma Central Purchasing Act.
+3 2. The State Purchasing Director of the Department of Central
+4 Purchasing is authorized to explore and investigate cost savings in
+5 energy, resource usage and maintenance contracts and to identify and
+6 negotiate contract solutions including, but not limited to, pilot
+7 projects to achieve cost savings for this state.
+8 I. The State Purchasing Director of the Department of Central
+9 Purchasing shall endeavor to satisfy state agencies in terms of
+10 cost, quality and timeliness of the delivery of acquisitions by
+11 using bidders who have a record of successful past performance,
+12 promoting competition, minimizing administrative operating costs and
+13 conducting business with integrity, fairness and openness.
+14 J. The State Purchasing Director of the Department of Central
+15 Purchasing shall undertake the following:
+16 1. The use of electronic commerce pursuant to the Oklahoma
+17 Online Bidding Act for solicitation, notification and other
+18 purchasing processes;
+19 2. Monitoring rules promulgated pursuant to the Oklahoma
+20 Central Purchasing Act to ensure that the rules satisfy the
+21 interests of the state, are clear and succinct and encourage
+22 efficiency in purchasing processes;
+23 3. A program to identify suppliers' performance records;
+24
+Req. No. 13922 Page 45
+
+1 4. Development of criteria for the use of sealed bid
+2 contracting procedures, negotiated contracting procedures, selection
+3 of types of contracts, postaward administration of purchase orders
+4 and contracts, addendums, termination of contracts and contract
+5 pricing;
+6 5. Continual improvement in the quality of the performance of
+7 the Purchasing Division Department of Central Purchasing through
+8 training programs, management seminars, development of benchmarks
+9 and key management indicators, and development of standard
+10 provisions, clauses and forms;
+11 6. The State Purchasing Director of the Department of Central
+12 Purchasing shall prescribe standardized contract forms and all other
+13 forms or certifications requisite or deemed necessary by the State
+14 Purchasing Director of the Department of Central Purchasing to
+15 effectuate the provisions of the Oklahoma Central Purchasing Act and
+16 associated rules;
+17 7. Development of programs to improve customer relations
+18 through training, improved communications and appointment of
+19 technical representatives;
+20 8. Provide for public two-way communication between procurement
+21 officers and potential bidders who have questions regarding a
+22 request for proposal or invitation to bid; and
+23
+24
+Req. No. 13922 Page 46
+
+1 9. Determine whether and to what extent information included in
+2 a bid or similar offer is confidential and reject all requests to
+3 disclose the information so designated.
+4 K. The State Purchasing Director of the Department of Central
+5 Purchasing may utilize and authorize state agencies to utilize
+6 reverse auctions to obtain acquisitions.
+7 L. Prior to the award of a contract to a supplier, the State
+8 Purchasing Director of the Department of Central Purchasing shall
+9 verify, pursuant to applicable provisions of law, that the supplier
+10 is eligible to do business in this state by confirming registration
+11 with the Secretary of State and franchise tax payment status
+12 pursuant to Sections 1203 and 1204 of Title 68 of the Oklahoma
+13 Statutes. The provisions of this subsection shall be applicable
+14 only if the contract amount is Two Hundred Fifty Thousand Dollars
+15 ($250,000.00) or greater.
+16 M. On an annual basis, the State Purchasing Director of the
+17 Department of Central Purchasing shall transmit to the Governor,
+18 Speaker of the House of Representatives and President Pro Tempore of
+19 the Senate a report documenting the savings realized by each agency
+20 through the application of best spend practices including the
+21 collection and tracking of spend data, strategic sourcing programs
+22 and implementation of managed and mandatory statewide contracts and
+23 include in the report information regarding emergency acquisitions.
+24
+Req. No. 13922 Page 47
+
+1 N. The acquisition threshold amount applicable to an
+2 acquisition made pursuant to this act or associated rules shall not
+3 apply to state agency purchases; provided, the State Purchasing
+4 Director of the Department of Central Purchasing determines the
+5 agency has subject matter experts on staff having the specialized
+6 expertise to purchase goods or services, the agency possesses the
+7 necessary legal and procurement staff to procure and monitor the
+8 contracts and provided the Director of the Office of Management and
+9 Enterprise Services shall certify certifies that the proposed
+10 purchase does not conflict with consolidated statewide spend
+11 initiatives.
+12 1. Nothing in this subsection shall give an agency authority to
+13 issue statewide, multistate or multigovernmental contracts.
+14 2. Agencies making purchases pursuant to this subsection shall:
+15 a. be responsible for contracts awarded pursuant to this
+16 subsection, which includes, but may not be limited to,
+17 contract management, protest costs, all costs
+18 connected with or incurred as a result of the
+19 contract, including legal representation,
+20 b. comply with rules and policies of the Office of
+21 Management and Enterprise Services Department of
+22 Central Purchasing, and
+23 c. report contracts issued pursuant to this subsection to
+24 the Office of Management and Enterprise Services,
+Req. No. 13922 Page 48
+
+1 Central Purchasing Division Department of Central
+2 Purchasing, on a quarterly basis.
+3 3. Purchases made in accordance with this subsection shall be
+4 made pursuant to rules authorized by this section.
+5 O. The State Purchasing Director, with approval by the Director
+6 of the Office of Management and Enterprise Services, of the
+7 Department of Central Purchasing is authorized to make use of any
+8 state laboratories for the tests and analyses authorized in this
+9 section wherever practicable and to use private laboratories or the
+10 laboratories of another government agency if it is impracticable to
+11 use state laboratories. The State Purchasing Director of the
+12 Department of Central Purchasing is further authorized to cooperate
+13 in test and analysis programs or agreements with other states or the
+14 United States government and to accept federal funds and funds
+15 donated by private endowments or foundations for the purpose of
+16 participation in such testing programs.
+17 P. The State Purchasing Director of the Department of Central
+18 Purchasing shall require all contractors or subcontractors who have
+19 entered into a contract with a public employer to submit an
+20 affidavit that the contractor or subcontractor is in compliance with
+21 the provisions of Section 1313 of Title 25 of the Oklahoma Statutes.
+22 If the State Purchasing Director of the Department of Central
+23 Purchasing determines that a contractor or subcontractor has
+24 knowingly submitted a false affidavit:
+Req. No. 13922 Page 49
+
+1 1. The contractor or subcontractor shall be liable for an
+2 administrative penalty of Five Thousand Dollars ($5,000.00) for the
+3 first offense, which shall increase by Two Thousand Dollars
+4 ($2,000.00) for each subsequent offense; and
+5 2. The public employer or the Department of Central Purchasing
+6 may terminate the contract with the contractor or subcontractor.
+7 SECTION 8. AMENDATORY 74 O.S. 2021, Section 85.5a, is
+8 amended to read as follows:
+9 Section 85.5a. A. Except for the state fleet card, the state
+10 purchase card program administered by the Purchasing Division
+11 Department of Central Purchasing is the only card program authorized
+12 for use by state agencies.
+13 B. On a monthly basis the State Purchasing Director of the
+14 Department of Central Purchasing and institutions of higher
+15 education shall provide to the Director of the Office of Management
+16 and Enterprise Services (OMES) a complete listing in electronic
+17 format of all transactions paid by a state purchase card. The list
+18 shall contain the name of the purchaser and purchasing agency,
+19 amount of purchase and all available descriptions of items
+20 purchased.
+21 C. Upon receipt of the list described in subsection B of this
+22 section, the Director of the OMES of the Department of Central
+23 Purchasing shall allow the public access to the list in searchable
+24
+Req. No. 13922 Page 50
+
+1 form at through its website defined in Section 46 of Title 62 of the
+2 Oklahoma Statutes.
+3 D. The State Purchasing Director of the Department of Central
+4 Purchasing may authorize the use of a state purchase card for
+5 acquisitions within the following parameters:
+6 1. No limit on the amount of the transaction for the following:
+7 a. purchases from statewide contracts and from contracts
+8 awarded by the State Purchasing Director for the
+9 benefit of a state agency,
+10 b. utilities,
+11 c. interagency payments,
+12 d. emergency acquisitions; provided, requirements to
+13 establish an emergency pursuant to Section 5 85.41A of
+14 this act title or other applicable statute or rule
+15 have been met, and
+16 e. professional services as defined in Section 803 of
+17 Title 18 of the Oklahoma Statutes; and
+18 2. For any other transaction with a state purchase card, the
+19 transaction shall not exceed the greater of Five Thousand Dollars
+20 ($5,000.00) or the limit determined by the State Purchasing
+21 Director, not to exceed the fair and reasonable acquisition
+22 threshold amount.
+23 E. The State Purchasing Director of the Department of Central
+24 Purchasing may authorize personnel of the Department of Commerce,
+Req. No. 13922 Page 51
+
+1 upon a finding by the Secretary of Commerce that such personnel have
+2 a legitimate need therefore, to utilize a state purchase card for
+3 acquisitions for programs, functions or services essential to the
+4 mission of the agency while traveling on Department of Commerce
+5 business in foreign locations with transaction limits not to exceed
+6 Thirty-five Thousand Dollars ($35,000.00). The purchase cardholders
+7 are required to sign a purchase card agreement prior to becoming a
+8 cardholder and to attend purchase card procedure training. The
+9 Department of Commerce will conduct quarterly internal auditing on
+10 all purchase card transactions associated with business and travel
+11 in foreign locations.
+12 SECTION 9. AMENDATORY 74 O.S. 2021, Section 85.7, as
+13 last amended by Section 1, Chapter 339, O.S.L. 2023 (74 O.S. Supp.
+14 2025, Section 85.7), is amended to read as follows:
+15 Section 85.7. A. 1. Except as otherwise provided by the
+16 Oklahoma Central Purchasing Act, or associated rules:
+17 a. every state agency shall initiate all acquisitions by
+18 the submission of a requisition to the Purchasing
+19 Division Department of Central Purchasing, and
+20 b. no state agency shall make an acquisition for an
+21 amount exceeding Fifty Thousand Dollars ($50,000.00)
+22 or the limit determined by the State Purchasing
+23 Director of the Department of Central Purchasing
+24 pursuant to rules authorized by Section 85.5 of this
+Req. No. 13922 Page 52
+
+1 title, not to exceed Two Hundred Fifty Thousand
+2 Dollars ($250,000.00), without submission of a
+3 requisition to the Purchasing Division Department of
+4 Central Purchasing for issuance of a solicitation for
+5 the acquisition on behalf of the agency. Any
+6 exemption from competitive bid requirements of the
+7 Oklahoma Central Purchasing Act further exempts the
+8 acquisition from requisition requirements of the act.
+9 2. The State Purchasing Director of the Department of Central
+10 Purchasing may request additional information necessary to
+11 adequately review a requisition to ensure compliance with the
+12 Oklahoma Central Purchasing Act and associated rules. If the State
+13 Purchasing Director of the Department of Central Purchasing
+14 determines that an acquisition is not necessary, excessive or not
+15 justified, the State Purchasing Director shall deny the requisition.
+16 3. The provisions of the Oklahoma Central Purchasing Act shall
+17 not preclude a state agency from:
+18 a. accepting gifts or donations in any manner authorized
+19 by law, or
+20 b. making an acquisition for itself without submitting a
+21 requisition under this section when authorized in
+22 writing by the State Purchasing Director.
+23 4. Any acquisition a state agency makes shall be made pursuant
+24 to the Oklahoma Central Purchasing Act and associated rules. No
+Req. No. 13922 Page 53
+
+1 agen cy shall use split purchasing for the purpose of evading the
+2 requirement of competitive bidding or other requirement of the
+3 Oklahoma Central Purchasing Act or associated rules. Violation of
+4 this provision shall be cause for discipline of a state employee up
+5 to and including termination.
+6 5. The State Purchasing Director may waive or increase the
+7 limit authorized for a state agency acquisition made pursuant to its
+8 own competitive procedures. To perfect an otherwise valid
+9 acquisition inadvertently exceeding the limit due to administrative
+10 error by a state agency or unforeseeable circumstances, the state
+11 agency shall request a limited waiver or increase upon the discovery
+12 of the error or circumstance to the State Purchasing Director. The
+13 State Purchasing Director shall report requests for waivers or
+14 increases, stating the amount and whether the request was granted or
+15 denied, upon request by the Governor, President Pro Tempore of the
+16 Senate or Speaker of the House of Representatives.
+17 6. Competitive bidding requirements of this section shall not
+18 be required for the following:
+19 a. contracts for master custodian banks or trust
+20 companies, investment managers, investment
+21 consultants, and actuaries for the state retirement
+22 systems, and Oklahoma Employees Insurance and Benefits
+23 Board, pension fund management consultants of the
+24 Oklahoma State Pension Commission and the
+Req. No. 13922 Page 54
+
+1 Commissioners of the Land Office, examiners, experts,
+2 or consultants for the Insurance Department whose job
+3 duties are tied to Market Conduct Exams, Financial
+4 Exams, and Insurance Business Transfers, financial
+5 institutions to act as depositories and managers of
+6 the Oklahoma College Savings Plan accounts and other
+7 professional services as defined in Section 803 of
+8 Title 18 of the Oklahoma Statutes. When requested by
+9 the Oklahoma Employees Insurance and Benefits Board or
+10 the governing board of a state retirement system
+11 authorized to hire investment managers, the Purchasing
+12 Division shall assist in the process of selecting
+13 investment managers,
+14 b. a state agency making such an acquisition shall notify
+15 the State Purchasing Director of the Department of
+16 Central Purchasing within fifteen (15) days following
+17 completion of the acquisition. A list of the exempt
+18 contracts shall be provided, upon request, to a member
+19 of the Appropriations and Budget Committee of the
+20 House of Representatives or Appropriations Committee
+21 of the Senate,
+22 c. purchases of postage by state agencies made pursuant
+23 to Sections 90.1 through 90.4 of this title,
+24
+Req. No. 13922 Page 55
+
+1 d. a sole source acquisition made in compliance with
+2 Section 85.44D.1 of this title,
+3 e. an acquisition for design, development, communication
+4 or implementation of the state employees flexible
+5 benefits plan; provided, procedures used for the
+6 acquisition are consistent with competitive bid
+7 requirements of the Oklahoma Central Purchasing Act
+8 and associated rules,
+9 f. any acquisition of a service which the Office of
+10 Management and Enterprise Services Department of
+11 Central Purchasing has approved as qualifying for a
+12 fixed and uniform rate, subject to the following:
+13 (1) the Purchasing Division Department of Central
+14 Purchasing shall establish criteria and
+15 guidelines for those services which may qualify
+16 for a fixed and uniform rate,
+17 (2) fixed and uniform rate contracts authorized by
+18 this subsection shall be limited to contracts for
+19 those services furnished to persons directly
+20 benefiting from such services and shall not be
+21 used by a state agency to employ consultants or
+22 to make other acquisitions,
+23 (3) any state agency desiring to have a service
+24 qualified for a fixed and uniform rate shall make
+Req. No. 13922 Page 56
+
+1 a request for service qualification to the State
+2 Purchasing Director of the Department of Central
+3 Purchasing and submit documentation to support
+4 the request. The State Purchasing Director shall
+5 approve or deny the request. If approved, the
+6 state agency shall establish a fixed and uniform
+7 rate for the service. No contracts shall be
+8 entered into by the state agency until the rate
+9 has been approved by the state agency in a public
+10 hearing. The proposed rate shall be clearly and
+11 separately identified in the agenda of the state
+12 agency for the hearing and shall be openly and
+13 separately discussed during such hearing. The
+14 state agency shall notify the State Purchasing
+15 Director of its pending consideration of the
+16 proposed rate at least thirty (30) days before
+17 the state agency is to meet on the proposed rate
+18 and deliver a copy of the agenda items concerning
+19 the proposed rate with supporting documentation.
+20 The State Purchasing Director shall communicate
+21 any observation, reservation, criticism or
+22 recommendation to the agency, either in person at
+23 the time of the hearing or in writing delivered
+24 to the state agency before or at the time of the
+Req. No. 13922 Page 57
+
+1 hearing. The State Purchasing Director shall
+2 specifically note in the written communications
+3 whether the Director has determined the rate to
+4 be excessive. Any written communication
+5 presented in the absence of the State Purchasing
+6 Director shall be presented orally during the
+7 public hearing. Whether made in person or in
+8 writing, any comment made by the State Purchasing
+9 Director shall be made a part of the minutes of
+10 the hearing in full,
+11 (4) within two (2) weeks after the convening of the
+12 Legislature, the administrative officer of the
+13 state agency shall furnish to the Speaker of the
+14 House of Representatives, the President Pro
+15 Tempore of the Senate and to any member of the
+16 House or Senate, if requested by the member, a
+17 complete list of all of the types of services
+18 paid for by uniform fixed rates, the amount of
+19 the rate last approved by the agency for the
+20 service and the number of contracts then in
+21 existence for each type of service. Any rate
+22 which has been determined to be excessive by the
+23 State Purchasing Director shall be specifically
+24 identified in the list by the state agency, and
+Req. No. 13922 Page 58
+
+1 (5) at any time, the State Purchasing Director may
+2 review, suspend or terminate a contract entered
+3 into pursuant to the provisions of this paragraph
+4 if the Director determines the contract is not
+5 necessary, is excessive or is not justified,
+6 g. an acquisition for a client of the State Department of
+7 Rehabilitation Services; provided, the agency develops
+8 and maintains standards for such an acquisition. The
+9 agency may elect to utilize the Department of Central
+10 Purchasing for an acquisition. The standards shall
+11 foster economy, provide a short response time, include
+12 appropriate safeguards, require written records,
+13 ensure appropriate competition for economical and
+14 efficient purchasing and shall be approved by the
+15 State Purchasing Director of the Department of Central
+16 Purchasing,
+17 h. structured settlement agreements entered into by the
+18 Attorney General's office in order to settle any
+19 lawsuit involving the state, the Legislature, any
+20 state agency or any employee or official of the state
+21 if:
+22 (1) prior to entering into any contract for the
+23 services of an entity to administer a structured
+24 settlement agreement, the Attorney General
+Req. No. 13922 Page 59
+
+1 receives proposals from at least three entities
+2 engaged in providing such services, and
+3 (2) the selection of a particular entity is made on
+4 the basis of the response to the request which is
+5 the most economical and provides the most
+6 competent service which furthers the best
+7 interests of the state,
+8 i. an acquisition by a state agency pursuant to a
+9 contract the State Purchasing Director of the
+10 Department of Central Purchasing enters into on behalf
+11 of a state agency or awards and designates for use by
+12 state agencies,
+13 j. an acquisition by the Committee for Sustaining
+14 Oklahoma's Energy Resources pursuant to a contract
+15 with a local supplier for the purpose of holding a
+16 special event or an exhibition throughout the state,
+17 and
+18 k. contracts for the study, analysis, and planning, as
+19 reasonably necessary, to aid in determining the
+20 feasibility of leasing, selling, or privately managing
+21 or developing the property or facilities under control
+22 of the Oklahoma Tourism and Recreation Commission.
+23 The Commission shall be exempt from the competitive
+24 bidding requirements of the Oklahoma Central
+Req. No. 13922 Page 60
+
+1 Purchasing Act for the purpose of soliciting,
+2 negotiating, and effectuating such a contract or
+3 contracts; provided, that the State Purchasing
+4 Director of the Department of Central Purchasing shall
+5 review and audit all uses of the exemptions provided
+6 in this subparagraph biannually.
+7 7. Notwithstanding any other provision of law, an acquisition
+8 may be exempted from requirements of this section by the State
+9 Purchasing Director of the Department of Central Purchasing when in
+10 the State Purchasing Director's discretion unusual, time-sensitive
+11 or unique circumstances exist which make such exemption in the best
+12 and immediate interest of the state. As used in this subsection,
+13 "State Purchasing Director or Director of the Department of Central
+14 Purchasing" shall not mean a designee. Any such acquisitions shall
+15 be described in detail and publicly posted as a data feed. The
+16 description shall include the name of the supplier, cost of the
+17 acquisition, reason for exemption and, as applicable, detailed
+18 comparison of the acquisition with comparable items, any identified
+19 cost savings resulting from the acquisition and a description of
+20 benefits to the state. The State Purchasing Director of the
+21 Department of Central Purchasing shall take no action under the
+22 provisions of this subsection prior to such public posting.
+23 B. Competitively bid acquisitions shall be awarded to the
+24 lowest and best, or best value, bidder or bidders.
+Req. No. 13922 Page 61
+
+1 C. Bids for an amount requiring submission of requisitions to
+2 the Purchasing Division Department of Central Purchasing shall be
+3 evaluated by the Purchasing Division Department of Central
+4 Purchasing and the state agency receiving the acquisition. At a
+5 minimum, cost and technical expertise shall be considered in
+6 determining the lowest and best, or best value, bid. Further, the
+7 state agency shall present its evaluation and recommendation to the
+8 State Purchasing Director of the Department of Central Purchasing.
+9 A documented evaluation report containing the evaluations of the
+10 Purchasing Division Department of Central Purchasing or the state
+11 agency shall be completed prior to the contract award and such
+12 report shall be a matter of public record.
+13 D. Except as otherwise specifically provided by law, the
+14 acquisition of food items or food products by a state agency from a
+15 public trust created pursuant to Sections 176 through 180.56 of
+16 Title 60 of the Oklahoma Statutes shall comply with competitive
+17 bidding requirements of this section.
+18 E. Cooperative contracts shall not be utilized unless the
+19 purchasing cooperative and its affiliated suppliers have complied
+20 with competitive bid requirements of the Oklahoma Central Purchasing
+21 Act and associated rules.
+22 F. Notwithstanding any provision of the Oklahoma Central
+23 Purchasing Act, in all cases where federal granted funds are
+24 involved, the federal laws, rules and regulations thereto shall
+Req. No. 13922 Page 62
+
+1 gove rn to the extent necessary to inure to the benefit of such funds
+2 to this state.
+3 G. A court order requiring an acquisition by a state agency,
+4 whether or not such state agency is subject to the Oklahoma Central
+5 Purchasing Act, shall not invalidate competitive bidding procedures
+6 required by this section if such court order does not specify a
+7 specific supplier. Any such acquisition shall comply with
+8 competitive bid procedures.
+9 SECTION 10. AMENDATORY 74 O.S. 2021, Section 85.12, as
+10 amended by Section 2, Chapter 339, O.S.L. 2023 (74 O.S. Supp. 2025,
+11 Section 85.12), is amended to read as follows:
+12 Section 85.12. A. The provisions of this section shall not be
+13 construed to affect any law relating to fiscal or accounting
+14 procedure except as they may be directly in conflict herewith; and
+15 all claims, warrants, and bonds shall be examined, inspected, and
+16 approved as now provided by law.
+17 B. Except as otherwise provided by this section, the
+18 acquisitions specified in this subsection shall be made in
+19 compliance with Section 85.39 of this title and purchasing card
+20 program requirements but are not subject to other provisions of the
+21 Oklahoma Central Purchasing Act:
+22 1. Food and other products produced by state institutions and
+23 agencies;
+24
+Req. No. 13922 Page 63
+
+1 2. The printing or duplication of publications or forms of
+2 whatsoever kind or character by state agencies if the work is
+3 performed upon their own equipment by their own employees. Pursuant
+4 to this paragraph, the state agency may only use equipment owned or
+5 leased by the agency and may only utilize that equipment for
+6 printing services required by the agency in performing duties
+7 imposed upon the agency or functions authorized to be performed by
+8 the agency. Any use of the equipment by the agency pursuant to an
+9 agreement or contract with any other entity resulting in delivery of
+10 intermediate or finished products to the entity purchasing or using
+11 the products shall be subject to the provisions of the Oklahoma
+12 Central Purchasing Act and associated rules;
+13 3. Department of Transportation and Transportation Commission
+14 contractual services or right-of-way acquisitions, contracts awarded
+15 pursuant to bids let by the Transportation Commission for the
+16 maintenance or construction of streets, roads, highways, bridges,
+17 underpasses or any other transportation facilities under the control
+18 of the Department of Transportation, equipment or material
+19 acquisitions accruing to the Department of Transportation required
+20 in federal aid contracts and acquisitions for public-service-type
+21 announcements initiated by the Department of Transportation, but not
+22 acquisitions for advertising, public relations or employment
+23 services;
+24
+Req. No. 13922 Page 64
+
+1 4. Utility services regulated by a state or federal regulatory
+2 commission, municipal ordinance or an Indian Tribal Council;
+3 5. Acquisitions by the University Hospitals Authority. The
+4 Authority shall develop standards for the acquisition of products
+5 and services and may elect to utilize the Purchasing Division
+6 Department of Central Purchasing. The standards shall foster
+7 economy and short response time and shall include appropriate
+8 safeguards and record-keeping requirements to ensure appropriate
+9 competition and economical and efficient purchasing;
+10 6. Custom harvesting by the Department of Corrections for the
+11 Department or its institutions;
+12 7. Subject to prior approval of the State Purchasing Director
+13 of the Department of Central Purchasing, acquisitions from private
+14 prison suppliers which are subject to the contracting procedures of
+15 Section 561 of Title 57 of the Oklahoma Statutes;
+16 8. Acquisitions by the Oklahoma Municipal Power Authority;
+17 9. Acquisitions by the Grand River Dam Authority;
+18 10. Acquisitions by rural water, sewer, gas or solid waste
+19 management districts created pursuant to the Rural Water, Sewer, Gas
+20 and Solid Waste Management Districts Act;
+21 11. Acquisitions by the Oklahoma Ordnance Works Authority, the
+22 Northeast Oklahoma Public Facilities Authority or the Midwestern
+23 Oklahoma Development Authority;
+24
+Req. No. 13922 Page 65
+
+1 12. Expenditure of monies appropriated to the State Board of
+2 Education for local and state-supported financial support of public
+3 schools, except monies allocated therefrom for the Administrative
+4 and Support Functions of the State Department of Education;
+5 13. Expenditure of monies appropriated to the State Department
+6 of Rehabilitation Services for educational programs or educational
+7 materials for the Oklahoma School for the Blind and the Oklahoma
+8 School for the Deaf;
+9 14. Contracts entered into by the Oklahoma Department of Career
+10 and Technology Education for the development, revision or updating
+11 of vocational curriculum materials, and contracts entered into by
+12 the Oklahoma Department of Career and Technology Education for
+13 training and supportive services that address the needs of new or
+14 expanding industries;
+15 15. Contracts entered into by the Oklahoma Center for the
+16 Advancement of Science and Technology for professional services;
+17 16. Contracts entered into by the Oklahoma Department of
+18 Commerce pursuant to the provisions of Section 5066.4 of this title;
+19 17. Acquisitions made by the Oklahoma Historical Society from
+20 monies used to administer the White Hair Memorial;
+21 18. Purchases of pharmaceuticals available through a multistate
+22 or multigovernmental contract if such pharmaceuticals are or have
+23 been on state contract within the last fiscal year, and the terms of
+24 such contract are more favorable to the state or agency than the
+Req. No. 13922 Page 66
+
+1 term s of a state contract for the same products, as determined by
+2 the State Purchasing Director of the Department of Central
+3 Purchasing. The state entity designated by law, as specified in
+4 Section 1010.3 of Title 56 of the Oklahoma Statutes, shall
+5 participate in the purchase of pharmaceuticals available through
+6 such contracts;
+7 19. Contracts for managed health care services entered into by
+8 the state entity designated by law or the Department of Human
+9 Services, as specified in paragraph 1 of subsection A of Section
+10 1010.3 of Title 56 of the Oklahoma Statutes;
+11 20. Acquisitions by a state agency through a General Services
+12 Administration contract or other federal contract if the
+13 acquisitions are not on current statewide contract or the terms of
+14 the federal contract are more favorable to the agency than the terms
+15 of a statewide contract for the same products;
+16 21. Acquisitions of clothing for clients of the Department of
+17 Human Services and acquisitions of food for group homes operated by
+18 the Department of Human Services;
+19 22. Acquisitions by the Oklahoma Energy Resources Board;
+20 23. Acquisitions of clothing for juveniles in the custody of
+21 the Office of Juvenile Affairs and acquisitions of food for group
+22 homes operated by the Office of Juvenile Affairs;
+23
+24
+Req. No. 13922 Page 67
+
+1 24. State contracts for flexible benefits plans pursuant to the
+2 Oklahoma State Employees Benefits Act, Section 1361 et seq. of this
+3 title;
+4 25. Acquisitions by the Oklahoma Department of Securities to
+5 investigate, initiate, or pursue administrative, civil or criminal
+6 proceedings involving potential violations of the acts under the
+7 Department's jurisdiction and acquisitions by the Oklahoma
+8 Department of Securities for its investor education program;
+9 26. Acquisitions for resale in and through canteens operated
+10 pursuant to Section 537 of Title 57 of the Oklahoma Statutes and
+11 canteens established at an institution or facility operated by the
+12 Office of Juvenile Affairs;
+13 27. Acquisitions by the Oklahoma Boll Weevil Eradication
+14 Organization for employment and personnel services, and for
+15 acquiring sprayers, blowers, traps and attractants related to the
+16 eradication of boll weevils in this state or as part of a national
+17 or regional boll weevil eradication program;
+18 28. Contracts entered into by the Oklahoma Indigent Defense
+19 System for expert services pursuant to the provisions of subsection
+20 D of Section 1355.4 of Title 22 of the Oklahoma Statutes;
+21 29. Acquisitions by the Oklahoma Correctional Industries and
+22 the Agri-Services programs of the Department of Corrections of raw
+23 materials, component parts and other products, any equipment
+24 excluding vehicles, and any services excluding computer consultant
+Req. No. 13922 Page 68
+
+1 serv ices used to produce goods or services for resale and for the
+2 production of agricultural products;
+3 30. Contracts entered into by the Department of Human Services
+4 for provision of supported living services to members of the
+5 plaintiff class in Homeward Bound, Inc., et al. v. The Hissom
+6 Memorial Center, et al., Case Number 85-C-437-E, United States
+7 District Court for the Northern District of Oklahoma;
+8 31. Contracts negotiated by the Office of Juvenile Affairs with
+9 designated Youth Services Agencies and the Oklahoma Association of
+10 Youth Services, or another Oklahoma nonprofit corporation whose
+11 membership consists solely of Youth Services Agencies and of whom at
+12 least a majority of Youth Services Agencies are members, pursuant to
+13 the provisions of Section 2-7-306 of Title 10A of the Oklahoma
+14 Statutes and contracts entered into by the Department of Human
+15 Services pursuant to Section 1-9-110 of Title 10A of the Oklahoma
+16 Statutes with designated Youth Services Agencies;
+17 32. Contracts for annuities for structured settlements provided
+18 for in Section 158 of Title 51 of the Oklahoma Statutes;
+19 33. Subject to subsection E of this section, purchases made
+20 from funds received by local offices administered by the Department
+21 of Human Services or administered by the Office of Juvenile Affairs
+22 for fund-raising fundraising activities and donations for the
+23 benefit of clients and potential clients at the local offices where
+24
+Req. No. 13922 Page 69
+
+1 such purchases may not otherwise be paid for from appropriated
+2 funds;
+3 34. Acquisitions by the Oklahoma Historical Society for
+4 restoration of historical sites and museums although the agency may
+5 elect to utilize the Purchasing Division Department of Central
+6 Purchasing for an acquisition with supplier and bid selection being
+7 the prerogative of the agency, based on the supplier's documented
+8 qualifications and experience; and
+9 35. Acquisitions of clothing and food for patients in the care
+10 of the J.D. McCarty Center for Children with Developmental
+11 Disabilities.
+12 C. Pursuant to the terms of a contract the State Purchasing
+13 Director of the Department of Central Purchasing enters into or
+14 awards, a state agency, common school, municipality, rural fire
+15 protection district, county officer or any program contract,
+16 purchase, acquisition or expenditure that is not subject to the
+17 provisions of the Oklahoma Central Purchasing Act, may, unless
+18 acting pursuant to a contract with the state that specifies
+19 otherwise, make use of statewide contracts and the services of the
+20 Purchasing Division the Department of Central Purchasing and the
+21 State Purchasing Director of the Department of Central Purchasing.
+22 Any political subdivision or rural fire protection district may
+23 designate the State Purchasing Director of the Department of Central
+24
+Req. No. 13922 Page 70
+
+1 Purc hasing as its agent for any acquisition from a statewide
+2 contract or otherwise available to the state.
+3 D. The State Purchasing Director of the Department of Central
+4 Purchasing shall review and audit all the purchasing procedures of
+5 acquisitions listed in subsection B of this section to ensure that
+6 the procedures are being followed. Nothing in this section shall be
+7 construed to authorize bid splitting as prohibited by the Oklahoma
+8 Central Purchasing Act.
+9 E. With respect to the Department of Human Services or the
+10 Office of Juvenile Affairs, as applicable, monies received by
+11 fundraising activities or donations from the local office, vending
+12 operations administered by employees of the agency and all other
+13 nonrestricted cash and cash-equivalent items received by employees
+14 of the agency shall be deposited in the agency special account
+15 established for this purpose. The deposits shall be made at local
+16 banking institutions approved by the State Treasurer.
+17 F. With respect to the Oklahoma Tourism and Recreation
+18 Department, no exemption provided in this section shall be construed
+19 for the use of leasing or contracting for state-owned restaurants in
+20 Oklahoma state parks. The Department shall not be required to
+21 purchase furniture, fixtures, equipment, and soft goods associated
+22 with decor of the state parks, lodges, golf courses, and tourism
+23 information centers from Oklahoma prisons or reformatories.
+24
+Req. No. 13922 Page 71
+
+1 Additionally, the Department shall not be required to make
+2 purchases pursuant to a statewide contract for materials, supplies,
+3 and services necessary for the efficient and economical operation of
+4 revenue-generating, Department-operated facilities, including those
+5 made to maintain or improve guest perception of quality and service;
+6 provided, that the State Purchasing Director of the Department of
+7 Central Purchasing shall review and audit all uses of the exemptions
+8 provided in this subsection biannually.
+9 SECTION 11. AMENDATORY 74 O.S. 2021, Section 85.17A, is
+10 amended to read as follows:
+11 Section 85.17A. A. State agencies shall not discriminate
+12 against bidders from states or nations outside Oklahoma, except as
+13 provided by this section. State agencies shall reciprocate the
+14 bidding preference given by other states or nations to bidders
+15 domiciled in their jurisdictions for acquisitions pursuant to the
+16 Oklahoma Central Purchasing Act. The Purchasing Division Department
+17 of Central Purchasing shall provide to certified procurement
+18 officers information regarding the reciprocity provided by other
+19 states. This information shall be used by state agencies in
+20 evaluating bids.
+21 B. For purposes of awarding contracts state agencies shall:
+22 1. Give preference to goods and services that have been
+23 manufactured or produced in this state if the price, fitness,
+24 availability and quality are otherwise equal;
+Req. No. 13922 Page 72
+
+1 2. Give preference to goods and services from another state
+2 over foreign goods or services if goods or services manufactured or
+3 produced in this state are not equal in price, fitness, availability
+4 or quality; and
+5 3. Add a percent increase to the bid of a nonresident bidder
+6 equal to the percent, if any, of the preference given to the bidder
+7 in the state in which the bidder resides.
+8 SECTION 12. AMENDATORY 74 O.S. 2021, Section 85.33, is
+9 amended to read as follows:
+10 Section 85.33. A. There is hereby created in the State
+11 Treasury a revolving fund for the Office of Management and
+12 Enterprise Services Department of Central Purchasing to be
+13 designated the "Registration of State Vendors Revolving Fund". The
+14 fund shall consist of any monies received from fees collected in
+15 accordance with subsection B of this section. The revolving fund
+16 shall be a continuing fund, without legislative appropriation, not
+17 subject to fiscal year limitations, and shall be under the control
+18 and management of the Office of Management and Enterprise Services
+19 Department of Central Purchasing. Expenditures from the
+20 Registration of State Vendors Revolving Fund shall be budgeted and
+21 expended pursuant to the laws of the state and the statutes relating
+22 to public finance. The fund shall be used to defray the costs of
+23 the Purchasing Division Department of Central Purchasing. Warrants
+24 for expenditures from the fund shall be drawn by the State
+Req. No. 13922 Page 73
+
+1 Trea surer, based on claims signed by an authorized employee or
+2 employees of the Office, and approved for payment by the Director of
+3 the Office of Management and Enterprise Services Department of
+4 Central Purchasing.
+5 B. The Office of Management and Enterprise Services Department
+6 of Central Purchasing may collect a fee of Twenty-five Dollars
+7 ($25.00) to register suppliers that desire to do business with this
+8 state through the Purchasing Division Department of Central
+9 Purchasing. The suppliers shall register separately for each
+10 commodity list. Each registration shall entitle the supplier to be
+11 on that list for one (1) year, to receive all bid notices in that
+12 classification for that period. All fees collected in accordance
+13 with this subsection shall be deposited in the revolving fund
+14 created in subsection A of this section.
+15 SECTION 13. AMENDATORY 74 O.S. 2021, Section 85.33A, is
+16 amended to read as follows:
+17 Section 85.33A. A. There is hereby created in the State
+18 Treasury a revolving fund for the Office of Management and
+19 Enterprise Services Department of Central Purchasing to be
+20 designated the "Contract Management Revolving Fund". The fund shall
+21 consist of any monies received from fees, levies or rebates the
+22 Office Department receives in accordance with subsection B of this
+23 section. The revolving fund shall be a continuing fund, without
+24 legislative appropriation, not subject to fiscal year limitations,
+Req. No. 13922 Page 74
+
+1 and shall be under the control and management of the Office of
+2 Management and Enterprise Services Department of Central Purchasing.
+3 Expenditures from the Contract Management Revolving Fund shall be
+4 budgeted and expended pursuant to the laws of the this state and the
+5 statutes relating to public finance. The fund shall be used to
+6 defray the costs of the Purchasing Division Department of Central
+7 Purchasing. Warrants for expenditures from the fund shall be drawn
+8 by the State Treasurer, based on claims signed by an authorized
+9 employee or employees of the Office Department of Central
+10 Purchasing, and approved for payment by the Director of the Office
+11 of Management and Enterprise Services Department of Central
+12 Purchasing.
+13 B. The State Purchasing Director of the Department of Central
+14 Purchasing may enter into or award contracts that provide a contract
+15 management fee, levy or rebate to the Office of Management and
+16 Enterprise Services Department of Central Purchasing. The State
+17 Purchasing Director of the Department of Central Purchasing shall
+18 ensure that a contract that provides a management fee, levy or
+19 rebate provides value to acquiring agencies exceeding open market
+20 acquisition costs.
+21 SECTION 14. AMENDATORY 74 O.S. 2021, Section 85.41A, is
+22 amended to read as follows:
+23 Section 85.41A. A. Emergency acquisitions shall be made in
+24 compliance with Section 85.39 of Title 74 of the Oklahoma Statutes
+Req. No. 13922 Page 75
+
+1 this title regarding internal purchasing procedures, Section 85.5a
+2 of Title 74 of the Oklahoma Statutes this title regarding the
+3 purchasing card program and applicable rules but are not subject to
+4 other provisions of the Oklahoma Central Purchasing Act. The
+5 following are emergency acquisitions:
+6 1. An acquisition declared as an emergency by a state agency;
+7 2. An acquisition to alleviate a serious environmental
+8 emergency if, upon receiving a request from the Chair of the
+9 Corporation Commission and after having examined the facts and
+10 circumstances of the case, the Governor certifies in writing the
+11 existence of a serious environmental emergency. For the purposes of
+12 this subsection, "serious environmental emergency" means a situation
+13 within the jurisdiction of the Commission:
+14 a. in which serious damage to the environment will
+15 quickly occur if immediate action is not taken and the
+16 damage will be so significant that the urgent need for
+17 action outweighs the need for competitive bids, or
+18 b. a situation in which human life or safety is in
+19 imminent danger or significant property interests are
+20 threatened with imminent destruction;
+21 3. An acquisition of livestock through a market agency, dealer,
+22 commission house or livestock auction market bonded or licensed
+23 under federal or state law for the acquisition or collection of
+24
+Req. No. 13922 Page 76
+
+1 seme n or embryos, and for the placement of embryos into recipient
+2 livestock;
+3 4. An acquisition by a state agency pursuant to a contract with
+4 the United States Army Corps of Engineers for emergency response or
+5 to protect the public health, safety or welfare;
+6 5. An acquisition declared by the Office of Management and
+7 Enterprise Services (OMES) Department of Central Purchasing Risk
+8 Management Administrator pursuant to Section 85.58A of Title 74 of
+9 the Oklahoma Statutes this title; or
+10 6. A condition certified by the Governor as an emergency.
+11 B. Notwithstanding a state agency's exemption from requisition
+12 and competitive bidding requirements, a state agency making an
+13 emergency acquisition shall timely provide the Purchasing Division
+14 within OMES Department of Central Purchasing all information
+15 required by the State Purchasing Director of the Department of
+16 Central Purchasing.
+17 SECTION 15. AMENDATORY 74 O.S. 2021, Section 85.44D.1,
+18 is amended to read as follows:
+19 Section 85.44D.1. A. 1. A sole source acquisition is exempt
+20 from competitive bidding procedures as a sole source or requirements
+21 of this act, but a sole brand acquisition is subject to such
+22 competitive bidding requirements.
+23 2. For each sole source or sole brand acquisition, the state
+24 agency shall retain in the state agency's acquisition file and
+Req. No. 13922 Page 77
+
+1 atta ch to the requisition, a certification signed by the chief
+2 administrative officer of the state agency, in the following form:
+3 SOLE SOURCE OR SOLE BRAND ACQUISITION
+4 CERTIFICATION
+5 STATE AGENCY ________________________
+6 SUPPLIER NAME ________________________
+7 SUPPLIER ADDRESS ________________________
+8 SUPPLIER CONTACT INFORMATION ________________________
+9 In connection with the attached requisition or contract, I
+10 hereby affirm that
+11 (Name of Supplier)
+12 is the only business entity singularly qualified to provide the
+13 acquisition, or is the only brand satisfying the acquisition
+14 requirements, for the following reasons:
+15 ______________________________________________________
+16 ______________________________________________________
+17 ______________________________________________________
+18 ______________________________________________________
+19 ______________________________________________________
+20 The following is a brief description of all efforts made to
+21 verify that the acquisition qualifies as a sole source or sole brand
+22 acquisition:
+23 ______________________________________________________
+24 ______________________________________________________
+Req. No. 13922 Page 78
+
+1 ______________________________________________________
+2 ______________________________________________________
+3 ______________________________________________________
+4 I understand that the signing of this certification knowing such
+5 information to be false may result in forfeiture of my position and
+6 ineligibility for appointment to or employment in state service for
+7 a period of five (5) years following forfeiture of position.
+8 _____________________________
+9 (Chief administrative officer)
+10 3. A court order requiring a particular acquisition, but which
+11 does not specify a brand or supplier shall not substitute for the
+12 certification required by this section or otherwise invalidate
+13 acquisition procedures required by the Oklahoma Central Purchasing
+14 Act.
+15 4. Upon a determination by the Director of the Office of
+16 Management and Enterprise Services Director of the Department of
+17 Central Purchasing that there are reasonable grounds to believe that
+18 a violation of this section has occurred, the Director shall send
+19 findings to the Attorney General that support the determination.
+20 The Attorney General shall review the findings and determine whether
+21 to investigate or prosecute the person.
+22 5. Prior to approving a requisition for a sole source or sole
+23 brand acquisition, the Purchasing Division Department of Central
+24 Purchasing shall require the signed certification documenting the
+Req. No. 13922 Page 79
+
+1 need for a sole source or sole brand acquisition and shall retain
+2 the certification in accordance with state record retention
+3 requirements.
+4 6. For a sole source or sole brand acquisitions exceeding the
+5 fair and reasonable acquisition threshold amount and not requiring
+6 submission of a requisition to the Purchasing Division Department of
+7 Central Purchasing, the state agency's certified procurement officer
+8 shall retain, in the acquisition file, the signed certification
+9 documenting the need for the sole source or sole brand acquisition
+10 in accordance with state record retention requirements.
+11 B. By the fifteenth day of each month, or the first working day
+12 thereafter, the Office of Management and Enterprise Services
+13 Department of Central Purchasing shall provide a report to:
+14 1. The Speaker of the House of Representatives and the
+15 President Pro Tempore of the Senate; and
+16 2. Any member of the Legislature requesting the report.
+17 The report shall detail sole source and sole brand acquisitions
+18 by state agencies for the month prior to the month preceding the
+19 submission of the report. The report shall be titled "Monthly Sole
+20 Source and Sole Brand Contracting Report of Oklahoma State Agencies"
+21 and indicate the time period of the report. The report shall be
+22 provided by the Director of the Office of Management and Enterprise
+23 Services Department of Central Purchasing or the Director's
+24 designee. The report shall be in columnar database format and shall
+Req. No. 13922 Page 80
+
+1 incl ude at least the following fields of information: state agency
+2 number; state agency name; date created by the Office of Management
+3 and Enterprise Services Department of Central Purchasing for the
+4 requisition; date of either approval or disapproval of the
+5 requisition; if disapproved, the reason why such contract
+6 requisition was disapproved; estimated amount of the requisition
+7 acquisition; purchase order amount; purchase order number; actual
+8 business name of supplier; supplier federal employer identification
+9 number; and the commodity classification listing at the appropriate
+10 level to distinguish between similar acquisitions. Information
+11 required by this subsection shall be reported and maintained on each
+12 report through the next reporting period after an acquisition is
+13 made. The applicable data in the fields of information specified in
+14 this subsection shall be listed even if the state agency requisition
+15 is disapproved.
+16 SECTION 16. AMENDATORY 74 O.S. 2021, Section 85.45j.11,
+17 is amended to read as follows:
+18 Section 85.45j.11. A. There is hereby created the "Oklahoma
+19 Supplier Diversity Initiative", which shall be a state-sponsored
+20 supplier diversity program to provide a resource for state agencies
+21 and private businesses to utilize diverse firms in procurement
+22 opportunities to encourage growth in the economy of the state. The
+23 program shall provide convenience for qualified and certified small
+24
+Req. No. 13922 Page 81
+
+1 busi ness enterprises and minority business enterprises in
+2 contracting projects in underserved areas.
+3 B. The program shall allow diverse business enterprises to
+4 register with the Office of Management and Enterprise Services
+5 Department of Central Purchasing and allow registered vendors to be
+6 automatically notified of opportunities to do business with the
+7 state for specific commodities. The program shall provide for
+8 simplified vendor registration processes.
+9 C. The program shall authorize the Oklahoma Department of
+10 Commerce to develop a diversity certification program to qualify and
+11 certify diverse business enterprises for the state.
+12 D. To qualify for the program, businesses shall have less than
+13 five hundred total employees, an annual revenue equal to or less
+14 than Twenty-five Million Dollars ($25,000,000.00) and be certified
+15 as one of the following:
+16 1. An Oklahoma Department of Transportation Disadvantaged
+17 Business Enterprise;
+18 2. Any of the following entities certified by the United States
+19 Small Business Administration:
+20 a. Woman-Owned Small Business,
+21 b. Minority-Business Enterprise,
+22 c. Small Disadvantaged Business,
+23 d. Service-disabled Veteran-Owned Small Business,
+24 e. HUBZone Small Business Concern, and
+Req. No. 13922 Page 82
+
+1 f. 8(a) Business Development Program;
+2 3. A Native American-owned Business; or
+3 4. A Veteran-owned Business.
+4 E. The Central Purchasing Division of the Office of Management
+5 and Enterprise Services Department of Central Purchasing shall:
+6 1. Amend the vendor registration process to require diversity
+7 certification check off and size standard information; and
+8 2. Create a search tool for all state agencies and public or
+9 private entities to utilize to obtain contact information for
+10 diverse firms for the purpose of promoting procurement opportunities
+11 within the state.
+12 F. On or before September 1 of each year, the State Purchasing
+13 Director shall submit a report to the Governor, the Speaker of the
+14 House of Representatives and the President Pro Tempore of the Senate
+15 on the status of the percentile of state funds expended on contracts
+16 awarded to a certified Oklahoma Department of Transportation
+17 Disadvantaged Business Enterprise and all of the entities certified
+18 by the United States Small Business Administration mentioned in
+19 subsection D of this section in the preceding fiscal year. The
+20 report may include related economic impacts when applicable. The
+21 report, statistics or other information concerning the participation
+22 in the program shall be retained by the Office of Management and
+23 Enterprise Services Department of Central Purchasing.
+24
+Req. No. 13922 Page 83
+
+1 G. The Oklahoma Department of Commerce shall promulgate rules
+2 to create and administer the Oklahoma Supplier Diversity Initiative.
+3 SECTION 17. AMENDATORY 74 O.S. 2021, Section 85.45k, is
+4 amended to read as follows:
+5 Section 85.45k. A. There is hereby created the State Travel
+6 Office within the Purchasing Division of the Office of Management
+7 and Enterprise Services Department of Central Purchasing.
+8 B. All state agencies and departments of this state may make
+9 arrangements for all air travel on scheduled commercial airlines for
+10 state employees required to travel in the course of their official
+11 duties and for all other persons traveling at state expense through
+12 the State Travel Office, except when the state agency determines
+13 that:
+14 1. The air travel services can be secured at a cost less than
+15 that which can be secured by the State Travel Office; or
+16 2. The air travel originates from a location outside the state
+17 and it would be impractical to arrange for the air travel through
+18 the State Travel Office; or
+19 3. The air travel is necessitated by an emergency and time does
+20 not permit utilization of the State Travel Office's services; or
+21 4. The air travel is part of a package arrangement made by the
+22 organization scheduling the meeting or conference.
+23 C. All claims made for reimbursement shall contain a statement
+24 showing the reason for the exemption.
+Req. No. 13922 Page 84
+
+1 D. The State Travel Office shall promulgate rules and contract
+2 specifications to which the contract travel agencies shall be
+3 subject. The rules and specifications shall be drawn with the
+4 intent of obtaining the lowest available fares for scheduled
+5 commercial air travel.
+6 E. At the end of each month the contract travel agencies shall
+7 furnish a statement, if requested, in a form approved by the State
+8 Travel Office, showing certain details of all travel arrangements
+9 handled to each state agency for which the contract travel agencies
+10 have furnished their services and shall also furnish copies of the
+11 statements to the State Travel Office.
+12 SECTION 18. AMENDATORY 74 O.S. 2021, Section 85.54, is
+13 amended to read as follows:
+14 Section 85.54. A. The Purchasing Division Department of
+15 Central Purchasing shall review the procurement specifications
+16 currently used by the Office of Management and Enterprise Services
+17 Department of Central Purchasing in order to eliminate, wherever
+18 economically feasible, discrimination against the procurement of
+19 recycled paper and other products manufactured with recycled
+20 materials.
+21 B. The Division Department shall establish purchasing practices
+22 which, to the maximum extent economically feasible, assure purchase
+23 of recycled paper products.
+24
+Req. No. 13922 Page 85
+
+1 C. The Director of the Office of Management and Enterprise
+2 Services Department of Central Purchasing shall review and
+3 incorporate, where appropriate, guidelines published in the Federal
+4 Register.
+5 D. The Director shall promulgate rules to encourage recycling
+6 and conservation of purchased products.
+7 SECTION 19. AMENDATORY 74 O.S. 2021, Section 85.58Q, is
+8 amended to read as follows:
+9 Section 85.58Q. The Purchasing Division of the Office of
+10 Management and Enterprise Services Department of Central Purchasing
+11 is directed to purchase from the lowest bidder a surety contract or
+12 contracts in the form known as a "blanket bond" to cover all
+13 elective state officers, appointive officers, and employees in the
+14 manner provided in this section. No other bond shall be acceptable
+15 as surety for any elected or appointed officer or employee of this
+16 state in lieu of said blanket bond. For purposes of Sections 85.26
+17 through 85.31 of this title, a "blanket bond" is defined as a public
+18 employees' blanket position bond which covers all employees up to
+19 the penalty of the bond for each employee and the full penalty of
+20 the bond is always in force during its term and no restoration is
+21 necessary and there is no additional premium after a loss is paid.
+22 SECTION 20. AMENDATORY 74 O.S. 2021, Section 85.58T, is
+23 amended to read as follows:
+24
+Req. No. 13922 Page 86
+
+1 Section 85.58T. The amount of surety required for each state
+2 officer or employee pursuant to Sections 85.26 through 85.31 of this
+3 title is as follows:
+4 DEPARTMENT AMOUNT OF BOND
+5 Office of the State Treasurer $300,000.00
+6 Oklahoma Employment Security
+7 Commission $150,000.00
+8 Central Services Division of the
+9 Office of Management and Enterprise
+10 Services 100,000.00
+11 Insurance Commission 100,000.00
+12 Office of the State Auditor and
+13 Inspector 50,000.00
+14 Finance Division of the Office of
+15 Management and Enterprise Services 50,000.00
+16 Bank Commissioner 50,000.00
+17 Commissioners of the Land Office 50,000.00
+18 Oklahoma Securities Commission 50,000.00
+19 Oklahoma Tax Commission 50,000.00
+20 Department of Human Services 50,000.00
+21 Oklahoma Public Employees Retirement
+22 System 50,000.00
+23 Corporation Commission 50,000.00
+24 State Board of Education 50,000.00
+Req. No. 13922 Page 87
+
+1 Fi nance Division 150,000.00
+2 All Others 25,000.00
+3 Department of Transportation 25,000.00
+4 Boards of Regents of Oklahoma
+5 Universities and Colleges 50,000.00
+6 Office of Attorney General 10,000.00
+7 The University Hospitals 50,000.00
+8 All Other State Departments, Agencies,
+9 Institutions, Commissions,
+10 Authorities, and other bodies of
+11 state government 10,000.00
+12 Provided, however, that nothing in The Oklahoma Central
+13 Purchasing Act shall prohibit any head of a department, institution,
+14 agency, commission, authority or other body of state government from
+15 requiring the Central Purchasing Division Department of Central
+16 Purchasing to purchase increased amounts of blanket bond coverage
+17 for his or her employees up to a total maximum coverage of Fifty
+18 Thousand Dollars ($50,000.00) when the listed amount is deemed
+19 inadequate. The cost of increased coverage shall be borne by the
+20 department, institution, agency, commission, authority or other body
+21 of state government requesting the increased coverage.
+22 SECTION 21. AMENDATORY 74 O.S. 2021, Section 85.58V, is
+23 amended to read as follows:
+24
+Req. No. 13922 Page 88
+
+1 Section 85.58V. A. Whenever any officer, statutory board,
+2 commission, committee, department, authority, or any state agent or
+3 agency by whatever name called, is authorized by any law of this
+4 state to purchase any official bond, surety bond, blanket bond, or
+5 surety contract upon any state officer or employee, the authority is
+6 hereby transferred and conferred upon the Purchasing Division of the
+7 Office of Management and Enterprise Services Department of Central
+8 Purchasing. The authority shall be exercised by the Purchasing
+9 Division Department of Central Purchasing in the manner pursuant to
+10 the provisions and requirements prescribed by Section 85.58A of this
+11 title.
+12 B. The premium for a bond will be invoiced to the Purchasing
+13 Division Department of Central Purchasing and paid for by
+14 legislative appropriation set aside for that specific purpose.
+15 C. If the legislative appropriation is insufficient to meet the
+16 cost of a bond, the State Purchasing Director of the Department of
+17 Central Purchasing in conjunction with the State Risk Administrator
+18 shall assess each entity covered by the bond a pro rata share of the
+19 excess cost amount.
+20 D. A blanket bond shall be approved as to form and legal
+21 sufficiency by the general counsel of the Office of Management and
+22 Enterprise Services Department of Central Purchasing and shall be
+23 filed with the Director of the Office of Management and Enterprise
+24 Services Department of Central Purchasing.
+Req. No. 13922 Page 89
+
+1 SECTION 22. AMENDATORY 74 O.S. 2021, Section 3001, as
+2 amended by Section 1, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2025,
+3 Section 3001), is amended to read as follows:
+4 Section 3001. A. There is hereby created in the Office of
+5 Management and Enterprise Services Department of Central Purchasing
+6 an advisory council to be known as the "State Use Advisory Council".
+7 The Council shall consist of seven (7) members:
+8 1. A private citizen conversant with the employment needs of
+9 people with significant disabilities who shall be appointed by and
+10 serve at the pleasure of the Governor to act as an advocate for the
+11 employment needs of people with significant disabilities;
+12 2. The Director of the Office of Management and Enterprise
+13 Services Department of Central Purchasing or designee;
+14 3. The Director of the Department of Rehabilitation Services,
+15 or designee;
+16 4. One member who shall be a state use provider who shall be
+17 appointed by the President Pro Tempore of the Senate;
+18 5. An individual or a parent or guardian of an individual with
+19 significant disabilities who participates in vocational programming
+20 through a qualified nonprofit agency for individuals with
+21 disabilities, to be appointed by the Speaker of the House of
+22 Representatives;
+23 6. The Director of Human Services, or designee; and
+24
+Req. No. 13922 Page 90
+
+1 7. A person employed by the Office of Management and Enterprise
+2 Services Central Purchasing Division Department of Central
+3 Purchasing as a contracting officer, appointed by the State
+4 Purchasing Director of the Department of Central Purchasing.
+5 B. The private citizens on the Council shall serve for a period
+6 of two (2) years and may be reappointed by the appointing authority.
+7 Any private citizen appointed pursuant to this section to fill a
+8 vacancy occurring prior to the expiration of the term for which the
+9 predecessor was appointed shall be appointed only for the remainder
+10 of the term.
+11 The State Use Advisory Council shall meet a minimum of twice a
+12 year for the purpose of exchanging ideas to market and improve the
+13 State Use Program.
+14 SECTION 23. AMENDATORY Section 2, Chapter 252, O.S.L.
+15 2022 (74 O.S. Supp. 2025, Section 3001.1), is amended to read as
+16 follows:
+17 Section 3001.1. The State Purchasing Director of the Department
+18 of Central Purchasing, under the supervision of the Director of the
+19 Office of Management and Enterprise Services Department of Central
+20 Purchasing, shall have authority and responsibility to administer
+21 and oversee the State Use Program including but not limited to:
+22 1. Promulgating rules relating to the program;
+23 2. Qualification of organizations participating in the program;
+24
+Req. No. 13922 Page 91
+
+1 3. Contracting with qualified organizations for products and
+2 services to be included on the procurement schedule;
+3 4. Determination of fair market price of all products and
+4 services to be included on the procurement schedule; and
+5 5. Designation and publication of a procurement schedule.
+6 SECTION 24. AMENDATORY 74 O.S. 2021, Section 3003, as
+7 amended by Section 3, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2025,
+8 Section 3003), is amended to read as follows:
+9 Section 3003. As used in Section 3001 et seq. of this title:
+10 1. "Blind person" means a person having a visual acuity not to
+11 exceed 20/200 in the better eye, with correcting lenses, or visual
+12 acuity greater than 20/200 but with limitation in the field of
+13 vision such that the widest diameter of visual field subtends an
+14 angle no greater than twenty (20) degrees;
+15 2. "Council" means the State Use Advisory Council;
+16 3. "Qualified nonprofit agency for the employment of people
+17 with significant disabilities" means a nonprofit agency employing
+18 persons with significant disabilities who constitute at least
+19 seventy-five percent (75%) of the direct labor hours engaged in
+20 direct production, manufacturing, processing and/or assembling of
+21 products or services offered by the agency for procurement by this
+22 state or who meet the definition of blind person as provided for in
+23 paragraph 1 of this section, or which is certified as a sheltered
+24
+Req. No. 13922 Page 92
+
+1 work shop by the Wage and Hour Division of the United States
+2 Department of Labor;
+3 4. "Person with significant disabilities" means an individual
+4 with a physical or mental disability constituting a substantial
+5 handicap to employment and preventing the person from engaging in
+6 normal competitive employment and/or includes any blind person;
+7 5. "Qualified organization" means a blind person or qualified
+8 nonprofit agency for the employment of people with significant
+9 disabilities contracting to supply goods or services;
+10 6. "Manufactured" means goods made by manual labor;
+11 7. "Produced" means to have brought into existence or created
+12 from raw materials;
+13 8. "Processed" means the action of taking something through an
+14 established and mostly routine set of procedures or steps to
+15 substantially convert a potential product from one form to another.
+16 This action involves a sequence of multiple steps each requiring a
+17 distinct decision-making process to evolve a potential product to
+18 the next step;
+19 9. "Assemble" means to put or fit together or put together the
+20 parts of a potential product;
+21 10. "Central nonprofit agency (CNA)" means a qualified 501(c)3
+22 nonprofit entity meeting the qualifications in the Request for
+23 Procurement (RFP) issued by the Office of Management and Enterprise
+24
+Req. No. 13922 Page 93
+
+1 Serv ices Department of Central Purchasing selected to administer and
+2 oversee the State Use Program; and
+3 11. "Procurement schedule" means a designated schedule of
+4 products and services currently approved by the Office of Management
+5 and Enterprise Services Central Purchasing Division Department of
+6 Central Purchasing as suitable to procure from qualified
+7 organizations participating in the State Use Program.
+8 SECTION 25. AMENDATORY 74 O.S. 2021, Section 3004, as
+9 amended by Section 4, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2025,
+10 Section 3004), is amended to read as follows:
+11 Section 3004. The Office of Management and Enterprise Services
+12 Central Purchasing Division Department of Central Purchasing shall
+13 designate and distribute by regulation a schedule, hereinafter
+14 referred to as the procurement schedule, of the products directly
+15 manufactured, produced, processed or assembled or services directly
+16 performed, offered or provided by any person with significant
+17 disabilities or qualified nonprofit agency for the employment of
+18 people with significant disabilities, as defined in Section 3003 of
+19 this title, which the State Purchasing Director of the Department of
+20 Central Purchasing determines are suitable for procurement by the
+21 state. The products and services on contract will be published on
+22 the procurement schedule and will be designated as mandatory. The
+23 Office of Management and Enterprise Services Central Purchasing
+24 Division Department of Central Purchasing shall have the authority
+Req. No. 13922 Page 94
+
+1 to q ualify organizations for inclusion in the State Use Program,
+2 monitor qualified organizations for continued compliance to remain
+3 active in the program, and remove organizations from the program.
+4 The Department of Central Purchasing shall have the authority to
+5 award and manage contracts to the qualified organizations as well as
+6 to renegotiate or cancel contracts when appropriate.
+7 SECTION 26. AMENDATORY 74 O.S. 2021, Section 3004.1, as
+8 amended by Section 5, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2025,
+9 Section 3004.1), is amended to read as follows:
+10 Section 3004.1. The State Purchasing Director of the Department
+11 of Central Purchasing may enter or award contracts for products or
+12 services to a qualified organization as defined in Section 3003 of
+13 this title and assess a contract management fee or levy. The
+14 contract management fee or levy shall be deposited in the State Use
+15 Advisory Council Revolving Fund, as created in Section 3004.2 of
+16 this title, for the salary, administrative costs, annual trainings,
+17 professional association memberships, qualified agency operational
+18 improvement grants, periodic economic advantage study, Annual Report
+19 development, and other expenses incurred by the Central Purchasing
+20 Division of the Office of Management and Enterprise Services
+21 Department of Central Purchasing for promoting goods and services
+22 provided by qualified organizations.
+23
+24
+Req. No. 13922 Page 95
+
+1 SECTION 27. AMENDATORY 74 O.S. 2021, Section 3004.2, as
+2 amended by Section 6, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2025,
+3 Section 3004.2), is amended to read as follows:
+4 Section 3004.2. There is hereby created in the State Treasury a
+5 revolving fund for the Office of Management and Enterprise Services
+6 Department of Central Purchasing to be designated the "State Use
+7 Advisory Council Revolving Fund". The fund shall be a continuing
+8 fund, not subject to fiscal year limitations, and shall consist of
+9 all proceeds from the management fee or levy on contracts for
+10 purchases of products or services of people with significant
+11 disabilities, as provided in Section 3004.1 of this title. The fund
+12 shall be invested in any of the types of instruments in which the
+13 State Treasurer is authorized by law to invest. Interest earned
+14 shall be retained by the fund. All monies accruing to the credit of
+15 the fund are hereby appropriated and may be budgeted and expended by
+16 the Office of Management and Enterprise Services Department of
+17 Central Purchasing for the salary and other administrative expenses
+18 of the buyer and clerical and technical support in the Central
+19 Purchasing Division of the Office of Management and Enterprise
+20 Services Department of Central Purchasing responsible for contracts
+21 for the products and services of people with significant
+22 disabilities and expenses the Office Department incurs to support
+23 State Use operations including services of the Centralized Non-
+24 Profit Agency (CNA). Expenditures from the fund shall be made upon
+Req. No. 13922 Page 96
+
+1 warr ants issued by the State Treasurer against claims filed as
+2 prescribed by law with the Director of the Office of Management and
+3 Enterprise Services Department of Central Purchasing for approval
+4 and payment.
+5 SECTION 28. AMENDATORY 74 O.S. 2021, Section 3005, as
+6 amended by Section 7, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2025,
+7 Section 3005), is amended to read as follows:
+8 Section 3005. The Office of Management and Enterprise Services
+9 Central Purchasing Division Department of Central Purchasing shall
+10 determine the fair market price of all products and services
+11 included in the procurement schedule and shall revise such prices in
+12 accordance with changing market conditions; provided, however, a
+13 change in price shall not be effective prior to the expiration of
+14 thirty (30) days from the date on which such change is approved.
+15 Approved fair market prices shall be reflected on State Use
+16 contracts and procurement schedules within thirty (30) days of
+17 approval and distribution.
+18 SECTION 29. AMENDATORY 74 O.S. 2021, Section 3006, as
+19 amended by Section 8, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2025,
+20 Section 3006), is amended to read as follows:
+21 Section 3006. The State Purchasing Director of the Department
+22 of Central Purchasing may contract with a central nonprofit agency
+23 to facilitate:
+24 1. Management of the day-to-day operations of the program;
+Req. No. 13922 Page 97
+
+1 2. The facilitation, promotion, and the distribution of orders
+2 of the state for products or services on the procurement schedule
+3 among qualified nonprofit agencies for people with significant
+4 disabilities;
+5 3. Scheduling and conducting annual training sessions;
+6 4. Publishing the approved State Use Procurement Schedule;
+7 5. Promotion of the State Use Program through development and
+8 distribution of program marketing material, promotion of program
+9 through continued contact with current and future customers; and
+10 6. All other duties assigned by the RFP through the Office of
+11 Management and Enterprise Services Department of Central Purchasing.
+12 SECTION 30. AMENDATORY 74 O.S. 2021, Section 3007, as
+13 amended by Section 9, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2025,
+14 Section 3007), is amended to read as follows:
+15 Section 3007. A. Whenever this state or any of its agencies
+16 intends to procure any product or service included in the
+17 procurement schedule, that entity shall secure the product or
+18 service from a qualified nonprofit agency providing employment to
+19 people with significant disabilities at the fair market price
+20 determined by the Office of Management and Enterprise Services
+21 Central Purchasing Division Department of Central Purchasing, if the
+22 product or service is available within the period required by the
+23 entity and meets the specifications of the entity.
+24
+Req. No. 13922 Page 98
+
+1 B. An agency of this state shall not evade the intent and
+2 meaning of this section by slight variations from standards adopted
+3 by the Office of Management and Enterprise Services Central
+4 Purchasing Division Department of Central Purchasing.
+5 C. Provided, the requirements of this section shall not apply
+6 to the procurement of janitorial services by the Oklahoma State
+7 Bureau of Investigation. The Bureau shall conduct background
+8 investigations and national criminal history record checks on
+9 companies and individuals with which it contracts to provide
+10 janitorial services.
+11 D. Any municipality or county agency of this state is
+12 authorized to purchase products and services from any qualified
+13 organization as defined in Section 3003 of this title. The
+14 qualified organization shall be able to meet the needs and
+15 specifications for the products or services required by the
+16 purchasing body at the fair market price. Procurements made
+17 pursuant to the provisions of this section shall not be subject to
+18 competitive bid requirements.
+19 SECTION 31. AMENDATORY 74 O.S. 2021, Section 3008, as
+20 amended by Section 10, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2025,
+21 Section 3008), is amended to read as follows:
+22 Section 3008. A. Nothing in Section 3001 et seq. of this title
+23 pursuant to purchases of products and services from people with
+24 significant disabilities shall be construed to prohibit any
+Req. No. 13922 Page 99
+
+1 depa rtment or agency of the state from manufacturing or supplying
+2 its own products or services for its own use. Procurements made
+3 pursuant to Section 3001 et seq. of this title shall not be subject
+4 to the competitive bid requirements of the Oklahoma Central
+5 Purchasing Act, Section 85.1 et seq. of this title.
+6 B. The Office of Management and Enterprise Services Central
+7 Purchasing Division Department of Central Purchasing shall require
+8 an annual qualified organization pricing review for all products and
+9 services approved and designated on the procurement schedule. The
+10 method of the pricing review shall be defined in the promulgated
+11 rules.
+12 C. When the fair market price for a product or service approved
+13 by the Office of Management and Enterprise Services Central
+14 Purchasing Division Department of Central Purchasing exceeds a
+15 current market price for the same product or service and such lower
+16 market price has been verified by the agency through compliance with
+17 the fair market analysis process approved by the Office of
+18 Management and Enterprise Services Central Purchasing Division
+19 Department of Central Purchasing, the State Use contracting officer
+20 may grant a temporary exception to a requesting agency so that the
+21 agency may purchase the product or service from the supplier
+22 offering the lower market price.
+23
+24
+Req. No. 13922 Page 100
+
+1 SECTION 32. AMENDATORY 74 O.S. 2021, Section 3009, as
+2 amended by Section 11, Chapter 252, O.S.L. 2022 (74 O.S. Supp. 2025,
+3 Section 3009), is amended to read as follows:
+4 Section 3009. A. The Office of Management and Enterprise
+5 Services Central Purchasing Division Department of Central
+6 Purchasing shall prescribe rules to carry out the purposes of the
+7 provisions of Sections 3001 through 3009 of this title.
+8 B. The rules shall include requirements for:
+9 1. Publishing a catalog listing goods and services and jobs
+10 that qualified agencies employing people with significant
+11 disabilities can provide the state, annually; and
+12 2. Conducting a minimum of two meetings per year of the State
+13 Use Council, in compliance with the Oklahoma Open Meeting Act,
+14 Section 301 et seq. of Title 25 of the Oklahoma Statutes.
+15 C. On an annual basis, the Office of Management and Enterprise
+16 Services Department of Central Purchasing shall, within sixty (60)
+17 days after the close of the fiscal year, transmit a strategic plan
+18 for the State Use Program to the President Pro Tempore of the
+19 Senate, the Speaker of the House of Representatives and the
+20 Governor.
+21 SECTION 33. AMENDATORY 74 O.S. 2021, Section 4191, is
+22 amended to read as follows:
+23 Section 4191. A. The Director of the Office of Management and
+24 Enterprise Services Department of Central Purchasing shall establish
+Req. No. 13922 Page 101
+
+1 and administer child care centers with funds available for that
+2 purpose.
+3 B. The Director of the Office of Management and Enterprise
+4 Services Department of Central Purchasing may approve a consortium,
+5 partnership, cooperative or agreement to provide child care centers
+6 with other public or private employers.
+7 C. The child care centers shall be operated through a contract
+8 with child care providers. Specifications for a contract shall be
+9 developed with the assistance of, and subject to the approval of,
+10 the Director of the Office of Management and Enterprise Services
+11 Department of Central Purchasing. Any such contract shall be made
+12 through the Central Purchasing Division of the Office of Management
+13 and Enterprise Services Department of Central Purchasing. The low
+14 bid will not be the single qualifier. Any child care provider shall
+15 be required to carry sufficient liability insurance coverage which
+16 will pay damages incurred as a result of the negligent acts or
+17 omissions of an employee of the child care provider within the scope
+18 of the employment of such person. Any child care provider shall
+19 meet or exceed applicable state child care facilities licensure
+20 standards.
+21 D. Nothing in this section shall prevent the Director from
+22 utilizing paragraph 13 of Section 85.5 of this title and paragraph 3
+23 of subsection A of Section 85.7 of this title to continue the
+24 operation of a child care center with emergency contracts when the
+Req. No. 13922 Page 102
+
+1 serv ice provider's contract is canceled or terminated before another
+2 qualified service provider is procured. The employees of the Office
+3 of Management and Enterprise Services Department of Central
+4 Purchasing shall not be employed to operate the centers.
+5 E. Any parent utilizing the services of a child care center
+6 shall be responsible for the charges assessed by the child care
+7 provider for child care services.
+8 SECTION 34. AMENDATORY 80 O.S. 2021, Section 34.2, is
+9 amended to read as follows:
+10 Section 34.2. A. The Director of the Office of Management and
+11 Enterprise Services Department of Central Purchasing shall appoint
+12 and fix the duties and compensation of a Surplus Property Agent.
+13 The Purchasing Division of the Office of Management and Enterprise
+14 Services Department of Central Purchasing shall purchase for the
+15 Surplus Property Agent a bond payable to the State of Oklahoma in
+16 the sum of Fifty Thousand Dollars ($50,000.00), conditioned for the
+17 faithful performance of the duties of the Surplus Property Agent.
+18 B. Pursuant to the provisions of Sections 34.1 through 34.6 of
+19 this title, the Director of the Office of Management and Enterprise
+20 Services Department of Central Purchasing shall promulgate rules for
+21 acquisition of surplus property by the Surplus Property Agent, state
+22 departments, institutions and agencies, and other authorized
+23 entities. The rules shall provide for the determination of a
+24 reasonable fee to assess the state departments, institutions and
+Req. No. 13922 Page 103
+
+1 agen cies, and other authorized entities for surplus property. The
+2 fee determination shall include costs the Surplus Property Agent
+3 incurs to acquire, warehouse, distribute, and other administrative
+4 costs and expenses.
+5 SECTION 35. This act shall become effective November 1, 2026.
+6
+7 60-2-13922 MJ 01/06/26
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 13922 Page 104

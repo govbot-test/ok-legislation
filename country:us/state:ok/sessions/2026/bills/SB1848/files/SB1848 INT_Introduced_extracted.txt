@@ -1,0 +1,2358 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1848 By: Sacchieri
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to incentives; amending 62 O.S. 2021,
+7
+Sections 860, as amended by Section 1, Chapter 145,
+8
+O.S.L. 2023, and 861 (62 O.S. Supp. 2025, Section
+8
+860), which relate to the Local Development Act;
+9
+prohibiting certain establishments from receiving
+9
+incentives or exemptions; prohibiting certain
+10
+districts from including the property of certain
+10
+establishments; amending 68 O.S. 2021, Section 2902,
+11
+as last amended by Section 1, Chapter 411, O.S.L.
+11
+2025 (68 O.S. Supp. 2025, Section 2902), which
+12
+relates to the exemption from ad valorem tax for
+12
+manufacturing facilities; limiting authorization for
+13
+exemption for certain facilities to certain period;
+13
+updating statutory language; updating statutory
+14
+references; and providing an effective date.
+14
+15
+15
+16
+16
+17
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17
+18
+SECTION 1. AMENDATORY 62 O.S. 2021, Section 860, as
+18
+19
+amended by Section 1, Chapter 145, O.S.L. 2023 (62 O.S. Supp. 2025,
+19
+20
+Section 860), is amended to read as follows:
+20
+21
+Section 860. A. A project plan may contain a provision that
+21
+22
+certain local taxes may be subject to incentives or may be exempted
+22
+23
+in reinvestment areas, historic preservation areas, or enterprise
+23
+24
+areas.
+24
+Req. No. 2891 Page 1
+
+1
+B. The governing body may grant incentives or exemptions from
+1
+2
+local taxation only on the new investment made. No ad valorem tax
+2
+3
+incentives or exemptions may be granted on the value of property
+3
+4
+which has been assessed or which is subject to assessment prior to
+4
+5
+the adoption of the project plan. No ad valorem tax incentives or
+5
+6
+exemptions authorized in this section may be granted for retail
+6
+7
+establishments or an establishment, the business of which is
+7
+8
+described by National Industry Numbers 518210 and 221114 through
+8
+9
+221117 of the North American Industry Classification System (NAICS)
+9
+10
+Manual, latest revision. If a retail establishment or an
+10
+11
+establishment, the business of which is described by National
+11
+12
+Industry Numbers 518210 and 221114 through 221117 of the NAICS
+12
+13
+Manual, latest revision, is located in property which otherwise
+13
+14
+qualifies for an incentive or exemption pursuant to this section,
+14
+15
+the incentive or exemption shall not be allowed for that portion of
+15
+16
+the property used for such retail establishment or an establishment,
+16
+17
+the business of which is described by National Industry Numbers
+17
+18
+518210 and 221114 and 221115 of the NAICS Manual, latest revision.
+18
+19
+As used in this subsection, “retail establishment” shall not include
+19
+20
+an establishment that provides lodging including, but not limited
+20
+21
+to, a hotel, apartment hotel, public rooming house, or motel. No ad
+21
+22
+valorem tax incentives or exemptions authorized in this section may
+22
+23
+be granted if the property is located in an increment district or as
+23
+24
+long as the property is subject to the ad valorem tax exemption for
+24
+Req. No. 2891 Page 2
+
+1
+new or expanding manufacturing facilities as authorized by Section
+1
+2
+6B of Article X of the Oklahoma Constitution. In the event of
+2
+3
+disposition by lease or sublease to a lessee not entitled to an ad
+3
+4
+valorem tax exemption, the improvements placed thereon shall not be
+4
+5
+entitled to an ad valorem tax exemption provided for in Section 850
+5
+6
+et seq. of this title. Except as otherwise provided by this
+6
+7
+subsection, the incentives, or exemptions, which may be full or
+7
+8
+partial, may be granted for a period not to exceed five (5) years.
+8
+9
+With respect to an establishment, the business of which is described
+9
+10
+by U.S. Industry Number 518210 of the North American Industry
+10
+11
+Classification System (NAICS) Manual, 2017 revision, such incentives
+11
+12
+or exemptions may be granted for a period not to exceed twenty-five
+12
+13
+(25) years.
+13
+14
+C. No incentives or exemptions may be granted to any business
+14
+15
+or firm that is relocating from within the state and is subject to
+15
+16
+or in the process of recruitment by two or more governmental
+16
+17
+entities within the state unless the governmental entity in which
+17
+18
+the business or firm does not locate adopts a resolution giving
+18
+19
+their its approval to the granting of incentives or exemptions to
+19
+20
+the business or firm locating in the competing governmental entity.
+20
+21
+No incentives or exemptions may be granted to an out-of-state
+21
+22
+business or firm that is subject to or in the process of recruitment
+22
+23
+by two or more governmental entities within the state except as
+23
+24
+otherwise provided for in this subsection. The prohibition against
+24
+Req. No. 2891 Page 3
+
+1
+incentives or exemptions to a business or firm relocating within the
+1
+2
+state may be waived upon application by the governing body to, and
+2
+3
+approval of, the Director Chief Executive Officer of the Oklahoma
+3
+4
+Department of Commerce. In order for the Director Chief Executive
+4
+5
+Officer to approve the waiver, the Director Chief Executive Officer
+5
+6
+must find that the incentives or exemptions are necessary and
+6
+7
+sufficient to attract the business or firm and that the benefits
+7
+8
+generated by the business location outweigh the costs of the
+8
+9
+business location.
+9
+10
+D. A project plan may contain a provision that ad valorem taxes
+10
+11
+may be exempted in a commercial historic preservation area that is
+11
+12
+adjacent to and serves designated historical residential areas for
+12
+13
+neighborhood commercial preservation purposes in order for the
+13
+14
+neighborhood to retain its basic character and scale. No ad valorem
+14
+15
+tax exemption may be granted on the value of property which has been
+15
+16
+assessed or which is subject to assessment prior to the adoption of
+16
+17
+the project plan. No ad valorem tax exemption shall be granted
+17
+18
+pursuant to the provisions of this subsection for single-family
+18
+19
+residences. The governing body may grant the exemption only on the
+19
+20
+increase in value of the property. The exemptions may be granted
+20
+21
+for a specific period of time as determined by a written agreement
+21
+22
+between the property owners of the area and the governing body and
+22
+23
+may be renewed. Uses of the property eligible for this exemption
+23
+24
+24
+Req. No. 2891 Page 4
+
+1
+may include, but not be limited to, commercial, office, or
+1
+2
+multifamily residential use.
+2
+3
+E. For increment districts in operation for nine (9) months or
+3
+4
+more, on or before the ninetieth day following the end of each
+4
+5
+fiscal year, the governing body of a city, town, or county shall
+5
+6
+submit a report to the Oklahoma Department of Commerce. The
+6
+7
+Department shall provide a copy of the report to any member of the
+7
+8
+public upon request. The disclosure report shall include the
+8
+9
+following information:
+9
+10
+1. The amount and source of revenue captured and apportioned
+10
+11
+pursuant to the project plan;
+11
+12
+2. The amount and purpose of expenditures;
+12
+13
+3. The amount of principal and interest due on outstanding
+13
+14
+bonded indebtedness;
+14
+15
+4. The tax increment base and current captured appraised value
+15
+16
+or the other local tax or fee collections retained by the area;
+16
+17
+5. The captured appraised value or the other local tax or fee
+17
+18
+collections shared by the city, town, or county and other taxing
+18
+19
+entities, the total amount of tax increments received, and any
+19
+20
+additional information necessary to demonstrate compliance with the
+20
+21
+plan adopted by the city, town, or county;
+21
+22
+6. The name of the person who is currently in charge of the
+22
+23
+implementation of the plan; and
+23
+24
+24
+Req. No. 2891 Page 5
+
+1
+7. The names of the persons who have disclosed an interest as
+1
+2
+required pursuant to Section 857 of this title and the interest
+2
+3
+disclosed.
+3
+4
+F. For those incentive districts in operation for nine (9)
+4
+5
+months or more, on or before the ninetieth day following the end of
+5
+6
+each fiscal year, the governing body of a city, town, or county
+6
+7
+shall submit a report to the Oklahoma Department of Commerce. The
+7
+8
+Department shall provide a copy of the report to any member of the
+8
+9
+public upon request. The disclosure report shall include the
+9
+10
+following information:
+10
+11
+1. The parties receiving incentives or exemptions;
+11
+12
+2. A general description of the property and the improvements
+12
+13
+to be made;
+13
+14
+3. The portion and fair market value of the property to be
+14
+15
+exempted or that portion of the local taxes to be subject to
+15
+16
+incentives or to be exempted;
+16
+17
+4. The duration of the incentives or exemptions;
+17
+18
+5. Any additional information necessary to demonstrate
+18
+19
+compliance with the tax incentives or exemptions;
+19
+20
+6. The name of the person who is currently in charge of the
+20
+21
+implementation of the plan; and
+21
+22
+7. The names of the persons who have disclosed an interest as
+22
+23
+required pursuant to Section 857 of this title and the interest
+23
+24
+disclosed.
+24
+Req. No. 2891 Page 6
+
+1
+SECTION 2. AMENDATORY 62 O.S. 2021, Section 861, is
+1
+2
+amended to read as follows:
+2
+3
+Section 861. A. A project plan may contain a provision that
+3
+4
+the increments from certain local taxes or fees may be used to
+4
+5
+finance project costs in areas qualified under the Local Development
+5
+6
+Act. The increment from local taxes or fees levied from and after
+6
+7
+the effective date of the approval of such plan shall be apportioned
+7
+8
+in the following manner for a period not to exceed twenty-five (25)
+8
+9
+fiscal years thereafter or the period required for payment of
+9
+10
+project costs, whichever is less; provided, however, that for any
+10
+11
+increment district established after November 1, 1992, such time
+11
+12
+period shall be tolled for a period of time equal to the pendency of
+12
+13
+any litigation directly or indirectly challenging the increment
+13
+14
+district or apportionment or disbursement:
+14
+15
+1. That portion of the ad valorem taxes which are produced by
+15
+16
+the levy at the rate fixed each year by or for each such ad valorem
+16
+17
+taxing entity upon the base assessed value of the increment district
+17
+18
+determined pursuant to Section 862 of this title and as to an area
+18
+19
+later added to the increment district, the effective date of the
+19
+20
+addition to the increment district, shall be paid to each taxing
+20
+21
+entity and all or any portion of local sales taxes, other local
+21
+22
+taxes or local fees collected each year which are not subject to
+22
+23
+apportionment shall be paid or retained as otherwise provided by
+23
+24
+law; and
+24
+Req. No. 2891 Page 7
+
+1
+2. All or any portion of:
+1
+2
+a. ad valorem taxes, in excess of such amount specified
+2
+3
+in paragraph 1 of this subsection,
+3
+4
+b. the increment of local sales taxes, other local taxes
+4
+5
+or local fees, or a combination thereof, paid to or
+5
+6
+for the benefit of the city, town, or county approving
+6
+7
+the plan, and
+7
+8
+c. with its consent, evidenced by agreement in writing,
+8
+9
+the increment of local sales tax, other local taxes or
+9
+10
+local fees, or combination thereof, payable to any
+10
+11
+other local public taxing entity,
+11
+12
+shall be apportioned to, and when collected, shall be paid into an
+12
+13
+apportionment fund established for the project pursuant to the
+13
+14
+project plan. Such revenues shall be used for the payment of the
+14
+15
+project costs and for the payment of the principal of, the interest
+15
+16
+on, and any premiums due in connection with the bonds of, loans,
+16
+17
+notes, or advances of money to, or indebtedness incurred to finance
+17
+18
+project costs, whether funded, refunded, assumed, or otherwise, for
+18
+19
+financing, in whole or in part, eligible project costs. For the
+19
+20
+purposes of this section, “local sales tax” means amounts payable to
+20
+21
+or for the benefit of a local governmental entity calculated as a
+21
+22
+percentage of gross sales whether imposed by ordinance, resolution,
+22
+23
+covenant, or agreement. Nothing shall prohibit the increments from
+23
+24
+being used to directly pay eligible project costs. When all
+24
+Req. No. 2891 Page 8
+
+1
+eligible project costs and such bonds, loans, advances of money or
+1
+2
+indebtedness, if any, including interest thereon and any premiums
+2
+3
+due in connection with them, have been paid and the governing body
+3
+4
+adopts an ordinance or resolution dissolving the tax apportionment
+4
+5
+financing, all ad valorem taxes upon the taxable property within the
+5
+6
+boundary of such district shall be paid into the funds of the
+6
+7
+respective taxing entities.
+7
+8
+B. If a project plan contains a provision for apportionment as
+8
+9
+provided in subsection A of this section, and notwithstanding any
+9
+10
+other provision of law to the contrary, the governing body shall
+10
+11
+direct in the resolution or ordinance approving the plan which
+11
+12
+portion of the increments, including whether any or all, to be paid
+12
+13
+into the apportionment fund shall constitute a part of the general
+13
+14
+fund to be appropriated annually by the governing body, and which
+14
+15
+portion, including whether any or all, shall constitute funds of a
+15
+16
+public entity authorized to issue tax apportionment bonds or notes
+16
+17
+or to incur project costs.
+17
+18
+C. To the extent that collections exceed project costs and the
+18
+19
+provisions for payment of principal and interest along with
+19
+20
+sufficient reserves on any bonds issued pursuant to the provisions
+20
+21
+of Section 863 of this title, the excess shall be paid into the
+21
+22
+funds of the respective taxing entities unless the taxing entity
+22
+23
+agrees to some other use of such collections.
+23
+24
+24
+Req. No. 2891 Page 9
+
+1
+D. Except as provided in subsection E of this section, for any
+1
+2
+year in which taxes or fees are apportioned in the manner specified
+2
+3
+in paragraph 2 of subsection A of this section, any increase in
+3
+4
+assessed valuation of taxable real property or taxable personal
+4
+5
+property within the boundaries of such district in excess of the
+5
+6
+base assessed value shall not be considered by any taxing entity in
+6
+7
+computing any debt limitation or for any other purpose except for
+7
+8
+the levy of taxes and in determining the amount to be apportioned.
+8
+9
+E. In the event there is a change in the assessment ratio for
+9
+10
+ad valorem tax property valuations of property within the boundaries
+10
+11
+of an increment district, the portions of valuations for assessment
+11
+12
+pursuant to paragraphs 1 and 2 of subsection A of this section shall
+12
+13
+be proportionately adjusted in accordance with such reassessment.
+13
+14
+F. Nothing in this section shall be construed as relieving
+14
+15
+property in such project area from being assessed as provided in the
+15
+16
+Ad Valorem Tax Code of the Oklahoma Statutes, or as relieving owners
+16
+17
+of such property from paying a uniform rate of taxes, as required by
+17
+18
+Section 5 of Article X of the Oklahoma Constitution.
+18
+19
+G. Subject to constitutional exemptions, if property in an
+19
+20
+increment district is owned by a public entity and is leased to or
+20
+21
+operated for a private use, including, without limitation, use by a
+21
+22
+not-for-profit corporation or trust, the portion of the property so
+22
+23
+leased or operated shall be assessed by the county assessor as if
+23
+24
+such portion of the property were taxable, and, during the term of
+24
+Req. No. 2891 Page 10
+
+1
+the increment district, the public entity owning such property shall
+1
+2
+pay or require the user thereof to pay ad valorem taxes or an in
+2
+3
+lieu ad valorem tax payment in an amount not less than the amount
+3
+4
+that would have resulted if taxes had otherwise been levied on such
+4
+5
+portion of the property. If property subject to ad valorem tax in
+5
+6
+an increment district is acquired by a private not-for-profit
+6
+7
+corporation or public or private trust, it shall continue to be
+7
+8
+assessed and subject to ad valorem taxes or an in lieu ad valorem
+8
+9
+payment by the user thereof until termination of the increment
+9
+10
+district unless and only to the extent of the portion of the
+10
+11
+property and the use thereof that is:
+11
+12
+1. Acquired to implement the project plan;
+12
+13
+2. Converted to a new tax-exempt use by a tax-exempt user; or
+13
+14
+3. Entitled to claim a constitutional exemption notwithstanding
+14
+15
+statutory provisions.
+15
+16
+During the period of an increment district, such nonexempt uses and
+16
+17
+interests are severable for purposes of ad valorem and in lieu of ad
+17
+18
+valorem assessment and payments, notwithstanding any statutory
+18
+19
+provisions to the contrary.
+19
+20
+H. Increment districts authorized pursuant to this section
+20
+21
+shall not include the property of an establishment, the business of
+21
+22
+which is described by National Industry Numbers 518210 and 221114
+22
+23
+through 221117 of the North American Industry Classification System
+23
+24
+(NAICS) Manual, latest revision.
+24
+Req. No. 2891 Page 11
+
+1
+SECTION 3. AMENDATORY 68 O.S. 2021, Section 2902, as
+1
+2
+last amended by Section 1, Chapter 411, O.S.L. 2025 (68 O.S. Supp.
+2
+3
+2025, Section 2902), is amended to read as follows:
+3
+4
+Section 2902. A. Except as otherwise provided by subsection H
+4
+5
+of Section 3658 of this title pursuant to which the exemption
+5
+6
+authorized by this section may not be claimed, a qualifying
+6
+7
+manufacturing concern, as defined by Section 6B of Article X of the
+7
+8
+Oklahoma Constitution, and as further defined herein, shall be
+8
+9
+exempt from the levy of any ad valorem taxes upon new, expanded, or
+9
+10
+acquired manufacturing facilities including facilities engaged in
+10
+11
+research and development, for a period of five (5) years. The
+11
+12
+provisions of Section 6B of Article X of the Oklahoma Constitution
+12
+13
+requiring an existing facility to have been unoccupied for a period
+13
+14
+of twelve (12) months prior to acquisition shall be construed as a
+14
+15
+qualification for a facility to initially receive an exemption, and
+15
+16
+shall not be deemed to be a qualification for that facility to
+16
+17
+continue to receive an exemption in each of the four (4) years
+17
+18
+following the initial year for which the exemption was granted.
+18
+19
+Such facilities are hereby classified for the purposes of taxation
+19
+20
+as provided in Section 22 of Article X of the Oklahoma Constitution.
+20
+21
+B. For purposes of this section, the following definitions
+21
+22
+shall apply:
+22
+23
+1. “Manufacturing facilities” means facilities engaged in the
+23
+24
+mechanical or chemical transformation of materials or substances
+24
+Req. No. 2891 Page 12
+
+1
+into new products and except as provided by paragraph 6 of
+1
+2
+subsection C of this section shall include:
+2
+3
+a. establishments which have received a manufacturer
+3
+4
+exemption permit pursuant to the provisions of Section
+4
+5
+1359.2 of this title,
+5
+6
+b. facilities including repair and replacement parts,
+6
+7
+primarily engaged in aircraft repair, building and
+7
+8
+rebuilding whether or not on a factory basis,
+8
+9
+c. establishments primarily engaged in computer services
+9
+10
+and data processing as defined under Industrial Group
+10
+11
+Numbers 5112 and 5415, and U.S. Industry Number
+11
+12
+Numbers 334611 and 519130 of the NAICS North American
+12
+13
+Industry Classification System (NAICS) Manual, latest
+13
+14
+revision, and which derive at least fifty percent
+14
+15
+(50%) of their annual gross revenues from the sale of
+15
+16
+a product or service to an out-of-state buyer or
+16
+17
+consumer, and as defined under Industrial Group Number
+17
+18
+5182 of the NAICS Manual, latest revision, which
+18
+19
+derive at least eighty percent (80%) of their annual
+19
+20
+gross revenues from the sale of a product or service
+20
+21
+to an out-of-state buyer or consumer. Eligibility as
+21
+22
+a manufacturing facility pursuant to this subparagraph
+22
+23
+shall be established, subject to review by the
+23
+24
+Oklahoma Tax Commission, by annually filing an
+24
+Req. No. 2891 Page 13
+
+1
+affidavit with the Tax Commission stating that the
+1
+2
+facility so qualifies and such other information as
+2
+3
+required by the Tax Commission. For purposes of
+3
+4
+determining whether annual gross revenues are derived
+4
+5
+from sales to out-of-state buyers, all sales to the
+5
+6
+federal government shall be considered to be to an
+6
+7
+out-of-state buyer,
+7
+8
+d. facilities that the investment cost of the
+8
+9
+construction, acquisition or expansion is Five Hundred
+9
+10
+Thousand Dollars ($500,000.00) or more with respect to
+10
+11
+assets placed into service during calendar year 2022.
+11
+12
+For subsequent calendar years, the investment required
+12
+13
+shall be increased annually by a percentage equal to
+13
+14
+the previous year’s increase in the Consumer Price
+14
+15
+Index-All Index for All Urban Consumers (“CPI-U”)
+15
+16
+(CPI-U) and such adjusted amount shall be the required
+16
+17
+investment cost in order to qualify for the exemption
+17
+18
+authorized by this section. The Oklahoma Department
+18
+19
+of Commerce shall determine the amount of the
+19
+20
+increase, if any, on January 1 of each year. The
+20
+21
+Oklahoma Tax Commission shall publish on its website
+21
+22
+at least annually the adjusted dollar amount in order
+22
+23
+to qualify for the exemption authorized by this
+23
+24
+section and shall include the adjusted dollar amount
+24
+Req. No. 2891 Page 14
+
+1
+in any of its relevant forms or publications with
+1
+2
+respect to the exemption. Provided, “investment cost”
+2
+3
+shall not include the cost of direct replacement,
+3
+4
+refurbishment, repair or maintenance of existing
+4
+5
+machinery or equipment, except that investment cost
+5
+6
+shall include capital expenditures for direct
+6
+7
+replacement, refurbishment, repair or maintenance of
+7
+8
+existing machinery or equipment that qualifies for
+8
+9
+depreciation and/or amortization pursuant to the
+9
+10
+Internal Revenue Code of 1986, as amended, and such
+10
+11
+expenditures shall be eligible as a part of an
+11
+12
+expansion that otherwise qualifies under this section,
+12
+13
+e. establishments primarily engaged in distribution as
+13
+14
+defined under Industry Numbers 49311, 49312, 49313 and
+14
+15
+49319 and Industry Sector Number 42 of the NAICS
+15
+16
+Manual, latest revision, and which meet the following
+16
+17
+qualifications:
+17
+18
+(1) construction with an initial capital investment
+18
+19
+of at least Five Million Dollars ($5,000,000.00),
+19
+20
+(2) employment of at least one hundred (100) full-
+20
+21
+time-equivalent employees, as certified by the
+21
+22
+Oklahoma Employment Security Commission,
+22
+23
+(3) payment of wages or salaries to its employees at
+23
+24
+a wage which equals or exceeds the average wage
+24
+Req. No. 2891 Page 15
+
+1
+requirements in the Oklahoma Quality Jobs Program
+1
+2
+Act for the year in which the real property was
+2
+3
+placed into service, and
+3
+4
+(4) commencement of construction on or after November
+4
+5
+1, 2007, with construction to be completed within
+5
+6
+three (3) years from the date of the commencement
+6
+7
+of construction,
+7
+8
+f. facilities engaged in the manufacturing, compounding,
+8
+9
+processing or fabrication of materials into articles
+9
+10
+of tangible personal property according to the special
+10
+11
+order of a customer (custom order manufacturing) by
+11
+12
+manufacturers classified as operating in North
+12
+13
+American Industry Classification System (NAICS) NAICS
+13
+14
+Sectors 32 and 33, but does not include such custom
+14
+15
+order manufacturing by manufacturers classified in
+15
+16
+other NAICS code sectors, and
+16
+17
+g. with respect to any entity making an application for
+17
+18
+the exemption authorized by this section on or after
+18
+19
+January 1, 2023, the establishment making application
+19
+20
+for exempt treatment of real or personal property
+20
+21
+acquired or improved beginning January 1, 2022, and
+21
+22
+for any calendar year thereafter, the entity shall be
+22
+23
+required to pay new direct jobs, as defined by Section
+23
+24
+3603 of this title for purposes of the Oklahoma
+24
+Req. No. 2891 Page 16
+
+1
+Quality Jobs Program Act, an average annualized wage
+1
+2
+which equals or exceeds the average wage requirement
+2
+3
+in the Oklahoma Quality Jobs Program Act for the year
+3
+4
+in which the real or personal property was placed into
+4
+5
+service. The Oklahoma Tax Commission may request
+5
+6
+verification from the Oklahoma Department of Commerce
+6
+7
+that an establishment seeking an exemption for real or
+7
+8
+personal property pays an average annualized wage that
+8
+9
+equals or exceeds the average wage requirement in
+9
+10
+effect for the year in which the real or personal
+10
+11
+property was placed into service. For purposes of
+11
+12
+this subparagraph, it shall not be necessary for the
+12
+13
+establishment to qualify for incentive payments
+13
+14
+pursuant to the Oklahoma Quality Jobs Program Act, but
+14
+15
+the establishment shall be subject to the wage
+15
+16
+requirements of the Oklahoma Quality Jobs Program Act
+16
+17
+with respect to new direct jobs in order to qualify
+17
+18
+for the exempt treatment authorized by this section.
+18
+19
+Eligibility as a manufacturing facility pursuant to this
+19
+20
+subparagraph shall be established, subject to review by the Tax
+20
+21
+Commission, by annually filing an affidavit with the Tax Commission
+21
+22
+stating that the facility so qualifies and containing such other
+22
+23
+information as required by the Tax Commission.
+23
+24
+24
+Req. No. 2891 Page 17
+
+1
+Provided, eating and drinking places, as well as other retail
+1
+2
+establishments, shall not qualify as manufacturing facilities for
+2
+3
+purposes of this section, nor shall centrally assessed properties.
+3
+4
+Eligibility as a manufacturing facility pursuant to this
+4
+5
+subparagraph shall be established, subject to review by the Tax
+5
+6
+Commission, by annually filing an application with the Tax
+6
+7
+Commission stating that the facility so qualifies and containing
+7
+8
+such other information as required by the Tax Commission;
+8
+9
+2. “Facility” and “facilities”, except as otherwise provided by
+9
+10
+this section, means and includes the land, buildings, structures and
+10
+11
+improvements used directly and exclusively in the manufacturing
+11
+12
+process. Effective January 1, 2022, and for each calendar year
+12
+13
+thereafter, for establishments which have received a manufacturer
+13
+14
+exemption permit pursuant to the provisions of Section 1359.2 of
+14
+15
+this title, or facilities engaged in manufacturing activities
+15
+16
+defined or classified in the NAICS Manual under National Industry
+16
+17
+Nos. Numbers 311111 through 339999, inclusive, but for no other
+17
+18
+establishments, facility and facilities means and includes the land,
+18
+19
+buildings, structures, improvements, machinery, fixtures, equipment
+19
+20
+and other personal property used directly and exclusively in the
+20
+21
+manufacturing process; and
+21
+22
+3. “Research and development” means activities directly related
+22
+23
+to and conducted for the purpose of discovering, enhancing,
+23
+24
+24
+Req. No. 2891 Page 18
+
+1
+increasing or improving future or existing products or processes or
+1
+2
+productivity.
+2
+3
+C. The following provisions shall apply:
+3
+4
+1. A manufacturing concern shall be entitled to the exemption
+4
+5
+herein provided for each new manufacturing facility constructed,
+5
+6
+each existing manufacturing facility acquired and the expansion of
+6
+7
+existing manufacturing facilities on the same site, as such terms
+7
+8
+are defined by Section 6B of Article X of the Oklahoma Constitution
+8
+9
+and by this section;
+9
+10
+2. No manufacturing concern shall receive more than one five-
+10
+11
+year exemption for any one manufacturing facility unless the
+11
+12
+expansion which qualifies the manufacturing facility for an
+12
+13
+additional five-year exemption meets the requirements of paragraph 4
+13
+14
+of this subsection and the employment level established for any
+14
+15
+previous exemption is maintained;
+15
+16
+3. Any exemption as to the expansion of an existing
+16
+17
+manufacturing facility shall be limited to the increase in ad
+17
+18
+valorem taxes directly attributable to the expansion;
+18
+19
+4. All initial applications for any exemption for a new,
+19
+20
+acquired or expanded manufacturing facility shall be granted only
+20
+21
+if:
+21
+22
+a. there is a net increase in annualized base payroll
+22
+23
+over the initial payroll of at least Two Hundred Fifty
+23
+24
+Thousand Dollars ($250,000.00) if the facility is
+24
+Req. No. 2891 Page 19
+
+1
+located in a county with a population of fewer than
+1
+2
+seventy-five thousand (75,000), according to the most
+2
+3
+recent Federal Decennial Census, while maintaining or
+3
+4
+increasing base payroll in subsequent years, or at
+4
+5
+least One Million Dollars ($1,000,000.00) if the
+5
+6
+facility is located in a county with a population of
+6
+7
+seventy-five thousand (75,000) or more, according to
+7
+8
+the most recent Federal Decennial Census, while
+8
+9
+maintaining or increasing base payroll in subsequent
+9
+10
+years; provided, the payroll requirement of this
+10
+11
+subparagraph shall be waived for claims for exemptions
+11
+12
+including claims previously denied or on appeal on
+12
+13
+March 3, 2010, for all initial applications for
+13
+14
+exemption filed on or after January 1, 2004, and on or
+14
+15
+before March 31, 2009, and all subsequent annual
+15
+16
+exemption applications filed related to the initial
+16
+17
+application for exemption, for an applicant, if the
+17
+18
+facility has been located in Oklahoma for at least
+18
+19
+fifteen (15) years engaged in marine engine
+19
+20
+manufacturing as defined under U.S. Industry Number
+20
+21
+333618 of the NAICS Manual, latest revision, and has
+21
+22
+maintained an average employment of five hundred (500)
+22
+23
+or more full-time-equivalent employees over a ten-year
+23
+24
+period. Any applicant that qualifies for the payroll
+24
+Req. No. 2891 Page 20
+
+1
+requirement waiver as outlined in the previous
+1
+2
+sentence and subsequently closes its Oklahoma
+2
+3
+manufacturing plant prior to January 1, 2012, may be
+3
+4
+disqualified for exemption and subject to recapture.
+4
+5
+For an applicant engaged in paperboard manufacturing
+5
+6
+as defined under U.S. Industry Number 322130 of the
+6
+7
+NAICS Manual, latest revision, union master payouts
+7
+8
+paid by the buyer of the facility to specified
+8
+9
+individuals employed by the facility at the time of
+9
+10
+purchase, as specified under the purchase agreement,
+10
+11
+shall be excluded from payroll for purposes of this
+11
+12
+section.
+12
+13
+In order to provide certainty with respect to
+13
+14
+investments in manufacturing facilities pertaining to
+14
+15
+all initial applications for exemption filed on or
+15
+16
+after January 1, 2016, the following definitions shall
+16
+17
+apply:
+17
+18
+(1) “base payroll” shall mean total payroll adjusted
+18
+19
+for any nonrecurring bonuses, exercise of stock
+19
+20
+option or stock rights and other nonrecurring,
+20
+21
+extraordinary items included in total payroll,
+21
+22
+and
+22
+23
+23
+24
+24
+Req. No. 2891 Page 21
+
+1
+(2) “initial payroll” shall mean base payroll for the
+1
+2
+year immediately preceding the initial
+2
+3
+construction, acquisition or expansion.
+3
+4
+The Tax Commission shall verify payroll
+4
+5
+information through the Oklahoma Employment
+5
+6
+Security Commission by using reports from the
+6
+7
+Oklahoma Employment Security Commission for the
+7
+8
+calendar year immediately preceding the year for
+8
+9
+which initial application is made for base-line
+9
+10
+baseline payroll, which must be maintained or
+10
+11
+increased for each subsequent year; provided, a
+11
+12
+manufacturing facility shall have the option of
+12
+13
+excluding from its payroll, for purposes of this
+13
+14
+section:
+14
+15
+i. payments to sole proprietors, members
+15
+16
+of a partnership, members of a limited
+16
+17
+liability company who own at least ten
+17
+18
+percent (10%) of the capital of the
+18
+19
+limited liability company or
+19
+20
+stockholder-employees of a corporation
+20
+21
+who own at least ten percent (10%) of
+21
+22
+the stock in the corporation, and
+22
+23
+ii. any nonrecurring bonuses, exercise of
+23
+24
+stock option or stock rights or other
+24
+Req. No. 2891 Page 22
+
+1
+nonrecurring, extraordinary items
+1
+2
+included in total payroll numbers as
+2
+3
+reported by the Oklahoma Employment
+3
+4
+Security Commission. A manufacturing
+4
+5
+facility electing either option shall
+5
+6
+indicate such election upon its
+6
+7
+application for an exemption under this
+7
+8
+section. Any manufacturing facility
+8
+9
+electing either option shall submit
+9
+10
+such information as the Tax Commission
+10
+11
+may require in order to verify payroll
+11
+12
+information. Payroll information
+12
+13
+submitted pursuant to the provisions of
+13
+14
+this paragraph shall be submitted to
+14
+15
+the Tax Commission and shall be subject
+15
+16
+to the provisions of Section 205 of
+16
+17
+this title, and
+17
+18
+b. the facility offers, or will offer within one hundred
+18
+19
+eighty (180) days of the date of employment, a basic
+19
+20
+health benefits plan to the full-time-equivalent
+20
+21
+employees of the facility, which is determined by the
+21
+22
+Oklahoma Department of Commerce to consist of the
+22
+23
+elements specified in subparagraph b of paragraph 1 of
+23
+24
+24
+Req. No. 2891 Page 23
+
+1
+subsection A of Section 3603 of this title or elements
+1
+2
+substantially equivalent thereto.
+2
+3
+For purposes of this section, calculation of the amount of
+3
+4
+increased base payroll shall be measured from the start of initial
+4
+5
+construction or expansion to the completion of such construction or
+5
+6
+expansion or for three (3) years from the start of initial
+6
+7
+construction or expansion, whichever occurs first. The amount of
+7
+8
+increased base payroll shall include payroll for full-time-
+8
+9
+equivalent employees in this state who are employed by an entity
+9
+10
+other than the facility which has previously or is currently
+10
+11
+qualified to receive an exemption pursuant to the provisions of this
+11
+12
+section and who are leased or otherwise provided to the facility, if
+12
+13
+such employment did not exist in this state prior to the start of
+13
+14
+initial construction or expansion of the facility. The
+14
+15
+manufacturing concern shall submit an affidavit to the Tax
+15
+16
+Commission, signed by an officer, stating that the construction,
+16
+17
+acquisition or expansion of the facility will result in a net
+17
+18
+increase in the annualized base payroll as required by this
+18
+19
+paragraph and that full-time-equivalent employees of the facility
+19
+20
+are or will be offered a basic health benefits plan as required by
+20
+21
+this paragraph. If, after the completion of such construction or
+21
+22
+expansion or after three (3) years from the start of initial
+22
+23
+construction or expansion, whichever occurs first, the construction,
+23
+24
+acquisition or expansion has not resulted in a net increase in the
+24
+Req. No. 2891 Page 24
+
+1
+amount of annualized base payroll, if required, or any other
+1
+2
+qualification specified in this paragraph has not been met, the
+2
+3
+manufacturing concern shall pay an amount equal to the amount of any
+3
+4
+exemption granted including penalties and interest thereon, to the
+4
+5
+Tax Commission for deposit to the Ad Valorem Reimbursement Fund;
+5
+6
+5. Except as otherwise provided by this paragraph, any new,
+6
+7
+acquired or expanded computer data processing, data preparation or
+7
+8
+information processing services provider classified in U.S. Industry
+8
+9
+Number 518210 of the North American Industrial Classification System
+9
+10
+(NAICS) NAICS Manual, 2017 revision, may apply for exemptions under
+10
+11
+this section for each year in which new, acquired, or expanded
+11
+12
+capital improvements to the facility are made for assets placed in
+12
+13
+service not later than December 31, 2021, if:
+13
+14
+a. there is a net increase in annualized payroll of the
+14
+15
+applicant at any facility or facilities of the
+15
+16
+applicant in this state of at least Two Hundred Fifty
+16
+17
+Thousand Dollars ($250,000.00), which is attributable
+17
+18
+to the capital improvements, or a net increase of
+18
+19
+Seven Million Dollars ($7,000,000.00) or more in
+19
+20
+capital improvements, while maintaining or increasing
+20
+21
+payroll at the facility or facilities in this state
+21
+22
+which are included in the application, and
+22
+23
+b. the facility offers, or will offer within one hundred
+23
+24
+eighty (180) days of the date of employment of new
+24
+Req. No. 2891 Page 25
+
+1
+employees attributable to the capital improvements, a
+1
+2
+basic health benefits plan to the full-time-equivalent
+2
+3
+employees of the facility, which is determined by the
+3
+4
+Oklahoma Department of Commerce to consist of the
+4
+5
+elements specified in subparagraph b of paragraph 1 of
+5
+6
+subsection A of Section 3603 of this title or elements
+6
+7
+substantially equivalent thereto.
+7
+8
+An establishment described by this paragraph, the primary
+8
+9
+business activity of which is described by National Industry No.
+9
+10
+Number 518210 of the North American Industry Classification System
+10
+11
+(NAICS) NAICS Manual, 2017 revision, that has applied for and been
+11
+12
+granted an exemption for personal property at any time within five
+12
+13
+(5) years prior to November 1, 2021, may apply for exemptions for
+13
+14
+items of eligible personal property to be located within
+14
+15
+improvements to real property and such real property and
+15
+16
+improvements having been exempt from ad valorem taxation prior to
+16
+17
+November 1, 2021, pursuant to the provisions of this section if such
+17
+18
+personal property is placed in service not later than December 31,
+18
+19
+2036 2026. No additional personal property of such establishment
+19
+20
+placed in service after such date shall qualify for the exempt
+20
+21
+treatment otherwise authorized pursuant to this paragraph;
+21
+22
+6. Effective January 1, 2017, an entity engaged in electric
+22
+23
+power generation by means of wind, as described by the North
+23
+24
+American Industry Classification System, No. 221119, shall not be
+24
+Req. No. 2891 Page 26
+
+1
+defined as a qualifying manufacturing concern for purposes of the
+1
+2
+exemption otherwise authorized pursuant to Section 6B of Article X
+2
+3
+of the Oklahoma Constitution or qualify as a manufacturing facility
+3
+4
+as defined in this section. No initial application for exemption
+4
+5
+shall be filed by or accepted from an entity engaged in electric
+5
+6
+power generation by means of wind on or after January 1, 2018;
+6
+7
+7. An entity or applicant engaged in an industry as defined
+7
+8
+under U.S. Industry Number 324110 of the NAICS Manual, latest
+8
+9
+revision, which has applied for or been granted an exemption for a
+9
+10
+time period which began on or after calendar year 2012 and before
+10
+11
+calendar year 2016 but which did not meet the payroll requirements
+11
+12
+of subparagraph a of paragraph 4 of this subsection because of
+12
+13
+nonrecurring bonuses, exercise of stock option or stock rights or
+13
+14
+other nonrecurring, extraordinary items included in total payroll in
+14
+15
+the previous year, shall be allowed an exemption, beginning with
+15
+16
+calendar year 2016, for the number of years including the calendar
+16
+17
+year for which the exemption was denied, remaining in the entity’s
+17
+18
+five-year exemption period, provided such entity attains or
+18
+19
+increases payroll at or above the initial or base payroll
+19
+20
+established for the exemption;
+20
+21
+8. A facility engaged in manufacturing defined under U.S.
+21
+22
+Industry Number 327310 of the NAICS Manual shall have the payroll
+22
+23
+requirements of paragraph 4 of this subsection waived for tax year
+23
+24
+2021, which is based in part on the 2020 calendar year payroll
+24
+Req. No. 2891 Page 27
+
+1
+reported to the Oklahoma Employment Security Commission, and may
+1
+2
+continue to receive the exemption for the five-year period provided
+2
+3
+in this section only if all other requirements of this section are
+3
+4
+met; and
+4
+5
+9. A facility engaged in manufacturing which otherwise
+5
+6
+qualifies for the exemption or exemptions pursuant to the provisions
+6
+7
+of this section shall have the payroll requirements of paragraph 4
+7
+8
+of this subsection waived for tax year 2021, which is based in part
+8
+9
+on the 2020 calendar year payroll reported to the Oklahoma
+9
+10
+Employment Security Commission, and for tax year 2022, which is
+10
+11
+based in part on the 2021 calendar year payroll reported to the
+11
+12
+Oklahoma Employment Security Commission, and may continue to receive
+12
+13
+the exemption for the five-year period provided in this section only
+13
+14
+if all other requirements of this section are met. Provided, a
+14
+15
+facility engaged in manufacturing as defined under Industrial Group
+15
+16
+Number 3364 of the NAICS Manual, latest revision, which otherwise
+16
+17
+qualifies or qualified to receive the exemption for the five-year
+17
+18
+period provided in this section, including claims previously denied,
+18
+19
+shall have the payroll requirements of paragraph 4 of this
+19
+20
+subsection waived for the five-year exemption period of those
+20
+21
+initial exemption applications filed after January 1, 2020, and
+21
+22
+before March 16, 2021; and
+22
+23
+10. Establishments primarily engaged in computer services and
+23
+24
+data processing as defined under Industrial Group Number 5415 of the
+24
+Req. No. 2891 Page 28
+
+1
+North American Industry Classification System (NAICS) Manual, latest
+1
+2
+revision, may apply for exemptions under this section for each year
+2
+3
+in which new, acquired, or expanded capital improvements to the
+3
+4
+facility are made for assets placed in service not later than
+4
+5
+December 31, 2026.
+5
+6
+D. 1. Except as provided in paragraph 2 of this subsection,
+6
+7
+the five-year period of exemption from ad valorem taxes for any
+7
+8
+qualifying manufacturing facility property shall begin on January 1
+8
+9
+following the initial qualifying use of the property in the
+9
+10
+manufacturing process.
+10
+11
+2. The five-year period of exemption from ad valorem taxes for
+11
+12
+any qualifying manufacturing facility, as specified in subparagraphs
+12
+13
+a and b of this paragraph, which is located within a tax incentive
+13
+14
+district created pursuant to the Local Development Act by a county
+14
+15
+having a population of at least five hundred thousand (500,000),
+15
+16
+according to the most recent Federal Decennial Census, shall begin
+16
+17
+on January 1 following the expiration or termination of the ad
+17
+18
+valorem exemption, abatement, or other incentive provided through
+18
+19
+the tax incentive district. Facilities qualifying pursuant to this
+19
+20
+subsection shall include:
+20
+21
+a. a manufacturing facility as defined in subparagraph c
+21
+22
+of paragraph 1 of subsection B of this section, and
+22
+23
+b. an establishment primarily engaged in distribution as
+23
+24
+defined under Industry Number 49311 of the North
+24
+Req. No. 2891 Page 29
+
+1
+American Industry Classification System for which the
+1
+2
+initial capital investment was at least One Hundred
+2
+3
+Eighty Million Dollars ($180,000,000.00); provided,
+3
+4
+that the qualifying job creation and depreciable
+4
+5
+property investment occurred prior to calendar year
+5
+6
+2017 but not earlier than calendar year 2013.
+6
+7
+E. Any person, firm or corporation claiming the exemption
+7
+8
+herein provided for shall file each year for which exemption is
+8
+9
+claimed, an application therefor with the county assessor of the
+9
+10
+county in which the new, expanded or acquired facility is located.
+10
+11
+The application shall be on a form or forms prescribed by the Tax
+11
+12
+Commission, and shall be filed on or before March 15, except as
+12
+13
+provided in Section 2902.1 of this title, of each year in which the
+13
+14
+facility desires to take the exemption or within thirty (30) days
+14
+15
+from and after receipt by such person, firm or corporation of notice
+15
+16
+of valuation increase, whichever is later. In a case where
+16
+17
+completion of the facility or facilities will occur after January 1
+17
+18
+of a given year, a facility may apply to claim the ad valorem tax
+18
+19
+exemption for that year. If such facility is found to be qualified
+19
+20
+for exemption, the ad valorem tax exemption provided for herein
+20
+21
+shall be granted for that entire year and shall apply to the ad
+21
+22
+valorem valuation as of January 1 of that given year. For
+22
+23
+applicants who qualify under the provisions of subparagraph b of
+23
+24
+paragraph 1 of subsection B of this section, the application shall
+24
+Req. No. 2891 Page 30
+
+1
+include a copy of the affidavit and any other information required
+1
+2
+to be filed with the Tax Commission.
+2
+3
+F. The application shall be examined by the county assessor and
+3
+4
+approved or rejected in the same manner as provided by law for
+4
+5
+approval or rejection of claims for homestead exemptions. The
+5
+6
+taxpayer shall have the same right of review by and appeal from the
+6
+7
+county board of equalization, in the same manner and subject to the
+7
+8
+same requirements as provided by law for review and appeals
+8
+9
+concerning homestead exemption claims. Approved applications shall
+9
+10
+be filed by the county assessor with the Tax Commission no later
+10
+11
+than June 15, except as provided in Section 2902.1 of this title, of
+11
+12
+the year in which the facility desires to take the exemption.
+12
+13
+Incomplete applications and applications filed after June 15 will be
+13
+14
+declared null and void by the Tax Commission. In the event that a
+14
+15
+taxpayer qualified to receive an exemption pursuant to the
+15
+16
+provisions of this section shall make payment of ad valorem taxes in
+16
+17
+excess of the amount due, the county treasurer shall have the
+17
+18
+authority to credit the taxpayer’s real or personal property tax
+18
+19
+overpayment against current taxes due. The county treasurer may
+19
+20
+establish a schedule of up to five (5) years of credit to resolve
+20
+21
+the overpayment.
+21
+22
+G. Nothing herein shall in any manner affect, alter or impair
+22
+23
+any law relating to the assessment of property, and all property,
+23
+24
+real or personal, which may be entitled to exemption hereunder shall
+24
+Req. No. 2891 Page 31
+
+1
+be valued and assessed as is other like property and as provided by
+1
+2
+law. The valuation and assessment of property for which an
+2
+3
+exemption is granted hereunder shall be performed by the Tax
+3
+4
+Commission using one or more of the cost, income and expense and
+4
+5
+sales comparison approaches to estimate fair cash value in
+5
+6
+accordance with the Uniform Standards of Professional Appraisal
+6
+7
+Practice.
+7
+8
+H. The Tax Commission shall have the authority and duty to
+8
+9
+prescribe forms and to promulgate rules as may be necessary to carry
+9
+10
+out and administer the terms and provisions of this section.
+10
+11
+SECTION 4. This act shall become effective November 1, 2026.
+11
+12
+12
+13
+60-2-2891 QD 1/14/2026 11:58:35 PM
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2891 Page 32
