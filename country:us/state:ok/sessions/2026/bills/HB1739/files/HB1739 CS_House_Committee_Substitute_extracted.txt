@@ -1,0 +1,692 @@
+Title: 
+Official Title: 
+Source: versions - House Committee Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+RBH No. 17082
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 COMMITTEE SUBSTITUTE
+FOR
+4 HOUSE BILL NO. 1739 By: Chapman
+5
+6
+7 COMMITTEE SUBSTITUTE
+8 An Act relating to retirement; amending 62 O.S. 2021,
+Section 3103, as last amended by Section 2, Chapter
+9 361, O.S.L. 2024 (62 O.S. Supp. 2025, Section 3103),
+which relates to the Oklahoma Pension Legislation
+10 Actuarial Analysis Act; modifying terms; amending 47
+O.S. 2021, Sections 2-304, as amended by Section 2,
+11 Chapter 45, O.S.L. 2025, and 2-305, as last amended
+by Section 9, Chapter 151, O.S.L. 2023 (47 O.S. Supp.
+12 2025, Sections 2-304 and 2-305), which relate to the
+Oklahoma Law Enforcement Retirement System; modifying
+13 employer contribution; modifying employee
+contribution; modifying top base salary provisions;
+14 modifying positions that receive certain benefit
+computation; providing that certain provisions apply
+15 to certain individuals; providing effective dates;
+providing for contingent effective dates based on
+16 outcome of approval of the emergency clause; and
+declaring an emergency.
+17
+18
+19
+20 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+21 SECTION 1. AMENDATORY 62 O.S. 2021, Section 3103, as
+22 last amended by Section 2, Chapter 361, O.S.L. 2024 (62 O.S. Supp.
+23 2025, Section 3103), is amended to read as follows:
+24
+Req. No. 17082 Page 1
+
+RBH No. 17082
+1 Section 3103. As used in the Oklahoma Pension Legislation
+2 Actuarial Analysis Act:
+3 1. "Amendment" means any amendment, including a substitute
+4 bill, made to a retirement bill by any committee of the House of
+5 Representatives or Senate, any conference committee of the House or
+6 Senate or by the House or Senate;
+7 2. "RB number" means that number preceded by the letters "RB"
+8 assigned to a retirement bill by the respective staffs of the
+9 Oklahoma State Senate and the Oklahoma House of Representatives when
+10 the respective staff office prepares a retirement bill for a member
+11 of the Legislature;
+12 3. "Legislative Actuary" means the firm or entity that enters
+13 into a contract with the Legislative Service Bureau pursuant to
+14 Section 452.15 of Title 74 of the Oklahoma Statutes to provide the
+15 actuarial services and other duties provided for in the Oklahoma
+16 Pension Legislation Actuarial Analysis Act;
+17 4. "Nonfiscal amendment" means an amendment to a retirement
+18 bill having a fiscal impact, which amendment does not change any
+19 factor of an actuarial investigation specified in subsection A of
+20 Section 3109 of this title;
+21 5. "Nonfiscal retirement bill" means a retirement bill:
+22 a. which does not affect the cost or funding factors of a
+23 retirement system,
+24
+Req. No. 17082 Page 2
+
+RBH No. 17082
+1 b. which affects such factors only in a manner which does
+2 not:
+3 (1) grant a benefit increase under the retirement
+4 system affected by the bill,
+5 (2) create an actuarial accrued liability for or
+6 increase the actuarial accrued liability of the
+7 retirement system affected by the bill, or
+8 (3) increase the normal cost of the retirement system
+9 affected by the bill,
+10 c. which authorizes the purchase by an active member of
+11 the retirement system, at the actuarial cost for the
+12 purchase as computed pursuant to the statute in effect
+13 on the effective date of the measure allowing such
+14 purchase, of years of service for purposes of reaching
+15 a normal retirement date in the applicable retirement
+16 system, but which cannot be used in order to compute
+17 the number of years of service for purposes of
+18 computing the retirement benefit for the member,
+19 d. which provides for the computation of a service-
+20 connected disability retirement benefit for members of
+21 the Oklahoma Law Enforcement Retirement System
+22 pursuant to Section 2-305 of Title 47 of the Oklahoma
+23 Statutes if the members were unable to complete twenty
+24 (20) years of service as a result of the disability,
+Req. No. 17082 Page 3
+
+RBH No. 17082
+1 e. which requires membership in the defined benefit plan
+2 authorized by Section 901 et seq. of Title 74 of the
+3 Oklahoma Statutes for persons whose first elected or
+4 appointed service occurs on or after November 1, 2018,
+5 if such persons had any prior service in the Oklahoma
+6 Public Employees Retirement System prior to November
+7 1, 2015,
+8 f. which provides for a one-time increase in retirement
+9 benefits if the increase in retirement benefits is not
+10 a permanent increase in the gross annual retirement
+11 benefit payable to a member or beneficiary, occurs
+12 only once pursuant to a single statutory authorization
+13 and does not exceed:
+14 (1) the lesser of two percent (2%) of the gross
+15 annual retirement benefit of the member or One
+16 Thousand Dollars ($1,000.00) and requires that
+17 the benefit may only be provided if the funded
+18 ratio of the affected retirement system would not
+19 be less than sixty percent (60%) but not greater
+20 than eighty percent (80%) after the benefit
+21 increase is paid,
+22 (2) the lesser of two percent (2%) of the gross
+23 annual retirement benefit of the member or One
+24 Thousand Two Hundred Dollars ($1,200.00) and
+Req. No. 17082 Page 4
+
+RBH No. 17082
+1 requires that the benefit may only be provided if
+2 the funded ratio of the affected retirement
+3 system would be greater than eighty percent (80%)
+4 but not greater than one hundred percent (100%)
+5 after the benefit increase is paid,
+6 (3) the lesser of two percent (2%) of the gross
+7 annual retirement benefit of the member or One
+8 Thousand Four Hundred Dollars ($1,400.00) and
+9 requires that the benefit may only be provided if
+10 the funded ratio of the affected retirement
+11 system would be greater than one hundred percent
+12 (100%) after the benefit increase is paid, or
+13 (4) the greater of two percent (2%) of the gross
+14 annual retirement benefit of the volunteer
+15 firefighter or One Hundred Dollars ($100.00) for
+16 persons who retired from the Oklahoma
+17 Firefighters Pension and Retirement System as
+18 volunteer firefighters and who did not retire
+19 from the Oklahoma Firefighters Pension and
+20 Retirement System as a paid firefighter.
+21 As used in this subparagraph, "funded ratio" means the
+22 figure derived by dividing the actuarial value of
+23 assets of the applicable retirement system by the
+24
+Req. No. 17082 Page 5
+
+RBH No. 17082
+1 actuarial accrued liability of the applicable
+2 retirement system,
+3 g. which modifies the disability pension standard for
+4 police officers who are members of the Oklahoma Police
+5 Pension and Retirement System as provided by Section
+6 50-115 of Title 11 of the Oklahoma Statutes,
+7 h. which provides a cost-of-living benefit increase
+8 pursuant to the provisions of:
+9 (1) Section 49-143.7 of Title 11 of the Oklahoma
+10 Statutes,
+11 (2) Section 50-136.9 of Title 11 of the Oklahoma
+12 Statutes,
+13 (3) Section 1104K of Title 20 of the Oklahoma
+14 Statutes,
+15 (4) Section 2-305.12 of Title 47 of the Oklahoma
+16 Statutes,
+17 (5) Section 17-116.22 of Title 70 of the Oklahoma
+18 Statutes,
+19 (6) Section 930.11 of Title 74 of the Oklahoma
+20 Statutes,
+21 i. which modifies the computation of the line-of-duty
+22 disability benefit pursuant to the provisions of this
+23 section and Sections 50-101 and 50-115 of Title 11 of
+24 the Oklahoma Statutes, or
+Req. No. 17082 Page 6
+
+RBH No. 17082
+1 j. which authorizes membership in the Oklahoma Law
+2 Enforcement Retirement System for active commissioned
+3 or CLEET-certified agents of the Office of the
+4 Attorney General or the Military Department of the
+5 State of Oklahoma pursuant to Sections 3 2-309.9 and 4
+6 2-309.10 of this act Title 47 of the Oklahoma
+7 Statutes, or
+8 k. which modifies employer and employee contribution
+9 rates and expands eligibility for certain benefits
+10 pursuant to Sections 2 and 3 of this act.
+11 A nonfiscal retirement bill shall include any retirement bill that
+12 has as its sole purpose the appropriation or distribution or
+13 redistribution of monies in some manner to a retirement system for
+14 purposes of reducing the unfunded liability of such system or the
+15 earmarking of a portion of the revenue from a tax to a retirement
+16 system or increasing the percentage of the revenue earmarked from a
+17 tax to a retirement system;
+18 6. "Reduction-in-cost amendment" means an amendment to a
+19 retirement bill having a fiscal impact which reduces the cost of the
+20 bill as such cost is determined by the actuarial investigation for
+21 the bill prepared pursuant to Section 3109 of this title;
+22 7. "Retirement bill" means any bill or joint resolution
+23 introduced or any bill or joint resolution amended by a member of
+24 the Legislature which creates or amends any law directly affecting a
+Req. No. 17082 Page 7
+
+RBH No. 17082
+1 reti rement system. A retirement bill shall not mean a bill or
+2 resolution that impacts the revenue of any state tax in which a
+3 portion of the revenue generated from such tax is earmarked for the
+4 benefit of a retirement system;
+5 8. "Retirement bill having a fiscal impact" means any
+6 retirement bill creating or establishing a retirement system and any
+7 other retirement bill other than a nonfiscal retirement bill; and
+8 9. "Retirement system" means the Teachers' Retirement System of
+9 Oklahoma, the Oklahoma Public Employees Retirement System, the
+10 Uniform Retirement System for Justices and Judges, the Oklahoma
+11 Firefighters Pension and Retirement System, the Oklahoma Police
+12 Pension and Retirement System, the Oklahoma Law Enforcement
+13 Retirement System, or a retirement system established after January
+14 1, 2006.
+15 SECTION 2. AMENDATORY 47 O.S. 2021, Section 2-304, as
+16 last amended by Section 2, Chapter 45, O.S.L. 2025 (47 O.S. Supp.
+17 2025, Section 2-304), is amended to read as follows:
+18 Section 2-304. A. Participating Effective July 1, 2026,
+19 participating employers shall contribute to the fund an amount equal
+20 to eleven percent (11%) a percentage of the actual paid base salary
+21 of each member. as follows:
+22 July 1, 2026, through June 30, 2027 12.5%
+23 July 1, 2027, through June 30, 2028 13.5%
+24 July 1, 2028, through June 30, 2029 14.5%
+Req. No. 17082 Page 8
+
+RBH No. 17082
+1 July 1, 2029, through June 30, 2030 15.5%
+2 July 1, 2030, through June 30, 2031, and
+3 each year thereafter 16.5%
+4 B. Each member of the System shall make contributions to the
+5 fund in an amount equal to eight percent (8%) nine percent (9%) of
+6 the actual paid base salary of the member.
+7 Member contributions shall be deducted by each participating
+8 employer for such benefits as the Board is by law authorized to
+9 administer and shall be remitted monthly, or as the Board may
+10 otherwise provide, for deposit in the fund.
+11 C. Each employer shall pick up under the provisions of Section
+12 414(h)(2) of the Internal Revenue Code of 1986 and pay the
+13 contribution which the member is required by law to make to the
+14 System for all compensation earned after December 31, 1989.
+15 Although the contributions so picked up are designated as member
+16 contributions, such contributions shall be treated as contributions
+17 being paid by the employer in lieu of contributions by the member in
+18 determining tax treatment under the Internal Revenue Code of 1986
+19 and such picked up contributions shall not be includable in the
+20 gross income of the member until such amounts are distributed or
+21 made available to the member or the beneficiary of the member. The
+22 member, by the terms of this System, shall not have any option to
+23 choose to receive the contributions so picked up directly and the
+24 picked up contributions must be paid by the employer to the System.
+Req. No. 17082 Page 9
+
+RBH No. 17082
+1 Member contributions which are picked up shall be treated in the
+2 same manner and to the same extent as member contributions made
+3 prior to the date on which member contributions were picked up by
+4 the participating employer. Member contributions so picked up shall
+5 be included in gross salary for purposes of determining benefits and
+6 contributions under the System.
+7 The employer shall pay the member contributions from the same
+8 source of funds used in paying salary to the member, by effecting an
+9 equal cash reduction in gross salary of the member.
+10 SECTION 3. AMENDATORY 47 O.S. 2021, Section 2-305, as
+11 last amended by Section 9, Chapter 151, O.S.L. 2023 (47 O.S. Supp.
+12 2025, Section 2-305), is amended to read as follows:
+13 Section 2-305. A. Except as otherwise provided in this title,
+14 at any time after attaining normal retirement date, any member of
+15 the Oklahoma Law Enforcement Retirement System upon application for
+16 unreduced retirement benefits made and approved, may retire, and,
+17 during the remainder of the member's lifetime, receive annual
+18 retirement pay, payable in equal monthly payments, equal to two and
+19 one-half percent (2 1/2%) of the final average salary times years of
+20 credited service. If such retired member is reemployed by a state
+21 agency in a position which is not covered by the System, such
+22 retired member shall continue to receive in-service distributions
+23 from the System. Prior to September 19, 2002, if such retired
+24 member was reemployed by a state agency in a position which is
+Req. No. 17082 Page 10
+
+RBH No. 17082
+1 cove red by the System, such member shall continue to receive in-
+2 service distributions from the System and shall not accrue any
+3 further credited service. If such a member is reemployed by a state
+4 agency in a position which is covered by the System on or after
+5 September 19, 2002, such member's monthly retirement payments shall
+6 be suspended until such member retires and is not reemployed by a
+7 state agency in a position which is covered by the System.
+8 B. Beginning July 1, 1994, members who retired or were eligible
+9 to retire prior to July 1, 1980, or their surviving spouses shall
+10 receive annual retirement pay, payable in equal monthly payments,
+11 equal to the greater of their current retirement pay, or two and
+12 one-half percent (2 1/2%) of the actual paid gross salary being
+13 currently paid to a highway patrol officer, at the time each such
+14 monthly retirement payment is made, multiplied by the retired
+15 member's years of credited service.
+16 C. Except as otherwise provided by this subsection, members of
+17 the System whose salary is set by statute who have retired after
+18 completion of the mandatory twenty (20) years of service, and those
+19 members with statutory salaries who retire after reaching the
+20 mandatory twenty-year retirement shall receive an annual retirement
+21 pay, payable in equal monthly installments, based upon the greater
+22 of either:
+23 1. The top base salary currently paid to the highest
+24 nonsupervisory position in the participating agency at the time each
+Req. No. 17082 Page 11
+
+RBH No. 17082
+1 such monthly retirement payment is made, limited to the annual
+2 salary limit of the Economic Growth and Tax Relief Reconciliation
+3 Act of 2001, as described in paragraph 9 of Section 2-300 of this
+4 title, multiplied by two and one-half percent (2 1/2%), multiplied
+5 by the number of years of credited service and fraction thereof for
+6 the following positions:
+7 a. Oklahoma Highway Patrolman,
+8 b. Communications Dispatcher,
+9 c. Capitol Patrolman,
+10 d. Lake Patrolman, and
+11 e. Oklahoma State Bureau of Investigation - Special Agent
+12 or Criminalist; or
+13 2. The member's final average salary as set forth in paragraph
+14 9 of Section 2-300 of this title, multiplied by two and one-half
+15 percent (2 1/2%), and multiplied by the number of years of credited
+16 service and fraction thereof.
+17 No member of the System retired prior to July 1, 2002, shall
+18 receive a benefit less than the amount the member is receiving as of
+19 June 30, 2002.
+20 The provisions of paragraph 1 of this subsection shall not be
+21 applicable to any member whose first participating service with the
+22 System occurs on or after November 1, 2012, except for include those
+23 members who died in the performance of their duties pursuant to
+24 Section 2-306 of this title.
+Req. No. 17082 Page 12
+
+RBH No. 17082
+1 D. Other members of the System whose retirement benefit is not
+2 otherwise prescribed by this section who have retired after
+3 completion of the mandatory twenty (20) years of service, and those
+4 members who retire after reaching the mandatory twenty-year
+5 retirement shall receive an annual retirement pay, payable in equal
+6 monthly payments, based upon the greater of either:
+7 1. The actual average salary currently paid to the highest
+8 nonsupervisory position in the participating agency at the time each
+9 such monthly payment is made, limited to the annual salary limit of
+10 the Economic Growth and Tax Relief Reconciliation Act of 2001, as
+11 described in paragraph 9 of Section 2-300 of this title, multiplied
+12 by two and one-half percent (2 1/2%), multiplied by the number of
+13 years of credited service and fraction thereof for the following
+14 positions:
+15 a. Alcoholic Beverage Laws Enforcement Commission - ABLE
+16 Commission Agent III,
+17 b. Oklahoma State Bureau of Narcotics and Dangerous Drugs
+18 Control - Narcotics Agent III,
+19 c. Oklahoma Tourism and Recreation Department - Park
+20 Ranger II,
+21 d. State Board of Pharmacy - Pharmacy Inspector,
+22 e. University of Oklahoma - Police Officer, and
+23 f. Oklahoma State University - Police Officer,
+24 g. Attorney General Agent, and
+Req. No. 17082 Page 13
+
+RBH No. 17082
+1 h. Military Department Police Officer; or
+2 2. The other member's final average salary as set forth in
+3 paragraph 9 of Section 2-300 of this title, multiplied by two and
+4 one-half percent (2 1/2%), multiplied by the number of years of
+5 credited service and fraction thereof.
+6 No member of the System retired prior to July 1, 2002, shall
+7 receive a benefit less than the amount the member is receiving as of
+8 June 30, 2002. The participating employer must certify to the
+9 System in writing the actual average gross salary currently paid to
+10 the highest nonsupervisory position. The Board of Trustees shall
+11 promulgate such rules as are necessary to implement the provisions
+12 of this section.
+13 The provisions of paragraph 1 of this subsection shall not be
+14 applicable to any member whose first participating service with the
+15 System occurs on or after May 24, 2013, except for include those
+16 members who died in the performance of their duties pursuant to
+17 Section 2-306 of this title.
+18 E. A member who meets the definition of disability as defined
+19 in paragraph 11 12 of Section 2-300 of this title by direct reason
+20 of the performance of the member's duties as an officer shall
+21 receive a monthly benefit equal to:
+22 1. Two and one-half percent (2 1/2%);
+23 2. Multiplied by:
+24
+Req. No. 17082 Page 14
+
+RBH No. 17082
+1 a. twenty (20) years of credited service, if the member
+2 had performed less than twenty (20) years of credited
+3 service, notwithstanding the actual number of years of
+4 credited service performed by the member prior to the
+5 date of disability, or
+6 b. the actual number of years of credited service and
+7 fraction thereof performed by the member prior to the
+8 date of disability, if the member had performed twenty
+9 (20) or more years of credited service;
+10 3. Multiplied by the greater of subparagraph a of this
+11 paragraph and division 1 of subparagraph b of this paragraph or
+12 division 2 of subparagraph b of this paragraph, as applicable:
+13 a. the final average salary of the member, as set forth
+14 in paragraph 9 of Section 2-300 of this title, and
+15 b. (1) the top base salary currently paid to the highest
+16 nonsupervisory position in the participating
+17 agency of the member at the time each monthly
+18 payment is made, limited to the annual salary
+19 limit of the Economic Growth and Tax Relief
+20 Reconciliation Act of 2001 described in paragraph
+21 9 of Section 2-300 of this title, for the
+22 following positions:
+23 (a) Oklahoma Highway Patrolman,
+24 (b) Communications Dispatcher,
+Req. No. 17082 Page 15
+
+RBH No. 17082
+1 (c) Capitol Patrolman,
+2 (d) Lake Patrolman, and
+3 (e) Oklahoma State Bureau of Investigation -
+4 Special Agent or Criminalist,
+5 Provided, the participating employer must certify to the System
+6 in writing the top base salary currently paid to the highest
+7 nonsupervisory position for division (1) of subparagraph b of this
+8 paragraph, or
+9 (2) the actual average salary currently paid to the
+10 highest nonsupervisory position in the
+11 participating agency of the member at the time
+12 each monthly payment is made, limited to the
+13 annual salary limit of the Economic Growth and
+14 Tax Relief Reconciliation Act of 2001, described
+15 in paragraph 9 of Section 2-300 of this title,
+16 for the following positions:
+17 (a) Alcoholic Beverage Laws Enforcement (ABLE)
+18 Commission - ABLE Commission Agent III,
+19 (b) Oklahoma State Bureau of Narcotics and
+20 Dangerous Drugs Control - Narcotics Agent
+21 III,
+22 (c) Oklahoma Tourism and Recreation Department -
+23 Park Ranger II,
+24
+Req. No. 17082 Page 16
+
+RBH No. 17082
+1 (d) State Board of Pharmacy - Pharmacy
+2 Inspector,
+3 (e) University of Oklahoma - Police Officer, and
+4 (f) Oklahoma State University - Police Officer,
+5 (g) Attorney General Agent, and
+6 (h) Military Department Police Officer,
+7 Provided, the participating employer must certify to the System
+8 in writing the actual average gross salary currently paid to the
+9 highest nonsupervisory position for division (2) of subparagraph b
+10 of this paragraph;
+11 4. No member of the System receiving benefits prescribed by
+12 this subsection who retired prior to July 1, 2002, shall receive a
+13 benefit of less than the amount the member was receiving as of June
+14 30, 2002;
+15 5. The Board of Trustees shall promulgate rules as necessary to
+16 implement the provisions of this subsection; and
+17 6. If such member participates in the Oklahoma Law Enforcement
+18 Deferred Option Plan pursuant to Section 2-305.2 of this title, then
+19 such member's disability pension provided pursuant to this
+20 subsection shall be reduced to account for such member's
+21 participation in the Oklahoma Law Enforcement Deferred Option Plan.
+22 F. A member who meets the definition of disability as defined
+23 in paragraph 11 12 of Section 2-300 of this title and whose
+24 disability is by means of personal and traumatic injury of a
+Req. No. 17082 Page 17
+
+RBH No. 17082
+1 cata strophic nature and in the line of duty, shall receive a monthly
+2 benefit equal to:
+3 1. Two and one-half percent (2 1/2%);
+4 2. Multiplied by:
+5 a. twenty (20) years of service, regardless of the actual
+6 number of years of credited service performed by the
+7 member prior to the date of disability, if the member
+8 had performed less than twenty (20) years of service,
+9 or
+10 b. the actual number of years of service performed by the
+11 member if the member had performed twenty (20) or more
+12 years of service;
+13 3. Multiplied by a final average salary equal to:
+14 a. the salary which the member would have received
+15 pursuant to statutory salary schedules in effect upon
+16 the date of the disability for twenty (20) years of
+17 service prior to disability. The final average salary
+18 for a member who performed less than twenty (20) years
+19 of service prior to disability shall be computed
+20 assuming that the member was paid the highest salary
+21 allowable pursuant to the law in effect at the time of
+22 the member's disability based upon twenty (20) years
+23 of service and with an assumption that the member was
+24 eligible for any and all increases in pay based upon
+Req. No. 17082 Page 18
+
+RBH No. 17082
+1 rank during the entire period. If the salary of a
+2 member is not prescribed by a specific salary schedule
+3 upon the date of the member's disability, the final
+4 average salary for the member shall be computed by the
+5 member's actual final average salary or the highest
+6 median salary amount for a member whose salary was
+7 prescribed by a specific salary schedule upon the date
+8 of the member's disability, whichever final average
+9 salary amount would be greater, or
+10 b. the actual final average salary of the member if the
+11 member had performed twenty (20) or more years of
+12 service prior to disability.
+13 If such member participates in the Oklahoma Law Enforcement
+14 Deferred Option Plan pursuant to Section 2-305.2 of this title, such
+15 member's disability pension provided pursuant to this subsection
+16 shall be adjusted as provided in Section 2-305.2 of this title to
+17 account for such member's participation in the Oklahoma Law
+18 Enforcement Deferred Option Plan.
+19 G. A member who meets the definition of disability as defined
+20 in Section 2-300 of this title and whose disability occurred prior
+21 to the member's normal retirement date but after completing three
+22 (3) years of vesting service and not by reason of the performance of
+23 the member's duties or as a result of the member's willful
+24 negligence shall receive a monthly benefit equal to two and one-half
+Req. No. 17082 Page 19
+
+RBH No. 17082
+1 perc ent (2 1/2%) of final average salary multiplied by the number of
+2 years of the member's credited service.
+3 H. Payment of a disability pension shall commence as of the
+4 first day of the month coinciding or next following the date of
+5 retirement and shall continue as long as the member meets the
+6 definition of total and permanent disability provided in this
+7 section.
+8 I. For the purpose of determining the member's disability under
+9 subsection E, F or G of this section, the member shall be required
+10 by the Board to be examined by a minimum of two recognized
+11 physicians selected by the Board to determine the extent of the
+12 member's injury or illness. The examining physicians shall furnish
+13 the Board a detailed written report of the injury or illness of the
+14 examined member establishing the extent of disability and the
+15 possibilities of the disabled member being returned to his or her
+16 regular duties or an alternate occupation or service covered by the
+17 System after a normal recuperation period. The Board shall require
+18 all retired disabled members who have not attained their normal
+19 retirement date to submit to a physical examination once each year
+20 for a minimum of three (3) years following retirement. The Board
+21 shall select a minimum of two physicians to examine the retired
+22 members and pay for their services from the fund. Any retired
+23 disabled member found no longer disabled by the examining physicians
+24 to perform the occupation of the member or an alternate occupation
+Req. No. 17082 Page 20
+
+RBH No. 17082
+1 or s ervice covered by the System shall be required to return to duty
+2 and complete twenty (20) years of service as provided in subsection
+3 A of this section, or forfeit all his or her rights and claims under
+4 Section 2-300 et seq. of this title.
+5 J. The disability benefit under this section shall be for the
+6 lifetime of the member unless such member is found no longer
+7 disabled pursuant to subsection I of this section. Such member
+8 shall not be entitled to the retirement benefit pursuant to
+9 subsection A of this section unless such member returns to active
+10 duty and is eligible for a retirement benefit as provided in
+11 subsection A of this section.
+12 K. At the postoffer, preemployment physical examination
+13 required under paragraph 6 of Section 2-300 of this title, the
+14 physician selected by the Board shall determine the extent to which
+15 a new member is disabled. If a member is determined to be partially
+16 disabled, the physician shall assign a percentage of disability to
+17 such partial disability. If such member then becomes entitled to a
+18 disability benefit under either subsection E or subsection G of this
+19 section, the benefit payable shall be reduced by the percentage
+20 which such member was determined to be disabled at the postoffer,
+21 preemployment physical unless the Board makes a determination that
+22 the initially determined percentage of disability at the
+23 preemployment physical examination is unrelated to the reason for
+24 the disability currently sought pursuant to subsection E or
+Req. No. 17082 Page 21
+
+RBH No. 17082
+1 subs ection G of this section. Upon employment, the member shall
+2 disclose to the Board any disability payments received from any
+3 source. The amount of disability to be paid to any member cannot
+4 exceed one hundred percent (100%) disability from all sources. The
+5 provisions of this subsection shall apply only to members whose
+6 effective date of membership is on or after July 1, 2000.
+7 L. In addition to the pension provided for under subsection F
+8 of this section, if the member has one or more children under the
+9 age of eighteen (18) years or under the age of twenty-two (22) years
+10 if the child is enrolled full-time in and is regularly attending a
+11 public or private school or any institution of higher education,
+12 Four Hundred Dollars ($400.00) a month shall be paid from the Fund
+13 for the support of each surviving child to the member or person
+14 having the care and custody of such children until each child
+15 reaches the age of eighteen (18) years or reaches the age of twenty-
+16 two (22) years if the child is enrolled full-time in and is
+17 regularly attending a public or private school or any institution of
+18 higher education.
+19 M. Notwithstanding any other provisions in Section 2-300
+20 through 2-315 of this title, in order to be eligible to receive
+21 disability benefits, a member who meets the definition of disability
+22 as defined in paragraph 11 12 of Section 2-300 of this title shall
+23 file the member's completed application for disability benefits with
+24 the System before such member's date of termination from service and
+Req. No. 17082 Page 22
+
+RBH No. 17082
+1 prov ide such additional information that the System's rules require
+2 within six (6) months of the System's receipt of such application.
+3 If the member's completed application for disability benefits is not
+4 filed with the System before the member's date of termination from
+5 service or such additional information as is required under the
+6 System's rules is not provided within six (6) months of the System's
+7 receipt of such application, such member shall be eligible only for
+8 such other benefits as are available to members of the System and
+9 shall not be eligible to receive any disability benefits. For good
+10 cause shown, the Board of Trustees may waive the requirement that
+11 the disability application be filed before the member's date of
+12 termination from service. In no event shall a member be eligible to
+13 receive any disability benefit if the member's completed application
+14 is filed more than six (6) months after the member's date of
+15 termination from service.
+16 N. If the requirements of Section 2-305.1C of this title are
+17 satisfied, a member who, by reason of disability or attainment of
+18 normal retirement date or age, is separated from service as a public
+19 safety officer with the member's participating employer may elect to
+20 have payment made directly to the provider for qualified health
+21 insurance premiums by deduction from his or her monthly disability
+22 benefit or monthly retirement payment, after December 31, 2006, in
+23 accordance with Section 402(l) of the Internal Revenue Code of 1986,
+24 as amended. For distributions made after December 29, 2022, the
+Req. No. 17082 Page 23
+
+RBH No. 17082
+1 elec tion provided for under Section 402(l) of the Internal Revenue
+2 Code of 1986, as amended, may be made whether payment of the
+3 premiums is made directly to the provider of the accident or health
+4 plan or qualified long-term care insurance contract by deduction
+5 from a distribution from the System or is made to the member.
+6 SECTION 4. If the Emergency Clause is not approved pursuant to
+7 the requirements of the Oklahoma Constitution as part of this
+8 measure, the effective date of Section 1 of this act shall be
+9 October 1, 2026.
+10 SECTION 5. If the Emergency Clause is not approved pursuant to
+11 the requirements of the Oklahoma Constitution as part of this
+12 measure, the effective date of Sections 2 and 3 of this act shall be
+13 November 1, 2026.
+14 SECTION 6. Except as otherwise provided by Section 4 of this
+15 act, Section 1 of this act shall become effective immediately upon
+16 signature by the Governor or as otherwise provided by Section 58 of
+17 Article V of the Oklahoma Constitution.
+18 SECTION 7. Except as otherwise provided by Section 5 of this
+19 act, Sections 2 and 3 of this act shall become effective July 1,
+20 2026.
+21 SECTION 8. It being immediately necessary for the preservation
+22 of the public peace, health or safety, an emergency is hereby
+23
+24
+Req. No. 17082 Page 24
+
+RBH No. 17082
+1 decl ared to exist, by reason whereof this act shall take effect and
+2 be in full force from and after its passage and approval.
+3
+4 60-2-17082 CMA 03/05/26
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 17082 Page 25

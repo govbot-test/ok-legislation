@@ -1,0 +1,342 @@
+Title: 
+Official Title: 
+Source: versions - Floor (House)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 ENGROSSED SENATE
+BILL NO. 1641 By: Daniels of the Senate
+5
+and
+6
+Strom of the House
+7
+8
+9
+10 An Act relating to business entities; amending 18
+O.S. 2021, Sections 2005, as amended by Section 3,
+11 Chapter 121, O.S.L. 2024, 2043, and 2055.2, as
+amended by Section 21, Chapter 121, O.S.L. 2024 (18
+12 O.S. Supp. 2025, Sections 2005 and 2055.2) which
+relate to the Oklahoma Limited Liability Company Act;
+13 requiring submission of electronic mail address of
+certain agents or entities to the Secretary of State;
+14 amending 54 O.S. 2021, Sections 500-201A, 500-210A,
+and 500-902A, which relate to the Uniform Limited
+15 Partnership Act of 2010; requiring submission of
+electronic mail address of certain agents or entities
+16 to the Secretary of State; updating statutory
+references; updating statutory language; and
+17 providing an effective date.
+18
+19
+20 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+21 SECTION 1. AMENDATORY 18 O.S. 2021, Section 2005, as
+22 amended by Section 3, Chapter 121, O.S.L. 2024 (18 O.S. Supp. 2025,
+23 Section 2005), is amended to read as follows:
+24 Section 2005. A. The articles of organization shall set forth:
+SB1641 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+1 1. The name of the limited liability company;
+2 2. The term of the existence of the limited liability company
+3 which may be perpetual; and
+4 3. The street address of its principal place of business,
+5 wherever located, and the name, electronic mail address, and street
+6 address of its registered agent which shall be identical to its
+7 registered office in this state.
+8 B. If the limited liability company is to establish two or more
+9 series of members, managers or membership interests having separate
+10 rights, powers or duties as provided under Section 2054.4 of this
+11 title or Section 14 2054.5 of this act title and the debts,
+12 liabilities and obligations incurred, contracted for or otherwise
+13 existing with respect to a particular series are to be enforceable
+14 against the assets of the series only, the articles of organization
+15 shall set forth a notice of the limitation on liabilities of the
+16 series.
+17 C. The articles of organization may set forth any other matters
+18 the members determine to include. It is not necessary to set out in
+19 the articles of organization any of the powers enumerated in Section
+20 2000 et seq. of this title.
+21 SECTION 2. AMENDATORY 18 O.S. 2021, Section 2043, is
+22 amended to read as follows:
+23 Section 2043. Before transacting business in this state, a
+24 foreign limited liability company shall register with the Office of
+SB1641 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+1 the Secretary of State. In order to register, a foreign limited
+2 liability company shall:
+3 1. Pay to the Secretary of State a registration fee required by
+4 Section 56 2055 of this act title;
+5 2. Provide the Secretary of State with an original certificate
+6 from the certifying officer of the jurisdiction of the foreign
+7 limited liability company’s organization attesting to the foreign
+8 limited liability company’s organization under the laws of such
+9 jurisdiction; and
+10 3. Submit to the Office of the Secretary of State an
+11 application in duplicate for registration as a foreign limited
+12 liability company, signed by a manager, member, or other person, and
+13 setting forth:
+14 a. the name of the foreign limited liability company and,
+15 if different, the name under which it proposes to
+16 transact business in this state,
+17 b. the state or other jurisdiction and date of its
+18 organization,
+19 c. the name, electronic mail address, and street address
+20 of a registered agent in this state which agent shall
+21 be an individual resident of this state, or a domestic
+22 or qualified foreign corporation, limited liability
+23 company, or limited partnership. Each registered
+24 agent shall maintain a business office identical with
+SB1641 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+1 the registered office which is open during regular
+2 business hours to accept service of process and
+3 otherwise perform the functions of a registered agent.
+4 If an additional registered agent is designated,
+5 service of process shall be on that agent and not on
+6 the Secretary of State,
+7 d. a statement that the Office of the Secretary of State
+8 is appointed the agent of the foreign limited
+9 liability company for service of process if no agent
+10 has been appointed under subparagraph c of this
+11 paragraph, or if appointed, the agent’s authority has
+12 been revoked or if the agent cannot be found or served
+13 with the exercise of reasonable diligence,
+14 e. the address of the office required to be maintained in
+15 the state of its organization by the laws of that
+16 state or, if not so required, of the principal office
+17 of the foreign limited liability company, and
+18 f. such additional information as may be necessary or
+19 appropriate in order to enable the Office of the
+20 Secretary of State to determine whether such limited
+21 liability company is entitled to transact business in
+22 this state.
+23
+24
+SB1641 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+1 SECTION 3. AMENDATORY 18 O.S. 2021, Section 2055.2, as
+2 amended by Section 21, Chapter 121, O.S.L. 2024 (18 O.S. Supp. 2025,
+3 Section 2055.2), is amended to read as follows:
+4 Section 2055.2.
+5 ANNUAL CERTIFICATE FOR DOMESTIC LIMITED LIABILITY COMPANY AND
+6 FOREIGN LIMITED LIABILITY COMPANY
+7 A. Every domestic limited liability company and every foreign
+8 limited liability company registered to do business in this state
+9 shall file a certificate each year in the Office of the Secretary of
+10 State, which confirms it is an active business and includes its
+11 principal place of business address and electronic mail address, and
+12 shall pay an annual certificate fee of Twenty-five Dollars ($25.00).
+13 B. The annual certificate shall be due on the anniversary date
+14 of filing the articles of organization, articles of registered
+15 series, or registration, as the case may be, until cancellation of
+16 the articles of organization or articles of registered series or
+17 withdrawal of the registration.
+18 C. The Secretary of State shall, at least sixty (60) days
+19 before the anniversary date of each year, cause a notice of the
+20 annual certificate to be sent to each domestic limited liability
+21 company and registered series and each foreign limited liability
+22 company and registered series required to comply with the provisions
+23 of this section to its last known electronic mail address of record
+24 with the Secretary of State.
+SB1641 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+1 D. A domestic limited liability company or registered series or
+2 foreign limited liability company or registered series that fails to
+3 file the annual certificate and pay the annual certificate fee
+4 within sixty (60) days after the date due shall cease to be in good
+5 standing as a domestic limited liability company or registered
+6 series or registered as a foreign limited liability company or
+7 registered series in this state.
+8 E. Except for accepting a resignation of a registered agent
+9 when a successor registered agent is not being appointed or an
+10 application for reinstatement, the Secretary of State shall not
+11 accept for filing any certificate or articles, or issue any
+12 certificate of good standing, in respect to any domestic limited
+13 liability company or registered series that has ceased to be in good
+14 standing or foreign limited liability company or registered series
+15 that has ceased to be registered, unless or until the domestic
+16 limited liability company or registered series has been reinstated
+17 in good standing or the foreign limited liability company or
+18 registered series has been reinstated as a foreign limited liability
+19 company or registered series duly registered in this state.
+20 F. A domestic limited liability company or registered series
+21 that has ceased to be in good standing or a foreign limited
+22 liability company or registered series that has ceased to be
+23 registered in this state may not maintain any action, suit or
+24 proceeding in any court of this state until the domestic limited
+SB1641 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+1 liab ility company or registered series has been reinstated in good
+2 standing or the foreign limited liability company or registered
+3 series has been reinstated as a foreign limited liability company or
+4 registered series duly registered in this state. An action, suit or
+5 proceeding may not be maintained in any court of this state by any
+6 successor or assignee of the domestic limited liability company or
+7 registered series or foreign limited liability company or registered
+8 series on any right, claim or demand arising out of the transaction
+9 of business by the domestic limited liability company or registered
+10 series after it has ceased to be in good standing or a foreign
+11 limited liability company or registered series that has ceased to be
+12 registered in this state until the domestic limited liability
+13 company or registered series or foreign limited liability company or
+14 registered series, or any person that has acquired all or
+15 substantially all of its assets, has caused the limited liability
+16 company or registered series to be reinstated in good standing or as
+17 a foreign limited liability company or registered series duly
+18 registered in this state, as applicable.
+19 SECTION 4. AMENDATORY 54 O.S. 2021, Section 500-201A, is
+20 amended to read as follows:
+21 Section 500-201A.
+22 FORMATION OF LIMITED PARTNERSHIP; CERTIFICATE OF LIMITED
+23 PARTNERSHIP.
+24
+SB1641 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+
+1 (a) In order for a limited partnership to be formed, a
+2 certificate of limited partnership must be delivered to the
+3 Secretary of State for filing. The certificate must state:
+4 (1) the name of the limited partnership, which must comply with
+5 Section 8 500-108A of this act title;
+6 (2) the electronic mail address and the street and mailing
+7 address of the initial designated office and the name, electronic
+8 mail address, and street and mailing address of the initial agent
+9 for service of process;
+10 (3) the name, electronic mail address, and the street and
+11 mailing address of each general partner;
+12 (4) whether the limited partnership is a limited liability
+13 limited partnership;
+14 (5) the term of its duration if the duration is not to be
+15 perpetual; and
+16 (6) any additional information required by Article 11 Sections
+17 500-1101A through 500-1113A of this act title.
+18 (b) A certificate of limited partnership may also contain any
+19 other matters but may not vary or otherwise affect the provisions
+20 specified in subsection (b) of Section 10 500-110A of this act title
+21 in a manner inconsistent with that section.
+22 (c) If there has been substantial compliance with subsection
+23 (a) of this section, subject to subsection (c) of Section 24 500-
+24
+SB1641 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+
+1 206A of this act title, a limited partnership is formed when the
+2 Secretary of State files the certificate of limited partnership.
+3 (d) Subject to subsection (b) of this section, if any provision
+4 of a partnership agreement is inconsistent with the filed
+5 certificate of limited partnership or with a filed statement of
+6 dissociation, cessation, or change or filed articles of conversion
+7 or merger:
+8 (1) the partnership agreement prevails as to partners and
+9 transferees; and
+10 (2) the filed certificate of limited partnership, statement of
+11 dissociation, cessation, or change or articles of conversion or
+12 merger prevail as to persons, other than partners and transferees,
+13 that reasonably rely on the filed record to their detriment.
+14 SECTION 5. AMENDATORY 54 O.S. 2021, Section 500-210A, is
+15 amended to read as follows:
+16 Section 500-210A.
+17 ANNUAL CERTIFICATE FOR SECRETARY OF STATE.
+18 (a) A limited partnership or a foreign limited partnership
+19 authorized to transact business in this state shall deliver to the
+20 Secretary of State for filing an annual certificate that states:
+21 (1) the name of the limited partnership or foreign limited
+22 partnership;
+23 (2) the street, mailing address and electronic mail address of
+24 its designated office and the name, electronic mail address, and
+SB1641 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+
+1 stre et and mailing address of its agent for service of process in
+2 this state; and
+3 (3) in the case of a foreign limited partnership, the state or
+4 other jurisdiction under whose law the foreign limited partnership
+5 is formed and any fictitious name adopted under subsection (a) of
+6 Section 500-905A of this title.
+7 (b) Information in an annual certificate must be current as of
+8 the date the annual certificate is delivered to the Secretary of
+9 State for filing.
+10 (c) The annual certificate is due on the anniversary date of
+11 the filing of the certificate of limited partnership or certificate
+12 of authority of a foreign limited partnership until cancellation of
+13 the certificate of limited partnership or certificate of authority.
+14 (d) The Secretary of State shall, at least sixty (60) days
+15 before the anniversary date of each year, cause a notice of the
+16 annual certificate to be sent to each domestic limited partnership
+17 and each foreign limited partnership required to comply with the
+18 provisions of this section to the last known electronic mail address
+19 of record with the Secretary of State.
+20 SECTION 6. AMENDATORY 54 O.S. 2021, Section 500-902A, is
+21 amended to read as follows:
+22 Section 500-902A.
+23 APPLICATION FOR CERTIFICATE OF AUTHORITY.
+24
+SB1641 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+
+1 (a) A foreign limited partnership may apply for a certificate
+2 of authority to transact business in this state by delivering an
+3 application to the Secretary of State for filing. The application
+4 must state:
+5 (1) the name of the foreign limited partnership and, if the
+6 name does not comply with Section 8 500-108A of this act title, a
+7 fictitious name adopted pursuant to subsection (a) of Section 79
+8 500-905A of this act. title;
+9 (2) the name of the state or other jurisdiction under whose law
+10 the foreign limited partnership is organized;
+11 (3) the electronic mail address, and the street and mailing
+12 address of the foreign limited partnership’s principal office and,
+13 if the laws of the jurisdiction under which the foreign limited
+14 partnership is organized require the foreign limited partnership to
+15 maintain an office in that jurisdiction, the electronic mail
+16 address, and the street and mailing address of the required office;
+17 (4) the name, electronic mail address, and street and mailing
+18 address of the foreign limited partnership’s initial agent for
+19 service of process in this state;
+20 (5) a statement that the Secretary of State is appointed the
+21 agent of the foreign limited partnership for service of process if
+22 no agent has been appointed pursuant to paragraph (4) of this
+23 subsection or, if appointed, the agent’s authority has been revoked
+24
+SB1641 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+
+1 or i f the agent cannot be found or served with the exercise of
+2 reasonable diligence;
+3 (6) the name, electronic mail address, and street and mailing
+4 address of each of the foreign limited partnership’s general
+5 partners; and
+6 (7) whether the foreign limited partnership is a foreign
+7 limited liability limited partnership.
+8 (b) A foreign limited partnership shall deliver with the
+9 completed application a certificate of good standing or existence or
+10 a record of similar import signed by the Secretary of State or other
+11 official having custody of the foreign limited partnership’s
+12 publicly filed records in the state or other jurisdiction under
+13 whose law the foreign limited partnership is organized.
+14 SECTION 7. This act shall become effective November 1, 2026.
+15
+16 COMMITTEE REPORT BY: COMMITTEE ON COMMERCE AND ECONOMIC DEVELOPMENT
+OVERSIGHT, dated 04/20/2026 - DO PASS.
+17
+18
+19
+20
+21
+22
+23
+24
+SB1641 HFLR Page 12
+BOLD FACE denotes Committee Amendments.
