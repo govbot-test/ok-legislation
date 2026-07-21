@@ -1,0 +1,338 @@
+Title: 
+Official Title: 
+Source: versions - Floor (House)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 HOUSE BILL 2939 By: Olsen of the House
+5 and
+6 McIntosh of the Senate
+7
+8
+9 AS INTRODUCED
+10 An Act relating to elections; amending 26 O.S. 2021,
+Section 7-129.2, 26 O.S. 2021, Sections 14-105, as
+11 amended by Section 1, Chapter 292, O.S.L. 2022, 14-
+110.1, as amended by Section 2, Chapter 292, O.S.L.
+12 2022, 14-118, as amended by Section 3, Chapter 317,
+O.S.L. 2025 (26 O.S. Supp. 2025, Sections 14-105, 14-
+13 110.1, and 14-118), 26 O.S. 2021, Section 14-144, 26
+O.S. 2021, Section 14-151, which relate to use of
+14 facsimile devices in absentee voting; repealing use
+of facsimile devices in absentee voting processes;
+15 repealing 26 O.S. 2021, Section 14-118.1, which
+relates to transmittal of ballot by facsimile device;
+16 and providing an effective date.
+17
+18
+19 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+20 SECTION 1. AMENDATORY 26 O.S. 2021, Section 7-129.2, is
+21 amended to read as follows:
+22 Section 7-129.2. A. In the event an absentee ballot is
+23 mutilated, defaced or damaged in a manner that it cannot be read by
+24 the voting device and thus not counted during the counting process,
+HB2939 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+1 then two members of the county election board of different political
+2 party affiliations or two members of an absentee voting board under
+3 the supervision of the county election board shall be authorized to
+4 mark a substitute ballot in identical fashion, insofar as is
+5 possible. Once so marked, the substitute ballot shall be entered
+6 for counting into the voting device. A written record of such
+7 action shall be made by the two county election board members.
+8 B. In the event of an absentee ballot that was delivered
+9 electronically to a voter as described in Section 14-118 of this
+10 title, or an absentee ballot that was received from a voter by
+11 facsimile device as described by Section 14-118.1 of this title, and
+12 the ballot cannot be read by the voting device, then two members of
+13 the county election board of different political party affiliations
+14 or two members of an absentee voting board under the supervision of
+15 the county election board shall be authorized to mark a substitute
+16 ballot in identical fashion, insofar as is possible. Once so
+17 marked, the substitute ballot shall be entered for counting into the
+18 voting device. A written record of such action shall be made by the
+19 two county election board members.
+20 C. In the event there is a disagreement about how a substitute
+21 ballot should be marked for any race, the matter shall be brought
+22 immediately before the full county election board, which shall vote
+23 to decide how to mark the ballot.
+24
+HB2939 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+1 SECTION 2. AMENDATORY 26 O.S. 2021, Section 14-105, as
+2 amended by Section 1, Chapter 292, O.S.L. 2022 (26 O.S. Supp. 2025,
+3 Section 14-105), is amended to read as follows:
+4 Section 14-105. A. Any registered voter may apply for an
+5 absentee ballot in person at the county election board, by United
+6 States mail, by facsimile device as defined in Section 1862 of Title
+7 21 of the Oklahoma Statutes or by a means of electronic
+8 communication designated by the Secretary of the State Election
+9 Board. The Secretary of the State Election Board shall prescribe a
+10 form to be used for the application, although any application
+11 setting forth substantially the same facts shall be valid.
+12 B. 1. A registered voter applying for an absentee ballot by
+13 means of electronic communication shall provide his or her name,
+14 birth date, an identification number, and other information as may
+15 be prescribed by the Secretary of the State Election Board. The
+16 name, birth date, and identification number provided on the
+17 application must match the name, birth date, and identification
+18 number in the voter registration record in order to apply for an
+19 absentee ballot pursuant to this subsection.
+20 2. If the voter does not recall which identification number he
+21 or she included in the voter registration record, the voter may
+22 provide multiple identification numbers, at least one of which must
+23 match the identification number in the voter registration record if
+24 such record included an identification number. If the name, birth
+HB2939 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+1 date , or any identification number provided does not match the voter
+2 registration record, the voter shall be informed of the failure to
+3 match the voter registration record and shall be provided
+4 information and instruction to contact the county election board.
+5 3. If the voter registration record on file with the county
+6 election board does not contain a birth date or identification
+7 number, the voter shall not be eligible to apply for an absentee
+8 ballot by means of electronic communication but may apply for an
+9 absentee ballot pursuant to subsection C of this section.
+10 4. Identifying information such as birth date and
+11 identification number shall not be modified online in an existing
+12 voter registration except as provided in Section 4-109.4 of this
+13 title.
+14 5. No later than January 1, 2023, a registered voter applying
+15 for an absentee ballot pursuant to this subsection who meets the
+16 criteria provided in Section 7-115.1 of this title shall be required
+17 to confirm his or her address prior to submitting an application for
+18 absentee ballot by means of electronic communication.
+19 C. 1. A registered voter applying for an absentee ballot in
+20 person, or by United States mail, or by facsimile device shall
+21 provide his or her name, birth date, an identification number, and
+22 other information as may be prescribed by the Secretary of the State
+23 Election Board. The name, birth date, and identification number
+24
+HB2939 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+1 prov ided on the application must match the name, birth date, and
+2 identification number in the voter registration record.
+3 2. If the voter does not recall which identification number he
+4 or she included in the voter registration record, the voter may
+5 provide multiple identification numbers, at least one of which must
+6 match the identification number in the voter registration record if
+7 such record included an identification number. If the voter
+8 registration record does not contain a birth date or an
+9 identification number, the absentee ballot application shall be
+10 accepted without a match of a birth date or an identification
+11 number.
+12 D. For purposes of this section, "identification number" means
+13 a number submitted on the registration application pursuant to
+14 paragraph 3 of subsection A of Section 4-112 of this title.
+15 SECTION 3. AMENDATORY 26 O.S. 2021, Section 14-110.1, as
+16 amended by Section 2, Chapter 292, O.S.L. 2022 (26 O.S. Supp. 2025,
+17 Section 14-110.1), is amended to read as follows:
+18 Section 14-110.1. A registered voter who swears or affirms that
+19 the voter is physically unable to vote in person at the precinct on
+20 the day of the election because the voter is:
+21 1. Physically incapacitated; or
+22 2. Charged with the care of another person who is physically
+23 incapacitated and who cannot be left unattended;
+24
+HB2939 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+1 may apply for an absentee ballot. Such applications may be made by
+2 United States mail, by facsimile device as defined by Section 1862
+3 of Title 21 of the Oklahoma Statutes or by a means of electronic
+4 communication designated by the Secretary of the State Election
+5 Board or may be made in person at the office of the county election
+6 board by an agent of the voter. Such an agent shall be a person of
+7 the voter's choosing who is at least sixteen (16) years of age and
+8 who is not employed by or related within the third degree of
+9 consanguinity or affinity to any person whose name appears on the
+10 ballot. No person may be the agent for more than one voter at any
+11 election. The Secretary of the State Election Board shall prescribe
+12 a form to be used for the application, although any application
+13 setting forth substantially the same facts shall be valid.
+14 Requirements for matching of name, birth date, and identification
+15 number established pursuant to Section 14-105 of this title shall
+16 apply to applications for absentee ballots under this section.
+17 SECTION 4. AMENDATORY 26 O.S. 2021, Section 14-118, as
+18 amended by Section 3, Chapter 317, O.S.L. 2025 (26 O.S. Supp. 2025,
+19 Section 14-118), is amended to read as follows:
+20 Section 14-118. A. 1. When an application for an absentee
+21 ballot from a uniformed-service voter or an overseas voter pursuant
+22 to Section 14-142 of this title is received by the secretary of a
+23 county election board, it shall be the duty of the secretary to
+24 transmit by United States mail, by facsimile device as defined in
+HB2939 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+1 Sect ion 1862 of Title 21 of the Oklahoma Statutes, or as provided in
+2 subsection B of this section the ballots which the elector has
+3 requested and is entitled to receive.
+4 2. When an application for an absentee ballot is received at
+5 least forty-five (45) days before a regular election involving state
+6 offices or a regular or special election involving federal offices,
+7 the absentee ballot shall be transmitted by mail, by electronic
+8 mail, or by other means of electronic communication, as provided in
+9 this section, or by facsimile device as provided in Section 14-118.1
+10 of this title, not less than forty-five (45) days preceding the
+11 election.
+12 3. When an application for an absentee ballot for a regular
+13 election involving state offices or a regular or special election
+14 involving federal offices is received less than forty-five (45) days
+15 preceding the election, the absentee ballot shall be transmitted by
+16 mail, by electronic mail, or by other means of electronic
+17 communication, as provided in this section, or by facsimile device
+18 as provided in Section 14-118.1 of this title, within forty-eight
+19 (48) hours of receipt of the application.
+20 4. When an application for an absentee ballot is received for a
+21 special election involving state offices, the absentee ballot shall
+22 be transmitted by mail, by electronic mail, or by other means of
+23 electronic communication, as provided in this section, or by
+24
+HB2939 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+
+1 facs imile device as provided in Section 14-118.1 of this title, as
+2 soon as practicable preceding the date of the election.
+3 B. The secretary of the county election board may transmit
+4 balloting materials for any state or federal election, or for any
+5 other election as designated by the Secretary of the State Election
+6 Board as provided in subsection D of this section, by electronic
+7 mail or by other means of electronic communication in a form and
+8 manner prescribed by the Secretary of the State Election Board, if
+9 the voter:
+10 1. Is a Federal Post Card Application registrant and is
+11 eligible to receive an absentee ballot as provided by law;
+12 2. Provides an electronic mail address; and
+13 3. Requests that balloting materials be sent by electronic
+14 mail.
+15 If the secretary of the county election board transmits a ballot
+16 to a voter by electronic mail or by other means of electronic
+17 communication as provided in this subsection, the secretary shall
+18 amend the voter's federal postcard application for future elections
+19 to include the voter's electronic mail address.
+20 C. An electronic mail address provided under this section is
+21 confidential and does not constitute public information for purposes
+22 of the Oklahoma Open Records Act. The secretary of the county
+23 election board shall ensure that an electronic mail address provided
+24 under this section is excluded from disclosure.
+HB2939 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+
+1 D. The Secretary of the State Election Board shall determine if
+2 balloting materials for any election other than a state or federal
+3 election may be produced in a form which would allow them to be
+4 transmitted by electronic mail or by other means of electronic
+5 communication. If so, the Secretary shall so designate them. If
+6 such designation is not made, the balloting materials may be
+7 transmitted to the voter as provided in subsection A of this
+8 section.
+9 E. All other provisions of this title that would normally apply
+10 to a ballot voted under this title apply to a ballot provided
+11 pursuant to the provisions of subsection B of this section.
+12 F. The Secretary of the State Election Board may suspend the
+13 provisions of subsection B of this section if the Secretary
+14 determines that electronic transmission of balloting materials is
+15 not in the best interest of the people of this state due to a
+16 potential problem with the security of the balloting materials.
+17 SECTION 5. AMENDATORY 26 O.S. 2021, Section 14-144, is
+18 amended to read as follows:
+19 Section 14-144. A. For an election described in paragraph 1 or
+20 2 of Section 3 of this act for which this state has not received a
+21 waiver pursuant to Section 579 of the Military and Overseas Voter
+22 Empowerment Act, 42 U.S.C. 1973ff-1(g)(2), the election official in
+23 each jurisdiction charged with distributing a ballot and balloting
+24 materials shall transmit a ballot and balloting materials to all
+HB2939 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+
+1 cove red voters who submit a valid military-overseas ballot
+2 application as required by Section 14-118 of Title 26 of the
+3 Oklahoma Statutes.
+4 B. A covered voter who requests that a ballot and balloting
+5 materials be sent to the voter by electronic transmission may choose
+6 facsimile transmission or electronic mail delivery, or, if offered
+7 by the voter's jurisdiction, Internet delivery. The election
+8 official in each jurisdiction charged with distributing a ballot and
+9 balloting materials shall transmit the ballot and balloting
+10 materials to the voter using the means of transmission chosen by the
+11 voter.
+12 C. If a ballot application from a covered voter arrives after
+13 the jurisdiction begins transmitting ballots and balloting materials
+14 to voters, the official charged with distributing a ballot and
+15 balloting materials shall transmit them to the voter not later than
+16 two business days after the application arrives.
+17 SECTION 6. AMENDATORY 26 O.S. 2021, Section 14-151, is
+18 amended to read as follows:
+19 Section 14-151. A. At least one hundred (100) days before a
+20 regularly scheduled election and as soon as practicable before an
+21 election not regularly scheduled, an official in each jurisdiction
+22 charged with printing and distributing ballots and balloting
+23 material shall prepare an election notice for that jurisdiction, to
+24 be used in conjunction with a federal write-in absentee ballot. The
+HB2939 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+
+1 elec tion notice must contain a list of all of the ballot measures
+2 and federal, state, and local offices that as of that date the
+3 official expects to be on the ballot on the date of the election.
+4 The notice also must contain specific instructions for how a voter
+5 is to indicate on the federal write-in absentee ballot the voter's
+6 choice for each office to be filled and for each ballot measure to
+7 be contested.
+8 B. A covered voter may request a copy of an election notice.
+9 The official charged with preparing the election notice shall send
+10 the notice to the voter by facsimile, electronic mail, or regular
+11 mail, as the voter requests.
+12 C. As soon as ballot styles are certified, and not later than
+13 the date ballots are required to be transmitted to voters under
+14 Section 14-106 of Title 26 of the Oklahoma Statutes, the official
+15 charged with preparing the election notice under subsection A of
+16 this section shall update the notice with the certified candidates
+17 for each office and ballot measure questions and make the updated
+18 notice publicly available.
+19 D. A local election jurisdiction that maintains an Internet
+20 website shall make the election notice prepared under subsection A
+21 of this section and updated versions of the election notice
+22 regularly available on the website.
+23 SECTION 7. REPEALER 26 O.S. 2021, Section 14-118.1, is
+24 hereby repealed.
+HB2939 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+
+1 SECTION 8. This act shall become effective November 1, 2026.
+2
+3 COMMITTEE REPORT BY: COMMITTEE ON GOVERNMENT OVERSIGHT, dated
+03/05/2026 - DO PASS, As Amended and Coauthored.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+HB2939 HFLR Page 12
+BOLD FACE denotes Committee Amendments.

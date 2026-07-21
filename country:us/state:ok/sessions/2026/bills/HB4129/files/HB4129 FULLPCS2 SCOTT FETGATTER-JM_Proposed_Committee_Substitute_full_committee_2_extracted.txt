@@ -1,0 +1,3189 @@
+Title: 
+Official Title: 
+Source: versions - Proposed Committee Substitute (full committee) 2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB4129 FULLPCS2 Scott Fetgatter-JM
+3/4/2026 2:03:28 pm
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB4129
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Scott Fetgatter
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED COMMITTEE
+SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 4129 By: Fetgatter
+5
+6
+7
+8 PROPOSED COMMITTEE SUBSTITUTE
+9 An Act relating to public finance; enacting the
+Office of Management and Enterprise Services
+10 Efficiency Act of 2026; designating the Chief
+Operating Officer the supervisor and director of the
+11 Office of Management and Enterprise Services;
+organizing the Office of Management and Enterprise
+12 Services into five units; organizing the Office of
+Management and Enterprise Services into component
+13 units for Administration, Capital Assets Management,
+Central Purchasing, Human Capital Management, and
+14 Risk Assessment and Compliance; assigning duties
+related to information technology to the State Chief
+15 Information Officer; transferring duties related to
+reporting and analyzing of state revenues, assistance
+16 to the State Board of Equalization, and assistance
+related to the preparation of the annual Executive
+17 Budget to the Oklahoma Tax Commission - Office of the
+State Chief Financial Officer; creating the office of
+18 the State Chief Operating Officer; providing
+appointment authority to the Governor with the advice
+19 and consent of the Senate; establishing
+qualifications for the State Chief Operating Officer;
+20 clarifying authority; providing for removal under
+certain conditions and process; amending 62 O.S.
+21 2021, Section 34.3, which relates to the duties of
+the Office of Management and Enterprise Services;
+22 enumerating duties; updating references; amending 62
+O.S. 2021, Sections 34.11, as last amended by Section
+23 1, Chapter 36, 1st Ex. Session, O.S.L. 2023, and
+34.11.1, as amended by Section 1, Chapter 193, O.S.L.
+24 2024, (62 O.S. Supp. 2025, Sections 34.11 and
+Req. No. 16852 Page 1
+
+1 34.11.1), which relate to the Chief Information
+Officer, changing title to State Chief Information
+2 Officer; creating the Office of Strategic Technology
+Solutions and transferring position and duties from
+3 the Information Division of the Office of Management
+and Enterprise Services to the Office of Strategic
+4 Technology; transferring funds, personnel, records,
+and property from the Information Division of the
+5 Office of Management and Enterprise Services to the
+Office of Strategic Technology; establishing duties
+6 of the State Chief Information Officer; eliminating
+certain authority to contract; amending 62 O.S. 2021,
+7 Sections 34.3.1, 34.5, 34.9, 34.11.1.2, 34.22, 34.27,
+34.28, 34.34, 34.35, 34.62, 34.63, 34.64, 34.65,
+8 34.66, 34.67, 34.68, 34.69, 34.70, as amended by
+Section 1, Chapter 167, O.S.L. 2023, 34.71, 34.72,
+9 34.74, 34.75, 34.77, 34.78, 34.80, 34.81, 34.82,
+34.83, 34.90, 34.91, 34.92, 34.203, 34.204, (62 O.S.
+10 Supp 2025, Section 34.70) and Section 1, Chapter 36,
+1st Extraordinary Session, O.S.L. 2023 (62 O.S. Supp.
+11 2025, Section 34.11.1.2), which relate to duties of
+the Director of the Office of Management and
+12 Enterprise Services; transferring certain duties to
+the State Chief Operating Officer; amending 62 O.S.
+13 2021, Sections 34.2, as amended by Section 1, Chapter
+86, O.S.L. 2025, 34.6, as amended by Section 2,
+14 Chapter 14, 2nd Extraordinary Session, O.S.L. 2022,
+34.7, 34.10, as amended by Section 1, Chapter 39,
+15 O.S.L. 2024, 34.11, 34.36, as amended by Section 2,
+Chapter 193, O.S.L. 2025, 34.36.1, 34.40, 34.41,
+16 34.42, as last amended by Section 3, Chapter 199,
+O.S.L. 2025, 34.43, 34.44, 34,47, 34,49, 34.50,
+17 34.51, 34.52, 34.53, as amended by Section 1, Chapter
+84, O.S.L. 2025, 34.54, 34.55, 34.56, 34.58, 34.87,
+18 as amended by Section 1, Chapter 409, O.S.L. 2024,
+34.102, (62 O.S. Supp. 2025, Sections 34.2, 34.6,
+19 34.10, 34.36, 34.42, 34.53, and 34.87), which relate
+to duties of the Director of the Office of Management
+20 and Enterprise Services; transferring certain duties
+to the State Chief Financial Officer; amending 68
+21 O.S. 2021, Section 102, which relates to the duties
+of the Oklahoma Tax Commission; establishing the
+22 Office of the State Chief Financial Officer at the
+Oklahoma Tax Commission; creating the office of the
+23 State Chief Financial Officer; providing appointment
+authority to the Governor with the advice and consent
+24 of the Senate; establishing qualifications for the
+Req. No. 16852 Page 2
+
+1 State Chief Financial Officer; clarifying authority;
+providing for removal under certain conditions and
+2 process; limiting timing of applicability of certain
+amendments to certain authorities; providing for
+3 noncodification; providing for codification;
+providing an effective date; and declaring an
+4 emergency.
+5
+6
+7 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+8 SECTION 1. NEW LAW A new section of law not to be
+9 codified in the Oklahoma Statutes reads as follows:
+10 This act shall be known and may be cited as the "Office of
+11 Management and Enterprise Services Efficiency Act of 2026".
+12 SECTION 2. NEW LAW A new section of law to be codified
+13 in the Oklahoma Statutes as Section 34.5.1 of Title 62, unless there
+14 is created a duplication in numbering, reads as follows:
+15 A. The Office of Management and Enterprise Services shall be
+16 supervised and directed by the State Chief Operating Officer.
+17 B. The State Chief Operating Officer of the Office of
+18 Management and Enterprise Services shall organize the Office into
+19 functional units as follows:
+20 1. Administration;
+21 2. Capital Assets Management;
+22 3. Central Purchasing;
+23 4. Human Capital Management; and
+24 5. Risk Assessment and Compliance.
+Req. No. 16852 Page 3
+
+1 SECTION 3. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 34.11.1-A of Title 62, unless
+3 there is created a duplication in numbering, reads as follows:
+4 The functions of the Office of Management and Enterprise
+5 Services related to information technology shall be supervised by
+6 the State Chief Information Officer.
+7 SECTION 4. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 34.34.1 of Title 62, unless
+9 there is created a duplication in numbering, reads as follows:
+10 A. The Oklahoma Tax Commission-Office of the State Chief
+11 Financial Officer shall perform the duties and responsibilities
+12 previously assigned to the Office of Management and Enterprise
+13 Services with reporting and analyzing state revenue information and
+14 to assist in the presentation and analysis of state revenue
+15 information as part of the duties of the State Board of Equalization
+16 with respect to the appropriation of public funds pursuant to
+17 Section 23 of Article X of the Oklahoma Constitution.
+18 B. Upon request by the Governor, the Oklahoma Tax Commission-
+19 Office of the State Chief Financial Officer shall provide such
+20 assistance as may be required for the preparation of the annual
+21 Executive Budget.
+22 C. The Oklahoma Tax Commission shall house the Office of the
+23 State Chief Financial Officer and associated staff.
+24
+Req. No. 16852 Page 4
+
+1 SECTION 5. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 34.5.2A of Title 62, unless
+3 there is created a duplication in numbering, reads as follows:
+4 A. The Governor shall appoint, with the advice and consent of
+5 the Senate, a State Chief Operating Officer (State COO) of the State
+6 of Oklahoma.
+7 B. The State COO shall have a four-year degree in public
+8 administration, business management or a related field, and not less
+9 than eight (8) years' experience, with progressive responsibility
+10 and management, in public budget administration, or in a related
+11 position involving administrative or operational responsibility, or
+12 any equivalent combination of experience and training.
+13 C. The State COO shall be selected with special reference to
+14 his or her training, experience, capacity and interest in the
+15 activities embraced within Title 74 of the Oklahoma Statutes and
+16 other applicable provisions of law. The State COO's knowledge,
+17 experience, and demonstrated abilities should encompass each of the
+18 following:
+19 1. A comprehensive knowledge of the principles and practices of
+20 public administration and organizational management, and a working
+21 knowledge of governmental accounting;
+22 2. An extensive knowledge of the organization and operations of
+23 state departments, agencies and institutions, and of principles of
+24 public organization and administration;
+Req. No. 16852 Page 5
+
+1 3. Demonstrated success in managing the operations of a
+2 government entity or large organization, and in the maintenance of
+3 effective working relationships with all state officials concerned
+4 with state operations; and
+5 4. The ability to organize and present clearly oral and written
+6 reports of findings and recommendations.
+7 D. The Governor may remove the State Chief Operating Officer
+8 for good cause shown.
+9 E. Any person appointed to the position of State Chief
+10 Operating Officer pursuant to the provisions of this section shall
+11 have full authority to take any actions authorized or required by
+12 law pending the confirmation of the person by the Oklahoma State
+13 Senate.
+14 F. The Legislature may remove the State Chief Operating Officer
+15 upon the vote of two-thirds (2/3) of the members elected to and
+16 constituting each chamber. If a measure is used for the removal, it
+17 shall be in the form of a concurrent resolution and shall not be
+18 presented to the Governor.
+19 SECTION 6. AMENDATORY 62 O.S. 2021, Section 34.2, as
+20 amended by Section 1, Chapter 86, O.S.L. 2025 (62 O.S. Supp. 2025,
+21 Section 34.2), is amended to read as follows:
+22 Section 34.2. A. Agencies responsible for the collection of
+23 monies deposited to the credit of the General Revenue Fund and each
+24 of the Special Revenue Funds shall be subject to the provisions of
+Req. No. 16852 Page 6
+
+1 this act. Upon request of the Director of the Office of Management
+2 and Enterprise Services State Chief Financial Officer, these
+3 agencies shall provide the Director of the Office of Management and
+4 Enterprise Services State Chief Financial Officer an itemized
+5 estimate of funds expected to accrue to the General Revenue Fund and
+6 each of the Special Revenue Funds for the ensuing fiscal year in the
+7 manner and form established by the Director State Chief Financial
+8 Officer, in accordance with the duties assigned to the State Board
+9 of Equalization in Section 23 of Article X of the Oklahoma
+10 Constitution. Each of these agencies shall also provide to the
+11 Director State Chief Financial Officer, as requested, a written
+12 explanation of the methodology and relevant assumptions used in
+13 developing the current and future revenue estimates submitted, a
+14 statement of:
+15 1. The prior year's actual revenue collections;
+16 2. A projection of the current year's revenue collections; and
+17 3. Estimated revenue collections for the ensuing fiscal year.
+18 No expenditure shall be made from any General Revenue Fund or
+19 Special Revenue Fund until such fund has been assigned to an agency
+20 by law or by the Director of the Office of Management and Enterprise
+21 Services State Chief Financial Officer.
+22 B. In addition to providing the information listed above, the
+23 Oklahoma Tax Commission shall also provide to the Director of the
+24 Office of Management and Enterprise Services State Chief Financial
+Req. No. 16852 Page 7
+
+1 Offi cer a comprehensive economic report no later than two (2) weeks
+2 prior to each of the meetings of the State Board of Equalization
+3 pursuant to paragraphs 1 and 3 of Section 23 of Article X of the
+4 Constitution of the State of Oklahoma. Each report shall include a
+5 summary of recent national and state economic performance and a
+6 forecast of national and state economic performance for the current
+7 fiscal year and the ensuing fiscal year. These reports shall be
+8 considered a basis upon which the itemized revenue estimates of the
+9 Commission are developed. The report shall include an analysis of
+10 the relative accuracy of the economic forecasts on which the
+11 previous and current fiscal years' revenue estimates were based.
+12 C. The Tax Commission shall also provide all estimates,
+13 explanations, statements, projections, reports and other documents
+14 required by this section to the President Pro Tempore of the Senate,
+15 members of the Senate Appropriations and Finance Committees, the
+16 Speaker of the House of Representatives and members of the House
+17 Appropriations and Budget Committee at the same time that such
+18 documents are provided to the Director of the Office of Management
+19 and Enterprise Services State Chief Financial Officer.
+20 SECTION 7. AMENDATORY 62 O.S. 2021, Section 34.3, is
+21 amended to read as follows:
+22 Section 34.3. A. There is hereby created in the Executive
+23 Department, the Office of Management and Enterprise Services.
+24
+Req. No. 16852 Page 8
+
+1 B. The Office of Management and Enterprise Services shall
+2 manage the centralized administrative services provided to support
+3 the operations of state agencies, including:
+4 1. Printing and interagency mail;
+5 2. Construction, property, and facilities;
+6 3. Real estate and leasing;
+7 4. Fleet;
+8 5. Surplus property;
+9 6. Assistance to and resources for agencies in making purchases
+10 and suppliers seeking to do business with the state;
+11 7. Employee benefits;
+12 8. Human resources and professional development;
+13 9. Risk management;
+14 10. Compliance with procurement laws and state, federal, and
+15 local government regulations; and
+16 11. State records.
+17 C. The term "state agency" or "agency", when used in the
+18 Oklahoma State Finance Act, shall mean any agency, board, bureau,
+19 commission, or other entity organized within the executive
+20 department of state government.
+21 C. D. The term "authorization", when used in the Oklahoma State
+22 Finance Act, shall mean the legislative authorization for an agency
+23 to expend a certain amount of money from a specified fund or funds
+24 during a specified period of time.
+Req. No. 16852 Page 9
+
+1 SECTION 8. AMENDATORY 62 O.S. 2021, Section 34.3.1, is
+2 amended to read as follows:
+3 Section 34.3.1. A. The Department of Central Services, Office
+4 of Personnel Management, Oklahoma State Employees Benefits Council
+5 and the State and Education Employees Group Insurance Board are
+6 consolidated into the Office of Management and Enterprise Services.
+7 The Director State Chief Operating Officer of the Office of
+8 Management and Enterprise Services shall assume all executive-level
+9 responsibilities for each agency and shall function as and possess
+10 the powers of the agency director State Chief Operating Officer for
+11 each consolidated agency as enumerated by existing statute. For the
+12 purposes of this section the term "consolidated agencies" shall mean
+13 the Department of Central Services, Office of Personnel Management,
+14 Oklahoma State Employees Benefits Council and the State and
+15 Education Employees Group Insurance Board. Any funds appropriated
+16 to, in the possession of or allocated to any of the consolidated
+17 agencies shall be deemed to be funds of the Office of Management and
+18 Enterprise Services.
+19 B. Upon request of the Director State Chief Operating Officer
+20 of the Office of Management and Enterprise Services, the personnel
+21 of the consolidated agencies shall deliver to the Office of
+22 Management and Enterprise Services all books, papers, records and
+23 property of the consolidated agencies.
+24
+Req. No. 16852 Page 10
+
+1 C. All functions, powers, duties and obligations previously
+2 assigned to each of the consolidated agencies are hereby transferred
+3 to the Office of Management and Enterprise Services.
+4 D. All rules, regulations, acts, orders, determinations and
+5 decisions of the consolidated agencies pertaining to the functions
+6 and powers herein transferred and assigned to the Office of
+7 Management and Enterprise Services, in force at the time of such
+8 transfer, assignment, assumption or devolution shall continue in
+9 force and effect as rules, regulations, acts, orders, determinations
+10 and decisions of the consolidated agencies until duly modified or
+11 abrogated by the appropriate body or until otherwise provided by
+12 law.
+13 SECTION 9. AMENDATORY 62 O.S. 2021, Section 34.5, is
+14 amended to read as follows:
+15 Section 34.5. The A. Except as provided by Section 7 of this
+16 act and by the provisions of this section, the Governor shall
+17 appoint a Director of the Office of Management and Enterprise
+18 Services, by and with the consent of the Senate, who shall hold
+19 office at the pleasure of the Governor and shall continue to serve
+20 until a successor is duly appointed and is qualified.
+21 B. The provisions of subsection A of this section shall
+22 continue in force and effect until the Governor appoints a State
+23 Chief Operating Officer pursuant to the provisions of Section 5 of
+24 this act. On and after the effective date of such appointment, the
+Req. No. 16852 Page 11
+
+1 pers on appointed to the position of State Chief Operating Officer
+2 shall have all authority to take such actions as may be required or
+3 authorized by law in order to fulfill the duties of the position of
+4 State Chief Operating Officer whether or not confirmed by the
+5 Oklahoma State Senate. Any other person appointed to the position
+6 of State Chief Operating Officer shall also have the same authority
+7 whether or not confirmed by the Oklahoma State Senate.
+8 SECTION 10. AMENDATORY 62 O.S. 2021, Section 34.6, as
+9 amended by Section 2, Chapter 14, 2nd Extraordinary Session, O.S.L.
+10 2022 (62 O.S. Supp. 2025, Section 34.6), is amended to read as
+11 follows:
+12 Section 34.6. A. The Director of the Office of Management and
+13 Enterprise Services State Chief Financial Officer shall have the
+14 power and duty under the direction of the Governor to:
+15 1. Prepare the budget document and assist in the drafting of
+16 legislation to make it effective;
+17 2. Make field surveys and studies of governmental agencies,
+18 looking toward economy and greater efficiency;
+19 3. 2. Make allotments to control expenditures;
+20 4. 3. Authorize transfers of appropriation authorized by law;
+21 5. 4. Study accounting and other reports rendered by the
+22 Division of Central Accounting and Reporting;
+23 6. 5. Enter into agreements with the United States Secretary of
+24 the Treasury for the purpose of implementing federal law;
+Req. No. 16852 Page 12
+
+1 7. 6. Aid the Governor in the economical management of state
+2 affairs; and
+3 8. 7. Adopt such rules and regulations concerning the exercise
+4 of powers and duties as the Director State Chief Financial Officer
+5 shall deem appropriate, in accordance with the Administrative
+6 Procedures Act.
+7 B. In addition to other duties, the Director of the Office of
+8 Management and Enterprise Services State Chief Financial Officer
+9 shall, upon request, advise and consult with members of the
+10 Legislature and legislative committees concerning revenue and
+11 expenditures of state agencies.
+12 C. The Director of the Office of Management and Enterprise
+13 Services State Chief Financial Officer shall publish daily reports
+14 of all expenditures of funds from the Coronavirus Aid, Relief, and
+15 Economic Security (CARES) Act on the Oklahoma Checkbook page on the
+16 state website.
+17 D. The Director of the Office of Management and Enterprise
+18 Services State Chief Financial Officer shall report weekly on the
+19 status of all grant agreements, as provided for in Section 1 255.1
+20 of this act title.
+21 E. The Director of the Office of Management and Enterprise
+22 Services State Chief Financial Officer shall report quarterly to the
+23 chairs of the Joint Committee on Pandemic Relief Funding and make
+24 available to the public on the state's website, a quarterly report
+Req. No. 16852 Page 13
+
+1 of a ll expenditures of federal funds drawn down from the American
+2 Rescue Plan Act 2021 (ARPA), Public Law 117-2.
+3 F. The Director of the Office of Management and Enterprise
+4 Services State Chief Financial Officer shall provide technical
+5 assistance to agencies seeking to comply with state law and federal
+6 guidelines as a recipient of federal funds. Technical assistance
+7 shall include, but not be limited to, procurement and competitive
+8 bidding requirements assistance, capital expenditure assistance,
+9 model templates, model agreements, grants management software or
+10 other advice, recommended reporting, and accounting of federal
+11 funds, to all state agencies who request technical assistance.
+12 SECTION 11. AMENDATORY 62 O.S. 2021, Section 34.7, is
+13 amended to read as follows:
+14 Section 34.7. The Director of the Office of Management and
+15 Enterprise Services State Chief Financial Officer, with the approval
+16 of the Governor, shall employ and make the appointment of such
+17 experts and assistants as may be necessary to execute the purposes
+18 of the Oklahoma State Finance Act. No appointments to positions
+19 shall be made in excess of those positions authorized by the
+20 Legislature for the Division of the Budget, the Division of Central
+21 Accounting and Reporting and the Information Services Division.
+22 SECTION 12. AMENDATORY 62 O.S. 2021, Section 34.9, is
+23 amended to read as follows:
+24
+Req. No. 16852 Page 14
+
+1 Section 34.9. The Director State Chief Operating Officer of the
+2 Office of Management and Enterprise Services is hereby authorized
+3 and directed to classify funds in the State Treasury and to
+4 prescribe the manner of issuance of checks or warrants against each
+5 class of funds to accomplish the purpose for which each such fund
+6 was created. The State Treasurer shall be, and is, required to keep
+7 fund accounts in accordance with such classification. The Director
+8 of the Office of Management and Enterprise Services State Chief
+9 Financial Officer shall group funds of a similar nature in a series
+10 of classes. Accounting entities otherwise designated as funds, by
+11 other provisions of law, may be retained, deactivated, merged with
+12 other such entities or identified as accounts within funds as the
+13 Director of the Office of Management and Enterprise Services State
+14 Chief Financial Officer determines to be appropriate for purposes of
+15 the modernization and maintenance of the fund structure of the
+16 state.
+17 SECTION 13. AMENDATORY 62 O.S. 2021, Section 34.10, as
+18 amended by Section 1, Chapter 99, O.S.L. 2024 (62 O.S. Supp. 2025,
+19 Section 34.10), is amended to read as follows:
+20 Section 34.10. The Director of the Office of Management and
+21 Enterprise Services State Chief Financial Officer shall cause to be
+22 prepared an annual comprehensive financial report, in accordance
+23 with generally accepted accounting principles for governments, and
+24 shall further have the general purpose financial statements included
+Req. No. 16852 Page 15
+
+1 in t he annual comprehensive financial report audited in accordance
+2 with generally accepted auditing standards. The Director State
+3 Chief Financial Officer is hereby authorized to establish procedures
+4 and guidelines which are consistent with those issued by the
+5 Government Accounting Standards Board, and which shall be followed
+6 by state agencies, colleges and universities and other entities who
+7 are included in the report, for purposes of establishing consistent
+8 application of accounting principles and to ensure the timeliness of
+9 the report.
+10 SECTION 14. AMENDATORY 62 O.S. 2021, Section 34.11.1, as
+11 amended by Section 1, Chapter 193, O.S.L. 2024 (62 O.S. Supp. 2025,
+12 Section 34.11.1), is amended to read as follows:
+13 Section 34.11.1. A. There is hereby created the position of
+14 State Chief Information Officer who shall be appointed by the
+15 Governor. The State Chief Information Officer, in addition to
+16 having shall have authority over the Information Services Division
+17 of the Office of Management and Enterprise Services, shall also
+18 serve as Secretary of Information Technology and Telecommunications
+19 or successor cabinet position and shall have jurisdictional areas of
+20 responsibility related to information technology and
+21 telecommunications systems of all state agencies as provided for in
+22 state law Office of Strategic Technology Solutions. The salary of
+23 the State Chief Information Officer shall not be less than One
+24
+Req. No. 16852 Page 16
+
+1 Hund red Thirty Thousand Dollars ($130,000.00) or more than One
+2 Hundred Sixty Thousand Dollars ($160,000.00).
+3 B. There is hereby created the Office of Strategic Technology
+4 Solutions. Any funds appropriated to and in possession of the
+5 Information Division of the Office of Management and Enterprise
+6 Services shall be deemed to be funds of the Office of Strategic
+7 Technology Solutions. The personnel, records and property of the
+8 Information Services Division of the Office of Management and
+9 Enterprise Services shall be transferred to the Office of Strategic
+10 Technology Solutions. The primary responsibilities of this office
+11 and the State Chief Information Officer shall be to develop
+12 technology solutions for and with state agencies, manage state
+13 spending on technology, provide information technology support
+14 services to agencies, and ensure standardized cybersecurity
+15 standards across state government.
+16 C. Any person appointed to the position of State Chief
+17 Information Officer shall meet the following eligibility
+18 requirements:
+19 1. A baccalaureate degree in Computer Information Systems,
+20 Information Systems or Technology Management, Business
+21 Administration, Finance, or other similar degree;
+22 2. A minimum of ten (10) years of professional experience with
+23 responsibilities for management and support of information systems
+24
+Req. No. 16852 Page 17
+
+1 and information technology, including seven (7) years of direct
+2 management of a major information technology operation;
+3 3. Familiarity with local and wide-area network design,
+4 implementation, and operation;
+5 4. Experience with data and voice convergence service
+6 offerings;
+7 5. Experience in developing technology budgets;
+8 6. Experience in developing requests for proposal and
+9 administering the bid process;
+10 7. Experience managing professional staff, teams, and
+11 consultants;
+12 8. Knowledge of telecommunications operations;
+13 9. Ability to develop and set strategic direction for
+14 information technology and telecommunications and to manage daily
+15 development and operations functions;
+16 10. An effective communicator who is able to build consensus;
+17 11. Ability to analyze and resolve complex issues, both logical
+18 and interpersonal;
+19 12. Effective verbal and written communications skills and
+20 effective presentation skills, geared toward coordination and
+21 education;
+22 13. Ability to negotiate and defuse conflict; and
+23 14. A self-motivator, independent, cooperative, flexible and
+24 creative.
+Req. No. 16852 Page 18
+
+1 C. D. The salary and any other expenses for the State Chief
+2 Information Officer shall be budgeted as a separate line item
+3 through the Office of Management and Enterprise Services. The
+4 operating expenses of the Information Services Division shall be set
+5 by the Chief Information Officer and shall be budgeted as a separate
+6 line item through the Office of Management and Enterprise Services.
+7 The Office of Management and Enterprise Services shall provide
+8 adequate office space, equipment and support necessary to enable the
+9 Chief Information Officer to carry out the information technology
+10 and telecommunications duties and responsibilities of the Chief
+11 Information Officer and the Information Services Division to the
+12 Office of Strategic Technology Solutions as a standalone agency.
+13 D. E. 1. Within twelve (12) months of appointment, the first
+14 State Chief Information Officer shall complete an assessment, which
+15 shall be modified annually pursuant to Section 35.5 of this title,
+16 of the implementation of the transfer, coordination, and
+17 modernization of all information technology and telecommunication
+18 systems of all state agencies in the state as provided for in the
+19 Oklahoma Information Services Act. The assessment shall include the
+20 information technology and telecommunications systems of all
+21 institutions within The Oklahoma State System of Higher Education,
+22 the Oklahoma State Regents for Higher Education and the
+23 telecommunications network known as OneNet as assembled and
+24 submitted by the Oklahoma Higher Education Chief Information
+Req. No. 16852 Page 19
+
+1 Offi cer, as designated by the Oklahoma State Regents for Higher
+2 Education.
+3 2. Within twelve (12) months of appointment, the first State
+4 Chief Information Officer shall issue a report setting out a plan of
+5 action which will include the following:
+6 a. define the shared service model organization structure
+7 and the reporting relationship of the recommended
+8 organization,
+9 b. the implementation of an information technology and
+10 telecommunications shared services model that defines
+11 the statewide infrastructure environment needed by
+12 most state agencies that is not specific to individual
+13 agencies and the shared applications that are utilized
+14 across multiple agencies,
+15 c. define the services that shall be in the shared
+16 services model under the control of the Information
+17 Services Division of the Office of Management and
+18 Enterprise Services Strategic Technology Solutions,
+19 d. define the roadmap to implement the proposed shared
+20 services model. The roadmap shall include
+21 recommendations on the transfer, coordination, and
+22 modernization of all information technology and
+23 telecommunication systems of all the state agencies in
+24 the state,
+Req. No. 16852 Page 20
+
+1 e. recommendations on the reallocation of information
+2 technology and telecommunication resources and
+3 personnel,
+4 f. a cost benefit analysis to support the recommendations
+5 on the reallocation of information technology and
+6 telecommunication resources and personnel,
+7 g. a calculation of the net savings realized through the
+8 reallocation and consolidation of information
+9 technology and telecommunication resources and
+10 personnel after compensating for the cost of
+11 contracting with a private consultant as authorized in
+12 paragraph 4 of this subsection, implementing the plan
+13 of action, and ongoing costs of the Information
+14 Services Division of the Office of Management and
+15 Enterprise Services Strategic Technology Solutions,
+16 and
+17 h. the information required in subsection B of Section
+18 35.5 of this title.
+19 3. The plan of action report shall be presented to the
+20 Governor, Speaker of the Oklahoma House of Representatives, and the
+21 President Pro Tempore of the Oklahoma State Senate.
+22 4. The Chief Information Officer may contract with a private
+23 consultant or consultants to assist in the assessment and
+24
+Req. No. 16852 Page 21
+
+1 deve lopment of the plan of action report as required in this
+2 subsection.
+3 E. F. The State Chief Information Officer shall be authorized
+4 to employ personnel, fix the duties and compensation of the
+5 personnel, not otherwise prescribed by law, and otherwise direct the
+6 work of the personnel in performing the function and accomplishing
+7 the purposes of the Information Services Division of the Office of
+8 Management and Enterprise Services Strategic Technology Solutions.
+9 F. G. The Information Services Division of the Office of
+10 Management and Enterprise Services Strategic Technology Solutions
+11 shall be responsible for the following duties:
+12 1. Formulate and implement the information technology strategy
+13 for all state agencies;
+14 2. Define, design, and implement a shared services statewide
+15 infrastructure and application environment for information
+16 technology and telecommunications for all state agencies;
+17 3. Direct the development and operation of a scalable
+18 telecommunications infrastructure that supports data and voice
+19 communications reliability, integrity, and security;
+20 4. Supervise the applications development process for those
+21 applications that are utilized across multiple agencies;
+22 5. Provide direction for the professional development of
+23 information technology staff of state agencies and oversee the
+24 professional development of the staff of the Information Services
+Req. No. 16852 Page 22
+
+1 Divi sion of the Office of Management and Enterprise Services
+2 Strategic Technology Solutions;
+3 6. Evaluate all technology and telecommunication investment
+4 choices for all state agencies;
+5 7. Create a plan to ensure alignment of current systems, tools,
+6 and processes with the strategic information technology plan for all
+7 state agencies;
+8 8. Set direction and provide oversight for the support and
+9 continuous upgrading of the current information technology and
+10 telecommunication infrastructure in the state in support of enhanced
+11 reliability, user service levels, and security;
+12 9. Direct the development, implementation, and management of
+13 appropriate standards, policies and procedures to ensure the success
+14 of state information technology and telecommunication initiatives;
+15 10. Recruit, hire and transfer the required technical staff in
+16 the Information Services Division of the Office of Management and
+17 Enterprise Services to support the services provided by the Division
+18 and the execution of the strategic information technology plan;
+19 11. Establish, maintain, and enforce information technology and
+20 telecommunication standards;
+21 12. Delegate, coordinate, and review all work to ensure quality
+22 and efficient operation of the Information Services Division of the
+23 Office of Management and Enterprise Services Strategic Technology
+24 Solutions;
+Req. No. 16852 Page 23
+
+1 13. Create and implement a communication plan that disseminates
+2 pertinent information to state agencies on standards, policies,
+3 procedures, service levels, project status, and other important
+4 information to customers of the Information Services Division of the
+5 Office of Management and Enterprise Services Strategic Technology
+6 Solutions and provide for agency feedback and performance evaluation
+7 by customers of the Division;
+8 14. Develop and implement training programs for state agencies
+9 using the shared services of the Information Services Division of
+10 the Office of Management and Enterprise Services Strategic
+11 Technology Solutions and recommend training programs to state
+12 agencies on information technology and telecommunication systems,
+13 products and procedures;
+14 15. Provide counseling, performance evaluation, training,
+15 motivation, discipline, and assign duties for employees of the
+16 Information Services Division of the Office of Management and
+17 Enterprise Services Strategic Technology Solutions;
+18 16. For all state agencies, approve the purchasing of all
+19 information technology and telecommunication services and approve
+20 the purchase of any information technology and telecommunication
+21 product except the following:
+22 a. a purchase less than or equal to Five Thousand Dollars
+23 ($5,000.00) if such product is purchased using a state
+24 purchase card and the product is listed on either the
+Req. No. 16852 Page 24
+
+1 Approved Hardware or Approved Software list located on
+2 the Office of Management and Enterprise Services
+3 Strategic Technology Solutions website, or
+4 b. a purchase over Five Thousand Dollars ($5,000.00) and
+5 less than or equal to Twenty-five Thousand Dollars
+6 ($25,000.00) if such product is purchased using a
+7 state purchase card, the product is listed on an
+8 information technology or telecommunications statewide
+9 contract, and the product is listed on either the
+10 Approved Hardware or Approved Software list located on
+11 the Office of Management and Enterprise Services
+12 Strategic Technology Solutions website;
+13 17. Develop and enforce an overall infrastructure architecture
+14 strategy and associated roadmaps for desktop, network, server,
+15 storage, and statewide management systems for state agencies;
+16 18. Effectively manage the design, implementation and support
+17 of complex, highly available infrastructure to ensure optimal
+18 performance, on-time delivery of features, and new products, and
+19 scalable growth;
+20 19. Define and implement a governance model for requesting
+21 services and monitoring service level metrics for all shared
+22 services; and
+23
+24
+Req. No. 16852 Page 25
+
+1 20. Create the budget for the Information Services Division of
+2 the Office of Management and Enterprise Services Strategic
+3 Technology Solutions to be submitted to the Legislature each year.
+4 G. H. The State Governmental Technology Applications Review
+5 Board shall provide ongoing oversight of the implementation of the
+6 plan of action required in subsection D E of this section. Any
+7 proposed amendments to the plan of action shall be approved by the
+8 Board prior to adoption.
+9 H. I. 1. The State Chief Information Officer shall act as the
+10 Information Technology and Telecommunications Purchasing Director
+11 for all state agencies and shall be responsible for the procurement
+12 of all information technology and telecommunication software,
+13 hardware, equipment, peripheral devices, maintenance, consulting
+14 services, high technology systems, and other related information
+15 technology, data processing, telecommunication and related
+16 peripherals and services for all state agencies. The State Chief
+17 Information Officer shall establish, implement, and enforce policies
+18 and procedures for the procurement of information technology and
+19 telecommunication software, hardware, equipment, peripheral devices,
+20 maintenance, consulting services, high technology systems, and other
+21 related information technology, data processing, telecommunication
+22 and related peripherals and services by purchase, lease-purchase,
+23 lease with option to purchase, lease and rental for all state
+24 agencies. The procurement policies and procedures established by
+Req. No. 16852 Page 26
+
+1 the State Chief Information Officer shall be consistent with The
+2 Oklahoma Central Purchasing Act.
+3 2. The State Chief Information Officer, or any employee or
+4 agent of the State Chief Information Officer acting within the scope
+5 of delegated authority, shall have the same power and authority
+6 regarding the procurement of all information technology and
+7 telecommunication products and services as outlined in paragraph 1
+8 of this subsection for all state agencies as the State Purchasing
+9 Director has for all acquisitions used or consumed by state agencies
+10 as established in The Oklahoma Central Purchasing Act. Such
+11 authority shall, consistent with the authority granted to the State
+12 Purchasing Director pursuant to Section 85.10 of Title 74 of the
+13 Oklahoma Statutes, include the power to designate financial or
+14 proprietary information submitted by a bidder confidential and
+15 reject all requests to disclose the information so designated, if
+16 the State Chief Information Officer requires the bidder to submit
+17 the financial or proprietary information with a bid, proposal, or
+18 quotation.
+19 I. J. The Information Services Division of the Office of
+20 Management and Enterprise Services Strategic Technology Solutions
+21 and the State Chief Information Officer shall be subject to the
+22 Oklahoma Central Purchasing Act for the approval and purchase of all
+23 equipment, products, and services and shall also be subject to the
+24 requirements of the Public Competitive Bidding Act of 1974, the
+Req. No. 16852 Page 27
+
+1 Okla homa Lighting Energy Conservation Act and the Public Building
+2 Construction and Planning Act. The State Chief Information Officer
+3 shall be authorized to delegate all or some of the procurement of
+4 information technology and telecommunication products and services
+5 and construction of facilities and telecommunication networks to
+6 another state entity if the State Chief Information Officer
+7 determines it to be cost-effective and in the best interest of the
+8 state. The State Chief Information Officer shall have authority to
+9 designate information technology and telecommunication contracts as
+10 statewide contracts and mandatory statewide contracts pursuant to
+11 Section 85.5 of Title 74 of the Oklahoma Statutes and to negotiate
+12 consolidation contracts, enterprise agreements and high technology
+13 systems contracts. Any contract entered into by a state agency for
+14 which the State Chief Information Officer has not acted as the
+15 Information Technology and Telecommunications Purchasing Director as
+16 required in this subsection or subsection H I of this section, shall
+17 be deemed to be unenforceable and the Office of Management and
+18 Enterprise Services Strategic Technology Solutions shall not process
+19 any claim associated with the provisions thereof.
+20 J. K. The State Chief Information Officer shall establish,
+21 implement, and enforce policies and procedure for the development
+22 and procurement of an interoperable radio communications system for
+23 state agencies. The State Chief Information Officer shall work with
+24
+Req. No. 16852 Page 28
+
+1 loca l governmental entities in developing the interoperable radio
+2 communications system.
+3 K. L. The State Chief Information Officer shall develop and
+4 implement a plan to utilize open source technology and products for
+5 the information technology and telecommunication systems of all
+6 state agencies.
+7 L. M. All state agencies and authorities of this state and all
+8 officers and employees of those entities shall work and cooperate
+9 with and lend assistance to the State Chief Information Officer and
+10 the Information Services Division of the Office of Management and
+11 Enterprise Services Strategic Technology Solutions and provide any
+12 and all information requested by the State Chief Information
+13 Officer.
+14 M. N. The State Chief Information Officer shall prepare an
+15 annual report detailing the ongoing net saving attributable to the
+16 reallocation and consolidation of information technology and
+17 telecommunication resources and personnel and shall submit the
+18 report to the Governor, the Speaker of the Oklahoma House of
+19 Representatives, and the President Pro Tempore of the Oklahoma State
+20 Senate.
+21 N. O. For purposes of the Oklahoma Information Services Act,
+22 unless otherwise provided for, "state agencies" shall include any
+23 office, officer, bureau, board, commission, counsel, unit, division,
+24 body, authority or institution of the executive branch of state
+Req. No. 16852 Page 29
+
+1 gove rnment, whether elected or appointed; provided, except with
+2 respect to the provisions of subsection D E of this section, the
+3 term "state agencies" shall not include institutions within The
+4 Oklahoma State System of Higher Education, the Oklahoma State
+5 Regents for Higher Education and the telecommunications network
+6 known as OneNet.
+7 O. P. As used in this section:
+8 1. "High technology system" means advanced technological
+9 equipment, software, communication lines, and services for the
+10 processing, storing, and retrieval of information by a state agency;
+11 2. "Consolidation contract" means a contract for several state
+12 or public agencies for the purpose of purchasing information
+13 technology and telecommunication goods and services; and
+14 3. "Enterprise agreement" means an agreement for information
+15 technology or telecommunication goods and services with a supplier
+16 who manufactures, develops and designs products and provides
+17 services that are used by one or more state agencies.
+18 SECTION 15. AMENDATORY 62 O.S. 2021, Section 34.11, is
+19 amended to read as follows:
+20 Section 34.11. The Division of Central Accounting and Reporting
+21 shall operate under the supervision of the State Chief Financial
+22 Officer, and be responsible for accounting and auditing duties and
+23 the auditing and settlement of purchase orders, contracts, claims,
+24 payrolls, and other obligations.
+Req. No. 16852 Page 30
+
+1 The Division of Central Accounting and Reporting shall prepare
+2 uniform budget and accounting classifications for all state agencies
+3 and shall implement appropriate accounting methods and systems in
+4 state agencies. The Division of Central Accounting and Reporting
+5 shall:
+6 1. Settle all claims payable by this state;
+7 2. Verify distribution of all taxes and other dues collected
+8 for local governments;
+9 3. Superintend the recovery of all debts due state government;
+10 4. Keep the central budget and proprietary accounts of the
+11 state government;
+12 5. Prepare and issue financial and accounting reports, at least
+13 quarterly;
+14 6. Prescribe all forms, systems, and procedure for
+15 administering accounting for the several departments and
+16 establishments;
+17 7. At the request of a state agency, assist in establishing
+18 standards, policies and procedures that ensure a strong and
+19 effective system of internal controls and regular monitoring of
+20 them;
+21 8. Certify each and every requisition by a duly accredited
+22 disbursing officer for an advance of funds from the State Treasury
+23 to the Director of the Office of Management and Enterprise Services
+24 State Chief Financial Officer for approval; and
+Req. No. 16852 Page 31
+
+1 9. Establish a pre-audit system of settling claims for the
+2 entire government of this state and for state agencies in which
+3 vouchers supporting proposed payments are submitted to the Office of
+4 Management and Enterprise Services for audit and settlement.
+5 SECTION 16. AMENDATORY Section 1, Chapter 36, 1st
+6 Extraordinary Session, O.S.L. 2023 (62 O.S. Supp. 2025, Section
+7 34.11.1.2), is amended to read as follows:
+8 Section 34.11.1.2. There is hereby created in the State
+9 Treasury a revolving fund for the Office of Management and
+10 Enterprise Services to be designated the "Oklahoma Employment
+11 Security Commission Information Technology Innovation Revolving
+12 Fund". The fund shall be a continuing fund, not subject to fiscal
+13 year limitations, and shall consist of all monies appropriated to
+14 the revolving fund created herein. All monies accruing to the
+15 credit of the fund are hereby appropriated and may be budgeted and
+16 expended by the Office of Management and Enterprise Services for the
+17 purpose of augmenting the information technology infrastructure of
+18 the Oklahoma Employment Security Commission. Expenditures from the
+19 fund shall be made upon warrants issued by the State Treasurer
+20 against claims filed as prescribed by law with the Director State
+21 Chief Operating Officer of the Office of Management and Enterprise
+22 Services for approval and payment.
+23 SECTION 17. AMENDATORY 62 O.S. 2021, Section 34.22, is
+24 amended to read as follows:
+Req. No. 16852 Page 32
+
+1 Section 34.22. There is hereby created in the State Treasury a
+2 revolving fund for the Office of Management and Enterprise Services
+3 to be designated the "Telecommunications Revolving Fund". The fund
+4 shall be a continuing fund, not subject to fiscal year limitations,
+5 and shall consist of appropriations made by the Legislature and
+6 reimbursements for providing telecommunications services as defined
+7 in Sections 34.19, 34.20, 34.21 and 34.24 of this title. All monies
+8 accruing to such fund are hereby appropriated and may be budgeted
+9 and expended by the Office of Management and Enterprise Services for
+10 the purpose of providing telecommunications, Internet, and
+11 eGovernment services, as referenced in Sections 34.24 and 34.25 of
+12 this title, the construction and maintenance of information
+13 technology facilities and services, and other related services.
+14 Expenditures from said fund shall be made upon warrants issued by
+15 the State Treasurer against claims filed as prescribed by law with
+16 the Director State Chief Operating Officer of the Office of
+17 Management and Enterprise Services for approval and payment.
+18 SECTION 18. AMENDATORY 62 O.S. 2021, Section 34.27, is
+19 amended to read as follows:
+20 Section 34.27. A. There is hereby established the State
+21 Governmental Technology Applications Review Board. The Board shall
+22 be composed of the following members:
+23 1. The Director State Chief Operating Officer of the Office of
+24 Management and Enterprise Services or a designee;
+Req. No. 16852 Page 33
+
+1 2. Four representatives from different state agencies, boards,
+2 commissions, or authorities to be appointed by the Governor, at
+3 least one of which shall be employed by a law enforcement agency;
+4 3. Two members who are not state government employees to be
+5 appointed by the Speaker of the House of Representatives; and
+6 4. Two members who are not state government employees to be
+7 appointed by the President Pro Tempore of the Senate.
+8 B. Members of the Board shall serve for terms of two (2) years.
+9 The Board shall select a chair from among its members.
+10 C. Members of the Board shall not receive compensation for
+11 serving on the Board, but shall be reimbursed for travel expenses
+12 incurred in the performance of their duties by their respective
+13 agencies or appointing authority in accordance with the State Travel
+14 Reimbursement Act.
+15 D. Notwithstanding any other section of law, any member of the
+16 Board attending a meeting via teleconference shall be counted as
+17 being present in person and shall count toward the determination of
+18 whether a quorum of the Board is present at the meeting.
+19 E. The Board shall have the duty and responsibility of:
+20 1. Reviewing for approval all convenience fees and merchant
+21 fees as defined in Section 34.25 of this title and changes in
+22 convenience fees and merchant fees charged by state agencies,
+23 boards, commissions, or authorities;
+24
+Req. No. 16852 Page 34
+
+1 2. Monitoring all portal systems and applications for portal
+2 systems created by state agencies, boards, commissions, or
+3 authorities, reviewing portal systems applications approved or
+4 denied by the Information Services Division of the Office of
+5 Management and Enterprise Services, and making recommendations to
+6 the Legislature and Governor to encourage greater use of the open-
+7 systems concept as is defined in Section 34.26 of this title;
+8 3. Granting an exemption for a specific license or permit to a
+9 state agency from the requirements of Section 34.24.1 of this title.
+10 The exemption shall be limited in time as warranted by the
+11 circumstances. The Board shall grant the exemption only if
+12 presented compelling evidence that the issuance of the license or
+13 permit requires the provision of information that cannot be provided
+14 through an online licensing or permitting process and that the
+15 failure of the applicant to provide the information would create a
+16 significant risk to the integrity of the license or permit. The
+17 exemption provided for in this paragraph shall not apply to license
+18 renewals pursuant to the Oklahoma Vehicle License and Registration
+19 Act;
+20 4. Providing ongoing oversight of implementation of the plan of
+21 action developed by the State Chief Information Officer pursuant to
+22 Section 34.11.1 of this title and approving any amendments to the
+23 plan of action;
+24
+Req. No. 16852 Page 35
+
+1 5. Approving charges to state agencies established by the
+2 Information Services Division pursuant to Section 35.5 of this title
+3 for shared services as defined in Section 35.3 of this title;
+4 6. Functioning in an advisory capacity to the State Chief
+5 Information Officer; and
+6 7. Approving a plan by which public elementary and secondary
+7 schools of the state may recover the cost of instructional
+8 technology resources issued by the schools.
+9 SECTION 19. AMENDATORY 62 O.S. 2021, Section 34.28, is
+10 amended to read as follows:
+11 Section 34.28. A. The Information Services Division of the
+12 Office of Management and Enterprise Services shall work to assure
+13 state compliance regarding accessibility of information technology
+14 for individuals with disabilities based on the provisions of Section
+15 508 of the Workforce Investment Act of 1998.
+16 B. When developing, procuring, maintaining or using information
+17 technology, or when administering contracts or grants that include
+18 the procurement, development, upgrading, or replacement of
+19 information technology each state agency shall ensure, unless an
+20 undue burden would be imposed on the agency, that the information
+21 technology allows employees, program participants, and members of
+22 the general public access to use of information and data that is
+23 comparable to the access by individuals without disabilities.
+24
+Req. No. 16852 Page 36
+
+1 C. To assure accessibility, the Information Services Division
+2 shall:
+3 1. Adopt accessibility standards that address all technical
+4 standard categories of Section 508 of the Workforce Investment Act
+5 of 1998 to be used by each state agency in the procurement of
+6 information technology, and in the development and implementation of
+7 custom-designed information technology systems, Web sites, and other
+8 emerging information technology systems;
+9 2. Adopt an accessibility clause which shall be included in all
+10 contracts for the procurement of information technology by or for
+11 the use of state agencies;
+12 3. Establish and implement a review procedure to be used to
+13 evaluate the accessibility of custom-designed information technology
+14 systems proposed by a state agency prior to expenditure of state
+15 funds;
+16 4. Review and evaluate accessibility of information technology
+17 commonly purchased by state agencies, and provide accessibility
+18 reports on such products to those responsible for purchasing
+19 decisions;
+20 5. Provide in partnership with Oklahoma Able Tech, the state
+21 assistive technology program located at Oklahoma State University,
+22 training and technical assistance for state agencies to assure
+23 procurement of information technology that meets adopted
+24 accessibility standards;
+Req. No. 16852 Page 37
+
+1 6. Consult with the State Department of Rehabilitation Services
+2 and individuals with disabilities in accessibility reviews of
+3 information technology and in the delivery of training and technical
+4 assistance;
+5 7. Establish complaint procedures, consistent with Section 508
+6 of the Workforce Development Act of 1998, to be used by an
+7 individual who alleges that a state agency fails to comply with the
+8 provisions of this section;
+9 8. Work with and seek advice from the Electronic and
+10 Information Technology Accessibility Advisory Council, created in
+11 Section 34.30 of this title in developing accessibility standards
+12 and complaint procedures as required in this section; and
+13 9. Require state agencies to submit evidence of assurance of
+14 compliance with state standards on accessibility of information
+15 technology for individuals with disabilities developed in accordance
+16 with this section.
+17 D. The Director State Chief Operating Officer of the Office of
+18 Management and Enterprise Services shall promulgate rules, as
+19 necessary, to implement the provisions of this section.
+20 SECTION 20. AMENDATORY 62 O.S. 2021, Section 34.34, is
+21 amended to read as follows:
+22 Section 34.34. It shall be the duty of the Director State Chief
+23 Operating Officer of the Office of Management and Enterprise
+24 Services, after making a complete detailed study of each state
+Req. No. 16852 Page 38
+
+1 agen cy, to prepare the budget under the supervision and direction of
+2 the Governor.
+3 SECTION 21. AMENDATORY 62 O.S. 2021, Section 34.35, is
+4 amended to read as follows:
+5 Section 34.35. Each state agency shall immediately furnish the
+6 Director State Chief Operating Officer of the Office of Management
+7 and Enterprise Services any information concerning their respective
+8 affairs or activities, upon request and in such form as directed.
+9 SECTION 22. AMENDATORY 62 O.S. 2021, Section 34.36, as
+10 amended by Section 2, Chapter 199, O.S.L. 2025 (62 O.S. Supp. 2025,
+11 Section 34.36), is amended to read as follows:
+12 Section 34.36. A. On the first day of October preceding each
+13 regular session of the Legislature, each state agency, including
+14 those created or established pursuant to constitutional provisions,
+15 shall report to the Director of the Office of Management and
+16 Enterprise Services State Chief Financial Officer and the Chair and
+17 Vice Chair of the Legislative Oversight Committee on State Budget
+18 Performance an itemized request showing the amount needed for the
+19 ensuing fiscal year beginning with the first day of July.
+20 B. The forms which must be used in making these reports shall
+21 be approved by the Director of the Office of Management and
+22 Enterprise Services State Chief Financial Officer and the
+23 Legislative Oversight Committee on State Budget Performance.
+24
+Req. No. 16852 Page 39
+
+1 C. The forms shall be uniform, and shall clearly designate the
+2 information to be given.
+3 D. The information provided shall include, but not be limited
+4 to:
+5 1. A budget analysis of existing and proposed programs
+6 utilizing performance-informed budgeting techniques. Such analysis
+7 shall be included as a part of the estimate of funds needed;
+8 2. A statement listing any other state, federal or local
+9 agencies which administer a similar or cooperating program and an
+10 outline of the interaction among such agencies;
+11 3. A statement of the statutory authority for the missions and
+12 quantified objectives of each program;
+13 4. A description of the groups of people served by each program
+14 in the agency;
+15 5. A quantification of the need for the program;
+16 6. A description of the tactics which are intended to
+17 accomplish each objective;
+18 7. A list of quantifiable program outcomes which measure the
+19 efficiency and effectiveness of each program;
+20 8. A ranking of these programs by priority;
+21 9. Actual program expenditures for the current fiscal year and
+22 prior fiscal years and the number of personnel required to
+23 accomplish each program;
+24 10. Revenues expected to be generated by each program, if any;
+Req. No. 16852 Page 40
+
+1 11. With respect to appropriated state agencies, a detailed
+2 listing of all employees and resources dedicated to the provision of
+3 financial services including but not limited to procurement,
+4 payroll, accounts receivable and accounts payable. The provisions
+5 of this paragraph shall not be applicable to the Oklahoma State
+6 Regents for Higher Education or to any institutions within The
+7 Oklahoma State System of Higher Education; and
+8 12. A certification that following the effective date of this
+9 act and prior to July 1, 2011, no expenditure shall have been made
+10 or funds encumbered for the purchase, lease, lease-purchase or
+11 rental of any computers, software, telecom, information technology
+12 hardware, firmware or information technology services, including
+13 support services without the prior written approval of the State
+14 Comptroller or his or her designee.
+15 E. These appropriated agencies shall make an itemized estimate
+16 of needs for the ensuing fiscal year and the following two (2)
+17 fiscal years and request for funds for the ensuing fiscal year and
+18 an estimate of the revenues from all sources to be received by the
+19 agency during the ensuing fiscal year and the following two (2)
+20 fiscal years.
+21 F. The Director of the Office of Management and Enterprise
+22 Services State Chief Financial Officer shall submit to the Governor
+23 and the Legislative Oversight Committee on State Budget Performance
+24
+Req. No. 16852 Page 41
+
+1 no l ater than the fifth day of October a complete list of all
+2 spending agencies which have failed to submit budgets by October 1.
+3 G. The reports required by this section shall include an
+4 itemized listing of outstanding capital lease debt and estimated
+5 capital lease needs for the ensuing fiscal year and the following
+6 two (2) fiscal years, and shall be provided on forms prescribed by
+7 the Director of the Office of Management and Enterprise Services
+8 State Chief Financial Officer.
+9 H. For the purposes of this section, "capital lease" means a
+10 lease-purchase agreement which provides an option for the State of
+11 Oklahoma or its agencies to purchase property, including personal
+12 and real property, which is the subject thereof and/or a lease
+13 agreement that provides an option for the State of Oklahoma or its
+14 agencies to lease such property, which is the subject thereof, at a
+15 nominal annual amount, after a period in which leased property is
+16 rented at fair market value.
+17 I. Not later than January 1, the Director State Chief Operating
+18 Officer of the Office of Management and Enterprise Services shall
+19 publish a shared services cost-performance assessment report
+20 documenting the amount of each state agency's cost for providing
+21 shared services. The lowest ranking state agencies shall enter into
+22 a contract with the Office of Management and Enterprise Services for
+23 the provision of shared financial services, provided that the
+24 Director State Chief Operating Officer of the Office of Management
+Req. No. 16852 Page 42
+
+1 and Enterprise Services determines that implementation of such a
+2 contract would be feasible and documents that the contractual
+3 agreement will result in cost savings or efficiencies to the state.
+4 Contracts required by this subsection shall be entered into at the
+5 start of the next fiscal year. When a state agency is contracted
+6 with the Office of Management and Enterprise Services for the
+7 provision of shared financial services, the agency may discontinue
+8 using shared services when documentation showing that the agency can
+9 provide the services at a lower cost to the state is provided to and
+10 approved by the Director State Chief Operating Officer of the Office
+11 of Management and Enterprise Services. As used in this subsection,
+12 "shared services" means process, resource utilization or action as
+13 defined by administrative rule. On a yearly basis the Director
+14 State Chief Operating Officer of the Office of Management and
+15 Enterprise Services shall compile and publish a report documenting
+16 the cost savings resulting from shared services contracts. The
+17 provisions of this subsection shall not be applicable to the
+18 Oklahoma State Regents for Higher Education or to any institutions
+19 within The Oklahoma State System of Higher Education.
+20 SECTION 23. AMENDATORY 62 O.S. 2021, Section 34.36.1, is
+21 amended to read as follows:
+22 Section 34.36.1. A. Each state agency that is required to
+23 provide an itemized budget request pursuant to the provisions of
+24 Section 34.36 of Title 62 of the Oklahoma Statutes shall provide to
+Req. No. 16852 Page 43
+
+1 the Director of the Office of Management and Enterprise Services
+2 State Chief Financial Officer a written report, in a form approved
+3 by the Director State Chief Financial Officer, containing the
+4 following information:
+5 1. The amount of federal funds received by the agency;
+6 2. The source or sources of federal funds received by the
+7 agency;
+8 3. A description of any action required to be taken by the
+9 agency as a condition for the receipt or continued receipt of
+10 federal funds; and
+11 4. A description of any action prohibited to be taken by the
+12 agency as a condition for the receipt or continued receipt of
+13 federal funds.
+14 B. The report shall be submitted with the budget information
+15 required by Section 34.36 of Title 62 of the Oklahoma Statutes by
+16 the date required by that section.
+17 C. The Director of the Office of Management and Enterprise
+18 Services State Chief Financial Officer shall post the information
+19 contained in each agency's report on the website created pursuant to
+20 Section 46 of Title 62 of the Oklahoma Statutes.
+21 SECTION 24. AMENDATORY 62 O.S. 2021, Section 34.40, is
+22 amended to read as follows:
+23 Section 34.40. A. When lump sum appropriations are made for
+24 personal services, or for maintenance and operations, or for
+Req. No. 16852 Page 44
+
+1 main tenance and operations including personal services, no monies so
+2 appropriated shall be available for payments for such expenses until
+3 a schedule of positions and salaries and the amounts to be available
+4 for the expenses shall have been approved by the Director of the
+5 Office of Management and Enterprise Services State Chief Financial
+6 Officer and posted to the state accounting system. The provisions
+7 of this subsection shall not apply to such appropriations for the
+8 Legislature or judiciary, for expenses of holding elections, or for
+9 temporary services or day labor.
+10 B. Any such approved schedule of positions and salaries may be
+11 amended with the approval of the Director of the Office of
+12 Management and Enterprise Services State Chief Financial Officer.
+13 C. The request officer for each agency shall show the
+14 classification of the expenditures for their agency, and such
+15 classification shall follow the uniform budget and accounting
+16 classifications adopted for similar spending agencies, except for
+17 items peculiar to certain departments or institutions.
+18 D. The Director of the Office of Management and Enterprise
+19 Services State Chief Financial Officer shall not have authority to
+20 fix the amount of any agency salary or eliminate any position listed
+21 on such schedule. However, the Director State Chief Financial
+22 Officer shall not approve the schedule of positions and salaries
+23 when the total amount of funds requested to be allotted fails to
+24 reserve a sufficient balance to finance the operations of the agency
+Req. No. 16852 Page 45
+
+1 for the remainder of that fiscal year, considering any possible
+2 failure in the revenue estimated to be collected for that fiscal
+3 year.
+4 E. The Director of the Office of Management and Enterprise
+5 Services State Chief Financial Officer shall not have the authority
+6 to curtail the operation of any particular part of the program, but
+7 shall order a reduction in the total program only where insufficient
+8 revenues are anticipated to carry on the program for the period
+9 concerned.
+10 SECTION 25. AMENDATORY 62 O.S. 2021, Section 34.41, is
+11 amended to read as follows:
+12 Section 34.41. Appropriations shall not be available for
+13 contractual or expenditure purposes until allotted as provided in
+14 the Oklahoma State Finance Act. Appropriations made by the
+15 Legislature to each state agency are hereby declared to be maximum,
+16 conditional and proportionate appropriations. The purpose of this
+17 section is to make appropriations payable in full in the amounts
+18 named only in the event that the estimated budget resources within
+19 each state fund during each fiscal year are sufficient to pay all of
+20 the appropriations for such fiscal year in full. It is also the
+21 purpose of this provision to ensure that there shall be no overdraft
+22 or deficit created in the several funds of the state at the end of
+23 any fiscal year, and the Director of the Office of Management and
+24 Enterprise Services State Chief Financial Officer is directed and
+Req. No. 16852 Page 46
+
+1 requ ired so to administer the Oklahoma State Finance Act to prevent
+2 such overdraft or deficit.
+3 SECTION 26. AMENDATORY 62 O.S. 2021, Section 34.42, as
+4 last amended by Section 3, Chapter 199, O.S.L. 2025 (62 O.S. Supp.
+5 2025, Section 34.42), is amended to read as follows:
+6 Section 34.42. A. On or before the first day of June in each
+7 year, or as soon thereafter as possible, all agencies shall file
+8 agency budgets with the Director of the Office of Management and
+9 Enterprise Services State Chief Financial Officer. Copies of all
+10 agency budgets shall also be made available electronically to the
+11 staff of the Joint Legislative Committee on Budget and Program
+12 Oversight.
+13 B. The required instructions, content and format of agency
+14 budgets shall be developed by the staff of the Budget Division of
+15 the Office of Management and Enterprise Services.
+16 C. 1. The agency budget shall include a description of all
+17 funds available to the agency for expenditure and set out allotments
+18 requested by the agency by quarter and the entire fiscal year.
+19 2. The agency budget shall be accompanied by an organizational
+20 chart of the agency, a statement of agency mission and program
+21 objectives.
+22 3. The agency budget shall delineate agency spending by such
+23 categories and with at least as much detail as is specified in the
+24 legislative appropriation and as prescribed by the Director of the
+Req. No. 16852 Page 47
+
+1 Offi ce of Management and Enterprise Services State Chief Financial
+2 Officer.
+3 4. Agency budgets shall be signed by the executive officer of
+4 each agency.
+5 5. The executive officer shall certify that the agency is in
+6 complete compliance with the requirements of Section 34.11.3 of this
+7 title and Section 3-114 of Title 65 of the Oklahoma Statutes.
+8 D. A "request officer" shall be designated by each state agency
+9 for the purpose of making program and allotment requests.
+10 E. Executive officers of agencies shall cooperate with the
+11 Office of Management and Enterprise Services staff and Joint
+12 Committee staff in developing program budgeting categories.
+13 F. All funds available or expected to be made available to any
+14 agency, including nonfiscal appropriations, shall not be available
+15 for expenditure until the request officer of the agency has complied
+16 with the applicable provisions of the Oklahoma State Finance Act and
+17 has received approval of such request for funds from the Director of
+18 the Office of Management and Enterprise Services State Chief
+19 Financial Officer.
+20 SECTION 27. AMENDATORY 62 O.S. 2021, Section 34.43, is
+21 amended to read as follows:
+22 Section 34.43. A. All agencies of the state shall submit to
+23 the Director of the Office of Management and Enterprise Services
+24 State Chief Financial Officer in all agency budgets, in addition to
+Req. No. 16852 Page 48
+
+1 othe r required information, whether such reports relate to past,
+2 present or future expenditures, an itemization of the amount
+3 attributable to each of the following expenses:
+4 1. The number of persons, total amount of all salaries, the
+5 total amount of travel and subsistence expense and the total amount
+6 of personnel expense for:
+7 a. data processing directors,
+8 b. systems analysts,
+9 c. programmers,
+10 d. electronic data processing operators,
+11 e. punch card machine operators,
+12 f. data processing control personnel,
+13 g. data processing clerical personnel, and
+14 h. other data processing personnel;
+15 2. Rental of data processing equipment;
+16 3. Purchase of data processing equipment;
+17 4. Maintenance of data processing equipment, if not included in
+18 rental expense;
+19 5. Data processing supplies;
+20 6. Data processing planning;
+21 7. Data processing conversion from one system to another;
+22 8. Rental and purchase of non-data processing equipment and
+23 supplies utilized in a data processing operation;
+24 9. Shipment of data processing equipment;
+Req. No. 16852 Page 49
+
+1 10. Rental of communication lines for transmission of data
+2 processing information;
+3 11. Data processing education;
+4 12. Rental of software packages;
+5 13. Contracting for development of systems; and
+6 14. Other data processing expense.
+7 B. All disbursements made from treasury funds by any state
+8 agency for the above-named expenses shall be budgeted to and
+9 disbursed from a special allotment account to be created by the
+10 Director of the Office of Management and Enterprise Services State
+11 Chief Financial Officer.
+12 C. This section shall not preclude agencies from programming
+13 and expending intra-agency data processing costs for cost allocation
+14 purposes.
+15 SECTION 28. AMENDATORY 62 O.S. 2021, Section 34.44, is
+16 amended to read as follows:
+17 Section 34.44. In any year in which a Governor-elect assumes
+18 office, the budget shall be the budget of the new Governor and shall
+19 be submitted to the Legislature by the new Governor. The Division
+20 Office of the Budget State Chief Financial Officer shall render to
+21 the Governor-elect all possible assistance in the preparation of the
+22 budget. The Governor and agencies of the state shall furnish the
+23 Governor-elect estimates and other budget information, in order that
+24
+Req. No. 16852 Page 50
+
+1 the Governor-elect may discharge effectively his or her budget
+2 responsibilities upon assuming office.
+3 SECTION 29. AMENDATORY 62 O.S. 2021, Section 34.47, is
+4 amended to read as follows:
+5 Section 34.47. A. The Division of Central Accounting and
+6 Reporting shall allocate all revenues to the credit of any fund in
+7 the State Treasury except the Public Building Fund, in accordance
+8 with the provisions of Section 23 of Article X of the Oklahoma
+9 Constitution.
+10 B. The Director of the Office of Management and Enterprise
+11 Services State Chief Financial Officer may require that
+12 appropriations for capital expenditures be financed by a separate
+13 cash account so that allocations of cash to any agency for purposes
+14 of constructing buildings, making improvements, purchasing
+15 equipment, or other capital expenditures, may not be used to finance
+16 the current operations of the agency.
+17 C. Appropriations which are nonfiscal for contractual and
+18 expenditure purposes, shall be considered fiscal for revenue
+19 purposes, but may be allotted for expenditure at any time within
+20 thirty (30) months from date such acts are enacted. Revenue which
+21 accrues to the credit of the Public Building Fund in the State
+22 Treasury shall be allocated to the appropriations from the Public
+23 Building Fund in consecutive order. The Governor shall designate
+24 the order of payment of the appropriations from the Public Building
+Req. No. 16852 Page 51
+
+1 Fund . The Director of the Office of Management and Enterprise
+2 Services State Chief Financial Officer shall allocate the
+3 collections sufficient to pay the first appropriation designated by
+4 the Governor, before the Director State Chief Financial Officer
+5 allocates any amount to the second and so on, until all
+6 appropriations are provided for. The contracting agency receiving
+7 such appropriation shall not contract the same until revenue has
+8 been allocated as provided in the Oklahoma State Finance Act.
+9 SECTION 30. AMENDATORY 62 O.S. 2021, Section 34.49, is
+10 amended to read as follows:
+11 Section 34.49. A. Appropriations and/or federal funds shall be
+12 allotted for each agency as provided by the language of the
+13 legislative appropriation and other applicable state law. Items may
+14 be allotted on a monthly, quarterly, semiannual or annual basis upon
+15 the written request of the agency and the approval of the Director
+16 of the Office of Management and Enterprise Services State Chief
+17 Financial Officer.
+18 B. The request officer for each agency shall present the
+19 proposed classification of the expenditures for that agency in such
+20 manner as may be required by the Office of Management and Enterprise
+21 Services.
+22 C. Each agency shall be required to identify those items that
+23 are for capital purposes in keeping with the definition of capital
+24 projects promulgated by the Long-Range Capital Planning Commission.
+Req. No. 16852 Page 52
+
+1 Requ ests for capital appropriations and an agency's original budget
+2 request shall be for capital projects that have been submitted to
+3 the Long-Range Capital Planning Commission for review.
+4 D. The Director of the Office of Management and Enterprise
+5 Services State Chief Financial Officer shall review the requested
+6 allotments with respect to the agency budget with each agency. The
+7 Director State Chief Financial Officer may require the agency to
+8 change such allotments before approving them, if it is deemed
+9 necessary, reserving a sufficient balance in the appropriation to
+10 finance the operations of the agency for the remainder of any fiscal
+11 year.
+12 E. At the end of any fiscal year, the entire amount
+13 appropriated to any agency must be allotted to the agency by the
+14 Director of the Office of Management and Enterprise Services State
+15 Chief Financial Officer, except where the estimated budget resources
+16 during any fiscal year are insufficient to pay all of the
+17 appropriations of the state in full for such year. The Director of
+18 the Office of Management and Enterprise Services State Chief
+19 Financial Officer shall not allot to any agency during any fiscal
+20 year, an amount which will be in excess of the amount of revenue
+21 collected and allocated to appropriations made to such agency.
+22 F. In the event of a failure of revenue, the Director of the
+23 Office of Management and Enterprise Services State Chief Financial
+24 Officer shall control the allotment to prevent obligations being
+Req. No. 16852 Page 53
+
+1 incu rred in excess of the revenue to be collected. However, within
+2 each state fund where a revenue failure occurs, the Director of the
+3 Office of Management and Enterprise Services State Chief Financial
+4 Officer shall make all reductions apply to each state agency or
+5 special appropriation made by the State Legislature, in the ratio
+6 that its total appropriation for that fiscal year bears to the total
+7 of all appropriations for that fiscal year, as provided in Section
+8 23 of Article X of the Oklahoma Constitution.
+9 G. An allotment may be approved for any item for the entire
+10 year or may be approved on a monthly, quarterly, or semiannual
+11 basis, but in no case shall the aggregate of such allotments for any
+12 agency exceed the total appropriation made available to such agency
+13 for the fiscal year to which they apply. Each agency's request for
+14 appropriation allotments shall show the amount required to finance
+15 each item of the request for the entire year and on a quarterly
+16 basis within each fiscal year.
+17 H. The Director of the Office of Management and Enterprise
+18 Services State Chief Financial Officer shall review each allotment
+19 request for the purpose of determining whether:
+20 1. The itemized requests are in accordance with the agency
+21 budget;
+22 2. The accounting classification is sufficient to reflect the
+23 purposes for which the expenditures are to be made;
+24
+Req. No. 16852 Page 54
+
+1 3. The current financial requirements of the agency justify the
+2 monthly or quarterly allotment, reserving a sufficient balance to
+3 finance the remaining months or quarters; and
+4 4. The realization of the estimated revenues is sufficient to
+5 allow the allotments to be made.
+6 I. The Legislature shall be exempt from submitting any agency
+7 budget or allotment request.
+8 SECTION 31. AMENDATORY 62 O.S. 2021, Section 34.50, is
+9 amended to read as follows:
+10 Section 34.50. A. All agencies of the state which are
+11 operating either partially or entirely from revenues derived from
+12 sources other than legislative appropriations or authorizations
+13 shall file requests for allotments under the same provisions as are
+14 required for those agencies that receive direct legislative
+15 appropriations which distinctly specify the amount appropriated.
+16 B. The Director of the Office of Management and Enterprise
+17 Services State Chief Financial Officer shall approve such requests
+18 for allotments pursuant to the language of the legislative
+19 appropriation and other applicable state law, if the estimated
+20 revenues accruing to such fund are sufficient to finance such
+21 allotments within the period for which the items are approved, and
+22 if the account classification clearly shows the purposes for which
+23 the money is to be expended. However, obligations as they are
+24 incurred may not exceed the unencumbered balance of surplus cash on
+Req. No. 16852 Page 55
+
+1 hand in accordance with Section 23 of Article X of the Oklahoma
+2 Constitution.
+3 C. The Director of the Office of Management and Enterprise
+4 Services State Chief Financial Officer may require a more detailed
+5 breakdown of accounts before approving such requests.
+6 D. This section shall apply to agencies receiving federal
+7 funds, but shall not apply to donated funds, trust funds or funds of
+8 an agency relationship.
+9 SECTION 32. AMENDATORY 62 O.S. 2021, Section 34.51, is
+10 amended to read as follows:
+11 Section 34.51. A. If an allotment request is approved by the
+12 Director of the Office of Management and Enterprise Services State
+13 Chief Financial Officer, it shall be transmitted to the request
+14 officer of the agency concerned and to the Division of Central
+15 Accounting and Reporting.
+16 B. Legislative appropriations or authorizations are the legal
+17 basis for expending the state's monies. Allotments shall be made
+18 against these legislative appropriations or authorizations and shall
+19 be entered on the records of the Division of Central Accounting and
+20 Reporting in such accounts as may be required by the Director of the
+21 Office of Management and Enterprise Services State Chief Financial
+22 Officer.
+23 C. The allotments approved by the Director of the Office of
+24 Management and Enterprise Services State Chief Financial Officer
+Req. No. 16852 Page 56
+
+1 shal l be the portion of the appropriation set aside to cover
+2 encumbrances and expenditures for a designated purpose during a
+3 monthly, quarterly, semiannual or annual period.
+4 D. The Division of Central Accounting and Reporting shall not
+5 approve claims for payment in excess of the amount allotted for each
+6 account approved by the Director of the Office of Management and
+7 Enterprise Services State Chief Financial Officer.
+8 E. After the first allotments for each agency of the state have
+9 been authorized by the Director of the Office of Management and
+10 Enterprise Services State Chief Financial Officer, subsequent
+11 allotments may be authorized upon the request of an agency and with
+12 the approval of the Director of the Office of Management and
+13 Enterprise Services State Chief Financial Officer.
+14 F. The Director of the Office of Management and Enterprise
+15 Services State Chief Financial Officer may authorize new accounts in
+16 addition to those requested in the original allotment request, or
+17 may increase the amount allotted for a monthly, quarterly,
+18 semiannual or annual period. A balance remaining in any of the
+19 allotment accounts at the end of any monthly, quarterly, or semi-
+20 annual period, shall be available for expenditure the subsequent
+21 period; however, subsequent allotment requests and the Director's
+22 State Chief Financial Officer's approval should take into
+23 consideration any unencumbered or unexpended balance remaining at
+24 the time such subsequent requests are approved.
+Req. No. 16852 Page 57
+
+1 SECTION 33. AMENDATORY 62 O.S. 2021, Section 34.52, is
+2 amended to read as follows:
+3 Section 34.52. A. The administrative head of any agency or the
+4 request officer may request that any current item of appropriation,
+5 allotment, or budget category be transferred to any other budget
+6 category within the same agency.
+7 B. The administrative head shall make a request for budget
+8 transfer to the Director of the Office of Management and Enterprise
+9 Services State Chief Financial Officer in writing and file a revised
+10 agency budget.
+11 C. Copies of the request for budget transfer and corresponding
+12 agency budget revisions shall also be filed with the Joint
+13 Legislative Committee on Budget and Program Oversight as created by
+14 Section 34.96 of this title.
+15 D. The Director of the Office of Management and Enterprise
+16 Services State Chief Financial Officer shall approve the request for
+17 transfer unless both the Chair and Vice Chair of the Joint
+18 Legislative Committee on Budget and Program Oversight provide
+19 written notification to the Director of the Office of Management and
+20 Enterprise Services State Chief Financial Officer within twelve (12)
+21 calendar days of receipt of transfer request that the transfer
+22 subverts the intention and objectives of the Legislature in
+23 establishing the original appropriation, or unless the transfer does
+24 not meet the requirements of this section or Section 34.49 of this
+Req. No. 16852 Page 58
+
+1 titl e. Notification of noncompliance with legislative intent shall
+2 be transmitted to the Director of the Office of Management and
+3 Enterprise Services State Chief Financial Officer within twelve (12)
+4 calendar days of receipt of the transfer request. The Director of
+5 the Office of Management and Enterprise Services State Chief
+6 Financial Officer shall give written notice of approval or
+7 disapproval of each budget transfer to the agency, the Governor and
+8 the Chair and Vice Chair of the Joint Legislative Committee on
+9 Budget and Program Oversight within eighteen (18) calendar days of
+10 receiving the request.
+11 E. Transfers shall be subject to the following limitations:
+12 1. The amount to be transferred, together with all previous
+13 transfers, shall not exceed twenty-five percent (25%) of the total
+14 appropriation of the least of the items of appropriation, allotment
+15 or agency budget involved in the transfer; and
+16 2. If the amount to be transferred, and all previous transfers,
+17 is greater than twenty-five percent (25%) of the least items of
+18 appropriation, allotment or agency budget involved in the transfer
+19 request, the agency may make an application to the Director of the
+20 Office of Management and Enterprise Services State Chief Financial
+21 Officer, and the Chair and Vice Chair of the Joint Legislative
+22 Committee on Budget and Program Oversight. If the agency obtains
+23 written approval from the Director of the Office of Management and
+24 Enterprise Services State Chief Financial Officer and the Chair and
+Req. No. 16852 Page 59
+
+1 Vice Chair of the Joint Legislative Committee Budget and Program
+2 Oversight, an additional fifteen percent (15%) may be transferred.
+3 SECTION 34. AMENDATORY 62 O.S. 2021, Section 34.53, as
+4 amended by Section 1, Chapter 84, O.S.L. 2025 (62 O.S. Supp. 2025,
+5 Section 34.53), is amended to read as follows:
+6 Section 34.53. A. 1. The Oklahoma State System of Higher
+7 Education, established by Article XIII-A of the Oklahoma
+8 Constitution, shall operate an allotment system similar to the
+9 procedure set out in the Oklahoma State Finance Act for other
+10 agencies of the state except that the Oklahoma State Regents for
+11 Higher Education shall be substituted for the Director of the Office
+12 of Management and Enterprise Services State Chief Financial Officer
+13 in connection with approving allotment requests of the constituent
+14 institutions comprising The Oklahoma State System of Higher
+15 Education.
+16 2. The account classification for the State System of Higher
+17 Education shall conform as nearly as possible with the
+18 classification of accounts recommended by the National Committee on
+19 Standard Reports for Institutions of Higher Education.
+20 3. The Board of Regents shall allocate to each institution
+21 under its control from the consolidated, or lump sum appropriation
+22 made by the Legislature, an amount sufficient to meet the needs and
+23 functions of each institution for the entire year.
+24
+Req. No. 16852 Page 60
+
+1 4. The amount allocated to each institution for each fiscal
+2 year in accordance with Article XIII-A of the Oklahoma Constitution,
+3 shall be made in a lump sum without regard to uniform budget or
+4 accounting classifications, but shall not be available for
+5 expenditure until subsequently allotted by the Regents in accordance
+6 with the uniform budget and accounting classifications recommended
+7 by the National Committee on Standard Reports.
+8 B. The Oklahoma State Regents for Higher Education may reduce
+9 the allocation of funds which could otherwise be made to an
+10 institution within The Oklahoma State System of Higher Education in
+11 order to make payments for leases within the lease financing program
+12 authorized by Section 3206.6a of Title 70 of the Oklahoma Statutes.
+13 C. 1. The Regents, with the approval of the Director of the
+14 Office of Management and Enterprise Services State Chief Financial
+15 Officer, may allot money to any constituent institution to set up
+16 and operate a petty cash fund at such institution. Such petty cash
+17 fund shall be reimbursed upon the filing of claims showing the
+18 purposes for which the funds were expended.
+19 2. The Division of Central Accounting and Reporting shall make
+20 cash allocations of revenue in accordance with Section 23 of Article
+21 X of the Oklahoma Constitution, to each of the constituent
+22 institutions. These cash allocations shall be based on the
+23 allocations made by the Regents to each institution from the lump
+24 sum legislative appropriations and such allocation shall be the
+Req. No. 16852 Page 61
+
+1 tota l appropriation for each institution, in lieu of legislative
+2 appropriations.
+3 3. After these funds have been allocated and allotted as
+4 provided in this section, all institutional income shall operate as
+5 a continuing nonfiscal appropriation which may be spent for any
+6 educational and general purposes for which appropriated funds may be
+7 spent. "Institutional income" for such purposes shall mean all
+8 income available for educational and general purposes, as defined in
+9 the uniform budget and accounting classifications recommended by the
+10 National Committee on Standard Reports, and including income defined
+11 by law as revolving fund income. Expenditures shall be limited to
+12 the extent that obligations as they are incurred may not exceed the
+13 unencumbered balance of cash on hand in accordance with Section 23
+14 of Article X of the Oklahoma Constitution.
+15 D. 1. At least thirty (30) days prior to the beginning of each
+16 fiscal year, each of the constituent institutions shall file with
+17 the Regents its request for appropriation allotments for each of the
+18 purposes for which expenditures are to be made.
+19 2. Such requests shall be broken down to conform to the uniform
+20 budget or accounting classifications recommended by the National
+21 Committee on Standard Reports.
+22 3. Each institution's request for appropriation allotments
+23 shall show the amount required to finance each item of the request
+24 for the entire year and for each quarter or each six-month period
+Req. No. 16852 Page 62
+
+1 with in the fiscal year, as required by the Director State Chief
+2 Financial Officer of the Office of Management and Enterprise
+3 Services.
+4 E. The Regents, or the official or employee who has been
+5 authorized to approve itemized allotment requests, shall consider
+6 the allotment requests for the purpose of making a determination
+7 whether:
+8 1. The current financial requirements of the institution
+9 concerned justify the allotment to be made;
+10 2. The accounting classification is sufficient to reflect the
+11 purpose for which expenditures are to be made and that such
+12 classification is in accordance with the budget classifications
+13 adopted by the Director of the Office of Management and Enterprise
+14 Services State Chief Financial Officer and the Regents, which shall
+15 conform as nearly as possible to the account classification
+16 recommended by the National Committee on Standard Reports for
+17 Institutions of Higher Education; and
+18 3. The realization of estimated revenues determined by the
+19 Director of the Office of Management and Enterprise Services State
+20 Chief Financial Officer is sufficient to allow the commitments to be
+21 made.
+22 F. 1. In allotting appropriations and other funds, and
+23 approving subsequent allotments which may be required by each
+24 institution, the Regents shall follow the same general procedure set
+Req. No. 16852 Page 63
+
+1 fort h in the Oklahoma State Finance Act for other agencies of the
+2 state not under the control of the Regents, except as otherwise
+3 provided in this section.
+4 2. All forms and account classifications shall be mutually
+5 agreed upon by the Director of the Office of Management and
+6 Enterprise Services State Chief Financial Officer and the State
+7 Regents.
+8 3. The Regents shall file approved requests of constituent
+9 institutions with the Division of Central Accounting and Reporting
+10 and such requests shall be entered on the records of the Office of
+11 Management and Enterprise Services in the same manner as is provided
+12 in the Oklahoma State Finance Act for other agencies of the state.
+13 4. The State Regents and the Director of the Office of
+14 Management and Enterprise Services State Chief Financial Officer
+15 shall approve any request from the administrative head of a
+16 constituent institution for amendment of the approved schedule of
+17 positions and salaries, or transfers between items, so long as the
+18 currently approved allotment for such purposes is not exceeded.
+19 Each such amendment shall be filed with the Office of Management and
+20 Enterprise Services, in such detail as may be required, prior to the
+21 date on which the first payroll or other disbursement affected by
+22 such amendment or transfer is submitted for payment.
+23 G. 1. In the event that the realization of estimated revenues
+24 at any time during the fiscal year indicates that the total revenue
+Req. No. 16852 Page 64
+
+1 for that fiscal year to any state fund will be insufficient at the
+2 end of the fiscal year to meet the total appropriations from that
+3 fund, the Director of the Office of Management and Enterprise
+4 Services State Chief Financial Officer shall notify the Oklahoma
+5 State Regents for Higher Education as to the amount of reduction
+6 necessary against the consolidated, or lump sum appropriations, made
+7 to the Regents.
+8 2. The Regents, in making itemized allotments during the fiscal
+9 year, may reserve an amount sufficient to meet a reasonable failure
+10 of revenue until receipt of notice from the Director of the Office
+11 of Management and Enterprise Services State Chief Financial Officer
+12 that the realization of estimated revenues indicates that the total
+13 appropriation may be allotted for expenditure. Upon receipt of
+14 notice from the Director of the Office of Management and Enterprise
+15 Services State Chief Financial Officer of a necessary reduction in
+16 the consolidated, or lump sum appropriation, to meet a failure in
+17 revenue, the Oklahoma State Regents for Higher Education shall
+18 immediately take action to control the approval of subsequent
+19 allotment requests sufficient to make the aggregate reduction in
+20 allotments of all constituent institutions under their control equal
+21 the amount of reduction ordered against the lump sum appropriation
+22 made by the Legislature. Such reductions against the lump sum
+23 appropriation shall not exceed the percentage reduction ordered
+24
+Req. No. 16852 Page 65
+
+1 agai nst other agencies of the state in accordance with Section 23 of
+2 Article X of the Oklahoma Constitution.
+3 SECTION 35. AMENDATORY 62 O.S. 2021, Section 34.54, is
+4 amended to read as follows:
+5 Section 34.54. There is hereby created in the State Treasury a
+6 division of the State General Revenue Fund which shall be designated
+7 the "General Revenue Cash-flow Reserve Fund". The purpose of the
+8 General Revenue Cash-flow Reserve Fund is to make cash available for
+9 the July cash allocation and so that, insofar as possible, each
+10 monthly cash allocation thereafter can equal one-twelfth (1/12) of
+11 the annual appropriation from the General Revenue Fund.
+12 1. Each year the Director of the Office of Management and
+13 Enterprise Services State Chief Financial Officer may transfer
+14 monies from the then current fiscal year General Revenue Fund to the
+15 General Revenue Cash-flow Reserve Fund for the succeeding fiscal
+16 year when the apportionment to the General Revenue Fund is in excess
+17 of amounts required for the allocations necessary to fund
+18 appropriations made by the Legislature for the then current fiscal
+19 year. The amount to be transferred shall not exceed ten percent
+20 (10%) of the amount certified by the State Board of Equalization as
+21 available for appropriation from the General Revenue Fund for the
+22 next succeeding fiscal year.
+23 2. Any monies transferred to the General Revenue Cash-flow
+24 Reserve Fund pursuant to paragraph 1 of this section, shall be
+Req. No. 16852 Page 66
+
+1 tran sferred by the Director of the Office of Management and
+2 Enterprise Services State Chief Financial Officer as nonrevenue
+3 receipts to the State General Revenue Fund in the amounts necessary
+4 to make cash available for the July cash allocation and so that,
+5 insofar as possible, each monthly cash allocation thereafter can
+6 equal one-twelfth (1/12) of the annual appropriation.
+7 3. By the first Monday of each December, the Office of
+8 Management and Enterprise Services shall analyze and submit to the
+9 State Board of Equalization the amount of monies remaining in the
+10 General Revenue Cash-flow Reserve Fund which are not necessary for
+11 current year cash-flow needs and are available for legislative
+12 appropriation.
+13 4. On the second Monday of June of each year, the Director of
+14 the Office of Management and Enterprise Services State Chief
+15 Financial Officer shall close the preceding fiscal year General
+16 Revenue Cash-flow Reserve Fund by transfer to the then current
+17 fiscal year General Revenue Fund.
+18 5. Any monies in the prior year General Revenue Cash-flow
+19 Reserve Fund which are not necessary for the current year cash-flow
+20 needs shall be subject to legislative appropriation.
+21 SECTION 36. AMENDATORY 62 O.S. 2021, Section 34.55, is
+22 amended to read as follows:
+23 Section 34.55. A. The Director of the Office of Management and
+24 Enterprise Services State Chief Financial Officer may transfer
+Req. No. 16852 Page 67
+
+1 moni es from any treasury fund to the General Revenue Cash-flow
+2 Reserve Fund as required to satisfy monthly allocations scheduled
+3 from the General Revenue Fund for the then current fiscal year.
+4 Funds from which any monies are so transferred shall be repaid
+5 before any transfers are made from the General Revenue Fund to the
+6 General Revenue Cash-flow Reserve Fund for the subsequent fiscal
+7 year.
+8 B. The Director of the Office of Management and Enterprise
+9 Services State Chief Financial Officer may transfer monies to any
+10 treasury fund from the General Revenue Cash-flow Reserve Fund as
+11 required to satisfy cash-flow requirements of the federal Cash
+12 Management Improvement Act. Funds to which any monies are so
+13 transferred shall be repaid within the same month. If insufficient
+14 funds exist in the General Revenue Cash-flow Reserve Fund for this
+15 purpose, the General Revenue Fund for the then current fiscal year
+16 may be used with the same repayment stipulations.
+17 SECTION 37. AMENDATORY 62 O.S. 2021, Section 34.56, is
+18 amended to read as follows:
+19 Section 34.56. A. There is hereby re-created, to continue
+20 until July 1, 2008, in accordance with the provisions of the
+21 Oklahoma Sunset Law, a Special Agency Account Board, to consist of
+22 the Director of the Office of Management and Enterprise Services
+23 State Chief Financial Officer, the State Treasurer and the Director
+24 of the Legislative Service Bureau. The Board shall have the
+Req. No. 16852 Page 68
+
+1 auth ority to approve the establishment of agency special accounts in
+2 the official depository of the State Treasury. In the case of
+3 institutions of higher education, the Special Agency Account Board,
+4 acting in conjunction with the Oklahoma State Regents for Higher
+5 Education, shall establish special agency accounts as appropriate
+6 which shall be consistent with provisions of the Oklahoma State
+7 Finance Act, as it relates to institutions in The Oklahoma State
+8 System of Higher Education.
+9 B. The Board, created by this section, shall adopt procedures
+10 including application forms, justification and other pertinent
+11 information as to the basis for a state agency application for the
+12 establishment of agency special accounts.
+13 C. The Board may approve agency special accounts for money
+14 received by state agencies for the following purposes:
+15 1. Benefit programs for individuals, including, but not limited
+16 to, unemployment compensation, workers' compensation and state
+17 retirement programs;
+18 2. Revenues produced by activities or facilities ancillary to
+19 the operation of a state agency which receive no money, directly or
+20 indirectly, from or through that state agency, including, but not
+21 limited to, revenues from the sales of food at retail level, sales
+22 at canteens, sales at student unions, sales at student bookstores,
+23 receipts from athletic programs and receipts from housing.
+24 Provided, however, that a state institution of higher learning may
+Req. No. 16852 Page 69
+
+1 purc hase necessary equipment and instructional supplies and office
+2 supplies from a student bookstore, or, subject to authorization by
+3 the Oklahoma State Regents for Higher Education, may rent building
+4 space for institutional use in a building operated by an
+5 organization or entity whose existence is ancillary to the operation
+6 of a state agency, and whose cost was financed in whole or in part
+7 with revenue-type bonds; provided, further, that the cost of such
+8 office supplies or space rental shall not exceed the cost of similar
+9 supplies or rentals available commercially;
+10 3. Gifts, devises and bequests with an agency as beneficiary,
+11 unless otherwise provided by statute;
+12 4. Evidence funds for law enforcement agencies;
+13 5. Student loan funds and scholarship funds;
+14 6. Funds held in escrow;
+15 7. Land Commission funds;
+16 8. Funds for which the state agency acts as custodian,
+17 including, but not limited to, fees from employee earnings approved
+18 by the governing board of the agency, funds of student organizations
+19 including student activity fees collected by an educational
+20 institution as a separate item in enrollment procedures,
+21 professional organizations, patients and inmates;
+22 9. Funds used by the Oklahoma Tax Commission to pay for the
+23 filing of liens with the Federal Aviation Administration;
+24
+Req. No. 16852 Page 70
+
+1 10. Temporary accounts for funds arising from new or amended
+2 legislation not otherwise provided for in statute or for other
+3 emergency situations. Such accounts are to be utilized only pending
+4 legislative action directing custody of such funds;
+5 11. Payment of liability claims against the state;
+6 12. Activities of the various Armory Boards of the Oklahoma
+7 Military Department to receive and dispense funds derived by the
+8 Armory Boards pursuant to Sections 232.6 and 232.7 of Title 44 of
+9 the Oklahoma Statutes; and
+10 13. Payment of expenses incurred in connection with the
+11 acceptance of payments made with nationally recognized credit cards.
+12 D. The State Treasurer is authorized to accept deposit of money
+13 made directly to agency special accounts approved by the Board. All
+14 money received by a state agency, as described in Section 34.57 of
+15 this title, shall be deposited in State Treasury funds or accounts
+16 and no money shall be deposited in banks or other depositories
+17 unless the bank accounts are maintained by the State Treasurer or
+18 are for the deposit of authorized petty cash funds.
+19 E. Money deposited in agency special accounts shall be
+20 disbursed on vouchers issued by the state agency concerned to
+21 accomplish the purpose for which the money was intended.
+22 F. Funds and revenues of the Grand River Dam Authority are
+23 exempt from the requirements of this section.
+24
+Req. No. 16852 Page 71
+
+1 G. Funds and revenues of the Oklahoma Municipal Power Authority
+2 are exempt from the requirements of this section.
+3 H. Monies used for investment purposes by the Oklahoma
+4 Firefighters Pension and Retirement System, the Oklahoma Police
+5 Pension and Retirement System, the Uniform Retirement System for
+6 Justices and Judges, the Oklahoma Law Enforcement Retirement System,
+7 the Oklahoma Public Employees Retirement System, the Teachers'
+8 Retirement System of Oklahoma, the State Insurance Fund, the
+9 Oklahoma Employees Insurance and Benefits Board, the Commissioners
+10 of the Land Office, and the Oklahoma State Regents for Higher
+11 Education for its Endowment Trust Fund are exempt from the
+12 requirements of this section, and shall be placed with the
+13 respective custodian bank or trust company.
+14 SECTION 38. AMENDATORY 62 O.S. 2021, Section 34.58, is
+15 amended to read as follows:
+16 Section 34.58. A. Each state agency shall furnish to the
+17 Director of the Office of Management and Enterprise Services State
+18 Chief Financial Officer, in such form as the Director State Chief
+19 Financial Officer shall prescribe, detailed information showing the
+20 income, disbursements, and transfers for each agency clearing
+21 account and each agency's special account. Income, disbursements
+22 and transfers shall be identified in accordance with code
+23 designations as provided in the accounting procedures of the Office
+24 of Management and Enterprise Services.
+Req. No. 16852 Page 72
+
+1 B. The Director of the Office of Management and Enterprise
+2 Services State Chief Financial Officer may approve any modification
+3 in the code designations of income, disbursements and transfers that
+4 he or she finds expedient.
+5 C. The State Treasurer shall not honor vouchers disbursing and
+6 transferring monies from agency clearing accounts or special
+7 accounts, when he or she has been notified by the Director State
+8 Chief Operating Officer of the Office of Management and Enterprise
+9 Services that an agency is not in compliance with the provisions of
+10 subsection A of this section.
+11 SECTION 39. AMENDATORY 62 O.S. 2021, Section 34.62, is
+12 amended to read as follows:
+13 Section 34.62. Encumbrance requirements for payments from funds
+14 of the state shall include the following:
+15 1. Whenever agencies of this state enter into contracts for, or
+16 on behalf of the state for the purchase of tangible or intangible
+17 property, or for services or labor, such agreement shall be
+18 evidenced by written contracts or purchase orders, and must be
+19 transmitted to the Director State Chief Operating Officer of the
+20 Office of Management and Enterprise Services within a reasonable
+21 time from the date of the awarding of the contract or purchase
+22 order, as determined by the Director State Chief Operating Officer;
+23 2. The Director State Chief Operating Officer of the Office of
+24 Management and Enterprise Services shall charge such contracts or
+Req. No. 16852 Page 73
+
+1 purc hase orders against the proper account as an outstanding order
+2 until it is liquidated by payment of a claim, or claims, against the
+3 contracts or purchase orders, or by cancellation of the contract or
+4 purchase order;
+5 3. The Director State Chief Operating Officer of the Office of
+6 Management and Enterprise Services shall have the power to authorize
+7 agencies of the state to make acquisitions without the submission of
+8 competitive bids or compliance with the state purchase card program
+9 as otherwise required by the Oklahoma Central Purchasing Act, for or
+10 on behalf of the state whenever the Director State Chief Operating
+11 Officer determines that it is in the best interests of the state.
+12 The administrative head of any agency shall be personally liable for
+13 obligations incurred in excess of the authorization granted by the
+14 Director State Chief Operating Officer;
+15 4. The Director State Chief Operating Officer of the Office of
+16 Management and Enterprise Services shall never authorize payment of
+17 claims for any agency of the state unless they are supported by:
+18 a. contracts or purchase orders of the Office of
+19 Management and Enterprise Services,
+20 b. institutional purchase orders or contracts,
+21 c. departmental purchase orders or contracts, or
+22 d. authorizations for purchases granted by the Director
+23 State Chief Operating Officer as provided by paragraph
+24 3 of this section;
+Req. No. 16852 Page 74
+
+1 5. Any invoice or claim dated prior to the date of any of the
+2 above-mentioned encumbrance documents shall be rejected by the
+3 Office of Management and Enterprise Services;
+4 6. Any encumbrance document that is outstanding on the records
+5 in the Office of Management and Enterprise Services when its funding
+6 source or sources lapse shall be canceled, unless another current
+7 funding source is assigned; and
+8 7. The Commissioners of the Land Office shall be authorized to
+9 make payment of fees to its custodial banks, investment consultants
+10 and investment managers from the proceeds of total realized
+11 investment gains and such payments may be made from a special fund
+12 hereby created in the State Treasury for this purpose. Total
+13 payments for this purpose in a fiscal year shall not exceed one-half
+14 percent (0.5%) of the market value of the funds under the
+15 Commissioners' management on June 30 of the previous fiscal year.
+16 SECTION 40. AMENDATORY 62 O.S. 2021, Section 34.63, is
+17 amended to read as follows:
+18 Section 34.63. A. The State Treasurer shall be the disbursing
+19 agency of the state and shall draw either checks or warrants payable
+20 at the State Treasury, in payment of all claims, including payrolls,
+21 against the state which shall be paid out of the Treasury, as
+22 follows:
+23 1. Each check or warrant shall specify the date of its issue
+24 and the name of the person to whom payable; and
+Req. No. 16852 Page 75
+
+1 2. For each check, or warrant, issued by the State Treasurer,
+2 there shall be a record which shall specify the gross amount, the
+3 amount of withholding, if any, and the net amount payable to the
+4 payee.
+5 B. At the end of each month the State Treasurer shall report to
+6 the Director State Chief Operating Officer of the Office of
+7 Management and Enterprise Services in such form as the Director
+8 State Chief Operating Officer shall prescribe, all checks or
+9 warrants issued during the month.
+10 C. Checks or warrants issued by the State Treasurer shall be
+11 registered on the records of the State Treasurer in such manner as
+12 shall be prescribed by the Director State Chief Operating Officer of
+13 the Office of Management and Enterprise Services; provided, that
+14 each check or warrant shall indicate thereon the fund against which
+15 the same shall be charged. The purpose of this section is to permit
+16 checks or warrants to be registered in the order in which they are
+17 drawn upon the State Treasury.
+18 SECTION 41. AMENDATORY 62 O.S. 2021, Section 34.64, is
+19 amended to read as follows:
+20 Section 34.64. A. Except as otherwise provided in the Oklahoma
+21 State Finance Act and except for Automated Clearing House (ACH)
+22 debits for transactional fees, procedures for paying claims or
+23 payrolls shall include the following:
+24
+Req. No. 16852 Page 76
+
+1 1. All miscellaneous claims and payroll claims for the payment
+2 of money from the State Treasury shall be filed with the Director
+3 State Chief Operating Officer of the Office of Management and
+4 Enterprise Services for audit and settlement prior to being filed
+5 for payment with the State Treasurer;
+6 2. The Director State Chief Operating Officer of the Office of
+7 Management and Enterprise Services may establish alternative
+8 procedures for the settlement of claims whenever such procedures are
+9 more advantageous so long as they are consistent with the
+10 requirements of state law;
+11 3. Such alternative procedures shall be at the discretion of
+12 the Director State Chief Operating Officer of the Office of
+13 Management and Enterprise Services and may include, but are not
+14 limited to:
+15 a. a procedure to permit consolidated payment to vendors
+16 for claims involving more than one agency of the state
+17 when audit and settlement of such claims, as
+18 hereinafter provided, can in all respects be
+19 accomplished,
+20 b. procedures based upon valid statistical sampling
+21 models for preaudit of claims, against contracts,
+22 purchase orders and other commitments before entering
+23 such claims against the accounts, and
+24
+Req. No. 16852 Page 77
+
+1 c. policies, procedures and performance criteria for the
+2 participation of agencies or departments, not
+3 authorized by this section, to engage in an
+4 alternative system for the settlement of claims; and
+5 4. The Director State Chief Operating Officer of the Office of
+6 Management and Enterprise Services may use a numeric or alphanumeric
+7 designation to cross-reference claims or payrolls to check warrant
+8 numbers, transfer entry or optional settlement mode used in the
+9 payment thereof.
+10 B. Except for ACH debits for transactional fees, after claims
+11 or payrolls or both have been properly audited and recorded against
+12 the respective contracts, purchase orders, other commitments and
+13 accounts, the Division of Central Accounting and Reporting shall
+14 certify such claims or payrolls to the State Treasurer for payment.
+15 C. Except for ACH debits for transactional fees, it shall be
+16 the responsibility of the Division of Central Accounting and
+17 Reporting to determine that:
+18 1. All material legal requirements concerning the expenditure
+19 of monies involved in each claim or payroll have been complied with;
+20 2. Funds have been properly and legally allotted for the
+21 payment of the claim or payroll; and
+22 3. A sufficient balance exists for the payment of same.
+23 D. The Director State Chief Operating Officer of the Office of
+24 Management and Enterprise Services or bonded employees in the
+Req. No. 16852 Page 78
+
+1 Divi sion of Central Accounting and Reporting authorized by the
+2 Director State Chief Operating Officer shall certify to the State
+3 Treasurer that the claim or payroll has been approved for payment.
+4 E. 1. The Director State Chief Operating Officer of the Office
+5 of Management and Enterprise Services shall be authorized to
+6 establish necessary agency disbursing funds to efficiently
+7 accommodate the cash flow requirements of applicable federal
+8 regulations, bond indebtedness and other directives deemed
+9 appropriate by the Director State Chief Operating Officer.
+10 2. Agencies operating such disbursing funds are authorized to
+11 establish a preaudit and settlement system for claims or payments or
+12 both relating to the purposes of the stated directives.
+13 3. The State Treasurer shall establish procedures for the state
+14 in accordance with Federal Banking and National Automated Clearing
+15 House Association standards and agencies shall be required to
+16 utilize automated clearing house procedures established by the State
+17 Treasurer.
+18 4. No individual or entity shall be required to have a bank
+19 account unless required by federal law or federal regulation.
+20 5. Agencies shall be further required to present these
+21 transactions to the Office of Management and Enterprise Services in
+22 a summarized format and shall include any accounting information
+23 necessary as determined by the Director State Chief Operating
+24
+Req. No. 16852 Page 79
+
+1 Offi cer of the Office of Management and Enterprise Services
+2 including, but not limited to, information related to federal law.
+3 6. Administrative expenditures shall not be eligible for these
+4 procedures.
+5 7. The efficiency of the payment system shall be considered
+6 when the interest earnings of the state are not diminished.
+7 F. The Director State Chief Operating Officer of the Office of
+8 Management and Enterprise Services shall be authorized to process
+9 payments for federal tax withholding without claim forms. The
+10 Director State Chief Operating Officer shall establish a separate
+11 fund for the purpose of accumulating federal income tax withholding
+12 from payrolls and remitting same to the United States Treasury.
+13 Institutions under the administrative authority of the Oklahoma
+14 State Regents for Higher Education which are responsible for
+15 processing payments for federal tax withholding shall be authorized
+16 to process such payments to the United States Treasury without claim
+17 forms.
+18 G. 1. The Director State Chief Operating Officer of the Office
+19 of Management and Enterprise Services shall be authorized to
+20 process, without claim forms, interest payments to the U.S. Treasury
+21 as required by federal law.
+22 2. Agencies are responsible for the accrual of such interest
+23 liability of the state and shall provide payment to the Office of
+24 Management and Enterprise Services in the amount and method
+Req. No. 16852 Page 80
+
+1 pres cribed by the Director State Chief Operating Officer of the
+2 Office of Management and Enterprise Services.
+3 3. Any liability of the U.S. Treasury as determined by federal
+4 law shall be deposited in the State Treasury and transferred by the
+5 Director State Chief Operating Officer of the Office of Management
+6 and Enterprise Services to the General Revenue Fund of the state
+7 subsequent to final determination and necessary audit resolution.
+8 H. Payments disbursed from the State Treasury shall be conveyed
+9 solely through an electronic payment mechanism. The State Treasurer
+10 may provide an exemption from the provisions of this subsection,
+11 with cause, provided the number of exempted payments and a
+12 corresponding list of causes shall be published in a regularly
+13 updated report which is featured prominently on the State
+14 Treasurer's website.
+15 I. Notwithstanding any other provision of the Oklahoma State
+16 Finance Act and subject to any applicable restrictions in the
+17 Oklahoma Constitution, the Director State Chief Operating Officer of
+18 the Office of Management and Enterprise Services may establish
+19 procedures by which agencies may contract for, incur and account for
+20 transaction-based fees, such as fees for accepting credit cards,
+21 that may be processed by ACH debit without claim forms, provided the
+22 agency has sufficient statutory authority for purchase. Prior to
+23 authorizing ACH debit transactions without claim forms, state
+24 agencies shall provide notice to the State Treasurer.
+Req. No. 16852 Page 81
+
+1 SECTION 42. AMENDATORY 62 O.S. 2021, Section 34.65, is
+2 amended to read as follows:
+3 Section 34.65. A. To facilitate the payment of vendor invoices
+4 and contract estimates, the Director State Chief Operating Officer
+5 of the Office of Management and Enterprise Services shall prescribe
+6 a uniform document to be used by all agencies of the state. The
+7 document shall provide summarized information relative to the
+8 referenced invoices or contract estimates, together with a space for
+9 the approval of the head of the agency approving said vendor
+10 invoices or contract estimates for payment.
+11 B. Vendor invoices and contract estimates shall be accepted by
+12 the state in lieu of the claim form previously required in the same
+13 manner as commercial invoices are paid.
+14 C. Vendor invoices and contract estimates shall be filed with
+15 the agency receiving the merchandise or services in the same manner
+16 as invoices are filed with commercial firms.
+17 D. Upon receipt of invoices or contract estimates, the head of
+18 the agency, or the agency's authorized agent, may approve said
+19 documents for payment as confirmation of delivery or acceptance of
+20 the goods or services. Whereupon, the approved invoices or contract
+21 estimates shall be attached to the document provided for such
+22 purpose and the head of the agency approving such invoices of
+23 contract estimates for payment shall affix the approval in the space
+24 provided on the document.
+Req. No. 16852 Page 82
+
+1 E. Commercial invoices shall be accepted in lieu of the
+2 standard notarized claim prescribed by the state.
+3 SECTION 43. AMENDATORY 62 O.S. 2021, Section 34.66, is
+4 amended to read as follows:
+5 Section 34.66. A. The State Treasurer shall write checks or
+6 warrants in payment of claims and payrolls certified to the State
+7 Treasurer for payment by the Division of Central Accounting and
+8 Reporting or:
+9 1. The Department of Human Services;
+10 2. The Department of Rehabilitative Services;
+11 3. The State Department of Health;
+12 4. The Department of Transportation;
+13 5. The State Department of Education;
+14 6. The Oklahoma Department of Career and Technology Education;
+15 and
+16 7. The institutions within The Oklahoma State System of Higher
+17 Education.
+18 B. The State Treasurer, within such limitations as the State
+19 Treasurer may prescribe, may authorize the Director State Chief
+20 Operating Officer of the Office of Management and Enterprise
+21 Services and the entities specified in subsection A of this section
+22 to issue the checks or warrants for payment of claims and payrolls
+23 that have been certified by the respective agency.
+24
+Req. No. 16852 Page 83
+
+1 C. The Director State Chief Operating Officer of the Office of
+2 Management and Enterprise Services and the entities specified in
+3 subsection A of this section shall provide the State Treasurer a
+4 register of each payment for each check or warrant issued. To
+5 protect against fraud, information contained within the register of
+6 checks or warrants shall not be subject to the Oklahoma Open Records
+7 Act until the earlier of:
+8 1. Such checks or warrants are submitted for redemption; or
+9 2. Such checks or warrants are cancelled by statute.
+10 D. In lieu of checks or warrants:
+11 1. The Director State Chief Operating Officer of the Office of
+12 Management and Enterprise Services may, with the concurrence of the
+13 State Treasurer, settle interagency claims by transfer entry; and
+14 2. At the discretion of the State Treasurer, pay claims and
+15 payrolls by the electronic transfer of funds.
+16 SECTION 44. AMENDATORY 62 O.S. 2021, Section 34.67, is
+17 amended to read as follows:
+18 Section 34.67. A. The Director State Chief Operating Officer
+19 of the Office of Management and Enterprise Services is hereby
+20 authorized to prescribe forms and electronic systems to process
+21 claims and payroll to be used by the various agencies of the state.
+22 Any agency of the state may file a claim against more than one item
+23 of the current allotments within funds by indicating on the claim or
+24 payroll the account, or accounts to be charged. The Director State
+Req. No. 16852 Page 84
+
+1 Chie f Operating Officer shall approve and charge such claim to the
+2 account, or accounts, indicated after proper audit of the claim or
+3 payroll.
+4 B. These payroll systems are hereby authorized for use in
+5 claiming amounts due individually to all employees within an agency
+6 of the state. Each payroll record shall show the total earnings,
+7 the amount of each type of withholding and the net amount due each
+8 employee. Withholdings may be reserved by the Director State Chief
+9 Operating Officer of the Office of Management and Enterprise
+10 Services to be paid to the proper entity by lump sum payments.
+11 SECTION 45. AMENDATORY 62 O.S. 2021, Section 34.68, is
+12 amended to read as follows:
+13 Section 34.68. A. The elected or appointed executives of any
+14 state agency or their designated administrative employees shall
+15 approve individual claims of the agency which are used as the basis
+16 for the payment of money from the State Treasury from any fund.
+17 These individuals shall be known as the "agency approving officers".
+18 B. Payrolls shall show the amount to be paid to each named
+19 person for the period of time shown.
+20 C. The number of persons authorized to make such approval shall
+21 not exceed five people for any one state agency without the special
+22 approval of the Director State Chief Operating Officer of the Office
+23 of Management and Enterprise Services.
+24
+Req. No. 16852 Page 85
+
+1 D. All agency approving officers shall execute a bond issued by
+2 a surety company licensed to do business in this state, payable to
+3 the state in the amount required by the Director State Chief
+4 Operating Officer of the Office of Management and Enterprise
+5 Services but not less than Fifty Thousand Dollars ($50,000.00) and
+6 conditioned for the faithful performance of their duties, as surety,
+7 which shall be approved by the Director State Chief Operating
+8 Officer of the Office of Management and Enterprise Services and
+9 filed in the office of the Secretary of State.
+10 E. After state claims and/or payrolls have been approved by the
+11 above agency approving officers, they shall be filed with the
+12 Director State Chief Operating Officer of the Office of Management
+13 and Enterprise Services for auditing and settlement.
+14 SECTION 46. AMENDATORY 62 O.S. 2021, Section 34.69, is
+15 amended to read as follows:
+16 Section 34.69. There is hereby created in the State Treasury a
+17 Payroll Fund which shall be used by the Director State Chief
+18 Operating Officer of the Office of Management and Enterprise
+19 Services and the State Treasurer to issue a consolidated payroll for
+20 each agency of the state. Payrolls of state agencies shall be
+21 charged against the Payroll Fund created herein. Each state agency
+22 shall prepare summary distributions of the amounts of payrolls to be
+23 charged against each fund within the State Treasury and the Director
+24 State Chief Operating Officer shall transfer monies from each fund
+Req. No. 16852 Page 86
+
+1 in t he State Treasury to the Payroll Fund amounts as shown on
+2 payroll distribution summaries, and shall charge such amounts to the
+3 account affected thereby.
+4 B. As of July 1, 2010, the Office of Management and Enterprise
+5 Services shall make available and each executive state agency shall
+6 make available to all state employees a centralized web-based system
+7 to access their personal employment and compensation-related
+8 information. The provisions of this subsection as it pertains to
+9 executive agencies may be waived by the Director State Chief
+10 Operating Officer of the Office of Management and Enterprise
+11 Services in the event that lack of timely access prevents employees
+12 from utilizing the centralized system. As used in subsections B, C
+13 and D of this section, "executive state agency" shall mean any state
+14 agency, authority, board, commission or other entity organized
+15 within the executive department of state government. Executive
+16 state agency shall not mean any government entity organized or
+17 created within the legislative or judicial departments of state
+18 government.
+19 C. Except for institutions within The Oklahoma State System for
+20 Higher Education, executive state agencies converting to a multi-
+21 monthly payroll system shall consult with the Office of Management
+22 and Enterprise Services on the timing of the agency's conversion.
+23 1. All state employees hired during the six (6) months prior to
+24 an executive state agency's conversion to a multi-monthly payroll
+Req. No. 16852 Page 87
+
+1 shal l be placed on either the biweekly payroll system or
+2 supplemental payroll upon the date of hire.
+3 2. In the six (6) months prior to an executive state agency's
+4 conversion to multi-monthly payroll, the executive state agency
+5 shall offer either multi-monthly or supplemental payroll to any
+6 employee who chooses to participate. The provisions of this
+7 paragraph shall not apply to employees placed on the multi-monthly
+8 payroll pursuant to paragraph 1 of this subsection.
+9 D. Six (6) months prior to an executive state agency converting
+10 to the multi-monthly payroll system, it shall create employee
+11 payroll conversion banks for the purpose of providing a one-time
+12 payroll payment to an employee for the gap in payroll payments
+13 created by the conversion to the multi-monthly system.
+14 1. Each executive state agency shall allow its employees to
+15 accumulate funds up to a maximum of eighty (80) hours for the
+16 conversion bank from the following sources:
+17 a. earned compensatory time, if the agency normally
+18 provides its employees compensatory time,
+19 b. earned annual leave,
+20 c. earned sick leave up to a maximum of forty (40) hours,
+21 and
+22 d. shared leave as approved by the appointing authority.
+23 2. During the six-month period leading up to an executive state
+24 agency's conversion to the multi-monthly payroll system, all
+Req. No. 16852 Page 88
+
+1 exec utive state agencies shall inform, in writing or by electronic
+2 means, all their employees of their leave and compensatory time
+3 balances on a monthly basis.
+4 E. The Office of Management and Enterprise Services shall
+5 establish procedures concerning the conversion.
+6 SECTION 47. AMENDATORY 62 O.S. 2021, Section 34.70, as
+7 amended by Section 1, Chapter 167, O.S.L. 2023 (62 O.S. Supp. 2025,
+8 Section 34.70), is amended to read as follows:
+9 Section 34.70. A. 1. Upon the request of a state employee, a
+10 state agency shall make voluntary payroll deductions for the
+11 employee to any credit union, bank, or savings association having an
+12 office in this state.
+13 2. If the governing body of any county, municipality, or school
+14 district provides for voluntary payroll deductions to a credit union
+15 serving the employees of the county, municipality, or school
+16 district, it shall provide voluntary payroll deductions to any
+17 credit union, bank, or savings association having an office in this
+18 state which has a minimum participation of twenty percent (20%) of
+19 the employees of the county, municipality, or school district.
+20 B. Upon the request of a state employee and pursuant to
+21 procedures established by the Director State Chief Operating Officer
+22 of the Office of Management and Enterprise Services, a state agency
+23 shall make payroll deductions for:
+24
+Req. No. 16852 Page 89
+
+1 1. The payment of any insurance premiums due a private
+2 insurance organization with a minimum participation of five hundred
+3 (500) state employees for life, accident, and health insurance which
+4 is supplemental to that provided for by the state;
+5 2. The payment of any insurance premiums, other than the
+6 premiums due pursuant to paragraph 1 of this subsection, due a
+7 private insurance organization or service company with a minimum
+8 participation of five hundred (500) state employees for legal
+9 services;
+10 3. Premiums or payments for retirement plans with a minimum
+11 participation of five hundred (500) state employees for retirement
+12 plans which are supplemental to that provided for by the state;
+13 4. Salary adjustment agreements included in a flexible benefits
+14 plan as authorized by the State Employees Flexible Benefits Act;
+15 5. Membership dues utilized for benefits, goods or services
+16 provided by the Oklahoma Public Employees Association to the
+17 organization's membership or any other statewide association limited
+18 to state employee membership with a minimum membership of two
+19 thousand (2,000) dues-paying members. For purposes of this
+20 paragraph, state agencies shall accept online or electronically
+21 submitted forms from the Oklahoma Public Employees Association and
+22 other state employee associations. The Office of Management and
+23 Enterprise Services shall develop and implement a verification
+24 process for online or electronically submitted forms which may
+Req. No. 16852 Page 90
+
+1 incl ude the use of electronic signature technology or other process
+2 as determined appropriate. In addition, the Office of Management
+3 and Enterprise Services shall provide an association representing
+4 state employees with a reconciliation report once a month containing
+5 information related to the name, warrant number and warrant date of
+6 those employees that have opted into the association's membership;
+7 6. Contributions to any foundation organized pursuant to 26
+8 U.S.C., Section 501(c)(3) of the Oklahoma Public Employees
+9 Association or any other statewide association limited to state
+10 employee membership with a minimum membership of two thousand
+11 (2,000) dues-paying members;
+12 7. Payments to a college savings account administered under the
+13 Oklahoma College Savings Plan Act pursuant to Section 3970.1 et seq.
+14 of Title 70 of the Oklahoma Statutes;
+15 8. Subscriptions to the Oklahoma Today magazine published by
+16 the State of Oklahoma through the Oklahoma Tourism and Recreation
+17 Department; and
+18 9. The payment of any insurance premiums due a private
+19 insurance organization, which is regulated by the State Insurance
+20 Commission, for an Oklahoma Long-Term Care Partnership Program
+21 approved policy pursuant to the Oklahoma Long-Term Care Partnership
+22 Act.
+23 C. The administrative costs of processing payroll deductions or
+24 administering salary adjustment agreements for insurance premiums as
+Req. No. 16852 Page 91
+
+1 prov ided for in subsection B of this section shall be a charge of
+2 two percent (2%) of the gross annual premiums for insurance plans.
+3 The administrative costs of processing payroll deductions or
+4 administering salary adjustment agreements for payments for
+5 retirement plans as provided for in subsection B of this section
+6 shall be one percent (1%) of the gross annual payments for
+7 retirement plans. These charges shall be collected monthly from the
+8 private insurance or retirement plan organization by the Office of
+9 Management and Enterprise Services and shall be deposited to the
+10 credit of the General Revenue Fund. Provided that these costs shall
+11 not be collected from state employees or state agencies unless
+12 otherwise directed in the Oklahoma State Finance Act.
+13 D. Any statewide association granted a payroll deduction prior
+14 to January 1, 2008, shall be exempt from the minimum state employee
+15 membership requirement.
+16 E. Approval of a payroll deduction or salary adjustment
+17 agreement for any insurance organization, line of coverage or policy
+18 shall not be construed as an assumption of liability, for the term
+19 of policy or the performance of the insurance organization, by this
+20 state, or any of its agencies or any officer or employee thereof.
+21 Contracts for such insurance shall be in all respects subject to the
+22 insurance laws of this state, and shall be enforceable solely
+23 pursuant to such laws.
+24
+Req. No. 16852 Page 92
+
+1 F. The Oklahoma Employment Security Commission is authorized to
+2 deduct from the wages or salary of its employees the employees'
+3 contribution to the Oklahoma Employment Security Commission
+4 Retirement Plan.
+5 G. Payroll deductions shall be made for premium payments for
+6 group insurance for retired members or beneficiaries of any state-
+7 supported retirement system upon proper authorization given by the
+8 member or beneficiary to the board from which the member or
+9 beneficiary is currently receiving retirement benefits.
+10 H. Upon request of instructional personnel employed at either
+11 the Oklahoma School for the Blind or the Oklahoma School for the
+12 Deaf and pursuant to procedures established by the Director State
+13 Chief Operating Officer of the Office of Management and Enterprise
+14 Services, the Commission for Rehabilitation Services shall make
+15 payroll deductions for membership dues in any statewide educational
+16 employee organization or association.
+17 I. Upon the request of a state employee of the Department of
+18 Corrections, the Department shall make voluntary payroll deductions
+19 for the employee to the Correctional Peace Officer Foundation.
+20 SECTION 48. AMENDATORY 62 O.S. 2021, Section 34.71, is
+21 amended to read as follows:
+22 Section 34.71. The Director State Chief Operating Officer of
+23 the Office of Management and Enterprise Services shall establish a
+24 procedure to issue payment of a proper invoice for goods or services
+Req. No. 16852 Page 93
+
+1 with in no more than forty-five (45) days from the date on which the
+2 invoice was received in the office designated by the agency to which
+3 the goods or services were sold and delivered.
+4 SECTION 49. AMENDATORY 62 O.S. 2021, Section 34.72, is
+5 amended to read as follows:
+6 Section 34.72. The Director State Chief Operating Officer of
+7 the Office of Management and Enterprise Services shall establish a
+8 procedure to assess and pay interest for the late payment of an
+9 invoice, which interest shall be calculated beginning the thirtieth
+10 day after receipt by the designated office of a proper invoice for
+11 which payment has not been mailed, transmitted, or delivered to a
+12 vendor by the close of business on the forty-fifth day. Such
+13 interest shall be at an annualized rate based on an average of the
+14 interest rate for thirty-day time deposits of state funds during the
+15 last calendar quarter of the last preceding fiscal year, as reported
+16 by the State Treasurer.
+17 SECTION 50. AMENDATORY 62 O.S. 2021, Section 34.74, is
+18 amended to read as follows:
+19 Section 34.74. Any vendor of goods or services purchased by or
+20 delivered to an agency of the state whose payment is delayed beyond
+21 the forty-five-day limit and who has not been compensated by payment
+22 of interest as provided for in the Oklahoma State Finance Act may
+23 file a grievance with the Office of the Governor, who shall transmit
+24 it to the Director State Chief Operating Officer of the Office of
+Req. No. 16852 Page 94
+
+1 Mana gement and Enterprise Services. Upon receipt of such grievance,
+2 the Director State Chief Operating Officer shall pay the total
+3 amount of such invoice with interest as required, within fifteen
+4 (15) days, to remedy such grievance. If the Director State Chief
+5 Operating Officer determines that the invoice or interest should not
+6 be paid, such determination and the reasons therefor shall be
+7 reported to the Governor and the aggrieved vendor.
+8 SECTION 51. AMENDATORY 62 O.S. 2021, Section 34.75, is
+9 amended to read as follows:
+10 Section 34.75. A. The Department of Human Services may
+11 establish an encumbrance and preaudit system for settlement of
+12 claims relating to public assistance, social service benefits and
+13 medical benefits to or for persons eligible under applicable federal
+14 laws and rules, Oklahoma Statutes, and policies established by the
+15 Oklahoma Commission for Human Services. The following programs
+16 shall be eligible for this procedure:
+17 1. Aid to Families with Dependent Children;
+18 2. Aid to Aged, Blind and Disabled;
+19 3. Medical Assistance;
+20 4. Day Care;
+21 5. Refugee Resettlement;
+22 6. Low Income Heating and Energy Assistance;
+23 7. General Assistance;
+24 8. Crippled Children;
+Req. No. 16852 Page 95
+
+1 9. Social Services under Title XX of the U.S. Social Security
+2 Act, 42 U.S.C., Section 301 et seq.;
+3 10. Adoption Subsidies;
+4 11. Foster Care;
+5 12. Medical Examination;
+6 13. Area Agencies on Aging;
+7 14. Any contract for service for which the Office of Management
+8 and Enterprise Services has approved as qualifying for a fixed and
+9 uniform rate pursuant to Section 85.7 of Title 74 of the Oklahoma
+10 Statutes;
+11 15. Sheltered Workshops;
+12 16. Contracted Group Homes;
+13 17. Rehabilitative Client Interpreters;
+14 18. Rehabilitative Client Drivers; and
+15 19. Maternal and Child Health Services Block Grant.
+16 B. Prior to inclusion in this procedure, the Department of
+17 Human Services shall provide to the Director State Chief Operating
+18 Officer of the Office of Management and Enterprise Services, for
+19 approval, detailed listings of the type of payments to be made for
+20 each of these programs specified in subsection A of this section.
+21 C. The Department of Human Services shall provide the Director
+22 State Chief Operating Officer of the Office of Management and
+23 Enterprise Services a daily report of the dollar amount of claims
+24 settled and checks or warrants issued, the dollar amount of checks
+Req. No. 16852 Page 96
+
+1 or w arrants canceled, and the dollar amount of checks or warrants
+2 canceled by statutes.
+3 D. The Department of Human Services and the Director State
+4 Chief Operating Officer of the Office of Management and Enterprise
+5 Services shall jointly establish a system for the settlement of
+6 claims, except for payroll, by the Department of Human Services.
+7 The settlement system shall include policy, procedures and
+8 performance criteria for participation.
+9 SECTION 52. AMENDATORY 62 O.S. 2021, Section 34.77, is
+10 amended to read as follows:
+11 Section 34.77. A. The State Department of Rehabilitation
+12 Services is authorized to establish an encumbrance and preaudit
+13 system for settlement of claims relating to social service benefits
+14 and medical benefits to or for persons eligible under applicable
+15 federal laws and regulations, Oklahoma Statutes, and policies
+16 established by the Commission for Rehabilitation Services for the
+17 following programs:
+18 1. Vocational and other rehabilitation;
+19 2. Educational services;
+20 3. Disability Determination Services; and
+21 4. Services for the Blind and Visually Impaired.
+22 B. Prior to inclusion in this procedure, the State Department
+23 of Rehabilitation Services shall provide to the Director State Chief
+24 Operating Officer of the Office of Management and Enterprise
+Req. No. 16852 Page 97
+
+1 Serv ices, for approval, detailed listings of the type of payments to
+2 be made for each of these programs specified in subsection A of this
+3 section.
+4 C. The State Department of Rehabilitation Services shall
+5 provide the Director State Chief Operating Officer of the Office of
+6 Management and Enterprise Services a daily report of the dollar
+7 amount of claims settled and checks or warrants issued, the dollar
+8 amount of checks or warrants canceled, and the dollar amount of
+9 checks or warrants canceled by statutes.
+10 SECTION 53. AMENDATORY 62 O.S. 2021, Section 34.78, is
+11 amended to read as follows:
+12 Section 34.78. A. The Oklahoma State Regents for Higher
+13 Education and the Director State Chief Operating Officer of the
+14 Office of Management and Enterprise Services shall jointly establish
+15 a system for the settlement of claims, except for payroll, by
+16 institutions of The Oklahoma State System of Higher Education. The
+17 settlement system shall include policy, procedures, and performance
+18 criteria for participation. The State Regents may approve or
+19 disapprove the participation of any institution or other entity of
+20 the State System in the claims settlement system.
+21 B. The Department of Education and the Oklahoma Department of
+22 Career and Technology Education may establish a preaudit and
+23 settlement system for claims and/or payments of state-funded
+24 assistance to school districts and institutions within The Oklahoma
+Req. No. 16852 Page 98
+
+1 Stat e System of Higher Education. The payment system shall be
+2 neutral as to interest income to the state and the school districts.
+3 SECTION 54. AMENDATORY 62 O.S. 2021, Section 34.80, is
+4 amended to read as follows:
+5 Section 34.80. A. All warrants, checks or orders issued by the
+6 State Treasurer against claims submitted through the Office of
+7 Management and Enterprise Services in payment of obligations of the
+8 state which shall for any cause remain outstanding or unpaid for a
+9 period of ninety (90) days after funds are available for their
+10 payment shall be revoked and canceled.
+11 B. Such warrants, checks or orders shall be entered into the
+12 records of the Office of Management and Enterprise Services and the
+13 State Treasurer and the administrative head of the agency certifying
+14 the claim for payment shall be notified that such items have been
+15 canceled.
+16 C. If, for any reason, a warrant should not be issued to
+17 replace a warrant canceled pursuant to the provisions of this
+18 section, the administrative head of the agency originally certifying
+19 the claim for payment shall, within seven (7) days after
+20 notification of the cancellation, advise the Director State Chief
+21 Operating Officer of the Office of Management and Enterprise
+22 Services that a reissue should not be made.
+23 D. Notwithstanding the provisions of subsection B of this
+24 section, warrants issued or caused to be issued by the Department of
+Req. No. 16852 Page 99
+
+1 Huma n Services for public assistance or medical assistance may be
+2 reissued at any time within three (3) years after cancellation upon
+3 submission of the canceled warrants to the Department.
+4 E. No canceled warrants shall be paid, except that the holder
+5 of any warrant that may have been canceled pursuant to the
+6 provisions of this section may, within thirty-six (36) months
+7 following the month in which the warrant was canceled, present the
+8 warrant or an affidavit of loss or destruction and a request for
+9 reissuance to the Director State Chief Operating Officer of the
+10 Office of Management and Enterprise Services.
+11 F. The Director State Chief Operating Officer of the Office of
+12 Management and Enterprise Services shall certify a claim as needed
+13 for payment of those verified unpaid requests presented, unless the
+14 certifying agency has advised that a reissuance should not be made.
+15 G. 1. There is hereby created in the State Treasury a fund to
+16 be known as the Canceled Warrant Fund.
+17 2. The Director State Chief Operating Officer of the Office of
+18 Management and Enterprise Services shall transfer to the Canceled
+19 Warrant Fund the total of the payable amounts of the warrants
+20 canceled pursuant to the provisions of this section from the funds
+21 and accounts against which the canceled warrants had been drawn.
+22 3. The Office of Management and Enterprise Services shall
+23 disburse from the fund such amounts as necessary to pay warrants
+24 reissued as provided in this section.
+Req. No. 16852 Page 100
+
+1 4. These expenditures shall remain recorded in the funds and
+2 accounts against which the original canceled warrants were issued
+3 and they shall not be considered expenses of the state nor shall
+4 receipts to the fund be considered revenue to the state.
+5 5. Any such claim drawn against the Canceled Warrant Fund shall
+6 identify the current holder of record and the warrant number of the
+7 canceled warrant, which shall be provided on the warrant record.
+8 H. The Director State Chief Operating Officer of the Office of
+9 Management and Enterprise Services shall determine the minimum
+10 necessary balance to be maintained in the Canceled Warrant Fund and
+11 on the third Monday of October shall transfer the amount in excess
+12 of the required minimum balance to the General Revenue Fund of the
+13 current year. The minimum balance retained shall be not less than
+14 the total amount of the warrants canceled by statute within the past
+15 thirty-six (36) months preceding October 1 of each year and which
+16 remain eligible for replacement according to the records of the
+17 Office of Management and Enterprise Services. Provided, funds in
+18 the Canceled Warrant Fund due to the cancellation of warrants from
+19 the Crime Victims Compensation Fund shall be transferred to the
+20 Crime Victims Compensation Fund and not to the General Revenue Fund.
+21 SECTION 55. AMENDATORY 62 O.S. 2021, Section 34.81, is
+22 amended to read as follows:
+23 Section 34.81. A. The State Treasurer is hereby authorized and
+24 empowered to issue a replacement warrant or bond in lieu of any
+Req. No. 16852 Page 101
+
+1 warr ant or bond that has been lost or destroyed; provided, that no
+2 replacement warrant or bond shall be issued until an affidavit
+3 setting forth the facts as to the loss or destruction of said
+4 original warrant or bond has been filed with the Director State
+5 Chief Operating Officer of the Office of Management and Enterprise
+6 Services.
+7 B. The Director State Chief Operating Officer and the State
+8 Treasurer shall maintain appropriate records in their offices to
+9 prevent, as nearly as reasonably possible, the state from mistakenly
+10 issuing any replacement warrant or bond.
+11 C. Such records shall include a stop payment order against the
+12 original warrant to cancel the original warrant.
+13 D. For such lost or destroyed miscellaneous warrants, the
+14 Director State Chief Operating Officer of the Office of Management
+15 and Enterprise Services shall cancel the original warrant record and
+16 process a replacement warrant against the original disbursement
+17 claim when possible, or otherwise shall transfer to the Canceled
+18 Warrant Fund the payable amount of lost or destroyed warrants on
+19 which payment has been stopped pursuant to the provisions of this
+20 section from the fund and account against which said warrant had
+21 been drawn and issue a replacement from the Canceled Warrant Fund.
+22 E. For lost or destroyed payroll warrants, the Director State
+23 Chief Operating Officer of the Office of Management and Enterprise
+24 Services shall issue all payroll replacement warrants pursuant to
+Req. No. 16852 Page 102
+
+1 the provisions of this section from the Canceled Warrant Fund. The
+2 Director State Chief Operating Officer shall allow the original
+3 payroll warrant record to cancel by statute and shall transfer to
+4 the Canceled Warrant Fund the payable amount to cover the lost or
+5 destroyed warrants on which payment has been stopped pursuant to the
+6 provisions of this section from the fund and account against which
+7 the warrant had been drawn.
+8 SECTION 56. AMENDATORY 62 O.S. 2021, Section 34.82, is
+9 amended to read as follows:
+10 Section 34.82. A. Disbursement information for all bonds and
+11 interest coupons redeemed by the State Treasurer shall be delivered
+12 to the Director State Chief Operating Officer of the Office of
+13 Management and Enterprise Services for posting. Deposit information
+14 for each and every receipt issued for monies received into the State
+15 Treasury shall be receipted for by the Office of Management and
+16 Enterprise Services.
+17 B. Such information shall be maintained as a permanent record
+18 in the Office of Management and Enterprise Services.
+19 C. The Office of Management and Enterprise Services shall audit
+20 such redeemed information and apportion and distribute the
+21 collections as indicated by the State Treasury receipts.
+22 D. All warrants and checks redeemed by the State Treasurer
+23 shall be maintained by the State Treasurer in accordance with state
+24 law.
+Req. No. 16852 Page 103
+
+1 SECTION 57. AMENDATORY 62 O.S. 2021, Section 34.83, is
+2 amended to read as follows:
+3 Section 34.83. A. If nonpayable warrants are issued pursuant
+4 to the provisions of Section 23 of Article X of the Oklahoma
+5 Constitution, the Director State Chief Operating Officer of the
+6 Office of Management and Enterprise Services shall issue and publish
+7 the official call for payment for any warrants that may be
+8 outstanding and registered as "nonpayable".
+9 B. Notice of such call shall be published in some newspaper of
+10 general circulation, published at the seat of government, and
+11 interest on all warrants so called for payment shall cease on or
+12 after ten (10) days from the date of the first publication of such
+13 notice.
+14 C. The Director State Chief Operating Officer of the Office of
+15 Management and Enterprise Services shall be responsible for the
+16 custody of claims certified for payment which call for the
+17 disbursement of money from the Treasury.
+18 D. Such claims shall be maintained in files accessible to the
+19 Division of Central Accounting and Reporting and the employees of
+20 the Division of Central Accounting and Reporting shall have
+21 authority to inspect such claims for the purpose of making
+22 accounting adjustments in the records maintained by the Office of
+23 Management and Enterprise Services.
+24
+Req. No. 16852 Page 104
+
+1 SECTION 58. AMENDATORY 62 O.S. 2021, Section 34.87, as
+2 amended by Section 1, Chapter 409, O.S.L. 2024 (62 O.S. Supp. 2025,
+3 Section 34.87), is amended to read as follows:
+4 Section 34.87. In order to ensure that the Oklahoma Higher
+5 Learning Access Program will be fully funded and all eligible and
+6 qualifying students receive scholarships, the following procedures
+7 shall be observed:
+8 1. Not later than November 1, 2007, and November 1 of each
+9 subsequent year, the Oklahoma State Regents for Higher Education
+10 shall estimate the amount of revenue they deem necessary to fund
+11 awards allowed pursuant to the Oklahoma Higher Learning Access Act,
+12 for the fiscal year which begins the following July 1 and provide
+13 such estimate to the State Board of Equalization;
+14 2. At its meeting in December 2007, and December of each
+15 subsequent year, held pursuant to the provisions of paragraph 1 of
+16 Section 23 of Article X of the Oklahoma Constitution, the State
+17 Board of Equalization shall determine the total amount of revenue
+18 necessary to fund awards allowed pursuant to the Oklahoma Higher
+19 Learning Access Act for the fiscal year which begins the following
+20 July 1 and reflect such amount as it certifies amounts available for
+21 appropriation from the General Revenue Fund by the Legislature for
+22 such fiscal year and identify the amount to be authorized pursuant
+23 to paragraph 3 of this section; and
+24
+Req. No. 16852 Page 105
+
+1 3. Notwithstanding any other provisions of law directing the
+2 apportionment of revenues, beginning with the fiscal year ending
+3 June 30, 2009, and for each subsequent fiscal year, the Director of
+4 the Office of Management and Enterprise Services State Chief
+5 Financial Officer shall transfer on a periodic basis as needed the
+6 amount of revenue to be deposited to the Oklahoma Higher Learning
+7 Access Trust Fund, provided that the total amount of such transfers
+8 in any fiscal year shall not exceed the amount authorized for
+9 transfer by applicable budget legislation for such fiscal year.
+10 SECTION 59. AMENDATORY 62 O.S. 2021, Section 34.90, is
+11 amended to read as follows:
+12 Section 34.90. There is hereby created in the State Treasury a
+13 revolving fund for the State Department of Education to be
+14 designated the "Common Education Technology Revolving Fund". The
+15 fund shall be a continuing fund, not subject to fiscal year
+16 limitations, and shall consist of monies received pursuant to the
+17 provisions of subparagraph a of paragraph 2 and subparagraph a of
+18 paragraph 3 of Section 1004 of Title 68 of the Oklahoma Statutes and
+19 any funds previously deposited in the Common Education Technology
+20 Fund. All monies accruing to the credit of the fund are hereby
+21 appropriated and may be budgeted and expended by the State
+22 Department of Education as authorized by the Oklahoma Legislature.
+23 Expenditures from the fund shall be made upon warrants issued by the
+24 State Treasurer against claims filed as prescribed by law with the
+Req. No. 16852 Page 106
+
+1 Dire ctor State Chief Operating Officer of the Office of Management
+2 and Enterprise Services for approval and payment.
+3 SECTION 60. AMENDATORY 62 O.S. 2021, Section 34.91, is
+4 amended to read as follows:
+5 Section 34.91. There is hereby created in the State Treasury a
+6 revolving fund for the Oklahoma State Regents for Higher Education
+7 to be designated the "Higher Education Capital Revolving Fund". The
+8 fund shall be a continuing fund not subject to fiscal year
+9 limitations, and shall consist of monies received pursuant to the
+10 provisions of subparagraph b of paragraph 2 and subparagraph b of
+11 paragraph 3 of Section 1004 of Title 68 of the Oklahoma Statutes and
+12 any funds previously deposited in the Higher Education Capital Fund.
+13 All monies accruing to the credit of the fund are hereby
+14 appropriated and may be budgeted and expended by the Oklahoma State
+15 Regents for Higher Education as authorized by the Oklahoma
+16 Legislature. Expenditures from said fund shall be made upon
+17 warrants issued by the State Treasurer against claims filed as
+18 prescribed by law with the Director State Chief Operating Officer of
+19 the Office of Management and Enterprise Services for approval and
+20 payment.
+21 SECTION 61. AMENDATORY 62 O.S. 2021, Section 34.92, is
+22 amended to read as follows:
+23 Section 34.92. A. There is hereby created in the State
+24 Treasury a revolving fund for the Oklahoma State Regents for Higher
+Req. No. 16852 Page 107
+
+1 Educ ation to be designated the "Oklahoma Student Aid Revolving
+2 Fund". The fund shall be a continuing fund, not subject to fiscal
+3 year limitations, and shall consist of monies received pursuant to
+4 the provisions of subparagraph c of paragraph 2 and subparagraph c
+5 of paragraph 3 of subsection A of Section 1004 of Title 68 of the
+6 Oklahoma Statutes and any funds previously deposited in the Oklahoma
+7 Tuition Scholarship Fund. All monies accruing to the credit of the
+8 fund are hereby appropriated and may be budgeted and expended by the
+9 Oklahoma State Regents for Higher Education as authorized by the
+10 Oklahoma Legislature. Expenditures from said fund shall be made
+11 upon warrants issued by the State Treasurer against claims filed as
+12 prescribed by law with the Director State Chief Operating Officer of
+13 the Office of Management and Enterprise Services for approval and
+14 payment.
+15 B. Beginning with fiscal year 2003, monies accruing to the
+16 credit of the Oklahoma Student Aid Revolving Fund shall be
+17 appropriated for and budgeted and expended for providing student aid
+18 in the form of state tuition aid grants awarded pursuant to the
+19 Higher Education Tuition Aid Act and scholarships awarded pursuant
+20 to the Oklahoma State Regents' Academic Scholars Program.
+21 SECTION 62. AMENDATORY 62 O.S. 2021, Section 34.102, is
+22 amended to read as follows:
+23 Section 34.102. A. There is hereby created in the State
+24 Treasury a revolving fund to be known and designated as the "Revenue
+Req. No. 16852 Page 108
+
+1 Stab ilization Fund". The fund shall be a continuing fund, not
+2 subject to fiscal year limitations.
+3 B. For determinations made regarding deposits for fiscal years
+4 beginning on or after July 1, 2019, no monies shall be deposited to
+5 the credit of the Revenue Stabilization Fund until such time as the
+6 amount of actual revenue certified by the State Board of
+7 Equalization as having been deposited into the General Revenue Fund
+8 for the first fiscal year prior to the beginning of the fiscal year
+9 that deposits to the Revenue Stabilization Fund are first made
+10 equals or exceeds Six Billion Six Hundred Million Dollars
+11 ($6,600,000,000.00).
+12 C. Once the provisions prescribed by subsection B of this
+13 section have been met, deposits to the Revenue Stabilization Fund as
+14 prescribed by this section may be made during any subsequent fiscal
+15 year according to the requirements and limitations imposed by this
+16 act; provided that no deposits shall be made during a fiscal year
+17 where the State Board of Equalization General Revenue Fund
+18 certification for said fiscal year is less than the State Board of
+19 Equalization General Revenue Fund certification for the previous
+20 fiscal year plus an increment equal to the amount otherwise
+21 calculated for deposit pursuant to subsection E of this section.
+22 D. Notwithstanding any other provisions of this section, unless
+23 such deposits are the result of a direct appropriation to the
+24
+Req. No. 16852 Page 109
+
+1 Reve nue Stabilization Fund by the Legislature, no monies shall be
+2 deposited to the credit of the Revenue Stabilization Fund:
+3 1. For any month during a fiscal year after the month during
+4 which the declaration of a revenue failure pursuant to the
+5 provisions of Section 34.49 of this title has been made. For
+6 purposes of this subsection, the limitation on deposits to the
+7 Revenue Stabilization Fund shall be imposed for the remaining months
+8 of the fiscal year during which the revenue failure was declared,
+9 but shall not operate as a limitation upon deposits for any
+10 subsequent fiscal year unless a revenue failure is declared at some
+11 time during such fiscal year; or
+12 2. That would cause deposits to the Revenue Stabilization Fund
+13 for the fiscal year to exceed three percent (3%) of the State Board
+14 of Equalization General Revenue Fund certification for that fiscal
+15 year.
+16 E. Except as provided in subsection I of this section, the
+17 Revenue Stabilization Fund shall consist of:
+18 1. One hundred percent (100%) of the revenue derived from the
+19 gross production tax on oil levied pursuant to Section 1001 of Title
+20 68 of the Oklahoma Statutes which is in excess of the five-year
+21 average computed as prescribed by Section 34.103 of this title;
+22 2. One hundred percent (100%) of the revenue derived from the
+23 gross production tax on natural gas levied pursuant to Section 1001
+24
+Req. No. 16852 Page 110
+
+1 of T itle 68 of the Oklahoma Statutes which is in excess of the five-
+2 year average computed as prescribed by Section 34.103 of this title;
+3 3. Seventy-five percent (75%) of the revenue derived from
+4 corporate income tax levied pursuant to Section 2355 of Title 68 of
+5 the Oklahoma Statutes which is in excess of the five-year average
+6 computed as prescribed by Section 34.103 of this title; and
+7 4. Any amounts appropriated by the Legislature.
+8 F. 1. Except as provided in paragraph 2 of this subsection, in
+9 the event that a revenue failure is declared with respect to the
+10 General Revenue Fund pursuant to Section 34.49 of this title, the
+11 Director of the Office of Management and Enterprise Services State
+12 Chief Financial Officer may withdraw up to one-quarter (1/4) of the
+13 balance of the Revenue Stabilization Fund available at the beginning
+14 of the fiscal year, provided the total amount withdrawn shall not
+15 exceed the amount of the declared revenue failure, to in equal
+16 proportions reduce or avoid reductions to agencies for the current
+17 fiscal year and to mitigate potential reductions of funds to be
+18 expended by common school districts which were appropriated or
+19 authorized by the Legislature, but excluding any funds which are
+20 apportioned directly to common school districts.
+21 2. For the fiscal year ending June 30, 2020, in the event that
+22 a revenue failure is declared with respect to the General Revenue
+23 Fund pursuant to Section 34.49 of this title, the Director of the
+24 Office of Management and Enterprise Services State Chief Financial
+Req. No. 16852 Page 111
+
+1 Offi cer may withdraw amounts up to a total of one-half (1/2) of the
+2 highest balance during the fiscal year ending June 30, 2020, of the
+3 Revenue Stabilization Fund; provided, the total amount withdrawn
+4 shall not exceed the amount of the declared revenue failure less any
+5 appropriations made by the Legislature to offset such revenue
+6 failure, to in equal proportions reduce or avoid reductions to
+7 agencies for the fiscal year and to mitigate potential reductions of
+8 funds to be expended by common school districts which were
+9 appropriated or authorized by the Legislature for the fiscal year
+10 ending June 30, 2020, but excluding any funds which are apportioned
+11 directly to common school districts. No monies shall be withdrawn
+12 under the provisions of this subsection for the purpose of reducing
+13 or avoiding reductions of appropriations made pursuant to Section
+14 129 of Enrolled House Bill No. 2765 of the 1st Session of the 57th
+15 Oklahoma Legislature or Section 1 of Enrolled Senate Bill No. 1076
+16 of the 1st Session of the 57th Oklahoma Legislature.
+17 G. In the event that a revenue failure is declared with respect
+18 to the General Revenue Fund pursuant to Section 34.49 of this title,
+19 the Legislature may appropriate up to one-quarter (1/4) of the
+20 balance of the Revenue Stabilization Fund available at the beginning
+21 of the fiscal year, not to exceed the amount of the revenue failure
+22 as declared with respect to the General Revenue Fund pursuant to
+23 Section 34.49 of this title.
+24
+Req. No. 16852 Page 112
+
+1 H. If the amount of revenue certified by the State Board of
+2 Equalization at its February meeting in any year to be collected in
+3 the General Revenue Fund for the upcoming fiscal year is less than
+4 the amount of revenue certified by the State Board of Equalization
+5 to be collected in the General Revenue Fund for the current fiscal
+6 year as determined at its February meeting conducted in the
+7 preceding calendar year, the Legislature may appropriate up to one-
+8 half (1/2) of the balance of the Revenue Stabilization Fund
+9 available at the beginning of the fiscal year; provided, that the
+10 amount withdrawn shall not exceed the amount of the decline in
+11 revenue certified.
+12 I. If during the Board of Equalization certification process,
+13 one or more of the revenue sources identified in paragraphs 1, 2 and
+14 3 of subsection E of this section are forecasted to experience a
+15 revenue decrease, then the total deposits to the Revenue
+16 Stabilization Fund as otherwise calculated under subsection E of
+17 this section shall be reduced in an amount equal to such revenue
+18 decreases. For purposes of this subsection, "revenue decrease"
+19 means an identified revenue source derived in an amount less than
+20 the five-year average for such revenue source.
+21 SECTION 63. AMENDATORY 62 O.S. 2021, Section 34.203, is
+22 amended to read as follows:
+23 Section 34.203. A. By July 1, 2020, the Director State Chief
+24 Operating Officer of the Office of Management and Enterprise
+Req. No. 16852 Page 113
+
+1 Serv ices shall initiate a request for proposal for the ongoing
+2 maintenance of desktop support and management systems for all state
+3 agencies. The Office of Management and Enterprise Services is
+4 authorized to enter into a contract for such services, pursuant to
+5 the provisions of law.
+6 B. Notice of the request for proposal shall be published in the
+7 manner provided for competitive bidding. The requests for proposal
+8 must solicit quotations and must specify the importance of
+9 guaranteed savings, price, quality, technical ability and
+10 experience. The contract shall be awarded to the responsible
+11 offeror whose proposal is determined to achieve guaranteed savings
+12 to this state in comparison with the cost of current desktop support
+13 and management as provided by the Information Services Division of
+14 the Office of Management and Enterprise Services.
+15 C. The Director State Chief Operating Officer of the Office of
+16 Management and Enterprise Services shall promulgate rules and
+17 establish procedures to implement the request for proposal pursuant
+18 to this section.
+19 SECTION 64. AMENDATORY 62 O.S. 2021, Section 34.204, is
+20 amended to read as follows:
+21 Section 34.204. A. By December 31, 2022, the Director State
+22 Chief Operating Officer of the Office of Management and Enterprise
+23 Services (OMES) shall initiate a request for proposal for the
+24 rationalization and determination of which state applications and
+Req. No. 16852 Page 114
+
+1 data bases can be immediately transferred to a cloud-based data
+2 storage platform. The purpose of this request for proposal is to
+3 give this state the ability to accurately evaluate the cost and
+4 plans needed to implement modernization of the state's applications
+5 and databases. These applications and databases shall be limited to
+6 customer relationship management tools, case management tools,
+7 workflow tools and supplemental financial systems. OMES is
+8 authorized to enter into a contract for such services, pursuant to
+9 the provisions of law.
+10 B. Notice of the request for proposal shall be published in the
+11 manner provided for competitive bidding. The contract shall be
+12 awarded to the responsible offeror whose proposal is determined to
+13 achieve the desired goal of rationalization of technology for the
+14 state.
+15 C. The Director State Chief Operating Officer shall promulgate
+16 rules and establish procedures to implement the request for proposal
+17 pursuant to the section.
+18 SECTION 65. AMENDATORY 68 O.S. 2021, Section 102, is
+19 amended to read as follows:
+20 Section 102. The "Oklahoma Tax Commission" is hereby created,
+21 and shall possess such duties, powers and authority as are
+22 hereinafter defined, and as are now or as may hereafter be conferred
+23 upon it by law. The Tax Commission shall consist of three (3)
+24 persons to be appointed by the Governor of the State of Oklahoma by
+Req. No. 16852 Page 115
+
+1 and with the consent of the State Senate of the State of Oklahoma.
+2 No more than two (2) members of the Tax Commission shall be, or
+3 shall have been in the previous six (6) months, members of the same
+4 political party. The members of the Tax Commission shall not be
+5 subject to removal from office at the will and pleasure of the
+6 Governor, but may be removed only for cause and in the manner
+7 provided by law for the removal of state officials not subject to
+8 impeachment under the provision of Section 1, Article VIII, of the
+9 Constitution.
+10 The members of the Oklahoma Tax Commission as now constituted
+11 shall continue to serve until the members of the Tax Commission
+12 created by this act are duly appointed, confirmed and qualified.
+13 Within twenty (20) days after the effective date of this act, the
+14 Governor shall appoint a new Tax Commission with the term of office
+15 of one member to expire on the second Monday of January 1955, the
+16 term of office of the second member to expire on the second Monday
+17 of January 1957, and the term of office of the third member to
+18 expire on the second Monday of January 1959. Except as set out
+19 above the term of office of each member of said Commission shall be
+20 for six (6) years with the term of office of one member of the Tax
+21 Commission expiring on the second Monday of January of each
+22 odd-numbered year. Provided, however, that a member of the
+23 Commission shall continue to serve after the expiration of his term
+24 of office until his successor is appointed, confirmed and qualified.
+Req. No. 16852 Page 116
+
+1 In t he event of a vacancy in the membership of the Tax Commission
+2 before the expiration of any term of office, the Governor shall fill
+3 such vacancy for the unexpired term within twenty (20) days, and no
+4 member of the Commission shall be entitled to draw any salary or
+5 perform any service until his appointment is confirmed by the
+6 Senate, if the Senate then be in session. If the Senate be not in
+7 session, then such member may serve and draw his salary until some
+8 special or regular session convenes; and if his appointment is then
+9 not confirmed within twenty (20) days, he shall cease to perform
+10 such services and cease to draw a salary.
+11 Each member of the Tax Commission shall, at the time of his
+12 appointment, be a resident and citizen of the State of Oklahoma, and
+13 shall devote all of his time to the administration of the affairs of
+14 the Tax Commission. The Governor shall at the time of making the
+15 initial appointments, and also at the time of making each
+16 appointment to fill a vacancy on the Commission as provided by this
+17 act, designate one member to serve as Chairman, one member to serve
+18 as Vice Chairman and one member to serve as Secretary.
+19 The Oklahoma Tax Commission shall appoint an administrator who
+20 shall serve at the pleasure of the Commission and who shall be the
+21 administrative officer of the Commission and manage the activities
+22 of the employees provided for in Sections 104 and 105 of this title.
+23 The Oklahoma Tax Commission shall make provisions to house and
+24 accommodate the efforts of the Office of the State Chief Financial
+Req. No. 16852 Page 117
+
+1 Offi cer, a division of the Oklahoma Tax Commission, and manage the
+2 activities of the employees assigned to such Office.
+3 SECTION 66. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 102A of Title 68, unless there
+5 is created a duplication in numbering, reads as follows:
+6 A. The Governor shall appoint, with the advice and consent of
+7 the Senate, a State Chief Financial Officer of the State of
+8 Oklahoma, who shall serve as the supervisor and administrator of the
+9 Oklahoma Tax Commission-Office of the State Chief Financial Officer.
+10 B. The State Chief Financial Officer shall have a four-year
+11 degree in accounting, finance, public administration or a related
+12 field, and not less than five (5) years experience, with progressive
+13 responsibility and management, in a related position involving
+14 administrative or financial responsibility, or any equivalent
+15 combination of experience or training.
+16 C. The State Chief Financial Officer shall be selected with
+17 special reference to his or her training, experience, capacity and
+18 interest in the activities embraced within the provisions of the
+19 State Finance Act and other applicable provisions of law. The State
+20 Chief Financial Officer's knowledge, experience, and demonstrated
+21 abilities should encompass each of the following:
+22 1. A comprehensive knowledge of the principles and practices of
+23 public budgeting and governmental accounting, and a working
+24 knowledge of statistical methods;
+Req. No. 16852 Page 118
+
+1 2. An extensive knowledge of the organization and operations of
+2 state departments, agencies and institutions, and of statutes and
+3 regulations governing state budgeting and accounting;
+4 3. An extensive knowledge of principles of public organization
+5 and administration;
+6 4. Administrative ability in the direction of staff analyses of
+7 state budgetary and other operations, and in the maintenance of
+8 effective working relationships with all state officials concerned
+9 with budget administration; and
+10 5. The ability to organize and present clearly oral and written
+11 reports of findings and recommendations.
+12 D. The Governor may remove the State Chief Financial Officer
+13 for good cause shown.
+14 E. Any person appointed to the position of State Chief
+15 Financial Officer pursuant to the provisions of this section shall
+16 have full authority to take any actions authorized or required by
+17 law pending the confirmation of the person by the Oklahoma State
+18 Senate.
+19 F. The Legislature may remove the State Chief Financial Officer
+20 upon the vote of two-thirds (2/3) of the members elected to and
+21 constituting each chamber. If a measure is used for the removal, it
+22 shall be in the form of a concurrent resolution and shall not be
+23 presented to the Governor.
+24
+Req. No. 16852 Page 119
+
+1 SECTION 67. NEW LAW A new section of law not to be
+2 codified in the Oklahoma Statutes reads as follows:
+3 The amendments contained in this act which modify references to
+4 the "Director of the Office of Management and Enterprise Services"
+5 to the "State Chief Operating Officer" and "State Chief Financial
+6 Officer" shall not be effective as law until the Governor makes the
+7 first appointment of a State Chief Operating Officer pursuant to the
+8 provisions of Section 6 of this act and a State Chief Financial
+9 Officer is installed. Immediately upon such appointment, the
+10 amendments made by this act to change references to the Chief
+11 Operating Officer of the Office of Management and Enterprise
+12 Services and the State Chief Financial Officer shall be fully
+13 effective and operative as law. The provisions of this section
+14 shall be effective whether or not the first appointee to the
+15 position of State Chief Operating Officer receives confirmation by
+16 the Oklahoma State Senate.
+17 SECTION 68. This act shall become effective July 1, 2026.
+18 SECTION 69. It being immediately necessary for the preservation
+19 of the public peace, health or safety, an emergency is hereby
+20 declared to exist, by reason whereof this act shall take effect and
+21 be in full force from and after its passage and approval.
+22
+23 60-2-16852 JM 03/04/26
+24
+Req. No. 16852 Page 120

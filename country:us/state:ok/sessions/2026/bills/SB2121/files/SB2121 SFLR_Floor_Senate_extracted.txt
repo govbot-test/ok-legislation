@@ -1,0 +1,204 @@
+Title: 
+Official Title: 
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 SENATE FLOOR VERSION
+February 9, 2026
+2
+3 SENATE BILL NO. 2121 By: Kern and Bullard
+4
+5
+6 An Act relating to public health and safety; defining
+term; prohibiting the manufacture, sale, hold or
+7 offer for sale, or distribution of cultivated meat;
+providing punishment for violation; providing for
+8 revocation of certain licenses for violation;
+providing the State Department of Health certain
+9 rulemaking authority; construing provisions; amending
+Section 1, Chapter 88, O.S.L. 2025 (63 O.S. Supp.
+10 2025, Section 1-1160), which relates to false
+advertising of food; modifying definitions; updating
+11 statutory references; updating statutory language;
+providing for codification; and providing an
+12 effective date.
+13
+14
+15 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+16 SECTION 1. NEW LAW A new section of law to be codified
+17 in the Oklahoma Statutes as Section 1-1159 of Title 63, unless there
+18 is created a duplication in numbering, reads as follows:
+19 A. For the purposes of this section, the term “cultivated meat”
+20 means a meat or meat product that was produced from cultured animal
+21 tissue produced from in vitro animal cell cultures outside of the
+22 animal from which the cells were derived.
+23
+24
+SENATE FLOOR VERSION - SB2121 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 B. 1. It shall be unlawful for any person to manufacture,
+2 sell, hold or offer for sale, or distribute any cultivated meat
+3 product in this state.
+4 2. Any person who violates the provisions of this subsection
+5 shall, upon conviction, be guilty of a misdemeanor.
+6 C. 1. A seller of food under Sections 1-1118, 1-1118.1, and 1-
+7 1119 of Title 63 of the Oklahoma Statutes that sells or distributes
+8 cultivated meat products in violation of subsection B of this
+9 section shall be subject to all enforcement measures as provided by
+10 rule of the State Department of Health.
+11 2. The license of a seller of food may be suspended or revoked,
+12 as provided by rule of the State Department of Health, upon the
+13 conviction of an owner or an employee of the licensed seller of food
+14 for a violation of subsection B of this section.
+15 D. The State Department of Health may adopt rules as necessary
+16 to implement this section.
+17 E. Nothing in this section shall be construed as preventing any
+18 federal, state, or local governmental entity or institution of
+19 higher education, or a person that is partnered with a governmental
+20 entity or institution of higher education as evidenced by a formal
+21 agreement, from conducting research in this state regarding the
+22 production of cultivated meat products.
+23 SECTION 2. AMENDATORY Section 1, Chapter 88, O.S.L. 2025
+24 (63 O.S. Supp. 2025, Section 1-1160), is amended to read as follows:
+SENATE FLOOR VERSION - SB2121 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 Section 1-1160. A. As used in this act section:
+2 1. “Agricultural food animal” means any domesticated animal
+3 belonging to the bovine, caprine, ovine, or porcine species, or any
+4 domesticated chicken or turkey;
+5 2. “Cultivated-protein food product” means a food product
+6 having one or more sensory attributes that resemble a type of tissue
+7 originating from an agricultural food animal but that, in lieu of
+8 being derived from meat processing, is derived from manufacturing
+9 cells or nonanimal sources, including processes in which one or more
+10 stem cells are initially isolated from an agricultural food animal,
+11 are grown in vitro, and may be manipulated, as part of a
+12 manufacturing operation;
+13 3. “Identifying meat term” means any word or phrase that
+14 states, indicates, suggests, or describes a meat product and
+15 includes any:
+16 a. common name for the species of the agricultural food
+17 animal subject to slaughter and processing, including
+18 calf, chicken, cow, goat, hog, kid, lamb, pig,
+19 poultry, sheep, or turkey,
+20 b. any characteristic of a species of the agricultural
+21 food animal subject to slaughter and processing,
+22 including beef, broiler, cabrito, chevon, fryer, lamb,
+23 mutton, pork, poulet, veal, or yearling, and
+24
+SENATE FLOOR VERSION - SB2121 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 c. common name used to describe a major cut of a meat of
+2 an agricultural food animal slaughtered and processed,
+3 including a major meat cut or any other common name
+4 that a reasonable purchaser would immediately and
+5 exclusively associate with a meat product prepared for
+6 sale in normal commercial channels, including bacon,
+7 bologna, bone, brat, bratwurst, brisket, burger, butt,
+8 chop, chuck, cold cut, cutlet, filet, flat iron,
+9 frank, frankfurter, ham, hamburger, hock, hot dog,
+10 jerky, liverwurst, loin, London broil, lunch meat, New
+11 York strip, pepperoni, porterhouse, rib, ribeye,
+12 roast, salami, sausage, shank, sirloin, sparerib,
+13 tenderloin, or any comparable word or phrase;
+14 4. 3. “Insect-protein food product” means a food product having
+15 one or more sensory attributes that resemble a type of tissue
+16 originating from an agricultural food animal but that, in lieu of
+17 being derived from meat processing, is derived from manufacturing
+18 insect parts;
+19 5. 4. “Manufactured-protein food product” means a cultivated
+20 protein food product, an insect-protein food product, or plant-
+21 protein food product containing more than a trace amount of plant-
+22 protein food products;
+23 6. 5. “Plant-protein food product” means a food product having
+24 one or more sensory attributes that resemble a type of tissue found
+SENATE FLOOR VERSION - SB2121 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 in a species of agricultural food animal but that, in lieu of being
+2 derived from meat processing, is derived from manufacturing plant
+3 parts; and
+4 7. 6. “Qualifying term” means a word, compound word, or phrase
+5 that would clearly disclose to a reasonable purchaser of meat
+6 products that a food product is not a meat product including cell-
+7 cultivated, cell-cultured, fake, grown in a lab, imitation, insect,
+8 insect-based, insect protein, lab-created, lab-grown, meat-free,
+9 meatless, plant, plant-based, vegan, vegetable, vegetarian, veggie,
+10 or any comparable word or phrase.
+11 B. No person shall falsely advertise or misbrand any food or
+12 distribute, offer for sale, or sell any misbranded food.
+13 C. A food shall be deemed to be falsely advertised or
+14 misbranded if:
+15 1. For any manufactured-protein food product that is labeled
+16 with an identifying meat term, such manufactured-protein food
+17 product is not labeled with a conspicuous and prominent qualifying
+18 term in close proximity to the identifying meat term; or
+19 2. For any manufactured-protein food product that is labeled
+20 with an identifying meat term and offered for sale at a food
+21 establishment, such manufactured-protein food product is not labeled
+22 in a manner that is clearly and distinctly separate from any product
+23 that is made from tissue originating from any agricultural food
+24 animal.
+SENATE FLOOR VERSION - SB2121 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 D. A manufactured-protein food product is falsely advertised or
+2 misbranded if:
+3 1. All labeling or advertising for such manufactured-protein
+4 food product that lists an identifying meat term does not include a
+5 conspicuous and prominent qualifying term in close proximity to the
+6 identifying meat term; or
+7 2. For any manufactured-protein food product that is offered
+8 for sale at a food establishment, such manufactured-protein food
+9 product is not stored in a manner that:
+10 a. keeps such product separate from tissue originating
+11 from agricultural food animals, and
+12 b. uses distinctive shelf tags or other posted
+13 representations to identify and distinguish such
+14 manufactured-protein food product from tissue
+15 originating from agricultural food animals.
+16 E. The Oklahoma Department of Agriculture, Food, and Forestry
+17 shall investigate all credible complaints that food products are
+18 falsely advertised or misbranded as meat products.
+19 F. Any person who violates the provisions of this act section
+20 shall, upon conviction, be guilty of a misdemeanor.
+21 G. A manufacturer of food under Sections 1-1118, 1-1118.1, and
+22 1-1119 of Title 63 of the Oklahoma Statutes this title that violates
+23 this act section shall be subject to all enforcement measures as
+24
+SENATE FLOOR VERSION - SB2121 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 prov ided by rule of the Oklahoma Department of Agriculture, Food,
+2 and Forestry.
+3 H. The Department State Board of Agriculture, Food, and
+4 Forestry may adopt rules as necessary to implement this section.
+5 SECTION 3. This act shall become effective November 1, 2026.
+6 COMMITTEE REPORT BY: COMMITTEE ON AGRICULTURE AND WILDLIFE
+February 9, 2026 - DO PASS
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB2121 SFLR Page 7
+(Bold face denotes Committee Amendments)
