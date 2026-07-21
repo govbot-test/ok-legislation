@@ -1,0 +1,872 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+An Act
+ENROLLED HOUSE
+BILL NO. 3420 By: Strom, West (Josh), Archer,
+Crosswhite Hader,
+Dobrinski, Stinson, Fugate,
+Woolley, Kendrix, Kelley,
+McCane, Chapman, Wolfley,
+Stark and Menz of the House
+and
+Hicks of the Senate
+An Act relating to state government; amending 74 O.S.
+2021, Section 85.5 as amended by Section 1, Chapter
+102, O.S.L. 2024; 74 O.S. 2021, Section 85.7, as last
+amended by Section 1, Chapter 339, O.S.L. 2023 (74
+O.S. Supp. 2025, Sections 85.5 and 85.7); amending 74
+O.S. 2021, Section 85.41; amending 74 O.S. 2021,
+Section 85.42, as amended by Section 9, Chapter 336,
+O.S.L. 2025 (74 O.S. Supp. 2025, Section 85.42); and
+amending 74 O.S. 2021, Section 85.44D.1, which relate
+to the Oklahoma Central Purchasing Act; modifying the
+powers and duties of the State Purchasing Director;
+requiring the Chief Information Officer to document
+justification for not bidding certain contracts and
+document negotiation efforts; requiring certain pilot
+projects to not last longer than twelve months;
+directing the State Purchasing Director to document
+negotiation efforts; modifying exemptions from the
+competitive bidding requirements; clarifying state
+agencies that acquire professional services do not
+have to bid certain professional services; directing
+the Office of Management and Enterprise Services to
+publish a report on its website; expanding definition
+of person to include employees of state officials;
+providing a definition of agency; and providing an
+effective date.
+SUBJECT: State government
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+SECTION 1. AMENDATORY 74 O.S. 2021, Section 85.5, as
+amended by Section 1, Chapter 102, O.S.L. 2024 (74 O.S. Supp. 2025,
+Section 85.5), is amended to read as follows:
+Section 85.5. A. Except as otherwise provided in this section,
+the State Purchasing Director, under the supervision of the Director
+of the Office of Management and Enterprise Services, shall have sole
+and exclusive authority and responsibility for all acquisitions by
+state agencies. In order to carry out the powers and duties of the
+Chief Information Officer and the Information Services Division, the
+Chief Information Officer shall have sole and exclusive authority
+and responsibility for all acquisitions of information and
+telecommunications technology, equipment, software, products and
+related peripherals and services by state agencies. Public
+construction contracts are awarded pursuant to Title 61 of the
+Oklahoma Statutes and are not subject to the Oklahoma Central
+Purchasing Act.
+B. Every state agency shall determine its own quantitative
+needs for acquisitions and the general class or nature of the
+acquisitions. The State Purchasing Director, after consultation
+with the requisitioning state agency, shall have authority to
+determine the particular brand, model or other specific
+classification of each acquisition and to draft or invoke pursuant
+to the Oklahoma Central Purchasing Act specifications establishing
+the requirements for all necessary contracts or purchase orders.
+C. The Director of the Office of Management and Enterprise
+Services shall have authority and responsibility to promulgate rules
+in connection with provisions of the Oklahoma Central Purchasing Act
+for:
+1. The time, manner, authentication and form of making
+requisitions for acquisitions;
+2. Inspection, analysis and testing of acquisitions or samples
+bidders submit prior to contract award;
+3. The form and manner of submission for bids or proposals a
+bidder submits and the manner of accepting and opening bids or
+proposals;
+4. The conditions under which the Office of Management and
+Enterprise Services shall require written contracts for
+acquisitions, the conditions under which acquisitions may be made on
+ENR. H. B. NO. 3420 Page 2
+
+an open account basis, and the conditions and manner of negotiating
+such contracts;
+5. Obtaining acquisitions produced by state institutions;
+6. Conditions under which any of the rules herein authorized
+may be waived;
+7. The amounts of and deposits on any bond or other surety
+required to be submitted with a bid or contract for the furnishing
+of acquisitions and the conditions under which such bond or other
+surety shall be required;
+8. The manner and conditions of delivery, which shall include
+the designation of the common carrier of property to be used to
+transport acquisitions whenever a common carrier is used, and the
+acceptance, or rejection, including check of quantities, of any
+acquisitions;
+9. The form of any estimate, order or other information
+required in connection with an acquisition;
+10. State agency acquisitions not exceeding the acquisition
+threshold amount requiring competitive bid to ensure
+competitiveness, fairness, compliance with the Oklahoma Central
+Purchasing Act and Section 3001 et seq. of this title, which relates
+to the State Use Committee. The rules shall include separate
+provisions based on acquisition amounts as follows:
+a. state agencies shall make acquisitions not exceeding
+Twenty-five Thousand Dollars ($25,000.00), provided
+the acquisition process is fair and reasonable and is
+conducted pursuant to rules authorized pursuant to
+this section, and
+b. state agencies with certified procurement officers and
+internal purchasing procedures found compliant by the
+State Purchasing Director may make acquisitions in
+excess of the fair and reasonable acquisition
+threshold amount provided for in this section and not
+exceeding Two Hundred Fifty Thousand Dollars
+($250,000.00), pursuant to rules authorized by this
+section;
+ENR. H. B. NO. 3420 Page 3
+
+11. Training by the State Purchasing Director of state agency
+procurement officers;
+12. Review and audit by the State Purchasing Director of state
+agency acquisitions;
+13. The conditions for increasing acquisition limits for state
+agencies which have had a prior reduction in acquisition limit by
+the Director of the Office of Management and Enterprise Services;
+14. Use of a state purchase card to make acquisitions;
+15. Any other matter or practice which relates to the
+responsibilities of the State Purchasing Director;
+16. Conditions for determination and authorization of
+acquisition threshold amounts of state agencies;
+17. The form and manner of verification by suppliers that the
+supplier is eligible to do business in the State of Oklahoma and has
+obtained all necessary permits and licenses, pursuant to applicable
+provisions of law; and
+18. Payment procedure rules for state agencies to adhere to
+regarding statewide contracts.
+D. The State Purchasing Director shall provide training for
+state agency procurement officials, and other procurement staff, and
+is authorized to require retraining of such procurement personnel
+found not to be in compliance with provisions of the Oklahoma
+Central Purchasing Act or associated rules. The training may
+include any matters related to state procurement practices. State
+agency purchasing officials that demonstrate proficiency shall be
+certified as "certified procurement officers" by the State
+Purchasing Director and shall be authorized to make acquisitions
+pursuant to provisions of the Oklahoma Central Purchasing Act and
+associated rules. The State Purchasing Director may assess a fee to
+state agencies for the training that does not exceed each state
+agency's pro rata share of the costs the State Purchasing Director
+incurs to provide the training.
+E. The State Purchasing Director shall review state agency
+acquisitions for the purposes of:
+ENR. H. B. NO. 3420 Page 4
+
+1. Ensuring state agency compliance with provisions of the
+Oklahoma Central Purchasing Act;
+2. Ensuring state agency compliance with rules promulgated by
+the Office of Management and Enterprise Services pursuant to the
+Oklahoma Central Purchasing Act;
+3. Ensuring state agency compliance with provisions of Section
+3001 et seq. of this title pertaining to the State Use Committee;
+4. Reporting any acquisition by any state agency found not to
+be in compliance with those sections or rules to the Director of the
+Office of Management and Enterprise Services;
+5. A determination by the State Purchasing Director to reduce a
+state agency's acquisition authority amount when the state agency is
+found not to be in compliance with the Oklahoma Central Purchasing
+Act or associated rules or requirements of the State Purchasing
+Director pursuant to this section; and
+6. A determination by the State Purchasing Director to increase
+a state agency's acquisition authority amount after the agency cures
+deficiencies in connection with a prior reduction in the authority
+amount by the State Purchasing Director.
+F. Based on written findings and when recommended by the State
+Purchasing Director, the Director of the Office of Management and
+Enterprise Services may:
+1. Transmit written findings by the State Purchasing Director
+to the State Auditor and Inspector for further investigation,
+indicating purchasing procedures that do not conform to the Oklahoma
+Central Purchasing Act or associated rules; or
+2. Transmit to the Attorney General or the State Auditor and
+Inspector for further investigation a report made by the State
+Purchasing Director that the Director of the Office of Management
+and Enterprise Services reasonably believes indicates that an action
+that constitutes a criminal violation pursuant to the Oklahoma
+Central Purchasing Act or other laws has been taken by any state
+agency, state agency official, bidder or supplier.
+G. 1. Pursuant to the requirements of the Oklahoma Central
+Purchasing Act, the State Purchasing Director shall have authority
+to enter into any statewide, multistate or multigovernmental
+ENR. H. B. NO. 3420 Page 5
+
+contract. The state entity designated by law, as specified in
+Section 1010.3 of Title 56 of the Oklahoma Statutes, shall
+participate in the purchase of pharmaceuticals available through
+such multistate or multigovernmental contracts entered into by the
+State Purchasing Director.
+2. Whenever it appears advantageous to the state or to any
+state agency to purchase or otherwise acquire any acquisition which
+may be offered for sale by the United States government or any
+agency thereof, the State Purchasing Director may execute a contract
+for the acquisition with the federal government or federal agency
+and may also utilize contracts awarded by other governmental
+agencies including, but not limited to, agencies of the United
+States of America.
+3. The State Purchasing Director may designate, for use by
+state agencies, contracts described in this subsection and contracts
+awarded on behalf of one or more state agencies.
+4. Prior to exercising the authority to cancel a contract, the
+State Purchasing Director may authorize renegotiation of an existing
+contract with an incumbent supplier for the purposes of obtaining
+more favorable terms for the state.
+5. The State Purchasing Director shall have the authority to
+designate certain contracts for state agencies as statewide
+contracts and mandatory statewide contracts. In order to carry out
+the powers and duties of the Chief Information Officer and
+Information Services Division, the Chief Information Officer shall
+have the authority to designate certain information technology and
+telecommunication contracts as statewide contracts and mandatory
+statewide contracts and may negotiate consolidation contracts,
+enterprise agreements and high technology system contracts in lieu
+of or in conjunction with competitive bidding procedures to reduce
+acquisition cost, must document the justification for not bidding
+any such contracts or agreements, and must document such negotiation
+efforts.
+6. The State Purchasing Director may publish such
+specifications relating to materials, supplies, equipment and
+services to be acquired for the state as may best promote
+competition and apprise potential suppliers of the type of product
+desired.
+ENR. H. B. NO. 3420 Page 6
+
+H. 1. The State Purchasing Director may develop and test new
+contracting policies, procedures and innovations that hold potential
+for making state procurement more effective and efficient and
+identify, and make recommendations to the Legislature of, any
+appropriate changes in law. Such development and testing, proof of
+concept, pilot project or other similar test shall not be considered
+an acquisition subject to the Oklahoma Central Purchasing Act last
+longer than twelve (12) months.
+2. The State Purchasing Director is authorized to explore and
+investigate cost savings in energy, resource usage and maintenance
+contracts and to identify and negotiate contract solutions
+including, but not limited to, pilot projects to achieve cost
+savings for this state. The State Purchasing Director shall
+document such negotiation efforts.
+I. The State Purchasing Director shall endeavor to satisfy
+state agencies in terms of cost, quality and timeliness of the
+delivery of acquisitions by using bidders who have a record of
+successful past performance, promoting competition, minimizing
+administrative operating costs and conducting business with
+integrity, fairness and openness.
+J. The State Purchasing Director shall undertake the following:
+1. The use of electronic commerce pursuant to the Oklahoma
+Online Bidding Act for solicitation, notification and other
+purchasing processes;
+2. Monitoring rules promulgated pursuant to the Oklahoma
+Central Purchasing Act to ensure that the rules satisfy the
+interests of the state, are clear and succinct and encourage
+efficiency in purchasing processes;
+3. A program to identify suppliers' performance records;
+4. Development of criteria for the use of sealed bid
+contracting procedures, negotiated contracting procedures, selection
+of types of contracts, postaward administration of purchase orders
+and contracts, addendums, termination of contracts and contract
+pricing;
+5. Continual improvement in the quality of the performance of
+the Purchasing Division through training programs, management
+ENR. H. B. NO. 3420 Page 7
+
+seminars, development of benchmarks and key management indicators,
+and development of standard provisions, clauses and forms;
+6. The State Purchasing Director shall prescribe standardized
+contract forms and all other forms or certifications requisite or
+deemed necessary by the State Purchasing Director to effectuate the
+provisions of the Oklahoma Central Purchasing Act and associated
+rules;
+7. Development of programs to improve customer relations
+through training, improved communications and appointment of
+technical representatives;
+8. Provide for public two-way communication between procurement
+officers and potential bidders who have questions regarding a
+request for proposal or invitation to bid; and
+9. Determine whether and to what extent information included in
+a bid or similar offer is confidential and reject all requests to
+disclose the information so designated.
+K. The State Purchasing Director may utilize and authorize
+state agencies to utilize reverse auctions to obtain acquisitions.
+L. Prior to the award of a contract to a supplier, the State
+Purchasing Director shall verify, pursuant to applicable provisions
+of law, that the supplier is eligible to do business in this state
+by confirming registration with the Secretary of State and franchise
+tax payment status pursuant to Sections 1203 and 1204 of Title 68 of
+the Oklahoma Statutes. The provisions of this subsection shall be
+applicable only if the contract amount is Two Hundred Fifty Thousand
+Dollars ($250,000.00) or greater.
+M. On an annual basis, the State Purchasing Director shall
+transmit to the Governor, Speaker of the House of Representatives
+and President Pro Tempore of the Senate a report documenting the
+savings realized by each agency through the application of best
+spend practices including the collection and tracking of spend data,
+strategic sourcing programs and implementation of managed and
+mandatory statewide contracts and include in the report information
+regarding emergency acquisitions.
+N. The acquisition threshold amount applicable to an
+acquisition made pursuant to this act or associated rules shall not
+apply to state agency purchases; provided, the State Purchasing
+ENR. H. B. NO. 3420 Page 8
+
+Director determines the agency has subject matter experts on staff
+having the specialized expertise to purchase goods or services, the
+agency possesses the necessary legal and procurement staff to
+procure and monitor the contracts and provided the Director of the
+Office of Management and Enterprise Services shall certify that the
+proposed purchase does not conflict with consolidated statewide
+spend initiatives.
+1. Nothing in this subsection shall give an agency authority to
+issue statewide, multistate or multigovernmental contracts.
+2. Agencies making purchases pursuant to this subsection shall:
+a. be responsible for contracts awarded pursuant to this
+subsection, which includes, but may not be limited to,
+contract management, protest costs, all costs
+connected with or incurred as a result of the
+contract, including legal representation,
+b. comply with rules and policies of the Office of
+Management and Enterprise Services, and
+c. report contracts issued pursuant to this subsection to
+the Office of Management and Enterprise Services,
+Central Purchasing Division, on a quarterly basis.
+3. Purchases made in accordance with this subsection shall be
+made pursuant to rules authorized by this section.
+O. The State Purchasing Director, with approval by the Director
+of the Office of Management and Enterprise Services, is authorized
+to make use of any state laboratories for the tests and analyses
+authorized in this section wherever practicable and to use private
+laboratories or the laboratories of another government agency if it
+is impracticable to use state laboratories. The State Purchasing
+Director is further authorized to cooperate in test and analysis
+programs or agreements with other states or the United States
+government and to accept federal funds and funds donated by private
+endowments or foundations for the purpose of participation in such
+testing programs.
+P. The State Purchasing Director shall require all contractors
+or subcontractors who have entered into a contract with a public
+employer to submit an affidavit that the contractor or subcontractor
+is in compliance with the provisions of Section 1313 of Title 25 of
+ENR. H. B. NO. 3420 Page 9
+
+the Oklahoma Statutes. If the State Purchasing Director determines
+that a contractor or subcontractor has knowingly submitted a false
+affidavit:
+1. The contractor or subcontractor shall be liable for an
+administrative penalty of Five Thousand Dollars ($5,000.00) for the
+first offense, which shall increase by Two Thousand Dollars
+($2,000.00) for each subsequent offense; and
+2. The public employer or the Office of Management and
+Enterprise Services may terminate the contract with the contractor
+or subcontractor.
+SECTION 2. AMENDATORY 74 O.S. 2021, Section 85.7, as
+last amended by Section 1, Chapter 339, O.S.L. 2023 (74 O.S. Supp.
+2025, Section 85.7), is amended to read as follows:
+Section 85.7. A. 1. Except as otherwise provided by the
+Oklahoma Central Purchasing Act, or associated rules:
+a. every state agency shall initiate all acquisitions by
+the submission of a requisition to the Purchasing
+Division, and
+b. no state agency shall make an acquisition for an
+amount exceeding Fifty Thousand Dollars ($50,000.00)
+or the limit determined by the State Purchasing
+Director pursuant to rules authorized by Section 85.5
+of this title, not to exceed Two Hundred Fifty
+Thousand Dollars ($250,000.00), without submission of
+a requisition to the Purchasing Division for issuance
+of a solicitation for the acquisition on behalf of the
+agency. Any exemption from competitive bid
+requirements of the Oklahoma Central Purchasing Act
+further exempts the acquisition from requisition
+requirements of the act.
+2. The State Purchasing Director may request additional
+information necessary to adequately review a requisition to ensure
+compliance with the Oklahoma Central Purchasing Act and associated
+rules. If the State Purchasing Director determines that an
+acquisition is not necessary, excessive or not justified, the State
+Purchasing Director shall deny the requisition.
+ENR. H. B. NO. 3420 Page 10
+
+3. The provisions of the Oklahoma Central Purchasing Act shall
+not preclude a state agency from:
+a. accepting gifts or donations in any manner authorized
+by law, or
+b. making an acquisition for itself without submitting a
+requisition under this section when authorized in
+writing by the State Purchasing Director.
+4. Any acquisition a state agency makes shall be made pursuant
+to the Oklahoma Central Purchasing Act and associated rules. No
+agency shall use split purchasing for the purpose of evading the
+requirement of competitive bidding or other requirement of the
+Oklahoma Central Purchasing Act or associated rules. Violation of
+this provision shall be cause for discipline of a state employee up
+to and including termination.
+5. The State Purchasing Director may waive or increase the
+limit authorized for a state agency acquisition made pursuant to its
+own competitive procedures. To perfect an otherwise valid
+acquisition inadvertently exceeding the limit due to administrative
+error by a state agency or unforeseeable circumstances, the state
+agency shall request a limited waiver or increase upon the discovery
+of the error or circumstance to the State Purchasing Director. The
+State Purchasing Director shall report requests for waivers or
+increases, stating the amount and whether the request was granted or
+denied, upon request by the Governor, President Pro Tempore of the
+Senate or Speaker of the House of Representatives.
+6. Competitive bidding requirements of this section shall not
+be required for the following:
+a. contracts for master custodian banks or trust
+companies, investment managers, investment
+consultants, and actuaries for the state retirement
+systems, and Oklahoma Employees Insurance and Benefits
+Board, pension fund management consultants of the
+Oklahoma State Pension Commission and the
+Commissioners of the Land Office, examiners, experts,
+or consultants for the Insurance Department whose job
+duties are tied to Market Conduct Exams, Financial
+Exams, and Insurance Business Transfers, financial
+institutions to act as depositories and managers of
+the Oklahoma College Savings Plan accounts and other
+ENR. H. B. NO. 3420 Page 11
+
+professional services as defined in Section 803 of
+Title 18 of the Oklahoma Statutes. When requested by
+the Oklahoma Employees Insurance and Benefits Board or
+the governing board of a state retirement system
+authorized to hire investment managers, the Purchasing
+Division shall assist in the process of selecting
+investment managers,
+b. a state agency making such an acquisition shall notify
+the State Purchasing Director within fifteen (15) days
+following completion of the acquisition. A list of
+the exempt contracts shall be provided, upon request,
+to a member of the Appropriations and Budget Committee
+of the House of Representatives or Appropriations
+Committee of the Senate,
+c. purchases of postage by state agencies made pursuant
+to Sections 90.1 through 90.4 of this title,
+d. a sole source acquisition made in compliance with
+Section 85.44D.1 of this title,
+e. an acquisition for design, development, communication
+or implementation of the state employees flexible
+benefits plan; provided, procedures used for the
+acquisition are consistent with competitive bid
+requirements of the Oklahoma Central Purchasing Act
+and associated rules,
+f. any acquisition of a service which the Office of
+Management and Enterprise Services has approved as
+qualifying for a fixed and uniform rate, subject to
+the following:
+(1) the Purchasing Division shall establish criteria
+and guidelines for those services which may
+qualify for a fixed and uniform rate,
+(2) fixed and uniform rate contracts authorized by
+this subsection shall be limited to contracts for
+those services furnished to persons directly
+benefiting from such services and shall not be
+used by a state agency to employ consultants or
+to make other acquisitions,
+ENR. H. B. NO. 3420 Page 12
+
+(3) any state agency desiring to have a service
+qualified for a fixed and uniform rate shall make
+a request for service qualification to the State
+Purchasing Director and submit documentation to
+support the request. The State Purchasing
+Director shall approve or deny the request. If
+approved, the state agency shall establish a
+fixed and uniform rate for the service. No
+contracts shall be entered into by the state
+agency until the rate has been approved by the
+state agency in a public hearing. The proposed
+rate shall be clearly and separately identified
+in the agenda of the state agency for the hearing
+and shall be openly and separately discussed
+during such hearing. The state agency shall
+notify the State Purchasing Director of its
+pending consideration of the proposed rate at
+least thirty (30) days before the state agency is
+to meet on the proposed rate and deliver a copy
+of the agenda items concerning the proposed rate
+with supporting documentation. The State
+Purchasing Director shall communicate any
+observation, reservation, criticism or
+recommendation to the agency, either in person at
+the time of the hearing or in writing delivered
+to the state agency before or at the time of the
+hearing. The State Purchasing Director shall
+specifically note in the written communications
+whether the Director has determined the rate to
+be excessive. Any written communication
+presented in the absence of the State Purchasing
+Director shall be presented orally during the
+public hearing. Whether made in person or in
+writing, any comment made by the State Purchasing
+Director shall be made a part of the minutes of
+the hearing in full,
+(4) within two (2) weeks after the convening of the
+Legislature, the administrative officer of the
+state agency shall furnish to the Speaker of the
+House of Representatives, the President Pro
+Tempore of the Senate and to any member of the
+House or Senate, if requested by the member, a
+complete list of all of the types of services
+paid for by uniform fixed rates, the amount of
+ENR. H. B. NO. 3420 Page 13
+
+the rate last approved by the agency for the
+service and the number of contracts then in
+existence for each type of service. Any rate
+which has been determined to be excessive by the
+State Purchasing Director shall be specifically
+identified in the list by the state agency, and
+(5) at any time, the State Purchasing Director may
+review, suspend or terminate a contract entered
+into pursuant to the provisions of this paragraph
+if the Director determines the contract is not
+necessary, is excessive or is not justified,
+g.
+f. an acquisition for a client of the State Department of
+Rehabilitation Services; provided, the agency develops
+and maintains standards for such an acquisition. The
+agency may elect to utilize the Purchasing Division
+for an acquisition. The standards shall foster
+economy, provide a short response time, include
+appropriate safeguards, require written records,
+ensure appropriate competition for economical and
+efficient purchasing and shall be approved by the
+State Purchasing Director,
+h.
+g. structured settlement agreements entered into by the
+Attorney General’s office in order to settle any
+lawsuit involving the state, the Legislature, any
+state agency or any employee or official of the state
+if:
+(1) prior to entering into any contract for the
+services of an entity to administer a structured
+settlement agreement, the Attorney General
+receives proposals from at least three entities
+engaged in providing such services, and
+(2) the selection of a particular entity is made on
+the basis of the response to the request which is
+the most economical and provides the most
+competent service which furthers the best
+interests of the state,
+ENR. H. B. NO. 3420 Page 14
+
+i.
+h. an acquisition by a state agency pursuant to a
+contract the State Purchasing Director enters into on
+behalf of a state agency or awards and designates for
+use by state agencies,
+j.
+i. an acquisition by the Committee for Sustaining
+Oklahoma’s Energy Resources pursuant to a contract
+with a local supplier for the purpose of holding a
+special event or an exhibition throughout the state,
+and
+k.
+j. contracts for the study, analysis, and planning, as
+reasonably necessary, to aid in determining the
+feasibility of leasing, selling, or privately managing
+or developing the property or facilities under control
+of the Oklahoma Tourism and Recreation Commission.
+The Commission shall be exempt from the competitive
+bidding requirements of the Oklahoma Central
+Purchasing Act for the purpose of soliciting,
+negotiating, and effectuating such a contract or
+contracts; provided, that the State Purchasing
+Director shall review and audit all uses of the
+exemptions provided in this subparagraph biannually.
+7. B. Notwithstanding any other provision of law, an
+acquisition may be exempted from requirements of this section by the
+State Purchasing Director when in the State Purchasing Director’s
+discretion unusual, time-sensitive or unique circumstances exist
+which make such exemption in the best and immediate interest of the
+state. As used in this subsection, “State Purchasing Director”
+shall not mean a designee. Any such acquisitions shall be described
+in detail and publicly posted as a data feed. The description shall
+include the name of the supplier, cost of the acquisition, reason
+for exemption and, as applicable, detailed comparison of the
+acquisition with comparable items, any identified cost savings
+resulting from the acquisition and a description of benefits to the
+state. The State Purchasing Director shall take no action under the
+provisions of this subsection prior to such public posting.
+ENR. H. B. NO. 3420 Page 15
+
+B. C. Competitively bid acquisitions shall be awarded to the
+lowest and best, or best value, bidder or bidders.
+C. D. Bids for an amount requiring submission of requisitions
+to the Purchasing Division shall be evaluated by the Purchasing
+Division and the state agency receiving the acquisition. At a
+minimum, cost and technical expertise shall be considered in
+determining the lowest and best, or best value, bid. Further, the
+state agency shall present its evaluation and recommendation to the
+State Purchasing Director. A documented evaluation report
+containing the evaluations of the Purchasing Division or the state
+agency shall be completed prior to the contract award and such
+report shall be a matter of public record.
+D. E. Except as otherwise specifically provided by law, the
+acquisition of food items or food products by a state agency from a
+public trust created pursuant to Sections 176 through 180.56 of
+Title 60 of the Oklahoma Statutes shall comply with competitive
+bidding requirements of this section.
+E. F. Cooperative contracts shall not be utilized unless the
+purchasing cooperative and its affiliated suppliers have complied
+with competitive bid requirements of the Oklahoma Central Purchasing
+Act and associated rules.
+F. G. Notwithstanding any provision of the Oklahoma Central
+Purchasing Act, in all cases where federal granted funds are
+involved, the federal laws, rules and regulations thereto shall
+govern to the extent necessary to inure to the benefit of such funds
+to this state.
+G. H. A court order requiring an acquisition by a state agency,
+whether or not such state agency is subject to the Oklahoma Central
+Purchasing Act, shall not invalidate competitive bidding procedures
+required by this section if such court order does not specify a
+specific supplier. Any such acquisition shall comply with
+competitive bid procedures.
+SECTION 3. AMENDATORY 74 O.S. 2021, Section 85.41, is
+amended to read as follows:
+Section 85.41. A. A state agency that acquires professional
+services shall comply with the provisions of this section but does
+ENR. H. B. NO. 3420 Page 16
+
+not otherwise have to bid professional services as defined in
+Section 803 of Title 18 of the Oklahoma Statutes.
+B. The state agency may evaluate the performance of the
+professional services provided pursuant to all professional services
+contracts exceeding the fair and reasonable acquisition threshold
+amount. The performance evaluation shall indicate the quality of
+service or work product of the supplier. The state agency shall
+retain the evaluation in the document file the state agency
+maintains for the acquisition pursuant to Section 85.39 of this
+title. If the evaluation indicates deficiencies with the supplier's
+work, the state agency shall send a copy of the evaluation to the
+State Purchasing Director.
+C. If the work product of the contract is a report subject to
+disclosure under state or federal law or regulation, the state
+agency shall file the report with the State Librarian and Archivist.
+D. A state agency shall administer, monitor and audit the
+professional services contract and may be required to report the
+status of an unfinished professional services contract to the State
+Purchasing Director.
+E. A professional services contract shall include an audit
+clause which provides that all items of the supplier that relate to
+the professional services are subject to examination by the state
+agency, the State Auditor and Inspector and the State Purchasing
+Director.
+F. Except for a contract renewal, the final product of the
+professional services contract is a written proposal, report or
+study, the professional services contract shall require the supplier
+to certify that the supplier has not previously provided the state
+agency or another state agency with a final product that is a
+substantial duplication of the final product of the proposed
+contract.
+SECTION 4. AMENDATORY 74 O.S. 2021, Section 85.42, as
+amended by Section 9, Chapter 336, O.S.L. 2025 (74 O.S. Supp. 2025,
+Section 85.42), is amended to read as follows:
+Section 85.42. A. 1. Except as otherwise provided for in this
+section or other applicable law, any agency, whether or not such
+agency is subject to the Oklahoma Central Purchasing Act, shall be
+prohibited from entering into a sole-source contract or agreement or
+ENR. H. B. NO. 3420 Page 17
+
+a contract or agreement for professional services with or for the
+services of any person who has terminated employment with or who has
+been terminated by that agency for one (1) year after the
+termination date of the employee from the agency. Any contract or
+agreement entered into in violation of this subsection shall be
+void. Any person found to have violated this subsection shall be
+prohibited from entering into any state contract for a period of
+five (5) years from the date of the execution of the contract or
+agreement. The provisions of this subsection shall not prohibit an
+agency from hiring or rehiring such person as a state employee.
+2. Any chief administrative officer of an agency, whether or
+not such agency is subject to the Oklahoma Central Purchasing Act,
+shall not enter into any contract for nonprofessional or
+professional services for the purpose of or which would result in
+the circumvention of the full-time-equivalent employee limitation
+established by law for such agency.
+B. Each contract, including change orders, extensions,
+renewals, or amendments, entered into by any person or firm with the
+State of Oklahoma shall include a statement certifying that no
+person who has been involved in any manner in the development,
+approval, or negotiation of such contract while employed by the
+state shall be employed or given anything of value to fulfill any of
+the services provided for under the contract. Each contract,
+including change orders, extensions, renewals, or amendments, shall
+include a statement from the chief executive officer or head of the
+contracting state agency certifying that no known officer or
+employee of the contracting state agency who has any direct or
+indirect financial, pecuniary, or other personal interest in the
+contract has been involved in any manner in the development,
+approval, or negotiation of the contract through influence,
+decision, recommendation, or otherwise. This subsection shall not
+preclude faculty and staff of the institutions within The Oklahoma
+State System of Higher Education from negotiating and participating
+in research grants and educational contracts. This subsection shall
+not apply to Oklahoma Department of Commerce personnel who contract
+to provide services to the Oklahoma Capital Investment Board.
+C. As used in this section, "person" means any state official
+or and their employees as well as every employee of a every state
+agency, and "agency" means every school district and every state
+court and every department, board, bureau, commission, agency,
+trusteeship, authority, council, committee, trust, school district,
+fair board, court, executive office, advisory group, task force, and
+ENR. H. B. NO. 3420 Page 18
+
+study group, that is supported in whole or in part by public funds
+or entrusted with the expenditure of public funds or administering
+or operating public property, and all committees, as well as every
+committee or subcommittees thereof, judges, justices and state
+legislators subcommittee of every such agency.
+D. Notwithstanding anything to the contrary in this section,
+the following sole-source or professional services contracts are
+allowed at any time:
+1. A contract for professional services at any time with a
+person who is a qualified interpreter for the deaf; and
+2. A contract between a business entity that is a part-time
+certified court reporter and the Administrative Office of the
+Courts, on behalf of the district courts, or the Office of the
+Attorney General.
+E. Provided the provisions specified in subsection B of this
+section are satisfied, the following professional services contracts
+are allowed:
+1. The Department of Transportation, Oklahoma Water Resources
+Board, Department of Environmental Quality, Oklahoma Tourism and
+Recreation Department, the Oklahoma Turnpike Authority and the
+Oklahoma Department of Agriculture, Food, and Forestry may contract
+with a person who has retired from state service;
+2. To maintain public health infrastructure and preparedness,
+the State Department of Health and city-county health departments
+may contract with a physician assistant, Registered Nurse, advanced
+practice nurse, Nurse-Midwife, registered dietician, occupational
+therapist, physical therapist or speech-language pathologist who has
+retired from state service; and
+3. The Department of Mental Health and Substance Abuse Services
+may contract with a physician, Registered Nurse, registered
+pharmacist or person meeting the definition of a licensed mental
+health professional, as defined in Title 43A of the Oklahoma
+Statutes, who has separated and/or retired from state service.
+SECTION 5. AMENDATORY 74 O.S. 2021, Section 85.44D.1, is
+amended to read as follows:
+ENR. H. B. NO. 3420 Page 19
+
+Section 85.44D.1. A. 1. A sole source acquisition is exempt
+from competitive bidding procedures as a sole source or requirements
+of this act, but a sole brand acquisition is subject to such
+competitive bidding requirements.
+2. For each sole source or sole brand acquisition, the state
+agency shall retain in the state agency's acquisition file and
+attach to the requisition, a certification signed by the chief
+administrative officer of the state agency, in the following form:
+SOLE SOURCE OR SOLE BRAND ACQUISITION
+CERTIFICATION
+STATE AGENCY ________________________
+SUPPLIER NAME ________________________
+SUPPLIER ADDRESS ________________________
+SUPPLIER CONTACT INFORMATION ________________________
+In connection with the attached requisition or contract, I
+hereby affirm that
+(Name of Supplier)
+is the only business entity singularly qualified to provide the
+acquisition, or is the only brand satisfying the acquisition
+requirements, for the following reasons:
+______________________________________________________
+______________________________________________________
+______________________________________________________
+______________________________________________________
+______________________________________________________
+The following is a brief description of all efforts made to
+verify that the acquisition qualifies as a sole source or sole brand
+acquisition:
+ENR. H. B. NO. 3420 Page 20
+
+______________________________________________________
+______________________________________________________
+______________________________________________________
+______________________________________________________
+______________________________________________________
+I understand that the signing of this certification knowing such
+information to be false may result in forfeiture of my position and
+ineligibility for appointment to or employment in state service for
+a period of five (5) years following forfeiture of position.
+_____________________________
+(Chief administrative officer)
+3. A court order requiring a particular acquisition, but which
+does not specify a brand or supplier shall not substitute for the
+certification required by this section or otherwise invalidate
+acquisition procedures required by the Oklahoma Central Purchasing
+Act.
+4. Upon a determination by the Director of the Office of
+Management and Enterprise Services that there are reasonable grounds
+to believe that a violation of this section has occurred, the
+Director shall send findings to the Attorney General that support
+the determination. The Attorney General shall review the findings
+and determine whether to investigate or prosecute the person.
+5. Prior to approving a requisition for a sole source or sole
+brand acquisition, the Purchasing Division shall require the signed
+certification documenting the need for a sole source or sole brand
+acquisition and shall retain the certification in accordance with
+state record retention requirements.
+6. For a sole source or sole brand acquisitions exceeding the
+fair and reasonable acquisition threshold amount and not requiring
+submission of a requisition to the Purchasing Division, the state
+agency's certified procurement officer shall retain, in the
+acquisition file, the signed certification documenting the need for
+the sole source or sole brand acquisition in accordance with state
+record retention requirements.
+ENR. H. B. NO. 3420 Page 21
+
+B. By the fifteenth day of each month, or the first working day
+thereafter, the Office of Management and Enterprise Services shall
+provide a report to:
+1. The Speaker of the House of Representatives and the
+President Pro Tempore of the Senate; and
+2. Any member of the Legislature requesting the report publish
+a report on its website.
+The report shall detail sole source and sole brand acquisitions
+by state agencies for the month prior to the month preceding the
+submission of the report. The report shall be titled "Monthly Sole
+Source and Sole Brand Contracting Report of Oklahoma State Agencies"
+and indicate the time period of the report. The report shall be
+provided by the Director of the Office of Management and Enterprise
+Services or the Director's designee. The report shall be in
+columnar database format and shall include at least the following
+fields of information: state agency number; state agency name; date
+created by the Office of Management and Enterprise Services for the
+requisition; date of either approval or disapproval of the
+requisition; if disapproved, the reason why such contract
+requisition was disapproved; estimated amount of the requisition
+acquisition; purchase order amount; purchase order number; actual
+business name of supplier; supplier federal employer identification
+number; and the commodity classification listing at the appropriate
+level to distinguish between similar acquisitions. Information
+required by this subsection shall be reported and maintained on each
+report through the next reporting period after an acquisition is
+made. The applicable data in the fields of information specified in
+this subsection shall be listed even if the state agency requisition
+is disapproved.
+SECTION 6. This act shall become effective November 1, 2026.
+ENR. H. B. NO. 3420 Page 22
+
+Passed the House of Representatives the 24th day of March, 2026.
+Presiding Officer of the House
+of Representatives
+Passed the Senate the 28th day of April, 2026.
+Presiding Officer of the Senate
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. H. B. NO. 3420 Page 23
