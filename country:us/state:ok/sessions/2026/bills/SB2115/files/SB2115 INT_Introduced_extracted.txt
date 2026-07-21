@@ -1,0 +1,2159 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 2115 By: Stanley
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Oklahoma Department of
+7
+Veterans Affairs; amending 62 O.S. 2021, Sections
+8
+34.48, 34.57, 34.64, and 34.80, which relate to
+8
+federal funds, agency clearing accounts, payment of
+9
+claims or payrolls, and records of warrants, checks,
+9
+or orders by the Office of Management and Enterprise
+10
+Services; defining term; exempting certain federal
+10
+funds administered by the Oklahoma Department of
+11
+Veterans Affairs from certain provisions; requiring
+11
+the Department to maintain certain records; requiring
+12
+the Department to electronically submit certain
+12
+reports; requiring the Department to remain subject
+13
+to certain examinations; exempting certain patient-
+13
+pay monies received by the Department from certain
+14
+requirements; construing provisions; authorizing the
+14
+Department to establish and administer certain
+15
+procedures; establishing certain requirements for
+15
+certain procedures; exempting certain funds from
+16
+certain filing or certification requirements;
+16
+transferring certain funds to the Oklahoma Department
+17
+of Veterans Affairs Revolving Fund; creating the
+17
+Oklahoma Veterans Assistance Fund; amending 72 O.S.
+18
+2021, Section 222, as amended by Section 2, Chapter
+18
+42, O.S.L. 2024 (72 O.S. Supp. 2025, Section 222),
+19
+which relates to the Oklahoma Department of Veterans
+19
+Affairs Revolving Fund; allowing certain funds to be
+20
+deposited into certain accounts by the Department;
+20
+requiring certain records to be subject to audit;
+21
+removing certain requirement to transfer certain
+21
+funds; allowing certain expenditures to be kept in
+22
+certain fund; exempting certain monies from certain
+22
+fiscal year limitations; establishing certain
+23
+requirements for certain funds to be withdrawn;
+23
+amending 74 O.S. 2021, Section 85.12, as amended by
+24
+Section 2, Chapter 339, O.S.L. 2023 (74 O.S. Supp.
+24
+Req. No. 3057 Page 1
+
+1
+2025, Section 85.12), which relates to act not to
+1
+affect nonconflicting procedures; exempting certain
+2
+purchase of goods and services by the Department from
+2
+certain provisions; updating statutory language;
+3
+providing for codification; and providing an
+3
+effective date.
+4
+4
+5
+5
+6
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+6
+7
+SECTION 1. AMENDATORY 62 O.S. 2021, Section 34.48, is
+7
+8
+amended to read as follows:
+8
+9
+Section 34.48. A. For the purposes of this section, “federal
+9
+10
+funds” means federal monies provided to this state with the legal
+10
+11
+expectation that the state will transmit or expend such monies on
+11
+12
+specified program purposes or recipients and that do not become
+12
+13
+state general revenues.
+13
+14
+B. Federal funds received by any agency of the state shall be
+14
+15
+deposited in the State Treasury and disbursed upon warrants issued
+15
+16
+by the State Treasurer. These funds shall be subject to the other
+16
+17
+fiscal controls imposed by the Oklahoma State Finance Act, except
+17
+18
+where federal laws and/or or regulations of a federal agency which
+18
+19
+makes such funds available to the State requires such federal funds
+19
+20
+to be granted, deposited, allocated or expended through channels
+20
+21
+other than those required by the provisions of the Oklahoma State
+21
+22
+Finance Act.
+22
+23
+C. Notwithstanding subsection B of this section, or any other
+23
+24
+law, federal funds administered by the Oklahoma Department of
+24
+Req. No. 3057 Page 2
+
+1
+Veterans Affairs that are received from the United States Department
+1
+2
+of Veterans Affairs for direct distribution to, or reimbursement of
+2
+3
+per diem or expenditure on behalf of, eligible recipients pursuant
+3
+4
+to federal law or regulation shall be exempt from the requirement of
+4
+5
+deposit in the State Treasury and from disbursement through the
+5
+6
+Office of Management and Enterprise Services.
+6
+7
+D. The Department shall:
+7
+8
+1. Maintain accounting records for exempt federal funds on a
+8
+9
+basis consistent with applicable federal requirements;
+9
+10
+2. Electronically submit quarterly informational reports to the
+10
+11
+Governor, President Pro Tempore of the Senate, the Speaker of the
+11
+12
+House of Representatives, and the Director of the Office of
+12
+13
+Management and Enterprise Services; and
+13
+14
+3. Remain subject to examination by the State Auditor and
+14
+15
+Inspector and to all federal audit and compliance requirements.
+15
+16
+SECTION 2. AMENDATORY 62 O.S. 2021, Section 34.57, is
+16
+17
+amended to read as follows:
+17
+18
+Section 34.57. A. For the purpose of this section, “private
+18
+19
+patient-pay monies” means private funds received by the Oklahoma
+19
+20
+Department of Veterans Affairs by patients in State Veterans Homes
+20
+21
+in return for services provided by such Homes.
+21
+22
+B. There is hereby created in the official depository in the
+22
+23
+State Treasury an agency clearing account for each state officer,
+23
+24
+department, board, commission, institution or agency of the state,
+24
+Req. No. 3057 Page 3
+
+1
+hereinafter referred to collectively as state agencies. An agency
+1
+2
+special account established under Section 7.2 of this title may be
+2
+3
+used for the purposes of an agency clearing account.
+3
+4
+B. C. It shall be the duty of each state agency, officer or
+4
+5
+employee, to deposit in the agency clearing account, or agency
+5
+6
+special account, established under Section 7.2 of this title, all
+6
+7
+monies of every kind, including, but not limited to:
+7
+8
+1. Tax revenues;
+8
+9
+2. Receipts from licenses, examinations, per diem and all other
+9
+10
+reimbursements, fees, permits, fines, forfeitures and penalties; and
+10
+11
+3. Income from money and property, grants and contracts,
+11
+12
+refunds, receipts, reimbursements, judgments, sales of materials and
+12
+13
+services of employees, and nonrevenue receipts, received by a state
+13
+14
+agency, officer or employee by reason of the existence of and/or or
+14
+15
+operation of a state agency.
+15
+16
+C. D. All such monies collected pursuant to this section shall
+16
+17
+be deposited as follows in the agency clearing account or agency
+17
+18
+special account established therefor:
+18
+19
+1. Receipts of One Hundred Dollars ($100.00) or more shall be
+19
+20
+deposited on the same banking day as received; and
+20
+21
+2. Receipts of less than One Hundred Dollars ($100.00) may be
+21
+22
+held until accumulated receipts equal One Hundred Dollars ($100.00)
+22
+23
+or for five (5) business days, whichever occurs first, and shall
+23
+24
+then be deposited no later than the next business day.
+24
+Req. No. 3057 Page 4
+
+1
+a. Each state agency that has custody of receipts of less
+1
+2
+than One Hundred Dollars ($100.00) shall provide
+2
+3
+adequate safekeeping of such receipts.
+3
+4
+b. No disbursements shall be made from such receipts
+4
+5
+prior to this deposit.
+5
+6
+c. All checks received must be restrictively endorsed
+6
+7
+immediately upon receipt.
+7
+8
+D. E. The State Treasurer is authorized to accept deposits
+8
+9
+directly to State Treasury funds, consisting of cash, bank drafts,
+9
+10
+bank cashier’s checks, federal treasury checks and other forms of
+10
+11
+remittance which are uniformly honored for payment. The State
+11
+12
+Treasurer is further authorized to accept checks deposited directly
+12
+13
+into State Treasury funds if the depositing state agency maintains
+13
+14
+sufficient balances in their agency clearing account to cover return
+14
+15
+items. Notwithstanding the provisions of subsection E of this
+15
+16
+section, state agencies are authorized to maintain sufficient
+16
+17
+balances in their agency clearing account to cover returned checks,
+17
+18
+credit card adjustments, credit card returns, and other debit items.
+18
+19
+Amounts of said balances shall be subject to approval by the State
+19
+20
+Treasurer.
+20
+21
+All checks, drafts, orders and vouchers so deposited shall be
+21
+22
+credited and cleared at par and should payment be refused on any
+22
+23
+such check, draft, order or voucher, or should the same prove
+23
+24
+otherwise worthless, the amount thereof shall be charged by the
+24
+Req. No. 3057 Page 5
+
+1
+State Treasurer against the account or fund theretofore credited
+1
+2
+with the same; and the person issuing the check, draft, order or
+2
+3
+voucher shall be charged a fee of Twenty-five Dollars ($25.00) to
+3
+4
+cover the costs of processing each returned check; provided, such
+4
+5
+charge shall not be made unless efforts have been made to present
+5
+6
+such check, draft, order or voucher for payment a second time.
+6
+7
+Unless otherwise provided by law, such fee shall be deposited to the
+7
+8
+revolving fund of the state agency to which the check, draft, order
+8
+9
+or voucher was issued. If no revolving fund exists for the state
+9
+10
+agency, then such fee shall be deposited to the General Revenue
+10
+11
+Fund. The State Treasurer shall not accept for deposit to any
+11
+12
+agency clearing account, or any agency special account, created
+12
+13
+pursuant to the provisions of Section 7.2 of this title, any
+13
+14
+warrant, check, order or voucher drawn against any state fund or
+14
+15
+account in favor of any individual or other person except the state
+15
+16
+officer, department, institution or agency for which account or fund
+16
+17
+the deposit is made, or a bona fide student enrolled at any of the
+17
+18
+state institutions of higher learning when such warrant, check,
+18
+19
+order or voucher is endorsed to the institution as payment of any
+19
+20
+fees or other accounts due such institution.
+20
+21
+E. F. 1. Except as provided in paragraph 2 of this subsection,
+21
+22
+at least once each month each state agency shall transfer monies
+22
+23
+deposited in agency clearing accounts to the various funds or
+23
+24
+accounts, subdivisions of the state, or functions as may be provided
+24
+Req. No. 3057 Page 6
+
+1
+by statute and no money shall ever be disbursed from the agency
+1
+2
+clearing account for any other purpose, except in refund of
+2
+3
+erroneous or excessive collections and credits.
+3
+4
+2. District offices under the control of the Corporation
+4
+5
+Commission shall be permitted to make deposit of receipts on a
+5
+6
+monthly basis, provided that such receipts must be deposited within
+6
+7
+the month received or when such receipts equal or exceed One Hundred
+7
+8
+Dollars ($100.00), whichever first occurs. The Oklahoma Tourism and
+8
+9
+Recreation Department and entities under its control shall be
+9
+10
+required to make deposit of receipts on a weekly basis, provided
+10
+11
+that such receipts must be deposited within seven (7) calendar days
+11
+12
+from the date received or when such deposits equal or exceed Five
+12
+13
+Hundred Dollars ($500.00), whichever first occurs.
+13
+14
+F. G. Funds and revenues of the Oklahoma Municipal Power
+14
+15
+Authority, the Grand River Dam Authority, the Oklahoma Ordnance
+15
+16
+Works Authority and the Midwestern Oklahoma Development Authority
+16
+17
+are exempt from the requirements of this section.
+17
+18
+G. H. Monies used for investment purposes by the Oklahoma
+18
+19
+Firefighters Pension and Retirement System, the Oklahoma Police
+19
+20
+Pension and Retirement System, the Uniform Retirement System for
+20
+21
+Justices and Judges, the Oklahoma Law Enforcement Retirement System,
+21
+22
+the Oklahoma Public Employees Retirement System, the Teachers’
+22
+23
+Retirement System of Oklahoma, the Oklahoma State Regents for Higher
+23
+24
+Education, the State and Education Employees Group Insurance Board
+24
+Req. No. 3057 Page 7
+
+1
+and the Commissioners of the Land Office are exempt from the
+1
+2
+requirements of this section, and shall be placed with the
+2
+3
+respective custodian bank or trust company.
+3
+4
+I. Private patient-pay monies shall be exempt from the
+4
+5
+requirements of this section. Such funds may be deposited into an
+5
+6
+interest-bearing account and expended by the Department outside of
+6
+7
+the State Treasury, provided that the Department maintains complete
+7
+8
+accounting records and remains subject to audit by the State Auditor
+8
+9
+and Inspector.
+9
+10
+SECTION 3. AMENDATORY 62 O.S. 2021, Section 34.64, is
+10
+11
+amended to read as follows:
+11
+12
+Section 34.64. A. Except as otherwise provided in the Oklahoma
+12
+13
+State Finance Act and except for Automated Clearing House (ACH)
+13
+14
+debits for transactional fees, procedures for paying claims or
+14
+15
+payrolls shall include the following:
+15
+16
+1. All miscellaneous claims and payroll claims for the payment
+16
+17
+of money from the State Treasury shall be filed with the Director of
+17
+18
+the Office of Management and Enterprise Services for audit and
+18
+19
+settlement prior to being filed for payment with the State
+19
+20
+Treasurer;
+20
+21
+2. The Director of the Office of Management and Enterprise
+21
+22
+Services may establish alternative procedures for the settlement of
+22
+23
+claims whenever such procedures are more advantageous so long as
+23
+24
+they are consistent with the requirements of state law;
+24
+Req. No. 3057 Page 8
+
+1
+3. Such alternative procedures shall be at the discretion of
+1
+2
+the Director of the Office of Management and Enterprise Services and
+2
+3
+may include, but are not limited to:
+3
+4
+a. a procedure to permit consolidated payment to vendors
+4
+5
+for claims involving more than one agency of the state
+5
+6
+when audit and settlement of such claims, as
+6
+7
+hereinafter provided, can in all respects be
+7
+8
+accomplished,
+8
+9
+b. procedures based upon valid statistical sampling
+9
+10
+models for preaudit of claims, against contracts,
+10
+11
+purchase orders and other commitments before entering
+11
+12
+such claims against the accounts, and
+12
+13
+c. policies, procedures and performance criteria for the
+13
+14
+participation of agencies or departments, not
+14
+15
+authorized by this section, to engage in an
+15
+16
+alternative system for the settlement of claims; and
+16
+17
+4. The Director of the Office of Management and Enterprise
+17
+18
+Services may use a numeric or alphanumeric designation to cross-
+18
+19
+reference claims or payrolls to check warrant numbers, transfer
+19
+20
+entry or optional settlement mode used in the payment thereof.
+20
+21
+B. Except for ACH debits for transactional fees, after claims
+21
+22
+or payrolls or both have been properly audited and recorded against
+22
+23
+the respective contracts, purchase orders, other commitments and
+23
+24
+24
+Req. No. 3057 Page 9
+
+1
+accounts, the Division of Central Accounting and Reporting shall
+1
+2
+certify such claims or payrolls to the State Treasurer for payment.
+2
+3
+C. Except for ACH debits for transactional fees, it shall be
+3
+4
+the responsibility of the Division of Central Accounting and
+4
+5
+Reporting to determine that:
+5
+6
+1. All material legal requirements concerning the expenditure
+6
+7
+of monies involved in each claim or payroll have been complied with;
+7
+8
+2. Funds have been properly and legally allotted for the
+8
+9
+payment of the claim or payroll; and
+9
+10
+3. A sufficient balance exists for the payment of same.
+10
+11
+D. The Director of the Office of Management and Enterprise
+11
+12
+Services or bonded employees in the Division of Central Accounting
+12
+13
+and Reporting authorized by the Director shall certify to the State
+13
+14
+Treasurer that the claim or payroll has been approved for payment.
+14
+15
+E. 1. The Director of the Office of Management and Enterprise
+15
+16
+Services shall be authorized to establish necessary agency
+16
+17
+disbursing funds to efficiently accommodate the cash flow
+17
+18
+requirements of applicable federal regulations, bond indebtedness
+18
+19
+and other directives deemed appropriate by the Director.
+19
+20
+2. Agencies operating such disbursing funds are authorized to
+20
+21
+establish a preaudit and settlement system for claims or payments or
+21
+22
+both relating to the purposes of the stated directives.
+22
+23
+3. The State Treasurer shall establish procedures for the state
+23
+24
+in accordance with Federal Banking and National Automated Clearing
+24
+Req. No. 3057 Page 10
+
+1
+House Association standards and agencies shall be required to
+1
+2
+utilize automated clearing house procedures established by the State
+2
+3
+Treasurer.
+3
+4
+4. No individual or entity shall be required to have a bank
+4
+5
+account unless required by federal law or federal regulation.
+5
+6
+5. Agencies shall be further required to present these
+6
+7
+transactions to the Office of Management and Enterprise Services in
+7
+8
+a summarized format and shall include any accounting information
+8
+9
+necessary as determined by the Director of the Office of Management
+9
+10
+and Enterprise Services including, but not limited to, information
+10
+11
+related to federal law.
+11
+12
+6. Administrative expenditures shall not be eligible for these
+12
+13
+procedures.
+13
+14
+7. The efficiency of the payment system shall be considered
+14
+15
+when the interest earnings of the state are not diminished.
+15
+16
+F. The Director of the Office of Management and Enterprise
+16
+17
+Services shall be authorized to process payments for federal tax
+17
+18
+withholding without claim forms. The Director shall establish a
+18
+19
+separate fund for the purpose of accumulating federal income tax
+19
+20
+withholding from payrolls and remitting same to the United States
+20
+21
+Treasury. Institutions under the administrative authority of the
+21
+22
+Oklahoma State Regents for Higher Education which are responsible
+22
+23
+for processing payments for federal tax withholding shall be
+23
+24
+24
+Req. No. 3057 Page 11
+
+1
+authorized to process such payments to the United States Treasury
+1
+2
+without claim forms.
+2
+3
+G. 1. The Director of the Office of Management and Enterprise
+3
+4
+Services shall be authorized to process, without claim forms,
+4
+5
+interest payments to the U.S. Treasury as required by federal law.
+5
+6
+2. Agencies are responsible for the accrual of such interest
+6
+7
+liability of the state and shall provide payment to the Office of
+7
+8
+Management and Enterprise Services in the amount and method
+8
+9
+prescribed by the Director of the Office of Management and
+9
+10
+Enterprise Services.
+10
+11
+3. Any liability of the U.S. Treasury as determined by federal
+11
+12
+law shall be deposited in the State Treasury and transferred by the
+12
+13
+Director of the Office of Management and Enterprise Services to the
+13
+14
+General Revenue Fund of the state subsequent to final determination
+14
+15
+and necessary audit resolution.
+15
+16
+H. Payments disbursed from the State Treasury shall be conveyed
+16
+17
+solely through an electronic payment mechanism. The State Treasurer
+17
+18
+may provide an exemption from the provisions of this subsection,
+18
+19
+with cause, provided the number of exempted payments and a
+19
+20
+corresponding list of causes shall be published in a regularly
+20
+21
+updated report which is featured prominently on the State
+21
+22
+Treasurer’s website.
+22
+23
+I. Notwithstanding any other provision of the Oklahoma State
+23
+24
+Finance Act and subject to any applicable restrictions in the
+24
+Req. No. 3057 Page 12
+
+1
+Oklahoma Constitution, the Director of the Office of Management and
+1
+2
+Enterprise Services may establish procedures by which agencies may
+2
+3
+contract for, incur and account for transaction-based fees, such as
+3
+4
+fees for accepting credit cards, that may be processed by ACH debit
+4
+5
+without claim forms, provided the agency has sufficient statutory
+5
+6
+authority for purchase. Prior to authorizing ACH debit transactions
+6
+7
+without claim forms, state agencies shall provide notice to the
+7
+8
+State Treasurer.
+8
+9
+J. 1. The provisions of this section shall not apply to
+9
+10
+claims, payrolls, or other payments made by or on behalf of the
+10
+11
+Oklahoma Department of Veterans Affairs solely for the operation of
+11
+12
+State Veterans Homes established pursuant to Sections 221 through
+12
+13
+240 of Title 72 of the Oklahoma Statutes. The Department is hereby
+13
+14
+authorized to establish and administer internal procedures for the
+14
+15
+preaudit, settlement, and payment of such claims and payrolls,
+15
+16
+provided that:
+16
+17
+a. all expenditures are processed in accordance with
+17
+18
+applicable federal laws and regulations governing
+18
+19
+veterans’ care and benefits,
+19
+20
+b. the Department maintains adequate internal financial
+20
+21
+controls and documentation to ensure compliance with
+21
+22
+the Oklahoma State Finance Act where not otherwise in
+22
+23
+conflict with this subsection, and
+23
+24
+24
+Req. No. 3057 Page 13
+
+1
+c. the Department shall provide to the Director of the
+1
+2
+Office of Management and Enterprise Services, upon
+2
+3
+request, summarized reporting necessary for statewide
+3
+4
+accounting and financial disclosure requirements.
+4
+5
+2. Payments made pursuant to this subsection shall not require
+5
+6
+filing or certification with the Office of Management and Enterprise
+6
+7
+Services prior to payment by the State Treasurer.
+7
+8
+SECTION 4. AMENDATORY 62 O.S. 2021, Section 34.80, is
+8
+9
+amended to read as follows:
+9
+10
+Section 34.80. A. All warrants, checks or orders issued by the
+10
+11
+State Treasurer against claims submitted through the Office of
+11
+12
+Management and Enterprise Services in payment of obligations of the
+12
+13
+state which shall for any cause remain outstanding or unpaid for a
+13
+14
+period of ninety (90) days after funds are available for their
+14
+15
+payment shall be revoked and canceled.
+15
+16
+B. Such warrants, checks or orders shall be entered into the
+16
+17
+records of the Office of Management and Enterprise Services and the
+17
+18
+State Treasurer and the administrative head of the agency certifying
+18
+19
+the claim for payment shall be notified that such items have been
+19
+20
+canceled.
+20
+21
+C. If, for any reason, a warrant should not be issued to
+21
+22
+replace a warrant canceled pursuant to the provisions of this
+22
+23
+section, the administrative head of the agency originally certifying
+23
+24
+the claim for payment shall, within seven (7) days after
+24
+Req. No. 3057 Page 14
+
+1
+notification of the cancellation, advise the Director of the Office
+1
+2
+of Management and Enterprise Services that a reissue should not be
+2
+3
+made.
+3
+4
+D. Notwithstanding the provisions of subsection B of this
+4
+5
+section, warrants issued or caused to be issued by the Department of
+5
+6
+Human Services for public assistance or medical assistance may be
+6
+7
+reissued at any time within three (3) years after cancellation upon
+7
+8
+submission of the canceled warrants to the Department.
+8
+9
+E. No canceled warrants shall be paid, except that the holder
+9
+10
+of any warrant that may have been canceled pursuant to the
+10
+11
+provisions of this section may, within thirty-six (36) months
+11
+12
+following the month in which the warrant was canceled, present the
+12
+13
+warrant or an affidavit of loss or destruction and a request for
+13
+14
+reissuance to the Director of the Office of Management and
+14
+15
+Enterprise Services.
+15
+16
+F. The Director of the Office of Management and Enterprise
+16
+17
+Services shall certify a claim as needed for payment of those
+17
+18
+verified unpaid requests presented, unless the certifying agency has
+18
+19
+advised that a reissuance should not be made.
+19
+20
+G. 1. There is hereby created in the State Treasury a fund to
+20
+21
+be known as the Canceled Warrant Fund.
+21
+22
+2. The Director of the Office of Management and Enterprise
+22
+23
+Services shall transfer to the Canceled Warrant Fund the total of
+23
+24
+the payable amounts of the warrants canceled pursuant to the
+24
+Req. No. 3057 Page 15
+
+1
+provisions of this section from the funds and accounts against which
+1
+2
+the canceled warrants had been drawn.
+2
+3
+3. The Office of Management and Enterprise Services shall
+3
+4
+disburse from the fund such amounts as necessary to pay warrants
+4
+5
+reissued as provided in this section.
+5
+6
+4. These expenditures shall remain recorded in the funds and
+6
+7
+accounts against which the original canceled warrants were issued
+7
+8
+and they shall not be considered expenses of the state nor shall
+8
+9
+receipts to the fund be considered revenue to the state.
+9
+10
+5. Any such claim drawn against the Canceled Warrant Fund shall
+10
+11
+identify the current holder of record and the warrant number of the
+11
+12
+canceled warrant, which shall be provided on the warrant record.
+12
+13
+H. The Director of the Office of Management and Enterprise
+13
+14
+Services shall determine the minimum necessary balance to be
+14
+15
+maintained in the Canceled Warrant Fund and on the third Monday of
+15
+16
+October shall transfer the amount in excess of the required minimum
+16
+17
+balance to the General Revenue Fund of the current year. The
+17
+18
+minimum balance retained shall be not less than the total amount of
+18
+19
+the warrants canceled by statute within the past thirty-six (36)
+19
+20
+months preceding October 1 of each year and which remain eligible
+20
+21
+for replacement according to the records of the Office of Management
+21
+22
+and Enterprise Services. Provided, funds in the Canceled Warrant
+22
+23
+Fund due to the cancellation of warrants from the Crime Victims
+23
+24
+Compensation Fund shall be transferred to the Crime Victims
+24
+Req. No. 3057 Page 16
+
+1
+Compensation Fund and not to the General Revenue Fund. Funds in the
+1
+2
+Canceled Warrant Fund due to the cancellation of warrants originally
+2
+3
+issued by the Oklahoma Department of Veterans Affairs shall be
+3
+4
+transferred to the Oklahoma Department of Veterans Affairs Revolving
+4
+5
+Fund or other fund of origin within the Department and shall not be
+5
+6
+deposited to the General Revenue Fund.
+6
+7
+SECTION 5. NEW LAW A new section of law to be codified
+7
+8
+in the Oklahoma Statutes as Section 240.1 of Title 72, unless there
+8
+9
+is created a duplication in numbering, reads as follows:
+9
+10
+There is hereby created in the State Treasury or in one or more
+10
+11
+financial institutions approved by the State Treasurer, at the
+11
+12
+discretion of the Oklahoma Department of Veterans Affairs, a
+12
+13
+revolving fund for the Department to be designated the “Oklahoma
+13
+14
+Veterans Assistance Fund”. The fund shall be a continuing fund, not
+14
+15
+subject to fiscal year limitations, and shall consist of all
+15
+16
+revenues allocated by law including, but not limited to, federal and
+16
+17
+private contributions, and such other monies as may be appropriated
+17
+18
+or otherwise directed to the fund by the Legislature. Such funds
+18
+19
+may be deposited into an interest-bearing account and expended by
+19
+20
+the Department outside of the State Treasury, provided that the
+20
+21
+Department maintains complete accounting records and remains subject
+21
+22
+to audit by the State Auditor and Inspector. Monies in the fund
+22
+23
+shall be used exclusively for the payment of operational costs of
+23
+24
+the Department, not otherwise funded through legislative
+24
+Req. No. 3057 Page 17
+
+1
+appropriations or the Oklahoma Department of Veterans Affairs
+1
+2
+Revolving Fund. Expenditures may include, but shall not be limited
+2
+3
+to, veterans’ programs, state veterans’ cemeteries, workforce
+3
+4
+development, outreach initiatives, and other expenses necessary for
+4
+5
+the support of veterans as determined by the Department. No funds
+5
+6
+shall be withdrawn or expended for any purpose unless the funds have
+6
+7
+been allotted and budgeted in accordance with the Oklahoma State
+7
+8
+Finance Act, and only in the amounts and for the purposes provided
+8
+9
+by the Executive Director of the Oklahoma Department of Veterans
+9
+10
+Affairs. Notwithstanding any provisions of law, all interest and
+10
+11
+income derived from deposits to the Oklahoma Veterans Assistance
+11
+12
+Fund shall be credited to the Oklahoma Veterans Assistance Fund.
+12
+13
+SECTION 6. AMENDATORY 72 O.S. 2021, Section 222, as
+13
+14
+amended by Section 2, Chapter 42, O.S.L. 2024 (72 O.S. Supp. 2025,
+14
+15
+Section 222), is amended to read as follows:
+15
+16
+Section 222. A. There is hereby created in the State Treasury
+16
+17
+or in one or more financial institutions approved by the State
+17
+18
+Treasurer, at the discretion of the Oklahoma Department of Veterans
+18
+19
+Affairs, a revolving fund for the Oklahoma Department of Veterans
+19
+20
+Affairs to be known as the “Oklahoma Department of Veterans Affairs
+20
+21
+Revolving Fund”. The revolving fund shall be a continuing fund, not
+21
+22
+subject to fiscal year limitations, and shall consist of all funds
+22
+23
+and monies received by the Oklahoma Department of Veterans Affairs,
+23
+24
+its constituent institutions, and/or or the Oklahoma Veterans
+24
+Req. No. 3057 Page 18
+
+1
+Commission, from any gifts, contributions, bequests, individual
+1
+2
+reimbursements except as otherwise provided by law, and other
+2
+3
+sources of revenue, for the care or support of war veterans
+3
+4
+discharged other than under dishonorable conditions, who have been
+4
+5
+admitted and cared for at the Oklahoma Department of Veterans
+5
+6
+Affairs Centers Homes at Ardmore, Claremore, Clinton, Lawton/Ft.
+6
+7
+Sill, Norman, Sulphur or Sallisaw. Provided, no grants-in-aid,
+7
+8
+reimbursements, or other revenue from the United States government
+8
+9
+or any instrumentality of the United States government shall be
+9
+10
+deposited in the fund. Such funds may be deposited into an
+10
+11
+interest-bearing account and expended by the Department outside of
+11
+12
+the State Treasury, provided that the Department maintains complete
+12
+13
+accounting records and remains subject to audit by the State Auditor
+13
+14
+and Inspector. Provided further, nothing contained herein prohibits
+14
+15
+the establishment and utilization of special agency accounts by the
+15
+16
+Oklahoma Department of Veterans Affairs and its constituent
+16
+17
+institutions, as may be approved by the Director of the Office of
+17
+18
+Management and Enterprise Services, for receipt and disbursement of
+18
+19
+the personal funds of Veteran Center Home patients and members
+19
+20
+and/or for receipt and disbursement of charitable contributions and
+20
+21
+donations for use by and for patients and members.
+21
+22
+B. The revolving fund herein created shall be used by the
+22
+23
+Oklahoma Department of Veterans Affairs to pay for the care of war
+23
+24
+veterans discharged other than under dishonorable conditions, in
+24
+Req. No. 3057 Page 19
+
+1
+Veterans Centers Homes, to pay the general operating expenses of the
+1
+2
+Veterans Centers Homes, including the payment of salaries and wages
+2
+3
+of officials and employees, to pay for the employee safety programs
+3
+4
+and incentive awards provided for in Section 63.10a of this title,
+4
+5
+and to remodel, repair, construct, build additions, modernize, or
+5
+6
+add improvements of domiciliary or hospital buildings necessary for
+6
+7
+the care of veterans, including tuberculosis, mentally ill or
+7
+8
+neuropsychiatric patients, but not excluding others; and
+8
+9
+architectural plans, specifications, or other costs pertinent
+9
+10
+thereto.
+10
+11
+C. The Oklahoma Department of Veterans Affairs may transfer
+11
+12
+monies from the revolving fund created in this section to the W.V.C.
+12
+13
+Revolving Fund in the State Treasury.
+13
+14
+D. All expenditures from the revolving fund shall be made upon
+14
+15
+warrants issued by the State Treasurer based upon claims approved by
+15
+16
+the Oklahoma Department of Veterans Affairs, as provided by law, and
+16
+17
+filed with the Director of the Office of Management and Enterprise
+17
+18
+Services for approval and payment No funds shall be withdrawn or
+18
+19
+expended for any purpose unless the funds have been allotted and
+19
+20
+budgeted in accordance with the Oklahoma State Finance Act, and only
+20
+21
+in the amounts and for the purposes provided by the Executive
+21
+22
+Director of the Oklahoma Department of Veterans Affairs.
+22
+23
+Notwithstanding any provision of law, all interest and income
+23
+24
+derived from deposits to the Oklahoma Department of Veterans Affairs
+24
+Req. No. 3057 Page 20
+
+1
+Revolving Fund shall be credited to the Oklahoma Department of
+1
+2
+Veterans Affairs Revolving Fund.
+2
+3
+SECTION 7. AMENDATORY 74 O.S. 2021, Section 85.12, as
+3
+4
+amended by Section 2, Chapter 339, O.S.L. 2023 (74 O.S. Supp. 2025,
+4
+5
+Section 85.12), is amended to read as follows:
+5
+6
+Section 85.12. A. The provisions of this section shall not be
+6
+7
+construed to affect any law relating to fiscal or accounting
+7
+8
+procedure except as they may be directly in conflict herewith; and
+8
+9
+all claims, warrants, and bonds shall be examined, inspected, and
+9
+10
+approved as now provided by law.
+10
+11
+B. Except as otherwise provided by this section, the
+11
+12
+acquisitions specified in this subsection shall be made in
+12
+13
+compliance with Section 85.39 of this title and purchasing card
+13
+14
+program requirements but are not subject to other provisions of the
+14
+15
+Oklahoma Central Purchasing Act:
+15
+16
+1. Food and other products produced by state institutions and
+16
+17
+agencies;
+17
+18
+2. The printing or duplication of publications or forms of
+18
+19
+whatsoever kind or character by state agencies if the work is
+19
+20
+performed upon their own equipment by their own employees. Pursuant
+20
+21
+to this paragraph, the state agency may only use equipment owned or
+21
+22
+leased by the agency and may only utilize that equipment for
+22
+23
+printing services required by the agency in performing duties
+23
+24
+imposed upon the agency or functions authorized to be performed by
+24
+Req. No. 3057 Page 21
+
+1
+the agency. Any use of the equipment by the agency pursuant to an
+1
+2
+agreement or contract with any other entity resulting in delivery of
+2
+3
+intermediate or finished products to the entity purchasing or using
+3
+4
+the products shall be subject to the provisions of the Oklahoma
+4
+5
+Central Purchasing Act and associated rules;
+5
+6
+3. Department of Transportation and Transportation Commission
+6
+7
+contractual services or right-of-way acquisitions, contracts awarded
+7
+8
+pursuant to bids let by the Transportation Commission for the
+8
+9
+maintenance or construction of streets, roads, highways, bridges,
+9
+10
+underpasses or any other transportation facilities under the control
+10
+11
+of the Department of Transportation, equipment or material
+11
+12
+acquisitions accruing to the Department of Transportation required
+12
+13
+in federal aid contracts and acquisitions for public-service-type
+13
+14
+announcements initiated by the Department of Transportation, but not
+14
+15
+acquisitions for advertising, public relations or employment
+15
+16
+services;
+16
+17
+4. Utility services regulated by a state or federal regulatory
+17
+18
+commission, municipal ordinance or an Indian Tribal Council;
+18
+19
+5. Acquisitions by the University Hospitals Authority. The
+19
+20
+Authority shall develop standards for the acquisition of products
+20
+21
+and services and may elect to utilize the Purchasing Division. The
+21
+22
+standards shall foster economy and short response time and shall
+22
+23
+include appropriate safeguards and record-keeping requirements to
+23
+24
+24
+Req. No. 3057 Page 22
+
+1
+ensure appropriate competition and economical and efficient
+1
+2
+purchasing;
+2
+3
+6. Custom harvesting by the Department of Corrections for the
+3
+4
+Department or its institutions;
+4
+5
+7. Subject to prior approval of the State Purchasing Director,
+5
+6
+acquisitions from private prison suppliers which are subject to the
+6
+7
+contracting procedures of Section 561 of Title 57 of the Oklahoma
+7
+8
+Statutes;
+8
+9
+8. Acquisitions by the Oklahoma Municipal Power Authority;
+9
+10
+9. Acquisitions by the Grand River Dam Authority;
+10
+11
+10. Acquisitions by rural water, sewer, gas or solid waste
+11
+12
+management districts created pursuant to the Rural Water, Sewer, Gas
+12
+13
+and Solid Waste Management Districts Act;
+13
+14
+11. Acquisitions by the Oklahoma Ordnance Works Authority, the
+14
+15
+Northeast Oklahoma Public Facilities Authority or the Midwestern
+15
+16
+Oklahoma Development Authority;
+16
+17
+12. Expenditure of monies appropriated to the State Board of
+17
+18
+Education for local and state-supported financial support of public
+18
+19
+schools, except monies allocated therefrom for the Administrative
+19
+20
+and Support Functions of the State Department of Education;
+20
+21
+13. Expenditure of monies appropriated to the State Department
+21
+22
+of Rehabilitation Services for educational programs or educational
+22
+23
+materials for the Oklahoma School for the Blind and the Oklahoma
+23
+24
+School for the Deaf;
+24
+Req. No. 3057 Page 23
+
+1
+14. Contracts entered into by the Oklahoma Department of Career
+1
+2
+and Technology Education for the development, revision or updating
+2
+3
+of vocational curriculum materials, and contracts entered into by
+3
+4
+the Oklahoma Department of Career and Technology Education for
+4
+5
+training and supportive services that address the needs of new or
+5
+6
+expanding industries;
+6
+7
+15. Contracts entered into by the Oklahoma Center for the
+7
+8
+Advancement of Science and Technology for professional services;
+8
+9
+16. Contracts entered into by the Oklahoma Department of
+9
+10
+Commerce pursuant to the provisions of Section 5066.4 of this title;
+10
+11
+17. Acquisitions made by the Oklahoma Historical Society from
+11
+12
+monies used to administer the White Hair Memorial;
+12
+13
+18. Purchases of pharmaceuticals available through a multistate
+13
+14
+or multigovernmental contract if such pharmaceuticals are or have
+14
+15
+been on state contract within the last fiscal year, and the terms of
+15
+16
+such contract are more favorable to the state or agency than the
+16
+17
+terms of a state contract for the same products, as determined by
+17
+18
+the State Purchasing Director. The state entity designated by law,
+18
+19
+as specified in Section 1010.3 of Title 56 of the Oklahoma Statutes,
+19
+20
+shall participate in the purchase of pharmaceuticals available
+20
+21
+through such contracts;
+21
+22
+19. Contracts for managed health care services entered into by
+22
+23
+the state entity designated by law or the Department of Human
+23
+24
+24
+Req. No. 3057 Page 24
+
+1
+Services, as specified in paragraph 1 of subsection A of Section
+1
+2
+1010.3 of Title 56 of the Oklahoma Statutes;
+2
+3
+20. Acquisitions by a state agency through a General Services
+3
+4
+Administration contract or other federal contract if the
+4
+5
+acquisitions are not on current statewide contract or the terms of
+5
+6
+the federal contract are more favorable to the agency than the terms
+6
+7
+of a statewide contract for the same products;
+7
+8
+21. Acquisitions of clothing for clients of the Department of
+8
+9
+Human Services and acquisitions of food for group homes operated by
+9
+10
+the Department of Human Services;
+10
+11
+22. Acquisitions by the Oklahoma Energy Resources Board;
+11
+12
+23. Acquisitions of clothing for juveniles in the custody of
+12
+13
+the Office of Juvenile Affairs and acquisitions of food for group
+13
+14
+homes operated by the Office of Juvenile Affairs;
+14
+15
+24. State contracts for flexible benefits plans pursuant to the
+15
+16
+Oklahoma State Employees Benefits Act, Section 1361 et seq. of this
+16
+17
+title;
+17
+18
+25. Acquisitions by the Oklahoma Department of Securities to
+18
+19
+investigate, initiate, or pursue administrative, civil or criminal
+19
+20
+proceedings involving potential violations of the acts under the
+20
+21
+Department’s jurisdiction and acquisitions by the Oklahoma
+21
+22
+Department of Securities for its investor education program;
+22
+23
+26. Acquisitions for resale in and through canteens operated
+23
+24
+pursuant to Section 537 of Title 57 of the Oklahoma Statutes and
+24
+Req. No. 3057 Page 25
+
+1
+canteens established at an institution or facility operated by the
+1
+2
+Office of Juvenile Affairs;
+2
+3
+27. Acquisitions by the Oklahoma Boll Weevil Eradication
+3
+4
+Organization for employment and personnel services, and for
+4
+5
+acquiring sprayers, blowers, traps and attractants related to the
+5
+6
+eradication of boll weevils in this state or as part of a national
+6
+7
+or regional boll weevil eradication program;
+7
+8
+28. Contracts entered into by the Oklahoma Indigent Defense
+8
+9
+System for expert services pursuant to the provisions of subsection
+9
+10
+D of Section 1355.4 of Title 22 of the Oklahoma Statutes;
+10
+11
+29. Acquisitions by the Oklahoma Correctional Industries and
+11
+12
+the Agri-Services programs of the Department of Corrections of raw
+12
+13
+materials, component parts and other products, any equipment
+13
+14
+excluding vehicles, and any services excluding computer consultant
+14
+15
+services used to produce goods or services for resale and for the
+15
+16
+production of agricultural products;
+16
+17
+30. Contracts entered into by the Department of Human Services
+17
+18
+for provision of supported living services to members of the
+18
+19
+plaintiff class in Homeward Bound, Inc., et al. v. The Hissom
+19
+20
+Memorial Center, et al., Case Number 85-C-437-E, United States
+20
+21
+District Court for the Northern District of Oklahoma;
+21
+22
+31. Contracts negotiated by the Office of Juvenile Affairs with
+22
+23
+designated Youth Services Agencies and the Oklahoma Association of
+23
+24
+Youth Services, or another Oklahoma nonprofit corporation whose
+24
+Req. No. 3057 Page 26
+
+1
+membership consists solely of Youth Services Agencies and of whom at
+1
+2
+least a majority of Youth Services Agencies are members, pursuant to
+2
+3
+the provisions of Section 2-7-306 of Title 10A of the Oklahoma
+3
+4
+Statutes and contracts entered into by the Department of Human
+4
+5
+Services pursuant to Section 1-9-110 of Title 10A of the Oklahoma
+5
+6
+Statutes with designated Youth Services Agencies;
+6
+7
+32. Contracts for annuities for structured settlements provided
+7
+8
+for in Section 158 of Title 51 of the Oklahoma Statutes;
+8
+9
+33. Subject to subsection E of this section, purchases made
+9
+10
+from funds received by local offices administered by the Department
+10
+11
+of Human Services or administered by the Office of Juvenile Affairs
+11
+12
+for fund-raising activities and donations for the benefit of clients
+12
+13
+and potential clients at the local offices where such purchases may
+13
+14
+not otherwise be paid for from appropriated funds;
+14
+15
+34. Acquisitions by the Oklahoma Historical Society for
+15
+16
+restoration of historical sites and museums although the agency may
+16
+17
+elect to utilize the Purchasing Division for an acquisition with
+17
+18
+supplier and bid selection being the prerogative of the agency,
+18
+19
+based on the supplier’s documented qualifications and experience;
+19
+20
+and
+20
+21
+35. Acquisitions of clothing and food for patients in the care
+21
+22
+of the J.D. McCarty Center for Children with Developmental
+22
+23
+Disabilities; and
+23
+24
+24
+Req. No. 3057 Page 27
+
+1
+36. Purchases of goods and services by the Oklahoma Department
+1
+2
+of Veterans Affairs when such purchases are made exclusively for the
+2
+3
+operation, maintenance, or improvement of State Veterans Homes.
+3
+4
+C. Pursuant to the terms of a contract the State Purchasing
+4
+5
+Director enters into or awards, a state agency, common school,
+5
+6
+municipality, rural fire protection district, county officer or any
+6
+7
+program contract, purchase, acquisition or expenditure that is not
+7
+8
+subject to the provisions of the Oklahoma Central Purchasing Act,
+8
+9
+may, unless acting pursuant to a contract with the state that
+9
+10
+specifies otherwise, make use of statewide contracts and the
+10
+11
+services of the Purchasing Division and the State Purchasing
+11
+12
+Director. Any political subdivision or rural fire protection
+12
+13
+district may designate the State Purchasing Director as its agent
+13
+14
+for any acquisition from a statewide contract or otherwise available
+14
+15
+to the state.
+15
+16
+D. The State Purchasing Director shall review and audit all the
+16
+17
+purchasing procedures of acquisitions listed in subsection B of this
+17
+18
+section to ensure that the procedures are being followed. Nothing
+18
+19
+in this section shall be construed to authorize bid splitting as
+19
+20
+prohibited by the Oklahoma Central Purchasing Act.
+20
+21
+E. With respect to the Department of Human Services or the
+21
+22
+Office of Juvenile Affairs, as applicable, monies received by
+22
+23
+fundraising activities or donations from the local office, vending
+23
+24
+operations administered by employees of the agency and all other
+24
+Req. No. 3057 Page 28
+
+1
+nonrestricted cash and cash-equivalent items received by employees
+1
+2
+of the agency shall be deposited in the agency special account
+2
+3
+established for this purpose. The deposits shall be made at local
+3
+4
+banking institutions approved by the State Treasurer.
+4
+5
+F. With respect to the Oklahoma Tourism and Recreation
+5
+6
+Department, no exemption provided in this section shall be construed
+6
+7
+for the use of leasing or contracting for state-owned restaurants in
+7
+8
+Oklahoma state parks. The Department shall not be required to
+8
+9
+purchase furniture, fixtures, equipment, and soft goods associated
+9
+10
+with decor of the state parks, lodges, golf courses, and tourism
+10
+11
+information centers from Oklahoma prisons or reformatories.
+11
+12
+Additionally, the Department shall not be required to make
+12
+13
+purchases pursuant to a statewide contract for materials, supplies,
+13
+14
+and services necessary for the efficient and economical operation of
+14
+15
+revenue-generating, Department-operated facilities, including those
+15
+16
+made to maintain or improve guest perception of quality and service;
+16
+17
+provided, that the State Purchasing Director shall review and audit
+17
+18
+all uses of the exemptions provided in this subsection biannually.
+18
+19
+SECTION 8. This act shall become effective November 1, 2026.
+19
+20
+20
+21
+60-2-3057 CAD 1/15/2026 12:56:00 PM
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3057 Page 29

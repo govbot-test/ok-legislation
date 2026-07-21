@@ -1,0 +1,664 @@
+Title: 
+Official Title: 
+Source: versions - Proposed Policy Committee Substitute 1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB1242 POLPCS1 TJ Marti-GRS
+4/6/2026 4:45:41 pm
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend SB1242
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: TJ Marti
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED POLICY
+COMMITTEE SUBSTITUTE
+4 FOR ENGROSSED
+SENATE BILL NO. 1242 By: Hamilton of the Senate
+5
+and
+6
+George of the House
+7
+8
+9 PROPOSED POLICY COMMITTEE SUBSTITUTE
+10 An Act relating to medical marijuana; amending 63
+O.S. 2021, Section 427.14, as last amended by Section
+11 2, Chapter 494, O.S.L. 2025 (63 O.S. Supp. 2025,
+Section 427.14), which relates to the Oklahoma
+12 Medical Marijuana and Patient Protection Act;
+deleting requirement for posting certain bond;
+13 requiring certain licensees to submit a land
+reclamation fee; providing fee amount; providing an
+14 exemption; requiring the examination of certain land
+ownership documents; defining term; directing the
+15 Oklahoma Medical Marijuana Authority to provide
+certain notice to law enforcement agencies; creating
+16 the Oklahoma Medical Marijuana Land Reclamation
+Revolving Fund; stating purpose of fund; making
+17 appropriations to the fund; providing for
+expenditures; repealing Section 2, Chapter 41, O.S.L.
+18 2023 (63 O.S. Supp. 2025, Section 427.26), which
+relates to bond requirement for medical marijuana
+19 commercial growers; providing for codification; and
+providing an effective date.
+20
+21
+22
+23 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+24
+Req. No. 17273 Page 1
+
+1 SECTION 1. AMENDATORY 63 O.S. 2021, Section 427.14, as
+2 last amended by Section 2, Chapter 494, O.S.L. 2025 (63 O.S. Supp.
+3 2025, Section 427.14), is amended to read as follows:
+4 Section 427.14. A. There is hereby created the medical
+5 marijuana business license, which shall include the following
+6 categories:
+7 1. Medical marijuana commercial grower;
+8 2. Medical marijuana processor;
+9 3. Medical marijuana dispensary;
+10 4. Medical marijuana transporter; and
+11 5. Medical marijuana testing laboratory.
+12 B. The Oklahoma Medical Marijuana Authority, with the aid of
+13 the Office of Management and Enterprise Services, shall develop a
+14 website for medical marijuana business applications.
+15 C. The Authority shall make available on its website, in an
+16 easy-to-find location, applications for a medical marijuana
+17 business.
+18 D. 1. The annual, nonrefundable fee for a medical marijuana
+19 transporter license shall be Two Thousand Five Hundred Dollars
+20 ($2,500.00).
+21 2. The initial, nonrefundable fee for a medical marijuana
+22 commercial grower license shall be calculated based upon the total
+23 amount of square feet of canopy or acres the grower estimates will
+24 be harvested, transferred, or sold for the year. The annual,
+Req. No. 17273 Page 2
+
+1 nonr efundable license fee shall be based upon the total amount of
+2 square feet of canopy or acres harvested, transferred, or sold by
+3 the grower during the previous twelve (12) months. The amount of
+4 the fees shall be determined as follows:
+5 a. For an indoor, greenhouse, or light deprivation
+6 medical marijuana grow facility:
+7 (1) Tier 1: Up to ten thousand (10,000) square feet
+8 of canopy, the fee shall be Two Thousand Five
+9 Hundred Dollars ($2,500.00),
+10 (2) Tier 2: Ten thousand one (10,001) square feet of
+11 canopy to twenty thousand (20,000) square feet of
+12 canopy, the fee shall be Five Thousand Dollars
+13 ($5,000.00),
+14 (3) Tier 3: Twenty thousand one (20,001) square feet
+15 of canopy to forty thousand (40,000) square feet
+16 of canopy, the fee shall be Ten Thousand Dollars
+17 ($10,000.00),
+18 (4) Tier 4: Forty thousand one (40,001) square feet
+19 of canopy to sixty thousand (60,000) square feet
+20 of canopy, the fee shall be Twenty Thousand
+21 Dollars ($20,000.00),
+22 (5) Tier 5: Sixty thousand one (60,001) square feet
+23 of canopy to eighty thousand (80,000) square feet
+24
+Req. No. 17273 Page 3
+
+1 of canopy, the fee shall be Thirty Thousand
+2 Dollars ($30,000.00),
+3 (6) Tier 6: Eighty thousand one (80,001) square feet
+4 of canopy to ninety-nine thousand nine hundred
+5 ninety-nine (99,999) square feet of canopy, the
+6 fee shall be Forty Thousand Dollars ($40,000.00),
+7 and
+8 (7) Tier 7: One hundred thousand (100,000) square
+9 feet of canopy and beyond, the fee shall be Fifty
+10 Thousand Dollars ($50,000.00), plus an additional
+11 twenty-five cents ($0.25) per square foot of
+12 canopy over one hundred thousand (100,000) square
+13 feet.
+14 b. For an outdoor medical marijuana grow facility:
+15 (1) Tier 1: Less than two and one-half (2 1/2)
+16 acres, the fee shall be Two Thousand Five Hundred
+17 Dollars ($2,500.00),
+18 (2) Tier 2: More than two and one-half (2 1/2) acres
+19 up to five (5) acres, the fee shall be Five
+20 Thousand Dollars ($5,000.00),
+21 (3) Tier 3: More than five (5) acres up to ten (10)
+22 acres, the fee shall be Ten Thousand Dollars
+23 ($10,000.00),
+24
+Req. No. 17273 Page 4
+
+1 (4) Tier 4: More than ten (10) acres up to twenty
+2 (20) acres, the fee shall be Twenty Thousand
+3 Dollars ($20,000.00),
+4 (5) Tier 5: More than twenty (20) acres up to thirty
+5 (30) acres, the fee shall be Thirty Thousand
+6 Dollars ($30,000.00),
+7 (6) Tier 6: More than thirty (30) acres up to forty
+8 (40) acres, the fee shall be Forty Thousand
+9 Dollars ($40,000.00),
+10 (7) Tier 7: More than forty (40) acres up to fifty
+11 (50) acres, the fee shall be Fifty Thousand
+12 Dollars ($50,000.00), and
+13 (8) Tier 8: If the amount of acreage exceeds fifty
+14 (50) acres, the fee shall be Fifty Thousand
+15 Dollars ($50,000.00) plus an additional Two
+16 Hundred Fifty Dollars ($250.00) per acre.
+17 c. For a medical marijuana commercial grower that has a
+18 combination of both indoor and outdoor growing
+19 facilities at one location, the medical marijuana
+20 commercial grower shall be required to obtain a
+21 separate license from the Authority for each type of
+22 grow operation and shall be subject to the licensing
+23 fees provided for in subparagraphs a and b of this
+24 paragraph.
+Req. No. 17273 Page 5
+
+1 d. As used in this paragraph:
+2 (1) "canopy" means the total surface area within a
+3 cultivation area that is dedicated to the
+4 cultivation of flowering marijuana plants. The
+5 surface area of the plant canopy must be
+6 calculated in square feet and measured and must
+7 include all of the area within the boundaries
+8 where the cultivation of the flowering marijuana
+9 plants occurs. If the surface of the plant
+10 canopy consists of noncontiguous areas, each
+11 component area must be separated by identifiable
+12 boundaries. If a tiered or shelving system is
+13 used in the cultivation area, the surface area of
+14 each tier or shelf must be included in
+15 calculating the area of the plant canopy.
+16 Calculation of the area of the plant canopy may
+17 not include the areas within the cultivation area
+18 that are used to cultivate immature marijuana
+19 plants and seedlings, prior to flowering, and
+20 that are not used at any time to cultivate mature
+21 marijuana plants. If the flowering plants are
+22 vertically grown in cylinders, the square footage
+23 of the canopy shall be measured by the
+24
+Req. No. 17273 Page 6
+
+1 circumference of the cylinder multiplied by the
+2 total length of the cylinder,
+3 (2) "greenhouse" means a structure located outdoors
+4 that is completely covered by a material that
+5 allows a controlled level of light transmission,
+6 and
+7 (3) "light deprivation" means a structure that has
+8 concrete floors and the ability to manipulate
+9 natural light.
+10 3. The initial, nonrefundable fee for a medical marijuana
+11 processor license shall be Two Thousand Five Hundred Dollars
+12 ($2,500.00). The annual, nonrefundable license fee for a medical
+13 marijuana processor license shall be determined based on the
+14 previous twelve (12) months as follows:
+15 a. Tier 1: The transfer or sale of zero (0) to ten
+16 thousand (10,000) pounds of biomass or the production,
+17 transfer, or sale of up to one hundred (100) liters of
+18 cannabis concentrate, whichever is greater, the annual
+19 fee shall be Two Thousand Five Hundred Dollars
+20 ($2,500.00),
+21 b. Tier 2: The transfer or sale of ten thousand one
+22 (10,001) pounds to fifty thousand (50,000) pounds of
+23 biomass or the production, transfer, or sale of one
+24 hundred one (101) to three hundred fifty (350) liters
+Req. No. 17273 Page 7
+
+1 of cannabis concentrate, whichever is greater, the
+2 annual fee shall be Five Thousand Dollars ($5,000.00),
+3 c. Tier 3: The transfer or sale of fifty thousand one
+4 (50,001) pounds to one hundred fifty thousand
+5 (150,000) pounds of biomass or the production,
+6 transfer, or sale of three hundred fifty-one (351) to
+7 six hundred fifty (650) liters of cannabis
+8 concentrate, whichever is greater, the annual fee
+9 shall be Ten Thousand Dollars ($10,000.00),
+10 d. Tier 4: The transfer or sale of one hundred fifty
+11 thousand one (150,001) pounds to three hundred
+12 thousand (300,000) pounds of biomass or the
+13 production, transfer, or sale of six hundred fifty-one
+14 (651) to one thousand (1,000) liters of cannabis
+15 concentrate, whichever is greater, the annual fee
+16 shall be Fifteen Thousand Dollars ($15,000.00), and
+17 e. Tier 5: The transfer or sale of more than three
+18 hundred thousand one (300,001) pounds of biomass or
+19 the production, transfer, or sale in excess of one
+20 thousand one (1,001) liters of cannabis concentrate,
+21 the annual fee shall be Twenty Thousand Dollars
+22 ($20,000.00).
+23 For purposes of this paragraph only, if the cannabis concentrate
+24 is in nonliquid form, every one thousand (1,000) grams of
+Req. No. 17273 Page 8
+
+1 conc entrated marijuana shall be calculated as one (1) liter of
+2 cannabis concentrate.
+3 4. The initial, nonrefundable fee for a medical marijuana
+4 dispensary license shall be Two Thousand Five Hundred Dollars
+5 ($2,500.00). The annual, nonrefundable license fee for a medical
+6 marijuana dispensary license shall be calculated at ten percent
+7 (10%) of the sum of twelve (12) calendar months of the combined
+8 annual state sales tax and state excise tax of the dispensary during
+9 the previous twelve (12) months. The minimum fee shall be not less
+10 than Two Thousand Five Hundred Dollars ($2,500.00) and the maximum
+11 fee shall not exceed Ten Thousand Dollars ($10,000.00).
+12 5. The annual, nonrefundable license fee for a medical
+13 marijuana testing laboratory shall be Twenty Thousand Dollars
+14 ($20,000.00).
+15 E. All applicants seeking licensure or licensure renewal as a
+16 medical marijuana business shall comply with the following general
+17 requirements:
+18 1. All applications for licenses and registrations authorized
+19 pursuant to this section shall be made upon forms prescribed by the
+20 Authority;
+21 2. Each application shall identify the city or county in which
+22 the applicant seeks to obtain licensure as a medical marijuana
+23 business;
+24
+Req. No. 17273 Page 9
+
+1 3. Applicants shall submit a complete application to the
+2 Authority before the application may be accepted or considered;
+3 4. All applications shall be complete and accurate in every
+4 detail;
+5 5. All applications shall include all attachments or
+6 supplemental information required by the forms supplied by the
+7 Authority;
+8 6. All applications for a transporter license, initial
+9 dispensary license, initial processor license, or laboratory license
+10 shall be accompanied by a full remittance for the whole amount of
+11 the license fee as set forth in subsection D of this section. All
+12 submissions of grower applications, renewal processor applications,
+13 and renewal dispensary applications shall be accompanied by a
+14 remittance of a fee of Two Thousand Five Hundred Dollars
+15 ($2,500.00). The Authority shall invoice license applicants, if
+16 applicable, and notify applicants in the same method and manner as
+17 the application was submitted to the Authority for any additional
+18 licensing fees owed pursuant to subsection D of this section prior
+19 to approval of a license application. Applicants and licensees
+20 shall remit all required license and application fees, including any
+21 additional licensing fees, if applicable, in full within forty-five
+22 (45) days of notification by the Authority. Failure to remit such
+23 fees shall result in the denial of the application. License fees
+24 are nonrefundable;
+Req. No. 17273 Page 10
+
+1 7. All applicants shall be approved for licensing review that,
+2 at a minimum, meet the following criteria:
+3 a. twenty-five (25) years of age or older,
+4 b. if applying as an individual, proof that the applicant
+5 is a resident of this state pursuant to paragraph 12
+6 of this subsection,
+7 c. if applying as an entity, proof that seventy-five
+8 percent (75%) of all members, managers, executive
+9 officers, partners, board members or any other form of
+10 business ownership are residents of this state
+11 pursuant to paragraph 12 of this subsection,
+12 d. if applying as an individual or entity, proof that the
+13 individual or entity is registered to conduct business
+14 in this state,
+15 e. disclosure of all ownership interests pursuant to the
+16 Oklahoma Medical Marijuana and Patient Protection Act,
+17 and
+18 f. proof that the medical marijuana business, medical
+19 marijuana research facility, medical marijuana
+20 education facility and medical marijuana waste
+21 disposal facility applicant or licensee has not been
+22 convicted of a nonviolent felony in the last two (2)
+23 years, or any other felony conviction within the last
+24 five (5) years, is not a current inmate in the custody
+Req. No. 17273 Page 11
+
+1 of the Department of Corrections, or currently
+2 incarcerated in a jail or corrections facility.
+3 Upon reasonable suspicion that a medical marijuana business licensee
+4 is illegally growing, processing, transferring, selling, disposing,
+5 or diverting marijuana, the Authority, the Oklahoma State Bureau of
+6 Narcotics and Dangerous Drugs Control, the Oklahoma State Bureau of
+7 Investigation (OSBI), or the Attorney General may subpoena documents
+8 necessary to establish the personal identifying information of all
+9 owners and individuals with any ownership interest in the business;
+10 8. There shall be no limit to the number of medical marijuana
+11 business licenses or categories that an individual or entity can
+12 apply for or receive, although each application and each category
+13 shall require a separate application, application fee, or license
+14 fee. A commercial grower, processor and dispensary, or any
+15 combination thereof, are authorized to share the same address or
+16 physical location, subject to the restrictions set forth in the
+17 Oklahoma Medical Marijuana and Patient Protection Act;
+18 9. No medical marijuana business premises is permitted to have
+19 multiple licenses of the same type pursuant to the licensing
+20 requirements of this section, excluding the following:
+21 a. a commercial grower with a combination of an indoor or
+22 outdoor growing facility on one parcel of land,
+23 b. a licensed medical marijuana processor used by
+24 multiple licensees, and
+Req. No. 17273 Page 12
+
+1 c. a licensed medical marijuana business that has an
+2 approved application by the Authority while the new
+3 business seeks registration from the Oklahoma State
+4 Bureau of Narcotics and Dangerous Drugs Control
+5 pursuant to Section 427.14c of this title;
+6 10. All applicants for a medical marijuana business license,
+7 research facility license or education facility license authorized
+8 by the Oklahoma Medical Marijuana and Patient Protection Act, or for
+9 a renewal of such license, shall undergo a national fingerprint-
+10 based background check conducted by the Oklahoma State Bureau of
+11 Investigation within thirty (30) days prior to the application for
+12 the license, including:
+13 a. individual applicants applying on their own behalf,
+14 b. individuals applying on behalf of an entity,
+15 c. all principal officers of an entity, and
+16 d. all owners of an entity as defined by the Oklahoma
+17 Medical Marijuana and Patient Protection Act;
+18 11. All applicable fees charged by the OSBI are the
+19 responsibility of the applicant and shall not be higher than fees
+20 charged to any other person or industry for such background checks;
+21 12. In order to be considered a resident of this state for
+22 purposes of a medical marijuana business application, all applicants
+23 shall provide proof of state residency for at least two (2) years
+24 immediately preceding the date of application or five (5) years of
+Req. No. 17273 Page 13
+
+1 cont inuous state residency during the preceding twenty-five (25)
+2 years immediately preceding the date of application. Sufficient
+3 documentation of proof of residency shall include a combination of
+4 the following:
+5 a. an unexpired state-issued driver license,
+6 b. a state-issued identification card,
+7 c. a utility bill preceding the date of application,
+8 excluding cellular telephone and Internet bills,
+9 d. a residential property deed to property in this state,
+10 and
+11 e. a rental agreement preceding the date of application
+12 for residential property located in this state.
+13 Applicants that were issued a medical marijuana business license
+14 prior to August 30, 2019, are hereby exempt from the two-year or
+15 five-year Oklahoma residence requirement mentioned above;
+16 13. All license applicants shall be required to submit a
+17 registration with the Oklahoma State Bureau of Narcotics and
+18 Dangerous Drugs Control as provided in Sections 2-301 through 2-309
+19 of this title;
+20 14. All applicants shall establish their identity through
+21 submission of a color copy or digital image of one of the following
+22 unexpired documents:
+23 a. front of a state-issued driver license,
+24 b. front of a state-issued identification card,
+Req. No. 17273 Page 14
+
+1 c. a United States passport or other photo identification
+2 issued by the United States government, or
+3 d. a tribal identification card approved for
+4 identification purposes by the Department of Public
+5 Safety;
+6 15. All applicants shall submit an applicant photograph; and
+7 16. All applicants for a medical marijuana business license
+8 seeking to operate a commercial growing operation shall file submit,
+9 along with their application, a bond as prescribed in Section 427.26
+10 of this title land reclamation fee in the amount of Two Thousand
+11 Dollars ($2,000.00). Submission and payment of the land reclamation
+12 fee by the applicant shall not be required if, upon verification by
+13 the Authority, the land upon which the applicant intends to conduct
+14 commercial growing operations has been owned by the applicant or a
+15 first degree relative of the applicant for a minimum of five (5)
+16 years prior to submission of said application. The Authority shall
+17 verify that the person submitting the application is the same
+18 identical person or a first degree relative of the person who is the
+19 owner of the land. Land ownership shall be verified by examining
+20 recorded property deeds, property tax records, title insurance, or
+21 mortgage statements. As used in this paragraph, "first degree
+22 relative" includes a mother, father, spouse, son, or daughter.
+23 F. The Authority shall review the medical marijuana business
+24 application; approve, reject, or deny the application; and send the
+Req. No. 17273 Page 15
+
+1 appr oval, rejection, denial, or status-update letter to the
+2 applicant in the same method the application was submitted to the
+3 Authority within ninety (90) business days of receipt of the
+4 application.
+5 G. 1. The Authority shall review the medical marijuana
+6 business applications, conduct all investigations, inspections, and
+7 interviews, and collect all license and application fees before
+8 approving the application.
+9 2. Approved applicants shall be issued a medical marijuana
+10 business license for the specific category applied under, which
+11 shall act as proof of their approved status. Rejection and denial
+12 letters shall provide a reason for the rejection or denial.
+13 Applications may only be rejected or denied based on the applicant
+14 not meeting the standards set forth in the provisions of the
+15 Oklahoma Medical Marijuana and Patient Protection Act and Sections
+16 420 through 427.28 of this title, improper completion of the
+17 application, unpaid license or application fees, or for a reason
+18 provided for in the Oklahoma Medical Marijuana and Patient
+19 Protection Act and Sections 420 through 427.28 of this title. If an
+20 application is rejected for failure to provide required information,
+21 the applicant shall have thirty (30) days to submit the required
+22 information for reconsideration. Unless the Authority determines
+23 otherwise, an application that has been resubmitted but is still
+24
+Req. No. 17273 Page 16
+
+1 inco mplete or contains errors that are not clerical or typographical
+2 in nature shall be denied.
+3 3. Status-update letters shall provide a reason for delay in
+4 either approval, rejection or denial should a situation arise in
+5 which an application was submitted properly but a delay in
+6 processing the application occurred.
+7 4. Approval, rejection, denial or status-update letters shall
+8 be sent to the applicant in the same method the application was
+9 submitted to the Authority.
+10 H. A license for a medical marijuana business, medical
+11 marijuana research facility, medical marijuana education facility or
+12 medical marijuana waste disposal facility shall not be issued to or
+13 held by:
+14 1. A person until all required fees have been paid;
+15 2. A person who has been convicted of a nonviolent felony
+16 within two (2) years of the date of application, or within five (5)
+17 years for any other felony;
+18 3. A corporation, if the criminal history of any of its
+19 officers, directors or stockholders indicates that the officer,
+20 director or stockholder has been convicted of a nonviolent felony
+21 within two (2) years of the date of application, or within five (5)
+22 years for any other felony;
+23 4. A person under twenty-five (25) years of age;
+24
+Req. No. 17273 Page 17
+
+1 5. A person licensed pursuant to this section who, during a
+2 period of licensure, or who, at the time of application, has failed
+3 to:
+4 a. file taxes, interest or penalties due related to a
+5 medical marijuana business, or
+6 b. pay taxes, interest or penalties due related to a
+7 medical marijuana business;
+8 6. A sheriff, deputy sheriff, police officer or prosecuting
+9 officer, or an officer or employee of the Authority or municipality;
+10 7. A person whose authority to be a caregiver, as defined in
+11 Section 427.2 of this title, has been revoked by the Authority; or
+12 8. A person who was involved in the management or operations of
+13 any medical marijuana business, medical marijuana research facility,
+14 medical marijuana education facility or medical marijuana waste
+15 disposal facility that, after the initiation of a disciplinary
+16 action, has had a medical marijuana license revoked, not renewed, or
+17 surrendered during the five (5) years preceding submission of the
+18 application and for the following violations:
+19 a. unlawful sales or purchases,
+20 b. any fraudulent acts, falsification of records or
+21 misrepresentation to the Authority, medical marijuana
+22 patient licensees, caregiver licensees or medical
+23 marijuana business licensees,
+24 c. any grossly inaccurate or fraudulent reporting,
+Req. No. 17273 Page 18
+
+1 d. threatening or harming any medical marijuana patient,
+2 caregiver, medical practitioner or employee of the
+3 Authority,
+4 e. knowingly or intentionally refusing to permit the
+5 Authority access to premises or records,
+6 f. using a prohibited, hazardous substance for processing
+7 in a residential area,
+8 g. criminal acts relating to the operation of a medical
+9 marijuana business, or
+10 h. any violations that endanger public health and safety
+11 or product safety.
+12 I. In investigating the qualifications of an applicant or a
+13 licensee, the Authority and municipalities may have access to
+14 criminal history record information furnished by a criminal justice
+15 agency subject to any restrictions imposed by such an agency.
+16 J. The failure of an applicant or licensee to provide the
+17 requested information by the Authority deadline may be grounds for
+18 denial of the application.
+19 K. All applicants and licensees shall submit information to the
+20 Authority in a full, faithful, truthful and fair manner. The
+21 Authority may recommend denial of an application where the applicant
+22 or licensee made misstatements, omissions, misrepresentations or
+23 untruths in the application or in connection with the background
+24 investigation of the applicant. This type of conduct may be grounds
+Req. No. 17273 Page 19
+
+1 for administrative action against the applicant or licensee. Typos
+2 and scrivener errors shall not be grounds for denial.
+3 L. A licensed medical marijuana business premises shall be
+4 subject to and responsible for compliance with applicable provisions
+5 consistent with the zoning where such business is located as
+6 described in the most recent versions of the Oklahoma Uniform
+7 Building Code, the International Building Code and the International
+8 Fire Code, unless granted an exemption by a municipality or
+9 appropriate code enforcement entity.
+10 M. All medical marijuana business, medical marijuana research
+11 facility, medical marijuana education facility and medical marijuana
+12 waste disposal facility licensees shall pay the relevant licensure
+13 fees prior to receiving licensure to operate. Applicants and
+14 licensees shall remit all required license and application fees,
+15 including any additional licensing fees, if applicable, in full
+16 within forty-five (45) days of notification by the Authority.
+17 Failure to remit such fees shall result in the denial of the
+18 application.
+19 N. A medical marijuana business, medical marijuana research
+20 facility, medical marijuana education facility or medical marijuana
+21 waste disposal facility that attempts to renew its license after the
+22 expiration date of the license shall pay a late renewal fee of Five
+23 Hundred Dollars ($500.00) per week that the license is expired.
+24 Late renewal fees are nonrefundable. A license that has been
+Req. No. 17273 Page 20
+
+1 expi red for more than sixty (60) calendar days shall not be renewed.
+2 Only license renewal applications submitted at least sixty (60)
+3 calendar days prior to the expiration date shall be considered
+4 timely submitted and subject to the provisions of subsection F of
+5 this section. A medical marijuana business license shall remain
+6 unexpired during the pendency of the application for renewal
+7 provided that such application was timely submitted. The Authority
+8 shall allow renewal applications to be submitted at least one
+9 hundred twenty (120) calendar days prior to the expiration date of a
+10 medical marijuana business license.
+11 O. 1. Except as provided by this section, immediately upon
+12 expiration of a license, any medical marijuana business, medical
+13 marijuana research facility, medical marijuana education facility,
+14 or medical marijuana waste disposal facility shall cease all
+15 possession, transfer, or sale of medical marijuana or medical
+16 marijuana products. Any continued possession, sale, or transfer
+17 shall subject the business owners and operators to felony
+18 prosecution pursuant to the Uniform Controlled Dangerous Substances
+19 Act.
+20 2. Upon the expiration or revocation of a medical marijuana
+21 business license or a determination that the business license is no
+22 longer in good standing, the Authority shall provide notice to all
+23 law enforcement agencies in the jurisdiction of the medical
+24
+Req. No. 17273 Page 21
+
+1 mari juana business that the business license has expired, been
+2 revoked, or is no longer in good standing.
+3 P. A medical marijuana business license holder shall require
+4 all individuals employed under his or her license to be issued a
+5 credential pursuant to the provisions of Section 427.14b of this
+6 title prior to employment.
+7 Q. An original medical marijuana business license issued on or
+8 after June 26, 2018, by the Authority, for a medical marijuana
+9 commercial grower, a medical marijuana processor or a medical
+10 marijuana dispensary shall be deemed to have been grandfathered into
+11 the location on the date the original license was first issued for
+12 purposes of determining the authority of the business to conduct and
+13 continue the same type of business at that location under a license
+14 issued by the Authority, except as may be provided in Sections 425
+15 and 426.1 of this title. Any change in ownership after the original
+16 medical marijuana business license has been issued by the Authority
+17 shall be construed by the Authority to be a continuation of the same
+18 type of business originally licensed at that location. Nothing
+19 shall authorize the Authority to deny issuance or renewal of a
+20 license or transfer of license due to a change in ownership for the
+21 same business location previously licensed, except when a revocation
+22 is otherwise authorized by law or a protest is made under the
+23 municipal compliance provisions of Section 426.1 of this title.
+24
+Req. No. 17273 Page 22
+
+1 R. A medical marijuana business license holder shall require
+2 all individuals employed under their license to be issued a
+3 credential pursuant to the provisions of Section 427.14b of this
+4 title prior to employment.
+5 S. The Executive Director of the Authority may promulgate rules
+6 to implement the provisions of this section including, but not
+7 limited to, required application materials to be submitted by the
+8 applicant and utilized by the Authority to determine medical
+9 marijuana business licensing fees pursuant to this section.
+10 SECTION 2. NEW LAW A new section of law to be codified
+11 in the Oklahoma Statutes as Section 427.5b of Title 63, unless there
+12 is created a duplication in numbering, reads as follows:
+13 There is hereby created in the State Treasury a revolving fund
+14 for the Oklahoma Medical Marijuana Authority to be designated the
+15 “Oklahoma Medical Marijuana Land Reclamation Revolving Fund”. The
+16 fund shall be a continuing fund, not subject to fiscal year
+17 limitations, and shall consist of all monies received by the
+18 Authority from land reclamation fees collected pursuant to the
+19 Oklahoma Medical Marijuana and Patient Protection Act. All monies
+20 accruing to the credit of the fund are hereby appropriated and may
+21 be budgeted and expended by the Oklahoma Medical Marijuana Authority
+22 for the purposes provided for in this section. Expenditures from
+23 the fund shall be made upon warrants issued by the State Treasurer
+24 against claims filed as prescribed by law with the Director of the
+Req. No. 17273 Page 23
+
+1 Offi ce of Management and Enterprise Services for approval and
+2 payment. Up to Five Million Dollars ($5,000,000.00) of the funds
+3 received by and credited to the fund may be used and expended by the
+4 Oklahoma Medical Marijuana Authority for environmental remediation
+5 and redevelopment projects. Any remaining funds shall be deposited
+6 in the General Revenue Fund of the State Treasury.
+7 SECTION 3. REPEALER Section 2, Chapter 41, O.S.L. 2023
+8 (63 O.S. Supp. 2025, Section 427.26), is hereby repealed.
+9 SECTION 4. This act shall become effective November 1, 2026.
+10
+11 60-2-17273 GRS 04/06/26
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 17273 Page 24

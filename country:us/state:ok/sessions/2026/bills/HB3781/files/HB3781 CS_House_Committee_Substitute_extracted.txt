@@ -1,0 +1,519 @@
+Title: 
+Official Title: 
+Source: versions - House Committee Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 COMMITTEE SUBSTITUTE
+FOR
+4 HOUSE BILL NO. 3781 By: Adams
+5
+6
+7 COMMITTEE SUBSTITUTE
+8 An Act relating to insurance; amending 36 O.S. 2021,
+Section 981, which relates to the purpose of the
+9 Property and Casualty Competitive Loss Cost Rating
+Act; modifying purpose; amending 36 O.S. 2021,
+10 Section 982, which relates to definitions used in the
+Property and Casualty Competitive Loss Cost Rating
+11 Act; modifying definitions; amending 36 O.S.
+2021,Section 985, which relates to ratemaking
+12 standards; establishing that a rate may be excessive
+if unreasonably high for insurance provided or in
+13 relation to services rendered; prohibiting
+discrimination on the basis of religion; amending 36
+14 O.S. 2021, Section 986, which relates to rate
+administration; modifying applicability; amending 36
+15 O.S. 2021, Section 987, which relates to rate
+filings; requiring insurers in a competitive market
+16 to file rates sixty days before effective date;
+amending 36 O.S. 2021, Section 989, which relates to
+17 improper rates, disapproval, and hearing; modifying
+basis for disapproval; requiring notice and
+18 opportunity for hearing; amending 36 O.S. 2021,
+Section 994, which relates to advisory organizations
+19 and filing requirements; permitting the Commissioner
+to provide written notice of additional time needed
+20 to consider filings; amending 36 O.S. 2021, Section
+995, as amended by Section 1, Chapter 304, O.S.L.
+21 2022 (36 O.S. Supp. 2025, Section 995), which relates
+to joint underwriting, joint reinsurance pool, and
+22 residual market activities; directing the
+Commissioner to issue a certain written order;
+23 repealing 36 O.S. 2021, Section 984, which relates to
+ratemaking standards; repealing 36 O.S. 2021, Section
+24 985.1, which relates to rates and determination that
+Req. No. 17060 Page 1
+
+1 competition does not exist; and providing an
+effective date.
+2
+3
+4
+5 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+6 SECTION 1. AMENDATORY 36 O.S. 2021, Section 981, is
+7 amended to read as follows:
+8 Section 981. Short Title and Purposes of Act.
+9 A. Sections 981 through 998 of this title and Sections 22, 23
+10 and 24 of this act shall constitute a part of the Oklahoma Insurance
+11 Code and shall be known and may be cited as the "Property and
+12 Casualty Competitive Loss Cost Rating Act".
+13 B. The purposes of the Property and Casualty Competitive Loss
+14 Cost Rating Act are:
+15 1. To promote price competition among insurers so as to provide
+16 rates that are responsive to competitive market conditions;
+17 2. To protect policyholders and the public against the adverse
+18 effects of excessive, inadequate or unfairly discriminatory rates;
+19 3. To prohibit unlawful price-fixing agreements and other
+20 anticompetitive behavior by insurers;
+21 4. To provide regulatory procedures for the maintenance of
+22 appropriate data reporting systems;
+23 5. To provide regulatory controls in the absence of a
+24 competitive marketplace; and
+Req. No. 17060 Page 2
+
+1 6. To authorize essential cooperative action among insurers in
+2 the ratemaking process and to regulate such activity to prevent
+3 practices that substantially lessen competition or create a
+4 monopoly.
+5 SECTION 2. AMENDATORY 36 O.S. 2021, Section 982, is
+6 amended to read as follows:
+7 Section 982. Definitions.
+8 As used in the Property and Casualty Competitive Loss Cost
+9 Rating Act:
+10 1. "Accepted actuarial standards" means the standards adopted
+11 by the Casualty Actuarial Society Statement of Principles regarding
+12 property and casualty ratemaking or the Standards of Practice
+13 adopted by the Actuarial Standards Board;
+14 2. "Advisory organization" means any corporation,
+15 unincorporated association, partnership or person, whether located
+16 inside or outside this state, that is licensed in accordance with
+17 Section 1140 of this title and which assists insurers in ratemaking-
+18 related activities such as enumerated in Section 1142 of this title;
+19 3. "Classification system" or "classification" means the
+20 process of grouping risks with similar risk characteristics so that
+21 differences in costs may be recognized;
+22 4. "Commercial risk" means any kind of risk that is not a
+23 personal risk;
+24
+Req. No. 17060 Page 3
+
+1 5. "Commissioner" means the Commissioner of Insurance of this
+2 state;
+3 6. "Competitive market" means a market which has not been found
+4 to be noncompetitive pursuant to Section 984 of this title;
+5 7. "Developed losses" means losses, including loss adjustment
+6 expenses, adjusted using accepted actuarial standards, to eliminate
+7 the effect of differences between current payment or reserve
+8 estimates and those which are anticipated to provide actual ultimate
+9 loss, including loss adjustment expense payments;
+10 8. 7. "Expenses" means that portion of a rate attributable to
+11 acquisition, field supervision, collection expenses, general
+12 expenses, taxes, licenses and fees;
+13 9. 8. "Experience rating" means a rating procedure utilizing
+14 past insurance experience of the individual policyholder to forecast
+15 future losses by measuring the policyholder’s loss experience
+16 against the loss experience of policyholders in the same
+17 classification to produce a prospective premium credit, debit or
+18 unity modification;
+19 10. 9. "Joint underwriting" means a voluntary arrangement
+20 established to provide insurance coverage for a risk pursuant to
+21 which two or more insurers jointly contract with the insured at a
+22 price and under policy terms agreed upon between the insurers;
+23 11. 10. "Loss adjustment expense" means the expenses incurred
+24 by the insurer in the course of settling claims;
+Req. No. 17060 Page 4
+
+1 12. 11. "Market" means the statewide interaction between buyers
+2 and sellers of identical or readily substitutable products that
+3 provide insurance protection of identifiable perils to buyers;
+4 13. 12. "Mass marketed plan" means a method of selling
+5 property-liability insurance wherein the insurance is offered to
+6 employees of particular employers or to members of particular
+7 associations or organizations or to persons grouped in other ways,
+8 and the employer or association or other organization has agreed to,
+9 or otherwise affiliated itself with, the sale of such insurance to
+10 its employees or members;
+11 14. "Noncompetitive market" means a market for which there is a
+12 ruling in effect pursuant to Section 984 of this title that a
+13 reasonable degree of competition does not exist;
+14 15. 13. "Personal risk" means homeowners, tenants, private
+15 passenger nonfleet automobiles, manufactured homes and other
+16 property and casualty insurance for personal, family or household
+17 needs, including any property and casualty insurance that is
+18 otherwise intended for noncommercial coverage;
+19 16. 14. "Pool" means a voluntary arrangement, established on an
+20 ongoing basis, pursuant to which two or more insurers participate in
+21 the sharing of risks on a predetermined basis. The pool may operate
+22 through an association, syndicate or other pooling agreement;
+23 17. 15. "Prospective loss costs" means historical aggregate
+24 losses and may include loss adjustment expenses, including all
+Req. No. 17060 Page 5
+
+1 asse ssments that are loss based, projected through development to
+2 their ultimate value and through trending to a future point in time;
+3 18. 16. "Pure premium rate" means that portion of the rate
+4 which represents the loss costs per unit of exposure including loss
+5 adjustment expense;
+6 19. 17. "Rate" or "rates" means that cost of insurance per
+7 exposure unit whether expressed as a single number or as a
+8 prospective loss cost with an adjustment to account for the
+9 treatment of expenses, profit, and individual insurer variation in
+10 loss experience, prior to any application of individual risk
+11 variations based on loss or expense considerations, and does not
+12 include minimum premium;
+13 20. 18. "Residual market mechanism" means an arrangement,
+14 either voluntary or mandated by law, involving participation by
+15 insurers in the equitable apportionment among them of insurance
+16 which may be afforded applicants who are unable to obtain insurance
+17 through ordinary methods;
+18 21. 19. "Special assessments" means guaranty fund assessments,
+19 Special Indemnity Fund assessments, Vocational Rehabilitation Fund
+20 assessments, and other similar assessments. Special assessments
+21 shall not be considered as either expenses or losses;
+22 22. 20. "Statistical plan" means the plan, system or
+23 arrangement used in collecting data;
+24
+Req. No. 17060 Page 6
+
+1 23. 21. "Supplementary rating information" means any manual or
+2 plan of rates, classification, rating schedule, minimum premium,
+3 policy fee rating rule and any other information needed to determine
+4 the applicable premium in effect or to be in effect. This includes,
+5 rating plans, territory codes and descriptions and rules which
+6 include factors or relativities such as increased limits factors,
+7 deductible discounts or relativities, classification relativities or
+8 similar factors used to determine the rate in effect or to be in
+9 effect;
+10 24. 22. "Supporting information" means the experience and
+11 judgment of the filer and the experience or data of other insurers
+12 or advisory organizations relied upon by the filer, the
+13 interpretation of any other data relied upon by the filer,
+14 descriptions of methods used in making the rates and any other
+15 information required by the Commissioner to be filed; and
+16 25. 23. "Trending" means any procedure for projecting losses to
+17 the average date of loss, or premiums or exposures to the average
+18 date of writing, for the period during which the policies are to be
+19 effective.
+20 SECTION 3. AMENDATORY 36 O.S. 2021, Section 985, is
+21 amended to read as follows:
+22 Section 985. Ratemaking Standards.
+23 A. A rate may not be excessive, inadequate or unfairly
+24 discriminatory.
+Req. No. 17060 Page 7
+
+1 1. No rate in a competitive market may be determined to be
+2 excessive. A rate in a noncompetitive market may be determined to
+3 be excessive if it is likely to produce a profit that is
+4 unreasonably high for the insurance provided A rate may be
+5 determined to be excessive if it is unreasonably high for the
+6 insurance provided or is unreasonably high in relation to the
+7 services rendered.
+8 2. A rate may not be determined to be inadequate unless:
+9 a. the rate is clearly insufficient to sustain projected
+10 losses, expenses and special assessments, and
+11 b. the rate is unreasonably low and use of the rate by
+12 the insurer has tended or, if continued, will tend to
+13 create a monopoly in the market.
+14 3. Unfair discrimination may be determined to exist if, after
+15 allowing for practical limitations, price differentials fail to
+16 reflect equitably the differences in expected losses and expenses.
+17 A rate may not be determined to be unfairly discriminatory because
+18 different premiums result for policyholders with like loss exposures
+19 but different expense levels, or like expenses but different loss
+20 exposures, or if it averaged broadly among persons insured within a
+21 group, franchise or blanket policy or a mass-marketed plan. No rate
+22 in a competitive market shall be considered unfairly discriminatory
+23 unless it classifies risk on the basis of race, color, creed, or
+24 national origin, or religion.
+Req. No. 17060 Page 8
+
+1 B. In determining whether rates in a noncompetitive market are
+2 excessive, inadequate, or unfairly discriminatory, due consideration
+3 may be given to:
+4 1. Past and prospective loss experience within and outside this
+5 state, in accordance with accepted actuarial principles;
+6 2. Conflagration and catastrophe hazards;
+7 3. A reasonable margin for underwriting profit and
+8 contingencies;
+9 4. Loadings for leveling premium rates over time for dividends,
+10 savings or unabsorbed premium deposits allowed or returned by
+11 insurers to their policyholders, members or subscribers;
+12 5. Past and prospective expenses both countrywide and those
+13 specially applicable to this state; and
+14 6. Provisions for special assessments; and to all other
+15 relevant factors including judgment within and outside this state.
+16 C. Risks may be grouped by classifications for the
+17 establishment of rates and minimum premiums. Classification rates
+18 may be modified to produce rates for individual risks in accordance
+19 with rating plans which establish standards for measuring variations
+20 in hazards or expense provisions, or both. Such standards may
+21 measure any differences among risks that can be demonstrated to have
+22 a probable effect upon losses or expenses. No risk classification
+23 however, may be based on race, creed, national origin, or the
+24 religion of the insured.
+Req. No. 17060 Page 9
+
+1 D. The expense provisions included in the rates for use by an
+2 insurer or group of insurers may differ from those of any other
+3 insurer or group of insurers to reflect the requirements of the
+4 operating methods of the insurer or group of insurers.
+5 E. The rates may contain provision for contingencies and an
+6 allowance permitting a reasonable profit. In determining the
+7 reasonableness of the profit, consideration shall be given to the
+8 investment income attributable to the line of insurance.
+9 F. Risks may be classified in any way except that no risk may
+10 be classified on the basis of race, color, creed, or national
+11 origin, or religion.
+12 SECTION 4. AMENDATORY 36 O.S. 2021, Section 986, is
+13 amended to read as follows:
+14 Section 986. Rate Administration.
+15 A. In only those markets found to be noncompetitive pursuant to
+16 Section 984 of this title, insurers Insurers and advisory
+17 organizations shall file with the Commissioner and the Commissioner
+18 shall review reasonable rules and plans for recording and reporting
+19 their rates, loss and expense experience and other information
+20 determined by the Commissioner to be necessary or appropriate for
+21 the administration of the Property and Casualty Competitive Loss
+22 Cost Rating Act. The Commissioner may designate one or more
+23 advisory organizations or other agencies to assist in gathering such
+24 experience and making compilation thereof.
+Req. No. 17060 Page 10
+
+1 B. Reasonable rules and plans may be promulgated by the
+2 Commissioner for the exchange of data necessary for the development
+3 and application of rating plans.
+4 C. In order to further uniform administration of rate
+5 regulatory laws, the Commissioner and every insurer and advisory
+6 organization may exchange information and experience data with
+7 insurance supervisory officials, insurers and advisory organizations
+8 in other states and may consult with them with respect to the
+9 application of rating systems.
+10 D. Cooperation among advisory organizations or among advisory
+11 organizations and insurers in ratemaking or in other matters within
+12 the scope of the Property and Casualty Competitive Loss Cost Rating
+13 Act is authorized. The Commissioner may review such cooperative
+14 activities and practices, and if, after a hearing, any such activity
+15 or practice is found to violate the provisions of the Property and
+16 Casualty Competitive Loss Cost Rating Act, a written order may be
+17 issued specifying that such activity or practice violates the
+18 provisions of this act and requiring the discontinuance of such
+19 activity.
+20 SECTION 5. AMENDATORY 36 O.S. 2021, Section 987, is
+21 amended to read as follows:
+22 Section 987. Rate Filings.
+23 A. In a competitive market, every Every insurer shall file with
+24 the Insurance Commissioner all rates and supplementary rate
+Req. No. 17060 Page 11
+
+1 info rmation any additional information requested by the Insurance
+2 Commissioner, to be used in this state no later than thirty (30)
+3 days after at least sixty (60) days prior to the effective date;
+4 provided, that the rates and supplementary rate information need not
+5 be filed for commercial risks, which by general custom are not
+6 written according to manual rules or rating plans.
+7 B. In a noncompetitive market, every insurer shall file with
+8 the Commissioner all rates, supplementary rate information and
+9 supporting information at least thirty (30) days before the proposed
+10 effective date. The Commissioner may give written notice, within
+11 thirty (30) sixty (60) days of receipt of the filing, that the
+12 Commissioner needs additional time, not to exceed thirty (30) sixty
+13 (60) days from the date of the notice to consider the filing. Upon
+14 written application of the insurer, the Commissioner may authorize
+15 rates to be effective before the expiration of the waiting period or
+16 an extension thereof. A filing shall be deemed to meet the
+17 requirements of the Property and Casualty Competitive Loss Cost
+18 Rating Act and to become effective unless disapproved pursuant to
+19 this title by the Commissioner before the expiration of the waiting
+20 period or an extension thereof.
+21 In a noncompetitive market, the filing shall be deemed in
+22 compliance with the filing provision of this section unless the
+23 Commissioner informs the insurer within ten (10) days after receipt
+24
+Req. No. 17060 Page 12
+
+1 of t he filings as to what supplementary rate information or
+2 supporting information is required to complete the filing.
+3 C. B. Every authorized insurer shall file with the
+4 Commissioner, except as to rates for those lines of insurance
+5 exempted from the provisions of the Property and Casualty
+6 Competitive Loss Cost Rating Act by the Commissioner under
+7 subsections E C and F D of this section and except for those risks
+8 designated as special risks under Section 997 of this title, all
+9 rates, supplementary rate information, any additional information
+10 requested by the Insurance Commissioner, and any changes and
+11 amendments which it proposes to use. An insurer may file its rates
+12 by either filing its final rates or by filing a multiplier and, if
+13 applicable, an expense constant adjustment to be applied to
+14 prospective loss costs that have been filed by an advisory
+15 organization as permitted by this title. Such loss cost multiplier
+16 filing and expense constant filings made by insurers shall remain in
+17 effect until amended or withdrawn by the insurer. Every filing
+18 shall state the effective date.
+19 D. C. Under rules as may be adopted, the Commissioner may, by
+20 written order, suspend or modify the requirement of filing as to any
+21 kind of insurance, subdivision or combination thereof, or as to
+22 classes of risks.
+23 E. D. Notwithstanding any other provision of the Property and
+24 Casualty Competitive Loss Cost Rating Act, upon the written consent
+Req. No. 17060 Page 13
+
+1 of t he insured in a separate written document, a rate in excess of
+2 that determined in accordance with the other provisions of the
+3 Property and Casualty Competitive Loss Cost Rating Act may be used
+4 on a specific risk.
+5 F. E. A filing and any supporting information required to be
+6 filed shall be open to public inspection once the filing becomes
+7 effective except information marked confidential, trade secret, or
+8 proprietary by the insurer or filer and except the filings of an
+9 advisory organization which shall be open to public inspection upon
+10 the received date of the rate, loss cost, or manual rule change.
+11 The insurer or filer shall have the burden of asserting to the
+12 Commissioner that a filing and supporting information are
+13 confidential, upon the request of the Commissioner. The
+14 Commissioner may disapprove of the insurer's request for
+15 confidential filing status.
+16 SECTION 6. AMENDATORY 36 O.S. 2021, Section 989, is
+17 amended to read as follows:
+18 Section 989. Improper Rates; Disapproval; Hearing.
+19 A. Basis for disapproval.
+20 1. The Commissioner shall disapprove a rate in a competitive
+21 market only if the Commissioner finds, pursuant to subsection B of
+22 this section, that the rate is excessive, inadequate, or unfairly
+23 discriminatory pursuant to Section 985 of this title.
+24
+Req. No. 17060 Page 14
+
+1 2. The Commissioner may disapprove a rate for use in a
+2 noncompetitive market only if the Commissioner finds, pursuant to
+3 subsection B of this section, that the rate is excessive, inadequate
+4 or unfairly discriminatory under this subsection.
+5 B. Procedures for disapproval.
+6 1. Prior to the expiration of a waiting period or an extension
+7 thereof, made pursuant to subsection B of Section 987 of this title,
+8 the Commissioner may disapprove, by written order, rates filed
+9 pursuant to subsection B of Section 987 of this title with notice
+10 and opportunity for a hearing. The order shall specify in what
+11 respects the filing fails to meet the requirements of this act. Any
+12 insurer whose rates are disapproved pursuant to this section shall
+13 be given a hearing upon written request made within thirty (30) days
+14 of disapproval.
+15 2. If, at any time after a rate is effective, the Commissioner
+16 finds that a rate applicable to insurance sold in a noncompetitive
+17 market does not comply with the standards set forth in Section 985
+18 of this title, the Commissioner may, after a hearing held upon not
+19 less than twenty (20) days’ written notice, issue an order pursuant
+20 to subsection C of this section, disapproving such rate. The
+21 hearing notice shall be sent to every insurer and advisory
+22 organization that adopted the rate and shall specify the matters to
+23 be considered at the hearing. The disapproval order shall not
+24
+Req. No. 17060 Page 15
+
+1 affe ct any contract or policy made or issued prior to the effective
+2 date set forth in the order.
+3 3. If, at any time, the Commissioner finds that a rate
+4 applicable to insurance sold in a competitive market is inadequate
+5 or unfairly discriminatory under paragraph 2 or 3 of subsection A of
+6 Section 985 of this title, the Commissioner may issue an order
+7 pursuant to subsection C of this section disapproving the rate. The
+8 order shall not affect any contract or policy made or issued prior
+9 to the effective date set forth in the order.
+10 C. Order of disapproval.
+11 If the Commissioner disapproves a rate pursuant to subsection B
+12 of this section, the Commissioner shall issue an order within thirty
+13 (30) days of the close of the hearing specifying in what respects
+14 the rate fails to meet the requirements of this act. The order
+15 shall state an effective date no sooner than thirty (30) business
+16 days after the date of the order when the use of the rate shall be
+17 discontinued. This order shall not affect any policy made before
+18 the effective date of the order.
+19 D. Appeal of orders and establishment of reserves.
+20 If an order of disapproval is appealed pursuant to Section 990
+21 of this title, the insurer may implement the disapproved rate upon
+22 notification to the court, in which case any excess of the
+23 disapproved rate over a rate previously in effect shall be placed in
+24 a reserve established by the insurer. The court shall have control
+Req. No. 17060 Page 16
+
+1 over the disbursement of funds from such reserve. The funds shall
+2 be distributed as determined by the court in its final order except
+3 that de minimus refunds to policyholders shall not be required.
+4 E. D. All determinations made by the Commissioner under this
+5 section shall be on the basis of findings of fact and conclusions of
+6 law.
+7 SECTION 7. AMENDATORY 36 O.S. 2021, Section 994, is
+8 amended to read as follows:
+9 Section 994. Advisory Organizations; Filing Requirements.
+10 Every advisory organization shall file with the Insurance
+11 Commissioner for approval every statistical plan, all prospective
+12 loss costs, provisions for special assessments and, all
+13 supplementary rating information, and any additional information
+14 requested by the Insurance Commissioner, and every change or
+15 amendment or modification of any of the foregoing proposed for use
+16 in this state at least thirty (30) sixty (60) days prior to its
+17 effective date. The Commissioner may give written notice, within
+18 sixty (60) days of receipt of the filing, that the Commissioner
+19 needs additional time, not to exceed sixty (60) days from the date
+20 of the notice to consider the filing. Such filings will be deemed
+21 approved unless disapproved within the waiting period.
+22 SECTION 8. AMENDATORY 36 O.S. 2021, Section 995, as
+23 amended by Section 1, Chapter 304, O.S.L. 2022 (36 O.S. Supp. 2025,
+24 Section 995), is amended to read as follows:
+Req. No. 17060 Page 17
+
+1 Section 995. Joint Underwriting, Joint Reinsurance Pool and
+2 Residual Market Activities.
+3 A. Notwithstanding paragraph 3 of subsection A of Section 992
+4 of this title, insurers participating in joint underwriting, joint
+5 reinsurance pools or residual market mechanisms may in connection
+6 with such activity act in cooperation with each other in the making
+7 of rates, rating systems, policy forms, underwriting rules, surveys,
+8 inspections and investigations, the furnishing of loss and expense
+9 statistics or other information, or carrying on research. Joint
+10 underwriting, joint reinsurance pools and residual market mechanisms
+11 shall not be deemed an advisory organization.
+12 B. Except to the extent modified by this section, joint
+13 underwriting, joint reinsurance pool and residual market mechanism
+14 activities are subject to the other provisions of the Property and
+15 Casualty Competitive Loss Cost Rating Act.
+16 C. If, after a hearing, the Insurance Commissioner finds that
+17 any activity or practice of an insurer participating in joint
+18 underwriting or a pool is unfair, is unreasonable, will tend to
+19 lessen competition in any market or is otherwise inconsistent with
+20 the provisions or purposes of the Property and Casualty Competitive
+21 Loss Cost Rating Act, the Commissioner may shall issue a written
+22 order and require the discontinuance of such activity or practice.
+23 D. Every pool shall file with the Commissioner a copy of its
+24 constitution, articles of incorporation, agreement or association,
+Req. No. 17060 Page 18
+
+1 byla ws, rules and regulations governing its activities, list of
+2 members, the name and address of a resident of this state upon whom
+3 notice, orders of the Commissioner, or process may be served, and
+4 any changes in amendments or changes in the foregoing.
+5 E. Any residual market mechanism, plan or agreement to
+6 implement such a mechanism, and any changes or amendments thereto,
+7 shall be submitted in writing to the Commissioner for consideration
+8 and approval, together with such information as may be reasonably
+9 required.
+10 SECTION 9. REPEALER 36 O.S. 2021, Section 984, is hereby
+11 repealed.
+12 SECTION 10. REPEALER 36 O.S. 2021, Section 985.1, is
+13 hereby repealed.
+14 SECTION 11. This act shall become effective November 1, 2026.
+15
+16 60-2-17060 AO 03/05/26
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 17060 Page 19

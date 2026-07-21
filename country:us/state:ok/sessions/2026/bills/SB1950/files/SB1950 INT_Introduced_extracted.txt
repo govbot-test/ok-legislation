@@ -1,0 +1,144 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1950 By: Logan
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to aerospace, aircraft, and aviation
+7
+infrastructure; defining terms; prohibiting use of
+8
+certain information for fees for certain persons;
+8
+providing for codification; and providing an
+9
+effective date.
+9
+10
+10
+11
+11
+12
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+12
+13
+SECTION 1. NEW LAW A new section of law to be codified
+13
+14
+in the Oklahoma Statutes as Section 550 of Title 3, unless there is
+14
+15
+created a duplication in numbering, reads as follows:
+15
+16
+A. As used in this section:
+16
+17
+1. “Aircraft” has the same meaning as that provided in Section
+17
+18
+252 of Title 3 of the Oklahoma Statutes, except that the aircraft
+18
+19
+shall have a gross weight of nine thousand (9,000) pounds or less
+19
+20
+and operate under the provisions of 14 C.F.R., Part 91; and
+20
+21
+2. “Automatic dependent surveillance-broadcast” means an
+21
+22
+advanced aviation surveillance technology that combines ground
+22
+23
+infrastructure, aircraft avionics, and an aircraft’s positioning
+23
+24
+source to create an accurate surveillance interface between an
+24
+Req. No. 3002 Page 1
+
+1
+aircraft and air traffic control. The term consists of two
+1
+2
+different services:
+2
+3
+a. ADS-B, which receives data provided by ADS-B Out, as
+3
+4
+well as weather and traffic information from ground
+4
+5
+stations, and
+5
+6
+b. ADS-B Out, which broadcasts an aircraft’s Global
+6
+7
+Positioning System location, altitude, ground speed,
+7
+8
+and other data.
+8
+9
+B. No government entity or private individual or entity shall
+9
+10
+use information broadcasted or collected by an automatic dependent
+10
+11
+surveillance-broadcast system as a means for calculating,
+11
+12
+generating, and collecting fees from owners or operators who operate
+12
+13
+aircraft within this state.
+13
+14
+SECTION 2. This act shall become effective November 1, 2026.
+14
+15
+15
+16
+60-2-3002 MSBB 1/15/2026 9:09:23 AM
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 3002 Page 2

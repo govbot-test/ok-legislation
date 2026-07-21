@@ -1,0 +1,313 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled (final version)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+An Act
+ENROLLED HOUSE
+BILL NO. 3781 By: Adams, Gise and Tedford of
+the House
+and
+Reinhardt and Kirt of the
+Senate
+An Act relating to insurance; amending 36 O.S. 2021,
+Sections 985, 987, and 989, which relate to the
+Property and Casualty Competitive Loss Cost Rating
+Act; removing certain prohibition on determining
+certain rates to be competitive; allowing rate to be
+determined excessive based on actuarial review;
+requiring Insurance Commissioner to send certain
+objection to insurer; removing certain filing
+requirements; requiring certain insurer to file
+certain information within certain time period;
+providing certain requirements for certain filings to
+become effective; requiring certain insurer to file
+certain information if certain filing requires
+certain supervision; allowing certain insurer to
+request certain hearing; requiring Commissioner to
+publish notice of certain rate increase on Insurance
+Department website; allowing certain rate to be
+determined to be excessive; removing certain
+provisions allowing Commissioner to disapprove
+certain rate only in certain situations; allowing
+Commissioner to disapprove certain rates with certain
+notice and opportunity for hearing; allowing
+Commissioner to issue certain order after certain
+rate goes into effect; removing certain requirements
+that certain order not affect certain contract or
+policy; removing certain provision allowing
+Commissioner to issue certain order in certain
+competitive market; updating statutory language;
+updating statutory reference; and providing an
+effective date.
+
+SUBJECT: Insurance
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+SECTION 1. AMENDATORY 36 O.S. 2021, Section 985, is
+amended to read as follows:
+Section 985. Ratemaking Standards.
+A. A rate may not be excessive, inadequate or unfairly
+discriminatory.
+1. No rate in a competitive market may be determined to be
+excessive. A rate in a noncompetitive market may be determined to
+be excessive if it, based on actuarial review, the rate is likely to
+produce a profit that is unreasonably high for the insurance
+provided. The Insurance Commissioner shall send an objection to the
+insurer and shall give the insurer the opportunity to respond and
+provide additional supporting information prior to making a final
+determination that the rate is excessive.
+2. A rate may not be determined to be inadequate unless:
+a. the rate is clearly insufficient to sustain projected
+losses, expenses and special assessments, and
+b. the rate is unreasonably low and use of the rate by
+the insurer has tended or, if continued, will tend to
+create a monopoly in the market.
+3. Unfair discrimination may be determined to exist if, after
+allowing for practical limitations, price differentials fail to
+reflect equitably the differences in expected losses and expenses.
+A rate may not be determined to be unfairly discriminatory because
+different premiums result for policyholders with like loss exposures
+but different expense levels, or like expenses but different loss
+exposures, or if it averaged broadly among persons insured within a
+group, franchise or blanket policy or a mass-marketed plan. No rate
+in a competitive market shall be considered unfairly discriminatory
+unless it classifies risk on the basis of race, color, creed, or
+national origin, or religion.
+ENR. H. B. NO. 3781 Page 2
+
+B. In determining whether rates in a noncompetitive market are
+excessive, inadequate, or unfairly discriminatory, due consideration
+may be given to:
+1. Past and prospective loss experience within and outside this
+state, in accordance with accepted actuarial principles;
+2. Conflagration and catastrophe hazards;
+3. A reasonable margin for underwriting profit and
+contingencies;
+4. Loadings for leveling premium rates over time for dividends,
+savings or unabsorbed premium deposits allowed or returned by
+insurers to their policyholders, members or subscribers;
+5. Past and prospective expenses both countrywide and those
+specially applicable to this state; and
+6. Provisions for special assessments; and to all other
+relevant factors including judgment within and outside this state.
+C. Risks may be grouped by classifications for the
+establishment of rates and minimum premiums. Classification rates
+may be modified to produce rates for individual risks in accordance
+with rating plans which establish standards for measuring variations
+in hazards or expense provisions, or both. Such standards may
+measure any differences among risks that can be demonstrated to have
+a probable effect upon losses or expenses. No risk classification,
+however, may be based on race, color, creed, national origin, or the
+religion of the insured.
+D. The expense provisions included in the rates for use by an
+insurer or group of insurers may differ from those of any other
+insurer or group of insurers to reflect the requirements of the
+operating methods of the insurer or group of insurers.
+E. The rates may contain provision for contingencies and an
+allowance permitting a reasonable profit. In determining the
+reasonableness of the profit, consideration shall be given to the
+investment income attributable to the line of insurance.
+F. Risks may be classified in any way except that no risk may
+be classified on the basis of race, color, creed, or national
+origin, or religion of the insured.
+ENR. H. B. NO. 3781 Page 3
+
+SECTION 2. AMENDATORY 36 O.S. 2021, Section 987, is
+amended to read as follows:
+Section 987. Rate Filings.
+A. In a competitive market, every insurer shall file with the
+Insurance Commissioner all rates and, supplementary rate information
+to be used in this state no later than thirty (30) days after the
+effective date; provided, that the rates and supplementary rate
+information need not be filed for commercial risks, which by general
+custom are not written according to manual rules or rating plans.
+B. In a noncompetitive market, every insurer shall file with
+the Commissioner all rates, supplementary rate information and
+supporting information at least thirty (30) days before the proposed
+effective date. The Commissioner may give written notice, within
+thirty (30) days of receipt of the filing, that the Commissioner
+needs additional time, not to exceed thirty (30) days from the date
+of the notice to consider the filing. Upon written application of
+the insurer, the Commissioner may authorize rates to be effective
+before the expiration of the waiting period or an extension thereof.
+A filing shall be deemed to meet the requirements of the Property
+and Casualty Competitive Loss Cost Rating Act and to become
+effective unless disapproved pursuant to this title by the
+Commissioner before the expiration of the waiting period or an
+extension thereof.
+In a noncompetitive market, the filing shall be deemed in
+compliance with the filing provision of this section unless the
+Commissioner informs the insurer within ten (10) days after receipt
+of the filings as to what supplementary rate information or
+supporting information is required to complete the filing.
+C. Every authorized insurer shall file with the Commissioner,
+except as to rates for those lines of insurance exempted from the
+provisions of the Property and Casualty Competitive Loss Cost Rating
+Act by the Commissioner under subsections E and F of this section
+and except for those risks designated as special risks under Section
+997 of this title, all rates, supplementary rate information and any
+changes and amendments which it proposes to use. An insurer may
+file its rates by either filing its final rates or by filing a
+multiplier and, if applicable, an expense constant adjustment to be
+applied to prospective loss costs that have been filed by an
+advisory organization as permitted by this title. Such loss cost
+ENR. H. B. NO. 3781 Page 4
+
+multiplier filing and expense constant filings made by insurers
+shall remain in effect until amended or withdrawn by the insurer.
+Every filing shall state the effective date.
+D. Under rules as may be adopted, the Commissioner may, by
+written order, suspend or modify the requirement of filing as to any
+kind of insurance, subdivision or combination thereof, or as to
+classes of risks.
+E. Notwithstanding any other provision of the Property and
+Casualty Competitive Loss Cost Rating Act, upon the written consent
+of the insured in a separate written document, a rate in excess of
+that determined in accordance with the other provisions of the
+Property and Casualty Competitive Loss Cost Rating Act may be used
+on a specific risk.
+F. A filing and any supporting information required to be filed
+shall be open to public inspection once the filing becomes effective
+except information marked confidential, trade secret, or proprietary
+by the insurer or filer and except the filings of an advisory
+organization which shall be open to public inspection upon the
+received date of the rate, loss cost, or manual rule change. The
+insurer or filer shall have the burden of asserting to the
+Commissioner that a filing and supporting information are
+confidential, upon the request of the Commissioner. The
+Commissioner may disapprove of the insurer’s request for
+confidential filing status, and supporting information for the rates
+and for the risks that are to be written in this state, and any
+additional information or documentation requested by the
+Commissioner specific to this state. All rates, supplementary
+information, and supporting information shall be filed thirty (30)
+days prior to the effective date of such rates. A filing shall be
+deemed to meet the requirements of this act and may become
+effective:
+1. Upon the expiration of the waiting period unless objected to
+or disapproved by the Commissioner; or
+2. Prior to expiration of the waiting period, upon application
+by the insurer that has been approved by the Commissioner.
+B. In a competitive market, if the Commissioner determines,
+after a notice or by agreement, that an insurer’s rates require
+closer supervision, the insurer shall file with the Commissioner all
+rates, supplementary information, and supporting information
+ENR. H. B. NO. 3781 Page 5
+
+prescribed by the Commissioner at least sixty (60) days prior to the
+effective date of such rates. The insurer may request a hearing
+before the Commissioner or an independent hearing examiner to
+determine the reasonableness of the Commissioner’s action by written
+request upon the Commissioner within thirty (30) days of the notice
+of the Commissioner requiring closer supervision of such insurer.
+C. In a noncompetitive market, every insurer shall file with
+the Commissioner all rates, supplementary information, and
+supporting information for the rates and for the risks that are to
+be written in this state, and any additional information or
+documentation requested by the Commissioner specific to this state
+for such market. All rates, supplementary information, and
+supporting information shall be filed at least sixty (60) days prior
+to the effective date of such rates. A filing shall be deemed to
+meet the requirements of this act and may become effective:
+1. Upon the expiration of the waiting period unless disapproved
+by the Commissioner; or
+2. Prior to expiration of the waiting period, upon application
+by the insurer that has been approved by the Commissioner.
+D. If a private passenger automobile, homeowner’s multi-peril,
+or dwelling fire policy’s overall rate is increased pursuant to the
+provisions of this section, the Commissioner shall publish notice of
+such rate increase and overall percentage of such rate increase on
+the Insurance Department’s website.
+SECTION 3. AMENDATORY 36 O.S. 2021, Section 989, is
+amended to read as follows:
+Section 989. Improper Rates; Disapproval; Hearing.
+A. Basis for disapproval.
+1. The Insurance Commissioner shall disapprove a rate in a
+competitive market only if the Commissioner finds, pursuant to
+subsection B of this section, that the rate is excessive,
+inadequate, or unfairly discriminatory pursuant to Section 985 of
+this title.
+2. The Commissioner may disapprove a rate for use in a
+noncompetitive market only if the Commissioner finds, pursuant to
+ENR. H. B. NO. 3781 Page 6
+
+subsection B of this section, that the rate is excessive, inadequate
+or unfairly discriminatory under this subsection.
+B. Procedures for disapproval.
+1. Prior to the expiration of a waiting period or an extension
+thereof, made pursuant to subsection B of Section 987 of this title,
+the Commissioner may disapprove, by written order, rates filed
+pursuant to subsection B of Section 987 of this title with notice
+and opportunity for a hearing. The order shall specify in what
+respects the filing fails to meet the requirements of this act the
+Property and Casualty Competitive Loss Cost Rating Act. Any insurer
+whose rates are disapproved pursuant to this section shall be given
+a hearing upon written request made within thirty (30) days of
+disapproval.
+2. If, at any time after the rate goes into effect, the
+Commissioner finds that a rate applicable to insurance sold in a
+noncompetitive market does not comply with the standards set forth
+in Section 985 of this title, the Commissioner may, after a hearing
+held upon not less than twenty (20) days’ written notice, issue an
+order pursuant to subsection C of this section, disapproving such
+rate. The hearing notice shall be sent to every insurer and
+advisory organization that adopted the rate and shall specify the
+matters to be considered at the hearing. The disapproval order
+shall not affect any contract or policy made or issued prior to the
+effective date set forth in the order.
+3. If, at any time, the Commissioner finds that a rate
+applicable to insurance sold in a competitive market is inadequate
+or unfairly discriminatory under paragraph 2 or 3 of subsection A of
+Section 985 of this title, the Commissioner may issue an order
+pursuant to subsection C of this section disapproving the rate. The
+order shall not affect any contract or policy made or issued prior
+to the effective date set forth in the order.
+C. Order of disapproval.
+If the Commissioner disapproves a rate pursuant to subsection B
+of this section, the Commissioner shall issue an order within thirty
+(30) days of the close of the hearing specifying in what respects
+the rate fails to meet the requirements of this act the Property and
+Casualty Competitive Loss Cost Rating Act. The order shall state an
+effective date no sooner than thirty (30) business days after the
+date of the order when the use of the rate shall be discontinued.
+ENR. H. B. NO. 3781 Page 7
+
+This order shall not affect any policy made before the effective
+date of the order.
+D. Appeal of orders and establishment of reserves.
+If an order of disapproval is appealed pursuant to Section 990
+of this title, the insurer may implement the disapproved rate upon
+notification to the court, in which case any excess of the
+disapproved rate over a rate previously in effect shall be placed in
+a reserve established by the insurer. The court shall have control
+over the disbursement of funds from such reserve. The funds shall
+be distributed as determined by the court in its final order except
+that de minimus minimis refunds to policyholders shall not be
+required.
+E. All determinations made by the Commissioner under this
+section shall be on the basis of findings of fact and conclusions of
+law.
+SECTION 4. This act shall become effective July 1, 2027.
+ENR. H. B. NO. 3781 Page 8
+
+Passed the House of Representatives the 6th day of May, 2026.
+Presiding Officer of the House
+of Representatives
+Passed the Senate the 4th day of May, 2026.
+Presiding Officer of the Senate
+OFFICE OF THE GOVERNOR
+Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+_________________________________
+Governor of the State of Oklahoma
+OFFICE OF THE SECRETARY OF STATE
+Received by the Office of the Secretary of State this __________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+ENR. H. B. NO. 3781 Page 9
