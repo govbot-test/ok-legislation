@@ -1,0 +1,917 @@
+Title: 
+Official Title: 
+Source: versions - Proposed Policy Committee Substitute 2
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB3657 POLPCS2 Mark Tedford-TKR
+2/16/2026 9:01:18 am
+COMMITTEE AMENDMENT
+HOUSE OF REPRESENTATIVES
+State of Oklahoma
+SPEAKER:
+CHAIR:
+I move to amend HB3657
+Of the printed Bill
+Page Section Lines
+Of the Engrossed Bill
+By deleting the content of the entire measure, and by inserting in lieu
+thereof the following language:
+AMEND TITLE TO CONFORM TO AMENDMENTS
+Amendment submitted by: Mark Tedford
+Adopted: _____________________________
+______________________________________
+Reading Clerk
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 PROPOSED POLICY
+COMMITTEE SUBSTITUTE
+4 FOR
+HOUSE BILL NO. 3657 By: Tedford
+5
+6
+7
+8
+9 PROPOSED POLICY COMMITTEE SUBSTITUTE
+10 An Act relating to labor; amending 40 O.S. 2021,
+Section 1-210, which relates to employment
+11 definitions; modifying payment references for certain
+agricultural services; amending 40 O.S. 2021, Section
+12 4-508, as amended by Section 22, Chapter 360, O.S.L.
+2022 (40 O.S. Supp. 2025, Section 4-508), which
+13 relates to confidential records; granting the
+Oklahoma Workforce Commission access to certain data;
+14 requiring information obtained to be kept
+confidential; and providing an effective date.
+15
+16
+17
+18 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19 SECTION 1. AMENDATORY 40 O.S. 2021, Section 1-210, is
+20 amended to read as follows:
+21 Section 1-210. EMPLOYMENT.
+22 "Employment" means:
+23 (1) Any service, including service in interstate commerce,
+24 performed by:
+Req. No. 16379 Page 1
+
+1 (a) any officer of a corporation; or
+2 (b) any individual who, under the usual common-law rules
+3 applicable in determining the employer-employee
+4 relationship, as provided in paragraph (14) of this
+5 section, has the status of an employee.
+6 (2) (a) any service, including service in interstate commerce,
+7 performed by any individual other than an individual
+8 who is an employee under paragraph (1) of this section
+9 who performs services for remuneration for any person:
+10 (i) as an agent-driver or commission-driver engaged
+11 in distributing meat products, vegetable
+12 products, fruit products, bakery products,
+13 beverages other than milk, or laundry or dry
+14 cleaning services, for the individual's
+15 principal; or
+16 (ii) as a traveling or city salesperson, other than as
+17 an agent-driver or commission-driver, engaged
+18 upon a full-time basis in the solicitation on
+19 behalf of, and the transmission to, an
+20 individual's principal, except for sideline sales
+21 activities on behalf of some other person, of
+22 orders from wholesalers, retailers, contractors
+23 or operators of hotels, restaurants or other
+24
+Req. No. 16379 Page 2
+
+1 similar establishments for merchandise for resale
+2 or supplies for use in their business operations;
+3 (b) provided, the term "employment" shall include services
+4 described in divisions (i) and (ii) of subparagraph
+5 (a) of this paragraph if:
+6 (i) the contract of service contemplates that
+7 substantially all of the services are to be
+8 performed personally by such individual;
+9 (ii) the individual does not have a substantial
+10 investment in facilities used in connection with
+11 the performance of the services, other than in
+12 facilities for transportation; and
+13 (iii) the services are not in the nature of a single
+14 transaction that is not part of a continuing
+15 relationship with the person for whom the
+16 services are performed.
+17 (3) Service performed in the employ of this state or any of its
+18 instrumentalities or any political subdivision thereof or any of its
+19 instrumentalities or any instrumentality of more than one of the
+20 foregoing or any instrumentality of any of the foregoing and one or
+21 more other states or political subdivisions; provided, that such
+22 service is excluded from "employment" as defined in the Federal
+23 Unemployment Tax Act, 26 U.S.C., Section 3306(c)(7), and is not
+24 excluded from "employment" under paragraph (7) of this section.
+Req. No. 16379 Page 3
+
+1 (4) Service performed by an individual in the employ of a
+2 community chest, fund, foundation or corporation, organized and
+3 operated exclusively for religious, charitable, scientific, testing
+4 for public safety, literary or educational purposes, or for the
+5 prevention of cruelty to children or animals, no part of the net
+6 earnings of which inures to the benefit of any private shareholder
+7 or individual, no substantial part of the activities of which is
+8 carrying on propaganda, or otherwise attempting to influence
+9 legislation and which does not participate in, or intervene in,
+10 including the publishing or distributing of statements, any
+11 political campaign on behalf of any candidate for public office;
+12 provided that such organization had four or more individuals in
+13 employment for some portion of a day in each of twenty (20)
+14 different weeks, whether or not such weeks were consecutive, within
+15 either the calendar year or preceding calendar year, regardless of
+16 whether they were employed at the same moment of time.
+17 (5) Service performed by an individual in agricultural labor as
+18 defined in subparagraph (a) of paragraph (15) of this section when:
+19 (a) the service is performed for a person who:
+20 (i) during any calendar quarter in either the
+21 calendar year or the preceding calendar year,
+22 paid remuneration in cash wages of Twenty
+23 Thousand Dollars ($20,000.00) or more to
+24 individuals employed in agricultural labor; or
+Req. No. 16379 Page 4
+
+1 (ii) for some portion of a day in each of twenty (20)
+2 different calendar weeks, whether or not the
+3 weeks were consecutive, in either the calendar
+4 year or the preceding calendar year, employed in
+5 agricultural labor ten or more individuals,
+6 regardless of whether they were employed at the
+7 same moment of time.
+8 (b) for the purposes of this paragraph any individual who
+9 is a member of a crew furnished by a crew leader to
+10 perform service in agricultural labor for any other
+11 person shall be treated as an employee of the crew
+12 leader:
+13 (i) if the crew leader holds a valid certificate of
+14 registration under the Farm Labor Contractor
+15 Registration Act of 1963, Public Law 95-562, 29
+16 U.S.C., Sections 1801 through 1872; or
+17 substantially all the members of the crew operate
+18 or maintain tractors, mechanized harvesting or
+19 crop-dusting equipment, or any other mechanized
+20 equipment, which is provided by the crew leader;
+21 and
+22 (ii) if the individual is not an employee of the other
+23 person within the meaning of paragraph (1) of
+24
+Req. No. 16379 Page 5
+
+1 this section or subparagraph (d) of this
+2 paragraph.
+3 (c) for the purposes of this paragraph, in the case of any
+4 individual who is furnished by a crew leader to
+5 perform service in agricultural labor for any other
+6 person and who is not treated as an employee of the
+7 crew leader under subparagraph (b) of this paragraph:
+8 (i) the other person and not the crew leader shall be
+9 treated as the employer of the individual; and
+10 (ii) the other person shall be treated as having paid
+11 cash remuneration to the individual in an amount
+12 equal to the amount of cash remuneration paid to
+13 the individual by the crew leader, either on the
+14 individual's own behalf or on behalf of the other
+15 person, for the service in agricultural labor
+16 performed for the other person.
+17 (d) for the purposes of this paragraph, the term "crew
+18 leader" means an individual who:
+19 (i) furnishes individuals to perform service in
+20 agricultural labor for any other person;
+21 (ii) pays, either on the individual's own behalf or on
+22 behalf of another person, the individuals so
+23 furnished by the crew leader for the service in
+24 agricultural labor performed by them; and
+Req. No. 16379 Page 6
+
+1 (iii) has not entered into a written agreement with the
+2 other person (farm operator) under which the
+3 individual is designated as an employee of the
+4 other person.
+5 (6) The term "employment" shall include domestic service in a
+6 private home, local college club or local chapter of a college
+7 fraternity or sorority performed for a person or entity who paid
+8 cash remuneration of One Thousand Dollars ($1,000.00) or more to
+9 individuals employed in domestic service in any calendar quarter in
+10 the calendar year or the preceding calendar year.
+11 (7) For the purposes of paragraphs (3) and (4) of this section
+12 the term "employment" does not apply to service performed:
+13 (a) in the employ of:
+14 (i) a church or convention or association of
+15 churches;
+16 (ii) an organization which is operated primarily for
+17 religious purposes and which is operated,
+18 supervised, controlled, or principally supported
+19 by a church or convention or association of
+20 churches; or
+21 (iii) an elementary or secondary school which is
+22 operated primarily for religious purposes, which
+23 is described in 26 U.S.C., Section 501(c)(3), and
+24
+Req. No. 16379 Page 7
+
+1 which is exempt from tax under 26 U.S.C., Section
+2 501(a);
+3 (b) by a duly ordained, commissioned or licensed minister
+4 of a church in the exercise of ministry or by a member
+5 of a religious order in the exercise of duties
+6 required by the order;
+7 (c) in the employ of a governmental entity referred to in
+8 paragraph (3) of this section if the service is
+9 performed by an individual in the exercise of duties:
+10 (i) as an elected official;
+11 (ii) as a member of a legislative body, or a member of
+12 the judiciary of a state or political
+13 subdivision;
+14 (iii) as a member of the State National Guard or Air
+15 National Guard;
+16 (iv) as an employee serving on a temporary basis in
+17 case of fire, storm, snow, earthquake, flood or
+18 similar emergency;
+19 (v) in a position which, under or pursuant to the
+20 laws of this state, is designated as a major
+21 nontenured policymaking or advisory position, or
+22 a policymaking or advisory position the
+23 performance of the duties of which ordinarily
+24
+Req. No. 16379 Page 8
+
+1 does not require more than eight (8) hours per
+2 week;
+3 (vi) as an election official or election worker if the
+4 amount of remuneration received by the individual
+5 during the calendar year for services as an
+6 election official or election worker is less than
+7 One Thousand Dollars ($1,000.00);
+8 (d) by an individual who is participating or enrolled in a
+9 program of an organization that provides
+10 rehabilitation through work for individuals whose
+11 earning capacity is impaired by age, physical or
+12 mental deficiency, or injury, or a program of an
+13 organization that provides work for individuals who,
+14 because of their impaired mental or physical capacity
+15 cannot be readily absorbed into the competitive labor
+16 market; provided that the services are performed by a
+17 program participant on real property owned or leased
+18 directly by the organization or by a program
+19 participant working under a special certificate issued
+20 by the U.S. Secretary of Labor pursuant to 29 U.S.C.,
+21 Section 214(c) and 29 C.F.R., Section 525.1 et seq.;
+22 (e) as part of an unemployment work-relief or work-
+23 training program assisted or financed in whole or in
+24 part by any federal agency or an agency of a state or
+Req. No. 16379 Page 9
+
+1 political subdivision thereof or of an Indian tribe,
+2 by an individual receiving such work-relief or work-
+3 training; or
+4 (f) by an inmate of a custodial or penal institution.
+5 (8) The term "employment" shall include the service of an
+6 individual who is a citizen of the United States, performed outside
+7 the United States, except in Canada, in the employ of an American
+8 employer other than service which is deemed "employment" under the
+9 provisions of paragraph (11) or (12) of this section or the parallel
+10 provisions of another state's law, if:
+11 (a) the employer's principal place of business in the
+12 United States is located in this state;
+13 (b) the employer has no place of business in the United
+14 States, but:
+15 (i) the employer is an individual who is a resident
+16 of this state;
+17 (ii) the employer is a corporation which is organized
+18 under the laws of this state; or
+19 (iii) the employer is a partnership or a trust and the
+20 number of the partners or trustees who are
+21 residents of this state is greater than the
+22 number who are residents of any one other state;
+23 (c) none of the criteria of subparagraphs (a) and (b) of
+24 this paragraph are met but the employer has elected
+Req. No. 16379 Page 10
+
+1 coverage in this state or, the employer having failed
+2 to elect coverage in any state, the individual has
+3 filed a claim for benefits, based on such service,
+4 under the laws of this state;
+5 (d) an "American employer", for purposes of this
+6 subsection, means a person who is:
+7 (i) an individual who is a resident of the United
+8 States;
+9 (ii) a partnership if two-thirds (2/3) or more of the
+10 partners are residents of the United States;
+11 (iii) a trust, if all of the trustees are residents of
+12 the United States; or
+13 (iv) a corporation organized under the laws of the
+14 United States or of any state; and
+15 (e) the term "United States", for the purposes of this
+16 subsection, includes the states, the District of
+17 Columbia, the Commonwealth of Puerto Rico and the
+18 Virgin Islands.
+19 (9) Notwithstanding paragraph (11) of this section, all service
+20 performed by an officer or member of the crew of an American vessel
+21 on or in connection with the vessel, if the operating office, from
+22 which the operations of the vessel operating on navigable waters
+23 within, or within and without, the United States are ordinarily and
+24
+Req. No. 16379 Page 11
+
+1 regu larly supervised, managed, directed and controlled is within
+2 this state.
+3 (10) Notwithstanding any other provisions of the Employment
+4 Security Act of 1980, "employment":
+5 (a) includes any service with respect to which a tax is
+6 required to be paid under any federal law imposing a
+7 tax against which credit may be taken for
+8 contributions required to be paid into a state
+9 unemployment fund; and
+10 (b) includes any service which is required to be
+11 "employment" for full tax credit to be allowed against
+12 the tax imposed by the Federal Unemployment Tax Act of
+13 1954, Public Law 591, Chapter 736, as amended, 26
+14 U.S.C., Section 3301 et seq.
+15 (11) The term "employment" shall include an individual's entire
+16 service, performed within or both within and without this state if:
+17 (a) the service is localized in this state; or
+18 (b) the service is not localized in any state but some of
+19 the service is performed in this state and:
+20 (i) the individual's base of operations, or, if there
+21 is no base of operations, then the place from
+22 which the individual's employment is directed or
+23 controlled is in this state; or
+24
+Req. No. 16379 Page 12
+
+1 (ii) the individual's base of operations or place from
+2 which the service is directed or controlled is
+3 not in any state in which some part of the
+4 service is performed but the individual's
+5 residence is in this state.
+6 (12) (a) Services covered by an election pursuant to Section 3-
+7 203 of this title; and
+8 (b) services covered by an arrangement pursuant to Section
+9 4-701 et seq. of this title between the Oklahoma
+10 Employment Security Commission and the agency charged
+11 with the administration of any other state or federal
+12 unemployment compensation law, pursuant to which all
+13 services performed by an individual for an employing
+14 unit are deemed to be performed entirely within this
+15 state,
+16 shall be deemed to be employment if the Commission has approved an
+17 election of the employing unit for whom such services are performed,
+18 pursuant to which the entire service of such individual during the
+19 period covered by such election is deemed to be insured work.
+20 (13) Service shall be deemed to be localized within a state if:
+21 (a) the service is performed entirely within such state;
+22 or
+23 (b) the service is performed both within and without such
+24 state, but the service performed without such state is
+Req. No. 16379 Page 13
+
+1 incidental to the individual's service within the
+2 state; for example, is temporary or transitory in
+3 nature or consists of isolated transactions.
+4 (14) Notwithstanding any other provision of this subsection,
+5 services performed by an individual for wages shall be deemed to be
+6 employment subject to the Employment Security Act of 1980 if the
+7 services are performed by the individual in an employer-employee
+8 relationship with the employer using the 20-factor test used by the
+9 Internal Revenue Service of the United States Department of Treasury
+10 in Revenue Ruling 87-41, 1987-1 C.B. 296. The Oklahoma Employment
+11 Security Commission shall have the exclusive authority to make a
+12 determination of whether an individual is an independent contractor
+13 or employee.
+14 (15) The term "employment" shall not include:
+15 (a) services performed by an individual in agricultural
+16 labor, except as provided under paragraph (5) of this
+17 section. Services performed by an individual who is a
+18 nonresident alien admitted to the United States to
+19 perform agricultural labor, pursuant to 8 U.S.C.,
+20 Sections 1101(a), 1184(c) and 1188. For purposes of
+21 this subparagraph, the term "agricultural labor" means
+22 remunerated service performed in agricultural labor as
+23 defined in the Federal Unemployment Tax Act, 26
+24 U.S.C., Section 3306(k);
+Req. No. 16379 Page 14
+
+1 (b) domestic service, except as provided under paragraph
+2 (6) of this section, in a private home, local college
+3 club, or local chapter of a college fraternity or
+4 sorority;
+5 (c) service performed by an individual in the employ of
+6 his or her son, daughter, or spouse, and service
+7 performed by a child under the age of twenty-one (21)
+8 in the employ of his or her father or mother, or both
+9 father and mother;
+10 (d) service performed in the employ of the United States
+11 government or an instrumentality of the United States
+12 exempt under the Constitution of the United States
+13 from the contributions imposed by the Employment
+14 Security Act of 1980, except that to the extent that
+15 the Congress of the United States shall permit states
+16 to require any instrumentalities of the United States
+17 to make payments into an unemployment fund under a
+18 state unemployment compensation law, all of the
+19 provisions of the Employment Security Act of 1980
+20 shall be applicable to such instrumentalities, and to
+21 services performed for such instrumentalities, in the
+22 same manner, to the same extent, and on the same terms
+23 as to all other employers, employing units,
+24 individuals and services; provided that if this state
+Req. No. 16379 Page 15
+
+1 shall not be certified for any year by the Secretary
+2 of Labor of the United States under the Federal
+3 Internal Revenue Code, 26 U.S.C., Section 3304(c), the
+4 payments required of such instrumentalities with
+5 respect to the year shall be refunded by the
+6 Commission from the fund in the same manner and within
+7 the same period as is provided in Section 3-304 of
+8 this title with respect to contributions erroneously
+9 collected;
+10 (e) service with respect to which unemployment
+11 compensation is payable under an unemployment
+12 compensation system established by an act of Congress;
+13 (f) service performed in the employ of a foreign
+14 government, including service as a consul or other
+15 officer or employee or a nondiplomatic representative;
+16 (g) service performed in the employ of an instrumentality
+17 wholly owned by a foreign government:
+18 (i) if the service is of a character similar to that
+19 performed in foreign countries by employees of
+20 the United States government or of an
+21 instrumentality thereof, and
+22 (ii) if the Commission finds that the United States
+23 Secretary of State has certified to the United
+24 States Secretary of the Treasury that the foreign
+Req. No. 16379 Page 16
+
+1 government, with respect to whose instrumentality
+2 exemption is claimed, grants an equivalent
+3 exemption with respect to similar service
+4 performed in the foreign country by employees of
+5 the United States government and of
+6 instrumentalities thereof;
+7 (h) service covered by an arrangement between the
+8 Commission and the agency charged with the
+9 administration of any other state or federal
+10 unemployment compensation law pursuant to which all
+11 services performed by an individual for an employing
+12 unit during the period covered by such employing
+13 unit's duly approved election, are deemed to be
+14 performed entirely within the jurisdiction of such
+15 other state or federal agency;
+16 (i) service performed as a student nurse in the employ of
+17 a hospital or a nurses' training school by an
+18 individual who is enrolled and is regularly attending
+19 classes in a nurses' training school chartered or
+20 approved pursuant to state law; and service performed
+21 as an intern in the employ of a hospital by an
+22 individual who has completed a four-year course in a
+23 medical school chartered or approved pursuant to state
+24 law;
+Req. No. 16379 Page 17
+
+1 (j) service performed by an individual for a person, firm,
+2 association, trust, partnership or corporation as an
+3 insurance agent, or as an insurance solicitor or as a
+4 licensed real estate agent, if all such service
+5 performed by such individual for such person is
+6 performed for remuneration solely by way of
+7 commissions or fees;
+8 (k) service performed by an individual under the age of
+9 eighteen (18) in the delivery and distribution of
+10 newspapers or shopping news, not including delivery or
+11 distribution to any point for subsequent delivery or
+12 distribution, and services performed by an individual
+13 eighteen (18) years of age or older who meets the
+14 definition of a "direct seller" as defined in 26
+15 U.S.C., Section 3508(b)(2), that states in pertinent
+16 part:
+17 (i) the individual must be engaged in the delivery or
+18 distribution of newspapers or shopping news,
+19 including any services directly related to such
+20 trade or business,
+21 (ii) substantially all the remuneration, whether or
+22 not paid in cash, for the performance of the
+23 services described in division (i) of this
+24 subparagraph is directly related to sales or
+Req. No. 16379 Page 18
+
+1 other output, including the performance of
+2 services, rather than the number of hours worked,
+3 and
+4 (iii) the services performed by the individual are
+5 performed pursuant to a written contract between
+6 the person and the person for whom the services
+7 are performed and the contract provides that the
+8 person will not be treated as an employee with
+9 respect to the services;
+10 (l) service performed in the employ of a school, college
+11 or university, if the service is performed:
+12 (i) by a student who is enrolled and is regularly
+13 attending classes at the school, college, or
+14 university, or
+15 (ii) by the spouse of the student, if the spouse is
+16 advised, at the time the spouse commences to
+17 perform the service, that:
+18 (I) the employment of the spouse to perform the
+19 service is provided under a program to
+20 provide financial assistance to the student
+21 by the school, college, or university, and
+22 (II) the employment will not be covered by any
+23 program of unemployment insurance;
+24
+Req. No. 16379 Page 19
+
+1 (m) service performed by an individual who is enrolled at
+2 a nonprofit or public educational institution which
+3 normally maintains a regular faculty and curriculum
+4 and normally has a regularly organized body of
+5 students in attendance at the place where its
+6 educational activities are carried on as a student in
+7 a full-time program, taken for credit at the
+8 institution, which combines academic instruction with
+9 work experience, if the service is an integral part of
+10 the program, and the institution has so certified to
+11 the employer, except that this provision shall not
+12 apply to service performed in a program established
+13 for or on behalf of an employer or group of employers;
+14 (n) service performed in the employ of a hospital, if the
+15 service is performed by a patient of the hospital;
+16 (o) services performed by cooperative extension personnel
+17 holding federal appointments employed by state
+18 institutions of higher learning;
+19 (p) earnings of employees being paid by state warrants who
+20 are presently covered by the Federal Unemployment
+21 Compensation Act, 5 U.S.C., Section 8501 et seq., by
+22 virtue of their federal status;
+23 (q) cosmetology services performed by an individual in a
+24 beauty shop, as defined by Section 199.1 of Title 59
+Req. No. 16379 Page 20
+
+1 of the Oklahoma Statutes, pursuant to an agreement
+2 whereby the owner of the beauty shop leases or rents
+3 facilities for cosmetology to such individual;
+4 (r) barbering services performed by an individual in a
+5 barber shop, as defined by Section 61.5 of Title 59 of
+6 the Oklahoma Statutes, pursuant to an agreement
+7 whereby the owner of the barber shop leases or rents
+8 facilities for barbering to such individual;
+9 (s) services performed as a participant in a work or
+10 training program administered by the Department of
+11 Human Services;
+12 (t) riding services performed by a jockey and services
+13 performed by a trainer of racehorses in preparation
+14 for and during an approved race meeting licensed by
+15 the Oklahoma Horse Racing Commission;
+16 (u) service performed by an individual whose remuneration
+17 consists solely of commissions, overrides, bonuses,
+18 and differentials related to sales or other output
+19 derived from in-person sales to, or solicitation of
+20 orders from, ultimate consumers primarily in the home,
+21 or otherwise than in a permanent retail establishment;
+22 (v) service performed by a person, commonly referred to as
+23 "owner-operator", who owns or leases a truck-tractor
+24 or truck for hire, provided the owner-operator
+Req. No. 16379 Page 21
+
+1 actually operates the truck-tractor or truck and,
+2 further, that the entity contracting with the owner-
+3 operator is not the lessor of the truck-tractor or
+4 truck;
+5 (w) services performed as a chopper of cotton who weeds or
+6 thins cotton crops by hand or hoe. This subsection
+7 shall be interpreted and applied consistently with the
+8 Federal Unemployment Tax Act, 26 U.S.C., Sections
+9 3304(a)(6)(A) and 3306(k);
+10 (x) services performed for a private for-profit person or
+11 entity by an individual as a landman:
+12 (i) if the individual is engaged primarily in
+13 negotiating for the acquisition or divestiture of
+14 mineral rights or negotiating business agreements
+15 that provide for the exploration for or
+16 development of minerals,
+17 (ii) if substantially all remuneration paid in cash or
+18 otherwise for the performance of the services is
+19 directly related to the completion by the
+20 individual of the specific tasks contracted for
+21 rather than to the number of hours worked by the
+22 individual, and
+23 (iii) if the services performed by the individual are
+24 performed under a written contract between the
+Req. No. 16379 Page 22
+
+1 individual and the person for whom the services
+2 are performed; provided that the individual is to
+3 be treated as an independent contractor and not
+4 as an employee with respect to the services
+5 provided under the contract; or
+6 (y) services performed by persons working under an
+7 AmeriCorps grant from the Corporation for National
+8 Service made pursuant to the National and Community
+9 Service Act of 1990 (NCSA) codified at 42 U.S.C.,
+10 Section 12501 et seq.
+11 SECTION 2. AMENDATORY 40 O.S. 2021, Section 4-508, as
+12 amended by Section 22, Chapter 360, O.S.L. 2022 (40 O.S. Supp.
+13 2025, Section 4-508), is amended to read as follows:
+14 Section 4-508. INFORMATION TO BE KEPT CONFIDENTIAL - DISCLOSURE.
+15 A. Except as otherwise provided by law, information obtained
+16 from any employing unit or individual pursuant to the administration
+17 of the Employment Security Act of 1980, any workforce system program
+18 administered or monitored by the Oklahoma Employment Security
+19 Commission, and determinations as to the benefit rights of any
+20 individual shall be kept confidential and shall not be disclosed or
+21 be open to public inspection in any manner revealing the
+22 individual's or employing unit's identity. Any claimant, employer,
+23 or agent of either as authorized in writing, shall be supplied with
+24 information from the records of the Oklahoma Employment Security
+Req. No. 16379 Page 23
+
+1 Comm ission, to the extent necessary for the proper presentation of
+2 the claim or complaint in any proceeding under the Employment
+3 Security Act of 1980, with respect thereto.
+4 B. Upon receipt of written request by any employer who
+5 maintains a Supplemental Unemployment Benefit (SUB) Plan, the
+6 Commission or its designated representative may release to that
+7 employer information regarding weekly benefit amounts paid its
+8 workers during a specified temporary layoff period, provided the
+9 Supplemental Unemployment Benefit (SUB) Plan requires benefit
+10 payment information before Supplemental Unemployment Benefits can be
+11 paid to the workers. Any information disclosed under this provision
+12 shall be utilized solely for the purpose outlined herein and shall
+13 be held strictly confidential by the employer.
+14 C. The provisions of this section shall not prevent the
+15 Commission from disclosing the following information and no
+16 liability whatsoever, civil or criminal, shall attach to any member
+17 of the Commission or any employee thereof for any error or omission
+18 in the disclosure of this information:
+19 1. The delivery to taxpayer or claimant a copy of any report or
+20 other paper filed by the taxpayer or claimant pursuant to the
+21 Employment Security Act of 1980;
+22 2. The disclosure of information to any person for a purpose as
+23 authorized by the taxpayer or claimant pursuant to a waiver of
+24
+Req. No. 16379 Page 24
+
+1 conf identiality. The waiver shall be in writing and shall be
+2 notarized;
+3 3. The Oklahoma Department of Commerce may have access to data
+4 obtained pursuant to the Employment Security Act of 1980 pursuant to
+5 rules promulgated by the Commission. The information obtained shall
+6 be held confidential by the Department and any of its agents and
+7 shall not be disclosed or be open to public inspection. The
+8 Oklahoma Department of Commerce, however, may release aggregated
+9 data, either by industry or county, provided that the aggregation
+10 meets disclosure requirements of the Commission;
+11 4. The publication of statistics so classified as to prevent
+12 the identification of a particular report and the items thereof;
+13 5. The disclosing of information or evidence to the Attorney
+14 General or any district attorney when the information or evidence is
+15 to be used by the officials or other parties to the proceedings to
+16 prosecute or defend allegations of violations of the Employment
+17 Security Act of 1980. The information disclosed to the Attorney
+18 General or any district attorney shall be kept confidential by them
+19 and not be disclosed except when presented to a court in a
+20 prosecution of a violation of Section 1-101 et seq. of this title,
+21 and a violation by the Attorney General or district attorney by
+22 otherwise releasing the information shall be a felony;
+23 6. The furnishing, at the discretion of the Commission, of any
+24 information disclosed by the records or files to any official person
+Req. No. 16379 Page 25
+
+1 or b ody of this state, any other state or of the United States who
+2 is concerned with the administration of assessment of any similar
+3 tax in this state, any other state or the United States;
+4 7. The furnishing of information to other state agencies for
+5 the limited purpose of aiding in the collection of debts owed by
+6 individuals to the requesting agencies or the Oklahoma Employment
+7 Security Commission;
+8 8. The release of information to employees of the Department of
+9 Transportation required for use in federally mandated regional
+10 transportation planning, which is performed as a part of its
+11 official duties;
+12 9. The release of information to employees of the State
+13 Treasurer's office required to verify or evaluate the effectiveness
+14 of the Oklahoma Small Business Linked Deposit Program on job
+15 creation;
+16 10. The release of information to employees of the Attorney
+17 General, the Department of Labor, the Workers' Compensation
+18 Commission and the Insurance Department for use in investigation of
+19 workers' compensation fraud;
+20 11. The release of information to employees of any state,
+21 county, municipal or tribal law enforcement agency for use in
+22 criminal investigations and the location of missing persons or
+23 fugitives from justice;
+24
+Req. No. 16379 Page 26
+
+1 12. The release of information to employees of the Center of
+2 International Trade, Oklahoma State University, required for the
+3 development of International Trade for employers doing business in
+4 this state;
+5 13. The release of information to employees of the Oklahoma
+6 State Regents for Higher Education required for use in the default
+7 prevention efforts and/or collection of defaulted student loans
+8 guaranteed by the Oklahoma Guaranteed Student Loan Program. Any
+9 information disclosed under this provision shall be utilized solely
+10 for the purpose outlined herein and shall be held strictly
+11 confidential by the Oklahoma State Regents for Higher Education;
+12 14. The release of information to employees of the Oklahoma
+13 Department of Career and Technology Education, the Oklahoma State
+14 Regents for Higher Education, the Center for Economic and Management
+15 Research of the University of Oklahoma, the Center for Economic and
+16 Business Development at Southwestern Oklahoma State University or a
+17 center of economic and business research or development at a
+18 comprehensive or regional higher education institution within The
+19 Oklahoma State System of Higher Education required to identify
+20 economic trends or educational outcomes. The information obtained
+21 shall be kept confidential by the Oklahoma Department of Career and
+22 Technology Education, the Oklahoma State Regents for Higher
+23 Education and the higher education institution and shall not be
+24 disclosed or be open to public inspection. The Oklahoma Department
+Req. No. 16379 Page 27
+
+1 of C areer and Technology Education, the Oklahoma State Regents for
+2 Higher Education and the higher education institution may release
+3 aggregated data, provided that the aggregation meets disclosure
+4 requirements of the Commission;
+5 15. The release of information to employees of the Office of
+6 Management and Enterprise Services required to identify economic
+7 trends. The information obtained shall be kept confidential by the
+8 Office of Management and Enterprise Services and shall not be
+9 disclosed or be open to public inspection. The Office of Management
+10 and Enterprise Services may release aggregate data, provided that
+11 the aggregation meets disclosure requirements of the Oklahoma
+12 Employment Security Commission;
+13 16. The release of information to employees of the Department
+14 of Mental Health and Substance Abuse Services required to evaluate
+15 the effectiveness of mental health and substance abuse treatment and
+16 state or local programs utilized to divert persons from inpatient
+17 treatment. The information obtained shall be kept confidential by
+18 the Department and shall not be disclosed or be open to public
+19 inspection. The Department of Mental Health and Substance Abuse
+20 Services, however, may release aggregated data, either by treatment
+21 facility, program or larger aggregate units, provided that the
+22 aggregation meets disclosure requirements of the Oklahoma Employment
+23 Security Commission;
+24
+Req. No. 16379 Page 28
+
+1 17. The release of information to employees of the Attorney
+2 General, the Oklahoma State Bureau of Investigation and the
+3 Insurance Department for use in the investigation of insurance fraud
+4 and health care fraud;
+5 18. The release of information to employees of public housing
+6 agencies for purposes of determining eligibility pursuant to 42
+7 U.S.C., Section 503(i);
+8 19. The release of wage and benefit claim information, at the
+9 discretion of the Commission, to an agency of this state or its
+10 political subdivisions that operate a program or activity designated
+11 as a required partner in the Workforce Innovation and Opportunity
+12 Act One-Stop delivery system pursuant to 29 U.S.C.A., Section
+13 3151(b)(1), based on a showing of need made to the Commission and
+14 after an agreement concerning the release of information is entered
+15 into with the entity receiving the information. For the limited
+16 purpose of completing performance accountability reports required by
+17 the Workforce Innovation and Opportunity Act, only those designated
+18 required partners that meet the 20 CFR Section 603.2(d) definition
+19 of public official may contract with a private agent or contractor
+20 pursuant to 20 CFR Section 603.5(f) for the purpose of the private
+21 agent or contractor receiving confidential unemployment compensation
+22 information to the extent necessary to complete the performance
+23 accountability reports;
+24
+Req. No. 16379 Page 29
+
+1 20. The release of information to the State Wage Interchange
+2 System, at the discretion of the Commission;
+3 21. The release of information to the Bureau of the Census of
+4 the U.S. Department of Commerce, the Bureau of Labor Statistics of
+5 the U.S. Department of Labor, and its agents employed by the
+6 Oklahoma Department of Labor for the purpose of economic and
+7 statistical research;
+8 22. The release of employer tax information and benefit claim
+9 information to the Oklahoma Health Care Authority for use in
+10 determining eligibility for a program that will provide subsidies
+11 for health insurance premiums for qualified employers, employees,
+12 self-employed persons and unemployed persons;
+13 23. The release of employer tax information and benefit claim
+14 information to the State Department of Rehabilitation Services for
+15 use in assessing results and outcomes of clients served;
+16 24. The release of information to any state or federal law
+17 enforcement authority when necessary in the investigation of any
+18 crime in which the Commission is a victim. Information that is
+19 confidential under this section shall be held confidential by the
+20 law enforcement authority unless and until it is required for use in
+21 court in the prosecution of a defendant in a criminal prosecution;
+22 25. The release of information to vendors that contract with
+23 the Oklahoma Employment Security Commission to provide for the
+24 issuance of debit cards, to conduct electronic fund transfers, to
+Req. No. 16379 Page 30
+
+1 perf orm computer programming operations, or to perform computer
+2 maintenance or replacement operations; provided the vendor agrees to
+3 protect and safeguard the information it receives and to destroy the
+4 information when no longer needed for the purposes set out in the
+5 contract;
+6 26. The release of information to employees of the Office of
+7 Juvenile Affairs for use in assessing results and outcomes of
+8 clients served as well as the effectiveness of state and local
+9 juvenile and justice programs including prevention and treatment
+10 programs. The information obtained shall be kept confidential by
+11 the Office of Juvenile Affairs and shall not be disclosed or be open
+12 to public inspection. The Office of Juvenile Affairs may release
+13 aggregated data for programs or larger aggregate units, provided
+14 that the aggregation meets disclosure requirements of the Oklahoma
+15 Employment Security Commission;
+16 27. The release of information to vendors that contract with
+17 the State of Oklahoma for the purpose of providing a public
+18 electronic labor exchange system that will support the Oklahoma
+19 Employment Security Commission's operation of an employment service
+20 system to connect employers with job seekers and military veterans.
+21 This labor exchange system would enhance the stability and security
+22 of Oklahoma's economy as well as support the provision of veterans'
+23 priority of service. The vendors may perform computer programming
+24 operations, perform computer maintenance or replacement operations,
+Req. No. 16379 Page 31
+
+1 or h ost the electronic solution; provided, each vendor agrees to
+2 protect and safeguard all information received, that no information
+3 shall be disclosed to any third party, that the use of the
+4 information shall be restricted to the scope of the contract, and
+5 that the vendor shall properly dispose of all information when no
+6 longer needed for the purposes set out in the contract; or
+7 28. The release of employer tax information and benefit claim
+8 information to employees of a county public defender's office in
+9 this state and the Oklahoma Indigent Defense System for the purpose
+10 of determining financial eligibility for the services provided by
+11 such entities; or
+12 29. The Oklahoma Workforce Commission, based on a showing of
+13 need made to the Oklahoma Employment Security Commission and after
+14 an agreement concerning the release of information is entered, may
+15 have access to data obtained pursuant to the Employment Security Act
+16 of 1980 pursuant to rules promulgated by the Oklahoma Employment
+17 Security Commission. The information obtained shall be held
+18 confidential by law, shall not be disclosed, shall not be subject to
+19 open records or freedom of information, and shall not be subject to
+20 subpoena. The Oklahoma Workforce Commission, however, may release
+21 aggregated data; provided that the aggregation meets disclosure
+22 requirements of the Oklahoma Employment Security Commission.
+23 D. Subpoenas to compel disclosure of information made
+24 confidential by this statute shall not be valid, except for
+Req. No. 16379 Page 32
+
+1 admi nistrative subpoenas issued by federal, state, or local
+2 governmental agencies that have been granted subpoena power by
+3 statute or ordinance. Confidential information maintained by the
+4 Commission can be obtained by order of a court of record that
+5 authorizes the release of the records in writing. All
+6 administrative subpoenas or court orders for production of documents
+7 must provide a minimum of twenty (20) days from the date it is
+8 served for the Commission to produce the documents. If the date on
+9 which production of the documents is required is less than twenty
+10 (20) days from the date of service, the subpoena or order shall be
+11 considered void on its face as an undue burden or hardship on the
+12 Commission. All administrative subpoenas, court orders or notarized
+13 waivers of confidentiality authorized by paragraph 2 of subsection C
+14 of this section shall be presented with a request for records within
+15 ninety (90) days of the date the document is issued or signed, and
+16 the document can only be used one time to obtain records.
+17 E. Should any of the disclosures provided for in this section
+18 require more than casual or incidental staff time, the Commission
+19 shall charge the cost of the staff time to the party requesting the
+20 information.
+21 F. It is further provided that the provisions of this section
+22 shall be strictly interpreted and shall not be construed as
+23 permitting the disclosure of any other information contained in the
+24 records and files of the Commission.
+Req. No. 16379 Page 33
+
+1 SECTION 3. This act shall become effective November 1, 2026.
+2
+3 60-2-16379 TKR 02/15/26
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 16379 Page 34

@@ -1,0 +1,179 @@
+Title: 
+Official Title: 
+Source: versions - House Conference Committee Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 CONFERENCE COMMITTEE
+SUBSTITUTE
+4 FOR ENGROSSED
+HOUSE BILL NO. 2992 By: Boles, Chapman, Cornwell,
+5 Hildebrant, Staires,
+Dobrinski, Clinton,
+6 Dollens, Wolfley, Alonso-
+Sandoval, Menz, Harris,
+7 Munson, Adams, Waldron,
+Stewart, Hill, Pogemiller,
+8 Turner, Kelley, McCane,
+Tedford, Rosecrants, Hays,
+9 and Grego of the House
+10 and
+11 Green, Seifried, Mann,
+Coleman, Prieto, Deevers,
+12 Kirt, Hamilton, and Nice of
+the Senate
+13
+14
+15
+16 CONFERENCE COMMITTEE SUBSTITUTE
+17 An Act relating to the Corporation Commission;
+creating the Data Center Customer Ratepayer
+18 Protection Act of 2026; defining terms; requiring
+governing bodies provide certain protections
+19 regarding rates; requiring electric suppliers
+establish and maintain certain separate terms,
+20 conditions and tariffs; detailing terms and
+conditions; requiring certain term of service be ten
+21 years; making certain exception; stating
+applicability; authorizing the promulgation of rules;
+22 granting certain exclusive jurisdiction; requiring
+electric suppliers comply to act; requiring certain
+23 parties be given notice of purchase; providing
+penalty for failing to provide notice; providing for
+24 collection of penalty and enforcement of violations;
+Req. No. 17585 Page 1
+
+1 providing for codification; providing an effective
+date; and declaring an emergency.
+2
+3
+4
+5 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+6 SECTION 1. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 900 of Title 17, unless there is
+8 created a duplication in numbering, reads as follows:
+9 This act shall be known and may be cited as the "Data Center
+10 Customer Ratepayer Protection Act of 2026".
+11 SECTION 2. NEW LAW A new section of law to be codified
+12 in the Oklahoma Statutes as Section 901 of Title 17, unless there is
+13 created a duplication in numbering, reads as follows:
+14 As used in the Data Center Customer Ratepayer Protection Act of
+15 2026:
+16 1. "Applicable governing body" means, with respect to any
+17 retail electric supplier, the governmental, regulatory, or self-
+18 governing authority having lawful jurisdiction over the
+19 construction, ownership, interconnection, planning, safety, or
+20 operation of such electric supplier, including but not limited to,
+21 the Corporation Commission, a municipal governing body, a rural
+22 electric cooperative's board of trustees, or other nonjurisdictional
+23 supplier;
+24
+Req. No. 17585 Page 2
+
+1 2. "Cost causation" means customers responsible for the
+2 electric supplier incurring the cost should be allocated their
+3 equitable share of those costs;
+4 3. "Electric supplier" means any entity providing electric
+5 service within the state, including investor-owned utilities,
+6 electric cooperatives, municipal electric utilities, and public
+7 power utilities;
+8 4. "Large load customer" means new data centers, new
+9 cryptocurrency mining operations and new facilities whose primary
+10 function is artificial-intelligence computing facilities that
+11 contract with an electric supplier to add seventy-five (75)
+12 megawatts or greater electric load per facility or in aggregate
+13 behind a single point of interconnection to an electric supplier's
+14 load after July 1, 2026. It does not include residential,
+15 commercial, agricultural, or industrial ratepayers, or those
+16 entities that build generation for behind-the-meter projects; and
+17 5. "Residential customer" means a customer receiving retail
+18 electric service for household purposes as established by the
+19 applicable electric supplier.
+20 SECTION 3. NEW LAW A new section of law to be codified
+21 in the Oklahoma Statutes as Section 902 of Title 17, unless there is
+22 created a duplication in numbering, reads as follows:
+23 Any applicable governing body responsible for reviewing electric
+24 supplier rates shall ensure that residential, commercial and
+Req. No. 17585 Page 3
+
+1 indu strial customers are protected from paying unjust rates
+2 resulting directly from electric service to large load customers.
+3 The applicable governing body shall ensure that all rates are fair,
+4 just and reasonable, and costs and revenues are assigned and
+5 allocated among customers in accordance with cost causation
+6 principles.
+7 SECTION 4. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 903 of Title 17, unless there is
+9 created a duplication in numbering, reads as follows:
+10 All electric suppliers shall establish and maintain separate
+11 terms and conditions of electric service applicable to any large
+12 load customer and shall create and maintain separate tariffs
+13 applicable to such large load customers. These terms, conditions,
+14 and tariffs shall include credit requirements and any other measures
+15 necessary to ensure that such customers reimburse the electric
+16 supplier for all costs fairly allocated to them under Section 3 of
+17 this act, including costs incurred to directly serve the customer
+18 that may remain unrecovered if the customer departs the system or
+19 materially reduces load. The term of service for a large load
+20 customer shall be at least ten (10) years. For any public power
+21 utility using tax-exempt municipal financing, the term of the
+22 agreement shall be the lesser of ten (10) years or the applicable
+23 Internal Revenue Service Guideline.
+24
+Req. No. 17585 Page 4
+
+1 SECTION 5. NEW LAW A new section of law to be codified
+2 in the Oklahoma Statutes as Section 904 of Title 17, unless there is
+3 created a duplication in numbering, reads as follows:
+4 This act applies to all retail electric suppliers serving load
+5 in this state, including investor-owned utilities regulated by the
+6 Corporation Commission, electric cooperatives, municipal electric
+7 utilities, and public power utilities.
+8 SECTION 6. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 905 of Title 17, unless there is
+10 created a duplication in numbering, reads as follows:
+11 The Oklahoma Corporation Commission may promulgate rules within
+12 its authority and jurisdiction to effectuate the provisions of this
+13 act. For electric suppliers subject to the jurisdiction of the
+14 Oklahoma Corporation Commission for regulation of their electric
+15 rates, the Oklahoma Corporation Commission shall have exclusive
+16 jurisdiction to enforce the provisions of this act within its
+17 authority. Retail electric suppliers shall comply with this act as
+18 a condition of providing service to large load customers.
+19 SECTION 7. NEW LAW A new section of law to be codified
+20 in the Oklahoma Statutes as Section 906 of Title 17, unless there is
+21 created a duplication in numbering, reads as follows:
+22 A. Any large load customer, as defined in Section 2 of this
+23 act, or any developer, owner, or entity acting on behalf of a large
+24 load customer, that purchases any land in this state outside of an
+Req. No. 17585 Page 5
+
+1 indu strial development park or a municipality, shall be required to
+2 notify the Corporation Commission, the county commissioners of the
+3 county in which the land is purchased, and any adjacent property
+4 owners who own property that abuts the large load customer's land
+5 within sixty (60) days after the land is purchased. Such notice
+6 shall be given to by certified mail, return receipt requested, to
+7 the party's last-known business or residential address.
+8 B. Any large load customer, or any developer, owner, or entity
+9 acting on behalf of a large load customer, who fails to provide
+10 proper notice as required by this section, shall be subject to an
+11 administrative penalty of One Thousand Five Hundred Dollars
+12 ($1,500.00) per day, per violation to be collected and enforced by
+13 the county commissioners in which the land is located. If a large
+14 load customer has a project that utilizes land located in two or
+15 more counties, the penalty shall be divided amongst the counties
+16 based upon the percentage of land located in each county.
+17 SECTION 8. This act shall become effective July 1, 2026.
+18 SECTION 9. It being immediately necessary for the preservation
+19 of the public peace, health or safety, an emergency is hereby
+20 declared to exist, by reason whereof this act shall take effect and
+21 be in full force from and after its passage and approval.
+22
+23 60-2-17585 JBH 04/30/26
+24
+Req. No. 17585 Page 6

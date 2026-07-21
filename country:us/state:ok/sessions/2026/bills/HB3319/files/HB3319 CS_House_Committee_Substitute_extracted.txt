@@ -1,0 +1,274 @@
+Title: 
+Official Title: 
+Source: versions - House Committee Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 COMMITTEE SUBSTITUTE
+FOR
+4 HOUSE BILL NO. 3319 By: Eaves
+5
+6
+7 COMMITTEE SUBSTITUTE
+8 An Act relating to revenue and taxation; amending 68
+O.S. 2021, Section 205.2, as amended by Section 1,
+9 Chapter 277, O.S.L. 2024 (68 O.S. Supp. 2025, Section
+205.2), which relates to claims by state agencies,
+10 municipal courts, district courts, or public housing
+authorities against state income tax refunds;
+11 modifying definition of qualified entity to include
+municipal public authorities and public trusts;
+12 allowing for municipal public authorities to file a
+claim for collection of delinquent utility charges;
+13 prohibiting municipal public authorities from filing
+a claim for collection of medical debt; and providing
+14 an effective date.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. AMENDATORY 68 O.S. 2021, Section 205.2, as
+19 amended by Section 1, Chapter 277, O.S.L. 2024 (68 O.S. Supp. 2025,
+20 Section 205.2), is amended to read as follows:
+21 Section 205.2. A. For purposes of this section, a "qualified
+22 entity" shall mean a:
+23 1. State agency;
+24 2. Municipal court;
+Req. No. 16816 Page 1
+
+1 3. District court;
+2 4. Public housing authority operating pursuant to Section 1062
+3 of Title 63 of the Oklahoma Statutes;
+4 5. District attorney seeking to collect unpaid court-ordered
+5 monetary obligations; or
+6 6. Any municipal public authority or public trust created
+7 pursuant to Section 176 of Title 60 of the Oklahoma Statutes or
+8 other applicable law, the beneficiary of which is a municipality of
+9 this state; or
+10 7. The designee of an entity described in paragraphs 1 through
+11 5 6 of this subsection.
+12 B. A qualified entity seeking to collect a debt, unpaid
+13 municipal or district court fines and costs or final judgment of at
+14 least Fifty Dollars ($50.00) from an individual who has filed a
+15 state income tax return may file a claim with the Oklahoma Tax
+16 Commission requesting that the amount owed to the qualified entity
+17 be deducted from any state income tax refund due to that individual.
+18 In addition to any debt authorized for collection pursuant to this
+19 section, a qualified entity that is a municipal public authority or
+20 public trust may file a claim with the Oklahoma Tax Commission
+21 requesting that the amount owed to the qualified entity for
+22 delinquent utility charges, including, but not limited to, water
+23 sewer, sanitation, and related service fees be deducted from any
+24 state income tax refund due to that individual, provided that the
+Req. No. 16816 Page 2
+
+1 util ity charges are at least ninety (90) days delinquent and the
+2 utility service associated with the delinquent account has been
+3 lawfully disconnected for nonpayment. A qualified entity that is a
+4 municipal public authority or public trust shall not file a claim
+5 pursuant to this section for any amount owed to the municipal public
+6 authority or public trust for medical services or medical treatment
+7 received by an individual. The claim shall be filed electronically
+8 in a form prescribed by the Tax Commission and shall contain
+9 information necessary to identify the person owing the debt,
+10 including the full name and Social Security number of the debtor.
+11 1. Upon receiving a claim from a qualified entity, the Tax
+12 Commission shall deduct the claim amount, plus collection expenses
+13 as provided in this section, from the tax refund due to the debtor
+14 and transfer the amount to the qualified entity. Provided, the Tax
+15 Commission need not report available funds of less than Fifty
+16 Dollars ($50.00).
+17 2. The qualified entity shall send notice to the debtor by
+18 regular mail at the last-known address of the debtor as shown by the
+19 records of the Tax Commission when seeking to collect a debt not
+20 reduced to final judgment. The qualified entity shall send notice
+21 to the judgment debtor or defendant by first-class mail at the last-
+22 known address of the judgment debtor or defendant as shown by the
+23 records of the Tax Commission when seeking to collect a final
+24 judgment or unpaid court fines and costs. The Tax Commission shall
+Req. No. 16816 Page 3
+
+1 prov ide in an agreed electronic format to the Department of Human
+2 Services the amount withheld by the Tax Commission, the home address
+3 and the Social Security number of the taxpayer. The notice shall
+4 state:
+5 a. that a claim has been filed with the Tax Commission
+6 for any portion of the tax refund due to the debtor or
+7 defendant which would satisfy the debt, unpaid court
+8 fines and costs, or final judgment in full or in part,
+9 b. the basis for the claim,
+10 c. that the Tax Commission has deducted an amount from
+11 the refund and remitted it to such qualified entity,
+12 d. that the debtor or defendant has the right to contest
+13 the claim by sending a written request to the
+14 qualified entity for a hearing to protest the claim,
+15 and if the debtor or defendant fails to apply for a
+16 hearing within sixty (60) days after the date of the
+17 mailing of the notice, the debtor or defendant shall
+18 be deemed to have waived his or her opportunity to
+19 contest the claim. Provided, if the claim was filed
+20 by the Department of Human Services, the notice shall
+21 state that the debtor must contest the claim by
+22 sending a written request to the Department within
+23 thirty (30) days after the date of the mailing of the
+24 notice, and
+Req. No. 16816 Page 4
+
+1 e. that a collection expense of five percent (5%) of the
+2 gross proceeds owed to the qualified entity has been
+3 charged to the debtor or defendant and withheld from
+4 the refund.
+5 3. If the qualified entity determines that a refund is due to
+6 the taxpayer, the qualified entity shall reimburse the amount
+7 claimed plus the five-percent collection expense to the taxpayer.
+8 The qualified entity may request reimbursement of the two-percent
+9 collection expense retained by the Tax Commission. Such request
+10 must be made within ninety (90) days of reimbursement to the
+11 taxpayer. If timely requested, the Tax Commission shall make such
+12 reimbursement to the qualified entity within ninety (90) days of the
+13 request.
+14 4. In the case of a joint return, the notice shall state:
+15 a. the name of any taxpayer named in the return against
+16 whom no debt, no unpaid court fines and costs, or
+17 final judgment is claimed,
+18 b. the fact that a debt, unpaid court fines and costs, or
+19 final judgment is not claimed against the taxpayer,
+20 c. the fact that the taxpayer is entitled to receive a
+21 refund if it is due regardless of the debt, court
+22 fines and costs, or final judgment asserted against
+23 the debtor or defendant,
+24
+Req. No. 16816 Page 5
+
+1 d. that in order to obtain the refund due, the taxpayer
+2 must apply, in writing, for a hearing with the
+3 qualified entity named in the notice within sixty (60)
+4 days after the date of the mailing of the notice.
+5 Provided, if the claim was filed by the Department of
+6 Human Services, the notice shall state that the
+7 taxpayer must apply, in writing, for a hearing with
+8 the Department within thirty (30) days after the date
+9 of the mailing of the notice, and
+10 e. if the taxpayer against whom no debt, no unpaid court
+11 fines and costs, or final judgment is claimed fails to
+12 apply in writing for a hearing within sixty (60) days
+13 after the mailing of the notice, the taxpayer shall
+14 have waived his or her right to a refund. Provided,
+15 if the claim was filed by the Department of Human
+16 Services, the notice shall state that if the taxpayer
+17 fails to apply in writing for a hearing with the
+18 Department within thirty (30) days after the date of
+19 the mailing of the notice, the taxpayer shall have
+20 waived his or her right to a refund.
+21 C. If the qualified entity asserting the claim receives a
+22 written request for a hearing from the debtor or taxpayer against
+23 whom no debt, no court fines and costs, or final judgment is
+24 claimed, the qualified entity shall grant a hearing according to the
+Req. No. 16816 Page 6
+
+1 prov isions of the Administrative Procedures Act. It shall be
+2 determined at the hearing whether the claimed sum is correct or
+3 whether an adjustment to the claim shall be made. Pending final
+4 determination at the hearing of the validity of the debt, unpaid
+5 court fines and costs, or final judgment asserted by the qualified
+6 entity, no action shall be taken in furtherance of the collection of
+7 the debt, unpaid court fines and costs, or final judgment. Appeals
+8 from actions taken at the hearing shall be in accordance with the
+9 provisions of the Administrative Procedures Act.
+10 D. Upon final determination at a hearing, as provided for in
+11 subsection C of this section, of the amount of the debt, unpaid
+12 court fines and costs, or final judgment, or upon failure of the
+13 debtor or taxpayer against whom no debt, no unpaid court fines and
+14 costs, or final judgment is claimed to request such a hearing, the
+15 qualified entity shall apply the amount of the claim to the debt
+16 owed. Any amounts held by the qualified entity in excess of the
+17 final determination of the debt and collection expense shall be
+18 refunded by the qualified entity to the taxpayer. However, if the
+19 tax refund due is inadequate to pay the collection expense and debt,
+20 unpaid court fines and costs, or final judgment, the balance due the
+21 qualified entity shall be a continuing debt or final judgment until
+22 paid in full.
+23 E. Upon receipt of a claim as provided in subsection A of this
+24 section, the Tax Commission shall:
+Req. No. 16816 Page 7
+
+1 1. Deduct from the refund five percent (5%) of the gross
+2 proceeds owed to the qualified entity, and distribute it by
+3 retaining two percent (2%) and transferring three percent (3%) to
+4 the qualified entity, as an expense of collection. The two percent
+5 (2%) retained by the Tax Commission shall be deposited in the
+6 Oklahoma Tax Commission Fund;
+7 2. Transfer the amount of the claimed debt, unpaid court fines
+8 and costs, or final judgment or so much thereof as is available to
+9 the qualified entity;
+10 3. Notify the debtor in writing as to how the refund was
+11 applied; and
+12 4. Refund to the debtor any balance remaining after deducting
+13 the collection expense and debt, unpaid court fines and costs, or
+14 final judgment.
+15 F. The Tax Commission shall deduct from any state tax refund
+16 due to a taxpayer the amount of delinquent state tax and penalty and
+17 interest thereon, which such taxpayer owes pursuant to any state tax
+18 law prior to payment of such refund.
+19 G. The Tax Commission shall have first priority over all other
+20 qualified entities when the Tax Commission is collecting a debt,
+21 court fines and costs, or final judgment pursuant to the provisions
+22 of this section. Subsequent to the Tax Commission priority, a claim
+23 filed by the Department of Human Services for the collection of
+24 child support and spousal support shall have priority over all other
+Req. No. 16816 Page 8
+
+1 clai ms filed pursuant to this section. Priority in multiple claims
+2 by other qualified entities pursuant to the provisions of this
+3 section shall be in the order in time in which the Tax Commission
+4 receives the claim from the qualified entities required by the
+5 provisions of subsection B of this section.
+6 H. The Tax Commission shall prescribe or approve forms and
+7 promulgate rules and regulations for implementing the provisions of
+8 this section.
+9 I. The information obtained by a qualified entity from the Tax
+10 Commission pursuant to the provisions of this section shall be used
+11 only to aid in collection of the debt, unpaid court fines and costs,
+12 or final judgment owed to the qualified entity. Disclosure of the
+13 information for any other purpose shall constitute a misdemeanor.
+14 Any employee of a qualified entity or person convicted of violating
+15 this provision shall be subject to a fine not exceeding One Thousand
+16 Dollars ($1,000.00) or imprisonment in the county jail for a term
+17 not exceeding one (1) year, or both fine and imprisonment and, if
+18 still employed by the qualified entity, shall be dismissed from
+19 employment.
+20 J. The Tax Commission may employ the procedures provided by
+21 this section in order to collect a debt owed to the Internal Revenue
+22 Service if the Internal Revenue Service requires such procedure as a
+23 condition to providing information to the Commission concerning
+24 federal income tax.
+Req. No. 16816 Page 9
+
+1 K. The provisions of this section shall not apply to claims
+2 filed under the provisions of Section 2906 or Section 5011 of this
+3 title or Section 28-101 of Title 70 of the Oklahoma Statutes.
+4 SECTION 2. This act shall become effective November 1, 2026.
+5
+6 60-2-16816 GRS 02/26/26
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 16816 Page 10
