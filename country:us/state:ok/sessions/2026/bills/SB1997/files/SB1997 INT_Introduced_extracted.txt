@@ -1,0 +1,817 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1997 By: Murdock
+3
+4
+4
+5
+AS INTRODUCED
+5
+6
+An Act relating to ad valorem tax; amending 68 O.S.
+6
+2021, Section 2887, as amended by Section 1, Chapter
+7
+260, O.S.L. 2023 (68 O.S. Supp. 2025, Section 2887),
+7
+which relates to exemptions; providing exemption for
+8
+certain personal property of certain business entity;
+8
+prescribing procedure for determining total fair cash
+9
+value for entity; exempting entity from certain
+9
+filing requirement upon certain determination by
+10
+assessor; updating statutory language; updating
+10
+statutory references; and providing an effective
+11
+date.
+11
+12
+12
+13
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+13
+14
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 2887, as
+14
+15
+amended by Section 1, Chapter 260, O.S.L. 2023 (68 O.S. Supp. 2025,
+15
+16
+Section 2887), is amended to read as follows:
+16
+17
+Section 2887. The following property shall be exempt from ad
+17
+18
+valorem taxation:
+18
+19
+1. All property of the United States, and such property as may
+19
+20
+be exempt by reason of treaty stipulations existing at statehood
+20
+21
+between the Indians and the United States government, or by reason
+21
+22
+of federal laws in effect at statehood, during the time such
+22
+23
+treaties or federal laws are in force and effect. In instances
+23
+24
+where a federal agency has obtained title to property through
+24
+Req. No. 3095 Page 1
+
+1
+foreclosure, voluntary or involuntary liquidation or bankruptcy,
+1
+2
+which was previously subject to ad valorem taxation, the property
+2
+3
+may continue to be assessed for ad valorem taxes if such federal
+3
+4
+agency has agreed to pay such taxes;
+4
+5
+2. All property of this state, and of the counties, school
+5
+6
+districts, and municipalities of this state, including property
+6
+7
+acquired for the use of such entities pursuant to the terms of a
+7
+8
+lease-purchase agreement which provides for the passage of title or
+8
+9
+the release of security interest, if applicable, upon payment of all
+9
+10
+rental payments and an additional nominal amount;
+10
+11
+3. All property of any college or school, provided such
+11
+12
+property is devoted exclusively and directly to the appropriate
+12
+13
+objects of such college or school within this state and all property
+13
+14
+used exclusively for nonprofit schools and colleges;
+14
+15
+4. The books, papers, furniture and scientific or other
+15
+16
+apparatus pertaining to any institution, college or society referred
+16
+17
+to in paragraph 3 of this section, and devoted exclusively and
+17
+18
+directly for the purpose above contemplated, and the like property
+18
+19
+of students in any such institution or college, while such property
+19
+20
+is used for the purpose of their education;
+20
+21
+5. All fraternal orphan homes and other orphan homes;
+21
+22
+6. All property used for free public libraries, free museums,
+22
+23
+public cemeteries, or free public schools;
+23
+24
+24
+Req. No. 3095 Page 2
+
+1
+7. All property used exclusively and directly for fraternal or
+1
+2
+religious purposes within this state. For purposes of this
+2
+3
+paragraph, an exemption based on religious purposes includes real
+3
+4
+property owned by a church which allows its premises to be used by
+4
+5
+an entity if such entity is not required to make rental payments to
+5
+6
+the church, is not required to execute a formal lease agreement with
+6
+7
+respect to its occupancy of the church premises and conducts
+7
+8
+instruction of children from any or all grades for ages preschool
+8
+9
+through twelfth grade, including religious instruction consistent
+9
+10
+with the doctrines of the church the premises of which are being
+10
+11
+used for that purpose. For purposes of this paragraph, a
+11
+12
+requirement by a church to be reimbursed by the entity for utility
+12
+13
+expenses, janitorial services or similar expenses shall not be a
+13
+14
+basis upon which to remove or deny the exempt status of church
+14
+15
+property. Exempt status of church property shall not be removed nor
+15
+16
+shall church property be allocated between taxable and exempt status
+16
+17
+based on the use of church premises by an entity as described by
+17
+18
+this paragraph.
+18
+19
+For purposes of administering the exemption authorized by this
+19
+20
+section and in order to determine whether a single family
+20
+21
+residential property is used exclusively and directly for fraternal
+21
+22
+or religious purposes, the fair cash value of a single family
+22
+23
+residential property, for which an exemption is claimed as
+23
+24
+authorized by this subsection section, in excess of Five Hundred
+24
+Req. No. 3095 Page 3
+
+1
+Thousand Dollars ($500,000.00) for the applicable assessment year
+1
+2
+shall not be exempt from taxation;
+2
+3
+8. All property of any charitable institution organized or
+3
+4
+chartered under the laws of this state as a nonprofit or charitable
+4
+5
+institution, provided the net income from such property is used
+5
+6
+exclusively within this state for charitable purposes and no part of
+6
+7
+such income inures to the benefit of any private stockholder,
+7
+8
+including property which is not leased or rented to any person other
+8
+9
+than a governmental body, a charitable institution or a member of
+9
+10
+the general public who is authorized to be a tenant in property
+10
+11
+owned by a charitable institution under Section 501(c)(3) of the
+11
+12
+Internal Revenue Code of 1986, as amended, and which includes, but
+12
+13
+is not limited to, an institution that either:
+13
+14
+a. additionally satisfies the income standards set forth
+14
+15
+in Internal Revenue Service Revenue Procedure 96-32,
+15
+16
+which may be audited by the county assessor of the
+16
+17
+applicable county, in addition to other requirements
+17
+18
+of this subparagraph, as a condition of obtaining and
+18
+19
+maintaining the exemption, if:
+19
+20
+(1) the property provides residential rental
+20
+21
+accommodations regardless of whether services or
+21
+22
+meals are provided, and
+22
+23
+(2) the property:
+23
+24
+24
+Req. No. 3095 Page 4
+
+1
+(a) is occupied as of the applicable January 1
+1
+2
+assessment date if the structure is a
+2
+3
+single-family dwelling, or
+3
+4
+(b) has an average seventy-five percent (75%)
+4
+5
+occupancy rate, based upon the total number
+5
+6
+of units suitable for occupancy, during the
+6
+7
+calendar year preceding the applicable
+7
+8
+January 1 assessment date if the property
+8
+9
+contains multiple structures suitable for
+9
+10
+multi-family multifamily housing. The owner
+10
+11
+of any property subject to the occupancy
+11
+12
+requirements prescribed herein shall submit
+12
+13
+a report to the county assessor of the
+13
+14
+county in which the property is located no
+14
+15
+later than December 15 each year regarding
+15
+16
+the occupancy rate for the preceding eleven
+16
+17
+(11) months. If the report indicates that
+17
+18
+the average occupancy rate was less than
+18
+19
+seventy-five percent (75%), the county
+19
+20
+assessor shall determine the taxable value
+20
+21
+of the property for the succeeding
+21
+22
+assessment year and the property shall not
+22
+23
+be exempt for any subsequent assessment year
+23
+24
+unless the average occupancy rate is at
+24
+Req. No. 3095 Page 5
+
+1
+least seventy-five percent (75%) during the
+1
+2
+succeeding eleven-month period. Except as
+2
+3
+provided in Section 178.6 of Title 60 of the
+3
+4
+Oklahoma Statutes, no asset consisting of a
+4
+5
+single-family or multi-family multifamily
+5
+6
+dwelling unit owned by an entity the
+6
+7
+property of which would otherwise be exempt
+7
+8
+pursuant to this subparagraph a of this
+8
+9
+paragraph shall be exempt from ad valorem
+9
+10
+taxation if any such dwelling unit was
+10
+11
+improved with or acquired with any portion
+11
+12
+of proceeds from the sale of obligations
+12
+13
+issued by any entity organized pursuant to
+13
+14
+Section 176 of Title 60 of the Oklahoma
+14
+15
+Statutes if the interest income derived from
+15
+16
+such obligations is exempt from federal
+16
+17
+income tax, or
+17
+18
+b. (1) for a facility constructed prior to January 1,
+18
+19
+2006, is a continuum of care retirement community
+19
+20
+providing housing for the aged, licensed under
+20
+21
+Oklahoma law, owned by a nonprofit entity
+21
+22
+recognized by the Internal Revenue Service as a
+22
+23
+Section 501(c)(3) tax-exempt entity and located
+23
+24
+in a county with a population of more than five
+24
+Req. No. 3095 Page 6
+
+1
+hundred thousand (500,000) according to the
+1
+2
+latest Federal Decennial Census, and
+2
+3
+(2) (a) for a facility in which construction was
+3
+4
+completed on or after January 1, 2006, is:
+4
+5
+i. a continuum of care retirement
+5
+6
+community providing housing for the
+6
+7
+aged, licensed under Oklahoma law,
+7
+8
+ii. owned by a nonprofit entity recognized
+8
+9
+by the Internal Revenue Service as a
+9
+10
+Section 501(c)(3) tax-exempt entity,
+10
+11
+and
+11
+12
+iii. located in any county of the state
+12
+13
+regardless of population, or
+13
+14
+(b) for a facility other than a facility
+14
+15
+described by division (1) of this
+15
+16
+subparagraph b of this paragraph and which
+16
+17
+is partially or fully constructed prior to
+17
+18
+January 1, 2006, is:
+18
+19
+i. owned and occupied on or after January
+19
+20
+1, 2006, by an entity that operates a
+20
+21
+continuum of care retirement community
+21
+22
+providing housing for the aged,
+22
+23
+licensed under Oklahoma law,
+23
+24
+24
+Req. No. 3095 Page 7
+
+1
+ii. owned by a nonprofit entity recognized
+1
+2
+by the Internal Revenue Service as a
+2
+3
+Section 501(c)(3) tax-exempt entity,
+3
+4
+and
+4
+5
+iii. is located in any county of the state
+5
+6
+regardless of population;
+6
+7
+9. All property used exclusively and directly for charitable
+7
+8
+purposes within this state, provided the charity using said such
+8
+9
+property does not pay any rent or remuneration to the owner thereof
+9
+10
+unless the owner is a charitable institution described in Section
+10
+11
+501(c)(3) of the Internal Revenue Code, 26 U.S.C., Section
+11
+12
+501(c)(3), or a veterans’ organization described in Section
+12
+13
+501(c)(19) of the Internal Revenue Code, 26 U.S.C., Section
+13
+14
+501(c)(19);
+14
+15
+10. All property of any hospital established, organized and
+15
+16
+operated by any person, partnership, association, organization,
+16
+17
+trust, or corporation, as a nonprofit and charitable hospital,
+17
+18
+provided the property and net income from such hospital are used
+18
+19
+directly, solely, and exclusively within this state for charitable
+19
+20
+purposes and that no part of such income shall inure to the benefit
+20
+21
+of any individual, person, partner, shareholder, or stockholder, and
+21
+22
+provided further that such hospital facilities shall be open to the
+22
+23
+public without discrimination as to race, color or creed and
+23
+24
+regardless of ability to pay, and that such hospital is licensed and
+24
+Req. No. 3095 Page 8
+
+1
+otherwise complies with the laws of this state relating to the
+1
+2
+licensing and regulation of hospitals;
+2
+3
+11. All libraries and office equipment of ministers of the
+3
+4
+Gospel actively engaged in ministerial work in the State of Oklahoma
+4
+5
+this state, where said such libraries and office equipment are being
+5
+6
+used by said such ministers in their ministerial work, shall be
+6
+7
+deemed to be used exclusively for religious purposes and are
+7
+8
+declared to be within the meaning of the term “religious purposes”
+8
+9
+as used in Article X, Section 6 of Article X of the Oklahoma
+9
+10
+Constitution of the State of Oklahoma;
+10
+11
+12. Household goods, tools, implements and livestock of every
+11
+12
+person maintaining a home, not exceeding One Hundred Dollars
+12
+13
+($100.00) in value or One Thousand Dollars ($1,000.00) in value if
+13
+14
+Article X, Section 6 of Article X of the Oklahoma Constitution
+14
+15
+provides for an exemption in such amount; and in addition thereto,
+15
+16
+there shall be exempt from taxation on personal property the further
+16
+17
+sum of Two Hundred Dollars ($200.00) to all enlisted and
+17
+18
+commissioned personnel, whether on active duty or honorably
+18
+19
+discharged, who served in the Armed Forces of the United States
+19
+20
+during:
+20
+21
+a. the Spanish-American War,
+21
+22
+b. the period beginning on April 6, 1917, and ending on
+22
+23
+July 2, 1921,
+23
+24
+24
+Req. No. 3095 Page 9
+
+1
+c. the period beginning on December 6, 1941, and ending
+1
+2
+on such date as the state of national emergency as
+2
+3
+declared by the President of the United States shall
+3
+4
+cease to exist December 31, 1946, or
+4
+5
+d. any other or future period during which a state of
+5
+6
+national emergency shall have been or shall be
+6
+7
+declared to exist by the Congress or the President of
+7
+8
+the United States.
+8
+9
+All surviving spouses made so by the death of such enlisted or
+9
+10
+commissioned personnel, who are bona fide residents of this state,
+10
+11
+shall be entitled to the above additional exemption provided in this
+11
+12
+paragraph;
+12
+13
+13. Family portraits;
+13
+14
+14. All food and fuel provided in kind for the use of the
+14
+15
+family not to exceed provisions for one (1) year’s time, and all
+15
+16
+grain and forage necessary to maintain for one (1) year the
+16
+17
+livestock used to provide food for the family. No person from whom
+17
+18
+pay is received or expected for board shall be considered a member
+18
+19
+of the family within the intent and meaning of this paragraph;
+19
+20
+15. All growing crops; and
+20
+21
+16. All game animals, fowl and reptile, which are not being
+21
+22
+grown for food or sale and which are kept exclusively for
+22
+23
+propagation or exhibition, in private grounds or public parks in
+23
+24
+this state; and
+24
+Req. No. 3095 Page 10
+
+1
+17. Tangible personal property owned by a business entity and
+1
+2
+used in the operation of a business if the total fair cash value of
+2
+3
+all such property owned by the business entity within this state
+3
+4
+does not exceed Twenty-five Thousand Dollars ($25,000.00) in the
+4
+5
+applicable tax year. For the purposes of this paragraph:
+5
+6
+a. the total fair cash value shall be determined before
+6
+7
+the application of any depreciation schedules and
+7
+8
+shall include all taxable tangible personal property
+8
+9
+otherwise subject to ad valorem taxation,
+9
+10
+b. a business entity claiming the exemption provided by
+10
+11
+this paragraph shall not be required to file a
+11
+12
+tangible personal property rendition form if the
+12
+13
+county assessor determines the exemption applies based
+13
+14
+upon information reasonably available to the assessor,
+14
+15
+and
+15
+16
+c. the exemption provided by this paragraph shall apply
+16
+17
+per business entity, regardless of the number of
+17
+18
+locations operated by the business entity within the
+18
+19
+state.
+19
+20
+SECTION 2. This act shall become effective January 1, 2027.
+20
+21
+21
+22
+60-2-3095 QD 1/15/2026 9:40:59 AM
+22
+23
+23
+24
+24
+Req. No. 3095 Page 11
