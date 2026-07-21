@@ -1,0 +1,595 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1387 By: Jech
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to motor vehicles; amending 68 O.S.
+7
+2021, Sections 1355 and 1404, as amended by Sections
+8
+1 and 2, Chapter 370, O.S.L. 2023 (68 O.S. Supp.
+8
+2025, Sections 1355 and 1404), which relate to sales
+9
+and use tax exemption; expanding exemption for
+9
+vehicles to include vehicles sold within a certain
+10
+period for purposes of calculating tax on vehicle
+10
+purchase; updating statutory language; and providing
+11
+an effective date.
+11
+12
+12
+13
+13
+14
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+14
+15
+SECTION 1. AMENDATORY 68 O.S. 2021, Section 1355, as
+15
+16
+amended by Section 1, Chapter 370, O.S.L. 2023 (68 O.S. Supp. 2025,
+16
+17
+Section 1355), is amended to read as follows:
+17
+18
+Section 1355. There are hereby specifically exempted from the
+18
+19
+tax levied pursuant to the provisions of Section 1350 et seq. of
+19
+20
+this title:
+20
+21
+1. Sale of gasoline, motor fuel, methanol, “M-85” which is a
+21
+22
+mixture of methanol and gasoline containing at least eighty-five
+22
+23
+percent (85%) methanol, compressed natural gas, liquefied natural
+23
+24
+gas, or liquefied petroleum gas on which the Motor Fuel Tax motor
+24
+Req. No. 2431 Page 1
+
+1
+fuel tax, Gasoline Excise Tax gasoline excise tax, Special Fuels Tax
+1
+2
+special fuels tax, or the fee in lieu of Special Fuels Tax special
+2
+3
+fuels tax levied in Section 500.1 et seq., Section 601 et seq. or
+3
+4
+Section 701 et seq. of this title has been, or will be paid;
+4
+5
+2. For the sale of motor vehicles or any optional equipment or
+5
+6
+accessories attached to motor vehicles on which the Oklahoma Motor
+6
+7
+Vehicle Excise Tax motor vehicle excise tax levied in Section 2101
+7
+8
+et seq. of this title has been, or will be paid, all but a portion
+8
+9
+of the levy provided under Section 1354 of this title, equal to one
+9
+10
+and twenty-five-hundredths twenty-five one-hundredths percent
+10
+11
+(1.25%) of the gross receipts of such sales. For the purposes of
+11
+12
+this paragraph, if the sale of a motor vehicle includes a trade-in,
+12
+13
+gross receipts shall be calculated based only on the difference
+13
+14
+between the value of the trade-in vehicle and the actual sales price
+14
+15
+of the vehicle being purchased. For the purposes of this paragraph,
+15
+16
+if an individual liable for tax pursuant to this paragraph has sold
+16
+17
+a vehicle within six (6) months prior to or after the date of the
+17
+18
+transfer of title on the vehicle being purchased, gross receipts
+18
+19
+shall be calculated based only on the difference between the value
+19
+20
+of the vehicle sold and the actual sales price of the vehicle being
+20
+21
+purchased. If an individual sells a vehicle within six (6) months
+21
+22
+after the date of the transfer of title on a vehicle purchased and
+22
+23
+has paid the tax pursuant to this paragraph on the entire purchase
+23
+24
+price of the vehicle, the individual shall be entitled to a refund
+24
+Req. No. 2431 Page 2
+
+1
+of the portion of tax paid, equal to one and twenty-five one-
+1
+2
+hundredths percent (1.25%) of the value of the vehicle sold, not to
+2
+3
+exceed the total tax paid on the vehicle purchased by such
+3
+4
+individual. Provided, the sale of motor vehicles shall not be
+4
+5
+subject to any sales and use taxes levied by cities, counties, or
+5
+6
+other jurisdictions of the state;
+6
+7
+3. Sale of crude petroleum or natural or casinghead gas, and
+7
+8
+other products subject to gross production tax pursuant to the
+8
+9
+provisions of Section 1001 et seq. and Section 1101 et seq. of this
+9
+10
+title. This exemption shall not apply when such products are sold
+10
+11
+to a consumer or user for consumption or use, except when used for
+11
+12
+injection into the earth for the purpose of promoting or
+12
+13
+facilitating the production of oil or gas. This paragraph shall not
+13
+14
+operate to increase or repeal the gross production tax levied by the
+14
+15
+laws of this state;
+15
+16
+4. Sale of aircraft on which the tax levied pursuant to the
+16
+17
+provisions of Sections 6001 through 6007 of this title has been, or
+17
+18
+will be paid or which are specifically exempt from such tax pursuant
+18
+19
+to the provisions of Section 6003 of this title;
+19
+20
+5. Sales from coin-operated devices on which the fee imposed by
+20
+21
+Sections 1501 through 1512 of this title has been paid;
+21
+22
+6. Leases of twelve (12) months or more of motor vehicles in
+22
+23
+which the owners of the vehicles have paid the vehicle excise tax
+23
+24
+levied by Section 2103 of this title;
+24
+Req. No. 2431 Page 3
+
+1
+7. Sales of charity game equipment on which a tax is levied
+1
+2
+pursuant to the Oklahoma Charity Games Act, Section 401 et seq. of
+2
+3
+Title 3A of the Oklahoma Statutes, or which is sold to an
+3
+4
+organization that is:
+4
+5
+a. a veterans’ organization exempt from taxation pursuant
+5
+6
+to the provisions of paragraph (4), (7), (8), (10), or
+6
+7
+(19) of subsection (c) of Section 501 of the United
+7
+8
+States Internal Revenue Code of 1986, as amended, 26
+8
+9
+U.S.C., Section 501(c) et seq.,
+9
+10
+b. a group home for mentally disabled individuals exempt
+10
+11
+from taxation pursuant to the provisions of paragraph
+11
+12
+(3) of subsection (c) of Section 501 of the United
+12
+13
+States Internal Revenue Code of 1986, as amended, 26
+13
+14
+U.S.C., Section 501(c) et seq., or
+14
+15
+c. a charitable health care organization which is exempt
+15
+16
+from taxation pursuant to the provisions of paragraph
+16
+17
+(3) of subsection (c) of Section 501 of the United
+17
+18
+States Internal Revenue Code of 1986, as amended, 26
+18
+19
+U.S.C., Section 501(c) et seq.;
+19
+20
+8. Sales of cigarettes or tobacco products to:
+20
+21
+a. a federally recognized Indian tribe or nation which
+21
+22
+has entered into a compact with the State of Oklahoma
+22
+23
+pursuant to the provisions of subsection C of Section
+23
+24
+346 of this title or to a licensee of such a tribe or
+24
+Req. No. 2431 Page 4
+
+1
+nation, upon which the payment in lieu of taxes
+1
+2
+required by the compact has been paid, or
+2
+3
+b. a federally recognized Indian tribe or nation or to a
+3
+4
+licensee of such a tribe or nation upon which the tax
+4
+5
+levied pursuant to the provisions of Section 349.1 or
+5
+6
+Section 426 of this title has been paid;
+6
+7
+9. Leases of aircraft upon which the owners have paid the
+7
+8
+aircraft excise tax levied by Section 6001 et seq. of this title or
+8
+9
+which are specifically exempt from such tax pursuant to the
+9
+10
+provisions of Section 6003 of this title;
+10
+11
+10. The sale of low-speed or medium-speed electrical vehicles
+11
+12
+on which the Oklahoma Motor Vehicle Excise Tax motor vehicle excise
+12
+13
+tax levied in Section 2101 et seq. of this title has been or will be
+13
+14
+paid;
+14
+15
+11. Effective January 1, 2005, sales of cigarettes on which the
+15
+16
+tax levied in Section 301 et seq. of this title or tobacco products
+16
+17
+on which the tax levied in Section 401 et seq. of this title has
+17
+18
+been paid; and
+18
+19
+12. Sales of electricity at charging stations as defined by
+19
+20
+Section 6502 of this title when the electricity is sold by a
+20
+21
+charging station owner or operator for purposes of charging an
+21
+22
+electric vehicle as defined by Section 6502 of this title and the
+22
+23
+tax imposed pursuant to Section 6504 of this title is collected and
+23
+24
+remitted to the Oklahoma Tax Commission.
+24
+Req. No. 2431 Page 5
+
+1
+SECTION 2. AMENDATORY 68 O.S. 2021, Section 1404, as
+1
+2
+amended by Section 2, Chapter 370, O.S.L. 2023 (68 O.S. Supp. 2025,
+2
+3
+Section 1404), is amended to read as follows:
+3
+4
+Section 1404. The provisions of Section 1401 et seq. of this
+4
+5
+title shall not apply:
+5
+6
+1. In respect to the use of any article of tangible personal
+6
+7
+property brought into the State of Oklahoma this state by a
+7
+8
+nonresident individual, visiting in this state, for his or her
+8
+9
+personal use or enjoyment, while within the state;
+9
+10
+2. In respect to the use of tangible personal property
+10
+11
+purchased for resale before being used;
+11
+12
+3. In respect to the use of any article of tangible personal
+12
+13
+property on which a tax, equal to or in excess of that levied by
+13
+14
+Section 1401 et seq. of this title, has been paid by the person
+14
+15
+using such tangible personal property in this state, whether such
+15
+16
+tax was levied under the laws of this state or some other state of
+16
+17
+the United States. If any article of tangible personal property has
+17
+18
+already been subjected to a tax, by this or any other state, in
+18
+19
+respect to its sale or use, in an amount less than the tax imposed
+19
+20
+by Section 1401 et seq. of this title, the provisions of Section
+20
+21
+1401 et seq. of this title shall apply to it by a rate measured by
+21
+22
+the difference only between the rate herein provided and the rate by
+22
+23
+which the previous tax upon the sale or use was computed. Provided,
+23
+24
+24
+Req. No. 2431 Page 6
+
+1
+that no credit shall be given for taxes paid in another state, if
+1
+2
+that state does not grant like credit for taxes paid in this state;
+2
+3
+4. In respect to the use of tangible personal property now
+3
+4
+specifically exempted from taxation under the Oklahoma Sales Tax
+4
+5
+Code. Provided, for the sale of motor vehicles or any optional
+5
+6
+equipment or accessories attached to motor vehicles on which the
+6
+7
+Oklahoma Motor Vehicle Excise Tax motor vehicle excise tax levied
+7
+8
+pursuant to Sections Section 2101 through 2108 et seq. of this title
+8
+9
+has been, or will be paid, the exceptions shall apply to all but a
+9
+10
+portion of the levy provided under Section 1402 of this title, equal
+10
+11
+to one and twenty-five-hundredths twenty-five one-hundredths percent
+11
+12
+(1.25%) of the purchase price. For the purposes of this paragraph,
+12
+13
+if the sale of a motor vehicle includes a trade-in, the purchase
+13
+14
+price shall be calculated based only on the difference between the
+14
+15
+value of the trade-in vehicle and the actual purchase price of the
+15
+16
+vehicle being purchased. For the purposes of this paragraph, if an
+16
+17
+individual liable for tax pursuant to this paragraph has sold a
+17
+18
+vehicle within six (6) months prior to or after the date of the
+18
+19
+transfer of title on the vehicle being purchased, gross receipts
+19
+20
+shall be calculated based only on the difference between the value
+20
+21
+of the vehicle sold and the actual sales price of the vehicle being
+21
+22
+purchased. If an individual sells a vehicle within six (6) months
+22
+23
+after the date of the transfer of title on a vehicle purchased and
+23
+24
+has paid the tax pursuant to this paragraph on the entire purchase
+24
+Req. No. 2431 Page 7
+
+1
+price of the vehicle, the individual shall be entitled to a refund
+1
+2
+of the portion of tax paid, equal to one and twenty-five one-
+2
+3
+hundredths percent (1.25%) of the value of the vehicle sold, not to
+3
+4
+exceed the total tax paid on the vehicle purchased by such
+4
+5
+individual. Provided further, the sale of motor vehicles shall not
+5
+6
+be subject to any sales and use taxes levied by cities, counties, or
+6
+7
+other jurisdictions of the state;
+7
+8
+5. In respect to the use of any article or tangible personal
+8
+9
+property brought into the state by an individual with intent to
+9
+10
+become a resident of this state where such personal property is for
+10
+11
+such individual’s personal use or enjoyment;
+11
+12
+6. In respect to the use of any article of tangible personal
+12
+13
+property used or to be used by commercial airlines or railroads;
+13
+14
+7. In respect to livestock purchased outside this state and
+14
+15
+brought into this state for feeding or breeding purposes, and which
+15
+16
+is later resold; and
+16
+17
+8. Effective January 1, 1991, in respect to the use of rail
+17
+18
+transportation cars to haul coal to coal-fired plants located in
+18
+19
+this state which generate electric power.
+19
+20
+SECTION 3. This act shall become effective November 1, 2026.
+20
+21
+21
+22
+60-2-2431 QD 12/30/2025 10:01:18 PM
+22
+23
+23
+24
+24
+Req. No. 2431 Page 8
