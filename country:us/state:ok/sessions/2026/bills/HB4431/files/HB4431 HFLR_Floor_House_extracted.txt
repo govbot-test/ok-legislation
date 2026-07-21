@@ -1,0 +1,504 @@
+Title: 
+Official Title: 
+Source: versions - Floor (House)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 COMMITTEE SUBSTITUTE
+FOR
+5 HOUSE BILL NO. 4431 By: Hilbert
+6
+7
+8
+9 COMMITTEE SUBSTITUTE
+10 An Act relating to professions and occupations;
+amending 59 O.S. 2021, Section 353.1, as last amended
+11 by Section 5, Chapter 340, O.S.L. 2025 (59 O.S. Supp.
+2025, Section 353.1), which relates to definitions
+12 within the Oklahoma Pharmacy Act; modifying
+references; amending 59 O.S. 2021, Section 353.1a, as
+13 amended by Section 6, Chapter 340, O.S.L. 2025 (59
+O.S. Supp. 2025, Section 353.1a), which relates to
+14 prescribing authority for Advanced Practice
+Registered Nurse, Certified Nurse Practitioner,
+15 Clinical Nurse Specialist, Certified Midwife;
+modifying references; repealing 59 O.S. 2021, Section
+16 353.1, as last amended by Section 1, Chapter 343,
+O.S.L. 2025 (59 O.S. Supp. 2025, Section 353.1),
+17 which relates to a duplicate section; repealing 59
+O.S. 2021, Section 353.1a, as amended by Section 2,
+18 Chapter 343, O.S.L. 2025 (59 O.S. Supp. 2025, Section
+353.1a), which relates to a duplicate section; and
+19 providing an effective date.
+20
+21
+22 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+23
+24
+HB4431 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+1 SECTION 1. AMENDATORY 59 O.S. 2021, Section 353.1, as
+2 last amended by Section 5, Chapter 340, O.S.L. 2025 (59 O.S. Supp.
+3 2025, Section 353.1), is amended to read as follows:
+4 Section 353.1. For the purposes of the Oklahoma Pharmacy Act:
+5 1. "Accredited program" means those seminars, classes,
+6 meetings, work projects, and other educational courses approved by
+7 the State Board of Pharmacy for purposes of continuing professional
+8 education;
+9 2. "Act" means the Oklahoma Pharmacy Act;
+10 3. "Administer" means the direct application of a drug, whether
+11 by injection, inhalation, ingestion, or any other means, to the body
+12 of a patient;
+13 4. "Assistant pharmacist" means any person presently licensed
+14 as an assistant pharmacist in this state by the Board pursuant to
+15 Section 353.10 of this title and for the purposes of the Oklahoma
+16 Pharmacy Act shall be considered the same as a pharmacist, except
+17 where otherwise specified;
+18 5. "Board" or "State Board" means the State Board of Pharmacy;
+19 6. "Certify" or "certification of a prescription" means the
+20 review of a filled prescription by a licensed pharmacist or a
+21 licensed practitioner with dispensing authority to confirm that the
+22 medication, labeling, and packaging of the filled prescription are
+23 accurate and meet all requirements prescribed by state and federal
+24
+HB4431 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+1 law. For the purposes of this paragraph, "licensed practitioner"
+2 shall not include optometrists with dispensing authority;
+3 7. "Chemical" means any medicinal substance, whether simple or
+4 compound or obtained through the process of the science and art of
+5 chemistry, whether of organic or inorganic origin;
+6 8. "Compounding" means the combining, admixing, mixing,
+7 diluting, pooling, reconstituting, or otherwise altering of a drug
+8 or bulk drug substance to create a drug. Compounding includes the
+9 preparation of drugs or devices in anticipation of prescription drug
+10 orders based on routine, regularly observed prescribing patterns;
+11 9. "Continuing professional education" means professional,
+12 pharmaceutical education in the general areas of the socioeconomic
+13 and legal aspects of health care; the properties and actions of
+14 drugs and dosage forms; and the etiology, characteristics, and
+15 therapeutics of the diseased state;
+16 10. "Dangerous drug", "legend drug", "prescription drug", or
+17 "Rx Only" means a drug:
+18 a. for human use subject to 21 U.S.C., Section 353(b)(1),
+19 or
+20 b. is labeled "Prescription Only", or labeled with the
+21 following statement: "Caution: Federal law restricts
+22 this drug to use by or on the order of a licensed
+23 veterinarian.";
+24
+HB4431 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+1 11. "Director" means the Executive Director of the State Board
+2 of Pharmacy unless context clearly indicates otherwise;
+3 12. "Dispense" or "dispensing" means the interpretation,
+4 evaluation, and implementation of a prescription drug order
+5 including the preparation and delivery of a drug or device to a
+6 patient or a patient's agent in a suitable container appropriately
+7 labeled for subsequent administration to, or use by, a patient.
+8 Dispense includes sell, distribute, leave with, give away, dispose
+9 of, deliver, or supply;
+10 13. "Dispenser" means a retail pharmacy, hospital pharmacy, a
+11 group of chain pharmacies under common ownership and control that do
+12 not act as a wholesale distributor, or any other person authorized
+13 by law to dispense or administer prescription drugs, and the
+14 affiliated warehouses or distributions of such entities under common
+15 ownership and control that do not act as a wholesale distributor.
+16 For the purposes of this paragraph, dispenser does not mean a person
+17 who dispenses only products to be used in animals in accordance with
+18 21 U.S.C., Section 360b(a)(5);
+19 14. "Distribute" or "distribution" means the sale, purchase,
+20 trade, delivery, handling, storage, or receipt of a product, and
+21 does not include the dispensing of a product pursuant to a
+22 prescription executed in accordance with 21 U.S.C., Section
+23 353(b)(1) or the dispensing of a product approved under 21 U.S.C.,
+24
+HB4431 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+1 Sect ion 360b(b); provided, taking actual physical possession of a
+2 product or title shall not be required;
+3 15. "Doctor of Pharmacy" means a person licensed by the Board
+4 to engage in the practice of pharmacy. The terms "pharmacist",
+5 "D.Ph.", and "Doctor of Pharmacy" shall be interchangeable and shall
+6 have the same meaning wherever they appear in the Oklahoma Statutes
+7 and the rules promulgated by the Board;
+8 16. "Drug outlet" means all manufacturers, repackagers,
+9 outsourcing facilities, wholesale distributors, third-party
+10 logistics providers, pharmacies, and all other facilities which are
+11 engaged in dispensing, delivery, distribution, or storage of
+12 dangerous drugs;
+13 17. "Drugs" means all medicinal substances and preparations
+14 recognized by the United States Pharmacopeia and National Formulary,
+15 or any revision thereof, and all substances and preparations
+16 intended for external and/or internal use in the cure, diagnosis,
+17 mitigation, treatment, or prevention of disease in humans or animals
+18 and all substances and preparations, other than food, intended to
+19 affect the structure or any function of the body of a human or
+20 animals;
+21 18. "Drug sample" means a unit of a prescription drug packaged
+22 under the authority and responsibility of the manufacturer that is
+23 not intended to be sold and is intended to promote the sale of the
+24 drug;
+HB4431 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+1 19. "Durable medical equipment" has the same meaning as
+2 provided by Section 375.2 of this title;
+3 20. "Filled prescription" means a packaged prescription
+4 medication to which a label has been affixed which contains such
+5 information as is required by the Oklahoma Pharmacy Act;
+6 21. "Hospital" means any institution licensed as a hospital by
+7 this state for the care and treatment of patients, or a pharmacy
+8 operated by the Oklahoma Department of Veterans Affairs;
+9 22. "Licensed practitioner" means:
+10 a. an allopathic physician,
+11 b. an osteopathic physician,
+12 c. a podiatric physician,
+13 d. a dentist,
+14 e. a veterinarian,
+15 f. an optometrist, or
+16 g. an Advanced Practice Registered Nurse, or
+17 h. a physician assistant
+18 licensed to practice and authorized to prescribe dangerous drugs
+19 within the scope of practice of such practitioner;
+20 23. "Manufacturer" or "virtual manufacturer" means with respect
+21 to a product:
+22 a. a person that holds an application approved under 21
+23 U.S.C., Section 355 or a license issued under 42
+24 U.S.C., Section 262 for such product, or if such
+HB4431 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+1 product is not the subject of an approved application
+2 or license, the person who manufactured the product,
+3 b. a co-licensed partner of the person described in
+4 subparagraph a of this paragraph that obtains the
+5 product directly from a person described in this
+6 subparagraph or subparagraph a of this paragraph,
+7 c. an affiliate of a person described in subparagraph a
+8 or b of this paragraph who receives the product
+9 directly from a person described in this subparagraph
+10 or in subparagraph a or b of this paragraph, or
+11 d. a person who contracts with another to manufacture a
+12 product;
+13 24. "Manufacturing" means the production, preparation,
+14 propagation, compounding, conversion, or processing of a device or a
+15 drug, either directly or indirectly by extraction from substances of
+16 natural origin or independently by means of chemical or biological
+17 synthesis and includes any packaging or repackaging of the
+18 substances or labeling or relabeling of its container, and the
+19 promotion and marketing of such drugs or devices. The term
+20 manufacturing also includes the preparation and promotion of
+21 commercially available products from bulk compounds for resale by
+22 licensed pharmacies, licensed practitioners, or other persons;
+23
+24
+HB4431 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+
+1 25. "Medical gas" means those gases including those in liquid
+2 state upon which the manufacturer or distributor has placed one of
+3 several cautions, such as "Rx Only", in compliance with federal law;
+4 26. "Medical gas order" means an order for medical gas issued
+5 by a licensed prescriber;
+6 27. "Medical gas distributor" means a person licensed to
+7 distribute, transfer, wholesale, deliver, or sell medical gases on
+8 drug orders to suppliers or other entities licensed to use,
+9 administer, or distribute medical gas and may also include a patient
+10 or ultimate user;
+11 28. "Medical gas supplier" means a person who dispenses medical
+12 gases on drug orders only to a patient or ultimate user;
+13 29. "Medicine" means any drug or combination of drugs which has
+14 the property of curing, preventing, treating, diagnosing, or
+15 mitigating diseases, or which is used for that purpose;
+16 30. "Nonprescription drugs" means medicines or drugs which are
+17 sold without a prescription and which are prepackaged for use by the
+18 consumer and labeled in accordance with the requirements of the
+19 statutes and regulations of this state and the federal government.
+20 Such items shall also include medical and dental supplies and
+21 bottled or nonbulk chemicals which are sold or offered for sale to
+22 the general public if such articles or preparations meet the
+23 requirements of the Federal Food, Drug, and Cosmetic Act, 21
+24 U.S.C.A., Section 321 et seq.;
+HB4431 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+
+1 31. "Outsourcing facility" including "virtual outsourcing
+2 facility" means a facility at one geographic location or address
+3 that:
+4 a. is engaged in the compounding of sterile drugs,
+5 b. has elected to register as an outsourcing facility,
+6 and
+7 c. complies with all requirements of 21 U.S.C., Section
+8 353b;
+9 32. "Package" means the smallest individual saleable unit of
+10 product for distribution by a manufacturer or repackager that is
+11 intended by the manufacturer for ultimate sale to the dispenser of
+12 such product. For the purposes of this paragraph, "individual
+13 saleable unit" means the smallest container of a product introduced
+14 into commerce by the manufacturer or repackager that is intended by
+15 the manufacturer or repackager for individual sale to a dispenser;
+16 33. "Person" means an individual, partnership, limited
+17 liability company, corporation, or association, unless the context
+18 otherwise requires;
+19 34. "Pharmacist-in-charge" or "PIC" means the pharmacist
+20 licensed in this state responsible for the management control of a
+21 pharmacy and all other aspects of the practice of pharmacy in a
+22 licensed pharmacy as provided by Section 353.18 of this title;
+23 35. "Pharmacy" means a place regularly licensed by the State
+24 Board of Pharmacy in which prescriptions, drugs, medicines,
+HB4431 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+
+1 chem icals, and poisons are compounded or dispensed or such place
+2 where pharmacists practice the profession of pharmacy, or a pharmacy
+3 operated by the Oklahoma Department of Veterans Affairs;
+4 36. "Pharmacy technician", "technician", "Rx tech", or "tech"
+5 means a person issued a technician permit by the State Board of
+6 Pharmacy to assist the pharmacist and perform nonjudgmental,
+7 technical, manipulative, non-discretionary functions in the
+8 prescription department under the immediate and direct supervision
+9 of a pharmacist;
+10 37. "Poison" means any substance which when introduced into the
+11 body, either directly or by absorption, produces violent, morbid, or
+12 fatal changes, or which destroys living tissue with which such
+13 substance comes into contact;
+14 38. "Practice of pharmacy" means:
+15 a. the interpretation and evaluation of prescription
+16 orders,
+17 b. the compounding, dispensing, administering, and
+18 labeling of drugs and devices, except labeling by a
+19 manufacturer, repackager, or distributor of
+20 nonprescription drugs and commercially packaged legend
+21 drugs and devices,
+22 c. the participation in drug selection and drug
+23 utilization reviews,
+24
+HB4431 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+
+1 d. the proper and safe storage of drugs and devices and
+2 the maintenance of proper records thereof,
+3 e. the responsibility for advising by counseling and
+4 providing information, where professionally necessary
+5 or where regulated, of therapeutic values, content,
+6 hazards, and use of drugs and devices,
+7 f. the offering or performing of those acts, services,
+8 operations, or transactions necessary in the conduct,
+9 operation, management, and control of a pharmacy, or
+10 g. the provision of those acts or services that are
+11 necessary to provide pharmaceutical care;
+12 39. "Preparation" means an article which may or may not contain
+13 sterile products compounded in a licensed pharmacy pursuant to the
+14 order of a licensed prescriber;
+15 40. "Prescriber" means a person licensed in this state who is
+16 authorized to prescribe dangerous drugs within the scope of practice
+17 of the person's profession;
+18 41. "Prescription" means and includes any order for drug or
+19 medical supplies written or signed, or transmitted by word of mouth,
+20 telephone, or other means of communication:
+21 a. by a licensed prescriber, including:
+22 (1) a Certified Nurse Practitioner, Clinical Nurse
+23 Specialist, or Certified Nurse-Midwife licensed
+24 in the state who has obtained independent
+HB4431 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+
+1 prescriptive authority under Section 567.4c of
+2 Title 59 of the Oklahoma Statutes, and
+3 (2) a physician assistant entitled to practice
+4 without the supervision of a delegating physician
+5 under Section 519.6 of Title 59 of the Oklahoma
+6 Statutes;
+7 b. by a physician assistant pursuant to a practice
+8 agreement,
+9 c. (1) under the supervision of a supervising physician,
+10 by a Certified Nurse Practitioner, Clinical Nurse
+11 Specialist, or Certified Nurse-Midwife licensed
+12 in this state who has not obtained independent
+13 prescriptive authority under Section 1 of this
+14 act Section 567.4c of Title 59 of the Oklahoma
+15 Statutes under the supervision of a supervising
+16 physician, or
+17 (2) by a Certified Nurse Practitioner, Clinical Nurse
+18 Specialist, or Certified Nurse-Midwife licensed
+19 in this state who has obtained independent
+20 prescriptive authority under Section 1 of this
+21 act, or
+22 d. by an Oklahoma licensed wholesaler or distributor as
+23 authorized in Section 353.29.1 of this title;
+24
+HB4431 HFLR Page 12
+BOLD FACE denotes Committee Amendments.
+
+1 42. "Product" means a prescription drug in a finished dosage
+2 form for administration to a patient without substantial further
+3 manufacturing, such as capsules, tablets, and lyophilized products
+4 before reconstitution. Product does not include blood components
+5 intended for transfusion, radioactive drugs or biologics and medical
+6 gas;
+7 43. "Repackager", including "virtual repackager", means a
+8 person who owns or operates an establishment that repacks and
+9 relabels a product or package for further sale or distribution
+10 without further transaction;
+11 44. "Sterile drug" means a drug that is intended for parenteral
+12 administration, an ophthalmic or oral inhalation drug in aqueous
+13 format, or a drug that is required to be sterile under state and
+14 federal law;
+15 45. "Supervising physician" means an individual holding a
+16 current license to practice as a physician from the State Board of
+17 Medical Licensure and Supervision, pursuant to the provisions of the
+18 Oklahoma Allopathic Medical and Surgical Licensure and Supervision
+19 Act, or the State Board of Osteopathic Examiners, pursuant to the
+20 provisions of the Oklahoma Osteopathic Medicine Act, who supervises
+21 a Certified Nurse Practitioner, Clinical Nurse Specialist, or
+22 Certified Nurse-Midwife as defined in Section 567.3a of this title
+23 who has not obtained independent prescriptive authority under
+24 Section 1 of this act 567.4c of this title, and who is not in
+HB4431 HFLR Page 13
+BOLD FACE denotes Committee Amendments.
+
+1 trai ning as an intern, resident, or fellow. The supervising
+2 physician shall remain in compliance with the rules promulgated by
+3 the State Board of Medical Licensure and Supervision or the State
+4 Board of Osteopathic Examiners;
+5 46. "Supportive personnel" means technicians and auxiliary
+6 supportive persons who are regularly paid employees of a pharmacy
+7 who work and perform tasks in the pharmacy as authorized by Section
+8 353.18A of this title;
+9 47. "Third-party logistics provider" including "virtual third-
+10 party logistics provider" means an entity that provides or
+11 coordinates warehousing, or other logistics services of a product in
+12 interstate commerce on behalf of a manufacturer, wholesale
+13 distributor, or dispenser of a product but does not take ownership
+14 of the product, nor have responsibility to direct the sale or
+15 disposition of the product. For the purposes of this paragraph,
+16 third-party logistics provider does not include shippers and the
+17 United States Postal Service;
+18 48. "Wholesale distributor" including "virtual wholesale
+19 distributor" means a person other than a manufacturer, a
+20 manufacturer's co-licensed partner, a third-party logistics
+21 provider, or repackager engaged in wholesale distribution as defined
+22 by 21 U.S.C., Section 353(e)(4) as amended by the Drug Supply Chain
+23 Security Act;
+24
+HB4431 HFLR Page 14
+BOLD FACE denotes Committee Amendments.
+
+1 49. "County jail" means a facility operated by a county for the
+2 physical detention and correction of persons charged with, or
+3 convicted of, criminal offenses or ordinance violations or persons
+4 found guilty of civil or criminal contempt;
+5 50. "State correctional facility" means a facility or
+6 institution that houses a prisoner population under the jurisdiction
+7 of the Department of Corrections;
+8 51. "Unit dose package" means a package that contains a single
+9 dose drug with the name, strength, control number, and expiration
+10 date of that drug on the label; and
+11 52. "Unit of issue package" means a package that provides
+12 multiple doses of the same drug, but each drug is individually
+13 separated and includes the name, lot number, and expiration date.
+14 SECTION 2. AMENDATORY 59 O.S. 2021, Section 353.1a, as
+15 amended by Section 6, Chapter 340, O.S.L. 2025 (59 O.S. Supp. 2025,
+16 Section 353.1a), is amended to read as follows:
+17 Section 353.1a. A. Prescriptive authority for certain licensed
+18 Advanced Practice Registered Nurses:
+19 1. Prescriptive authority shall be allowed, under a current
+20 supervision agreement with a supervising physician, for a licensed
+21 Advanced Practice Registered Nurse recognized by the Oklahoma Board
+22 of Nursing as a Certified Nurse Practitioner, Clinical Nurse
+23 Specialist, or Certified Nurse-Midwife who has not obtained
+24
+HB4431 HFLR Page 15
+BOLD FACE denotes Committee Amendments.
+
+1 inde pendent prescriptive authority under Section 1 of this act.
+2 pursuant to Section 567.4c of Title 59 of the Oklahoma Statutes; and
+3 2. Prescriptive authority shall be allowed, independent of a
+4 current supervision agreement with a supervising physician, for a
+5 licensed Advanced Practice Registered Nurse recognized by the
+6 Oklahoma Board of Nursing as a Certified Nurse Practitioner,
+7 Clinical Nurse Specialist, or Certified Nurse-Midwife who has
+8 obtained independent prescriptive authority under Section 1 of this
+9 act pursuant to Section 567.4c of Title 59 of the Oklahoma Statutes.
+10 B. Prescriptive authority for physician assistants:
+11 1. Prescriptive authority shall be allowed, pursuant to a
+12 practice agreement, for a physician assistant required to practice
+13 under supervision of a delegating physician; and
+14 2. Prescriptive authority shall be allowed for a physician
+15 assistant not required to practice under supervision of a delegating
+16 physician.
+17 C. The An Advanced Practice Registered Nurse may write or sign,
+18 or transmit by word of mouth, telephone, or other means of
+19 communication an order for drugs or medical supplies that is
+20 intended to be filled, compounded, or dispensed by a pharmacist.
+21 The supervising physician, if applicable, and the prescribing
+22 Advanced Practice Registered Nurse shall be identified at the time
+23 of origination of the prescription and the name of the prescribing
+24
+HB4431 HFLR Page 16
+BOLD FACE denotes Committee Amendments.
+
+1 Adva nced Practice Registered Nurse shall be printed on the
+2 prescription label.
+3 C. D. Pharmacists may dispense prescriptions for non-controlled
+4 prescription drugs authorized by an Advanced Practice Registered
+5 Nurse or physician assistant, not located in this state, provided
+6 that they are licensed in the state in which they are actively
+7 prescribing.
+8 D. 1. E. Pharmacists may only dispense prescriptions for
+9 controlled dangerous substances prescribed by:
+10 1. an An Advanced Practice Registered Nurse licensed in this
+11 state who meets the criteria in paragraph 1 or 2 of subsection A of
+12 this section.
+13 2. Pharmacists may only dispense prescriptions for controlled
+14 dangerous substances prescribed by a A physician assistant licensed
+15 in this state pursuant to a practice agreement.
+16 F. Pharmacies and pharmacists may rely on the Board of Medical
+17 Licensure and Supervision list of physician assistants who have
+18 reported completion of six thousand two hundred forty (6,240) or
+19 more postgraduate clinical experience hours and are thus entitled to
+20 prescribe without a practice agreement.
+21 SECTION 3. REPEALER 59 O.S. 2021, Section 353.1, as last
+22 amended by Section 1, Chapter 343, O.S.L. 2025 (59 O.S. Supp. 2025,
+23 Section 353.1), is hereby repealed.
+24
+HB4431 HFLR Page 17
+BOLD FACE denotes Committee Amendments.
+
+1 SECTION 4. REPEALER 59 O.S. 2021, Section 353.1a, as
+2 amended by Section 2, Chapter 343, O.S.L. 2025 (59 O.S. Supp. 2025,
+3 Section 353.1a), is hereby repealed.
+4 SECTION 5. This act shall become effective November 1, 2026.
+5
+6 COMMITTEE REPORT BY: COMMITTEE ON HEALTH AND HUMAN SERVICES
+OVERSIGHT, dated 03/05/2026 - DO PASS, As Amended.
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+HB4431 HFLR Page 18
+BOLD FACE denotes Committee Amendments.

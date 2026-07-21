@@ -1,0 +1,338 @@
+Title: 
+Official Title: 
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 SENATE FLOOR VERSION
+April 16, 2026
+2 AS AMENDED
+3 ENGROSSED HOUSE
+BILL NO. 1782 By: Moore, Williams, and Archer
+4 of the House
+5 and
+6 Seifried of the Senate
+7
+8
+9 [ artificial intelligence education - Oklahoma AI
+Education Innovation Act - Oklahoma AI Education
+10 Innovation Revolving Fund - Office of Management and
+Enterprise Services – State Treasurer - separate
+11 accounts - Oklahoma AI Education Advisory Council -
+annual report - chair and vice-chair – quorum –
+12 subcommittees - Oklahoma Open Meeting Act - staffing
+support – appropriation – severability – codification
+13 - effective date ]
+14
+15
+16 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+17 SECTION 1. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 200 of Title 75A, unless there
+19 is created a duplication in numbering, reads as follows:
+20 This act shall be known and may be cited as the "Oklahoma AI
+21 Education Innovation Act".
+22 SECTION 2. NEW LAW A new section of law to be codified
+23 in the Oklahoma Statutes as Section 201 of Title 75A, unless there
+24 is created a duplication in numbering, reads as follows:
+SENATE FLOOR VERSION - HB1782 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 A. There is hereby created in the State Treasury a revolving
+2 fund to be designated the "Oklahoma AI Education Innovation
+3 Revolving Fund". The fund shall be a continuing fund, not subject
+4 to fiscal year limitations, and shall consist of:
+5 1. All monies appropriated to the fund by the Legislature;
+6 2. All monies received from gifts, grants, reimbursements, or
+7 other contributions from public or private sources for purposes
+8 consistent with this act;
+9 3. Any interest or investment earnings attributable to monies
+10 in the fund; and
+11 4. Any other monies designated for deposit in the fund.
+12 B. All monies accruing to the credit of the Oklahoma AI
+13 Education Innovation Revolving Fund are hereby appropriated and
+14 shall be budgeted and distributed by the Office of Management and
+15 Enterprise Services as follows:
+16 1. Forty-two and two-tenths percent (42.2%) to the State
+17 Department of Education;
+18 2. Forty-two and two-tenths percent (42.2%) to the Oklahoma
+19 State Regents for Higher Education;
+20 3. Eight and nine-tenths percent (8.9%) to the Oklahoma
+21 Department of Career and Technology Education; and
+22 4. Six and seven-tenths percent (6.7%) to the Oklahoma
+23 Department of Libraries.
+24
+SENATE FLOOR VERSION - HB1782 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 C. Distributions from the fund shall be made quarterly,
+2 beginning on the first day of the fiscal quarter following the
+3 effective date of this act, and on the first day of each fiscal
+4 quarter thereafter. The Office of Management and Enterprise
+5 Services shall transfer the amounts specified in subsection B of
+6 this section to each designated agency within ten (10) business days
+7 of the beginning of each fiscal quarter.
+8 D. Monies distributed from the Oklahoma AI Education Innovation
+9 Revolving Fund shall be expended by the receiving agencies solely
+10 for one or more of the following purposes related to artificial
+11 intelligence in education:
+12 1. Development, acquisition, and implementation of artificial
+13 intelligence tools, platforms, and resources for educational use;
+14 2. Professional development and training for educators,
+15 administrators, librarians, and staff on the effective and ethical
+16 use of artificial intelligence in educational settings;
+17 3. Curriculum development integrating artificial intelligence
+18 concepts, digital literacy, and computational thinking;
+19 4. Research and evaluation of artificial intelligence
+20 applications in education;
+21 5. Student programs and initiatives promoting artificial
+22 intelligence literacy and workforce readiness;
+23 6. Infrastructure improvements necessary to support artificial
+24 intelligence educational initiatives;
+SENATE FLOOR VERSION - HB1782 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 7. Public awareness and community education programs regarding
+2 artificial intelligence; and
+3 8. Administrative costs directly related to the purposes
+4 enumerated in this subsection, provided that no more than five
+5 percent (5%) of any agency's annual distribution may be expended for
+6 administrative costs.
+7 E. Monies in the Oklahoma AI Education Innovation Revolving
+8 Fund, and monies distributed therefrom to the agencies designated in
+9 subsection B of this section, shall be used solely for the purposes
+10 specified in subsection D of this section and for no other purpose
+11 whatsoever. Any appropriation, transfer, expenditure, or use of any
+12 monies in the fund or distributed from the fund for any purpose not
+13 authorized by subsection D of this section shall be null and void
+14 and of no effect.
+15 F. Monies distributed from the fund to the agencies designated
+16 in subsection B of this section that are not expended during a
+17 fiscal year shall not revert to the fund or to the General Revenue
+18 Fund but shall be retained by the receiving agency and shall remain
+19 available for expenditure in subsequent fiscal years for the
+20 purposes specified in subsection D of this section.
+21 G. No later than October 1 of each year, each agency receiving
+22 monies from the Oklahoma AI Education Innovation Revolving Fund
+23 shall submit a report to the Governor, the President Pro Tempore of
+24 the Oklahoma State Senate, the Speaker of the Oklahoma House of
+SENATE FLOOR VERSION - HB1782 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 Repr esentatives, and the Oklahoma AI Education Advisory Council
+2 detailing:
+3 1. The total amount of monies received from the fund during the
+4 preceding fiscal year;
+5 2. A detailed accounting of all expenditures made from such
+6 monies, organized by the purpose categories specified in subsection
+7 D of this section;
+8 3. The educational outcomes achieved through such expenditures;
+9 4. Any unexpended balances and the intended use of such
+10 balances; and
+11 5. Recommended improvements or modifications to the agency's
+12 artificial intelligence education initiatives.
+13 H. The State Treasurer shall maintain separate accounts within
+14 the Oklahoma AI Education Innovation Revolving Fund sufficient to
+15 track deposits, distributions, and balances attributable to each
+16 funding source.
+17 SECTION 3. NEW LAW A new section of law to be codified
+18 in the Oklahoma Statutes as Section 202 of Title 75A, unless there
+19 is created a duplication in numbering, reads as follows:
+20 A. There is hereby created, to continue until July 1, 2031, in
+21 accordance with the provisions of the Oklahoma Sunset Law, the
+22 Oklahoma AI Education Advisory Council.
+23 B. The Oklahoma AI Education Advisory Council shall consist of
+24 seventeen (17) members as follows:
+SENATE FLOOR VERSION - HB1782 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 1. The State Superintendent of Public Instruction, or designee;
+2 2. The Chancellor of the Oklahoma State Regents for Higher
+3 Education, or designee;
+4 3. The State Director of the Oklahoma Department of Career and
+5 Technology Education, or designee;
+6 4. The Director of the Oklahoma Department of Libraries, or
+7 designee;
+8 5. One member appointed by the Governor with experience in
+9 artificial intelligence research or development;
+10 6. One member appointed by the Governor with experience in K-12
+11 education;
+12 7. One member appointed by the Governor with experience in
+13 workforce development;
+14 8. One member appointed by the President Pro Tempore of the
+15 Senate with experience in higher education;
+16 9. One member appointed by the President Pro Tempore of the
+17 Senate with experience in educational technology;
+18 10. One member appointed by the Speaker of the House of
+19 Representatives with experience in business or industry utilizing
+20 artificial intelligence;
+21 11. One member appointed by the Speaker of the House of
+22 Representatives with experience in rural education;
+23
+24
+SENATE FLOOR VERSION - HB1782 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 12. One member who is a current classroom teacher, appointed
+2 jointly by the State Superintendent of Public Instruction and the
+3 Chancellor of the Oklahoma State Regents for Higher Education;
+4 13. One member who is a current public school administrator,
+5 appointed by the State Superintendent of Public Instruction;
+6 14. One member who is a current faculty member at an
+7 institution within The Oklahoma State System of Higher Education,
+8 appointed by the Chancellor of the Oklahoma State Regents for Higher
+9 Education;
+10 15. One member representing Oklahoma tribal nations with
+11 interest in educational technology, appointed by the Governor in
+12 consultation with the Oklahoma Indian Affairs Commission;
+13 16. One member who is a current student enrolled in a public
+14 high school or institution of higher education in Oklahoma,
+15 appointed jointly by the Speaker of the House of Representatives and
+16 the President Pro Tempore of the Senate; and
+17 17. One member representing the Oklahoma business community,
+18 appointed by the Governor.
+19 C. 1. The four ex officio members designated in paragraphs 1
+20 through 4 of subsection B of this section shall serve for the
+21 duration of their terms of office.
+22 2. Appointed members shall serve for terms of three (3) years
+23 and may be reappointed for one additional term.
+24 3. Initial appointments shall be staggered as follows:
+SENATE FLOOR VERSION - HB1782 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 a. members appointed pursuant to paragraphs 5, 8, 10, 12,
+2 and 15 of subsection B of this section shall serve
+3 initial terms of three (3) years,
+4 b. members appointed pursuant to paragraphs 6, 9, 11, 13,
+5 and 16 of subsection B of this section shall serve
+6 initial terms of two (2) years, and
+7 c. members appointed pursuant to paragraphs 7, 14, and 17
+8 of subsection B of this section shall serve initial
+9 terms of one (1) year.
+10 4. Vacancies shall be filled for the unexpired term in the same
+11 manner as the original appointment.
+12 5. Any member may be removed by the appointing authority for
+13 cause.
+14 D. Members of the Oklahoma AI Education Advisory Council shall
+15 be exempt from the dual-office-holding prohibitions of Section 6 of
+16 Title 51 of the Oklahoma Statutes.
+17 E. Members of the Council shall receive no compensation for
+18 their service but shall be reimbursed for necessary travel expenses
+19 incurred in the performance of their duties in accordance with the
+20 State Travel Reimbursement Act.
+21 SECTION 4. NEW LAW A new section of law to be codified
+22 in the Oklahoma Statutes as Section 203 of Title 75A, unless there
+23 is created a duplication in numbering, reads as follows:
+24
+SENATE FLOOR VERSION - HB1782 SFLR Page 8
+(Bold face denotes Committee Amendments)
+
+1 A. The Oklahoma AI Education Advisory Council shall have the
+2 following powers and duties:
+3 1. Advise and make recommendations to the State Department of
+4 Education, the Oklahoma State Regents for Higher Education, the
+5 Oklahoma Department of Career and Technology Education, and the
+6 Oklahoma Department of Libraries on matters relating to:
+7 a. the development and implementation of artificial
+8 intelligence education initiatives,
+9 b. coordination among agencies to maximize the
+10 effectiveness of artificial intelligence education
+11 investments,
+12 c. best practices for integrating artificial intelligence
+13 into curriculum and instruction,
+14 d. ethical considerations and responsible use of
+15 artificial intelligence in educational settings,
+16 e. workforce preparation for careers involving artificial
+17 intelligence, and
+18 f. digital literacy and equitable access to artificial
+19 intelligence educational resources;
+20 2. Review the annual reports submitted by agencies pursuant to
+21 Section 2 of this act and provide feedback and recommendations;
+22 3. Identify gaps, redundancies, or opportunities for
+23 collaboration among agencies receiving monies from the Oklahoma AI
+24 Education Innovation Revolving Fund;
+SENATE FLOOR VERSION - HB1782 SFLR Page 9
+(Bold face denotes Committee Amendments)
+
+1 4. Monitor national and international trends in artificial
+2 intelligence education and make recommendations for Oklahoma to
+3 remain competitive;
+4 5. Engage with stakeholders including educators, students,
+5 parents, employers, and community members to gather input on
+6 artificial intelligence education needs and priorities;
+7 6. Develop and recommend metrics for evaluating the
+8 effectiveness of artificial intelligence education initiatives
+9 funded through the Oklahoma AI Education Innovation Revolving Fund;
+10 and
+11 7. Perform such other advisory duties as may be requested by
+12 the Governor, the Legislature, or the agencies receiving monies from
+13 the fund.
+14 B. The Council shall have no authority to direct, control, or
+15 supervise the operations of any state agency, institution, or school
+16 district. All recommendations of the Council shall be advisory only
+17 and shall not be binding on any agency or institution.
+18 C. No later than December 1 of each year, the Council shall
+19 submit an annual report to the Governor, the President Pro Tempore
+20 of the Senate, the Speaker of the House of Representatives, the
+21 State Board of Education, and the Oklahoma State Regents for Higher
+22 Education. The report shall include:
+23 1. A summary of Council activities during the preceding year;
+24
+SENATE FLOOR VERSION - HB1782 SFLR Page 10
+(Bold face denotes Committee Amendments)
+
+1 2. An assessment of the progress of artificial intelligence
+2 education initiatives across all receiving agencies;
+3 3. Findings and recommendations for improving coordination and
+4 effectiveness;
+5 4. Identification of emerging opportunities or challenges in
+6 artificial intelligence education; and
+7 5. Any recommended legislative or administrative actions.
+8 SECTION 5. NEW LAW A new section of law to be codified
+9 in the Oklahoma Statutes as Section 204 of Title 75A, unless there
+10 is created a duplication in numbering, reads as follows:
+11 A. The Oklahoma AI Education Advisory Council shall meet at
+12 least quarterly at the call of the chair. Additional meetings may
+13 be called by the chair, or upon written request of a majority of the
+14 members.
+15 B. At its first meeting, the Council shall elect from among its
+16 members a chair and a vice-chair who shall serve for terms of two
+17 (2) years. The chair and vice-chair may be reelected.
+18 C. A majority of the members of the Council shall constitute a
+19 quorum for the transaction of business. All official actions of the
+20 Council shall require the affirmative vote of a majority of those
+21 members present and voting.
+22 D. The Council may establish subcommittees as it deems
+23 necessary to carry out its duties. Subcommittees may include
+24
+SENATE FLOOR VERSION - HB1782 SFLR Page 11
+(Bold face denotes Committee Amendments)
+
+1 indi viduals who are not members of the Council, provided that such
+2 individuals shall serve in a nonvoting advisory capacity.
+3 E. All meetings of the Council and its subcommittees shall be
+4 subject to the Oklahoma Open Meeting Act.
+5 F. The State Department of Education, the Oklahoma State
+6 Regents for Higher Education, the Oklahoma Department of Career and
+7 Technology Education, and the Oklahoma Department of Libraries shall
+8 provide staff support, information, and assistance to the Council as
+9 requested. The agencies may designate staff to serve jointly as
+10 support for the Council and may share the costs of such support
+11 proportionally based on the distribution percentages specified in
+12 Section 1 of this act.
+13 SECTION 6. NEW LAW A new section of law to be codified
+14 in the Oklahoma Statutes as Section 205 of Title 75A, unless there
+15 is created a duplication in numbering, reads as follows:
+16 If any provision of this act or the application thereof to any
+17 person or circumstance is held invalid, the invalidity shall not
+18 affect other provisions or applications of the act which can be
+19 given effect without the invalid provision or application, and to
+20 this end the provisions of this act are declared to be severable.
+21 SECTION 7. This act shall become effective November 1, 2026.
+22 COMMITTEE REPORT BY: COMMITTEE ON TECHNOLOGY AND TELECOMMUNICATIONS
+April 16, 2026 - DO PASS AS AMENDED
+23
+24
+SENATE FLOOR VERSION - HB1782 SFLR Page 12
+(Bold face denotes Committee Amendments)
