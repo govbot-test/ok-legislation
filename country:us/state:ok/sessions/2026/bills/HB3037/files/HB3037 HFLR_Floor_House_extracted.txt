@@ -1,0 +1,444 @@
+Title: 
+Official Title: 
+Source: versions - Floor (House)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 HOUSE OF REPRESENTATIVES - FLOOR VERSION
+2 STATE OF OKLAHOMA
+3 2nd Session of the 60th Legislature (2026)
+4 HOUSE BILL 3037 By: Lepak of the House
+5 and
+6 Bergstrom of the Senate
+7
+8
+9 AS INTRODUCED
+10 An Act relating to The Governmental Tort Claims Act;
+amending 51 O.S. 2021, Section 152, as last amended
+11 by Section 1, Chapter 314, O.S.L. 2025 (51 O.S. Supp.
+2025, Section 152), which relates to definitions;
+12 clarifying definition of employee to include students
+actively participating in certain institution-
+13 sponsored activities or events when such
+participation is an academic requirement; and
+14 providing an effective date.
+15
+16
+17 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+18 SECTION 1. AMENDATORY 51 O.S. 2021, Section 152, as last
+19 amended by Section 1, Chapter 314, O.S.L. 2025 (51 O.S. Supp. 2025,
+20 Section 152), is amended to read as follows:
+21 Section 152. As used in The Governmental Tort Claims Act:
+22 1. "Action" means a proceeding in a court of competent
+23 jurisdiction by which one party brings a suit against another;
+24
+HB3037 HFLR Page 1
+BOLD FACE denotes Committee Amendments.
+
+1 2. "Agency" means any board, commission, committee, department,
+2 or other instrumentality or entity designated to act in behalf of
+3 the state or a political subdivision;
+4 3. "Charitable health care provider" means a person who is
+5 licensed, certified, or otherwise authorized by the laws of this
+6 state to administer health care in the ordinary course of business
+7 or the practice of a profession and who provides care to a medically
+8 indigent person, as defined in paragraph 9 of this section, with no
+9 expectation of or acceptance of compensation of any kind;
+10 4. "Claim" means any written demand presented by a claimant or
+11 the claimant's authorized representative in accordance with The
+12 Governmental Tort Claims Act to recover money from the state or
+13 political subdivision as compensation for an act or omission of a
+14 political subdivision or the state or an employee;
+15 5. "Claimant" means the person or the person's authorized
+16 representative who files notice of a claim in accordance with The
+17 Governmental Tort Claims Act. Only the following persons and no
+18 others may be claimants:
+19 a. any person holding an interest in real or personal
+20 property which suffers a loss, provided that the claim
+21 of the person shall be aggregated with claims of all
+22 other persons holding an interest in the property and
+23 the claims of all other persons which are derivative
+24
+HB3037 HFLR Page 2
+BOLD FACE denotes Committee Amendments.
+
+1 of the loss, and that multiple claimants shall be
+2 considered a single claimant,
+3 b. the individual actually involved in the accident or
+4 occurrence who suffers a loss, provided that the
+5 individual shall aggregate in the claim the losses of
+6 all other persons which are derivative of the loss, or
+7 c. in the case of death, an administrator, special
+8 administrator or a personal representative who shall
+9 aggregate in the claim all losses of all persons which
+10 are derivative of the death;
+11 6. "Community health care provider" means:
+12 a. a health care provider who volunteers services at a
+13 community health center that has been deemed by the
+14 U.S. Department of Health and Human Services as a
+15 federally qualified health center as defined by 42
+16 U.S.C., Section 1396d(l)(2)(B),
+17 b. a health provider who provides services to an
+18 organization that has been deemed a federally
+19 qualified look-alike community health center, and
+20 c. a health care provider who provides services to a
+21 community health center that has made application to
+22 the U.S. Department of Health and Human Services for
+23 approval and deeming as a federally qualified look-
+24 alike community health center in compliance with
+HB3037 HFLR Page 3
+BOLD FACE denotes Committee Amendments.
+
+1 federal application guidance, and has received
+2 comments from the U.S. Department of Health and Human
+3 Services as to the status of such application with the
+4 established intent of resubmitting a modified
+5 application, or, if denied, a new application, no
+6 later than six (6) months from the date of the
+7 official notification from the U.S. Department of
+8 Health and Human Services requiring resubmission of a
+9 new application;
+10 7. "Employee" means any person who is authorized to act in
+11 behalf of a political subdivision or the state whether that person
+12 is acting on a permanent or temporary basis, with or without being
+13 compensated, or on a full-time or part-time basis.
+14 a. Employee also includes:
+15 (1) all elected or appointed officers, members of
+16 governing bodies and other persons designated to
+17 act for an agency or political subdivision, but
+18 the term does not mean a person or other legal
+19 entity while acting in the capacity of an
+20 independent contractor or an employee of an
+21 independent contractor,
+22 (2) from September 1, 1991, through June 30, 1996,
+23 licensed physicians, licensed osteopathic
+24 physicians, and Certified Nurse-Midwives
+HB3037 HFLR Page 4
+BOLD FACE denotes Committee Amendments.
+
+1 providing prenatal, delivery or infant care
+2 services to State Department of Health clients
+3 pursuant to a contract entered into with the
+4 State Department of Health in accordance with
+5 paragraph 3 of subsection C of Section 1-106 of
+6 Title 63 of the Oklahoma Statutes but only
+7 insofar as services authorized by and in
+8 conformity with the terms of the contract and the
+9 requirements of Section 1-233 of Title 63 of the
+10 Oklahoma Statutes, and
+11 (3) any volunteer, full-time, or part-time
+12 firefighter when performing duties for a fire
+13 department provided for in subparagraph j of
+14 paragraph 12 of this section.
+15 b. For the purposes of The Governmental Tort Claims Act,
+16 the following are employees of this state, regardless
+17 of the place in this state where duties as employees
+18 are performed:
+19 (1) physicians acting in an administrative capacity,
+20 (2) resident physicians and resident interns
+21 participating in a graduate medical education
+22 program of the University of Oklahoma Health
+23 Sciences Center, the Oklahoma State University
+24 College of Osteopathic Medicine, a public trust
+HB3037 HFLR Page 5
+BOLD FACE denotes Committee Amendments.
+
+1 created pursuant to Section 3224 of Title 63 of
+2 the Oklahoma Statutes and any sole member not-
+3 for-profit corporation of the public trust and
+4 any sole member not-for-profit subsidiary of such
+5 corporation, or the Department of Mental Health
+6 and Substance Abuse Services,
+7 (3) faculty members and staff of the University of
+8 Oklahoma Health Sciences Center, the Oklahoma
+9 State University College of Osteopathic Medicine,
+10 or a public trust created pursuant to Section
+11 3224 of Title 63 of the Oklahoma Statutes and any
+12 sole member not-for-profit corporation of the
+13 public trust and any sole member not-for-profit
+14 subsidiary of such corporation, while engaged in
+15 teaching duties,
+16 (4) physicians who practice medicine or act in an
+17 administrative capacity as an employee of an
+18 agency of this state,
+19 (5) physicians who provide medical care to inmates
+20 pursuant to a contract with the Department of
+21 Corrections,
+22 (6) any person who is licensed to practice medicine
+23 pursuant to Title 59 of the Oklahoma Statutes,
+24 who is under an administrative professional
+HB3037 HFLR Page 6
+BOLD FACE denotes Committee Amendments.
+
+1 services contract with the Oklahoma Health Care
+2 Authority under the auspices of the Oklahoma
+3 Health Care Authority Chief Medical Officer, and
+4 who is limited to performing administrative
+5 duties such as professional guidance for medical
+6 reviews, reimbursement rates, service
+7 utilization, health care delivery and benefit
+8 design for the Oklahoma Health Care Authority,
+9 only while acting within the scope of such
+10 contract,
+11 (7) licensed medical professionals under contract
+12 with city, county, or state entities who provide
+13 medical care to inmates or detainees in the
+14 custody or control of law enforcement agencies,
+15 (8) licensed mental health professionals as defined
+16 in Sections 1-103 and 5-502 of Title 43A of the
+17 Oklahoma Statutes, who are conducting initial
+18 examinations of individuals for the purpose of
+19 determining whether an individual meets the
+20 criteria for emergency detention as part of a
+21 contract with the Department of Mental Health and
+22 Substance Abuse Services, and
+23 (9) licensed mental health professionals as defined
+24 in Sections 1-103 and 5-502 of Title 43A of the
+HB3037 HFLR Page 7
+BOLD FACE denotes Committee Amendments.
+
+1 Oklahoma Statutes, who are providing mental
+2 health or substance abuse treatment services
+3 under a professional services contract with the
+4 Department of Mental Health and Substance Abuse
+5 Services and are providing such treatment
+6 services at a state-operated facility.
+7 Physician faculty members and physician staff of the
+8 University of Oklahoma Health Sciences Center, the
+9 Oklahoma State University College of Osteopathic
+10 Medicine, or a public trust created pursuant to
+11 Section 3224 of Title 63 of the Oklahoma Statutes and
+12 any sole member not-for-profit corporation of the
+13 public trust and any sole member not-for-profit
+14 subsidiary of such corporation not acting in an
+15 administrative capacity or engaged in teaching duties
+16 are not employees or agents of the state.
+17 c. For the purposes of The Governmental Tort Claims Act,
+18 employee shall include independent contractors and
+19 employees of independent contractors while actively
+20 engaged in the transport of individuals in need of
+21 initial assessment, emergency detention, or protective
+22 custody as authorized by Section 1-110 of Title 43A of
+23 the Oklahoma Statutes.
+24
+HB3037 HFLR Page 8
+BOLD FACE denotes Committee Amendments.
+
+1 d. Except as provided in subparagraph b of this
+2 paragraph, in no event shall the state be held liable
+3 for the tortious conduct of any physician, resident
+4 physician, or intern while practicing medicine or
+5 providing medical treatment to patients.
+6 e. For purposes of The Governmental Tort Claims Act,
+7 members of the state military forces on state active
+8 duty orders or on Title 32 active duty orders are
+9 employees of this state, regardless of the place,
+10 within or outside this state, where their duties as
+11 employees are performed.
+12 f. For the purposes of The Governmental Tort Claims Act,
+13 employee shall include students enrolled at an
+14 institution of higher education within The State
+15 System of Higher Education while the student is
+16 actively participating in institution-sponsored
+17 curricular or co-curricular activities or events under
+18 the direct supervision of a faculty or staff member
+19 when such participation is an academic requirement for
+20 a course or program the student is enrolled in;
+21 8. "Loss" means death or injury to the body or rights of a
+22 person or damage to real or personal property or rights therein;
+23 9. "Medically indigent" means a person requiring medically
+24 necessary hospital or other health care services for the person or
+HB3037 HFLR Page 9
+BOLD FACE denotes Committee Amendments.
+
+1 the dependents of the person who has no public or private third-
+2 party coverage, and whose personal resources are insufficient to
+3 provide for needed health care;
+4 10. "Municipality" means any incorporated city or town, and all
+5 institutions, agencies, or instrumentalities of a municipality;
+6 11. "Occurrence" means a loss arising out of an accident or
+7 event or a continuous or repeated exposure to substantially the same
+8 general harmful conditions. All losses arising out of an accident
+9 or event or a continuous or repeated exposure to substantially the
+10 same general harmful conditions shall be deemed to have arisen out
+11 of one occurrence;
+12 12. "Political subdivision" means:
+13 a. a municipality,
+14 b. a school district, including, but not limited to, a
+15 technology center school district established pursuant
+16 to Section 4410, 4411, 4420 or 4420.1 of Title 70 of
+17 the Oklahoma Statutes, or a public library as defined
+18 pursuant to Section 1-104 of Title 65 of the Oklahoma
+19 Statutes,
+20 c. a county,
+21 d. a public trust where the sole beneficiary or
+22 beneficiaries are a city, town, school district, or
+23 county. For purposes of The Governmental Tort Claims
+24 Act, a public trust shall include:
+HB3037 HFLR Page 10
+BOLD FACE denotes Committee Amendments.
+
+1 (1) a municipal hospital created pursuant to Sections
+2 30-101 through 30-109 of Title 11 of the Oklahoma
+3 Statutes, a county hospital created pursuant to
+4 Sections 781 through 796 of Title 19 of the
+5 Oklahoma Statutes, or is created pursuant to a
+6 joint agreement between such governing
+7 authorities, that is operated for the public
+8 benefit by a public trust created pursuant to
+9 Sections 176 through 180.4 of Title 60 of the
+10 Oklahoma Statutes and managed by a governing
+11 board appointed or elected by the municipality,
+12 county, or both, who exercises control of the
+13 hospital, subject to the approval of the
+14 governing body of the municipality, county, or
+15 both,
+16 (2) a public trust created pursuant to Sections 176
+17 through 180.4 of Title 60 of the Oklahoma
+18 Statutes after January 1, 2009, the primary
+19 purpose of which is to own, manage, or operate a
+20 public acute care hospital in this state that
+21 serves as a teaching hospital for a medical
+22 residency program provided by a college of
+23 osteopathic medicine and provides care to
+24 indigent persons, and
+HB3037 HFLR Page 11
+BOLD FACE denotes Committee Amendments.
+
+1 (3) a corporation in which all of the capital stock
+2 is owned, or a limited liability company in which
+3 all of the member interest is owned, by a public
+4 trust,
+5 e. for the purposes of The Governmental Tort Claims Act
+6 only, a housing authority created pursuant to the
+7 provisions of the Oklahoma Housing Authorities Act,
+8 f. for the purposes of The Governmental Tort Claims Act
+9 only, corporations organized not for profit pursuant
+10 to the provisions of the Oklahoma General Corporation
+11 Act for the primary purpose of developing and
+12 providing rural water supply and sewage disposal
+13 facilities to serve rural residents,
+14 g. for the purposes of The Governmental Tort Claims Act
+15 only, districts formed pursuant to the Rural Water,
+16 Sewer, Gas and Solid Waste Management Districts Act,
+17 h. for the purposes of The Governmental Tort Claims Act
+18 only, master conservancy districts formed pursuant to
+19 the Conservancy Act of Oklahoma,
+20 i. for the purposes of The Governmental Tort Claims Act
+21 only, a fire protection district created pursuant to
+22 the provisions of Section 901.1 et seq. of Title 19 of
+23 the Oklahoma Statutes,
+24
+HB3037 HFLR Page 12
+BOLD FACE denotes Committee Amendments.
+
+1 j. for the purposes of The Governmental Tort Claims Act
+2 only, a benevolent or charitable corporate volunteer
+3 or full-time fire department for an unincorporated
+4 area created pursuant to the provisions of Section 592
+5 et seq. of Title 18 of the Oklahoma Statutes,
+6 k. for purposes of The Governmental Tort Claims Act only,
+7 an emergency services provider rendering services
+8 pursuant to an existing contract between the emergency
+9 services provider and the State Department of Health.
+10 Provided, however, that the acquisition of commercial
+11 liability insurance covering the activities of such
+12 emergency services provider performed within this
+13 state shall not operate as a waiver of any of the
+14 limitations, immunities or defenses provided for
+15 political subdivisions pursuant to the terms of The
+16 Governmental Tort Claims Act,
+17 l. for purposes of The Governmental Tort Claims Act only,
+18 a conservation district created pursuant to the
+19 provisions of the Conservation District Act,
+20 m. for purposes of The Governmental Tort Claims Act,
+21 districts formed pursuant to the Oklahoma Irrigation
+22 District Act,
+23 n. for purposes of The Governmental Tort Claims Act only,
+24 any community action agency established pursuant to
+HB3037 HFLR Page 13
+BOLD FACE denotes Committee Amendments.
+
+1 Sections 5035 through 5040.1 of Title 74 of the
+2 Oklahoma Statutes,
+3 o. for purposes of The Governmental Tort Claims Act only,
+4 any organization that is designated as a youth
+5 services agency, pursuant to Section 2-7-306 of Title
+6 10A of the Oklahoma Statutes,
+7 p. for purposes of The Governmental Tort Claims Act only,
+8 any judge presiding over a drug court, as defined by
+9 Section 471.1 of Title 22 of the Oklahoma Statutes,
+10 q. for purposes of The Governmental Tort Claims Act only,
+11 any child-placing agency licensed by this state to
+12 place children in foster family homes,
+13 r. for purposes of The Governmental Tort Claims Act only,
+14 a circuit engineering district created pursuant to
+15 Section 687.1 of Title 69 of the Oklahoma Statutes,
+16 s. for purposes of The Governmental Tort Claims Act only,
+17 a substate planning district, regional council of
+18 government or other entity created pursuant to Section
+19 1001 et seq. of Title 74 of the Oklahoma Statutes, and
+20 t. for purposes of The Governmental Tort Claims Act only,
+21 a regional transportation authority created pursuant
+22 to Section 1370.7 of Title 68 of the Oklahoma Statutes
+23 including its contract operator and any railroad
+24 operating in interstate commerce that sells a property
+HB3037 HFLR Page 14
+BOLD FACE denotes Committee Amendments.
+
+1 interest or provides services to a regional
+2 transportation authority or allows the authority to
+3 use the property or tracks of the railroad for the
+4 provision of public passenger rail service to the
+5 extent claims against the contract operator or
+6 railroad arise out of or are related to or in
+7 connection with such property interest, services or
+8 operation of the public passenger rail service.
+9 Provided, the acquisition of commercial liability
+10 insurance to cover the activities of the regional
+11 transportation authority, contract operator or
+12 railroad shall not operate as a waiver of any
+13 liabilities, immunities or defenses provided pursuant
+14 to the provisions of The Governmental Tort Claims Act,
+15 and all their institutions, instrumentalities or agencies;
+16 13. "Scope of employment" means performance by an employee
+17 acting in good faith within the duties of the employee's office or
+18 employment or of tasks lawfully assigned by a competent authority
+19 including the operation or use of an agency vehicle or equipment
+20 with actual or implied consent of the supervisor of the employee,
+21 but shall not include corruption or fraud;
+22 14. "State" means the State of Oklahoma or any office,
+23 department, agency, authority, commission, board, institution,
+24 hospital, college, university, public trust created pursuant to
+HB3037 HFLR Page 15
+BOLD FACE denotes Committee Amendments.
+
+1 Titl e 60 of the Oklahoma Statutes of which the State of Oklahoma is
+2 the beneficiary, or other instrumentality thereof;
+3 15. "State active duty" shall be defined in accordance with
+4 Section 801 of Title 44 of the Oklahoma Statutes;
+5 16. "State military forces" shall be defined in accordance with
+6 Section 801 of Title 44 of the Oklahoma Statutes;
+7 17. "Title 32 active duty" shall be defined in accordance with
+8 Section 801 of Title 44 of the Oklahoma Statutes; and
+9 18. "Tort" means a legal wrong, independent of contract,
+10 involving violation of a duty imposed by general law, statute, the
+11 Oklahoma Constitution, or otherwise, resulting in a loss to any
+12 person, association or corporation as the proximate result of an act
+13 or omission of a political subdivision or the state or an employee
+14 acting within the scope of employment; provided, however, a tort
+15 shall not include a claim for inverse condemnation.
+16 SECTION 2. This act shall become effective November 1, 2026.
+17
+18 COMMITTEE REPORT BY: COMMITTEE ON JUDICIARY AND PUBLIC SAFETY
+OVERSIGHT, dated 03/03/2026 - DO PASS, As Coauthored.
+19
+20
+21
+22
+23
+24
+HB3037 HFLR Page 16
+BOLD FACE denotes Committee Amendments.

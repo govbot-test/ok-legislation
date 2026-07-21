@@ -1,0 +1,804 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1222 By: Sacchieri
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to driver licenses; amending 47 O.S.
+7
+2021, Section 6-111, as last amended by Section 2,
+8
+Chapter 310, O.S.L. 2025 (47 O.S. Supp. 2025, Section
+8
+6-111), which relates to the issuance of driver
+9
+licenses; prohibiting issuance of non-domiciled
+9
+commercial driver license; prohibiting holders of
+10
+non-domiciled commercial driver licenses from
+10
+operating commercial motor vehicles in this state;
+11
+invalidating certain non-domiciled commercial driver
+11
+licenses; increasing certain fine; defining term;
+12
+updating statutory language; updating statutory
+12
+references; and declaring an emergency.
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+SECTION 1. AMENDATORY 47 O.S. 2021, Section 6-111, as
+16
+17
+last amended by Section 2, Chapter 310, O.S.L. 2025 (47 O.S. Supp.
+17
+18
+2025, Section 6-111), is amended to read as follows:
+18
+19
+Section 6-111. A. 1. Service Oklahoma shall, upon payment of
+19
+20
+the required fee, issue to every applicant qualifying therefor a
+20
+21
+Class A, B, C, or D driver license or identification card as applied
+21
+22
+for, which license or card shall bear thereon a distinguishing
+22
+23
+alphanumeric identification assigned to the licensee or cardholder,
+23
+24
+date of issuance and date of expiration of the license or card, the
+24
+Req. No. 2395 Page 1
+
+1
+full legal name, signature or computerized signature, date of birth,
+1
+2
+residence address, unless specified as an exception in 6 C.F.R.,
+2
+3
+Section 37.17, sex, a computerized color image of the licensee or
+3
+4
+cardholder taken in accordance with Service Oklahoma rules, and
+4
+5
+security features as determined by Service Oklahoma. The image
+5
+6
+shall depict a full front unobstructed view of the entire face of
+6
+7
+the licensee or cardholder; provided, a commercial learner permit
+7
+8
+shall not bear the image of the licensee. When any person is issued
+8
+9
+both a driver license and an identification card, Service Oklahoma
+9
+10
+shall ensure the information on both the license and the card are is
+10
+11
+the same, unless otherwise provided by law.
+11
+12
+2. A driver license or identification card issued by Service
+12
+13
+Oklahoma on or after March 1, 2004, shall bear thereon the county of
+13
+14
+residence of the licensee or cardholder.
+14
+15
+3. Service Oklahoma may cancel the distinguishing number, when
+15
+16
+that distinguishing number is another person’s Social Security
+16
+17
+number, assign a new distinguishing alphanumeric identification, and
+17
+18
+issue a new license or identification card without charge to the
+18
+19
+licensee or cardholder.
+19
+20
+4. Service Oklahoma may promulgate rules for inclusion of the
+20
+21
+height and a brief description of the licensee or cardholder on the
+21
+22
+face of the card or license identifying the licensee or cardholder
+22
+23
+as deaf or hard-of-hearing.
+23
+24
+24
+Req. No. 2395 Page 2
+
+1
+5. It is unlawful for any person to apply, adhere, or otherwise
+1
+2
+attach to a driver license or identification card any decal,
+2
+3
+sticker, label, or other attachment. Any law enforcement officer is
+3
+4
+authorized to remove and dispose of any unlawful decal, sticker,
+4
+5
+label, or other attachment from the driver license of a person. The
+5
+6
+law enforcement officer, the employing agency of the officer,
+6
+7
+Service Oklahoma, and the State of Oklahoma shall be immune from any
+7
+8
+liability for any loss suffered by the licensee, cardholder, or the
+8
+9
+owner of the decal, sticker, label, or other attachment caused by
+9
+10
+the removal and destruction of the decal, sticker, label, or other
+10
+11
+attachment.
+11
+12
+6. Service Oklahoma may develop by rule a procedure which
+12
+13
+complies with the provisions of subsection G of Section 6-101 of
+13
+14
+this title whereby a person may apply for a renewal or replacement
+14
+15
+Oklahoma Class D license or Oklahoma identification card.
+15
+16
+B. 1. Service Oklahoma may issue or authorize the issuance of
+16
+17
+a temporary permit or license to an applicant for a driver license
+17
+18
+permitting such applicant to operate a motor vehicle while Service
+18
+19
+Oklahoma is completing its investigation and determination of all
+19
+20
+facts relative to such applicant’s privilege to receive a license,
+20
+21
+or while a permanent driver license is being produced and delivered
+21
+22
+to the applicant. Such permit or license must be in the immediate
+22
+23
+possession of the driver while operating a motor vehicle, and it
+23
+24
+24
+Req. No. 2395 Page 3
+
+1
+shall be invalid when the applicant’s permanent driver license has
+1
+2
+been issued and delivered or for good cause has been refused.
+2
+3
+2. Service Oklahoma may issue or authorize the issuance of a
+3
+4
+temporary identification card to an applicant, permitting the holder
+4
+5
+the privileges otherwise granted by identification cards, while a
+5
+6
+permanent driver license is being provided and delivered to the
+6
+7
+applicant. Such card shall be invalid when the applicant’s
+7
+8
+permanent identification card has been issued and delivered, or for
+8
+9
+good cause has been refused.
+9
+10
+C. 1. Service Oklahoma may issue a restricted commercial
+10
+11
+driver license to drivers eighteen (18) years of age or older for
+11
+12
+any of the following specific farm-related service industries:
+12
+13
+a. farm retail outlets and suppliers,
+13
+14
+b. agri-chemical businesses,
+14
+15
+c. custom harvesters, and
+15
+16
+d. livestock feeders.
+16
+17
+The applicant shall have held a valid driver license for at
+17
+18
+least one (1) year. Applicants with more than two (2) years of
+18
+19
+driving experience shall have a good driving record for the most
+19
+20
+recent two-year period and shall meet all the requirements for a
+20
+21
+commercial driver license. The restricted commercial driver license
+21
+22
+shall not exceed the maximum total days that federal law allows.
+22
+23
+Applicants for the restricted commercial driver license shall be
+23
+24
+exempt from the knowledge and skills test. Application of the
+24
+Req. No. 2395 Page 4
+
+1
+restricted commercial driver license does not have to be used in
+1
+2
+consecutive days. The use of the permit shall be declared at
+2
+3
+application.
+3
+4
+2. A “good driving record” as used in this subsection shall
+4
+5
+mean an applicant:
+5
+6
+a. has not had more than one license,
+6
+7
+b. has not had any license suspended, revoked, or
+7
+8
+canceled,
+8
+9
+c. has not had any conviction for any type of
+9
+10
+disqualifying offenses or serious traffic violations,
+10
+11
+or
+11
+12
+d. has not had any conviction for a violation of state or
+12
+13
+local law relating to motor vehicle traffic control,
+13
+14
+other than a parking violation, arising in connection
+14
+15
+with any traffic accident and has no record of an
+15
+16
+accident in which he or she is at fault.
+16
+17
+3. The restricted commercial driver license shall not be valid
+17
+18
+for operators of commercial motor vehicles beyond one hundred fifty
+18
+19
+(150) miles from the place of business or the farm currently being
+19
+20
+served. Such license shall be limited to Class B or C vehicles.
+20
+21
+Holders of such licenses who transport hazardous materials which are
+21
+22
+required to be placarded shall be limited to the following:
+22
+23
+a. diesel fuel in quantities of one thousand (1,000)
+23
+24
+gallons or less,
+24
+Req. No. 2395 Page 5
+
+1
+b. liquid fertilizers in vehicles with total capacities
+1
+2
+of three thousand (3,000) gallons or less, and
+2
+3
+c. solid fertilizers that are not mixed with any organic
+3
+4
+substance.
+4
+5
+No other placarded hazardous materials shall be transported by
+5
+6
+holders of such licenses.
+6
+7
+D. 1. Service Oklahoma may shall not issue a non-domiciled
+7
+8
+commercial learner permit or a non-domiciled commercial driver
+8
+9
+license. No person holding a non-domiciled commercial driver
+9
+10
+license or non-domiciled commercial learner permit shall operate a
+10
+11
+commercial motor vehicle within this state. Any non-domiciled
+11
+12
+commercial driver license or non-domiciled commercial learner permit
+12
+13
+issued by another state is invalid in this state and shall not
+13
+14
+authorize the holder to operate a commercial motor vehicle within
+14
+15
+this state.
+15
+16
+2. A person applying for such permit or license must comply
+16
+17
+with all testing and licensing requirements in accordance with
+17
+18
+applicable federal regulations, state laws, and Service Oklahoma
+18
+19
+rules. The expiration of the issued license shall be the same date
+19
+20
+as the expiration of the visa for the non-domiciled worker. Service
+20
+21
+Oklahoma may promulgate rules for the implementation of the process
+21
+22
+to carry out the provisions of this section.
+22
+23
+3. A person holding a non-domiciled commercial driver license
+23
+24
+or non-domiciled commercial learner’s permit within this state shall
+24
+Req. No. 2395 Page 6
+
+1
+also possess a valid work visa and provide proof of citizenship to
+1
+2
+validate his or her identity while operating a commercial motor
+2
+3
+vehicle. Proof of citizenship shall be demonstrated through
+3
+4
+presentation of a birth certificate, naturalization certificate, or
+4
+5
+valid passport.
+5
+6
+4. A commercial motor carrier whose driver is found to be in
+6
+7
+violation of this subsection shall be subject to a fine in the
+7
+8
+amount of Three Ten Thousand Dollars ($3,000.00) ($10,000.00) for
+8
+9
+each violation. The proceeds of any penalties collected pursuant to
+9
+10
+this paragraph shall be deposited in the Weigh Station Improvement
+10
+11
+Revolving Fund created in Section 1167 of Title 47 of the Oklahoma
+11
+12
+Statutes.
+12
+13
+5. 3. A driver found to be in violation of this subsection
+13
+14
+shall be prohibited from operating a commercial motor vehicle within
+14
+15
+this state until such a time that the driver is able to meet the
+15
+16
+identification provisions of this subsection guilty, upon
+16
+17
+conviction, of driving without a valid license as provided for in
+17
+18
+Section 6-303 of this title. Such person shall also be prohibited
+18
+19
+from operating a commercial motor vehicle within this state until
+19
+20
+such a time that the driver is able to provide a valid commercial
+20
+21
+driver license or commercial learner permit.
+21
+22
+4. Any driver found to be operating a commercial motor vehicle
+22
+23
+within this state while under such the prohibition provided for in
+23
+24
+paragraph 3 of this subsection shall be guilty of a misdemeanor and
+24
+Req. No. 2395 Page 7
+
+1
+upon conviction shall be punished by a fine not to exceed One
+1
+2
+Thousand Dollars ($1,000.00), or by imprisonment for not more than
+2
+3
+ninety (90) days, or by both such fine and imprisonment. Any fine
+3
+4
+collected pursuant to the provisions of this paragraph shall be
+4
+5
+deposited to the Trauma Care Assistance Revolving Fund created in
+5
+6
+Section 1-2530.9 of Title 63 of the Oklahoma Statutes.
+6
+7
+6. 5. The commercial motor carrier shall be notified of the
+7
+8
+location of any commercial motor vehicle involved in a violation,
+8
+9
+and, upon payment of the fine in full and presentation of a driver
+9
+10
+who meets all requirements to operate a commercial motor vehicle
+10
+11
+within this state, shall take possession of the vehicle. If the
+11
+12
+commercial motor carrier is unable to either pay such fine or
+12
+13
+present such driver within twelve (12) hours after notification, the
+13
+14
+owner of any cargo being transported by the commercial motor vehicle
+14
+15
+shall be notified and allowed to arrange for the transfer of the
+15
+16
+cargo to another vehicle. Neither the state nor the owner of such
+16
+17
+cargo shall be liable for any reasonable action to transfer such
+17
+18
+cargo.
+18
+19
+7. 6. As used in this subsection, a non-domiciled commercial
+19
+20
+driver license or non-domiciled commercial learner permit shall have
+20
+21
+the same meaning as that provided in 49 C.F.R., Section 383.5.
+21
+22
+E. 1. Service Oklahoma shall develop a procedure whereby a
+22
+23
+person applying for an original, renewal, or replacement Class A, B,
+23
+24
+C, or D driver license or identification card who is required to
+24
+Req. No. 2395 Page 8
+
+1
+register as a convicted sex offender with the Department of
+1
+2
+Corrections pursuant to the provisions of the Sex Offenders
+2
+3
+Registration Act and who the Department of Corrections designates as
+3
+4
+an aggravated or habitual offender pursuant to subsection J of
+4
+5
+Section 584 of Title 57 of the Oklahoma Statutes shall be issued a
+5
+6
+license or card bearing the words “Sex Offender”.
+6
+7
+2. Service Oklahoma shall notify every person subject to
+7
+8
+registration under the provisions of Section 1-101 et seq. of this
+8
+9
+title who holds a current Class A, B, C, or D driver license or
+9
+10
+identification card that such person is required to surrender the
+10
+11
+license or card to Service Oklahoma within one hundred eighty (180)
+11
+12
+days from the date of the notice.
+12
+13
+3. Upon surrendering the license or card for the reason set
+13
+14
+forth in this subsection, application may be made with Service
+14
+15
+Oklahoma for a replacement license or card bearing the words “Sex
+15
+16
+Offender”.
+16
+17
+4. Failure to comply with the requirements set forth in such
+17
+18
+notice shall result in cancellation of the person’s license or card.
+18
+19
+Such cancellation shall be in effect for one (1) year, after which
+19
+20
+time the person may make application with Service Oklahoma for a new
+20
+21
+license or card bearing the words “Sex Offender”. Continued use of
+21
+22
+a canceled license or card shall constitute a misdemeanor and shall,
+22
+23
+upon conviction thereof, be punishable by a fine of not less than
+23
+24
+Twenty-five Dollars ($25.00), nor more than Two Hundred Dollars
+24
+Req. No. 2395 Page 9
+
+1
+($200.00). When an individual is no longer required to register as
+1
+2
+a convicted sex offender with the Department of Corrections pursuant
+2
+3
+to the provisions of the Sex Offenders Registration Act, the
+3
+4
+individual shall be eligible to receive a driver license or
+4
+5
+identification card which does not bear the words “Sex Offender”.
+5
+6
+F. Nothing in subsection E of this section shall be deemed to
+6
+7
+impose any liability upon or give rise to a cause of action against
+7
+8
+any employee, agent, or official of the Department of Corrections
+8
+9
+for failing to designate a sex offender as an aggravated or habitual
+9
+10
+offender pursuant to subsection J O of Section 584 of Title 57 of
+10
+11
+the Oklahoma Statutes.
+11
+12
+G. A person subject to an order for the installation of an
+12
+13
+ignition interlock device shall be required by Service Oklahoma to
+13
+14
+submit his or her driver license for a replacement. The replacement
+14
+15
+driver license shall bear the words “Interlock Required” and such
+15
+16
+designation shall remain on the driver license for the duration of
+16
+17
+the order requiring the ignition interlock device. The replacement
+17
+18
+license shall be subject to the same expiration and renewal
+18
+19
+procedures provided by law. Upon completion of the requirements for
+19
+20
+the interlock device, a person may apply for a replacement driver
+20
+21
+license.
+21
+22
+H. Service Oklahoma shall develop a procedure whereby a person
+22
+23
+applying for an original, renewal, or replacement Class D driver
+23
+24
+license who has been granted modified driving privileges under this
+24
+Req. No. 2395 Page 10
+
+1
+title shall be issued a Class D driver license which identifies the
+1
+2
+license as a modified license.
+2
+3
+SECTION 2. It being immediately necessary for the preservation
+3
+4
+of the public peace, health or safety, an emergency is hereby
+4
+5
+declared to exist, by reason whereof this act shall take effect and
+5
+6
+be in full force from and after its passage and approval.
+6
+7
+7
+8
+60-2-2395 MSBB 12/9/2025 11:54:47 AM
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2395 Page 11

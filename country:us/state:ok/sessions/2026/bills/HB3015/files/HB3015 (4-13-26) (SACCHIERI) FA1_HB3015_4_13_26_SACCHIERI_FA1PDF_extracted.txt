@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - HB3015 (4-13-26) (SACCHIERI) FA1.PDF
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE CHAMBER
+STATE OF OKLAHOMA DISPOSITION
+FLOOR AMENDMENT No. ________
+COMMITTEE AMENDMENT
+(Date)
+I move to amend House Bill No. 3015 on Page 7, Line 18 1/2, by inserting a new Section 12 to read
+as follows, by amending the title to conform, and renumbering subsequent section:
+“SECTION 12. NEW LAW A new section of law to be codified in the Oklahoma Statutes
+as Section 6-110.6 of Title 47, unless there is created a duplication in numbering, reads as follows:
+A. Whenever an applicant for a driver license or state-issued identification card presents an
+original or certified birth certificate copy as proof of identity, Service Oklahoma shall query the
+Electronic Verification of Vital Events (EVVE) system prior to issuance of a new driver license or
+state-issued identification card, a renewal of a driver license or state-issued identification card, or an
+application for a lost or destroyed driver license or state-issued identification card. In the event that
+the EVVE system is unable to verify the original or certified birth certificate copy presented for any
+reason, the EVVE system shall provide a question-and-answer-based verification process that, with
+near certainty, can establish the validity of the professed identity of the applicant.
+B. Service Oklahoma shall promulgate rules for the provisions provided for in this section.”
+Submitted by:
+_______________________
+Senator Sacchieri
+Sacchieri-MSBB-FA1-HB3015
+4/13/2026 10:33 AM
+1
+(Floor Amendments Only) Date and Time Filed:
+Untimely Amendment Cycle Extended Secondary Amendment
