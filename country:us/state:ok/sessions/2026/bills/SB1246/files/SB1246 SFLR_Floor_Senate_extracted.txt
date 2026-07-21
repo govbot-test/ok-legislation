@@ -1,0 +1,394 @@
+Title: 
+Official Title: 
+Source: versions - Floor (Senate)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 SENATE FLOOR VERSION
+February 26, 2026
+2
+3 COMMITTEE SUBSTITUTE
+FOR
+4 SENATE BILL NO. 1246 By: Rader of the Senate
+5 and
+6 Pfeiffer of the House
+7
+8
+9 An Act relating to the Oklahoma Environmental Quality
+Code; amending 27A O.S. 2021, Sections 2-14-103, 2-
+10 14-301, 2-14-302, 2-14-303, and 2-14-304, which
+relate to the Oklahoma Uniform Environmental
+11 Permitting Act; modifying definitions; modifying
+requirements and procedures for certain
+12 notifications; requiring certain information be made
+available online; modifying time frame for which
+13 certain meetings are held; modifying time frame for
+which certain response is prepared; modifying
+14 provisions for certain administrative hearing;
+updating statutory language; updating statutory
+15 reference; and providing an effective date.
+16
+17
+18 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+19 SECTION 1. AMENDATORY 27A O.S. 2021, Section 2-14-103,
+20 is amended to read as follows:
+21 Section 2-14-103. For the purposes of the Oklahoma Uniform
+22 Environmental Permitting Act:
+23 1. “Application” means a document or set of documents, filed
+24 with the Department of Environmental Quality for the purpose of
+SENATE FLOOR VERSION - SB1246 SFLR Page 1
+(Bold face denotes Committee Amendments)
+
+1 rece iving a permit or the modification, amendment, or renewal
+2 thereof from the Department. “Application” Application includes any
+3 subsequent additions, revisions, or modifications submitted to the
+4 Department which supplement, correct, or amend a pending
+5 application;
+6 2. “Council” means any advisory council authorized by the
+7 Legislature to recommend rules to the Environmental Quality Board;
+8 3. “Draft permit” means a draft document prepared by the
+9 Department after it has found a Tier II or III application for a
+10 permit to be administratively and technically complete, pursuant to
+11 the requirements of the Oklahoma Environmental Quality Code and
+12 rules promulgated thereunder, and that such application may warrant
+13 the issuance, modification, or renewal of the permit;
+14 4. “Permit” means a permission required by law and issued by
+15 the Department, the application for which has been classified as
+16 Tier I, II, or III by the Board. The term “permit” includes but is
+17 not limited to:
+18 a. specific types of permits and other Department
+19 authorizations including certifications,
+20 registrations, licenses, and plan approvals, and
+21 b. an approved variance from a promulgated rule; however,
+22 for existing facilities the Department may require
+23 additional notice and public participation
+24
+SENATE FLOOR VERSION - SB1246 SFLR Page 2
+(Bold face denotes Committee Amendments)
+
+1 opportunities for variances posing the potential for
+2 increased risk;
+3 5. “Process meeting” means a meeting open to the public which
+4 is held by the Department to explain the permitting process and the
+5 public participation opportunities applicable to a specific Tier III
+6 application;
+7 6. “Proposed permit” means a document, based on a draft permit
+8 and prepared by the Department after consideration of comments
+9 received on the draft permit, which indicates the Department’s
+10 decision to issue a final permit pending the outcome of an
+11 administrative permit hearing, if any;
+12 7. “Qualified interest group” means any organization with
+13 twenty-five or more members who are Oklahoma residents of this
+14 state;
+15 8. “Response to comments” means a document prepared by the
+16 Department after its review of timely comments received on a draft
+17 denial or draft permit pursuant to public comment opportunities
+18 which:
+19 a. specifies any provisions of the draft permit that were
+20 changed in the proposed or final permit and the
+21 reasons for such changes, and
+22 b. briefly describes and responds to all significant
+23 comments raised during the public comment period or
+24
+SENATE FLOOR VERSION - SB1246 SFLR Page 3
+(Bold face denotes Committee Amendments)
+
+1 formal public meeting about the draft denial or draft
+2 permit;
+3 9. “Tier I” means a basic process of permitting which includes
+4 application, notice to the landowner, and Department review. For
+5 the Tier I process a permit shall be issued or denied by a technical
+6 supervisor of the reviewing Division, a local representative of the
+7 Department, or the chief engineer of the Department provided such
+8 authority has been delegated thereto by the Executive Director;
+9 10. “Tier II” means a secondary process of permitting which
+10 includes:
+11 a. the Tier I process,
+12 b. published notice of application filing that contains
+13 information on how the public may view documents,
+14 subscribe to updates, and receive electronic notice of
+15 public participation opportunities related to the
+16 pending application and agency decision,
+17 c. preparation of draft permit or draft denial,
+18 d. published notice electronic notification and
+19 publication of draft permit or draft denial on the
+20 Electronic Environmental Permit Application Docket on
+21 the Department’s website and opportunity for a formal
+22 public meeting, and
+23 e. public meeting, if any, and
+24
+SENATE FLOOR VERSION - SB1246 SFLR Page 4
+(Bold face denotes Committee Amendments)
+
+1 f. preparation of the Department’s response to comments,
+2 if any.
+3 For the Tier II process, a permit shall be issued or denied by the
+4 Director of the reviewing Division or the chief engineer of the
+5 Department provided such authority has been delegated thereto by the
+6 Executive Director; and
+7 11. “Tier III” means an expanded process of permitting which
+8 includes:
+9 a. the Tier II process except the notice of filing shall
+10 also include an opportunity for a process meeting,
+11 b. preparation of the Department’s response to comments,
+12 and
+13 c. denial of application or preparation of a proposed
+14 permit, or
+15 d. preparation of a proposed permit, published notice of
+16 availability of proposed permit and response to
+17 comments and of opportunity for an administrative
+18 permit hearing;
+19 c. electronic notification and publication of denial of
+20 application or proposed permit, response to comments,
+21 and opportunity for an administrative permit hearing
+22 on the Electronic Environmental Permit Application
+23 Docket on the Department’s website, and
+24 d. administrative permit hearing, if any.
+SENATE FLOOR VERSION - SB1246 SFLR Page 5
+(Bold face denotes Committee Amendments)
+
+1 For the Tier III process a permit shall be issued or denied by the
+2 Executive Director.
+3 SECTION 2. AMENDATORY 27A O.S. 2021, Section 2-14-301,
+4 is amended to read as follows:
+5 Section 2-14-301. A. Upon In addition to any other
+6 notification requirement imposed by law, upon filing a Tier II or
+7 III application with the Department of Environmental Quality, the
+8 applicant shall publish notice of the filing as legal notice in one
+9 newspaper of general circulation local to the proposed new site or
+10 existing facility once a week for two (2) consecutive weeks. The
+11 publication shall identify locations where the application may be
+12 reviewed, including a location in the county where the proposed new
+13 site or existing facility is located direct the public to the
+14 Electronic Environmental Permit Application Docket on the
+15 Department’s website where the public may view documents related to
+16 the pending application and subscribe to receive electronic notice
+17 of public participation opportunities and receive updates on other
+18 actions related to the pending application. The Department shall
+19 maintain documents related to the pending application on the
+20 Electronic Environmental Permit Application Docket on the
+21 Department’s website until the decision on issuance or denial of any
+22 pending permit application becomes final.
+23 B. For Tier III applications, the publication shall also
+24 include notice of a thirty-day opportunity to request, or give the
+SENATE FLOOR VERSION - SB1246 SFLR Page 6
+(Bold face denotes Committee Amendments)
+
+1 date , time and place for, a process meeting on the permitting
+2 process. If the Department receives timely request and determines
+3 that a significant degree of public interest in the application
+4 exists, it shall schedule and hold such meeting. The applicant
+5 shall be entitled to attend the meeting and may make a brief
+6 presentation on the permit request. Any local community meeting to
+7 be held by the applicant on the proposed facility or activity for
+8 which a permit is sought may, with the agreement of the Department
+9 and the applicant, be combined with the process meeting authorized
+10 by this paragraph subsection.
+11 C. The provisions of this section shall not stay the
+12 Department’s review of the application.
+13 SECTION 3. AMENDATORY 27A O.S. 2021, Section 2-14-302,
+14 is amended to read as follows:
+15 Section 2-14-302. A. Upon conclusion of its technical review
+16 of a Tier II or III application within the permitting timeframes
+17 time frames established by rules promulgated by the Environmental
+18 Quality Board, the Department of Environmental Quality shall prepare
+19 a draft denial or draft permit.
+20 1. Notice of a draft denial or draft permit shall be given by
+21 the Department and notice of a draft permit shall be given by the
+22 applicant on the Department’s website.
+23 2. Notice of the draft denial or draft permit shall be
+24 published as legal notice in one newspaper local to the proposed new
+SENATE FLOOR VERSION - SB1246 SFLR Page 7
+(Bold face denotes Committee Amendments)
+
+1 site or existing facility. The notice shall identify places where
+2 the draft denial or draft permit may be reviewed, including a
+3 location in the county where the proposed new site or existing
+4 facility is located, and shall provide for a set time period for
+5 public comment and for the opportunity to request a formal public
+6 meeting on the respective draft denial or draft permit posted on the
+7 Electronic Environmental Permit Application Docket on the
+8 Department’s website and provided to the applicant and those who
+9 subscribed to receive notifications. The notice shall provide for a
+10 set time period for public comment and for the opportunity to
+11 request a formal public meeting on the respective draft denial or
+12 draft permit. Such time period shall be set at thirty (30) days
+13 after the date the notice is published posted unless a longer time
+14 is required by federal regulations promulgated as rules by the
+15 Board. In lieu of the notice of opportunity to request a public
+16 meeting, notice of the date, time, and place of a public meeting may
+17 be given, if previously scheduled.
+18 B. Upon the publication of notice notification of a draft
+19 permit, the applicant Department shall make the draft permit and the
+20 application, except for proprietary provisions otherwise protected
+21 by law, available for public review at a location in the county
+22 where the proposed new site or existing facility is located on the
+23 Electronic Environmental Permit Application Docket on the
+24 Department’s website.
+SENATE FLOOR VERSION - SB1246 SFLR Page 8
+(Bold face denotes Committee Amendments)
+
+1 SECTION 4. AMENDATORY 27A O.S. 2021, Section 2-14-303,
+2 is amended to read as follows:
+3 Section 2-14-303. The Department of Environmental Quality shall
+4 expeditiously schedule and hold a formal public meeting if the
+5 Department receives written timely request for such meeting,
+6 pursuant to the provisions of Section 2-14-302 of this title, and
+7 determines there is a significant degree of public interest in the
+8 draft denial or draft permit.
+9 1. Notice of the meeting shall be given to the public posted on
+10 the Electronic Environmental Permit Application Docket on the
+11 Department’s website and provided to the applicant and those who
+12 subscribed to receive notifications at least thirty (30) days prior
+13 to the meeting date.
+14 2. The public meeting shall be held at a location convenient to
+15 and near the proposed new site or existing facility not more than
+16 one hundred twenty (120) seventy-five (75) days after the date
+17 notice of the draft denial or draft permit was published issued
+18 unless the applicant requests a longer period to prepare for the
+19 public meeting.
+20 3. At the meeting, any person may submit oral or written
+21 statements and data concerning the draft denial or draft permit.
+22 Reasonable limits may be set upon the time allowed for oral
+23 statements.
+24
+SENATE FLOOR VERSION - SB1246 SFLR Page 9
+(Bold face denotes Committee Amendments)
+
+1 4. The public comment period shall automatically be extended to
+2 the close of the public meeting. Upon good cause shown, the
+3 presiding officer may extend the comment period further to a date
+4 certain by so stating at the meeting.
+5 5. Such meeting shall not be a quasi-judicial proceeding.
+6 6. The applicant or a representative of the applicant shall be
+7 present at the meeting to respond to questions.
+8 SECTION 5. AMENDATORY 27A O.S. 2021, Section 2-14-304,
+9 is amended to read as follows:
+10 Section 2-14-304. A. For draft permits or draft denials for
+11 Tier II applications on which no comment or public meeting request
+12 was timely received and on which no public meeting was held, the
+13 final permit shall be issued or denied.
+14 B. For draft permits or draft denials for Tier II applications
+15 on which comment or a public meeting request was timely received or
+16 on which a public meeting was held, the Department of Environmental
+17 Quality, after considering the comments, shall prepare a response to
+18 comments and issue the draft permit as is or as amended or make
+19 final denial.
+20 The response to comments shall be prepared within ninety (90)
+21 forty-five (45) days after the close of the public comment period
+22 unless extended by the Executive Director upon a determination that
+23 additional time is required due to circumstances outside the control
+24 of the Department. Such circumstances may include, but shall not be
+SENATE FLOOR VERSION - SB1246 SFLR Page 10
+(Bold face denotes Committee Amendments)
+
+1 limi ted to, an act of God, a substantial and unexpected increase in
+2 the number of applications filed, an unusually large number of
+3 public comments, unusually lengthy public comments that require
+4 extensive technical responses, additional review duties imposed on
+5 the Department from an outside source, or outside review by a
+6 federal agency.
+7 C. For a draft permit or draft denial for a Tier III
+8 application, after the public comment period and the public meeting,
+9 if any, the Department shall prepare a response to comments and
+10 either issue a final denial in accordance with paragraph 2 of this
+11 subsection or prepare a proposed permit.
+12 1. When a proposed permit is prepared, the applicant Department
+13 shall publish post notice, as legal notice in one newspaper local to
+14 the proposed new site or existing facility, of the Department’s
+15 tentative decision to issue the permit on the Electronic
+16 Environmental Permit Application Docket on the Department’s website
+17 and provide notice to the applicant and those who subscribed to
+18 receive notifications on the permit application. Such notice shall
+19 identify the places where the proposed permit and the Department’s
+20 response to comments may be reviewed, including a location in the
+21 county where the proposed new site or existing facility is located
+22 and shall offer a twenty-day opportunity to request an
+23 administrative hearing to participate in as a party. The
+24 opportunity to request a hearing shall be available to the applicant
+SENATE FLOOR VERSION - SB1246 SFLR Page 11
+(Bold face denotes Committee Amendments)
+
+1 and any person or qualified interest group who claims to hold a
+2 demonstrable environmental interest and who alleges that the
+3 construction or operation of the proposed facility or activity would
+4 directly and adversely affect such interest.
+5 If no written administrative hearing request is received by the
+6 Department by the end of twenty (20) days after the publication date
+7 of the notice, the final permit shall be issued.
+8 2. If the Department’s final decision is to deny the permit, it
+9 shall give notice to the applicant and issue a final denial in
+10 accordance with subsection F of this section.
+11 D. When an administrative hearing is timely requested on a
+12 proposed permit in accordance with subsection C of this section, all
+13 timely requests shall be combined in a single hearing. The hearing
+14 shall be a quasi-judicial proceeding and shall be conducted by an
+15 Administrative Law Judge administrative law judge in accordance with
+16 Article 2 of the Administrative Procedures Act, the Oklahoma
+17 Environmental Quality Code and rules promulgated by the
+18 Environmental Quality Board.
+19 1. The applicant shall be a party to the hearing.
+20 2. The Department shall schedule hold a prehearing conference
+21 within sixty (60) forty-five (45) days after the end of the hearing
+22 request period.
+23 3. The Department shall move expeditiously to an evidentiary
+24 proceeding in which parties shall have the right to present evidence
+SENATE FLOOR VERSION - SB1246 SFLR Page 12
+(Bold face denotes Committee Amendments)
+
+1 befo re the Department on whether the proposed permit and the
+2 technical data, models and analyses, and information in the
+3 application upon which the proposed permit is based are in
+4 substantial compliance with applicable provisions of the Code and
+5 rules promulgated thereunder and whether the proposed permit should
+6 be issued as is, amended and issued, or denied.
+7 4. Failure of any party to participate in the administrative
+8 proceeding with good faith and diligence may result in a default
+9 judgment with regard to that party; provided, however, that no final
+10 permit shall be issued solely on the basis of any such judgment.
+11 E. If the Department decides to reverse its initial draft
+12 decision, it shall withdraw the draft denial or draft permit and
+13 prepare a draft permit or draft denial, as appropriate. Notice of
+14 the withdrawal of the original draft and preparation of the revised
+15 draft shall be given as provided in Section 2-14-302 of this title.
+16 The Department shall then re-open reopen the comment period and
+17 provide additional opportunity for a formal public meeting on the
+18 revised draft as described in Section 2-14-303 of this title.
+19 F. Upon final issuance or denial of a permit for a Tier III
+20 application, the Department shall provide public notice notification
+21 of the final permit decision and the availability of the response to
+22 comments, if any.
+23
+24
+SENATE FLOOR VERSION - SB1246 SFLR Page 13
+(Bold face denotes Committee Amendments)
+
+1 G. Any appeal of a Tier III final permit decision or any final
+2 order connected therewith shall be made in accordance with the
+3 provisions of the Code and the Administrative Procedures Act.
+4 H. Any applicant, within ten (10) days after final denial of
+5 the application for a new original permit on which no final order
+6 was issued, may petition the Department for reconsideration on the
+7 grounds stated in subsection A of Section 317 of Title 75 of the
+8 Oklahoma Statutes as if the denial was an order. Disposition of the
+9 petition shall be by order of the Executive Director according to
+10 subsections B and D of Section 317 of Title 75 of the Oklahoma
+11 Statutes.
+12 SECTION 6. This act shall become effective November 1, 2026.
+13 COMMITTEE REPORT BY: COMMITTEE ON ENERGY
+February 26, 2026 - DO PASS AS AMENDED BY CS
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+SENATE FLOOR VERSION - SB1246 SFLR Page 14
+(Bold face denotes Committee Amendments)
