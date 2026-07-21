@@ -1,0 +1,670 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1339 By: Pugh
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to schools; amending Section 1,
+7
+Chapter 289, O.S.L. 2023, as last amended by Section
+8
+2, Chapter 480, O.S.L. 2025 (70 O.S. Supp. 2025,
+8
+Section 18-114.15), which relates to the minimum
+9
+salary schedule for certified personnel; directing
+9
+certain funds to be allocated by the State Board of
+10
+Education to implement salary increases for certain
+10
+school districts; directing funds to be allocated by
+11
+certain date annually; updating statutory language;
+11
+providing an effective date; and declaring an
+12
+emergency.
+12
+13
+13
+14
+14
+15
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+15
+16
+SECTION 1. AMENDATORY Section 1, Chapter 289, O.S.L.
+16
+17
+2023, as last amended by Section 2, Chapter 480, O.S.L. 2025 (70
+17
+18
+O.S. Supp. 2025, Section 18-114.15), is amended to read as follows:
+18
+19
+Section 18-114.15. A. Beginning with the 2025-2026 school
+19
+20
+year, certified personnel, as defined in Section 26-103 of this
+20
+21
+title, in the public schools of this state shall receive in salary
+21
+22
+and/or and fringe benefits not less than the amounts specified in
+22
+23
+the following schedule:
+23
+24
+MINIMUM SALARY SCHEDULE
+24
+Req. No. 3189 Page 1
+
+1
+National
+1
+2
+Years of Bachelor’s Board Master’s Doctor’s
+2
+3
+Experience Degree Certification Degree Degree
+3
+4
+0 $39,601 $40,759 $40,991 $42,381
+4
+5
+1 $40,035 $41,193 $41,425 $42,815
+5
+6
+2 $40,469 $41,628 $41,859 $43,249
+6
+7
+3 $40,904 $42,062 $42,294 $43,684
+7
+8
+4 $41,338 $42,496 $42,728 $44,118
+8
+9
+5 $42,810 $43,968 $44,200 $45,590
+9
+10
+6 $43,273 $44,432 $44,663 $46,054
+10
+11
+7 $43,737 $44,895 $45,127 $46,517
+11
+12
+8 $44,200 $45,358 $45,590 $46,980
+12
+13
+9 $44,663 $45,822 $46,054 $47,444
+13
+14
+10 $46,684 $47,844 $48,568 $50,945
+14
+15
+11 $47,177 $48,336 $49,061 $51,438
+15
+16
+12 $47,670 $48,829 $49,554 $51,931
+16
+17
+13 $48,162 $49,322 $50,047 $52,424
+17
+18
+14 $48,655 $49,815 $50,539 $52,916
+18
+19
+15 $50,167 $51,327 $52,052 $54,430
+19
+20
+16 $50,660 $51,820 $52,545 $54,923
+20
+21
+17 $51,153 $52,313 $53,038 $55,416
+21
+22
+18 $51,646 $52,806 $53,531 $55,909
+22
+23
+19 $52,139 $53,299 $54,024 $56,402
+23
+24
+20 $52,652 $53,813 $54,538 $56,917
+24
+Req. No. 3189 Page 2
+
+1
+21 $53,145 $54,306 $55,031 $57,410
+1
+2
+22 $53,639 $54,799 $55,524 $57,903
+2
+3
+23 $54,132 $55,292 $56,018 $58,397
+3
+4
+24 $54,625 $55,785 $56,511 $58,890
+4
+5
+25 $56,049 $57,232 $57,971 $60,395
+5
+6
+26 $56,542 $57,725 $58,464 $60,888
+6
+7
+27 $57,035 $58,218 $58,957 $61,381
+7
+8
+28 $57,528 $58,711 $59,450 $61,874
+8
+9
+29 $58,021 $59,204 $59,943 $62,367
+9
+10
+30 $58,541 $59,724 $60,463 $62,887
+10
+11
+31 $59,001 $60,184 $60,923 $63,347
+11
+12
+32 $59,494 $60,677 $61,416 $63,840
+12
+13
+33 $59,987 $61,170 $61,909 $64,333
+13
+14
+34 $60,480 $61,663 $62,402 $64,826
+14
+15
+35 $60,973 $62,156 $62,895 $65,319
+15
+16
+Master’s Degree +
+16
+17
+Years of National Board
+17
+18
+Experience Certification
+18
+19
+0 $42,149
+19
+20
+1 $42,583
+20
+21
+2 $43,018
+21
+22
+3 $43,452
+22
+23
+4 $43,886
+23
+24
+5 $45,358
+24
+Req. No. 3189 Page 3
+
+1
+6 $45,822
+1
+2
+7 $46,285
+2
+3
+8 $46,749
+3
+4
+9 $47,212
+4
+5
+10 $49,728
+5
+6
+11 $50,221
+6
+7
+12 $50,713
+7
+8
+13 $51,206
+8
+9
+14 $51,699
+9
+10
+15 $53,212
+10
+11
+16 $53,705
+11
+12
+17 $54,198
+12
+13
+18 $54,691
+13
+14
+19 $55,184
+14
+15
+20 $55,698
+15
+16
+21 $56,192
+16
+17
+22 $56,685
+17
+18
+23 $57,178
+18
+19
+24 $57,671
+19
+20
+25 $59,153
+20
+21
+26 $59,646
+21
+22
+27 $60,139
+22
+23
+28 $60,632
+23
+24
+29 $61,125
+24
+Req. No. 3189 Page 4
+
+1
+30 $61,645
+1
+2
+31 $62,105
+2
+3
+32 $62,598
+3
+4
+33 $63,091
+4
+5
+34 $63,584
+5
+6
+35 $64,077
+6
+7
+B. 1. When determining the minimum salary schedule, “fringe
+7
+8
+benefits” shall mean all or part of retirement benefits, excluding
+8
+9
+the contributions made pursuant to subsection A of Section 17-108.1
+9
+10
+of this title and the flexible benefit allowance pursuant to Section
+10
+11
+26-105 of this title from the flexible benefit allowance funds
+11
+12
+disbursed by the State Board of Education and the State Board of
+12
+13
+Career and Technology Education pursuant to Section 26-104 of this
+13
+14
+title.
+14
+15
+2. If a school district intends to provide retirement benefits
+15
+16
+to a teacher such that the teacher’s salary would be less than the
+16
+17
+amounts set forth in the minimum salary schedule specified in
+17
+18
+subsection A of this section, the district shall be required to
+18
+19
+provide written notification to the teacher prior to his or her
+19
+20
+employment or, if already employed by the district, no later than
+20
+21
+thirty (30) days prior to the date the district elects to provide
+21
+22
+retirement benefits such that the teacher’s salary would be less
+22
+23
+than the minimum salary schedule.
+23
+24
+24
+Req. No. 3189 Page 5
+
+1
+C. Any of the degrees referred to in this section shall be from
+1
+2
+a college recognized by the State Board of Education. The Board
+2
+3
+shall accept teaching experience from out-of-state school districts
+3
+4
+that are accredited by the State Board of Education state board of
+4
+5
+education or appropriate state accrediting agency for the districts.
+5
+6
+The Board shall accept teaching experience from out-of-country
+6
+7
+schools that are accredited or otherwise endorsed by the appropriate
+7
+8
+national or regional accrediting or endorsement authority. Out-of-
+8
+9
+country certification documentation in a language other than English
+9
+10
+shall be analyzed by an educational credential evaluation service in
+10
+11
+accordance with industry standards and guidelines and approved by
+11
+12
+the State Department of Education. The person seeking to have
+12
+13
+credit granted for out-of-country teaching experience shall be
+13
+14
+responsible for all costs of the analysis by a credential evaluation
+14
+15
+service. The Board shall accept teaching experience from primary
+15
+16
+and secondary schools that are operated by the United States
+16
+17
+Department of Defense or are affiliated with the United States
+17
+18
+Department of State.
+18
+19
+D. For the purpose of state salary increments and retirement,
+19
+20
+no teacher shall be granted credit for more than five (5) years of
+20
+21
+active duty in the military service, as defined in Section 17-113 of
+21
+22
+this title, or out-of-state or out-of-country teaching experience as
+22
+23
+a certified teacher or its equivalent. Nothing in this section
+23
+24
+shall prohibit boards of education from crediting more years of
+24
+Req. No. 3189 Page 6
+
+1
+experience on district salary schedules than those allowed for state
+1
+2
+purposes.
+2
+3
+E. The State Board of Education shall recognize, for purposes
+3
+4
+of certification and salary increments, all the years of experience
+4
+5
+of a:
+5
+6
+1. Certified teacher who teaches in the educational program of
+6
+7
+the Department of Corrections, beginning with fiscal year 1981;
+7
+8
+2. Vocational rehabilitation counselor under the Department of
+8
+9
+Human Services if the counselor was employed as a certified teacher
+9
+10
+by the State Department of Education when the Division of Vocational
+10
+11
+Rehabilitation was transferred from the State Board of Career and
+11
+12
+Technology Education or the State Board of Education to the Oklahoma
+12
+13
+Public Welfare Commission on July 1, 1968;
+13
+14
+3. Vocational rehabilitation counselor which were completed
+14
+15
+while employed by the Department of Human Services if such counselor
+15
+16
+was certified as a teacher or was eligible for certification as a
+16
+17
+teacher in this state;
+17
+18
+4. Certified teacher which were completed while employed by the
+18
+19
+Child Study Center located at University Hospital Oklahoma
+19
+20
+Children’s Hospital, if the teacher was certified as a teacher in
+20
+21
+this state; and
+21
+22
+5. Certified school psychologist or psychometrist which were
+22
+23
+completed while employed as a doctoral intern, psychological
+23
+24
+assistant, or psychologist with any agency of this state if the
+24
+Req. No. 3189 Page 7
+
+1
+experience primarily involved work with persons of school- or
+1
+2
+preschool-age and if the person was, at the time the experience was
+2
+3
+acquired, certified as, or eligible for certification as, a school
+3
+4
+psychologist or psychometrist.
+4
+5
+F. The provisions of this section shall not apply to teachers
+5
+6
+who have entered into postretirement employment with a public school
+6
+7
+in this state and are still receiving a monthly retirement benefit.
+7
+8
+G. Beginning with the 2026-2027 school year, funds appropriated
+8
+9
+for the financial support of public schools shall be allocated by
+9
+10
+the State Board of Education to implement the salary schedule
+10
+11
+provided for in subsection A of this section for school districts
+11
+12
+that receive either Foundation Aid or Salary Incentive Aid or
+12
+13
+receive neither Foundation Aid nor Salary Incentive Aid pursuant to
+13
+14
+Section 18-200.1 of this title. Funds shall be allocated by January
+14
+15
+31, 2027, and by January 31 annually thereafter.
+15
+16
+H. Persons employed as classroom instructional employees of
+16
+17
+technology center school districts supervised by the State Board of
+17
+18
+Career and Technology Education shall receive a salary increase
+18
+19
+amount equal to the amount indicated in subsection A of this section
+19
+20
+for the step level indicated for the person persons, provided they
+20
+21
+remain employed by the same technology center school district,
+21
+22
+unless the hours or the duties of the classroom instructional
+22
+23
+employees are reduced proportionately.
+23
+24
+24
+Req. No. 3189 Page 8
+
+1
+H. I. Persons employed as correctional teachers or vocational
+1
+2
+instructors by the Department of Corrections pursuant to Section
+2
+3
+510.6a of Title 57 of the Oklahoma Statutes or persons employed as
+3
+4
+teachers by the Office of Juvenile Affairs shall receive a salary
+4
+5
+increase amount equal to the amount indicated in subsection A of
+5
+6
+this section for the step level indicated for the person persons,
+6
+7
+provided they remain employed by the same Department of Corrections
+7
+8
+or Office of Juvenile Affairs facility, unless the hours or the
+8
+9
+duties of the correctional teachers, vocational instructors, or
+9
+10
+teachers are reduced proportionately.
+10
+11
+I. J. Persons employed as teachers by the State Department of
+11
+12
+Rehabilitation Services shall receive a salary increase amount equal
+12
+13
+to the amount indicated in subsection A of this section for the step
+13
+14
+level indicated for the person persons, provided they remain
+14
+15
+employed by the State Department of Rehabilitation Services, unless
+15
+16
+the hours or the duties of the teachers are reduced proportionately.
+16
+17
+SECTION 2. This act shall become effective July 1, 2026.
+17
+18
+SECTION 3. It being immediately necessary for the preservation
+18
+19
+of the public peace, health, or safety, an emergency is hereby
+19
+20
+declared to exist, by reason whereof this act shall take effect and
+20
+21
+be in full force from and after its passage and approval.
+21
+22
+22
+23
+60-2-3189 EB 12/30/2025 9:09:28 AM
+23
+24
+24
+Req. No. 3189 Page 9

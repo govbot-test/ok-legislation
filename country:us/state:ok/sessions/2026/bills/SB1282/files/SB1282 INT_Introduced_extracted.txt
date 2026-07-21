@@ -1,0 +1,1403 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1282 By: Prieto
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to schools; amending 25 O.S. 2021,
+7
+Sections 2001, 2002, 2003, 2004, and 2005, which
+8
+relate to the Parents’ Bill of Rights; modifying
+8
+definition; modifying right to access and review
+9
+certain medical records; expanding right to consent
+9
+to include making of certain photograph; modifying
+10
+certain exception regarding withholding of
+10
+information from a child’s parent; requiring written
+11
+consent to provide sex education instruction to a
+11
+child; requiring written consent to provide
+12
+instruction or presentations regarding sexuality;
+12
+providing for right to review certain books and
+13
+materials; requiring boards of education to make
+13
+available for public inspection certain information;
+14
+reducing time period allowed for delivery of
+14
+requested information or a written explanation for
+15
+denial; requiring boards of education to adopt
+15
+procedures for notification of parental concerns;
+16
+providing for contents of procedures; providing
+16
+process to request parental concern hearing;
+17
+providing for promulgation of rules; providing for
+17
+minimum contents of rules; providing for cause of
+18
+action; requiring boards of education to adopt
+18
+procedures to provide notification of certain
+19
+remedies; prohibiting certain employee from
+19
+performing certain assessments without certain
+20
+written consent; defining term; requiring boards of
+20
+education to adopt procedures to provide notification
+21
+of certain changes in services and changes in certain
+21
+names or pronouns; updating statutory language;
+22
+amending 70 O.S. 2021, Section 11-105.1, which
+22
+relates to sex education curriculum and materials;
+23
+requiring written consent from a parent or guardian
+23
+for a child to participate in certain instruction or
+24
+24
+Req. No. 2531 Page 1
+
+1
+activities; updating statutory language; providing an
+1
+effective date; and declaring an emergency.
+2
+2
+3
+3
+4
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+4
+5
+SECTION 1. AMENDATORY 25 O.S. 2021, Section 2001, is
+5
+6
+amended to read as follows:
+6
+7
+Section 2001. A. This act shall be known and may be cited as
+7
+8
+the “Parents’ Bill of Rights”.
+8
+9
+B. This state, any political subdivision of this state, or any
+9
+10
+other governmental entity shall not infringe on the fundamental
+10
+11
+right of parents to direct the upbringing, education, health care,
+11
+12
+and mental health of their children without demonstrating that the
+12
+13
+compelling governmental interest as applied to the child involved is
+13
+14
+of the highest order, is narrowly tailored, and is not otherwise
+14
+15
+served by a less restrictive means.
+15
+16
+C. As used in the Parents’ Bill of Rights, “parent” means the
+16
+17
+natural or adoptive parent or legal guardian of a minor child. A
+17
+18
+person whose parental rights have been terminated by a court of this
+18
+19
+state shall not be considered a parent to that child for the
+19
+20
+purposes of the Parents’ Bill of Rights.
+20
+21
+SECTION 2. AMENDATORY 25 O.S. 2021, Section 2002, is
+21
+22
+amended to read as follows:
+22
+23
+Section 2002. A. All parental rights are reserved to a parent
+23
+24
+of a minor child without obstruction or interference from this
+24
+Req. No. 2531 Page 2
+
+1
+state, any political subdivision of this state, any other
+1
+2
+governmental entity, or any other institution, including, but not
+2
+3
+limited to, the following rights:
+3
+4
+1. The right to direct the education of the minor child;
+4
+5
+2. All rights of parents identified in Title 70 of the Oklahoma
+5
+6
+Statutes, including the right to access and review all school
+6
+7
+records relating to the minor child;
+7
+8
+3. The right to direct the upbringing of the minor child;
+8
+9
+4. The right to direct the moral or religious training of the
+9
+10
+minor child;
+10
+11
+5. The right to make healthcare health care decisions for the
+11
+12
+minor child, unless otherwise prohibited by law;
+12
+13
+6. The right to access and review all medical records of the
+13
+14
+minor child, whether held by the state, any political subdivision of
+14
+15
+this state, or any other governmental entity or nongovernmental
+15
+16
+entity, unless otherwise prohibited by law or the parent is the
+16
+17
+subject of an investigation of a crime committed against the minor
+17
+18
+child and a law enforcement official requests that the information
+18
+19
+not be released;
+19
+20
+7. The right to consent in writing before a biometric scan of
+20
+21
+the minor child is made, shared, or stored;
+21
+22
+8. The right to consent in writing before any record of the
+22
+23
+minor child’s blood or deoxyribonucleic acid (DNA) is created,
+23
+24
+stored, or shared, except as required by Sections 1-516 and 1-524.1
+24
+Req. No. 2531 Page 3
+
+1
+of Title 63 of the Oklahoma Statutes, or unless authorized pursuant
+1
+2
+to a court order;
+2
+3
+9. The right to consent in writing before the state or any of
+3
+4
+its political subdivisions makes a photograph, video, or voice
+4
+5
+recording of the minor child, unless the photograph, video, or voice
+5
+6
+recording is made during or as a part of a court proceeding, by law
+6
+7
+enforcement officers during or as part of a law enforcement
+7
+8
+investigation, during or as part of a forensic interview in a
+8
+9
+criminal or Department of Human Services investigation, or to be
+9
+10
+used solely for any of the following:
+10
+11
+a. safety demonstrations, including the maintenance of
+11
+12
+order and discipline in the common areas of a school
+12
+13
+or on student transportation vehicles,
+13
+14
+b. a purpose related to a legitimate academic or
+14
+15
+extracurricular activity,
+15
+16
+c. a purpose related to regular classroom instruction,
+16
+17
+d. security or surveillance of buildings or grounds, and
+17
+18
+e. a photo identification card; and
+18
+19
+10. The right to be notified promptly if an employee of this
+19
+20
+state, any political subdivision of this state, any other
+20
+21
+governmental entity, or any other institution suspects that a
+21
+22
+criminal offense has been committed against the minor child by
+22
+23
+someone other than a parent, unless the incident has first been
+23
+24
+reported to law enforcement and notification of the parent would
+24
+Req. No. 2531 Page 4
+
+1
+impede a law enforcement or Department of Human Services
+1
+2
+investigation. This paragraph does not create any new obligation
+2
+3
+for school districts and charter schools to report misconduct
+3
+4
+between students at school, such as fighting or aggressive play,
+4
+5
+that is routinely addressed as a student disciplinary matter by the
+5
+6
+school.
+6
+7
+B. This section does not authorize or allow a parent to engage
+7
+8
+in conduct that is unlawful or to abuse or neglect a child in
+8
+9
+violation of the laws of this state. This section shall not be
+9
+10
+construed to apply to a parental action or decision that would end
+10
+11
+life. This section does not prohibit courts, law enforcement
+11
+12
+officers, or employees of a government agency responsible for child
+12
+13
+welfare from acting in their official capacity within the reasonable
+13
+14
+and prudent scope of their authority. This section does not
+14
+15
+prohibit a court from issuing an order that is otherwise permitted
+15
+16
+by law.
+16
+17
+C. Any attempt to encourage or coerce a minor child to withhold
+17
+18
+information from the child’s parent shall be grounds for discipline
+18
+19
+of an employee of this state, any political subdivision of this
+19
+20
+state, or any other governmental entity, except for encouragement by
+20
+21
+law enforcement personnel when a parent is the subject of an
+21
+22
+investigation of a crime committed against the minor child.
+22
+23
+D. Unless those rights have been legally waived or legally
+23
+24
+terminated, parents have inalienable rights that are more
+24
+Req. No. 2531 Page 5
+
+1
+comprehensive than those listed in this section. The Parents’ Bill
+1
+2
+of Rights does not prescribe all rights of parents. Unless
+2
+3
+otherwise required by law, the rights of parents of minor children
+3
+4
+shall not be limited or denied. The Parents’ Bill of Rights shall
+4
+5
+not be construed to apply to a parental action or decision that
+5
+6
+would end life.
+6
+7
+SECTION 3. AMENDATORY 25 O.S. 2021, Section 2003, is
+7
+8
+amended to read as follows:
+8
+9
+Section 2003. A. The board of education of a school district,
+9
+10
+in consultation with parents, teachers, and administrators, shall
+10
+11
+develop and adopt a policy to promote the involvement of parents and
+11
+12
+guardians of children enrolled in the schools within the school
+12
+13
+district, including:
+13
+14
+1. A plan for parent participation in the schools which is
+14
+15
+designed to improve parent and teacher cooperation in such areas as
+15
+16
+homework, attendance, and discipline;
+16
+17
+2. Procedures by which parents may learn about the course of
+17
+18
+study for their children and review learning materials, including
+18
+19
+the source of any supplemental educational materials;
+19
+20
+3. Procedures by which parents who object to any learning
+20
+21
+material or activity on the basis that it is harmful may withdraw
+21
+22
+their children from the activity or from the class or program in
+22
+23
+which the material is used. Objection to a learning material or
+23
+24
+activity on the basis that it is harmful includes objection to a
+24
+Req. No. 2531 Page 6
+
+1
+material or activity because it questions beliefs or practices in
+1
+2
+sex, morality, or religion;
+2
+3
+4. If a school district offers any sex education curricula
+3
+4
+pursuant to Section 11-105.1 of Title 70 of the Oklahoma Statutes or
+4
+5
+pursuant to any rules adopted by the State Board of Education,
+5
+6
+procedures to opt out of a school district from providing requiring
+6
+7
+written consent from a parent for a school district to provide sex
+7
+8
+education instruction to a child if the child’s parent provides
+8
+9
+written objection to the child’s participation in the sex education
+9
+10
+curricula. In the absence of written consent from a parent, a child
+10
+11
+shall be considered automatically withdrawn from the sex education
+11
+12
+curricula;
+12
+13
+5. Procedures by which parents will be notified in advance of
+13
+14
+and given the opportunity to withdraw approve, in writing, the
+14
+15
+participation of their children from in any instruction or
+15
+16
+presentations regarding sexuality in courses other than formal sex
+16
+17
+education curricula pursuant to Section 11-105.1 of Title 70 of the
+17
+18
+Oklahoma Statutes. In the absence of written consent from a parent,
+18
+19
+a child shall be considered automatically withdrawn from any
+19
+20
+instruction or presentations regarding sexuality;
+20
+21
+6. Procedures by which parents may learn about the nature and
+21
+22
+purpose of clubs and activities that are part of the school
+22
+23
+curriculum, as well as extracurricular clubs and activities that
+23
+24
+have been approved by the school; and
+24
+Req. No. 2531 Page 7
+
+1
+7. Procedures by which parents may learn about parental rights
+1
+2
+and responsibilities under the laws of this state, including the
+2
+3
+following:
+3
+4
+a. the right to opt out of in to a sex education
+4
+5
+curriculum if one is provided by the school district,
+5
+6
+b. open enrollment rights,
+6
+7
+c. the right to opt out of assignments pursuant to this
+7
+8
+section,
+8
+9
+d. the right to be exempt from the immunization laws of
+9
+10
+the state pursuant to Section 1210.192 of Title 70 of
+10
+11
+the Oklahoma Statutes,
+11
+12
+e. the promotion requirements prescribed in Section
+12
+13
+1210.508E of Title 70 of the Oklahoma Statutes
+13
+14
+provisions of the Strong Readers Act,
+14
+15
+f. the minimum course of study and competency
+15
+16
+requirements for graduation from high school
+16
+17
+prescribed in Section 11-103.6 of Title 70 of the
+17
+18
+Oklahoma Statutes,
+18
+19
+g. the right to opt out of instruction on the acquired
+19
+20
+immune deficiency syndrome pursuant to Section 11-
+20
+21
+103.3 of Title 70 of the Oklahoma Statutes,
+21
+22
+h. the right to review test results,
+22
+23
+23
+24
+24
+Req. No. 2531 Page 8
+
+1
+i. the right to participate in gifted programs pursuant
+1
+2
+to Sections 1210.301 through 1210.308 of Title 70 of
+2
+3
+the Oklahoma Statutes,
+3
+4
+j. the right to inspect instructional materials used in
+4
+5
+connection with any research or experimentation
+5
+6
+program or project pursuant to Section 11-106 of Title
+6
+7
+70 of the Oklahoma Statutes,
+7
+8
+k. the right to receive a school report card,
+8
+9
+l. the right to receive the attendance requirements
+9
+10
+prescribed in Section 10-106 of Title 70 of the
+10
+11
+Oklahoma Statutes,
+11
+12
+m. the right to public review of courses of study and
+12
+13
+textbooks,
+13
+14
+n. the right to public review of library books and
+14
+15
+materials used in the classrooms or any other school
+15
+16
+room accessible to students,
+16
+17
+o. the right to be excused from school attendance for
+17
+18
+religious purposes,
+18
+19
+o. p. policies related to parental involvement pursuant to
+19
+20
+this section,
+20
+21
+p. q. the right to participate in parent-teacher
+21
+22
+associations and organizations that are sanctioned by
+22
+23
+the board of education of a school district, and
+23
+24
+24
+Req. No. 2531 Page 9
+
+1
+q. r. the right to opt out of any data collection
+1
+2
+instrument at the district level including those that
+2
+3
+would capture data for inclusion in the state
+3
+4
+longitudinal student data system except what is
+4
+5
+necessary and essential for establishing a student’s
+5
+6
+public school record.
+6
+7
+B. 1. The board of education of a school district shall adopt
+7
+8
+a policy to make available for public inspection printed copies of
+8
+9
+information required by this section including the board of
+9
+10
+education’s policy manual and any parent or student handbook.
+10
+11
+2. The board of education of a school district may adopt a
+11
+12
+policy to provide to parents the public the information required by
+12
+13
+this section in an electronic form including the board of
+13
+14
+education’s policy manual and any parent or student handbook.
+14
+15
+C. A parent shall submit a written request for information
+15
+16
+pursuant to this section during regular business hours to either the
+16
+17
+school principal at the school site or the superintendent of the
+17
+18
+school district at the office of the school district. Within ten
+18
+19
+(10) seven (7) days of receiving the request for information, the
+19
+20
+school principal or the superintendent of the school district shall
+20
+21
+either deliver the requested information to the parent or submit to
+21
+22
+the parent a written explanation of the reasons for the denial of
+22
+23
+the requested information. If the request for information is denied
+23
+24
+or the parent does not receive the requested information within
+24
+Req. No. 2531 Page 10
+
+1
+fifteen (15) ten (10) days after submitting the request for
+1
+2
+information, the parent may submit a written request for the
+2
+3
+information to the board of education of a school district, which
+3
+4
+shall formally consider the request at the next scheduled public
+4
+5
+meeting of the board if the request can be properly noticed on the
+5
+6
+agenda. If the request cannot be properly noticed on the agenda,
+6
+7
+the board of education of a school district shall formally consider
+7
+8
+the request at the next subsequent public meeting of the board.
+8
+9
+D. A school district board of education shall adopt procedures
+9
+10
+for a parent to notify the principal of the school in which his or
+10
+11
+her child is enrolled regarding concerns about the school district’s
+11
+12
+procedures or practices adopted to implement the Parents’ Bill of
+12
+13
+Rights and a process for resolving concerns within seven (7) days of
+13
+14
+receiving the notification from a parent. If the parental concerns
+14
+15
+have not been resolved within twenty-one (21) days of receiving the
+15
+16
+notification from a parent, the school district shall provide a
+16
+17
+statement of the reasons for not resolving the concerns. If a
+17
+18
+parental concern submitted pursuant to this subsection is not
+18
+19
+satisfactorily resolved by the school district within thirty (30)
+19
+20
+days, a parent may:
+20
+21
+1. Notify the State Board of Education of the concern and
+21
+22
+request a parental concern hearing. The Board shall promulgate
+22
+23
+rules establishing procedures for parental concern hearings, which
+23
+24
+shall include at a minimum the following:
+24
+Req. No. 2531 Page 11
+
+1
+a. the State Board of Education shall appoint a qualified
+1
+2
+hearing officer, who shall be admitted to practice law
+2
+3
+in this state pursuant to Section 12 of Title 5 of the
+3
+4
+Oklahoma Statutes with demonstrated experience in
+4
+5
+education or administrative law within the last five
+5
+6
+(5) years,
+6
+7
+b. the hearing officer shall determine facts related to
+7
+8
+the dispute over the school district’s procedure or
+8
+9
+practice, consider information provided by the school
+9
+10
+district and the parent, and render a recommended
+10
+11
+decision for resolution to the State Board of
+11
+12
+Education within thirty (30) days of the concern being
+12
+13
+referred to the hearing officer,
+13
+14
+c. the State Board of Education shall approve or reject
+14
+15
+the recommended decision for resolution at its next
+15
+16
+regularly scheduled board meeting held within seven
+16
+17
+(7) days of receipt of the recommended decision, and
+17
+18
+d. the school district shall pay the cost of the hearing
+18
+19
+officer and any associated costs incurred by the State
+19
+20
+Board of Education for conducting the parental concern
+20
+21
+hearing; or
+21
+22
+2. Bring an action against the school district for injunctive
+22
+23
+relief and a declaratory judgment that the district’s procedure or
+23
+24
+practice violates any provision of the Parents’ Bill of Rights. The
+24
+Req. No. 2531 Page 12
+
+1
+court may award injunctive relief to a parent and shall award
+1
+2
+reasonable attorney fees and costs to a parent awarded injunctive
+2
+3
+relief.
+3
+4
+E. Each school district board of education shall adopt
+4
+5
+procedures to notify parents at the beginning of each school year of
+5
+6
+the procedures to exercise parental remedies as outlined in
+6
+7
+subsection D of this section.
+7
+8
+SECTION 4. AMENDATORY 25 O.S. 2021, Section 2004, is
+8
+9
+amended to read as follows:
+9
+10
+Section 2004. A. 1. Except as otherwise provided by law, no
+10
+11
+person, corporation, association, organization, state-supported
+11
+12
+institution, or individual employed by any of these entities may
+12
+13
+procure, solicit to perform, arrange for the performance of, perform
+13
+14
+surgical procedures, or perform a physical examination upon a minor
+14
+15
+or prescribe any prescription drugs to a minor without first
+15
+16
+obtaining a written consent of a parent or legal guardian of the
+16
+17
+minor. Provided, however, that if written consent is provided to a
+17
+18
+school district for assessment or treatment, such consent shall be
+18
+19
+effective for the school year for which it is granted and shall be
+19
+20
+renewed each subsequent school year. If an assessment or treatment
+20
+21
+is performed through telemedicine at a school site and if consent
+21
+22
+has been provided by the parent and is currently effective, the
+22
+23
+health professional shall not be required to verify that the parent
+23
+24
+is at the site.
+24
+Req. No. 2531 Page 13
+
+1
+2. Notwithstanding the written consent provisions of paragraph
+1
+2
+1 of this subsection, an employee of a school district who does not
+2
+3
+possess the proper professional license issued by this state shall
+3
+4
+not perform an assessment of the physical needs of a minor without
+4
+5
+first obtaining the written consent of a parent of the minor.
+5
+6
+B. Except as otherwise provided by law, no hospital as defined
+6
+7
+in Section 1-701 of Title 63 of the Oklahoma Statutes may permit
+7
+8
+surgical procedures to be performed upon a minor in its facilities
+8
+9
+without first having received a written consent from a parent or
+9
+10
+legal guardian of the minor.
+10
+11
+C. The provisions of this section shall not apply when it has
+11
+12
+been determined by a physician that an emergency exists and that it
+12
+13
+is necessary to perform such surgical procedures for the treatment
+13
+14
+of an injury, illness or drug abuse, or to save the life of the
+14
+15
+patient, or when such parent or other adult authorized by law to
+15
+16
+consent on behalf of a minor cannot be located or contacted after a
+16
+17
+reasonably diligent effort.
+17
+18
+D. The provisions of this section shall not apply to an
+18
+19
+abortion, which shall be governed by the provisions of Sections 1-
+19
+20
+740 through 1-740.6 and Sections 1-744 through 1-744.6 of Title 63
+20
+21
+of the Oklahoma Statutes or any successor statute.
+21
+22
+E. A person who violates a provision of this section is guilty
+22
+23
+of a misdemeanor, punishable by a fine of not more than One Thousand
+23
+24
+24
+Req. No. 2531 Page 14
+
+1
+Dollars ($1,000.00) or imprisonment of not more than one (1) year in
+1
+2
+the county jail, or by both such fine and imprisonment.
+2
+3
+SECTION 5. AMENDATORY 25 O.S. 2021, Section 2005, is
+3
+4
+amended to read as follows:
+4
+5
+Section 2005. A. 1. Except as otherwise provided by law or a
+5
+6
+court order, no person, corporation, association, organization, or
+6
+7
+state-supported institution, or any individual employed by any of
+7
+8
+these entities, may procure, solicit to perform, arrange for the
+8
+9
+performance of, or perform an assessment for mental health therapy
+9
+10
+on a minor without first obtaining the written consent of a parent
+10
+11
+or a legal guardian of the minor child. Provided, however, that if
+11
+12
+written consent is provided to a school district for assessment or
+12
+13
+treatment, such consent shall be effective for the school year for
+13
+14
+which it is granted and shall be renewed each subsequent school
+14
+15
+year. If an assessment or treatment is performed through
+15
+16
+telemedicine at a school site and if consent has been provided by
+16
+17
+the parent and is currently effective, the health professional shall
+17
+18
+not be required to verify that the parent is at the site. However,
+18
+19
+a child shall not be seen without consent. For the purposes of this
+19
+20
+section, “mental health treatment” includes therapy and counseling
+20
+21
+services but does not include counseling on college and career
+21
+22
+readiness.
+22
+23
+2. Notwithstanding the written consent provisions of paragraph
+23
+24
+1 of this subsection, an employee of a school district who does not
+24
+Req. No. 2531 Page 15
+
+1
+possess the proper professional license issued by this state shall
+1
+2
+not perform an assessment of the mental or psychological needs of a
+2
+3
+minor without first obtaining the written consent of a parent of the
+3
+4
+minor.
+4
+5
+B. This section does not apply when an emergency exists that
+5
+6
+requires a person with the proper professional license issued by
+6
+7
+this state to perform mental health screening or provide mental
+7
+8
+health treatment to prevent serious injury to or save the life of a
+8
+9
+minor child.
+9
+10
+C. Each school district board of education shall adopt
+10
+11
+procedures to notify a parent:
+11
+12
+1. Prior to or contemporaneous with changes in services, notice
+12
+13
+of changes in services, or monitoring related to his or her child’s
+13
+14
+mental, emotional, or physical health or well-being and the school
+14
+15
+district’s ability to provide a safe and supportive learning
+15
+16
+environment for the child; and
+16
+17
+2. Prior to any changes in the name or pronoun used for a child
+17
+18
+in school records or by school personnel.
+18
+19
+D. A person who violates this section is guilty of a
+19
+20
+misdemeanor, punishable by a fine of not more than One Thousand
+20
+21
+Dollars ($1,000.00) or imprisonment of not more than one (1) year in
+21
+22
+the county jail, or by both such fine and imprisonment.
+22
+23
+SECTION 6. AMENDATORY 70 O.S. 2021, Section 11-105.1, is
+23
+24
+amended to read as follows:
+24
+Req. No. 2531 Page 16
+
+1
+Section 11-105.1. A. All curriculum and materials including
+1
+2
+supplementary materials which will be used to teach or will be used
+2
+3
+for or in connection with a sex education class or program which is
+3
+4
+designed for the exclusive purpose of discussing sexual behavior or
+4
+5
+attitudes, or any test, survey, or questionnaire whose primary
+5
+6
+purpose is to elicit responses on sexual behavior or attitudes shall
+6
+7
+be available through the superintendent or a designee of the school
+7
+8
+district for inspection by parents and legal guardians of the
+8
+9
+student who will be involved with the class, program or, test,
+9
+10
+survey, or questionnaire. Such curriculum, materials, classes,
+10
+11
+programs, tests, surveys, or questionnaires shall include
+11
+12
+information about consent and shall have as one of its their primary
+12
+13
+purposes the teaching of or informing students about the practice of
+13
+14
+abstinence. For the purposes of this section, “consent” shall have
+14
+15
+the same meaning as that provided by Section 113 of Title 21 of the
+15
+16
+Oklahoma Statutes. The superintendent or a designee of the school
+16
+17
+district shall provide prior written notification to the parents or
+17
+18
+legal guardians of the students involved of their right to inspect
+18
+19
+the curriculum and material and of their obligation to notify the
+19
+20
+right of parents or legal guardians to provide the school in writing
+20
+21
+written consent if they do not want their child to participate in
+21
+22
+the class, program, test, survey, or questionnaire. Each local
+22
+23
+board of education shall determine the means of providing written
+23
+24
+notification to the parents and guardian legal guardians which will
+24
+Req. No. 2531 Page 17
+
+1
+ensure effective notice in an efficient and appropriate manner. No
+1
+2
+student shall be required to participate in a sex education class or
+2
+3
+program which discusses sexual behavior or attitudes if a parent or
+3
+4
+legal guardian of the student objects in writing to does not provide
+4
+5
+written consent for such participation. If the type of program
+5
+6
+referred to in this section is a part of or is taught during a
+6
+7
+credit course, a student may be required to enroll in the course but
+7
+8
+shall not be required to receive instruction in or participate in
+8
+9
+the program if a parent or legal guardian objects in writing does
+9
+10
+not provide written consent.
+10
+11
+B. The superintendent or a designee of a school district in
+11
+12
+which sex education is taught or a program is offered which is
+12
+13
+designed for the exclusive purpose of discussing sexual behavior or
+13
+14
+attitudes shall approve all curriculum and materials which will be
+14
+15
+used for such education and any test, survey, or questionnaire whose
+15
+16
+primary purpose is to elicit responses on sexual behavior or
+16
+17
+attitudes used in the school prior to their use in the classroom or
+17
+18
+school. The teacher involved in the class, program, testing, or
+18
+19
+survey shall submit the curriculum, materials, tests, or surveys to
+19
+20
+the superintendent or a designee for approval prior to their use in
+20
+21
+the classroom or school. This section shall not apply to those
+21
+22
+students enrolled in classes, programs, testings, or surveys offered
+22
+23
+through an alternative education program.
+23
+24
+SECTION 7. This act shall become effective July 1, 2026.
+24
+Req. No. 2531 Page 18
+
+1
+SECTION 8. It being immediately necessary for the preservation
+1
+2
+of the public peace, health, or safety, an emergency is hereby
+2
+3
+declared to exist, by reason whereof this act shall take effect and
+3
+4
+be in full force from and after its passage and approval.
+4
+5
+5
+6
+60-2-2531 EB 12/19/2025 9:07:06 AM
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2531 Page 19
