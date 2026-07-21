@@ -1,0 +1,1034 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+STATE OF OKLAHOMA
+1
+2
+2nd Session of the 60th Legislature (2026)
+2
+3
+SENATE BILL 1433 By: Bergstrom
+3
+4
+4
+5
+5
+6
+AS INTRODUCED
+6
+7
+An Act relating to the Administrative Procedures Act;
+7
+creating the Guidance Transparency Act; providing
+8
+short title; amending 75 O.S. 2021, Section 250.3, as
+8
+last amended by Section 5, Chapter 258, O.S.L. 2025
+9
+(75 O.S. Supp. 2025, Section 250.3), which relates to
+9
+defined terms under the Administrative Procedures
+10
+Act; defining term; conforming language; amending 75
+10
+O.S. 2021, Section 250.4a, which relates to certain
+11
+exemption under the Administrative Procedures Act;
+11
+requiring certain agencies to make guidance documents
+12
+available for public inspection; amending 75 O.S.
+12
+2021, Section 250.9, as amended by Section 1, Chapter
+13
+7, O.S.L. 2024 (75 O.S. Supp. 2025, Section 250.9),
+13
+which relates to creation of the Office of
+14
+Administrative Rules; requiring certain agencies to
+14
+electronically submit certain guidance documents on
+15
+certain basis; requiring publication of documents in
+15
+certain form; requiring documents to include certain
+16
+information; amending 75 O.S. 2021, Section 302,
+16
+which relates to duties of rulemaking agencies;
+17
+requiring agencies to make all guidance documents
+17
+available for public inspection; updating statutory
+18
+language; providing for noncodification; and
+18
+providing an effective date.
+19
+19
+20
+20
+21
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+21
+22
+SECTION 1. NEW LAW A new section of law not to be
+22
+23
+codified in the Oklahoma Statutes reads as follows:
+23
+24
+24
+Req. No. 2996 Page 1
+
+1
+This act shall be known and may be cited as the “Guidance
+1
+2
+Transparency Act”.
+2
+3
+SECTION 2. AMENDATORY 75 O.S. 2021, Section 250.3, as
+3
+4
+last amended by Section 5, Chapter 258, O.S.L. 2025 (75 O.S. Supp.
+4
+5
+2025, Section 250.3), is amended to read as follows:
+5
+6
+Section 250.3. As used in the Administrative Procedures Act:
+6
+7
+1. “Administrative head” means an official or agency body
+7
+8
+responsible pursuant to law for issuing final agency orders;
+8
+9
+2. “Adopted” means a proposed emergency rule which has been
+9
+10
+approved by the agency but has not been approved or disapproved by
+10
+11
+the Governor as an emergency rule as provided by Section 253 of this
+11
+12
+title, or a proposed permanent rule which has been approved by the
+12
+13
+agency and not disapproved by the Governor pursuant to paragraph 6
+13
+14
+of subsection A of Section 303 of this title, but has not been
+14
+15
+finally approved or disapproved by the Legislature or the Governor;
+15
+16
+3. “Agency” includes, but is not limited to, any
+16
+17
+constitutionally or statutorily created state agency, board, bureau,
+17
+18
+commission, office, authority, institution, public trust in which
+18
+19
+the state is a beneficiary, interstate commission, or any
+19
+20
+instrumentality thereof, except:
+20
+21
+a. the Legislature or any branch, committee, or officer
+21
+22
+thereof, and
+22
+23
+b. the courts;
+23
+24
+24
+Req. No. 2996 Page 2
+
+1
+4. “Emergency rule” means a rule that is made pursuant to
+1
+2
+Section 253 of this title;
+2
+3
+5. “Final rule” or “finally adopted rule” means a rule other
+3
+4
+than an emergency rule, which has not been published pursuant to
+4
+5
+Section 255 of this title but is otherwise in compliance with the
+5
+6
+requirements of the Administrative Procedures Act, and is:
+6
+7
+a. approved by the Legislature pursuant to Section 308.3
+7
+8
+of this title, provided that any such joint resolution
+8
+9
+becomes law in accordance with Section 11 of Article
+9
+10
+VI of the Oklahoma Constitution,
+10
+11
+b. approved by the Governor pursuant to subsection C of
+11
+12
+Section 308.3 of this title,
+12
+13
+c. approved by a joint resolution pursuant to subsection
+13
+14
+B of Section 308 of this title, provided that any such
+14
+15
+resolution becomes law in accordance with Section 11
+15
+16
+of Article VI of the Oklahoma Constitution, or
+16
+17
+d. b. disapproved by a joint resolution pursuant to
+17
+18
+subsection B of Section 308 of this title or Section
+18
+19
+308.3 of this title, which has been vetoed by the
+19
+20
+Governor in accordance with Section 11 of Article VI
+20
+21
+of the Oklahoma Constitution and the veto has not been
+21
+22
+overridden;
+22
+23
+6. “Final agency order” means an order that includes findings
+23
+24
+of fact and conclusions of law pursuant to Section 312 of this
+24
+Req. No. 2996 Page 3
+
+1
+title, is dispositive of an individual proceeding unless there is a
+1
+2
+request for rehearing, reopening, or reconsideration pursuant to
+2
+3
+Section 317 of this title, and which is subject to judicial review;
+3
+4
+7. “Guidance document” means:
+4
+5
+a. (1) an agency statement of general applicability that
+5
+6
+is not a major rule or a nonmajor rule and is
+6
+7
+designated by an agency official or employee as
+7
+8
+setting forth an authoritative or official policy
+8
+9
+or interpretation on a statutory, regulatory, or
+9
+10
+technical issue. A guidance document may
+10
+11
+include, but not be limited to, a memorandum,
+11
+12
+notice, bulletin, directive, letter, or no-action
+12
+13
+letter, or
+13
+14
+(2) a federal agency statement of general
+14
+15
+applicability that is designated by an agency
+15
+16
+official or employee as setting forth an
+16
+17
+authoritative or official policy or
+17
+18
+interpretation on a statutory, regulatory, or
+18
+19
+technical issue. A guidance document may
+19
+20
+include, but is not limited to, a memorandum,
+20
+21
+notice, bulletin, directive, letter, or no-action
+21
+22
+letter.
+22
+23
+b. The term guidance document shall be construed broadly
+23
+24
+to effectuate the purpose and intent of the
+24
+Req. No. 2996 Page 4
+
+1
+Administrative Procedures Act and includes any
+1
+2
+authoritative or official statement or position
+2
+3
+whether designated by the agency as binding or
+3
+4
+nonbinding but shall not include:
+4
+5
+(1) correspondence related to agency organization,
+5
+6
+procedure, or practice,
+6
+7
+(2) agency adjudications decided under state or
+7
+8
+federal law,
+8
+9
+(3) internal agency correspondence not intended to
+9
+10
+have a substantial future effect on the behavior
+10
+11
+of regulated parties, or
+11
+12
+(4) internal executive branch legal advice or legal
+12
+13
+opinions addressed to executive branch officials;
+13
+14
+8. “Hearing examiner” means a person meeting the qualifications
+14
+15
+specified by Article II of the Administrative Procedures Act and who
+15
+16
+has been duly appointed by an agency to hold hearings and, as
+16
+17
+required, render orders or proposed orders;
+17
+18
+8. 9. “Implementation and compliance costs” means direct costs
+18
+19
+that are readily ascertainable based upon standard business
+19
+20
+practices, including, but not limited to, fees, the cost to obtain a
+20
+21
+license or registration, the cost of equipment required to be
+21
+22
+installed or used, additional operating costs incurred, the cost of
+22
+23
+monitoring and reporting, and any other costs to comply with the
+23
+24
+requirements of the proposed rule;
+24
+Req. No. 2996 Page 5
+
+1
+9. 10. “Individual proceeding” means the formal process
+1
+2
+employed by an agency having jurisdiction by law to resolve issues
+2
+3
+of law or fact between parties and which results in the exercise of
+3
+4
+discretion of a judicial nature;
+4
+5
+10. 11. “License” includes the whole or part of any agency
+5
+6
+permit, certificate, approval, registration, charter, or similar
+6
+7
+form of permission required by law;
+7
+8
+11. 12. “Major rule” means any administrative rule, whether
+8
+9
+emergency or permanent in nature, that will result in or is likely
+9
+10
+to result in One Million Dollars ($1,000,000.00) or more over the
+10
+11
+initial five-year period in implementation and compliance costs that
+11
+12
+are reasonably expected to be incurred by or passed along to
+12
+13
+businesses, state or local government units, and individuals as a
+13
+14
+result of the proposed rule following the promulgation of such rule;
+14
+15
+12. 13. “Nonmajor rule” means any rule that is not a major
+15
+16
+rule;
+16
+17
+13. 14. “Office” means the Office of the Secretary of State;
+17
+18
+14. 15. “Order” means all or part of a formal or official
+18
+19
+decision made by an agency including, but not limited to, final
+19
+20
+agency orders;
+20
+21
+15. 16. “Party” means a person or agency named and
+21
+22
+participating, or properly seeking and entitled by law to
+22
+23
+participate, in an individual proceeding;
+23
+24
+24
+Req. No. 2996 Page 6
+
+1
+16. 17. “Permanent rule” means a rule that is made pursuant to
+1
+2
+Section 303 of this title;
+2
+3
+17. 18. “Person” means any individual, partnership,
+3
+4
+corporation, association, governmental subdivision, or public or
+4
+5
+private organization of any character other than an agency;
+5
+6
+18. 19. “Political subdivision” means a county, city,
+6
+7
+incorporated town, or school district within this state;
+7
+8
+19. 20. “Promulgated” means a finally adopted rule which has
+8
+9
+been filed and published in accordance with the provisions of the
+9
+10
+Administrative Procedures Act, or an emergency rule or preemptive
+10
+11
+rule which has been approved by the Governor;
+11
+12
+20. 21. “Rule” means any agency statement or group of related
+12
+13
+statements of general applicability and future effect that
+13
+14
+implements, interprets, or prescribes law or policy, or describes
+14
+15
+the procedure or practice requirements of the agency. The term rule
+15
+16
+includes the amendment or revocation of an effective rule but does
+16
+17
+not include:
+17
+18
+a. the issuance, renewal, denial, suspension or
+18
+19
+revocation or other sanction of an individual specific
+19
+20
+license,
+20
+21
+b. the approval, disapproval, or prescription of rates.
+21
+22
+For purposes of this subparagraph, the term “rates”
+22
+23
+shall not include fees or charges fixed by an agency
+23
+24
+for services provided by that agency including, but
+24
+Req. No. 2996 Page 7
+
+1
+not limited to, fees charged for licensing,
+1
+2
+permitting, inspections, or publications,
+2
+3
+c. statements and memoranda concerning only the internal
+3
+4
+management of an agency and not affecting private
+4
+5
+rights or procedures available to the public,
+5
+6
+d. declaratory rulings issued pursuant to Section 307 of
+6
+7
+this title,
+7
+8
+e. orders by an agency, or
+8
+9
+f. press releases or “agency news releases”, provided
+9
+10
+such releases are not for the purpose of interpreting,
+10
+11
+implementing, or prescribing law or agency policy;
+11
+12
+21. 22. “Rulemaking” means the process employed by an agency
+12
+13
+for the formulation of a rule;
+13
+14
+22. 23. “Secretary” means the Secretary of State; and
+14
+15
+23. 24. “Small business” means a for-profit enterprise
+15
+16
+consisting of fifty or fewer full-time or part-time employees; and
+16
+17
+24. “Technical legal defect” means an error that would
+17
+18
+otherwise invalidate an action by a court of law.
+18
+19
+SECTION 3. AMENDATORY 75 O.S. 2021, Section 250.4a, is
+19
+20
+amended to read as follows:
+20
+21
+Section 250.4a. Any agency exempt from all or part of the
+21
+22
+Administrative Procedures Act pursuant to subsection A of Section
+22
+23
+250.4 of this title shall maintain and make available for public
+23
+24
+inspection its exempt rules and all guidance documents at its
+24
+Req. No. 2996 Page 8
+
+1
+principal place of business and on any website associated with the
+1
+2
+agency.
+2
+3
+SECTION 4. AMENDATORY 75 O.S. 2021, Section 250.9, as
+3
+4
+amended by Section 1, Chapter 7, O.S.L. 2024 (75 O.S. Supp. 2025,
+4
+5
+Section 250.9), is amended to read as follows:
+5
+6
+Section 250.9. A. There is hereby established an Office of
+6
+7
+Administrative Rules within the Office of the Secretary of State.
+7
+8
+The Office of Administrative Rules shall have the primary
+8
+9
+responsibility for publishing “The Oklahoma Register” and the
+9
+10
+“Oklahoma Administrative Code” and otherwise implementing the
+10
+11
+provisions of Article I of the Administrative Procedures Act. The
+11
+12
+Secretary of State shall provide for the adequate staffing of the
+12
+13
+Office to implement the provisions of this section including but not
+13
+14
+limited to an editor in chief.
+14
+15
+B. The Secretary shall cause to be published in electronic
+15
+16
+form, and may cause to be published in printed form, at the least
+16
+17
+cost possible to the state, the “Oklahoma Administrative Code” and
+17
+18
+“The Oklahoma Register”. In the event of any discrepancy between
+18
+19
+the electronic and printed form of the Code or “The Oklahoma
+19
+20
+Register”, the electronic form shall prevail unless it is
+20
+21
+conclusively shown, by reference to the rulemaking filings made with
+21
+22
+the Secretary, that the electronic form contains an error in
+22
+23
+publication.
+23
+24
+24
+Req. No. 2996 Page 9
+
+1
+C. Each agency subject to the provisions of Article I and
+1
+2
+Article II of the Administrative Procedures Act shall electronically
+2
+3
+submit all guidance documents to the Secretary on a quarterly basis.
+3
+4
+The Secretary shall publish the guidance documents in an electronic,
+4
+5
+indexed, searchable form. The published guidance documents shall
+5
+6
+include the following:
+6
+7
+1. A notification that the guidance documents lack the full
+7
+8
+force and effect of law, except as authorized by law or as
+8
+9
+incorporated into a contract or binding legal decision; and
+9
+10
+2. Information regarding amendments to or rescission of
+10
+11
+guidance documents by an agency or federal agency. An original
+11
+12
+guidance document shall remain on the website for the Office of
+12
+13
+Administrative Rules, and within fifteen days of an amendment or
+13
+14
+rescission, the agency shall submit to the Secretary a notice that
+14
+15
+the document has been amended or rescinded, the date of such action,
+15
+16
+the reason for the amendment or rescission, and any amended guidance
+16
+17
+document. The notice shall be published within fifteen (15) days of
+17
+18
+receipt by the Secretary.
+18
+19
+SECTION 5. AMENDATORY 75 O.S. 2021, Section 302, is
+19
+20
+amended to read as follows:
+20
+21
+Section 302. A. In addition to other rulemaking requirements
+21
+22
+imposed by law, each agency which has rulemaking authority, shall:
+22
+23
+1. Promulgate as a rule a description of the organization of
+23
+24
+the agency, stating the general course and method of the operations
+24
+Req. No. 2996 Page 10
+
+1
+of the agency and the methods whereby the public may obtain
+1
+2
+information or make submissions or requests;
+2
+3
+2. Promulgate rules of practice setting forth the nature and
+3
+4
+requirements of all formal and informal procedures available,
+4
+5
+including a description of all forms and instructions issued by the
+5
+6
+agency for use by the public;
+6
+7
+3. Make available for public inspection all rules, all guidance
+7
+8
+documents, and all other written statements of policy or
+8
+9
+interpretations formulated, adopted, promulgated, or used by the
+9
+10
+agency in the discharge of its functions; and
+10
+11
+4. Make available for public inspection pursuant to the
+11
+12
+provisions of the Oklahoma Open Records Act all final orders,
+12
+13
+decisions, and opinions.
+13
+14
+B. 1. An agency shall maintain an official rulemaking record
+14
+15
+for each proposed rule or promulgated rule. The record and
+15
+16
+materials incorporated by reference shall be available for public
+16
+17
+inspection.
+17
+18
+2. The agency rulemaking record shall contain:
+18
+19
+a. copies of all publications in “The Oklahoma Register”
+19
+20
+with respect to the rule or the proceeding upon which
+20
+21
+the rule is based,
+21
+22
+b. copies of any portions of the agency’s public
+22
+23
+rulemaking docket containing entries relating to the
+23
+24
+rule or the proceeding upon which the rule is based,
+24
+Req. No. 2996 Page 11
+
+1
+c. all written petitions, requests, submissions, and
+1
+2
+comments received by the agency and all other written
+2
+3
+materials considered by the agency in connection with
+3
+4
+the formulation, proposal, or adoption of the rule or
+4
+5
+the proceeding upon which the rule is based,
+5
+6
+d. any official transcript of oral presentations made in
+6
+7
+the proceeding upon which the rule is based or, if not
+7
+8
+transcribed, any tape recording or stenographic record
+8
+9
+of those presentations, and any memorandum prepared by
+9
+10
+a presiding official summarizing the contents of those
+10
+11
+presentations,
+11
+12
+e. a copy of any regulatory analysis prepared for the
+12
+13
+proceeding upon which the rule is based,
+13
+14
+f. a copy of the rule and analysis of each such rule
+14
+15
+filed with the Office pursuant to Section 251 of this
+15
+16
+title,
+16
+17
+g. all petitions for exceptions to, amendments of, or
+17
+18
+repeal or suspension of, the rule,
+18
+19
+h. a copy of the rule impact statement, if made, and
+19
+20
+i. such other information concerning such rules as may be
+20
+21
+determined necessary by the agency.
+21
+22
+3. Upon judicial review, the record required by this section
+22
+23
+constitutes the official agency rulemaking record with respect to a
+23
+24
+rule. Except as otherwise required by a provision of law, the
+24
+Req. No. 2996 Page 12
+
+1
+agency rulemaking record need not constitute the exclusive basis for
+1
+2
+agency action on that rule or for judicial review thereof.
+2
+3
+C. 1. By December 31, 2002, each agency that issues precedent-
+3
+4
+setting orders shall maintain and index all such orders that the
+4
+5
+agency intends to rely upon as precedent. The index and the orders
+5
+6
+shall be available for public inspection and copying in the main
+6
+7
+office and each regional or district office of the agency. The
+7
+8
+orders shall be indexed by subject.
+8
+9
+2. After December 31, 2002, an order shall not be relied upon
+9
+10
+as precedent by an agency to the detriment of any person until it
+10
+11
+has been made available for public inspection and indexed in the
+11
+12
+manner described in this subsection.
+12
+13
+3. An agency shall consistently apply rules to each person
+13
+14
+subject to the jurisdiction of the agency regarding issuance of
+14
+15
+orders.
+15
+16
+D. An agency shall not by internal policy, memorandum, or other
+16
+17
+form of action not otherwise authorized by the Administrative
+17
+18
+Procedures Act:
+18
+19
+1. Amend, interpret, implement, or repeal a statute or a rule;
+19
+20
+2. Expand upon or limit a statute or a rule; and
+20
+21
+3. Except as authorized by the United States Constitution of
+21
+22
+the United States, the Oklahoma Constitution, or a statute, expand
+22
+23
+or limit a right guaranteed by the United States Constitution of the
+23
+24
+United States, the Oklahoma Constitution, a statute, or a rule.
+24
+Req. No. 2996 Page 13
+
+1
+E. Any agency memorandum, internal policy, or other form of
+1
+2
+action violative of this section or the spirit thereof is null,
+2
+3
+void, and unenforceable.
+3
+4
+F. This section shall not be construed to prohibit an agency
+4
+5
+issuing an opinion or administrative decision which is authorized by
+5
+6
+statute provided that, unless such opinion or administrative
+6
+7
+decision is issued pursuant to the procedures required pursuant to
+7
+8
+the Administrative Procedures Act, such decision or opinion shall
+8
+9
+not have the force and effect of law.
+9
+10
+SECTION 6. This act shall become effective November 1, 2026.
+10
+11
+11
+12
+60-2-2996 EB 1/6/2026 3:38:51 PM
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+Req. No. 2996 Page 14
