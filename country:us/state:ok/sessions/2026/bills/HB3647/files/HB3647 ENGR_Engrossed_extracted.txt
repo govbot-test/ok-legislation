@@ -1,0 +1,556 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 ENGR OSSED HOUSE
+BILL NO. 3647 By: Stinson, Archer, and Newton
+2 of the House
+3 and
+4 Rosino of the Senate
+5
+6
+7 [ health information - Oklahoma Health Care
+8 Transparency Initiative Act of 2026 - Office of the
+9 State Coordinator for Health Information Exchange -
+10 powers and duties of the Office - state-designated
+11 entity for health information exchange –
+12 requirement – exemptions - Oklahoma Health Care
+13 Transparency Initiative - governance and oversight
+14 – compliance - public health data - unique
+15 identifier - confidentiality, privacy, and security
+16 of data – penalties - remittance or mitigation of
+17 penalties - Insurance Department - proceeds -
+18 Oklahoma Health Care Authority - allowed uses of
+19 funds - Health Care Cost Transparency Board -
+20 Oklahoma Open Records Act – codification ]
+21
+22
+23
+24
+ENGR. H. B. NO. 3647 Page 1
+
+1 BE I T ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+2 SECTION 1. NEW LAW A new section of law to be codified
+3 in the Oklahoma Statutes as Section 1-134.1 of Title 63, unless
+4 there is created a duplication in numbering, reads as follows:
+5 Sections 4 through 7 of this act shall be known and may be cited
+6 as the "Oklahoma Health Care Transparency Initiative Act of 2026".
+7 SECTION 2. AMENDATORY Section 1, Chapter 250, O.S.L.
+8 2022 (63 O.S. Supp. 2025, Section 1-132.1), is amended to read as
+9 follows:
+10 Section 1-132.1. A. There is hereby created the Office of the
+11 State Coordinator for Health Information Exchange within the
+12 Oklahoma Health Care Authority.
+13 B. The Office shall have the power and duty to oversee:
+14 1. Oversee the designation of the state-designated entity for
+15 health information exchange, as described under Section 1-133 of
+16 Title 63 of the Oklahoma Statutes this title; and
+17 2. Oversee the enforcement of the Oklahoma Health Care
+18 Transparency Initiative.
+19 C. The Office shall consist of the State Coordinator for Health
+20 Information Exchange, who shall be appointed by and serve at the
+21 pleasure of the Administrator of the Authority, and such other
+22 employees of the Authority as the Administrator may assign to the
+23 Office.
+24
+ENGR. H. B. NO. 3647 Page 2
+
+1 SECTION 3. AMENDATORY 63 O.S. 2021, Section 1-133, as
+2 last amended by Section 1, Chapter 243, O.S.L. 2024 (63 O.S. Supp.
+3 2025, Section 1-133), is amended to read as follows:
+4 Section 1-133. A. As used in this section:
+5 1. "Health information exchange" means the electronic movement
+6 of health-related information among organizations according to
+7 nationally recognized standards for purposes including, but not
+8 limited to, payment, treatment, and administration operations; and
+9 2. "Health information exchange organization" means an entity
+10 whose primary business activity is health information exchange and
+11 which is governed by its stakeholders.
+12 B. The State of Oklahoma:
+13 1. Shall shall designate a health information exchange
+14 organization as the state-designated entity for health information
+15 exchange;
+16 2. Shall establish a transition plan to ensure continued
+17 operation of the health information exchange; and
+18 3. May temporarily serve as the state-designated entity as part
+19 of the transition plan described in paragraph 2 of this subsection.
+20 C. Beginning July 1, 2023, all All health care providers as
+21 defined by the rules promulgated by the Oklahoma Health Care
+22 Authority Board and who are licensed by and located in this state
+23 may report data to and utilize the state-designated entity. The
+24 Office of the State Coordinator for Health Information Exchange may,
+ENGR. H. B. NO. 3647 Page 3
+
+1 as p rovided by rules promulgated by the Board, allow exemptions from
+2 the requirement provided by this subsection on the basis of
+3 financial hardship, size, or technological capability of a health
+4 care provider or such other bases as may be provided by rules
+5 promulgated by the Board. The Office of the State Coordinator for
+6 Health Information Exchange shall begin implementation of this
+7 program on or before July 1, 2027.
+8 D. 1. A person who participates in the services or information
+9 provided by the state-designated entity shall not be liable in any
+10 action for damages or costs of any nature that result solely from
+11 the person's use or failure to use information or data from the
+12 state-designated entity that was entered or retrieved under relevant
+13 state or federal privacy laws, rules, regulations, or policies
+14 including, but not limited to, the Health Insurance Portability and
+15 Accountability Act of 1996.
+16 2. A person shall not be subject to antitrust or unfair
+17 competition liability based on participation with the state-
+18 designated entity as long as the participation provides an essential
+19 governmental function for the public health and safety and enjoys
+20 state action immunity.
+21 E. A person who provides information and data to the state-
+22 designated entity retains a property right in the information or
+23 data, but grants to the other participants or subscribers a
+24 nonexclusive license to retrieve and use that information or data
+ENGR. H. B. NO. 3647 Page 4
+
+1 unde r relevant state or federal privacy laws, rules, regulations, or
+2 policies including, but not limited to, the Health Insurance
+3 Portability and Accountability Act of 1996.
+4 F. E. Patient-specific protected health information shall only
+5 be disclosed in compliance with relevant state or federal privacy
+6 laws, rules, regulations, or policies including, but not limited to,
+7 the Health Insurance Portability and Accountability Act of 1996.
+8 G. F. The Oklahoma Health Care Authority Board shall promulgate
+9 rules to implement the provisions of this section.
+10 SECTION 4. NEW LAW A new section of law to be codified
+11 in the Oklahoma Statutes as Section 1-134.2 of Title 63, unless
+12 there is created a duplication in numbering, reads as follows:
+13 As used in the Oklahoma Health Care Transparency Initiative Act
+14 of 2026:
+15 1. "Board" means the Oklahoma Health Care Authority Board;
+16 2. "Claims data" means information, including protected health
+17 information, included in an institutional, professional, or pharmacy
+18 claim or equivalent information transaction for a covered individual
+19 including the amount paid to a provider of health care services plus
+20 any amount owed by the covered individual;
+21 3. "Covered individual" means a natural person who is a
+22 resident of this state and is eligible to receive medical, dental,
+23 or pharmaceutical benefits under any policy, contract, certificate,
+24
+ENGR. H. B. NO. 3647 Page 5
+
+1 evid ence of coverage, rider, binder, or endorsement that provides
+2 for or describes coverage;
+3 4. "Direct personal identifiers" means the identifiers of
+4 covered individuals listed in 45 C.F.R., Section 164.514(b)(2) that
+5 shall be removed in order for protected health information to be
+6 considered de-identified under the Health Insurance Portability and
+7 Accountability Act of 1996, such as the individual's name, street
+8 address, email address, telephone number, or Social Security number.
+9 Direct personal identifiers include geographic or demographic
+10 information that would allow the identification of a covered
+11 individual;
+12 5. "Enrollment data" means demographic information and other
+13 identifying information related to covered individuals, including
+14 direct personal identifiers and protected health information;
+15 6. "Health plan" has the same meaning as defined in Section
+16 6060.4 of Title 36 of the Oklahoma Statutes;
+17 7. "HIPAA" means the Health Insurance Portability and
+18 Accountability Act of 1996, Pub. L. No. 104-191, and its
+19 implementing regulations set forth in 45 C.F.R., Parts 160, 162, and
+20 164;
+21 8. "Limited data set" means the definition set forth in 45
+22 C.F.R., Section 164.514(e)(2);
+23
+24
+ENGR. H. B. NO. 3647 Page 6
+
+1 9. "Office" means the Office of the State Coordinator for
+2 Health Information Exchange created under Section 1-132.1 of Title
+3 63 of the Oklahoma Statutes;
+4 10. "Oklahoma Health Care Transparency Initiative" means an
+5 initiative to create a database, including ongoing all-payer claims
+6 database projects that receive and store data from a submitting
+7 entity relating to medical, dental, pharmaceutical, and other
+8 insurance claims information, unique identifiers, and geographic and
+9 demographic information for covered individuals as permitted in the
+10 Oklahoma Health Care Transparency Initiative Act of 2026, and
+11 provider files, for the purpose of implementing the Oklahoma Health
+12 Care Transparency Initiative Act of 2026;
+13 11. "Protected health information" means the same as defined by
+14 the Health Insurance Portability and Accountability Act of 1996,
+15 Pub. L. No. 104-191, including 45 C.F.R., Section 160.103;
+16 12. "Provider" means "health care provider" as defined by
+17 HIPAA, including 45 C.F.R., Section 160.103, licensed by the state
+18 to provide health care services;
+19 13. "State-designated entity for health information exchange"
+20 or "state-designated entity" means the health information exchange
+21 organization designated by the State of Oklahoma as the state-
+22 designated entity for health information exchange under Section 1-
+23 133 of Title 63 of the Oklahoma Statutes;
+24 14. a. "Submitting entity" means:
+ENGR. H. B. NO. 3647 Page 7
+
+1 (1) an entity that provides health or dental
+2 insurance or a health or dental benefit plan in
+3 this state, including, but not limited to, an
+4 insurance company, medical services plan, managed
+5 care organization, hospital plan, hospital
+6 medical service corporation, health maintenance
+7 organization, fraternal benefit society, or other
+8 health plan, provided that the entity has covered
+9 individuals and the entity had at least two
+10 thousand covered individuals in the previous
+11 calendar year,
+12 (2) a health benefit plan offered or administered by
+13 or on behalf of the state or an agency or
+14 instrumentality of the state, including, but not
+15 limited to, benefits administered by a managed
+16 care organization, notwithstanding the number of
+17 covered individuals in the previous year,
+18 (3) a health benefit plan offered or administered by
+19 or on behalf of the federal government with the
+20 agreement of the federal government,
+21 (4) any other entity providing a plan of health
+22 insurance or health benefits subject to state
+23 insurance regulation, or a third-party
+24 administrator; provided, that the entity has
+ENGR. H. B. NO. 3647 Page 8
+
+1 covered individuals and the entity had at least
+2 two thousand covered individuals in the previous
+3 calendar year,
+4 (5) a health benefit plan subject to the Employee
+5 Retirement Income Security Act of 1974, Pub. L.
+6 No. 93-406, and that is fully insured,
+7 (6) a risk-based provider organization licensed by
+8 the Insurance Department,
+9 (7) any entity that contracts with the Department of
+10 Corrections to provide medical, dental, or
+11 pharmaceutical care to inmates, and
+12 (8) a pharmacy benefits manager, and
+13 b. A submitting entity shall not include:
+14 (1) an entity that provides health insurance or a
+15 health benefit plan that is accident-only,
+16 specified disease, hospital indemnity, long-term
+17 care, disability income, or other supplemental
+18 benefit coverage,
+19 (2) an employee of a welfare benefit plan as defined
+20 by federal law that is also a trust established
+21 pursuant to collective bargaining subject to the
+22 Labor Management Relations Act of 1947, Pub. L.
+23 No. 80-101, or
+24
+ENGR. H. B. NO. 3647 Page 9
+
+1 (3) a Medicare supplemental policy as defined by 42
+2 C.F.R., Section 403.205; and
+3 15. "Unique identifier" means any identifier that is guaranteed
+4 to be unique among all identifiers for covered individuals but does
+5 not include direct personal identifiers and meets the requirements
+6 of 45 C.F.R., Section 164.514(c).
+7 SECTION 5. NEW LAW A new section of law to be codified
+8 in the Oklahoma Statutes as Section 1-134.3 of Title 63, unless
+9 there is created a duplication in numbering, reads as follows:
+10 A. Beginning July 1, 2027, there is hereby created the Oklahoma
+11 Health Care Transparency Initiative. The initiative shall be
+12 governed by the state-designated entity for health information
+13 exchange and enforced by the Office of the State Coordinator for
+14 Health Information Exchange.
+15 B. Beginning on a date determined by the Oklahoma Health Care
+16 Authority Board, and thereafter in a frequency specified in rules
+17 promulgated by the Board, a submitting entity shall submit claims
+18 data, unique identifiers, and geographic and demographic information
+19 for covered individuals as permitted in the Oklahoma Health Care
+20 Transparency Initiative Act of 2026, and provider files to the
+21 state-designated entity for health information exchange in
+22 accordance with standards and procedures promulgated by the Board
+23 and in accordance with the data governance policies established by
+24
+ENGR. H. B. NO. 3647 Page 10
+
+1 the state-designated entity. The Office shall begin implementation
+2 of the requirements of this subsection on or before July 1, 2027.
+3 C. 1. A health benefit plan, person, or entity excluded from
+4 the definition of submitting entity as provided by Section 4 of this
+5 act shall not be subject to the requirements of subsection B of this
+6 section, but may voluntarily submit claims data, unique identifiers,
+7 and geographic and demographic information for covered individuals
+8 as permitted in the Oklahoma Health Care Transparency Initiative Act
+9 of 2026, and provider files to the state-designated entity in
+10 accordance with standards and procedures promulgated by the Board.
+11 2. To the extent the excluded health benefit plan, person, or
+12 entity voluntarily submits data described in this subsection to the
+13 state-designated entity, the health benefit plan, person, or entity
+14 shall comply with all requirements of the Oklahoma Health Care
+15 Transparency Initiative Act of 2026, other than subsection B of this
+16 section, including, but not limited to, compliance with applicable
+17 state and federal data privacy and security laws.
+18 D. 1. The State Department of Health shall submit all public
+19 health data and vital statistics data collected by the Department
+20 under Title 63 of the Oklahoma Statutes to the state-designated
+21 entity for integration into the Oklahoma Health Care Transparency
+22 Initiative database created under this section including, but not
+23 limited to, data collected regarding hospital discharge and
+24
+ENGR. H. B. NO. 3647 Page 11
+
+1 emer gency department records for the uninsured, birth and death
+2 records, and disease registry data.
+3 2. The data submitted under paragraph 1 of this subsection
+4 shall be assigned a unique identifier and may be used in accordance
+5 with the Oklahoma Health Care Transparency Initiative Act of 2026.
+6 SECTION 6. NEW LAW A new section of law to be codified
+7 in the Oklahoma Statutes as Section 1-134.4 of Title 63, unless
+8 there is created a duplication in numbering, reads as follows:
+9 A. Data and other information submitted under Section 5 of this
+10 act shall be treated as confidential and shall be exempt from
+11 disclosure as a record under the Oklahoma Open Records Act as
+12 defined in Section 24A.3 of Title 51 of the Oklahoma Statutes and
+13 are not subject to subpoena except to the extent provided in the
+14 Oklahoma Insurance Code.
+15 B. Data and other information submitted under Section 5 of this
+16 act may only be collected, stored, used, disclosed, or released in
+17 compliance with applicable state and federal data privacy and
+18 security law and data governance policies established by the state-
+19 designated entity for health information exchange, and where such
+20 data or other information constitute protected health information,
+21 in compliance with the Health Insurance Portability and
+22 Accountability Act (HIPAA).
+23 C. Data and other information in the Oklahoma Health Care
+24 Transparency Initiative may, to the extent consistent with data
+ENGR. H. B. NO. 3647 Page 12
+
+1 gove rnance policies established by the state-designated entity, be
+2 available:
+3 1. When disclosed in a form and manner that ensures the privacy
+4 and security of protected health information as required by state
+5 and federal laws, as a resource to insurers, employers, purchasers
+6 of health care, researchers, state agencies, and health care
+7 providers to allow for assessment of health care utilization,
+8 expenditures, and performance in this state, including, but not
+9 limited to, as a resource for hospital community health needs
+10 assessments; and
+11 2. To state programs regarding health care quality and costs
+12 for use in improving health care in the state, subject to state and
+13 federal privacy laws or limiting access to limited data sets.
+14 D. Data and other information in the Oklahoma Health Care
+15 Transparency Initiative shall not be used to disclose trade secrets
+16 of submitting entities.
+17 E. Notwithstanding any other section of law, the Oklahoma
+18 Health Care Transparency Initiative shall not be used to publicly
+19 disclose any data or other information that contains direct personal
+20 identifiers or that is reasonably likely to identify a covered
+21 individual when combined with other available information.
+22 F. The Oklahoma Health Care Transparency Initiative Act of 2026
+23 shall not be construed to supersede, limit, amend, or abrogate any
+24
+ENGR. H. B. NO. 3647 Page 13
+
+1 data privacy or security law, rule, or policy and shall be
+2 implemented in a manner consistent with HIPAA.
+3 SECTION 7. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 1-134.5 of Title 63, unless
+5 there is created a duplication in numbering, reads as follows:
+6 A. Except for state or federal agencies that are submitting
+7 entities, a submitting entity that fails to submit data as required
+8 by the Oklahoma Health Care Transparency Initiative Act of 2026 or
+9 the rules promulgated by the Oklahoma Health Care Authority Board
+10 may be subject to a fine assessed by the Insurance Department.
+11 B. The Insurance Commissioner shall adopt a schedule of fines
+12 not to exceed One Thousand Dollars ($1,000.00) per day for each day
+13 the violation occurs, to be determined by the severity of the
+14 violation.
+15 C. A fine assessed under this section may be remitted or
+16 mitigated upon such terms and conditions as the Insurance
+17 Commissioner considers proper and consistent with public health and
+18 safety.
+19 D. Of the proceeds from fines remitted under this section, the
+20 Insurance Department shall retain a portion of such proceeds
+21 necessary to cover the cost to the Department of administering the
+22 assessment and collection of such fines, and the Department shall
+23 remit the remainder of the proceeds to the Oklahoma Health Care
+24 Authority. The Authority may only use proceeds from fines assessed
+ENGR. H. B. NO. 3647 Page 14
+
+1 unde r this section to fund operations of the Oklahoma Health Care
+2 Transparency Initiative.
+3 SECTION 8. NEW LAW A new section of law to be codified
+4 in the Oklahoma Statutes as Section 6575 of Title 36, unless there
+5 is created a duplication in numbering, reads as follows:
+6 A. There is hereby created within the Oklahoma Insurance
+7 Department, the Health Care Cost Transparency Board.
+8 B. The Board shall utilize information derived from the All-
+9 Payor Claims Database established pursuant to the Oklahoma Health
+10 Care Transparency Initiative to evaluate statewide health care
+11 spending trends, utilization patterns, and cost growth across payer
+12 types operating in this state.
+13 C. The Health Care Cost Transparency Board shall consist of
+14 sixteen (16) members, as follows:
+15 1. The Insurance Commissioner, or designee, who shall serve as
+16 chair;
+17 2. The Chief Executive Officer of the Oklahoma Health Care
+18 Authority, or designee;
+19 3. The Commissioner of the State Department of Health, or
+20 designee;
+21 4. One representative of a licensed commercial health insurer,
+22 appointed by the Insurance Commissioner;
+23 5. One representative of employers or large purchasers of
+24 health care, appointed by the Governor;
+ENGR. H. B. NO. 3647 Page 15
+
+1 6. One representative of a hospital or health system, appointed
+2 by the Oklahoma Hospital Association;
+3 7. One representative of a rural health organization, appointed
+4 by the Health Care Workforce Training Commission;
+5 8. One representative recommended by the Oklahoma Academy of
+6 Family Physicians;
+7 9. One representative recommended by the Oklahoma Chapter of
+8 the American Academy of Pediatrics;
+9 10. One independent primary care provider practicing in
+10 Oklahoma;
+11 11. One consumer advocate, appointed by the Governor;
+12 12. One health care economist or data analytics expert,
+13 appointed by the Speaker of the Oklahoma House of Representatives;
+14 13. One member appointed by the President Pro Tempore of the
+15 Oklahoma State Senate;
+16 14. One representative recommended by the Oklahoma Primary Care
+17 Association;
+18 15. One representative recommended by the Oklahoma Osteopathic
+19 Association; and
+20 16. One representative recommended by the state-designated
+21 entity and serving as an active director of the state-designated
+22 entity Board.
+23 D. Members appointed to the Board shall serve three-year
+24 staggered terms and may be reappointed.
+ENGR. H. B. NO. 3647 Page 16
+
+1 E. The Board shall meet at least quarterly and may establish
+2 advisory or technical committees as necessary.
+3 F. The Health Care Cost Transparency Board shall analyze data
+4 derived from the All-Payer Claims Database established pursuant to
+5 this act to:
+6 1. Evaluate statewide health care spending and utilization
+7 patterns;
+8 2. Monitor health care cost growth across payer types;
+9 3. Measure the share of total health care expenditures
+10 allocated to primary care services; and
+11 4. Provide recommendations to the Governor and the Legislature
+12 regarding policies to improve health care affordability,
+13 transparency, and investment in primary care.
+14 G. The Health Care Cost Transparency Board shall work
+15 collaboratively with the state-designated entity to establish the
+16 parameters and definitions used to measure primary care expenditures
+17 in this state.
+18 H. The All-Payer Claims Database established pursuant to the
+19 Oklahoma Health Care Transparency Initiative shall measure statewide
+20 primary care spending using the parameters established by the Board
+21 in collaboration with the state-designated entity.
+22 I. For purposes of measuring primary care expenditures pursuant
+23 to this section, “primary care services” shall be defined using
+24 nationally recognized definitions of primary care spending
+ENGR. H. B. NO. 3647 Page 17
+
+1 meas urement, including but not limited to those utilized by the
+2 Centers for Medicare and Medicaid Services and the Primary Care
+3 Collaborative. The Board may further refine such definitions by
+4 rule provided that such refinements remain consistent with
+5 nationally recognized standards.
+6 J. The Health Care Cost Transparency Board shall submit an
+7 annual report to the:
+8 1. Governor;
+9 2. President Pro Tempore of the Senate; and
+10 3. Speaker of the House of Representatives.
+11 K. The report shall summarize:
+12 1. Statewide health care spending trends;
+13 2. The share of total health care expenditures allocated to
+14 primary care services;
+15 3. Health care cost growth across payer types; and
+16 4. Policy recommendations to improve health care affordability,
+17 transparency, and primary care investment.
+18 L. The first report of the Health Care Cost Transparency Board
+19 shall be due on or before December 1, 2027, and annually thereafter.
+20 SECTION 9. AMENDATORY 51 O.S. 2021, Section 24A.3, as
+21 last amended by Section 1, Chapter 404, O.S.L. 2025 (51 O.S. Supp.
+22 2025, Section 24A.3), is amended to read as follows:
+23 Section 24A.3. As used in the Oklahoma Open Records Act:
+24
+ENGR. H. B. NO. 3647 Page 18
+
+1 1. "Record" means all documents including, but not limited to,
+2 any book, paper, photograph, microfilm, data files created by or
+3 used with computer software, computer tape, disk, record, sound
+4 recording, film recording, video record or other material regardless
+5 of physical form or characteristic, created by, received by, under
+6 the authority of, or coming into the custody, control or possession
+7 of public officials, public bodies or their representatives in
+8 connection with the transaction of public business, the expenditure
+9 of public funds or the administering of public property. Record
+10 shall also mean applications and other documents related to
+11 licensure matters that are filed of record in a district court,
+12 including, but not limited to, marriage licenses, process server
+13 licenses, closing out sale licenses, transient merchant licenses,
+14 pool hall licenses, and bail bondsmen registration. Record does not
+15 mean:
+16 a. computer software, or
+17 b. nongovernment personal effects, or
+18 c. data or other information submitted to the state-
+19 designated entity for health information exchange
+20 under Section 1-133 of Title 63 of the Oklahoma
+21 Statutes or under the Oklahoma Health Care
+22 Transparency Initiative Act of 2026;
+23 2. "Public body" shall include, but not be limited to, any
+24 office, department, board, bureau, commission, agency, trusteeship,
+ENGR. H. B. NO. 3647 Page 19
+
+1 auth ority, council, committee, trust or any entity created by a
+2 trust, county, city, village, town, township, district, school
+3 district, fair board, court, executive office, advisory group, task
+4 force, study group or any subdivision thereof, supported in whole or
+5 in part by public funds or entrusted with the expenditure of public
+6 funds or administering or operating public property, and all
+7 committees, or subcommittees thereof. Except for the records
+8 required by Section 24A.4 of this title, public body does not mean
+9 judges, justices, the Council on Judicial Complaints, the
+10 Legislature or legislators. Public body shall not include an
+11 organization that is exempt from federal income tax under Section
+12 501(c)(3) of the Internal Revenue Code of 1986, as amended, and
+13 whose sole beneficiary is a college or university, or an affiliated
+14 entity of the college or university, that is a member of The
+15 Oklahoma State System of Higher Education. Such organization shall
+16 not receive direct appropriations from the Legislature. The
+17 following persons shall not be eligible to serve as a voting member
+18 of the governing board of the organization:
+19 a. a member, officer, or employee of the Oklahoma State
+20 Regents for Higher Education,
+21 b. a member of the board of regents or other governing
+22 board of the college or university that is the sole
+23 beneficiary of the organization, or
+24
+ENGR. H. B. NO. 3647 Page 20
+
+1 c. an officer or employee of the college or university
+2 that is the sole beneficiary of the organization;
+3 3. "Public office" means the physical location where public
+4 bodies conduct business or keep records;
+5 4. "Public official" means any official or employee of any
+6 public body as defined herein; and
+7 5. "Law enforcement agency" means any public body charged with
+8 enforcing state or local criminal laws and initiating criminal
+9 prosecutions including, but not limited to: police departments;
+10 state and local fire marshals when investigating potential
+11 violations of federal, state, or local criminal laws or when acting
+12 on behalf of a law enforcement agency; county sheriffs; the
+13 Department of Public Safety; the Oklahoma State Bureau of Narcotics
+14 and Dangerous Drugs Control; the Alcoholic Beverage Laws Enforcement
+15 Commission; and the Oklahoma State Bureau of Investigation.
+16 Passed the House of Representatives the 25th day of March, 2026.
+17
+18
+Presiding Officer of the House
+19 of Representatives
+20
+21 Passed the Senate the ___ day of __________, 2026.
+22
+23
+Presiding Officer of the Senate
+24
+ENGR. H. B. NO. 3647 Page 21
